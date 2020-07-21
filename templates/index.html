@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 위 3개의 메타 태그는 *반드시* head 태그의 처음에 와야합니다; 어떤 다른 콘텐츠들은 반드시 이 태그들 *다음에* 와야 합니다 -->
+    <title>부트스트랩 101 템플릿</title>
+
+    <!-- 부트스트랩 -->
+    <!-- <link href="/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <!-- IE8 에서 HTML5 요소와 미디어 쿼리를 위한 HTML5 shim 와 Respond.js -->
+    <!-- WARNING: Respond.js 는 당신이 file:// 을 통해 페이지를 볼 때는 동작하지 않습니다. -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <title>info</title>
+</head>
+<body style="padding-top : 70px;" onload="init()">
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Project name</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="viewTest">viewTest</a></li>
+                <li><a href="jsonTest">jsonTest</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+    </div>
+</nav>
+
+<div class="container">
+
+    <div class="center-block row" style="width:80%; background-color : GAINSBORO;">
+        <div id='topWrapper' class="top row">
+            <div class="wordWrapper  col-xs-3" style="width : 22%; margin:2%">
+                <div>
+                    <h3>word :</h3>
+                </div>
+                <div class="wordInputDiv">
+                    <input type="text" id ="wordInput" name="words" size="30" class="form-control">
+                </div>
+            </div>
+
+
+            <div class="GenericPOSInput  col-xs-3" style="width : 22%; margin:1%">
+                <div>
+                    <b>GenericPOS :</b>
+                    <select id="genericPOSInput" class="form-control" size="7">
+                        <option>noun</option>
+                        <option>verb</option>
+                        <option>adj</option>
+                        <option>adv</option>
+                        <option>pron</option>
+                        <option>conj</option>
+                        <option>prep</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="domainPOSInput  col-xs-3" style="width : 22%; margin:1%">
+                <div>
+                    <b>domainPOS :</b>
+                    <select id="domainPOSInput" class="form-control " size="7">
+
+                        <option>nar (airplane)</option>
+                        <option>arc (architecture)</option>
+                        <option>atm (atomic)</option>
+                        <option>ato (auto)</option>
+                        <option>bio (bio)</option>
+                        <option>jco (computer-j)</option>
+                        <option>nco (computer-n)</option>
+                        <option>nee (economy-n)</option>
+                        <option>vee (economy-v)</option>
+                        <option>ind (industry)</option>
+                        <option>med (medical)</option>
+                        <option>tac (military)</option>
+                        <option>pat (patent)</option>
+                        <option>npo (politics)</option>
+                        <option>shp (ship)</option>
+                        <option>nsp (sports-n)</option>
+                        <option>vsp (sports-v)</option>
+                        <option>tel (telecommunication)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="ButtonsWrapper col-xs-3" style="width : 22%; margin:2%">
+                <div class="search">
+                    <input type="button" id="searchButton" style="width : 100%; height : 60px;" value="search">
+                </div>
+                <br>
+                <div class="clear">
+                    <input type="button" id="clearButton"  style="width : 100%; height : 60px;" value="clear">
+                </div>
+            </div>
+
+        </div>
+
+        <div id='bottomWrapper' class='bottom row' style="margin:1%">
+            <div class="dicInfo">
+                <h1 class="text-center">Dictionary Information</h1>
+            </div>
+            <div class="dicInfoDetailsLeft col-xs-6">
+                <textarea class="form-control" id="dicInfoDetailsLeft" style="height : 300px"></textarea>
+            </div>
+            <div class="dicInfoDetailsRight col-xs-6">
+                <textarea class="form-control" id="dicInfoDetailsRight" style="height : 300px"> </textarea>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="alert alert-success" role="alert">Well done! You successfully read this important alert message.</div>
+    <div class="alert alert-info" role="alert">Heads up! This alert needs your attention, but it's not super
+        important.
+    </div>
+    <div class="alert alert-warning" role="alert">Warning! Better check yourself, you're not looking too good.</div>
+    <div class="alert alert-danger" role="alert">Oh snap! Change a few things up and try submitting again.</div>
+</div><!-- /.container -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+
+    <script src="../static/js/jquery-3.4.1.js"></script>
+    <script src="../static/js/download.js"></script>
+    <script src="../static/js/main.js"></script>
+
+
+</body>
+</html>
