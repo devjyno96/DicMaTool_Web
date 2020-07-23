@@ -4,8 +4,15 @@ let dom = {
     domainPOSInput : null,
     searchButton : null,
     clearButton : null,
+
+    updateButton : null,
+    makeGenericDBButton : null,
+    makeDomainDBButton : null,
+
     dicInfoDetailsLeft : null,
-    dicInfoDetailsRight : null
+    dicInfoDetailsRight : null,
+    dicInfoDetails : null
+
 };
 
 /**
@@ -25,8 +32,12 @@ function getDomReferences() {
     dom.domainPOSInput = document.getElementById("domainPOSInput");
     dom.searchButton = document.getElementById("searchButton");
     dom.clearButton = document.getElementById("clearButton");
-    dom.dicInfoDetailsLeft = document.getElementById("dicInfoDetailsLeft");
-    dom.dicInfoDetailsRight = document.getElementById("dicInfoDetailsRight");
+    // dom.dicInfoDetailsLeft = document.getElementById("dicInfoDetailsLeft");
+    // dom.dicInfoDetailsRight = document.getElementById("dicInfoDetailsRight");
+    dom.dicInfoDetails = document.getElementById("dicInfoDetails");
+    dom.updateButton = document.getElementById("updateButton");
+    dom.makeGenericDBButton = document.getElementById("MakeGenericButton");
+    dom.makeDomainDBButton = document.getElementById("MakeDomainButton");
 }
 
 /**
@@ -41,8 +52,9 @@ function onClearButtonClick(){
     dom.wordInput.value = null;
     dom.genericPOSInput.value = null;
     dom.domainPOSInput.value = null;
-    dom.dicInfoDetailsLeft.value = null;
-    dom.dicInfoDetailsRight.value = null;
+    // dom.dicInfoDetailsLeft.value = null;
+    // dom.dicInfoDetailsRight.value = null;
+    dom.dicInfoDetails.value = null;
 }
 //search Button Event
 function onSearchButtonClick(){
@@ -58,8 +70,6 @@ function requestPosTag() {
         generics : dom.genericPOSInput.value,
         domains : dom.domainPOSInput.value
     };
-    if (!loading)
-        alert("error requestPosTag");
 
     $.ajax({
         type: "POST",
@@ -68,9 +78,9 @@ function requestPosTag() {
         dataType:'json' ,
         contentType: "application/json",
         success: function (response) {
-            alert(response.dicInfoLeft + " : "  + response.dicInfoRight );
-            dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
-            dom.dicInfoDetailsRight.value = response.dicInfoRight;
+            dom.dicInfoDetails.value = response.dicInfoDetails;
+            // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
+            //dom.dicInfoDetailsRight.value = response.dicInfoRight;
             // text.posTagged = response.result;
             // dom.dicInfoDetailsLeft.innerHTML = text.posTagged;
 

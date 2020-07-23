@@ -11,7 +11,7 @@ def index():
 @app.route('/postSearch', methods = ['POST'])
 def postSearch():
     search = request.get_json() #json 데이터를 받아옴
-    searchResult = {'dicInfoLeft' : 'left','dicInfoRight' : 'right'}
+    searchResult = {'dicInfoDetails' : 'details'}
     return jsonify(searchResult) # 받아온 데이터를 다시 전송
 
 
