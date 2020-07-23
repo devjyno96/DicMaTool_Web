@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import json
+from manegementPython import TranferDicTool
+
 app = Flask(__name__)
 app.testing = True
 
@@ -11,7 +13,11 @@ def index():
 @app.route('/postSearch', methods = ['POST'])
 def postSearch():
     search = request.get_json() #json 데이터를 받아옴
-    searchResult = {'dicInfoDetails' : 'details'}
+    transfer = TranferDicTool.transferDic()
+    transfer.Search(search)
+
+    result = "result"
+    searchResult = {'dicInfoDetails' : result}
     return jsonify(searchResult) # 받아온 데이터를 다시 전송
 
 
