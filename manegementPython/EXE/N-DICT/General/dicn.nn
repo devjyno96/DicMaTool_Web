@@ -1,0 +1,4576 @@
+"NATO"
+% ORGAN
+(Db\l)
+
+"Namsan"
+% PLACE
+(DbQUbD)
+
+"Namsan Tower"
+% PLACE
+(DbQUbD \bWsf)
+
+"Napoleon"
+% HUMAN
+(Db]lIIgWlW)
+
+"Nasdaq"
+(DbUzGbA)
+
+"National Academy"
+% ORGAN
+(DcUrDfI Wb[bGgQ|)
+# National Academy of Sciences (NOUN) : Q|AsA Alb^bA Wb[bGgQ|
+
+"National Aeronautics"
+% ORGAN
+(DcUrDfI WcIfDl\|AUz)
+# National Aeronautics and Space Administration (NOUN) : NASA
+
+"National Assembly"
+(AsA^l|)
+
+"National Assistance Act"
+(AsAAb RsXlRfR)
+
+"National Association"
+(XfDAsA WjD^bR)
+# National Association for the Advancement of Colored People (NOUN) : XfDAsA WwUcAW|DXlW AcRbI ^jR^l|
+
+"National Bureau"
+(DcUrDfI RwIlWs)
+# National Bureau of Standards (NOUN) : AsAI|R ]rXsDAsA
+
+"National Charter"
+(W|DQ|D ^fDXbW)
+
+"National City"
+(DcUjDfI U|\|)
+
+"National Coalition Against Domestic Violence"
+(AbXfWDc ]lAIjAWg RbDGc^bDzD XfDQ| WjD^bR)
+
+"National Coalition Agaist Sexual Assault"
+(]lA^cWWg RbDGc^bDzD XfDQ| WjD^bR)
+
+"National Convention"
+(AsAQ|D Wz|^l|)
+
+"National Cocenant"
+(AsAQ|D QcWWdA)
+
+"National Guard"
+(XsAsD)
+# National Guard of the United States (NOUN) : ^bRXsWAsA XsRjW
+
+"National Guardsman"
+(XsRjW)
+
+"National Health Service"
+(AsAQ|D AfDAbW Rl^fQ)
+
+"National Highway Traffic Safety Administration"
+(XfDQ| AlUlA GlIl Ar\lW WbDXfD Ws|WsfD^l|)
+
+"National Industrial Recovery Act"
+(Q|AsA UbDWfR Rs^zWRfR)
+
+"National Labor Relation Act"
+(Q|AsA DlGlW AlbDAkRfR)
+
+"National League"
+(DcUjDfI I|Az)
+
+"National Liberation Army"
+(Q|DXlA ^cRbWAsD)
+
+"National Liberation Front"
+(Q|DXlA ^cRbW XfDUfD)
+
+"National Park"
+% PLACE
+(AsAI|R AlWWsfD)
+
+"National Park Service"
+% ORGAN
+(AsAI|R AlWWsfD AlWGbD)
+
+"National People's Congress"
+(XfDAsA W|DQ|D Gc]r Gc^l|)
+
+"National Portrait Gallery"
+(AsAI|R ZlUbW^lb X|DWjIAlbD)
+
+"National Progressive"
+(AsAI|R X|DRl)
+# National Progressive party (NOUN) : X|DRlGbW
+
+"National Recovery Administration"
+(Q|AsA Rs^zWAsA)
+
+"National Rifle Association"
+(XfDQ| IbW|]zIZlW ^jR^l|)
+
+"National Science Foundation"
+(XfDQ| Alb^bA XcGbD)
+
+"National Security Council"
+(AsAAb WbDXfD RlXbW ^l|Wz|)
+
+"National Service"
+(Wz|Qs RjWWjA)
+
+"National Socialism"
+(AsAAb Ub^l|XsWz|)
+
+"National Statistical Office"
+(AsAAb \lWAkZfW)
+
+"National Transportation Safety Board"
+(AsAAb UsUlW WbDXfDWs|WsfD^l|)
+
+"National War Labor Board"
+(AsAAb XfDU| DlGlWAsA)
+
+"National Weather Service"
+(AsAI|R A|UbWAsA)
+
+"Nationalist China"
+% PLACE
+(XsW^lbW|DQ|DAlW^lbAsA)
+
+"Natural Language"
+(XbWjDWfDWf)
+# Natural Language Processing (NOUN) : XbWjDWfDWfZfI|
+
+"Navy"
+(^cAsD)
+
+"Navy SEAL"
+(DgW|R| V|I)
+
+"Navigator"
+(DgR|AgW|\f)
+
+"NBA star"
+(NBA Uz\b)
+
+"Nebraska"
+% ORGAN PLACE
+(DgRzIbUz[b)
+
+"NeoPlatonism"
+% ART
+(U|D]zIIb\lD ZfI^bA)
+
+"Neptune"
+% CONCRETE MATERIAL HUMAN
+(RbGbWz| U|D)
+
+"Net"
+(Dg\z)
+
+"Net Search Page"
+(DgU UfZ| ]gW|X|)
+
+"Netcenter"
+(DgUUgD\f)
+
+"Netcenter Channels"
+(DgUUgD\f ZcDfI)
+
+"Netherlands"
+% PLACE ORGAN
+(DgGgIIbDGz)
+
+"Netscape"
+(DgUUz[gW|]z)
+
+"Netscape Netcenter"
+(DgUUz[gW|]z DgUUgD\f)
+
+"Netscape SuiteSpot"
+(DgUUz[gW|]z Uw\zUz]bU)
+
+"Nevada"
+% MATERIAL PLACE
+(DgRbGb)
+
+"New Hampshire"
+% PLACE ORGAN
+(Dw ^cQ]zUj)
+
+"New Jersey"
+% PLACE ORGAN
+(Dw XfX|)
+
+"New Orleans"
+% PLACE
+(Dw WlII|WfDUz)
+
+"New York"
+% CONCRETE MATERIAL PLACE
+(DwWrA)
+# New York city (NOUN) : DwWrAU|
+
+"New York City"
+% CONCRETE PLACE
+(DwWrAU|)
+
+"New York Stock Exchange"
+(DwWrA XzWAsfD AfIcUl)
+
+"New York Times"
+(DwWrA \bW|QXz)
+
+"New Yorker"
+% HUMAN
+(DwWr[f)
+
+"New Yorkers"
+% HUMAN
+(DwWr[f)
+
+"New Zealand"
+% PLACE ORGAN
+(DwX|IIcDGz)
+
+"New Zealander"
+% HUMAN
+(DwX|IIcDGzW|D)
+
+"New Zealand"
+% CONCRETE MATERIAL PLACE
+(DwX|IIcDGz)
+
+"New Zealander"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DwX|IIcDGz UbIbQ)
+
+"Newgate"
+% PLACE
+(IfDGfDWz| AbQWlA)
+# Newgate frill (NOUN) : \fAQ|\Wg A|IzD UsWjQ
+# Newgate fringe (NOUN) : \fAQ|\Wg A|IzD UsWjQ
+
+"Niagara Falls"
+"New Jersey"
+(DwXfX|)
+
+"Niagara"
+% PLACE
+(DbW|WbAbIb ]lA]l)
+
+"Nicaragua"
+% PLACE ORGAN
+(D|[bIbAsWb)
+
+"Nick"
+% HUMAN
+(D|A)
+
+"Nigeria"
+% MATERIAL PLACE ORGAN
+(DbW|X|I|Wb)
+
+"Nigerian"
+% HUMAN
+(DbW|X|I|WbW|D)
+
+"Nikkei"
+(D|U[gW|)
+
+"Nile"
+% CONCRETE MATERIAL 
+(DbW|I)
+
+"Nina"
+% HUMAN
+(D|Db)
+
+"No."
+(RfD)
+# No (NOUN) : Xg 1 GzW
+# No Downing Street (NOUN) : WjWAsA UsUbW AlbDXf
+# No. NUM1 (NOUN) : [(NMODS NUM1 {+DGTNUM}) RfD<NOUN>]
+
+"Nobel"
+% HUMAN
+(DlRgI)
+# the Nobel prize for peace (NOUN) : DlRgI ]jW^lbUbW
+
+"Nobel Peace Prize"
+(DlRgI ]jW^lbUbW)
+
+"Nobel Prize"
+(DlRgIUbW)
+
+"Noel"
+% TIME
+(DlWgI)
+
+"Nokia"
+% ORGAN
+(Dl[|Wb)
+
+"North"
+(RsAYlA)
+# North America (NOUN) : RsAWbQgI|[b
+# North america (NOUN) : RsAWbQgI|[b
+# North and South (NOUN) : DbQAlb RsA
+
+"North American Free Trade"
+(RsAQ| XbWw QsWjA ^jRXfW)
+
+"North Carolina"
+% PLACE ORGAN
+(DlUz [cIlIIbW|Db)
+
+"North Korea"
+% PLACE ORGAN
+(RsA^bD)
+
+"North Pole"
+% MATERIAL PLACE
+(RsAAzA)
+
+"North Sea"
+% CONCRETE MATERIAL PLACE
+(RsA^c)
+# North Sea of Ksd (NOUN) : Ksd RsA^c
+
+"Northeastern University"
+% ORGAN
+(DlUzW|Uz\fD Gc^bA)
+
+"Norway"
+% PLACE
+(DlIzWsgW|)
+
+"Notre Dame"
+% GEONAME PLACE
+(Dl\zIGbQ)
+# Castle of Notre Dame (NOUN) : Dl\zIGbQWz| UfW
+
+"Nov."
+% CONCRETE TIME MATERIAL 
+(11 WsfI)
+
+"November"
+% CONCRETE TIME MATERIAL 
+(11 WsfI)
+
+
+"n"
+(n)
+
+"n-bomb"
+(XsWUfWXb\bD)
+
+"n-land"
+% PLACE
+(RsAAzA)
+
+"naboth"
+(DbRlU)
+# Naboth's vineyard (NOUN) : BlA AbXAl U|]WzD AfU
+
+"nacarat"
+(Xs^lWUcA)
+
+"nacelle"
+% PLACE
+(WgDX|DU|I)
+
+"nacre"
+(X|DXsZzW)
+
+"naderism"
+% ORGAN
+(UlR|Xb Rl^l WsDGlW)
+
+"nadir"
+% MATERIAL 
+(ZfDXf)
+# at the nadir of A (ADV) : (ADJUNCT [(POSS A/Wz|) Q|\RbGbA<NOUN>]/Wg)
+
+"naevus"
+(XfQ)
+
+"nag"
+% CONCRETE ANIMAL MATERIAL 
+(VzIQl WfRUDzD QbI)
+
+"nag"
+% CONCRETE ANIMAL MATERIAL 
+(XbDUlI|)
+
+"nagana"
+(DfAbDfRjW)
+
+"nagger"
+% HUMAN
+(RbAbX| AzIADzD WjXb)
+
+"nagging"
+(XbDUlI|)
+
+"nahum"
+(Db^sQ)
+
+"naiad"
+% CONCRETE MATERIAL HUMAN
+(QsIWz| WrXfW)
+
+"nail"
+% CONCRETE MATERIAL ANIMAL
+(UlD\lR)
+# ^pare ONE_S nails (VERB) : UlD\lRWzI BbBGb
+# ^cut ONE_S nails (VERB) : UlD\lRWzI BbBGb
+# ^trim ONE_S nails (VERB) : UlD\lRWzI BbBGb
+# a nail in ONE_S coffin (NOUN) : UsQjWWzI XsIW|DzD WsfDW|DW| Gl|DzD AfU
+# a nail to ONE_S coffin (NOUN) : UsQjWWzI XsIW|DzD WsfDW|DW| Gl|DzD AfU
+# ^hit the right nail on the head (VERB) : ^cAU|QWzI Y|IzGb
+# ^hit the nail on the head (VERB) : ^cAU|QWzI Y|IzGb
+# nail clipper (NOUN) : UlD\lRBbBA|
+# on the nail (ADV) : GbWXbWWg
+# to the nail (ADV) : ZfIXf^|
+# to a nail (ADV) : ZfIXf^|
+# ^drive a nail into a board (VERB) : DfISbDX|Wg QlUWzI RbAGb
+# ^hammer a nail into a board (VERB) : DfISbDX|Wg QlUWzI RbAGb
+# ^pull out a nail (VERB) : QlUWzI ScGb
+# ^draw out a nail (VERB) : QlUWzI ScGb
+
+"nail-bitting"
+(UzRAlbDXfAWzIl UlD\lRWzI BcQsIA|)
+
+"nailbrush"
+(UlD\lRUlI)
+
+"nailer"
+% HUMAN
+(QlU XgXlW|D)
+
+"nailery"
+% PLACE
+(QlU XgXlUl)
+
+"nailhead"
+(QlU GcAbI|)
+
+"nailhole"
+(UlD\lR^lQ)
+
+"nailset"
+(QlU RbADzD A|As)
+
+"nailsook"
+(WjIRWzD QsQjW)
+
+"naissance"
+(\cUcW)
+
+"naivete"
+% CONCRETE MATERIAL 
+(ZfDX|DDbDQbD)
+
+"naivety"
+(ZfDX|DDbDQbD)
+
+"nakedness"
+% MATERIAL 
+(RfIAfUsWW|)
+# the nakedness of the land (NOUN) : QsRbWR| UbW\c
+
+"namby-pamby"
+% HUMAN
+(AbQUbWXfAW|D)
+
+"namby-pambyism"
+(X|DbZ|Ag AbQUbWXfAW|Q)
+
+"name"
+% CONCRETE MATERIAL 
+(W|IzQ)
+# bad name (NOUN) : WbAQjW
+# by name (ADV) : W|IzQWzI GcAl
+# by the name of A (ADV) : (ADJUNCT [(AMODS A/IbDzD) W|IzQ<NOUN>]/WzIl)
+# ^call a person names (VERB) : DbQWzI WrA^bGb
+# common name (NOUN) : \lWZ|W
+# ^disgrace ONE_S name (VERB) : AbQsDWzI GfIfR^|Gb
+# family name (NOUN) : UfW
+# ^get ONESELF a name (VERB) : W|IzQWzI DbII|Gb
+# given name (NOUN) : W|IzQ
+# ^have ONE_S name up (VERB) : WwQjW^cX|Gb
+# ^have a name for scenery (VERB) : AjWZ|Ab Xl^A|Il WwQjW^bGb
+# ^have the name for bravery (VERB) : WrWAbQ^bGbAl UlQsDDbGb
+# ^have the name of being brave (VERB) : WrWAbQ^bGbAl UlQsDDbGb
+# last name (NOUN) : UfW
+# official name (NOUN) : AlWU|A QjWZ|W
+# pet name (NOUN) : WcZ|W
+# the great names of history (NOUN) : WjAUbUbWWz| Ws|W|DGzI
+# trade name (NOUN) : UbW]rQjW
+# under the name of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) W|IzQ^b<NOUN>]/Wg)
+
+"name-dropping"
+(W|IzQWzI HbUf W|IzQX|WzD WbW|)
+
+"nameboard"
+(AbD]bD)
+
+"namecalling"
+(WrA^bA|)
+
+"namechild"
+% HUMAN
+(DbQWz| W|IzQWzI HbUf QjWQjWGl|D WbW|)
+
+"namefather"
+% HUMAN
+(W|IzQ X|WfXsD UbIbQ)
+
+"namer"
+% HUMAN
+(QjWQjWXb)
+
+"namesake"
+% HUMAN
+(W|IzQWzI HbD UbIbQ)
+
+"nanism"
+% MATERIAL 
+(WlcUl)
+
+"nankeen"
+(DbW[|W QsQjW)
+
+"nankin"
+(DbW[|W QsQjW)
+
+"nanotechnology"
+(Q|UgAlW^bA)
+
+"nap"
+% CONCRETE MATERIAL 
+(UfDXbQ)
+# little nap (NOUN) : XbQBbDWz| XbQ
+# ^have a nap (VERB) : DbXXbQXbGb
+# ^take a nap (VERB) : DbXXbQXbGb
+
+"nap"
+% CONCRETE MATERIAL 
+([bWbGzDlIW|Wz| W|IXlW)
+
+"napalm"
+(DgW|]bQ\bD)
+
+"nape"
+% MATERIAL ANIMAL
+(QlAGfIQ|)
+
+"napery"
+(U|A\bAWrW ^z|D Rl)
+
+"naphtha"
+% MATERIAL 
+(Db]z\b)
+
+"naphthalene"
+(Db]z\bII|D)
+
+"naphthaline"
+(Db]z\bII|D)
+
+"naphthol"
+(Db]z\lI)
+
+"napkin"
+% CONCRETE MATERIAL 
+(DcR[|D)
+# ^hide in a napkin (VERB) : VzX| WbD^Al AbDX|A^c GsGb
+# ^lay up in a napkin (VERB) : VzX| WbD^Al AbDX|A^c GsGb
+# ^wrap in a napkin (VERB) : VzX| WbD^Al AbDX|A^c GsGb
+
+"napper"
+% HUMAN
+(XlDzD UbIbQ)
+
+"nappy"
+% CONCRETE ANIMAL MATERIAL 
+(A|XfAs|)
+
+"napu"
+% CONCRETE ANIMAL MATERIAL 
+(AsWDlIs)
+
+"narc"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbWdA AbQU|WsfD)
+
+"narceine"
+(DbIzUgW|D)
+
+"narcissisist"
+% HUMAN
+(XbA| GlZs|Xb)
+
+"narcissism"
+(XbA| GlZs|XzW)
+
+"narcissus"
+(DbIzU|UUz)
+
+"narco"
+% HUMAN
+(QbWdA AbQU|WsfD)
+
+"narcoanalysis"
+(QbZs|RsDUfA)
+
+"narcolepsy"
+(A|QjDRbIXbA)
+
+"narcosis"
+% MATERIAL 
+(QbZs|RfR)
+
+"narcosynthesis"
+(XfWU|DRjW QbZs|WrRfR)
+
+"narcotic"
+% CONCRETE MATERIAL 
+(QbZs|Xg)
+
+"narcotine"
+(DbIz[l\|D)
+
+"narcotism"
+(QbWdAUbWWrW)
+
+"narcotist"
+% HUMAN
+(QbWdA UbWWrWXb)
+
+"narcotization"
+% STATE
+(QbZs|)
+
+"nard"
+% CONCRETE ANIMAL MATERIAL 
+(AbQUlW)
+
+"nares"
+% ANIMAL
+([lUAsQfW)
+
+"narghile"
+% CONCRETE MATERIAL 
+(UsWjD\lW)
+
+"nargile"
+(UsWjD\lW)
+
+"nark"
+% HUMAN
+(AjWZbIWz| Wb]XbRW|)
+
+"narratage"
+(DbIb\bWbXz)
+
+"narration"
+% CONCRETE MATERIAL ACTION
+(UfUsI)
+# direct narration (NOUN) : X|AXfR ^lbRfR
+# indirect narration (NOUN) : AbDXfR ^lbRfR
+
+"narrative"
+% CONCRETE MATERIAL 
+(W|WdA|)
+
+"narrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbIgW|\f)
+
+"narrow-minedness"
+(]jD^jR)
+
+"narrowcasting"
+(WwUfD \gIIgR|XfD RbWUlW)
+
+"narwal"
+% CONCRETE ANIMAL MATERIAL 
+(W|IAbAAlIc)
+
+"narwhal"
+% CONCRETE ANIMAL MATERIAL 
+(W|IAbAAlIc)
+
+"narwhale"
+% CONCRETE ANIMAL MATERIAL 
+(W|IAbAAlIc)
+
+"nasal"
+% CONCRETE MATERIAL 
+(R|WzQ)
+
+"nasalism"
+(R|WzQUfW)
+
+"nasality"
+(R|WzQUfW)
+
+"nasalization"
+(R|WzQ^lb)
+
+"nascence"
+(RbIUcW)
+
+"nascency"
+(RbIUcW)
+
+"nasdaq"
+(DbUzGbA)
+
+"nasitis"
+(R|WjQ)
+
+"nastiness"
+% CONCRETE MATERIAL 
+(GfIfWsQ)
+
+"nasturtium"
+% CONCRETE MATERIAL 
+(^bDIjD)
+
+"natality"
+(ZsIUcW)
+
+"natation"
+(UsWjW)
+
+"natator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsWjW UfDUs)
+
+"natatorium"
+% CONCRETE ANIMAL MATERIAL 
+(UsWjWXbW)
+
+"nates"
+% ANIMAL
+(AsWGsWW|)
+
+"nation"
+% MATERIAL PLACE ORGAN
+(AsAAb)
+# aid providing nation (NOUN) : UsXlAsA
+# ^appeal to the nation (VERB) : AsAQ|DWgAg ^lUl^bGb
+# developing nation (NOUN) : AcRbIGlUbWAsA
+# farm-exporting nation (NOUN) : DlWUbDQsIUsZsIAsA
+# independent nation (NOUN) : GlAI|RAsAAb
+# member nation (NOUN) : ^l|WsfDAsA
+# nation without a country (NOUN) : DbIb WfRUDzD Q|DXlA
+# the Western nations (NOUN) : UfRbW XgAsA
+# the law of nations (NOUN) : AsAXgRfR
+# the most favored nation (NOUN) : Zl|^kAsA
+# the most favoured nation (NOUN) : Zl|^kAsA
+# the voice of the nation (NOUN) : AsAQ|DWz| UlI|
+# western indestrialized nation (NOUN) : UfRbW UfDX|DAsA
+
+"nation-state"
+% ORGAN
+(GbDW|I Q|DXlA AsAAb)
+
+"nationalism"
+% MATERIAL ART
+(Q|DXlAXsWz|)
+
+"nationalist"
+% HUMAN
+(Q|DXlAXsWz|Xb)
+
+"nationality"
+% MATERIAL 
+(AsAQ|DUfW)
+# men of all nationalities (NOUN) : UgAkAbAAsAWz| UbIbQGzI
+
+"nationalization"
+% MATERIAL 
+(AsAWw)
+
+"nationalizer"
+% HUMAN
+(AsAWw^lb^bDzD UbIbQ)
+
+"nationhood"
+(AsAQ|DWz| U|DRsD)
+
+"native"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsfDXsQ|D)
+
+"nativism"
+% MATERIAL ART
+(WsfDXsQ|D Rl^lXsWz|)
+
+"nativismist"
+% HUMAN
+(WsfDXsQ|D Rl^lXsWz|Xb)
+
+"nativity"
+% MATERIAL 
+(ZsIUcW)
+# ^cast a nativity (VERB) : WsDUsIzI XfQZjRlGb
+# ^calculate a nativity (VERB) : WsDUsIzI XfQZjRlGb
+
+"natrium"
+(Db\zIwQ)
+
+"natron"
+(ZfDWjD \bDUbD UlWlGb)
+
+"nattiness"
+(UbDHzU^bQ)
+
+"natural"
+(XbWjDXfAW|D AfU)
+
+"naturalism"
+% ART
+(XbWjDXsWz|)
+
+"naturalist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbWjDXsWz|Xb)
+
+"naturalization"
+% MATERIAL ACTION
+(As|^lb)
+
+"nature"
+% CONCRETE MATERIAL 
+(XbWjD)
+
+# against nature | (ADJ PP->ADV) : 1) RsXbWjDUzIfRGb
+			           2) RsXbWjDUzIfRAg
+# all nature (NOUN) : QbDQsI
+# by nature | (PP->ADV) : UfDZfDXfAWzIl
+# contrary to nature (ADV) : A|XfAXfAWzIl
+# human nature (NOUN) : W|DAbD RlDUfW
+
+# in the course of nature (PP->ADV) : XbWjDWz| UsDI|GcIl
+# in the nature of things (PP->ADV) : XbWjDWz| UsDI|GcIl
+# in the state of nature (PP->ADV) : XbWjDGcIlWz| UbW\cIl
+# nature of A (NOUN) : [(POSS A/Wz|) RlDX|I<NOUN>]
+# the laws of nature (NOUN) : XbWjDWz| RfRZ|A
+# true nature (NOUN) : RlDUfW
+# true to nature (ADV) : U|IQsI AzGcIl
+
+"naturism"
+% ART
+(XbWjDXsWz|)
+
+"naturismist"
+% ART
+(XbWjDXsWz|)
+
+"naturopath"
+% HUMAN
+(XbWjDWrRfRAb)
+
+"naturopathy"
+(XbWjDWrRfR)
+
+"naught"
+% CONCRETE MATERIAL 
+(WjW)
+# all for naught (ADV) : AlWWjD^|
+# bring to naught (VERB) : QbWZjDl^Gb
+# ^care naught for A (VERB) : [(OBJ A/WzI) (MODS [XlAzQGl<ADV>]) AcWz|Z| WbD^<VERB>]/Gb
+# ^come to naught (VERB) : Qs^rAb Gl|Gb
+# ^set at naught (VERB) : QsU|^bGb
+
+"nausea"
+% MATERIAL 
+(AsWjAX|I)
+# ^feel nausea (NOUN) : QgUzBfRGb
+
+"nautch"
+(ZsQ)
+
+"nautilus"
+% CONCRETE ANIMAL MATERIAL 
+(WcWQsXlAc)
+
+"navaho"
+% HUMAN
+(DbRb^lXlA)
+
+"navajo"
+% HUMAN
+(DbRb^lXlA)
+
+"nave"
+% CONCRETE ANIMAL MATERIAL 
+(Rb[s|\lW)
+
+"nave"
+% CONCRETE ANIMAL MATERIAL 
+(RlDGbW)
+
+"navel"
+% MATERIAL ANIMAL
+(RcBlR)
+# navel cord (NOUN) : \cUXsI
+# navel string (NOUN) : \cUXsI
+
+"navicert"
+(RlWUlc^cWjA \lWAlbXzW)
+
+"navigability"
+(^bW^cW^bI Us W|VWzQ)
+
+"navigation"
+% MATERIAL ACTION
+(^bW^c)
+# aerial navigation (NOUN) : ^bWAlW
+# navigation acts (NOUN) : ^bW^cXlIk
+# navigation laws (NOUN) : RfR
+# navigation light (NOUN) : ]rX|GzW
+# navigation satellite (NOUN) : ^bW^cWs|UfW
+
+"navigator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bW^cXb)
+
+"navvy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\lWjAAsD)
+# mere navvy's work (NOUN) : WwAZg DlGlW
+# ^work like a navvy (VERB) : WcVfUf ^bGb
+
+"navy"
+% CONCRETE MATERIAL HUMAN ANIMAL ORGAN
+(^cAsD)
+# navy bill (NOUN) : ^cAsD AsD]r
+# navy blue (NOUN) : AlDUcA
+# Navy Cross (NOUN) : ^cAsD QsAlW ^sDXbW
+# navy cut (NOUN) : UbIGbQRc
+# Navy Department (NOUN) : ^cAsDUfW
+# Navy League (NOUN) : ^cAsD ^jR^l|
+# navy list (NOUN) : ^cAsD WrIbQ
+# navy register (NOUN) : ^cAsD WrIbQ
+# navy yard (NOUN) : ^cAsD XlUfDUl
+# Royal Navy (NOUN) : WjWAsA ^cAsD
+# Secretary of the Navy (NOUN) : ^cAsD XbWAlbD
+
+"nawab"
+% HUMAN
+(W|DGl \lWZ|Xb)
+
+"nay"
+% CONCRETE MATERIAL ACTION
+(WbD|)
+# ^say a person nay (VERB) : RsW|D^bGb
+# yea and nay (NOUN) : QbWUfIW|Q
+# the yeas and nays (NOUN) : ZbDRs
+# will not ^take nay (VERB) : AfXfIWzI QlU^bAg ^bGb
+
+"naysay"
+% ACTION
+(AfXfI)
+
+"nazarene"
+% HUMAN
+(DbUbIgU UbIbQ)
+
+"nazarite"
+% HUMAN
+(DbUbIgU UbIbQ)
+
+"naze"
+(AbR)
+
+"nazi"
+% ORGAN
+(DbZ|)
+
+"nazification"
+(DbY|^lb)
+
+"nazir"
+% HUMAN
+(Xc]bDAlbDWz| Z|W^l)
+
+"nazism"
+% ART
+(DbY|XsWz|)
+
+"ne`er-do-weel"
+% HUMAN
+(VzIQl WfRUDzD UbIbQ)
+
+"ne`er-do-well"
+% HUMAN
+(VzIQl WfRUDzD UbIbQ)
+
+"neap"
+(UlXl)
+
+"neapolitan"
+% HUMAN
+(Db]lII| UbIbQ)
+
+"near-miss"
+(AzDXfR XfAXsW)
+
+"nearness"
+% CONCRETE MATERIAL 
+(AbBbWsQ)
+
+"nearside"
+(AbBbWsD YlA)
+# ^mount horses on the nearside (VERB) : QbIWzI Wl|DYlAWgUf \bGb
+
+"neat"
+(ZsAWs)
+
+"neat-handedness"
+(UlQV|W|VWzQ)
+
+"neatherd"
+% HUMAN
+(UlZ|DzD UbIbQ)
+
+"neatness"
+% CONCRETE MATERIAL 
+(QbIVsA^bQ)
+
+"neb"
+% CONCRETE MATERIAL 
+(RsI|)
+
+"nebraskan"
+% HUMAN
+(DgRzIbUz[bXsW|D)
+
+"nebula"
+% MATERIAL 
+(UfWWsD)
+
+"nebulosity"
+(UfWWsD UbW\c)
+
+"necessarian"
+% HUMAN
+(]|IWjDIlDXb)
+
+"necessary"
+(]|IUs]sQ)
+# household necessaries (NOUN) : AbXfWWrW]sQ
+# the necessaries of life (NOUN) : UcW^lbI ]|IUs]sQ
+# daily necessaries (NOUN) : W|IWrW]sQ
+# ^do the necessary (VERB) : ]|IWr^bD W|IWzI ^bGb
+# ^provide the necessary (VERB) : GlDWzI XbWQbD^bGb
+# ^find the necessary (VERB) : GlDWzI XbWQbD^bGb
+
+"necessitarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]|IWjDIlDXb)
+
+"necessitarianism"
+% ART
+(]|IWjDIlD)
+
+"necessity"
+% CONCRETE MATERIAL 
+(]|IWrUfW)
+# as a necessity (ADV) : ]|IWjDXfAWzIl
+# ^bow to necessity (VERB) : WsDQjWW|Ib Z|Al GbDDjQ^bGb
+# from necessity (ADV) : ]|IWr^cUf
+# out_of necessity (ADV) : ]|IWr^cUf
+# in case of necessity (ADV) : AzR^bI HcWgDzD
+# ^make a virtue of necessity (VERB) : QbX|QlU^c ^bQjDUfGl XbX|D^cUf ^bDzD Zg^bGb
+# not by choic but by necessity (ADV) : Xl^WbUfAb WbD|Ib ]|IWr^cUf
+# of necessity (ADV) : ]|IWjDXfAWzIl
+# out_of necessity (NOUN) : ]|IWr^bD DbQfX|
+# out from necessity (NOUN) : ]|IWr^bD DbQfX|
+# work of necessity (NOUN) : ]|IWr^bD W|I
+# necessities of life (NOUN) : UcW^lbI ]|IUs]sQ
+# daily necessities (NOUN) : W|IWrW]sQ
+# physical necessity (NOUN) : ]|IWjDIjA
+# the doctrine of necessity (NOUN) : UsAQjWIlD
+# the necessity of deathe (NOUN) : XsAWzQWz| ]|IWjDUfW
+
+"neck"
+% CONCRETE MATERIAL ANIMAL
+(QlA)
+# stiff neck (NOUN) : WlbDAl
+# ^break the neck of (VERB) : ^|QGzD AlR|IzI DfQA|Gb
+# ^breathe down the neck (VERB) : YlZA|Gb
+# ^escape with ONE_S neck (VERB) : QlAUsQQbD AjWs AfDXj GbIWbDbGb
+# ^get it in the neck (VERB) : ^lGl|Ag AlWAjA RbGGb
+# ^catch it in the neck (VERB) : ^lGl|Ag ZfRfI RbGGb
+# ^take it in the neck (VERB) : ^lGl|Ag ZfRfI RbGGb
+# have the neck to (ADV) : SfDSfDUzIfRAgGl
+# neck and crop (ADV) : XfD^j
+# neck and heals (ADV) : XfD^j
+# neck and neck (ADV) : GcGzW^bAg
+# neck or nothing (ADV) : ]|IUbXfAWzIl
+# neck or naught (ADV) : ]|IUbXfAWzIl
+# on the neck of (ADV) : W|UGbIWb
+# over the neck of (ADV) : W|UGbIWb
+# ^risk ONE_S neck (VERB) : QlAUsQWzI AfIGb
+# ^save ONE_S neck (VERB) : ArUs^jWWzI QjD^bGb
+# ^speak through ONE_S neck (VERB) : QsU|Q[l QbWRbI^bGb
+# ^talk through ONE_S neck (VERB) : QsU|Q[l QbWRbI^bGb
+# ^stick ONE_S neck out (VERB) : Ql^fQ^bGb
+# ^tread on the neck of A (VERB) : [(OBJ A/WzI) ^bAGc^b<VERB>]/Gb
+# up to ONE_S neck (ADV) : A|]W| SbXj
+# ^win by a neck (VERB) : AzDUl^bD ZbIl W|A|Gb
+
+"neck-rest"
+(QlARbGZ|Ac)
+
+"neckband"
+% CONCRETE MATERIAL 
+(UbVzWz| A|U)
+
+"neckbeef"
+% FOOD
+(UlWz| QlAGfIQ| AlA|)
+
+"neckcloth"
+% CONCRETE ANIMAL MATERIAL 
+(DgA\bW|)
+
+"neckerchief"
+% CONCRETE ANIMAL MATERIAL 
+(QlAGlI|)
+
+"necking"
+% CONCRETE MATERIAL 
+(A|GsWAlb A|GsWQfI|Wz| XfR^bRRs)
+
+"necklace"
+% CONCRETE MATERIAL 
+(QlAAfIW|)
+
+"necklet"
+(QlAAfIW|)
+
+"neckline"
+% CONCRETE MATERIAL 
+(QlAGfIQ|Wz| UfD)
+
+"neckpiece"
+(A|U)
+
+"necktie"
+% CONCRETE ANIMAL MATERIAL 
+(DgA\bW|)
+
+"neckwear"
+% CONCRETE ANIMAL MATERIAL 
+(DgA\bW|Db QlAGlI|Iw)
+
+"neckyoke"
+(QfWWg)
+
+"necrobiosis"
+(RjDUfW ^l|Xf)
+
+"necrolatry"
+(UbQbWXb UsWRc)
+
+"necrologist"
+% HUMAN
+(UbQbW A|Ub GbQGbWXb)
+
+"necrology"
+(UbQbWXb QjWRs)
+
+"necromancer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfQXbWW|)
+
+"necromancy"
+% MATERIAL 
+(WrUsI)
+
+"necropolis"
+% PLACE
+(QrX|)
+
+"necropsy"
+% ACTION
+(AfQU|)
+
+"necroscopy"
+% ACTION
+(AfQU|)
+
+"necrosis"
+% MATERIAL 
+(^l|Xf)
+
+"nectar"
+% CONCRETE MATERIAL FOOD
+(DgA\b)
+
+"nectarine"
+% CONCRETE MATERIAL PLANT
+(UsWGlRlAUsWWb)
+
+"nectary"
+% CONCRETE MATERIAL 
+(Q|IUfD)
+
+"necton"
+% ANIMAL
+(WwWjW GlWQsI)
+
+"need"
+% MATERIAL 
+(]|IWr)
+# ^be good at need (VERB) : GbAzR^bI HcWg GlWsQW| Gl|Gb
+# ^be in need of A (VERB) : [(OBJ A/WzI) ]|IWrIl ^b<VERB>]/Gb
+# ^be no need TO_INF (VERB) : [(SCOMP [(RELCL TO_INF/^bI) ]|IWr<NOUN>]/Ab) WfRU<ADJ>]/Gb
+# ^do ONE_S needs (VERB) : GcRjD RlGb
+# ^fail a person in his need (VERB) : AlDAjWWg SbX|D UbIbQWzI XfRfI|Gb
+# ^have need of A (VERB) : [(OBJ A/WzI) ]|IWrIl ^b<VERB>]/Gb
+# ^have need for A (VERB) : [(OBJ A/WzI) ]|IWrIl ^b<VERB>]/Gb 
+# ^have need TO_INF (VERB) : [TO_INF](^bX|/F, WbD^/V QjD/F, WbDGl|/V)/Gb
+# if need be (ADV) : ]|IWr^bGbQjD
+# if need were (ADV) : ]|IWr^bGbQjD
+# in case of need (ADV) : QbDWdAWz| AjWWsWg
+# in time of need (ADV) : QbDWdAWz| AjWWsWg
+# production need (NOUN) : UcWUbD UsWr
+# ^stand in need of A (VERB) : [(OBJ A/WzI) ]|IWrIl ^b<VERB>]/Gb
+# the need TO_INF (NOUN) : [(RELCL TO_INF/^bI) ]|IWrUfW<NOUN>]
+# the need to pay taxes (NOUN) : DbRUgWz| Wz|Qs
+
+"needfire"
+(XfW^lb)
+
+"needful"
+(]|IWr^bD AfU)
+
+"neediness"
+% STATE
+(AlDAsW)
+
+"needle"
+% CONCRETE MATERIAL 
+(RbDzI)
+# sharp as a needle (ADJ) : QcWs DbI[bIlRGb
+# as sharp as a needle (ADJ) : QcWs DbI[bIlRGb
+# ^get the needle (VERB) : YbXzWDbGb
+# ^give the needle (VERB) : XbAzAWzI XsGb
+# ^look for a needle in a bottle of hay (VERB) : ZbXWzI AbQbWW| WfRUDzD AfUWzI ZbXGb
+# ^look for a needle in a bundle of hay (VERB) : ZbXWzI AbQbWW| WfRUDzD AfUWzI ZbXGb
+# needle's eye (NOUN) : RbDzIAs|
+# ^thread the needle (VERB) : WfIjWsD W|IWzI ^cDcGb
+
+"needlebar"
+(RbDzIGc)
+
+"needlebath"
+% ACTION
+(UdWsfQlAWrA)
+
+"needlefish"
+% CONCRETE ANIMAL MATERIAL 
+(GlWAbIZ|)
+
+"needleful"
+(^bD RbDzIWg VzI QbD^bD U|IWz| A|IW|)
+
+"needlewoman"
+(XcRlWRs)
+
+"needlework"
+% CONCRETE MATERIAL 
+(RbDzX|I)
+
+"needments"
+(^wGc]sQ)
+
+"negation"
+% CONCRETE MATERIAL 
+(RsXfW)
+
+"negationist"
+% HUMAN
+(RsXfWIlDXb)
+
+"negative"
+% CONCRETE MATERIAL 
+(RsXfW)
+# ^answer in the negative (VERB) : WbD|IbAl GcGbR^bGb
+# ^return a negative (VERB) : WbD|IbAl GcGbR^bGb
+# double negative (NOUN) : W|XsW RsXfW
+
+"negativism"
+% MATERIAL 
+(RsXfWIlD)
+
+"negativist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsXfWIlDXb)
+
+"negativity"
+% CONCRETE MATERIAL 
+(RsXfWUfW)
+
+"negatron"
+(WzQXfDXb)
+
+"neglect"
+% MATERIAL 
+(\cQbD)
+# neglect of duty (NOUN) : Wz|QsWz| \cQbD
+
+"neglige"
+% CONCRETE ANIMAL MATERIAL 
+(DgAzII|Xg)
+
+"negligee"
+% CONCRETE ANIMAL MATERIAL 
+(DgAzII|Xg)
+
+"negligence"
+% CONCRETE MATERIAL 
+(\cQbD)
+# negligence clause (NOUN) : QjDZcAXl^bW
+
+"negligibility"
+(UbUl^bQ)
+
+"negotiability"
+(^jRXfW^bI Us W|VWzQ)
+
+"negotiant"
+% HUMAN
+(^jRUbWXb)
+
+"negotiation"
+% CONCRETE MATERIAL 
+(^jRUbW)
+# under negotiation (NOUN) : ^jRUbWXsW
+
+"negotiator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^jRUbWXb)
+
+"negotiatress"
+% HUMAN
+(^jRUbWXb)
+
+"negotiatrix"
+% HUMAN
+(^jRUbWXb)
+
+"negress"
+% HUMAN
+(^zAW|D)
+
+"negrillo"
+% HUMAN
+(Ul ^zAW|D)
+
+"negrito"
+% HUMAN
+(Ul ^zAW|D)
+
+"negritude"
+(^zAW|D \zAUfW)
+
+"negro"
+% HUMAN
+(^zAW|D)
+
+"negro"
+% HUMAN
+(^zAW|D)
+
+"negro-head"
+(V|RDzD GbQRc)
+
+"negroid"
+% HUMAN
+(^zAW|DXlW)
+
+"negroid"
+% HUMAN
+(^zAW|DXlW)
+
+"negroism"
+(^zAW|D WlW^l)
+
+"negroism"
+(^zAW|D WlW^l)
+
+"negrophil"
+% HUMAN
+(^zAW|D ]jDWzI GzDzD UbIbQ)
+
+"negrophile"
+% HUMAN
+(^zAW|D ]jDWzI GzDzD UbIbQ)
+
+"negrophilism"
+(^zAW|D WlW^l)
+
+"negrophobia"
+(^zAW|D AlW]l)
+
+"negus"
+% CONCRETE MATERIAL 
+(D|W|AfUzUsI)
+
+"negus"
+% CONCRETE MATERIAL HUMAN
+(W|G|Wl]|Wb ^lbWXg)
+
+"neigh"
+% MATERIAL 
+(QbIWz| WsIWzQUlI|)
+
+"neighbor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|WsU)
+# better neighbor (NOUN) : Gf Xl^WzD W|WsU
+# good neighbor (NOUN) : W|WsUAbDWg Wz|Ab Xl^WzD UbIbQ
+# next door neighbor (NOUN) : Wj]X|R UbIbQ
+# next-door neighbor (NOUN) : Wj]X|R UbIbQ
+
+"neighborhood"
+% MATERIAL ANIMAL HUMAN
+(W|WsU)
+# in the neighborhood of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AzDZf<NOUN>]/Wg)
+# neighborhood gatherings (NOUN) : W|WsU UbIbQGzIWz| QlW|Q
+# neighborhood woman (NOUN) : W|WsU WjXb
+# neighborhood man (NOUN) : W|WsU DbQXb
+
+"neighborship"
+% STATE
+(W|WsU^bWj W|VWzQ)
+
+"neighbour"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|WsU)
+# bad neighbour (NOUN) : W|WsUAbDWg Wz|Ab DbSzD UbIbQ
+# good neighbour (NOUN) : W|WsUAbDWg Wz|Ab Xl^WzD UbIbQ
+# next door neighbour (NOUN) : Wj]X|R UbIbQ
+# next-door neighbour (NOUN) : Wj]X|R UbIbQ
+
+"nekton"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwWjW GlWQsI)
+
+"nelson"
+% HUMAN
+(DgIUzD)
+
+"nematode"
+% CONCRETE ANIMAL MATERIAL 
+(UfDZsWIw)
+
+"nemesis"
+(UsAXfA)
+
+"nemophila"
+% PLANT
+(DgQl]|IIbBlZ)
+
+"neo-darwinism"
+% ART
+(U|DGbWbWs|DUfI)
+
+"neo-hellenism"
+% ART
+(U|DAzI|W|Uz XsWz|)
+
+"neo-kantian"
+% HUMAN
+(U|D[bD\z]b ^bAGl)
+
+"neo-latin"
+(U|DIb\|DWfXlA)
+
+"neo-malthusianism"
+% ART
+(U|DQgIGfUz XsWz|)
+
+"neo-platonism"
+% ART
+(U|D]zIIb\lD]b ZfI^bA)
+
+"neo-romanticism"
+% ART
+(U|D DbWQbDXsWz|)
+
+"neocene"
+% TIME
+(U|DXgUbQA|)
+
+"neoclassicism"
+% MATERIAL ART
+(U|DAlXfDXsWz|)
+
+"neoclassicist"
+% HUMAN
+(U|DAlXfDXsWz|Xb)
+
+"neocolonialism"
+% ART
+(U|D U|AQ|DXsWz|)
+
+"neodoxy"
+% ART
+(Uc ^bAUfI)
+
+"neodymium"
+% CONCRETE MATERIAL 
+(DgWlG|QwQ)
+
+"neogene"
+% TIME
+(U|DXgUbQA|)
+
+"neolith"
+% TIME
+(U|DUfAA| U|GcWz| UfAA|)
+
+"neologian"
+% HUMAN
+(U|DArI| X|X|Xb)
+
+"neologism"
+% MATERIAL 
+(UcIl QbDGzD WfAsWz| UbWrW)
+
+"neologist"
+% HUMAN
+(U|DArI| X|X|Xb)
+
+"neology"
+% MATERIAL 
+(UcIl QbDGzD WfAsWz| UbWrW)
+
+"neomycin"
+% CONCRETE MATERIAL 
+(DgWlQbW|U|D)
+
+"neon"
+% CONCRETE MATERIAL 
+(DgWlD)
+# neon lamp (NOUN) : DgWlDIcQ]z
+# neon sign (NOUN) : DgWlDUbW|D
+
+"neonate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DUcWWb)
+
+"neontology"
+% ART
+(^jDUg UcWQsI^bA)
+
+"neopaganism"
+(W|Ar XsWz| Rs^zW)
+
+"neophyte"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DAcXlWXb)
+
+"neoplasm"
+% MATERIAL 
+(U|DUcWQsI)
+
+"neoprene"
+% CONCRETE MATERIAL 
+(DgWl]zIgD)
+
+"neosalvarsan"
+(DgWlUbIRbIzUbD)
+
+"neoteric"
+% HUMAN
+(^jDGcW|D)
+
+"nepalese"
+% HUMAN
+(Dg]bI UbIbQ)
+
+"nepali"
+% HUMAN
+(Dg]bI UbIbQ)
+
+"nepenthe"
+(U|IzQWzI W|XAg ^bDzD WdA)
+
+"nephanalysis"
+(AsIzQRsDUfA)
+
+"nephelometer"
+(R|\bAAk)
+
+"nephew"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Xl[b)
+
+"nephogram"
+(AsIzQ UbX|D)
+
+"nephograph"
+(AsIzQ UbX|DA|)
+
+"nephology"
+% ART
+(WsD^bA)
+
+"nephoscope"
+% CONCRETE ANIMAL MATERIAL 
+(WsDAjW)
+
+"nephrite"
+(WjDWlA)
+
+"nephritis"
+% MATERIAL 
+(U|DXbWWjQ)
+
+"nephrolith"
+% MATERIAL 
+(U|DUfA)
+
+"nephrology"
+% ART
+(U|DXbW^bA)
+
+"nepotism"
+(WjDAlXb GzWWrW)
+
+"nepotist"
+% HUMAN
+(XlARfIXsWz|Xb)
+
+"neptunist"
+% HUMAN
+(WbQUfA UsUfWIlDXb)
+
+"neptunium"
+% CONCRETE MATERIAL 
+(DgR\sDwQ)
+
+"nereid"
+% HUMAN
+(RbGbWz| WrXfW)
+
+"nereus"
+% HUMAN
+(RbGbWz| U|D)
+
+"nero"
+% HUMAN
+(DgIl ^lbWXg)
+
+"neroli oil"
+(GzW^lbWw)
+
+"nerts"
+% ACTION
+(RbRlAb\WzD X|U)
+
+"nervation"
+(QcAUbW)
+
+"nerve"
+% CONCRETE MATERIAL ANIMAL
+(U|DAjW)
+# cranial nerve (NOUN) : Dl|U|DAjW
+# ^get on a person's nerves (VERB) : U|DAjWWzI AfDGzI|Gb
+# ^give a person the nerves (VERB) : U|DAjWWzI AfDGzI|Gb
+# ^have a fit of nerves (VERB) : U|DAjW AlbQ|DW| Gl|Gb
+# ^have iron nerves (VERB) : GbQGc^bGb
+# ^have iron nerves of steel (VERB) : GbQGc^bGb
+# ^have no nerves (VERB) : \cWjD^bGb
+# ^have the nerve to A (VERB) : [(SCOMP [(RELCL [(OBJ A/IzI) ^b<VERB>]/^bI) WrWA|<NOUN>]/Ab) 
+W|V<VERB>]/Gb
+# ^lose ONE_S nerve (VERB) : A|Ab XsAGb
+# man of nerves (NOUN) : ^lGbQ^bD UbDbW|
+# nerve cure (NOUN) : U|DAjWXzW Z|Ir
+# nerve strain (NOUN) : U|DAjW AlbIl
+# nerves of iron (NOUN) : ^lGbQ
+# nerves of steel (NOUN) : ^lGbQ
+# optic nerve (NOUN) : U|U|DAjW
+# ^strain every nerve (VERB): WlDAbX DlIjAWzI Gb^bGb
+# war of nerves (NOUN) : U|DAjWXfD
+
+"nervelessness"
+% CONCRETE MATERIAL 
+(QsA|IjA)
+
+"nervine"
+(U|DAjW WbDXfWXg)
+
+"nervosity"
+(U|DAjWAlbQ|D)
+
+"nervousness"
+% MATERIAL 
+(U|DAjWAlbQ|D)
+
+"nervure"
+(U|DAjW)
+
+"nescience"
+% MATERIAL 
+(QsX|)
+
+"nescient"
+% HUMAN
+(RsIAbX|IlDXb)
+
+"nesselrode"
+% FOOD
+(AlbW|IWz| Ub\bWXfIW|Q)
+
+"nest"
+% CONCRETE MATERIAL PLACE
+(GsWX|)
+# squirrel's nest (NOUN) : GbIbQXs|Wz| X|R
+# build a nest (VERB) : GsWX|IzI X|UGb
+# make a nest (VERB) : GsWX|IzI X|UGb
+# nest of vice (NOUN) : WbAWz| WlDUbW
+# robber's nest (NOUN) : GlGsAWz| UlAsI
+# ^sit on a nest of eggs (NOUN) : WbIWzI ]sQGb
+
+"nestful"
+(GsWWsI|Wg ^bDb AbGzA^bD RsDIdW)
+
+"nestling"
+% CONCRETE ANIMAL MATERIAL 
+(Uc UcB|)
+
+"nestor"
+(^jDQjW^bD DlXbW)
+
+"nestorian"
+% HUMAN
+(DgUz\zI|WsUz ArGl)
+
+"nestorianism"
+% ART
+(DgUz\lI|WsUzWz| ArI|)
+
+"net"
+% CONCRETE MATERIAL 
+(AzQsI)
+# a police net (NOUN) : AjWZbI UsUbQbW
+# ^cast a net (VERB) : AzQsIWzI GfDX|Gb
+# cast net (NOUN) : \sQbW
+# net assets (NOUN) : UsDXbUbD
+# net budget (NOUN) : UsDAkWkUbD
+# net domestic product at factor cost (NOUN) : WrUlR|WrW]rU|Wz| AsADcUsDUcWUbD
+# net earning (NOUN) : UsDW|W|A
+# net profit (NOUN) : UsDW|W|A
+# net exports (NOUN) : UsDUsZsIAl
+# net income (NOUN) : UsDUlGzA
+# net investment (NOUN) : UsD\sXb
+# net interest (NOUN) : UsDW|Xb
+# net liabilities (NOUN) : UsDRsZc
+# net loss (NOUN) : UsDUlD
+# net national product (NOUN) : AsAQ|DUsDUcWUbD
+# net premium (NOUN) : UsDRl^fQIr
+# net proceeds (NOUN) : UsDUsZs|AzQ
+# net product per capital (NOUN) : 1W|DGbWUsDUcWUbDWcA
+# net receipt (NOUN) : UsDUsIjWAzQWcA
+# net sales (NOUN) : UsD]bDQcAl
+# net surplus (NOUN) : UsDW|WWjAzQ
+# net weight (NOUN) : UsDXsWIdW
+# net worth (NOUN) : XbA|XbRlD
+# net worth tax (NOUN) : RsUlAUg
+# net yield (NOUN) : UsDW|WwI
+# ^throw a net (VERB) : AzQsIWzI GfDX|Gb
+# ^draw in a net (VERB) : AzQsIWzI BzIWfGbWA|Gb
+# ^lay a net (VERB) : AzQsIWzI Z|Gb
+# ^spread a net (VERB) : AzQsIWzI Z|Gb
+
+"netball"
+(Dg\zRlI)
+
+"netfishery"
+(AzQsIWfQbW)
+
+"netful"
+(AzQsI AbGzA)
+
+"netherlander"
+% HUMAN
+(DgGfIIbDGz UbIbQ)
+
+"netlayer"
+(ZfIQbWRsUfI^bQ)
+
+"netman"
+% HUMAN
+(XfWAsUfDUs)
+
+"netplay"
+(Dg\z ]zIIgW|)
+
+"netter"
+% HUMAN
+(AzQsIWzI QbDGzDzD UbIbQ)
+
+"netting"
+% CONCRETE MATERIAL 
+(AzQsI)
+# wire netting (NOUN) : ZfIQbW
+
+"nettle"
+% PLANT
+(VlcA|]sI)
+# ^cast ONE_S frock to the nettles (VERB) : QlAUbIzI AzQbDGsGb
+# ^throw ONE_S frock to the nettles (VERB) : QlAUbIzI AzQbDGsGb
+# ^grasp the nettle (VERB) : XbX|D^bWj AlDbDAlb VbWsGb
+# nettle rasch (NOUN) : GsGzIfA|
+
+"nettle-creeper"
+% ANIMAL
+(^s|]bIbQUc)
+
+"network"
+% CONCRETE MATERIAL ORGAN
+(Dg\zWsf[z)
+# network of railways (NOUN) : ZfIGl QbW
+# network of highways (NOUN) : GlIl QbW
+# espionage network (NOUN) : AbDZfRQbW
+# radio network (NOUN) : IbG|Wl RbWUlWQbW
+# TV network (NOUN) : \gIIgR|XfD RbWUlWQbW
+# network analysis (NOUN) : Dg\zWsf[z RsDUfA
+
+"networking"
+(Dg\zWsf[|W)
+
+"neufchatel"
+% FOOD
+(RsGzIfWsD ^z|DR|Z Z|Xz)
+
+"neuralgia"
+% MATERIAL 
+(U|DAjW\lW)
+
+"neurasthenia"
+% MATERIAL 
+(U|DAjW Ul|WdAXzW)
+
+"neuration"
+(QcAUbW)
+
+"neuristor"
+(W|DAlWU|DAjWUfQWw)
+
+"neuritis"
+% MATERIAL 
+(U|DAjWWjQ)
+
+"neuroanatomist"
+% HUMAN
+(U|DAjW ^cRs^bAXb)
+
+"neuroanatomy"
+% MATERIAL ART
+(U|DAjW ^cRs^bA)
+
+"neurobiology"
+% ART
+(U|DAjW UcWQsI^bA)
+
+"neurochemical"
+% CONCRETE MATERIAL 
+(U|DAjW ^lb^bA QsIX|I)
+
+"neurologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DAjW^bAXb)
+
+"neurology"
+% MATERIAL ART
+(U|DAjW^bA)
+
+"neuroma"
+(U|DAjWXlW)
+
+"neuron"
+% CONCRETE MATERIAL 
+(DwIlD)
+
+"neurone"
+(DwIlD)
+
+"neuropath"
+% HUMAN
+(U|DAjW AlbQ|D ^lbDXb)
+
+"neuropathist"
+% HUMAN
+(U|DAjWRjW XfDQsDAb)
+
+"neuropathologist"
+% HUMAN
+(U|DAjWRjWI|^bAXb)
+
+"neuropathology"
+% HUMAN
+(U|DAjWRjWI|^bA)
+
+"neuropathy"
+(U|DAjW\lW)
+
+"neuropharmacologist"
+% HUMAN
+(U|DAjW WdAQsI^bAXb)
+
+"neuropharmacology"
+% ART
+(U|DAjW WdAQsI^bA)
+
+"neuropsychiatrist"
+% HUMAN
+(U|DAjW XfWU|DRjW Wz|Ub)
+
+"neuropsychiatry"
+% ART
+(U|DAjW XfWU|DRjW^bA)
+
+"neuropsychosis"
+(U|DAjW XfWU|DXzW)
+
+"neurosis"
+% MATERIAL 
+(U|DAjWXzW)
+
+"neurosurgeon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DAjWWl|Alb Wz|Ub)
+
+"neurosurgery"
+% ART
+(U|DAjW Wl|Alb^bA)
+
+"neurotic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DAjWRjW ^lbDXb)
+
+"neurotomy"
+(U|DAjW XfIXg)
+
+"neurotoxin"
+(U|DAjWGlA)
+
+"neuter"
+% MATERIAL 
+(XsWUfW)
+
+"neutral"
+(XsWI|R)
+
+"neutralism"
+% ART
+(XsWI|R XsWz|)
+
+"neutralist"
+% HUMAN
+(XsWI|RXsWz|Xb)
+
+"neutrality"
+% MATERIAL 
+(XsWI|R)
+# armed neutrality (NOUN) : QsXbW XsWI|R
+# strict neutrality (NOUN) : WfQXfW XsWI|R
+# the continuous neutrality of Switzerland (NOUN) : UzWs|UzWz| WjWUgXsWI|R
+
+"neutralization"
+% MATERIAL 
+(XsWI|R^lb)
+
+"neutralizer"
+(XsW^lbQsI)
+
+"neutretto"
+(XsWUfW XsWAbDXb)
+
+"neutrino"
+% CONCRETE MATERIAL 
+(XsWUfW Q|Xb)
+
+"neutrodyne"
+(X|DAlWU|A IbG|Wl UsU|DA|)
+
+"neutron"
+% CONCRETE MATERIAL 
+(XsWUfWXb)
+# neutron bomb (NOUN) : XsWUfWXb\bD
+# neutrin star (NOUN) : XsWUfWXb RjI
+
+"neutrophil"
+% CONCRETE MATERIAL 
+(^lXsWAs)
+
+"neve"
+(QbDDjDUfI)
+
+"never-never"
+% PLACE
+(WlUz\zIgW|II|Wb [s|DXzIcDGzXs RsAUfRsWz| W|DAsAb ^z|RbA^bD AlU)
+# never-never system (NOUN) : WsfIRsU|A AsQcRfR
+# on the never-never (ADV) : WsfIRsIl
+# ^go to kand of never-never (VERB) : Wz|U|AWzI W|I^Gb
+
+"nevermind"
+(XsWz|)
+
+"neverwas"
+% HUMAN
+(QsQjWWzIl Bz\DbD UbIbQ)
+
+"nevus"
+% CONCRETE MATERIAL
+(QlRbD)
+
+"nevus"
+% CONCRETE MATERIAL 
+(XfQ)
+
+"newcome"
+% HUMAN
+(UcIl WlD UbIbQ)
+
+"newcomer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UcIl WlD UbIbQ)
+
+"newel"
+(DbUfD^jW AkGbDWz| WfQX|A|GsW)
+# hollow newel (NOUN) : DbUfD^jW AkGbDWz| AsRWzD YlA
+# newel stair (NOUN) : AzR^| BfBW|D ZzWAk
+
+"newfangle"
+(U|DWw^cW)
+
+"newground"
+% PLACE
+(U|DAcZfAX|)
+
+"newlywed"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|D^lD RsRs)
+
+"newness"
+% CONCRETE MATERIAL 
+(UcIlWsQ)
+
+
+"newrich"
+% HUMAN
+(RjIbARsXb)
+
+"news"
+% CONCRETE MATERIAL 
+(DwUz)
+# The Daily News (NOUN) : QcW|I U|DQsD
+# bad news (NOUN) : ^wWRl
+# ^break the news to A (VERB) : [(OBJ2 A/WgAg) (OBJ [^wWRl<NOUN>]/IzI) XfD^b<VERB>]/Gb
+# cable news (NOUN) : [gW|RzIRbWUlW DwUz
+# foreign news (NOUN) : ^cWl| UlU|A
+# home news (NOUN) : AsADc UlU|A
+# a piece of news (NOUN) : ^bD \lQbAWz| RlGl
+# bad news (NOUN) : DbSzD UlU|A
+# good news (NOUN) : Xl^WzD UlU|A
+# news conference (NOUN) : A|Xb^l|AjD 
+# news release (NOUN) : DwUz I|II|Uz
+# top news (NOUN) : QfI|U DwUz
+
+"newsagent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DQsD ]bDQc WfRXb)
+
+"newsbeat"
+% HUMAN
+(Zs|Xc GbQGbW AsWjA)
+
+"newsblackout"
+(RlGl AlbDXg)
+
+"newsboard"
+(AgU|]bD)
+
+"newsboy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DQsD ]bDzD UlDjD)
+
+"newsbreak"
+(RlGlAbZ|Ab W|VDzD W|I)
+
+"newscast"
+% CONCRETE MATERIAL 
+(DwUz RbWUlW)
+
+"newscaster"
+% HUMAN
+(DwUz ^cUfIXb)
+
+"newscasting"
+(DwWsUz RbWUlW)
+
+"newsclip"
+(U|DQsD Uz[zIcR)
+
+"newsdealer"
+% HUMAN
+(U|DQsD ]bDQcW|D)
+
+"newsgirl"
+% HUMAN
+(U|DQsD ]bDzD UlDj)
+
+"newsgroup"
+(DwUz AzIsR)
+
+"newshawk"
+% HUMAN
+(A|Xb)
+
+"newshen"
+% HUMAN
+(WjA|Xb)
+
+"newshound"
+% HUMAN
+(A|Xb)
+
+"newsiness"
+(^lbXgAb ]sWRs^bQ)
+
+"newsletter"
+% CONCRETE MATERIAL 
+(AlWRl)
+
+"newsmagazine"
+(U|UbXbRX|)
+
+"newsmaker"
+% HUMAN
+(DwUzAfI|Ab Gl|DzD UbIbQ)
+
+"newsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DQsD A|Xb)
+
+"newsmonger"
+% HUMAN
+(HfRfI|)
+
+"newsmongering"
+(UlQsDWzI ]fHzI|Q)
+
+"newspaper"
+% CONCRETE MATERIAL 
+(U|DQsD)
+# daily newspaper (NOUN) : W|IAbD U|DQsD
+# leading newspaper (NOUN) : XsWr U|DQsD
+# weekly newspaper (NOUN) : XsAbD U|DQsD
+
+"newspaperdom"
+(U|DQsDAk)
+
+"newspapering"
+(U|DQsD UbWfR)
+
+"newspaperman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DQsD A|Xb)
+
+"newspaperwoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjA|Xb)
+
+"newsprint"
+% CONCRETE MATERIAL 
+(U|DQsD W|DUlc WrWX|)
+
+"newsreader"
+% HUMAN
+(U|DQsDGlAXb)
+
+"newsreel"
+% CONCRETE MATERIAL 
+(DwUz WjW^lb)
+
+"newsstand"
+% PLACE
+(U|DQsD Ab]bDGc)
+
+"newsworthiness"
+(RlGl AbZ|Ab W|VWzQ)
+
+"newswriter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DQsD A|Xb)
+
+"newswriting"
+(U|DQsDA|Ub XbAUfW)
+
+"newsy"
+% HUMAN
+(U|DQsD ]bDzD UlDjD)
+
+"newt"
+% CONCRETE ANIMAL MATERIAL 
+(WjWWsfD)
+
+"newtonian"
+% HUMAN
+(Dw\fD ^bAUfIWz| U|DRlWXb)
+
+"next-generation"
+(ZbUgGc)
+
+"nexus"
+(AlbDAk)
+# the cash nexus (NOUN) : ^jDAzQ AfIc AlbDAk
+# the causal nexus (NOUN) : W|DAlb AlbDAk
+
+"niacin"
+% CONCRETE MATERIAL 
+(DbW|WbU|D)
+
+"nib"
+% CONCRETE MATERIAL 
+(]gDZlA)
+
+"nibble"
+% CONCRETE MATERIAL 
+(XlAzQV|A QsIA|)
+
+"nibbler"
+% HUMAN
+(QbX|QlU^c ^bDzD UbIbQ)
+
+"nibelungenlied"
+(D|RgIIsWAgDWz| DlIc)
+
+"niblick"
+% CONCRETE ANIMAL MATERIAL 
+(9RfD WbW|WfD)
+
+"niccolite"
+(RsIAWzD D|[gIAlbW)
+
+"nice-nellyism"
+(X|DbZ|Ag WdQXfD^bQ)
+
+"niceness"
+(Ww[lc)
+
+"nicety"
+% CONCRETE MATERIAL 
+(XfW^lbA^bQ)
+# point of great nicety (NOUN) : QcWs Q|Qr^bD XfQ
+# to a nicety (PP) : [XfW^lbA^bAg<ADV>]
+
+"niche"
+% CONCRETE MATERIAL 
+(RjAAbQ)
+
+"nichrome"
+(D|[zIlQ)
+
+"nick"
+% CONCRETE MATERIAL 
+(UcA|QDsD)
+# in the nick (ADV) : WbUzIWbUzI^bD HcWg
+
+"nick"
+% CONCRETE MATERIAL 
+(5 UgD\z RcAGlWXfD)
+
+"nickel"
+% CONCRETE MATERIAL 
+(D|[gI)
+# nickel plate (NOUN) : D|[gI GlAzQ
+# nickel silver (NOUN) : WdWWzD
+# nickel steel (NOUN) : D|[gIAbW
+
+"nickelodeon"
+% CONCRETE ANIMAL MATERIAL 
+(5 UgD\z AzAXbW)
+
+"nicker"
+% HUMAN
+(UcA|QDsDWzI DcDzD UbIbQ)
+
+"nicknack"
+% CONCRETE MATERIAL 
+(WkSzD XbWDbDAbQ)
+
+"nickname"
+% MATERIAL 
+(RjIQjW)
+
+"nicotian"
+% HUMAN
+(^zRWjDAb)
+
+"nicotine"
+% CONCRETE MATERIAL 
+(D|[l\|D)
+
+"nicotinism"
+(D|[l\|D XsWGlA)
+
+"nidification"
+(GsWX|IzI X|WzQ)
+
+"nidus"
+% MATERIAL PLACE
+(WbIWzI BbDzD XbI|)
+
+"niece"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Xl[bHbI)
+
+"niellist"
+% HUMAN
+(^zAAzQ UbWAbQUb)
+
+"niello"
+(^zAAzQ)
+
+"nietzschean"
+% HUMAN
+(D|Zg ZfI^bAXb)
+
+"nietzscheanism"
+% ART
+(D|Zg ZfI^bA)
+
+"nifty"
+(XcZ| W|VDzD QbI)
+
+"nigerian"
+(DbW|XgI|WbWz|)
+
+"niggard"
+% HUMAN
+(AsGsUl|)
+
+"nigger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfQGsWW|)
+# nigger brown (NOUN) : WbQAbIUcA
+# nigger heaven (NOUN) : Zl|UbWZzW XlbUfA
+# nigger in the woodpile (NOUN) : UsQWzD UbU|I
+# nigger in the fence (NOUN) : UsQWzD AjIXfQ
+# nigger melodies (NOUN) : ^zAW|DWz| DlIc
+# ^work like a nigger (VERB) : WfAZfAUzIg W|I^bGb
+
+"niggerhead"
+(V|RDzD GbQRc)
+
+"niggertoe"
+% PLANT FOOD
+(RzIbX|I ^lGs)
+
+"niggling"
+(^fGzIgU W|I)
+
+"night"
+% CONCRETE TIME MATERIAL 
+(RbQ)
+# NUM1 at night (NOUN) : [(NMODS [XfDjA<NOUN>]) (NMODS NUM1) U|<NOUN>]
+# all night (ADV) : RbQUcGlIlA
+# all night long (ADV) : RbQUcGlIlA
+# as dark as night (ADJ) : [bQ[bQ^bGb
+# as black as night (ADJ) : UcBbQb^Gb
+# at dead of night (ADV) : ^bDRbQXsWWg
+# at nights (ADV) : RbQQbGb
+# at this hour of the night (ADV) : W|If^Ag W|UzA^bD HcWg
+# at this time of night (ADV) : W|If^Ag W|UzA^bD HcWg
+# dirty night (NOUN) : ]lA]sWWsWz| RbQ
+# early that night (ADV) : AzDbI RbQ W|IY|A
+# early this night (ADV) : WlDzI RbQ W|IY|A
+# every night (NOUN) : QcW|I RbQ {+RESTRIC}
+# ^go out into the night (VERB) : WdWzQWg Wl|ZsI^bGb
+# ^have a good night (VERB) : XbI XbGb
+# ^have a night out (VERB) : ^bIsURbQWzI RbBWgUf DlIQj UcWsGb
+# ^have the night out (VERB) : ^bIsURbQWzI RbBWgUf DlIQj UcWsGb
+# in the dead of night (ADV) : ^bDRbQXsWWg
+# ^keep over night (VERB) : WbZ|QBbX| XbGb
+# last night (NOUN ADV) : 1) WfXgURbQ {-OBJP}
+			  2) WfXgURbQ
+# ^last over night (VERB) : WbZ|QBbX| AjDG|Gb
+# later that night (ADV) : AzDbI RbQ DzXAg
+# later this night (ADV) : WlDzI RbQ DzXAg
+# night and day (ADV) : RbQW|Al DbXW|Al
+# night club (NOUN) : DbW|\z [zIIfR
+# on deep into the night $ (PP->ADV) : RbQ DzXAgBbX|
+# one night (NOUN) : WfDzDbI RbQ {+RESTRIC}
+# ^pass a good night (VERB) : XbIQlU XbGb
+# that night (NOUN) : AzDbI RbQ {+RESTRIC}
+# this night (NOUN) : WlDzI RbQ {+RESTRIC}
+# the night before last (NOUN) : AzXfBg RbQ {+RESTRIC, +DEF}
+# the night of ignorance (NOUN) : [bQ[bQ^bD QsX| {+RESTRIC, +DEF}
+# the opening night (NOUN) : ZlW|I {+RESTRIC}
+# ^turn night into day (VERB) : DbXWg ^bI W|IWzI RbQWg ^bGb
+# under cover of night (ADV) : RbQWzI \zQ\bUf
+
+"night-breeze"
+(RbQ RbIbQ)
+
+"nightbird"
+% ANIMAL
+(RbQUc)
+
+"nightcap"
+% CONCRETE MATERIAL 
+(DbW|\z[cR)
+
+"nightclub"
+% CONCRETE ANIMAL MATERIAL PLACE
+(DbW|\z [zIIfR)
+
+"nightcluber"
+% HUMAN
+(DbW|\z [zIIfR XsAGlIW|)
+
+"nightdress"
+% CONCRETE ANIMAL MATERIAL 
+(XbQWlU)
+
+"nightery"
+% PLACE
+(DbW|\z [zIIfR)
+
+"nightfall"
+% MATERIAL TIME
+(^cX|IDjA)
+
+"nightglass"
+(WdAbDWrW VbWWbDAjW)
+
+"nightgown"
+% CONCRETE ANIMAL MATERIAL 
+(XbQWlU)
+
+"nighthawk"
+% CONCRETE ANIMAL MATERIAL 
+(VlAGlAUc)
+
+"nightie"
+% CONCRETE ANIMAL MATERIAL 
+(XbQWlU)
+
+"nightingale"
+% CONCRETE ANIMAL MATERIAL 
+(DbW|\|WAgW|I)
+
+"nightjar"
+% CONCRETE ANIMAL MATERIAL 
+(VlAGlAUc)
+
+"nightman"
+% HUMAN
+(RsDDr UsAfW|D)
+
+"nightmare"
+(WbAQlW)
+
+"nightshade"
+% MATERIAL PLANT
+(AbX|UlAWz| U|AQsI)
+# black nightshade (NOUN) : BbQbXlWW|
+# deadly nightshade (NOUN) : RgIIbGlDb
+# stinking nightshade (NOUN) : UbI|]sI
+
+"nightshift"
+(WdAzD)
+
+"nightshirt"
+% CONCRETE ANIMAL MATERIAL 
+(XbQWlU)
+
+"nightside"
+(WdAzDA|ZbGzI)
+
+"nightstand"
+(Z|QGcWrW Ul\bAXb)
+
+"nightstick"
+% CONCRETE ANIMAL MATERIAL 
+(WdAjWWrW AlDRlW)
+
+"nightstool"
+(Z|QU|IWrW RjDA|)
+
+"nighttime"
+% TIME
+(WdAbD)
+# in the nighttime (PP) : [RbQWg<ADV>]
+
+"nightwalker"
+% CONCRETE ANIMAL MATERIAL 
+(QlWWwRjWXb)
+
+"nightwear"
+(XbQWlU)
+
+"nighty"
+(XbQWlU)
+
+"nigrescence"
+(AfQWfX|Q)
+
+"nigritude"
+(WbQ^zA)
+
+"nihil"
+% CONCRETE MATERIAL 
+(^fQs)
+
+"nihilism"
+% MATERIAL ART
+(^fQsXsWz|)
+
+"nihilist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^fQsXsWz|Xb)
+
+"nihility"
+(^fQs)
+
+"nil"
+% CONCRETE MATERIAL 
+(Qs)
+
+"nilometer"
+(DbW|IAbWWz| UsWs|Ak)
+
+"nilometer"
+(DbW|IAbWWz| UsWs|Ak)
+
+"nimbi"
+(^sAlbW)
+
+"nimbleness"
+% CONCRETE MATERIAL 
+(XcSbIzQ)
+
+"nimbo-stratus"
+(DbDZzWWsD)
+
+"nimbus"
+% CONCRETE MATERIAL 
+(^sAlbW)
+
+"nimrod"
+% HUMAN
+(Hs|WfDbD UbDdWAsD)
+
+"nincompoop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QfW\fWAsI|)
+
+"nine"
+% CONCRETE MATERIAL 
+(9)
+# to the nines (ADV) : WlbDXfD^|
+# up to the nines (ADV) : WlbDXfD^|
+
+"nine-to-five"
+% HUMAN
+(XfWAwX|A UbWsfD)
+
+"nine-to-fiver"
+% HUMAN
+(XfWAwX|A UbWsfD)
+
+"ninepins"
+% MATERIAL 
+(AsXs^z|)
+# ^fall over like a lot of ninepins (VERB) : ZbIkIl QlXlI| DfQWfX|Gb
+
+"nineteen"
+% CONCRETE MATERIAL 
+(WjIWb^lRAc)
+
+"nineteenth"
+(WjIWb^lRRfDYc)
+
+"ninetieth"
+(AsU|RRfDYc)
+
+"ninety"
+% CONCRETE MATERIAL 
+(Wb^zD)
+# the nineties (NOUN) : 90 DjDGc
+# ninety nine times out_of a hundred (NOUN) : U|RXsW ]bIAs
+
+"ninevite"
+% HUMAN
+(D|DgRg UbIbQ)
+
+"ninny"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbRl)
+
+"ninny-hammer"
+% HUMAN
+(RbRl)
+
+"ninon"
+(WdIRWzD R|GbD)
+
+"ninth"
+(Wb^lRRfDYc)
+# the ninth nerve (NOUN) : UfIW|D^s U|DAjW
+# the ninth part of a man (NOUN) : XcGbDUb
+
+"niobium"
+% CONCRETE MATERIAL 
+(D|WlRwQ)
+
+"nip"
+% CONCRETE MATERIAL ACTION
+(BlX|RA|)
+# nip and tuck (ADV) : QbAUbWQbA^bIl
+
+"nip"
+% CONCRETE MATERIAL HUMAN
+(W|IRlDW|D)
+
+"nip"
+% CONCRETE MATERIAL 
+(XlAzQ)
+
+"nipa"
+% CONCRETE MATERIAL PLANT
+(Db]b WdXb)
+
+"nipper"
+(X|RAg)
+
+"nipple"
+% CONCRETE MATERIAL ANIMAL
+(XfXBlAX|)
+
+"nipplewort"
+(SlI|RcWW|)
+
+"nipponese"
+% HUMAN
+(W|IRlDW|D)
+
+"nippy"
+% HUMAN
+(GcXsW U|AGbWWz| WjAzR)
+
+"nipup"
+(AlAWk)
+
+"nirvana"
+% MATERIAL 
+(WjIRbD)
+
+"nit"
+% CONCRETE UNIT MATERIAL 
+(D|\z)
+
+"nit"
+% CONCRETE UNIT MATERIAL 
+(WbI)
+
+"nite"
+(RbQ)
+
+"niter"
+(X|IUbD [bIIwQ)
+
+"niter"
+(X|IUbD [bII|)
+
+"nitery"
+% PLACE
+(DbW|\z [zIIfR)
+
+"niton"
+(D|\lD)
+
+"nitrate"
+% CONCRETE MATERIAL 
+(X|IUbDWjQ)
+# nitrate of silver (NOUN) : X|IUbDWzD
+
+"nitration"
+(X|I^lb)
+
+"nitre"
+(X|IUbD [bII|)
+
+"nitride"
+(X|I^lbQsI)
+
+"nitrification"
+% MATERIAL 
+(X|I^lb)
+
+"nitrite"
+% CONCRETE MATERIAL 
+(WbX|IUbDWjQ)
+
+"nitrobacteria"
+% CONCRETE ANIMAL MATERIAL 
+(X|IUbD RbA\gI|Wb)
+
+"nitrobenzene"
+(D|\zIlRgDXgD)
+
+"nitrocotton"
+% CONCRETE MATERIAL 
+(QjD^lbWdA)
+
+"nitrogen"
+% CONCRETE MATERIAL 
+(X|IUl)
+# nitrogen cycle (NOUN) : X|IUlUsD^lbD
+# nitrogen dioxide (NOUN) : UbD^lbX|IUl
+# nitrogen fixation (NOUN) : AlWXsWX|IUl AlXfW
+# nitrogen mustard (NOUN) : X|IUl QfUz\fGz
+
+"nitrogenfixer"
+% ANIMAL
+(X|IUlAlXfWAwD)
+
+"nitroglycerin"
+(D|\zIlAzII|UgI|D)
+
+"nitroglycerine"
+(D|\zIlAzII|UgI|D)
+
+"nitrotoluene"
+(D|\zIl\lIIsWgD)
+
+"nitty-gritty"
+(RlDX|I)
+
+"nitwit"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbRl)
+
+"nix"
+% CONCRETE MATERIAL HUMAN
+(QsIWz| WrXfW)
+
+"nixie"
+(RcGbIRsIDzW Ws]jD)
+
+"nixy"
+(RcGbIRsIDzW Ws]jD)
+
+"no"
+% CONCRETE MATERIAL 
+(RsXfW)
+# || No | (ADV) : WbD|Wl
+# No Downing Street (NOUN) : WjWAsA UsUbW AlbDXf
+
+"no."
+(DfQRf)
+# no. NUM1 (NOUN) : [(NMODS NUM1 {+DGTNUM}) RfD<NOUN>]
+
+"no-account"
+% HUMAN
+(QsDzW^bD UbIbQ)
+
+"no-ball"
+(RbDZ|A \sAs)
+
+"no-being"
+(U|IXc^bX| WbD^WzQ)
+
+"no-count"
+% HUMAN
+(QsDzW^bD UbIbQ)
+
+"no-exception"
+(QsWkWl|)
+
+"no-good"
+(RsIIdW)
+
+"no-hitter"
+(QsWbD\b U|^bR)
+
+"no-man"
+% HUMAN
+(RjAZbW^l)
+
+"no-man`s-land"
+% PLACE
+(^lbWQsX|)
+
+"no-no"
+(AzQX|Ub^bW)
+
+"no-show"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Db\bDbX| WbD^DzD UbIbQ)
+
+"no-side"
+(AgW|QBz\)
+
+"no-trump"
+(WzHzQ ]c WfRUDzD UzWRs)
+
+"nob"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlAlbD)
+
+"nob"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QfI|)
+
+"nobelist"
+% HUMAN
+(DlRgIUbW UsUbWXb)
+
+"nobelium"
+% CONCRETE MATERIAL 
+(DlRgIIwQ)
+
+"nobelman"
+% HUMAN
+(UlUfIAb)
+
+"nobility"
+% CONCRETE MATERIAL 
+(AlAs|^bQ)
+
+"noble"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(As|XlA)
+
+"noble-mindedness"
+% MIND
+(GlIdWW| DfIRWzQ)
+
+"nobleman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(As|XlA)
+
+"nobleness"
+(AlAs|)
+
+"noblesse"
+% ORGAN
+(As|XlA Ub^l|)
+
+"noblewoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(As|XlAWz| RsW|D)
+
+"nobody"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbQs)
+
+"nock"
+(^lbIAlXb)
+
+"noctambulation"
+(QlWWwRjW)
+
+"noctambulism"
+% MATERIAL 
+(QlWXsW Rl^cW)
+
+"noctiluca"
+% CONCRETE ANIMAL MATERIAL 
+(WdAlbWZsW)
+
+"noctilucence"
+(RbQWz| W|DAlbW)
+
+"noctograph"
+(DlA\lAzIc]z)
+
+"noctovision"
+(WbQU| XbWZ|)
+
+"noctuary"
+(WdAbD UbAfDWz| A|IlA)
+
+"noctule"
+% ANIMAL
+(UbDRbAXs|)
+
+"nocturn"
+(WdUbWAlA)
+
+"nocturnal"
+(WdAbD U|AbA ZzAXfWA|)
+
+"nod"
+% CONCRETE MATERIAL ACTION
+(AlAcUX|U)
+# ^give a nod (VERB) : QsAIk^bGb
+# the land of Nod (NOUN) : XlIWzQ
+
+"noddie"
+% HUMAN
+(QfWZfWW|)
+
+"noddle"
+% ANIMAL
+(QfI|)
+
+"noddy"
+% HUMAN
+(RbRl)
+
+"node"
+% MATERIAL 
+(QbG|)
+
+"nodi"
+(QcGzRGzI)
+
+"nodosity"
+(GbXfIUfW)
+
+"nodule"
+(XbAWzD QbG|)
+
+"nodus"
+(QcGzR)
+
+"noesis"
+(W|DU|A)
+
+"noetic"
+% HUMAN
+(X|IjAWz|)
+
+"nog"
+(DbQsQlU)
+
+"nog"
+% FOOD
+(GlA^bD QcAXs)
+
+"noggin"
+% CONCRETE MATERIAL 
+(XbAWzD QcAXs[fR)
+
+"nogging"
+% CONCRETE ANIMAL MATERIAL 
+(QbAc RjAGlI)
+
+"noil"
+(YbIRWzD \fI)
+
+"noise"
+% CONCRETE MATERIAL 
+(XbRWzQ)
+# ^make a noise (VERB) : UlWzQWzI DcGb 
+# ^make a noise in the world (VERB) : ]jW]bDW| DbGb
+# noise in the ear (NOUN) : As|WsIWzQ
+# noise control (NOUN) : UlWzQ XlXlW
+# noise factor (NOUN) : UlWzQ X|Us
+# noise figure (NOUN) : UlWzQ X|Us
+# slight noise (NOUN) : Q|Ug^bD UlWzQ
+# street noises (NOUN) : AfI|Wz| UlWzQ
+
+"noiselessness"
+(XfWXfA)
+
+"noisemaker"
+% HUMAN
+(UlI|IzI DcDzD QsIAfD)
+
+"noisette"
+% FOOD
+(AlA| WrI|)
+
+"noisiness"
+% CONCRETE MATERIAL 
+(U|BzIfWsQ)
+
+"noisomeness"
+% CONCRETE MATERIAL 
+(^cIlWsQ)
+
+"noll"
+(QfI|)
+
+"nomad"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwQlAQ|D)
+
+"nomade"
+% HUMAN
+(WwQlAQ|D)
+
+"nomadism"
+(WwQlA UcW^lbI)
+
+"nomen"
+(W|IzQ)
+
+"nomenclator"
+% HUMAN
+(^bAQjW QjWQjWXb)
+
+"nomenclature"
+% MATERIAL 
+(^bAUsIXfA QjWQjWRfR)
+
+"nominal"
+(QjWUb UbWGbWWf)
+# nominal capital (NOUN) : AlWZ|W XbRlD
+# nominal peace (NOUN) : W|IzQSsDW|D ]jW^lb
+# nominal price (NOUN) : RsIzDzD AbRU
+
+"nominalism"
+% MATERIAL 
+(WwQjWIlD)
+
+"nominalist"
+% HUMAN
+(WwQjWIlDXb)
+
+"nomination"
+% CONCRETE MATERIAL 
+(X|QjW)
+# nomination of candidates for (NOUN) : ^sRl X|QjW
+
+"nominative"
+% MATERIAL 
+(XsAjA)
+# nominative absolute (NOUN) : GlAI|R XsAjA
+# nominative case (NOUN) : XsAjA
+
+"nominator"
+% HUMAN
+(X|QjWXb)
+
+"nominee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|QjWGl|D UbIbQ)
+# presidential nominee (NOUN) : Gc\lWIjW ^sRl X|QjWXb
+# GOP nominee (NOUN) : AlW^lbGbW X|QjW ^sRl
+
+"nomogram"
+% CONCRETE MATERIAL 
+(AkUbDGl]r)
+
+"nomograph"
+% CONCRETE MATERIAL 
+(AkUbDGl]r)
+
+"non-co-operation"
+(R|^jRIjA)
+
+"non-co-operationist"
+% HUMAN
+(R|^jRIjAXsWz|Xb)
+
+"non-co-operator"
+% HUMAN
+(R|^jRIjA XfWZcA XsWz|Xb)
+
+"non-profit"
+(R|WjWI|)
+# non-profit {+PLUR} (NOUN) : R|WjWI|RfRW|D
+
+"nonability"
+(RsIDzW)
+
+"nonabstainer"
+% HUMAN
+(UsIAsD)
+
+"nonacceptance"
+% MATERIAL 
+(RsIWzW)
+
+"nonaccess"
+(UfWArRsIDzW)
+
+"nonadmission"
+% MATERIAL 
+(W|RXbW AfXfI)
+
+"nonage"
+% MATERIAL HUMAN
+(Q|UfWDjD)
+
+"nonagenarian"
+% HUMAN
+(90 GcWz| UbIbQ)
+
+"nonaggression"
+(RsIZ|QIdA)
+# nonaggression pact (NOUN) : RsIAbZ|Q XlWdA
+
+"nonagon"
+(9 AbA^jW)
+
+"nonappearance"
+% MATERIAL 
+(RsIZbQ)
+
+"nonarrival"
+(RsIZbA)
+
+"nonart"
+% ART
+(RbDWkUsI)
+
+"nonary"
+(9 X|DRfRWzIl Db\bDcD Us)
+
+"nonattendance"
+% MATERIAL 
+(RsIZbQ)
+
+"nonattention"
+(RsXsWz|)
+
+"nonbelligerent"
+% ORGAN
+(R|ArXfDAsA)
+
+"nonbook"
+(ZcA WbD|D ZcA)
+
+"noncandidate"
+(RsIZsIQbXb)
+
+"nonce"
+% CONCRETE MATERIAL 
+(RbWAzQ)
+# nonce word (NOUN) : W|QU|Wf
+# nonce verb (NOUN) : GlWUb
+# for the nonce (ADV) : WsUfD
+
+"nonchalance"
+% CONCRETE MATERIAL MIND
+(QsAlbDU|Q)
+# with nonchalance (ADV) : \cWjD^|
+
+"nonclaim"
+(WrAs^bX| WbD^WzQ)
+
+"noncollegiate"
+% HUMAN
+(R| A|UsAUb ^bAUcW)
+
+"noncom"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bUbAlbD)
+
+"noncombatant"
+% HUMAN
+(R|XfD\sWsfD)
+
+"noncommitment"
+(R|GlWQcW)
+
+"noncommunicant"
+% HUMAN
+(WjWUfWZgIzI ^bX| WbD^WzD UbIbQ)
+
+"noncommunist"
+% HUMAN
+(R|AlWUbDXsWz|Xb)
+# noncommunist country (NOUN) : R|AlWUbDAsAAb
+# Noncommunist Affidavit (NOUN) : AlWUbDXsWz|Xb RcZfAUfWdAUf
+
+"noncompliant"
+% HUMAN
+(RlAXlW^bX| WbD^DzD UbIbQ)
+
+"noncon"
+% HUMAN
+(R|AsAArGl)
+
+"nonconductor"
+% CONCRETE MATERIAL 
+(XfIWjDZg)
+
+"nonconfidence"
+% MIND
+(RsIU|DW|Q)
+# nonconfidence vote (NOUN) : RsIU|DW|Q \s]r
+
+"nonconformant"
+% HUMAN
+(R|AsAArGl)
+
+"nonconformist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|AsAArGl)
+
+"nonconformity"
+% CONCRETE MATERIAL 
+(AsAArIzI U|DRlW^bX| WbD^WzQ)
+
+"noncontent"
+% ACTION
+(RbDGc \s]r)
+
+"noncontradiction"
+(QlUsDW| WfRUWzQ)
+
+"noncooperation"
+(R|^jRXl)
+
+"nondelivery"
+(W|DGl RsIDzW)
+
+"nondescript"
+% HUMAN
+(XfWZgQlIzI UbIbQ)
+
+"nondurable goods"
+(R|DcAsXc)
+
+"nondurables"
+(R|DcAsXc)
+
+"noneffective"
+% HUMAN
+(XfD\sIjAW| WfRUDzD AsDW|D)
+
+"nonefficient"
+% HUMAN
+(Q|ArWwA X|WsfDRjW)
+
+"nonego"
+(R|Wb)
+
+"nonentity"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlDXc^bX| WbD^WzQ)
+
+"nones"
+% MATERIAL 
+(Xg 9 U|Wz| A|Gl)
+
+"nonessential"
+(R|RlDX|IXfAW|D AfU)
+
+"nonesuch"
+(QlRfQ)
+
+"nonet"
+% ART
+(9 XsWXsAlA)
+
+"nonevent"
+(RsIRbI UbAfD)
+
+"nonexistence"
+% MATERIAL 
+(XlDXc^bX| WbD^WzQ)
+
+"nonfeasance"
+% MATERIAL 
+(Wz|QsRsIW|^cW)
+
+"nonfiction"
+% CONCRETE MATERIAL ART
+(DlD]|AUjD)
+# nofiction novel (NOUN) : DlD]|AUjD UlUfI
+
+"nonfulfillment"
+(RsIW|^cW)
+
+"nonfulfilment"
+(RsIW|^cW)
+
+"nonillion"
+(RcAQbDWz| Wb^lR XgAlR)
+
+"nonimmigrant"
+% HUMAN
+(W|QU| W|RAsAXb)
+
+"noninterference"
+(RsIAbDUfR)
+
+"nonintervention"
+(DcXfW RsIAbDUfR)
+
+"noninterventionist"
+% HUMAN
+(DcXfW RsIAbDUfR XsWz|Xb)
+
+"nonintrusion"
+(UfWX|A UsWjXbDzD U|DGlGzIW| U|I^Wf^bDzD QlAUbIzI W|QQjW^cUfDzD WbDGl|DGbDzD)
+
+"nonjuror"
+% HUMAN
+(UfDUf AfRsXb)
+
+"nonlife"
+(QsUcWQjW)
+
+"nonmember"
+% HUMAN
+(R|^l|WsfD)
+# nonmember bank (NOUN) : R|AbQcW WzD^cW
+
+"nonmetal"
+(R|AzQUlA)
+
+"nonnuclear"
+(R|^cAAsA)
+
+"nonobservance"
+(Ws|RbD)
+
+"nonpareil"
+% CONCRETE MATERIAL 
+(Zl|Al]sQ)
+
+"nonpayment"
+% MATERIAL ECOLIFE
+(Q|X|RsI)
+
+"nonperformance"
+% MATERIAL
+(RsIW|^cW)
+
+"nonperson"
+(R|U|IXcW|D)
+
+"nonplus"
+(DbDZf^bD W|RXbW)
+# ^put to a nonplus (VERB) : WcQfAW|Gb
+# ^reduce to a nonplus (VERB) : WcQfAW|Gb
+# ^stand at a nonplus (VERB) : X|D\l|WdWDbDWg Zf^bGb
+
+"nonprofessional"
+% HUMAN
+(R|XfDQsDAb)
+
+"nonproliferation"
+(R|^lbAUbD)
+# nonproliferation of nuclear weapons (NOUN) : ^cAQsA|Wz| R|^lbAUbD
+# the nonproliferation treaty (NOUN) : ^cA^lbAUbD RbWX| XlWdA
+
+"nonreader"
+% HUMAN
+(R|GlAUfAb)
+
+"nonresidence"
+(R|AfXs)
+
+"nonresidency"
+(R|AfXs)
+
+"nonresident"
+(R|AfXsXb)
+# nonresident landlord (NOUN) : RsXc X|Xs
+
+"nonresistance"
+(QsXf^bW)
+
+"nonresistant"
+% HUMAN
+(QsXf^bWXsWz|Xb)
+
+"nonsense"
+% CONCRETE MATERIAL 
+(^f\zDUlI|)
+# ^stand no nonsense from a person (VERB) : WbRsWz| ^f\zD UsXbAWzI RlAlQbD W|VX| WbD^Gb
+
+"nonsked"
+% ORGAN
+(RsXfWA| ^bWAlW^l|Ub)
+
+"nonsmoker"
+% HUMAN
+(R|^zRWjDAb)
+
+"nonsolvent"
+(R|WrWXg)
+
+"nonstarter"
+% HUMAN
+(ZsIRbIW| GfG|D UbIbQ)
+
+"nonstop"
+(X|A^cW WsDXfD)
+
+"nonsuch"
+(QlRfQ)
+
+"nonsuit"
+(UlUlWWz| Zs|^b)
+
+"nonsupport"
+% ACTION
+(RsWdW RsIW|^cW)
+
+"nonunionism"
+% ACTION
+(DlGlWXl^bR RsIAbW|R)
+
+"nonunionist"
+% HUMAN
+(DlXl RbDGcXb)
+
+"nonuse"
+(UbWrW^bX| WbD^WzQ)
+
+"nonuser"
+% ACTION
+(AsfDI| ]lA|)
+
+"nonviolence"
+(R|]lAIjA)
+
+"nonvoter"
+% HUMAN
+(\s]r A|AsfDXb)
+
+"nonwhite"
+% HUMAN
+(RcAW|DXlWW| WbD|D UbIbQ)
+
+"noodle"
+% CONCRETE MATERIAL FOOD
+(AsAUs)
+
+"noodle"
+% CONCRETE MATERIAL 
+(RbRl)
+
+"nook"
+% CONCRETE MATERIAL 
+(AsUfA)
+# ^look in every nook and corner (VERB) : Ub\Ub\W| ZbXGb
+
+"noon"
+% MATERIAL TIME
+(XfWWl)
+# at noon (ADV) : XfWWlWg
+# at the noon of ONE_S career (ADV) : UcWWcWz| XfDUfWA|Wg
+# before noon (ADV) : WlXfDWg
+# after noon (ADV) : Wl^sWg
+# noon of night (NOUN) : ^bDRbQXsW
+# the noon of life (NOUN) : XbWDjDA|
+
+"noonday"
+% MATERIAL TIME
+(XfWWl)
+
+"noonflower"
+% PLANT
+(UlIW|]AsA^lb)
+
+"nooning"
+% TIME
+(XfWWl)
+
+"noontide"
+% TIME
+(XfWWl)
+
+"noontime"
+% TIME
+(XfWWl)
+
+"noose"
+% CONCRETE MATERIAL 
+(QcGzR)
+# ^put ONE_S neck into the noose (VERB) : XbUzW XbRbA^bGb
+
+"nor-wester"
+(Ww]lIl QbDGzD QlXb)
+
+"nora"
+(DlIb)
+
+"nordic"
+% HUMAN
+(RsAWwIfR UbIbQ)
+
+"norland"
+% PLACE
+(RsAAzA)
+
+"norlander"
+% HUMAN
+(RsAAzAW|D)
+
+"norm"
+% CONCRETE MATERIAL 
+(]rXsD)
+
+"norma"
+(DlIzQb)
+
+"normal"
+(]rXsD)
+# above normal (NOUN) : ]rXsD W|UbW
+# below normal (NOUN) : ]rXsD W|^b
+
+"normalcy"
+% CONCRETE MATERIAL 
+(XfWUbW)
+
+"normality"
+% CONCRETE MATERIAL 
+(XfWUbW)
+
+"normalization"
+% MATERIAL 
+(]rXsD^lb)
+# Korea Japan normalization talks (NOUN) : ^bDW|I AlbDAk XfWUbW^lb ^l|GbQ
+
+"norman"
+% HUMAN
+(DlIzQbDG| UbIbQ)
+
+"norman-french"
+(DlIzQbD]zIbWUz QbI)
+
+"normanism"
+(DlIzQbDU|A)
+
+"normanization"
+(DlIzQbD^lb)
+
+"normotensive"
+% HUMAN
+(XfWUbW ^jIWbRWz| UbIbQ)
+
+"norse"
+% HUMAN
+(AlGc DlIzWsgW| UbIbQ)
+
+"norseman"
+% HUMAN
+(RsAWwIfR UbIbQ)
+
+"norsk"
+% HUMAN
+(AlGc DlIzWsgW| UbIbQ)
+
+"north"
+% CONCRETE MATERIAL 
+(RsAYlA)
+# north by east (NOUN) : GlWRsAYlA
+# north by west (NOUN) : UfRsAYlA
+# north of A (NOUN PP) : 1) [(POSS A/Wz|) RsAYlA<NOUN>] 
+			 2) (RELCL [(ADJUNCT [(POSS A/Wz|) RsAYlA<NOUN>]/Wg) W|V<VERB>]/^bD)
+# ^sail north $ (VERB) : RsAYlAWzIl ^bW^c^bGb
+# ^sail north for A {-UNIT,-ANIMAL,-TIME,-KNUM} (VERB) : [(ADJUNCT [(OBJ A/IzI) ^dW^b<VERB>]/^bWj) (ADJUNCT [RsAYlA<NOUN>]/WzIl) ^bW^c^b<VERB>]/Gb
+
+"north-easternmost"
+(GlWRsAGbD)
+
+"north-north-east"
+(RsARsAGlW)
+
+"north-north-west"
+(RsARsAUf)
+
+"northeast"
+% CONCRETE MATERIAL 
+(GlWRsAYlA)
+# northeast by east (NOUN) : WdAAbD GlWYlAWzIl A|WsD GlWRsA
+
+"northeaster"
+(GlWRsA]sW)
+
+"northeasternmost"
+(GlWRsAGbD)
+
+"northeastward"
+(GlWRsARbW)
+
+"norther"
+% MATERIAL 
+(AbW^bD RsA]sW)
+
+"northern"
+% HUMAN
+(RsARs X|RbW UbIbQ)
+
+"northerner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsAAsAUbIbQ)
+
+"northing"
+(RsAX|D)
+
+"northland"
+% PLACE
+(RsAAsA)
+
+"northlander"
+% HUMAN
+(RsAAsA UbIbQ)
+
+"northman"
+% HUMAN
+(RsAWwIfR UbIbQ)
+
+"northumbrian"
+(DlVzWsQRzI|Wb RbWWfD)
+
+"northward"
+(RsARbW)
+
+"northwest"
+% CONCRETE MATERIAL 
+(UfRsA)
+# northwest by west (NOUN) : WdAAbD UfYlAWzIl A|WsD UfRsA
+
+"northwester"
+(UfRsA]sW)
+
+"norwegian"
+% HUMAN
+(DlIzWsgW| UbIbQ)
+
+"nose"
+% CONCRETE MATERIAL ANIMAL
+([l)
+# an a Roman nose (NOUN) : QgRsI|[l
+# an aquiline nose (NOUN) : QgRsI|[l
+# as plain as the nose in ONE_S face (ADV) : WbXs QjWRcA^bWj
+# as plain as the nose on ONE_S face (ADV) : WbXs QjWRcA^bWj
+# ^bite a person's nose off (VERB) : \sWQjWUzIfRAg GcGbR^bGb
+# ^blow ONE_S nose (VERB) : [lIzI ]sIGb
+# ^count noses (VERB) : ZbDUfWXbWz| UsIzI UgGb
+# ^cut off ONE_S nose to spite ONE_S face (VERB) : ^lbUA|QWg UlD^c RlI W|IWzI ^bGb
+# ^follow ONE_S nose (VERB) : AlGXbW AbGb
+# ^have a good nose (VERB) : DcQUcIzI XbI Qb\Gb
+# ^hold ONE_S nose (VERB) : [lIzI XbRGb
+# in spite of a person's nose (ADV) : DbQWz| RbDGcIzI QsII|Z|Al
+# ^lead a person by the nose (VERB) : DbQWzI QcWXlWU|[|Gb
+# ^look down ONE_S nose at A (VERB) : [(OBJ A/WzI) BbIRl<VERB>]/Gb
+# ^make a long nose at a person (VERB) : DbQWzI DlII|Gb
+# ^make a person's nose swell (VERB) : DbQWzI RsIfWsf^bAg ^bGb
+# nose to nose (ADV) : [lIzI QbXGcAl
+# ^pay through the nose (VERB) : \fQsD| WfRUGb
+# ^poke ONE_S nose into (VERB) : ZbQAjD^bGb
+# ^pull a person by the nose (VERB) : DbQWz| [lIzI XbRWbGbWA|Gb
+# ^pull a person's nose (VERB) : DbQWz| [lIzI XbRWbGbWA|Gb
+# ^put ONE_S nose into (VERB) : ZbQAjD^bGb
+# ^put a person's nose out_of joint (VERB) : DbQWzI Q|IWfDcAl XgAb GzIWfWbDXGb
+# ^snap a person's nose off (VERB) : \sWQjWUzIfRAg GcGbR^bGb
+# ^speak through ONE_S nose (VERB) : [lUUlI|Il QbI^bGb
+# ^tell noses (VERB) : ZbDUfWXbWz| UsIzI UgGb
+# the bridge of the nose (NOUN) : [lUGc
+# ^turn up ONE_S nose at A (VERB) : [(OBJ A/WzI) AjWQjI^b<VERB>]/Gb
+# through the nose (ADV) : [lQfAWzD UlI|Il
+# ^thrust ONE_S nose into (VERB) : ZbQAjD^bGb
+# under a person's nose (ADV) : DbQWz| RbIl DsDWb] WgUf
+# ^win by a nose (VERB) : AzDUl^bD ZbIl W|A|Gb
+
+"nose-dive"
+% ACTION
+(]lAIbA)
+
+"nose-thumbing"
+(XlIlWWz| QlQX|U)
+
+"noseband"
+(XcAbIAbXsA)
+
+"nosebleed"
+([l]|)
+
+"nosegay"
+% CONCRETE MATERIAL PLANT
+(BlZGbRbI)
+
+"nosemonkey"
+([lAb [zD WsfDUsWW|)
+
+"nosepiece"
+% CONCRETE MATERIAL 
+(XcAbIAbXsA)
+
+"noser"
+% ACTION
+([lWg Xs|WfRbAA|)
+
+"nosewheel"
+(A|Us Rb[s|)
+
+"nosh"
+% CONCRETE MATERIAL 
+(AjWU|AUb)
+
+"nosing"
+(G|G|]bD [l)
+# nosing over (NOUN) : AlDGsUfA|
+
+"nosography"
+% ART
+(X|IRjW A|UsI^bA)
+
+"nosology"
+% MATERIAL ART
+(X|IRjW RsDIw^bA)
+
+"nostalgia"
+% MATERIAL 
+(^dWUs)
+
+"nostalgiac"
+% HUMAN
+(^dWUsRjW ^lbDXb)
+
+"nostalgic"
+% HUMAN
+(^dWUsWg XfXDzD UbIbQ)
+
+"nostradamus"
+% HUMAN
+(WkWfDXb)
+
+"nostril"
+% CONCRETE MATERIAL 
+([lUAsQfW)
+# ^sink in ONE_S noses (VERB) : [lIzI GzI UsAb WfRUGb
+
+"nostrum"
+(\zA^rWdA)
+
+"nosy"
+% HUMAN
+([lAb [zD UbIbQ)
+
+"not-being"
+(RsXlDXc)
+
+"not-self"
+(R|Wb)
+
+"notabilia"
+(XsWz|Ub^bW)
+
+"notability"
+(XfQjW)
+
+"notable"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfQjW W|DUb)
+
+"notandum"
+(XsWz| Ub^bW)
+
+"notary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWXzWW|D)
+
+"notation"
+% CONCRETE MATERIAL 
+(]rU|RfR)
+# broad phonetic notation (NOUN) : AbDIdA ]rWzQRfR
+# chemical notation (NOUN) : ^lb^bA A|^lRfR
+# decimal notation (NOUN) : 10 X|DRfR
+# handwritten notation (NOUN) : Xb]|I QgQl
+# musical notation (NOUN) : A|RlRfR
+# narrow phonetic notation (NOUN) : XfWQ|I ]rWzQRfR
+# the common scale of notation (NOUN) : 10 X|D A|UsRfR
+
+"notch"
+% MATERIAL 
+(UcA|D DsDAzQ)
+# ^be a notch above the others (VERB) : DbQRlGb ^bD Us Dl]Gb
+
+"notch-board"
+(UbGbAGbI|Wz| G|G|Q]bD)
+
+"notchwing"
+% ANIMAL
+(W|]QbIW|DbRbW)
+
+"note"
+% CONCRETE MATERIAL 
+(Dl\z)
+# bank note (NOUN) : WzD^cWAsfD
+# collateral note (NOUN) : GbQRlRsWdAUlAWfWzQ
+# confirmation note (NOUN) : ^lbAW|DUf
+# convertible note (NOUN) : ^lbAW|DUf
+# damaged bank notes (NOUN) : UlDRsWzD^cWAsfD
+# diplomatic note (NOUN) : Wl|Ar QsDUf
+# eighth note (NOUN) : 8 RsDWzQ]r
+# forged note (NOUN) : Ws|XlX|]k
+# government note (NOUN) : XfWRsRbI^cWX|]k
+# half note (NOUN) : RbDWzQ]r
+# irredeemable bank note (NOUN) : RsI^lbDX|]k
+# ^make a note of A (VERB) : [(OBJ A/IzI) A|IlA^b<VERB>]/Gb
+# ^make a note on a piece of paper (VERB) : XlWW|Wg QgQlIzI ^bGb
+# ^make a speech without a note (VERB) : ZlAlWfRUW| WjDUfI^bGb
+# ^make a speech without notes (VERB) : ZlAlWfRUW| WjDUfI^bGb
+# man of note (NOUN) : QjWUb
+# marginal notes (NOUN) : RbWXs
+# negotiable note (NOUN) : Ww\lWWdAUlAWfWzQ
+# note at sight (NOUN) : W|IIbQRsIWdAUlAWfWzQ
+# note circulation (NOUN) : WzD^cWAsfDRbI^cWAl
+# note issue (NOUN) : WzD^cWAsfD RbI^cWAl
+# note in circulation (NOUN) : WzD^cWAsfD RbI^cWAl
+# note of exclamation (NOUN) : AbQ\bDRs^l
+# note of invitation (NOUN) : ZlGcXbW
+# note payable (NOUN) : X|RsIWdAUlAWfWzQ
+# note receivable (NOUN) : UsZs|WdAUlAWfWzQ
+# note to bearer (NOUN) : X|ZbQW|DRsIWdAUlAWfWzQ
+# note to order (NOUN) : X|U|W|DRsIWdAUlAWfWzQ
+# notes from Paris (NOUN) : ]bI| UlU|A
+# notes on Shakespeare (NOUN) : UgW|AUz]|WfWz| Xs^c
+# promissory note (NOUN) : WdAUlA WfWzQ
+# quarter note (NOUN) : 4 RsDWzQ]r
+
+# thank you note (NOUN) : GbRIkXbW
+# thank-you note (NOUN) : AbQUb ]jDX|
+# thing worthy of notes (NOUN) : XsQlA^bI QbD^bD Ub^bW
+# the bird's merry note (NOUN) : UcGzIWz| XzIAfWsD X|XfAs|Q
+# with a note of censure (ADV) : R|DbDXlIl
+# whole note (NOUN) : WlDWzQ]r
+
+"notebook"
+% CONCRETE MATERIAL 
+(AlWZcA)
+
+"notecase"
+(X|AbR)
+
+"notedness"
+(XfQjW^bQ)
+
+"notehead"
+(]jDX|X| Ws|YlAWg W|DUlc^bD AzIV|)
+
+"noteholder"
+% HUMAN ECOLIFE
+(WfWzQ UlX|W|D)
+
+"notelet"
+(YbIRWzD ]jDX|)
+
+"notepaper"
+% CONCRETE MATERIAL 
+(]jDX|X|)
+
+"noteshaver"
+% HUMAN
+(AlI|GcAzQWfRXb)
+
+"noteworthiness"
+(XsQlA^bI QbD^bQ)
+
+"nothingarian"
+% HUMAN
+(QsU|DIlDXb)
+
+"nothingness"
+% CONCRETE MATERIAL 
+(Qs)
+
+"notice"
+% CONCRETE MATERIAL 
+(XsWz|)
+# at a moment's notice (ADV) : XzAAbA
+# at short notice (ADV) : AbRXbA|
+# at a moment's notice (ADV) : AlG
+# at ten days notice (ADV) : WjI^zI WkAlIl
+# on ten days notice (ADV) : ^bDGbI WkAlIl
+# beneath ONE_S notice (ADV) : W|IAlWz| AbZ|Gl WfRUDzD
+# ^be under notice (VERB) : WkAlIzI RbGAl W|VGb
+# ^bring A to A's notice (VERB) : [(OBJ A/WzI) (OCOMP [(ADJUNCT [(POSS [DbQ<NOUN>]/Wz|) DsD<NOUN>]/Wg) Hz|<VERB>]/^bAg) ^b<VERB>]/Gb
+# ^bring A under A's notice (VERB) : [(OBJ A/WzI) (OCOMP [(ADJUNCT [(POSS [DbQ<NOUN>]/Wz|) DsD<NOUN>]/Wg) Hz|<VERB>]/^bAg) ^b<VERB>]/Gb
+# ^come into notice (VERB) : XsWz|IzI BzIGb
+# ^come under notice (VERB) : XsWz|IzI BzIGb
+# ^give notice of A (VERB) : [(OBJ A/WzI) \lWX|^b<VERB>]/Gb
+# ^give notice to A (VERB) : [(ADJUNCT A/Wg) U|DAl^b<VERB>]/Gb
+# ^give a week's notice (VERB) : W|IXsW|IXfDWg ^cAlIzI \lWX|^bGb
+# ^have notice of A (VERB) : [(OBJ [(POSS A/Wz|) \lWX|<NOUN>]/IzI) RbG<VERB>]/Gb
+# notice of appeal (NOUN) : ^bWUlXbW
+# notice of dishonor (NOUN) : WfWzQ RsGl \lWX|Uf
+# notice of dishonour (NOUN) : WfWzQ RsGl \lWX|Uf
+# notice of protest (NOUN) : AfXfI \lWX|Uf
+# on NUM1 days' notice (PP->ADV) : (ADJUNCT [(POSS [(NMODS [(NMODS NUM1) W|I<NOUN>]) XfD<NOUN>]/Wz|) WkAl<NOUN>]/Il)
+# ^post a notice (VERB) : AgU|^bGb
+# ^put up a notice (VERB) : AgU|^bGb
+# ^put a notice in the papers (VERB) : U|DQsDWg AlbWAlIzI DcGb
+# rave notice (NOUN) : Z|WZbD ]jDX|
+# ^serve a notice to A (VERB) : [(OBJ2 A/WgAg) \lWX|^b<VERB>]/Gb
+# ^take no notice of A (VERB) : [(OBJ A/WzI) QsU|^b<VERB>]/Gb
+# ^take notice (VERB) : XsWz|^bGb
+# ^sit up and take notice (VERB) : ZbGlAb RlW|Gb
+# ^take notice of A (VERB) : [(OBJ A/WzI) ^lbDGc^b<VERB>]/Gb
+# ^take notice that SENT (VERB) : [(SCOMP SENT/^bGlIlA) XsWz|^b<VERB>]/Gb
+# till further notice (ADV) : Zs^s \lWX|W|VWzI HcBbX|
+# until further notice (ADV) : Zs^s \lWX|W|VWzI HcBbX|
+# without notice (ADV) : WkAlWfRUW| 
+# without advance notice (ADV) : WkAlWfRUW|
+# without previous notice (ADV) : WkAlWfRUW|
+# notice board (NOUN) : AgU|]bD
+# obituary notice (NOUN) : UbQbW A|Ub
+# good notice (NOUN) : ^l]jW
+# favorable notice (NOUN) : ^l]jW
+# book notice (NOUN) : Uf]jW
+
+"notification"
+% CONCRETE MATERIAL 
+(\lWX|)
+
+"notion"
+% CONCRETE MATERIAL 
+(AcDjQ)
+# the first notion (NOUN) : 1 ZbXfA AcDjQ
+# the second notion (NOUN) : 2 ZbXfA AcDjQ
+# ^have no notion of economy (VERB) : AjWXg AlbDDjQW| WfRUGb
+# ^have a notion of A (VERB) : [(OBJ A/WzI) WbIAl W|V<VERB>]/Gb
+# ^have no notion of PREP (VERB) : [(SCOMP [(RELCL PRESP/^bI) Wz|^dW<NOUN>]/WzD) WfRU<VERB>]/Gb
+
+"notochord"
+% CONCRETE MATERIAL 
+(ZfAUcA)
+
+"notoriery"
+(WbA]jW)
+
+"notoriety"
+(WbAQjW)
+
+"notoriousness"
+(WbAQjW^bQ)
+
+"notre dame"
+% HUMAN
+(UfWQl QbI|Wb)
+
+"nougat"
+% CONCRETE MATERIAL 
+(DsAb)
+
+"nought"
+% CONCRETE MATERIAL 
+(Qs)
+# ^bring to nought (VERB) : U|I]cU|[|Gb
+# ^come to nought (VERB) : U|I]c^bGb
+# nought and crosses (NOUN) : 3 QlA Dl^A|
+# ^set at nought (VERB) : QsU|^bGb
+
+"noumenon"
+% MATERIAL 
+(RlDZg)
+
+"noun"
+% MATERIAL 
+(QjWUb)
+# noun of multitude (NOUN) : XsWGb QjWUb
+# noun phrase (NOUN) : QjWUbAs
+# noun clause (NOUN) : QjWUbXfI
+# noun substantive (NOUN) : U|IQjWUb
+
+"nourishment"
+% CONCRETE MATERIAL 
+(XbWdWQsI)
+
+"nous"
+(QbWzQ)
+
+"nova"
+% CONCRETE MATERIAL 
+(U|DUfW)
+
+# bossa nova (NOUN) : RlUb DlRb
+
+"novation"
+(AcWU|D)
+
+"novel"
+% CONCRETE MATERIAL ART
+(UlUfI)
+# historical novel (NOUN) : WjAUb UlUfI
+# popular novel (NOUN) : GcXsW UlUfI
+# modern novel (NOUN) : ^jDGc UlUfI
+
+"novelese"
+(UlUfIAb QsDZg)
+
+"novelette"
+% ART
+(XsW]jDUlUfI)
+
+"novelist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UlUfIAb)
+
+"novelization"
+% MATERIAL 
+(UlUfI^lb)
+
+"novella"
+% ART
+(GbD]jD UlUfI)
+
+"novelty"
+% CONCRETE MATERIAL 
+(U|DA|^bQ)
+
+"novena"
+(9 W|IAbDWz| A|Gl)
+
+"novice"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZlU|QXb)
+
+"noviciate"
+% ART
+(UsIjDUb)
+
+"novitiate"
+% ART
+(UsIjDUb)
+
+"novocain"
+(DlRl[bW|D)
+
+"novocaine"
+% CONCRETE MATERIAL 
+(DlRl[bW|D)
+
+"now"
+% CONCRETE MATERIAL TIME
+(X|AzQ)
+# but now | (ADV) : AzIfDb X|AzQ
+# by now $ (ADV) : X|AzQYzQWzD
+# for now $ (PP->ADV) : GbWRsDAbD
+# from now on (ADV) : X|AzQRs\f
+# from now forwards (ADV) : X|AzQRs\f
+# right now $ (ADV) : X|AzQ
+# till now (ADV) : X|AzQBbX|
+# up to now (ADV) : X|AzQBbX|
+# what about now ? (SENT) :  (QUES [(SUBJ [X|AzQ<NOUN>]/WzD) WfHf^<ADJ>]/Gb)
+
+"nowadays"
+% CONCRETE MATERIAL TIME
+(^jDGc)
+
+"nowhere"
+(QsQjW)
+# ^be nowhere near A (VERB) : [(ADJUNCT A/Wg) (MODS [XfD^j<ADV>]) AbBbRX| WbD^<ADJ>]/Gb
+
+"nox"
+% HUMAN
+(RbQWz| WjU|D)
+
+"noxiousness"
+% CONCRETE MATERIAL 
+(Ww^c)
+
+"noyau"
+% FOOD
+(RzIcDG|Wg RlAUsWWbV|Wz| W|DWzI Df^Wf QbUWzI GzIW|D I|[wIzUsI)
+
+"nozzle"
+% CONCRETE MATERIAL 
+(RbIUbAs)
+
+"nu"
+(Dw)
+
+"nuance"
+% CONCRETE MATERIAL 
+(Ds|WbWUz)
+
+"nub"
+(GfWWfI|)
+
+"nubbin"
+(XbAAl GfI WjQsD AfU)
+
+"nubble"
+(XbAWzD GfWWfI|)
+
+"nubian"
+% HUMAN
+(DwR|Wb ^zAW|D)
+
+"nubility"
+(^lDA|)
+
+"nuclear"
+(^cAQsA|)
+
+"nuclear agency"
+(^cAA|AlbD)
+
+"nuclearism"
+% ART
+(^cAQsA| X|X|IlD)
+
+"nuclearist"
+% HUMAN
+(^cAQsA| X|X|IlDXb)
+
+"nucleation"
+(^cA^jWUfW)
+
+"nuclei"
+(^cAGzI)
+
+"nucleolus"
+(W|D)
+
+"nucleon"
+% CONCRETE MATERIAL 
+(^cAW|RXb)
+
+"nucleonics"
+% ART
+(WsfDXb^cAQsII|^bA)
+
+"nucleoplasm"
+% CONCRETE MATERIAL 
+(^cAX|I)
+
+"nucleosynthesis"
+(^cA^bRUfW)
+
+"nucleus"
+% CONCRETE MATERIAL 
+(^cA)
+
+"nuclide"
+(^cAXlW)
+
+"nude"
+% CONCRETE MATERIAL 
+(DbZg)
+
+"nudge"
+(]bIBsQZ|Il Y|IzA|)
+
+"nudie"
+(DsGzQsI)
+
+"nudism"
+% ART
+(DbZgXsWz|)
+
+"nudist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbZgXsWz|Xb)
+
+"nudity"
+% MATERIAL 
+(XfADbIb)
+
+"nudnik"
+(AlIZ|GfWW|)
+
+"nuggar"
+(]lAW| DfIRWzD X|Q Rc)
+
+"nugget"
+(GfWWfI|)
+
+"nuisance"
+% MATERIAL 
+(UfWAbU|D W|I)
+# ^abate a nuisance (VERB) : RsIRfRXfA RbW^cAb Gl|DzD AfUWzI XgAf^bGb
+# Commit no nuisance (NOUN) : UlRjD AzQX|
+# ^make a nuisance of ONESELF (VERB) : DbQWgAg ]kIzI B|Z|Gb
+# ^make ONESELF a nuisance (VERB) : DbQWgAg ]kIzI B|Z|Gb
+# nuisance tax (NOUN) : UlWcA UlR|Ug
+# public nuisance (NOUN) : AlWXfA RsIRfR RbW^c
+# private nuisance (NOUN) : UbXfA RsIRfR RbW^c
+# the index number of nuisance (NOUN) : RsI[lcX|Us
+
+"nuke"
+% CONCRETE ANIMAL MATERIAL 
+(^cA]lA\bD)
+
+"null"
+(Qs)
+
+"nullification"
+% MATERIAL 
+(Qs^r)
+
+"nullificationist"
+% HUMAN
+(WjDRbWRfRWz| U|IU|AfRsXb)
+
+"nullificationist"
+% HUMAN
+(WjDRbWRfRWz| U|IU|AfRsXb)
+
+"nullifier"
+% HUMAN
+(Qs^rIl ^bDzD UbIbQ)
+
+"nullity"
+(Qs^r)
+# nullity suit (NOUN) : AjI^lD Qs^r UlUlW
+
+"number"
+% STATE 
+(Us)
+# any number of (ADJ) : QbD^Gb
+# a number of (ADJ) : QbD^Gb
+# a number of a/an/the (ADJ) : QbD^Gb
+# a number of times (NOUN ADV) : 1) WjIfRfD
+	2) WjIfRfD
+# a fair number of (ADJ) : QbD^Gb
+# a great number of (ADJ) : QbD^Gb
+# a great number of a/an/the (ADJ) : QbD^Gb
+# a large number of (ADJ) : QbD^Gb
+# a large number of a/an/the (ADJ) : QbD^Gb
+# a limited number of (ADJ) : Xg^bDGl|D UsWz|
+# a limited number of a/an/the (ADJ) : Xg^bDGl|D UsWz|
+# a small number of (ADJ) : XfAWzD UsWz|
+# a small number of a/an/the (ADJ) : XfAWzD UsWz|
+# a growing number of ^A (NOUN) : [(POSS [XfQXfQ Gf XzWAb^bDzD Us<NOUN>]/Wz|) A]
+# back number (NOUN) : QsAWzD ^l
+# by numbers (PP) : UsWz| WsUgIl
+# consecutive number (NOUN) : WjDUlA RfD^l
+# countless number of A (NOUN) : [(AMODS [(MODS UgIUsWfRUW|<ADV>]) QbD^<ADJ>]/WzD) A]
+# digit number (NOUN) : XbI|Us
+# even number (NOUN) : YbAUs
+# extension number (NOUN) : DcUfD RfD^l
+# extra number (NOUN) : W|QU| XsWAbD^l
+# fractional number (NOUN) : RsDUs
+# high number (NOUN) : [zD Us
+# house number (NOUN) : RfDX|
+# in round numbers (PP) : GcZsW
+# in small numbers (PP) : UlUsIl
+# in great numbers (PP) : GbUsIl
+# large number of A (NOUN) : [(AMODS [QbD^<ADJ>]/Gb) A]
+# license number (NOUN) : GzWIlA RfD^l
+# low number (NOUN) : XbAWzD Us
+# main number (NOUN) : Gc]rRfD^l
+# ^make up by numbers (VERB) : UsWz| ^|QWzIl ^cDcGb
+# number of invoice (NOUN) : UlWXbWRfD^l
+# number of order (NOUN) : XsQsDRfD^l
+# odd number (NOUN) : ^lIUs
+# phone number (NOUN) : XfD^lbRfD^l
+# quite a large number of A (ADJ) : [(AMODS [(MODS [QcWs<ADV>]) QbD^<ADJ>]/Gb) A]
+# serial number (NOUN) : W|IIjD RfD^l
+# the number NUM1 (NOUN) : [(NMODS NUM1) RfD<NOUN>]
+# the numbers and extension (NOUN) : Gc]rRfD^lWlb DcUfDRfD^l
+# the same number of (ADJ) : Ab\WzD UsWz|
+# the same number of A as B (NOUN) : [(POSS [(AMODS [(COMP B/Wlb) Ab\<ADJ>]/^bD) Us<NOUN>]/Wz|) A]
+# the science of numbers (NOUN) : UbDUsI
+# the singular number (NOUN) : GbDUs
+
+"numberer"
+% HUMAN
+(UgDzD UbIbQ)
+
+"numbers"
+% MATERIAL 
+(Q|DUsA|)
+
+"numbfish"
+% ANIMAL
+(U|BzDAbWlI|)
+
+"numbness"
+(QbR|)
+
+"numbness"
+(QbR|)
+
+"numbskull"
+(RbRl)
+
+"numdah"
+% CONCRETE ANIMAL MATERIAL 
+(W|IXlWWz| ]gI\z ZfD)
+
+"numeral"
+% CONCRETE MATERIAL 
+(UsXb)
+# Arabic numbers (NOUN) : WbIbR|Wb UsXb
+# Roman numbers (NOUN) : IlQb UsXb
+
+"numeration"
+% CONCRETE MATERIAL 
+(AkUs)
+# the numeration table (NOUN) : UsXb]r
+
+"numerator"
+% CONCRETE MATERIAL 
+(RsDXb)
+
+"numeric"
+(Us)
+
+"numerology"
+% ART
+(UsR|^bA)
+
+"numidia"
+% HUMAN
+(DwQ|G|Wb UbIbQ)
+
+"numismatics"
+% ART
+(^lb]k^bA)
+
+"numismatist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlXfD^bAXb)
+
+"numismatology"
+% ART
+(AlXfD^bA)
+
+"nummulite"
+% CONCRETE ANIMAL MATERIAL 
+(^lb]kUfA)
+
+"numnah"
+(W|IXlWWz| ]gI\z ZfD)
+
+"numskull"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbRl)
+
+"nun"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsDj)
+# nun in charge (NOUN) : GbQGbWUsDj
+# nun's cloth (NOUN) : WdIRWzD DbUb
+# nun's veiling (NOUN) : WdIRWzD DbUb
+# nun's thread (NOUN) : AbDzIAl ^z|D UbQU|I
+
+"nunatak"
+(UbDRlWWsI|)
+
+"nunciature"
+% HUMAN
+(Ar^lbW GcUbX|A)
+
+"nuncio"
+% HUMAN
+(Ar^lbW GcUb)
+
+"nuncle"
+% HUMAN
+(WbXfV|)
+
+"nuncupation"
+(AsGsIl QbI^bA|)
+
+"nunnery"
+% CONCRETE ANIMAL MATERIAL PLACE
+(UsDjWsfD)
+
+"nuplex"
+(^cA [lQR|Db\z)
+
+"nuptial"
+(AjI^lDU|A)
+
+"nurse"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbD^lUb)
+# ^put out to nurse (VERB) : UsWdWWbW|Il XsGb
+
+"nursehound"
+% ANIMAL
+(XbAWzD UbWWf)
+
+"nurseling"
+% HUMAN
+(WfI|DWbW|)
+
+"nursemaid"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlQl)
+
+"nurser"
+% HUMAN
+(WwQl)
+
+"nursery"
+% CONCRETE MATERIAL PLACE
+(WwAWbU|I)
+# day nursery (NOUN) : \bAWbUl RlWwAWsfD
+
+"nurserymaid"
+% HUMAN
+(RlQl)
+
+"nurseryman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QrQlAWfRXb)
+
+"nursey"
+% HUMAN
+(WbXsQQb)
+
+"nursie"
+% HUMAN
+(WbXsQQb)
+
+"nursing"
+(WwAWb)
+# nursing student (NOUN) : AbD^l ^bAUcW
+
+"nursling"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WfI|DWbW|)
+
+"nurturance"
+% ACTION
+(AbD^l)
+
+"nurture"
+% CONCRETE MATERIAL ACTION
+(WdWWwA)
+# nurture of chicks (NOUN) : RjWWbI| UbWwA
+# nature and nurture (NOUN) : UfDZfDUfWAlb ^sZfDUfW
+
+"nut"
+% CONCRETE MATERIAL FOOD
+(AjDAlb)
+# don't care a nut (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+# for nuts (ADV) : WbQsI| ^cGl
+# nuts & bolts (NOUN) : WrXfQ
+# nuts and bolts (NOUN) : WrXfQ
+# off ONE_S nut (ADV) : Q|ZjUf
+# a hard nut to crack (NOUN) : WfIjWsD QsDXg
+
+"nutation"
+% MATERIAL ACTION
+(QfI|IzI UsAzI|A|)
+
+"nutcracker"
+% CONCRETE ANIMAL MATERIAL 
+(^lGl BbDzD X|RAg)
+
+"nutgall"
+% PLANT
+(WlRcXb)
+
+"nuthatch"
+% CONCRETE ANIMAL MATERIAL 
+(GzWAlR|)
+
+"nutmeat"
+% PLANT
+(AjDAlbWz| ^cA)
+
+"nutmeg"
+% CONCRETE MATERIAL PLANT FOOD
+(WwAGsAs)
+
+"nutpick"
+(^lGsWbIWzI ]bDcDzD UlWAlU)
+
+"nutria"
+% CONCRETE ANIMAL MATERIAL 
+(Dw\zI|Wb)
+
+"nutrient"
+% CONCRETE MATERIAL FOOD
+(WzQU|AQsI)
+
+"nutriment"
+% CONCRETE MATERIAL FOOD
+(XbWdWQsI)
+
+"nutrition"
+% MATERIAL 
+(WjWWdWUfRZs|)
+
+"nutritionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjWWdW^bAXb)
+
+"nutritiousness"
+(XbWdWRsDW| ]sWRs^bQ)
+
+"nutritive"
+% FOOD
+(WjWWdWQsI)
+
+"nutriture"
+(WjWWdW WdW^l)
+
+"nutshell"
+% PLANT
+(AjDAlbWz| BfRGgA|)
+# in a nutshell (ADV) : AzA^| AbDAjI^bAg
+
+"nutter"
+% HUMAN
+(DbQs WjIQcIzI XsRDzD UbIbQ)
+
+"nuttiness"
+(AjDAlbWz| QbUW| W|VWzQ)
+
+"nutting"
+% ACTION
+(DbQs WjIQc XsRA|)
+
+"nutwood"
+% PLANT
+(AjDAlb DbQs)
+
+"nyctalopia"
+% MATERIAL 
+(WdQcWXzW)
+
+"nydrazid"
+(DbW|GzIbX|U)
+
+"nylon"
+% CONCRETE MATERIAL 
+(DbW|IIlD)
+
+"nymph"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(D|Q]z)
+
+"nympha"
+% ANIMAL
+(UlWzQUsD)
+
+"nympholepsy"
+% MATERIAL 
+(^lbW^lIAjW)
+
+"nympholept"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjIAlbWXb)
+
+"nymphomania"
+% MATERIAL HUMAN
+(UcAXfWAlbW)
+
+"nymphomaniac"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UcAXfWAlbW ^lbDXb)
+
+"nystagmus"
+(WbDAsX|D\bW)

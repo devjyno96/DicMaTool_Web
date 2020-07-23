@@ -1,0 +1,309 @@
+"Sacramento Kings"
+# Sacramento Kings (NOUN) : Uc[zIbQgD\l [|WUz
+
+"Salt Lake City"
+# Salt Lake City (NOUN) : UlI\z IgW|[z U|\|
+
+"Sam Cassell"
+# Sam Cassell (NOUN) : UcQ [bUgI
+
+"Sam Mitchell"
+# Sam Mitchell (NOUN) : UcQ Q|ZgI
+
+"San Antonio"
+# San Antonio (NOUN) : UcD WbD\lD|Wl
+
+"San Diego"
+# San Diego (NOUN) : UcDG|WgAl
+
+"San Diego Padres"
+# San Diego Padres (NOUN) : UcDG|WgAl ]bGzIgUz
+
+"Sanders"
+# Sanders (NOUN) : UcDGfUz
+
+"Scott Burrell"
+# Scott Burrell (NOUN) : Uz[lU RfIgI
+
+"Scottie Pippen"
+# Scottie Pippen (NOUN) : Uz[l\| ]|]gD
+
+"Seattle"
+# Seattle (NOUN) : U|Wc\zI
+
+"Seattle Sonics"
+# Seattle Sonics (NOUN) : U|Wc\zI UlD|AUz
+
+"Seattle SuperSonics"
+# Seattle Supersonics (NOUN) : U|Wg\zI Us]fUlD|AUz
+
+"Shandon Anderson"
+# Shandon Anderson (NOUN) : UeDGfD WcDGfUzD
+
+"Shaquille O'Neal"
+# Shaquille O'Neal (NOUN) : Ud[|I WlD|I
+
+"Sloan"
+# Sloan (NOUN) : UzIIlD
+
+"Sonics"
+# Sonics (NOUN) : UlD|AUz
+
+"Spartans"
+# Spartans (NOUN) : Uz]bIz\bDUz
+
+"Spiers"
+# Spiers (NOUN) : Uz]bW|WfUz
+
+"Sports Illustrated"
+# Sports Illustrated (NOUN) : Uz]lZz W|IIfUz\zIgW|\zX|
+
+"Sprewell"
+# Sprewell (NOUN) : Uz]|I|WsgI
+
+"Spurs"
+# Spurs (NOUN) : Uz]fUz
+
+"St. Louis"
+# St. Louis (NOUN) : UgW|D\z IsW|Uz
+
+"St. Louis Cardinals"
+# St. Louis Cardinals (NOUN) : UgW|D\z IsW|Uz [bG|DfIUz
+
+"Stanford"
+# Stanford (NOUN) : Uz\cD]lGz
+
+"Steve Kerr"
+# Steve Kerr (NOUN) : Uz\|Rz [f
+
+"Stockton"
+# Stockton (NOUN) : Uz\lA\fD
+
+"Stoudamire"
+# Stoudamire (NOUN) : Uz\bWsGzQbW|Wf
+
+"Super Bowl"
+# Super Bowl (NOUN) : Us]fRlI
+
+"Sydney Olympic Games"
+# Sydney Olympic Games (NOUN) : U|GzD| WlII|Q]|A Gc^l|
+
+"Syracuse"
+# Syracuse (NOUN) : U|Ib[wUz
+
+"safety"
+# safety (NOUN) : UgW|]z\|
+
+"save"
+# save (NOUN) : UgW|Rz
+
+"schedule"
+# season schedule (NOUN) : U|XzD W|IXfW
+
+"scorer"
+# scorer (NOUN) : GzAXfQXb
+
+"scoring"
+# scoring (NOUN) : GzAXfQ
+
+"season"
+# NUM1 or NUM2 season (NOUN) : [(NMODS [(ADJUNCT NUM1/W|Db) NUM2]) U|XzD<NOUN>]
+# NUM1 season (NOUN) : [(NMODS NUM1) U|XzD<NOUN>]
+# exibition season (NOUN) : U|RfQ U|XzD
+# for the first time all season (PP->ADV) : U|XzD ZfWzQWzIl
+# freshman season (NOUN) : 1^bADjD U|XzD
+# junior season (NOUN) : 3^bADjD U|XzD
+# pro season (NOUN) : ]zIl U|XzD
+# regular season (NOUN) : XfWAw U|XzD
+# season (NOUN) : U|XzD
+# senior season (NOUN) : 4^bADjD U|XzD
+# sophomore season (NOUN) : 2^bADjD U|XzD
+# straight losing season (NOUN) : WjDUlA ]cXfD U|XzD
+
+"season-ticket"
+# season-ticket (NOUN) : U|XzD \|[gU
+
+"second"
+# ^reach second $ (VERB) : 2IsWg GlGbI^bGb
+# with NUM1 minute NUM2 second remaining (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [(NMODS [XlWIr<NOUN>]) (NMODS NUM1) RsD<NOUN>]) (NMODS NUM2) Zl<NOUN>]) XfD<NOUN>]/Wg)
+# with NUM1 second left $ (PP->ADV) : (ADJUNCT [(NMODS [XlWIr<NOUN>]) (NMODS [(NMODS NUM1) Zl<NOUN>]) XfD<NOUN>]/Wg) 
+# with NUM1 second remaining $ (PP->ADV) : (ADJUNCT [(NMODS [XlWIr<NOUN>]) (NMODS [(NMODS NUM1) Zl<NOUN>]) XfD<NOUN>]/Wg) 
+
+"security"
+# security (NOUN) : WbDXfD WrWsfD
+
+"seed"
+# NUM1 seed (NOUN) : [(NMODS [(NMODS NUM1) RfD<NOUN>]) U|Gz<NOUN>]
+
+"senior"
+# senior (NOUN) : U|D|Wf
+
+"sensation"
+# sensation (NOUN) : UgDUgW|UjD
+
+"series"
+# division series (NOUN) : G|R|XjD U|I|Xz
+# season-opening series (NOUN) : U|XzD Wl]zD U|I|Xz
+# series (NOUN) : U|I|Xz
+
+"set"
+# NUM1 set (NOUN) : [(NMODS NUM1) Ug\z<NOUN>]
+# the final set (NOUN) : Zl|XlWUg\z
+
+"setback"
+# setback (NOUN) : ]cRc
+
+"settlement"
+# settlement (NOUN) : ^cAjI
+
+"shooter"
+# shooter (NOUN) : Uw\f
+
+"shooting"
+# shooting (NOUN) : UwU\|W
+# tough shooting (NOUN) : AbWIjA^bD UwU
+
+"short"
+# short (NOUN) : UrU
+
+"shot"
+# NUM1 blocked shot (NOUN) : [(NMODS NUM1) RzIIfAUwU<NOUN>]
+# NUM1 shot (NOUN) : [(NMODS NUM1) UwU<NOUN>]
+# a blocked shot (NOUN) : RzIIlA UwU
+# follow shot (NOUN) : ]bIIlWs UdU
+# outside shot (NOUN) : Wl|AlbAUwU
+# sand shot (NOUN) : UcDGz UdU
+# shot (NOUN) : UwU(UdU)
+# solo shot (NOUN) : UlIIl ^lQIfD
+# tee shot (NOUN) : \|UdU
+# two-run shot (NOUN) : 2XfQ ^lQIfD
+# winning shot (NOUN) : AjIXfWUwU
+
+"show"
+# hitting show (NOUN) : \bAjA UrWs
+
+"showboat"
+# showboat (NOUN) : UrRl\z
+
+"shutout"
+# shutout (NOUN) : UjUWbWsU
+
+"side"
+# side (NOUN) : ]jD
+
+"single"
+# RBI single (NOUN) : XfAU|\b
+# infield single (NOUN) : DcWd WbD\b
+# pinch-hit single (NOUN) : Gc\b WbD\b
+# single (NOUN) : U|WAzI
+# single to center $ (NOUN) : XsWXfDWbD\b
+# single to left $ (NOUN) : XlbXfDWbD\b
+# single to right $ (NOUN) : WsXfDWbD\b
+
+"skill"
+# passing skill (NOUN) : ]cU|W A|UsI
+
+"slack"
+# offensive slack (NOUN) : AlWAjA RsX|D
+# slack (NOUN) : RsX|D
+
+"slam"
+# grand slam (NOUN) : AzIcDGz UzIIcQ
+# slam (NOUN) : UzIIcQ
+
+"sneaker"
+# sneaker (NOUN) : WsDGlW^lb
+
+"source"
+# league source (NOUN) : I|Az UlU|A\lW
+# source (NOUN) : UlU|A\lW
+
+"span"
+# span (NOUN) : A|AbD
+
+"splitter"
+# splitter (NOUN) : Uz]zII|\f
+
+"sponsor"
+# sponsor (NOUN) : ^sWsfDXb
+
+"sport"
+# major pro sports (NOUN) : QgW|Xf ]zIl Uz]lZz
+# professional sports (NOUN) : ]zIl Uz]lZz
+# sports betting (NOUN) : Uz]lZz GlDAfIA|
+# sports wagering (NOUN) : Uz]lZz DcA|
+
+"spur"
+# bone spur (NOUN) : SjUXlAbA
+
+"spurt"
+# spurt (NOUN) : Uz]f\z
+
+"squad"
+# squad (NOUN) : \|Q
+
+"stake"
+# stake (NOUN) : QlAU
+
+"star"
+# star (NOUN) : Uz\b
+
+"start"
+# NUM1 {+ORDNUM} career start (NOUN) : [(NMODS [\lWUbD<NOUN>]) (NMODS NUM1) UfDRbI<NOUN>]
+
+"starter"
+# returning starter (NOUN) : RlAAs|^bD UfDRbI
+# starter (NOUN) : UfDRbI
+
+"station"
+# station (NOUN) : Ws|Z|
+
+"steal"
+# steal (NOUN) : Uz\|I
+# transition steal (NOUN) : RbDXfD Uz\|I
+
+"step"
+# jab step (NOUN) : XcR Uz\gR
+# job step move (NOUN) : XcR Uz\gR GlWXbA
+# step (NOUN) : Uz\gR
+# step move (NOUN) : Uz\gR GlWXbA
+
+"stop"
+# diving stop (NOUN) : GbW|R|W Uz\lR
+
+"straight"
+# NUM1 straight (NOUN ADV) : 1) [(NMODS NUM1) WjDUlA<NOUN>]
+                             2) (ADJUNCT NUM1/WjDUlAWzIl)
+
+"streak"
+# hitting streak (NOUN) : WjDUlA WbD\b A|IlA
+# losing streak (NOUN) : WjD]c
+# streak (NOUN) : WjDUlA A|IlA
+# winning streak (NOUN) : WjDUzW
+
+"stretch"
+# stretch (NOUN) : WjDUlA
+
+"striker"
+# striker (NOUN) : Uz\zIbW|[f
+
+"substitute"
+# substitute (NOUN) : ArZg
+
+"substitution"
+# substitution (NOUN) : ArZg
+
+"suit"
+# burgundy suit (NOUN) : RfAfDG| RlAXbW
+
+"suite"
+# corporate suite (NOUN) : A|WfR XlbUfA
+
+"suspension"
+# suspension (NOUN) : ZsIXbW XfWX|
+
+"swat"
+# swat (NOUN) : XbW\b
+
+"sweep"
+# sweep (NOUN) : WbRGlXfA UzWI|

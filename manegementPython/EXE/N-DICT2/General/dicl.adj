@@ -1,0 +1,2729 @@
+
+"labial"
+ar (W|RUsIWz|)
+ap (W|RUsIW|Gb)
+
+"labiate"
+ar (W|RUsI QlWdWWz|)
+ap (W|RUsI QlWdWW|Gb)
+
+"labile"
+ar (RsIWbDXfW^bD)
+ap (RsIWbDXfW^bGb)
+
+"labor-intensive"
+ar (DlGlW X|RWdA^jWWz|)
+ap (DlGlW X|RWdA^jWW|Gb)
+
+"labor-saving"
+ar (DlGlW XfIWdAWz|)
+ap (DlGlW XfIWdAXfAW|Gb)
+
+"laboratorial"
+ar (U|I^fQU|IWz|)
+ap (U|I^fQU|IW|Gb)
+
+"laboratory"
+ar (U|I^fQU|IWz|)
+ap (U|I^fQU|IW|Gb)
+
+"labored"
+ar (WcVzD ^zDXfAW| W|VDzD)
+ap (WcVzD ^zDXfAW| W|VGb)
+
+"laboring"
+ar (DlGlWWg XlWUb^bDzD)
+ap (DlGlWWg XlWUb^bGb:ADJ->VERB)
+# the labouring class (NOUN) : DlGlWAkAzR
+
+"laborious"
+ar (^|QGzDzD)
+ap (^|QW| GzIGb:ADJ->VERB)
+
+"laborsome"
+ar (^|QW| GzDzD)
+ap (^|QW| GzIGb:ADJ->VERB)
+
+"labyrinthian"
+ar (Q|AsWWz|)
+ap (Q|AsWW|Gb)
+
+"laced"
+ar (BzDW| W|VDzD)
+ap (BzDW| W|VGb)
+
+"lacedaemonian"
+ar (Uz]bIz\bWz|)
+ap (Uz]bIz\bU|AW|Gb)
+
+"lacerable"
+ar (Y|XWzI Us W|VDzD)
+ap (Y|XWzI Us W|VGb)
+
+"lacerate"
+ar (Y|XWfX|D)
+ap (Y|XWfX|Gb)
+
+"lacertilian"
+ar (GlQbRcQIwWz|)
+ap (GlQbRcQIwW|Gb)
+
+"lachrymal"
+ar (DsDQsIWz|)
+ap (DsDQsIW|Gb)
+
+"lachrymatory"
+ar (DsDQsIWz|)
+ap (DsDQsIW|Gb)
+
+"lachrymose"
+ar (DsDQsIWzI XbI ^zII|DzD)
+ap (DsDQsIWzI XbI ^zII|Gb:ADJ->VERB)
+
+"laciniate"
+ar (\lRD| QlWdWWz|)
+ap (\lRD| QlWdWW|Gb)
+
+"lackadaisical"
+ar (Al|IlWsD GzU ^bD)
+ap (Al|IlWsD GzU ^bGb)
+
+"lacking"
+ar (RsXlA^bD)
+ap (RsXlA^bGb)
+# ^be lacking in A (VERB->ADJ) : [(OBJ A/Ab) RsXlA^b<ADJ>]/Gb
+
+"lackland"
+ar (\lX|Ab WfRUDzD)
+ap (\lX|Ab WfRUGb)
+
+"lackluster"
+ar (R|ZW| WfRUDzD)
+ap (R|ZW| WfRUGb)
+
+"lacklustre"
+ar (R|ZW| WfRUDzD)
+ap (R|ZW| WfRUGb)
+
+"laconic"
+ar (AbDAjI^bD)
+ap (AbDAjI^bGb)
+
+"lactary"
+ar (XfXWz|)
+ap (XfXW|Gb)
+
+"lacteal"
+ar (XfXWz|)
+ap (XfXW|Gb)
+
+"lacteous"
+ar (XfXWz|)
+ap (XfXW|Gb)
+
+"lactescent"
+ar (XfXQlWdWWzIl Gl|DzD)
+ap (XfXQlWdWWzIl Gl|Gb:ADJ->VERB)
+
+"lactic"
+ar (XfXWz|)
+ap (XfXW|Gb)
+
+"lactiferous"
+ar (XfXWzI DcDzD)
+ap (XfXWzI DcGb:ADJ->VERB)
+
+"lacustrine"
+ar (^lUsWz|)
+ap (^lUsW|Gb)
+
+"lacy"
+ar (IgW|UzAb\WzD)
+ap (IgW|Uz Ab\Gb)
+
+"laddish"
+ar (UlDjDAb\WzD)
+ap (UlDjDAb\Gb)
+
+"laden"
+ar (X|QWzI U|IWzD)
+ap (X|QWzI U|GGb)
+# laden with A (ADJ) : [(SCOMP A/Ab) U|II|<VERB>]/Gb
+
+"ladida"
+ar (SlQDcDzD)
+ap (SlQDcGb:ADJ->VERB)
+
+"ladyfied"
+ar (As|RsW|D\|IzI DcDzD)
+ap (As|RsW|D\|IzI DcGb:ADJ->VERB)
+
+"ladylike"
+ar (As|RsW|DGbWsD)
+ap (As|RsW|DGbRGb)
+
+"lagging"
+ar (DzXWzD)
+ap (DzXGb)
+
+"laic"
+ar (UlAW|DWz|)
+ap (UlAW|DW|Gb)
+
+"laid"
+ar (AbIl DsWsD)
+ap (AbIl DsRGb)
+# laid paper (NOUN) : \sQjW QsDz|Ab W|VDzD XlWW|
+
+"laisser-faire"
+ar (QsAbDUfRXsWz|Wz|)
+ap (QsAbDUfRXsWz|W|Gb)
+
+"laissez-faire"
+ar (QsAbDUfRXsWz|Wz|)
+ap (QsAbDUfRXsWz|W|Gb)
+
+"laky"
+ar (^lUsWz|)
+ap (^lUsW|Gb)
+
+"lallan"
+ar (Uz[l\zIIcDGz XfX|Wz|)
+ap (Uz[l\zIIcDGz XfX|W|Gb)
+
+"lambdoid"
+ar (UbQAbA^jWWz|)
+ap (UbQAbA^jWW|Gb)
+
+"lambent"
+ar (WfIzDWfIzD^bDzD)
+ap (WfIzDWfIzD^bGb:ADJ->VERB)
+
+"lamblike"
+ar (UcB|WdW Ab\WzD)
+ap (UcB|WdW Ab\Gb)
+
+"lame"
+ar (XfIIzQRbIW|Wz|)
+* SfAzD^bGb (back GzW)
+* Uf\sIzGb (story W|WdA|)
+ap (XfIIzQRbIW|W|Gb)
+
+# ^be lame of a leg (VERB) : XfIIzQRbIW|Gb
+# ^be lame in a leg (VERB) : XfIIzQRbIW|Gb
+# ^go lame (VERB) : XfIHsAAfI|Gb
+# ^walk lame (VERB) : XfIHsAAfI|Gb
+# lame duck (NOUN) : QlUVzAg Gl|D AfU
+# lame metre (NOUN) : Uf\sIzD U|
+# lame meter (NOUN) : Uf\sIzD WsDWwI
+
+"lamentable"
+ar (UzI]zD)
+* Uf\sIzGb (performance WjDA|)
+ap (UzI]zGb)
+
+
+"laminal"
+ar (WdIRWzD [jIl Gl|D)
+ap (WdIRWzD [jIl Gl|Gb)
+
+"laminate"
+ar (WjIRWzD]bD QlWdWWz|)
+ap (WjIRWzD]bD QlWdWW|Gb)
+
+"lancastrian"
+ar (IcW[bUz\f WlbWXlWz|)
+ap (IcW[bUz\f WlbWXlW|Gb)
+
+"lanceolar"
+ar (ZbWBz\ QlWdWWz|)
+ap (ZbWBz\ QlWdWW|Gb)
+
+"land-hungry"
+ar (\lX| UlWwWrAW| AbW^bD)
+ap (\lX| UlWwWrAW| AbW^bGb)
+
+"land-poor"
+ar (HbWWzD QbD^WzQjDUfGl ^jDAzQWgD AsWUcA^bD)
+ap (HbWWzD QbD^WzQjDUfGl ^jDAzQWgD AsWUcA^bGb)
+
+"land-to-land"
+ar (X|GcX|Wz|)
+ap (X|GcX|W|Gb)
+
+"landbased"
+ar (X|UbW RbIX|DWz|)
+ap (X|UbW RbIX|DW|Gb)
+
+"landed"
+ar (\lX|IzI AbX|D)
+ap (\lX|IzI AbX|Gb)
+# landed estate (NOUN) : \lX|XcUbD
+# landed property (NOUN) : \lX|XcUbD
+
+"landless"
+ar (\lX|Ab WfRUDzD)
+ap (\lX|Ab WfRUGb)
+
+"landlocked"
+ar (WwAX|Il GsIIf VbW|D)
+ap (WwAX|Il GsIIf VbW|Gb)
+
+"landlordly"
+ar (X|XsWz|)
+ap (X|XsW|Gb)
+
+"landowning"
+ar (X|XsWz|)
+ap (X|XsW|Gb)
+
+"landsick"
+ar (WwAX|Wg DfQs XfRAzD^bWj XbWwIlRAg WsQX|AW|X| QlU^bDzD)
+ap (WwAX|Wg DfQs XfRAzD^bWj XbWwIlRAg WsQX|AW|X| QlU^bGb:ADJ->VERB)
+
+"landward"
+ar (WwAX|YlAWz|)
+ap (WwAX|YlAW|Gb)
+
+"languid"
+ar (DlAlD^bD)
+ap (DlAlD^bGb)
+
+"languishing"
+ar (ZbZb WdA^cX|DzD)
+ap (ZbZb WdA^cX|Gb:ADJ->VERB)
+
+"languorous"
+ar (DbIzD^bD)
+ap (DbIzD^bGb)
+
+"lank"
+ar (QbIzD)
+ap (QbIzGb)
+
+"lanky"
+ar (QbIzD GzU ^bD)
+ap (QbIzD GzU ^bGb)
+
+"lantern-jawed"
+ar (RlIW| WsQ]sA^bAl \fAW| DbWlD)
+ap (RlIW| WsQ]sA^bAl \fAW| DbWlGb)
+
+"lao"
+ar (IbWlUzWz|)
+ap (IbWlUzW|Gb)
+
+"laotian"
+ar (IbWlUzWz|)
+ap (IbWlUzW|Gb)
+
+"lapelled"
+ar (WlUA|UW| XfR^|D)
+ap (WlUA|UW| XfR^|Gb)
+
+"lapidary"
+ar (GlIWz|)
+ap (GlIW|Gb)
+
+"lappish"
+ar (IcRIbDGzWz|)
+ap (IcRIbDGzW|Gb)
+
+"lapsed"
+ar (X|DbAbD)
+ap (X|DbAbGb)
+
+"lapstreak"
+ar (AjR]bDXbIl QbDGzD)
+ap (AjR]bDXbIl QbDGzIGb)
+
+"laputan"
+ar (AlWUbWXfAW|D)
+ap (AlWUbWXfAW|Gb)
+
+"larcenous"
+ar (XfIGlWz|)
+ap (XfIGlW|Gb)
+
+"lardaceous"
+ar (IbWbGzWz|)
+ap (IbWbGzW|Gb)
+
+"lardy"
+ar (IbWbGzWz|)
+ap (IbWbGzW|Gb)
+
+"lardy-dardy"
+ar (XgD Zg^bDzD)
+ap (XgD Zg^bGb:ADJ->VERB)
+
+"large"
+ar ([zD)
+* AlbXbWGl|Gb:ADJ->VERB (talk QbI) (story W|WdA|)
+* AlbWGc^bGb (area X|WjA) (power AsfDIjA) (views U|AAjD) (scale AwQl)
+* QbD^Gb (collection UsX|R) (deal WdW) (money GlD) (population W|DAs)
+* ZsXbR^bGb (speech QbI) (behavior ^cWGlW)
+* [zGb (mouse Xs|) (mouth W|R) (tree DbQs) (room RbW) (scale AwQl)
+* [zGb (company ^l|Ub) (town QbWzI) 
+* ^l\bW^bGb (mind QbWzQ) (temper A|X|I)
+ap ([zGb)
+
+# at large | (PP->ADV) : XbWwIlW|
+# ^be on the large side (VERB->ADJ) : R|ArXfA [zD ]jDW|Gb
+# large demand (NOUN) : GcIdWUsWr
+# large denomination (NOUN) : AlWcAQjD
+# large enterprise (NOUN) : GcA|WfR
+# large metropolitan area (NOUN) : GcGlU|AsfD
+# large order (NOUN) : GcIdWXsQsD
+# large insight (NOUN) : GbIAlbD
+# large intestine (NOUN) : GcXbW
+
+"large-handed"
+ar (UlDW| [zD)
+ap (UlDW| [zGb)
+
+"large-hearted"
+ar (QbWzQW| DfAzIfWsD)
+ap (QbWzQW| DfAzIfRGb)
+
+"large-minded"
+ar (GlIdWW| [zD)
+ap (GlIdWW| [zGb)
+
+"large-scale"
+ar (GcAwQlWz|)
+ap (GcAwQlW|Gb)
+# large-scale integration (NOUN) : AlQ|IGl X|RXfA ^l|Il
+# large-scale farming (NOUN) : GcAwQlDlWWfR
+# large-scale industry (NOUN) : GcAwQlUbDWfR
+# large-scale production (NOUN) : GcIdWAsQc
+# large-scale retail trade (NOUN) : GcAwQlUlQcWfR
+
+"larger"
+ar (Gf [zD)
+ap (Gf [zGb)
+
+"larghetto"
+ar (WdAAbD DzI|D)
+ap (WdAAbD DzI|Gb)
+
+"larksome"
+ar (GzIHzD)
+ap (GzIHzGb)
+
+"larky"
+ar (XbWDbDZ|DzD)
+ap (XbWDbDZ|Gb:ADJ->VERB)
+
+"larval"
+ar (WwZsWWz|)
+ap (WwZsWW|Gb)
+
+"laryngeal"
+ar (^sGsWz|)
+ap (^sGsW|Gb)
+
+"lascivious"
+ar (WzQIbD^bD)
+ap (WzQIbD^bGb)
+
+"lashless"
+ar (UlADsDVfRW| WfRUDzD)
+ap (UlADsDVfRW| WfRUGb)
+
+"last"
+ar (QbX|QbAWz|)
+* QbX|QbAWz| (order UsDUf) (plan Ak^l|A) (meeting QbDDbQ)
+* Zl|AzDWz| (book XfUf) (news UlU|A)
+* X|DbGb (month GbI) (year ^c) (week Xs) (monday WsfIWrW|I) (tuesday ^lbWrW|I) 
+* X|DbGb (wednesday UsWrW|I) (thursday QlAWrW|I) (friday AzQWrW|I) (saturday \lWrW|I) (sunday W|IWrW|I) 
+* X|DbGb (summer WjIzQ) (winter AjWsI) (fall AbWzI) (autumn AbWzI) (spring RlQ) 
+* X|DbGb (game AgW|Q) (quarter [sf\f) (flood ^lWUs) (decade 10DjD) (January 1WsfI)
+* X|DbGb (~ {+TIME})
+* BlIY|Wz| (prize UbW)
+ap (Zl|^sW|Gb)
+
+# ^draw ONE_S  last breath (VERB) : UsQWzI AfGsGb
+# in ONE_S  last hours (PP->ADV) : W|QXlWUsDAbDWg
+# in ONE_S  last moment (PP->ADV) : XsAWzQWg W|QRbA^bWj
+# in its last moment (PP->ADV) : XsAWzQWg W|QRbA^bWj
+# in the last days of his life (PP->ADV) : AzWz| QbIDjDWg
+//# last NOUN {+TIME} (NOUN) : [(AMODS X|DbD) NOUN<NOUN>]
+//# last ^Friday (NOUN ADV) : 1) X|DbD AzQWrW|I 
+//			   2) X|DbD AzQWrW|IWg
+//# last ^Monday (NOUN ADV) : 1) X|DbD WsfIWrW|I 
+//		           2) X|DbD WsfIWrW|IWg
+//# last ^Saturday (NOUN ADV) : 1) X|DbD \lWrW|I 
+//		             2) X|DbD \lWrW|IWg
+//# last ^Sunday (NOUN ADV) : 1) X|DbD W|IWrW|I 
+//		           2) X|DbD W|IWrW|IWg
+//# last ^Thursday (NOUN ADV) : 1) X|DbD QlAWrW|I 
+//			     2) X|DbD QlAWrW|IWg
+//# last ^Tuesday (NOUN ADV) : 1) X|DbD ^lbWrW|I 
+//			    2) X|DbD ^lbWrW|IWg
+//# last ^Wednesday (NOUN ADV) : 1) X|DbD UsWrW|I 
+//			      2) X|DbD UsWrW|IWg
+# last but one $ (NOUN) : Bz\WgUf GsI Yc
+# last but two $ (NOUN) : Bz\WgUf Ug Yc
+# last cry $ (NOUN) : Zl|U|D Ww^cWWz| QsIAfD
+# last season (NOUN) : X|DbD U|XzD
+# last thing at night (ADV) : RbQDzXAg
+# last ^time (ADV NOUN) : 1) X|DbDRfDWg
+			 2) X|DbDRfD
+//# last week (ADV NOUN) : 1) X|DbDXsWg 
+//		         2) X|DbDXs
+# on ONE_S  last legs (PP->ADV) : A|X|DQcAX|D^bWj
+# ^put the last hand to A (VERB) : [(OBJ A/WzI) QbX|QbA UlDX|I^b<VERB>]/Gb
+# ^take ONE_S  last count (VERB) : XsAGb
+# ^take ONE_S  last drink (VERB) : W|AUb^bGb
+# ^take ONE_S  long count (VERB) : XsAGb
+# the four last things (NOUN) : UbXlW
+# the last term of contempt (NOUN) : X|AzA^| AjWQjIWz| QbI
+# the last time (NOUN) : QbX|QbA
+# the last thing in A (NOUN) : [(POSS A/Wz|) Zl|U|D Ww^cW]sQ<NOUN>]
+//# the last three $ (NOUN) : QbX|QbA UgU
+//# the last two $ (NOUN) : QbX|QbA GsI
+# the last word (NOUN) : Zl|^sWz| QbI
+//# the last day (NOUN) : U|Q]bDWz| DbI
+# to the last (PP->ADV) : Zl|^sBbX|
+# to the last A (PP->ADV) : (ADJUNCT [(POSS [Zl|^s<NOUN>]/Wz|) A]/BbX|)
+
+"last-ditch"
+ar (AjIUbXfAW|D)
+ap (AjIUbXfAW|Gb)
+
+"last-minute"
+ar (Zl|^s UsDAbDWz|)
+ap (Zl|^s UsDAbDW|Gb)
+
+"lasting"
+ar (X|UlA^bDzD)
+ap (X|UlA^bGb:ADJ->VERB)
+
+"late"
+ar (DzXWzD)
+* DzXGb (arrival GlZbA) (season AkXfI) (night RbQ) (time U|AbA)
+* ZfIDzXGb (flower BlZ)
+* DzXAgBbX| AkUlAGl|Gb (meeting ^l|^bR) (session ^l|^bR)
+* XfDWz| (residence AfXsW|D) (Administration DcAbA)
+* QbDDjDWz| (marriage AjI^lD)
+* Zl|AzDWz| (warning AjWAl) (event UbAfD)
+* XbAAl^bGb (person UbIbQ) (~ {+HUMAN})
+ap (DzXGb)
+
+# a late riser (NOUN) : XbQBsIfA|
+# ^be NUM1 minutes late for A (VERB->ADJ) : [(ADJUNCT A/Wg) (MODS [(NMODS NUM1) RsD<NOUN>]) DzX<ADJ>]/Gb
+# ^be an hour late (VERB) : ^bDU|AbD DzXGb
+# ^be late for A (VERB) : [(ADJUNCT A/Wg) DzX<ADJ>]/Gb
+	* [(ADJUNCT A/Wg) DzX<ADJ>]/Gb
+	* A (class UsWfR)
+# ^be NUM1 NOUN late for A (VERB) : [(ADJUNCT A/Wg) (MODS [(NOUN NUM1) NOUN]) 
+DzX<VERB>]/Gb
+	* [(ADJUNCT A/Wg) DzX<ADJ>]/Gb
+	* A (class UsWfR)
+# || better late than never || (SENT) : DzXWfGl WbDWlDzD AfURlGb DbUGb
+# ^keep late hours (VERB) : DzXAg XbAl DzXAg W|IWfDbGb
+# late for A (ADJ) : [(ADJUNCT A/Wg) DzX<ADJ>]/Gb
+# late for PRESP (ADJ) : [(ADJUNCT PRESP/^bA|Wg) DzX<ADJ>]/Gb
+# late in NUM1 (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1) DjD<NOUN>]) QbIQ|<NOUN>]/Wg)
+#' late with A (ADJ) : [(ADJUNCT A/Wg) DzX<ADJ>]/Gb
+//# the late A {+PRNOUN} (NOUN) : [(NMODS [Al<NOUN>]) A]
+# the late NUM1 (NOUN) : [(NMODS [(NMODS NUM1) DjDGc<NOUN>]) ^sRbD<NOUN>]
+# till late $ (ADV) : DzXGlIlA
+# until late $ (PP->ADV) : DzXAgBbX|
+
+"late-blooming"
+ar (Gs|DzXAg ]|DzD)
+ap (Gs|DzXAg ]|Gb:ADJ->VERB)
+
+"lateen"
+ar ([zD UbQAbAGlZWz|)
+ap ([zD UbQAbAGlZW|Gb)
+
+"lateen-rigged"
+ar ([zD UbQAbAGlZWzI GbD)
+ap ([zD UbQAbAGlZWzI GbIGb)
+
+"latent"
+ar (UsQWfW|VDzD)
+ap (UsQWfW|VGb)
+# latent currency (NOUN) : XbQXc\lW^lb
+# latent demand (NOUN) : XbQXcUsWr
+
+"later"
+ar (Gf DzXWzD)
+* W|^sWz|: ADJ->VERB (chapter XbW) 
+
+ap (Gf DzXGb)
+
+"later-day"
+ar (AzDDjDWz|)
+ap (AzDDjDW|Gb)
+
+"lateral"
+ar (Wj]Wz|)
+ap (Wj]W|Gb)
+# lateral integration (NOUN) : ZzAQjD\lW^bR
+
+"latest"
+ar (Zl|AzDWz|)
+ap (Zl|AzDW|Gb)
+# at latest (PP->ADV) : DzXWfGl
+
+"lathery"
+ar (R|Ds Af]sQWz|)
+ap (R|Ds Af]sQW|Gb)
+
+"lathy"
+ar (AbX|Ab\WzD)
+ap (AbX|Ab\Gb)
+
+"latidinal"
+ar (Ws|GlWz|)
+ap (Ws|GlW|Gb)
+
+"latin"
+ar (Ib\|DWz|)
+ap (Ib\|DW|Gb)
+
+"latin-american"
+ar (Ib\|D WbQgI|[bWz|)
+ap (Ib\|D WbQgI|[bW|Gb)
+
+"latish"
+ar (XlQ DzI|D)
+ap (XlQ DzI|Gb)
+
+"latitudinarian"
+ar (XbWwXsWz|Wz|)
+ap (XbWwXsWz|XfAW|Gb)
+
+"latter"
+ar (Gs|YlAWz|)
+* AzDIcWz| (days DbI)
+ap (Gs|YlAW|Gb)
+
+"latter-day"
+ar (AzDGcWz|)
+ap (AzDGcW|Gb)
+
+"lattermost"
+ar (Zl|^sWz|)
+ap (Zl|^sW|Gb)
+
+"laudable"
+ar (Z|WZbD^bI QbD^bD)
+ap (Z|WZbD^bI QbD^bGb)
+
+"laudative"
+ar (Z|WZbDWz|)
+ap (Z|WZbDW|Gb)
+
+"laudatory"
+ar (Z|WZbDWz|)
+ap (Z|WZbDW|Gb)
+
+"laughable"
+ar (WsUzWsD)
+ap (WsUzRGb)
+
+"laughing"
+ar (WsUAl W|VDzD)
+ap (WsUAl W|VGb)
+# laughign gas (NOUN) : WsUWzQAbUz
+# no laughing matter (VERB) : WsUWzI W|IW| WbD|Gb
+
+"laureate"
+ar (WsfIAkAlbDWzI VzD)
+ap (WsfIAkAlbDWzI VzGb)
+
+"lavende"
+ar (IbRgDGfWz|)
+ap (IbRgDGfW|Gb)
+
+"lavish"
+ar (WbB|X| WbD^DzD)
+ap (WbB|X| WbD^Gb:ADJ->VERB)
+
+"law-abiding"
+ar (RfRIwIWzI XsDUs^bDzD)
+ap (RfRIwIWzI XsDUs^bGb:ADJ->VERB)
+
+"law-and-order"
+ar (RfRAlb X|IUfIzI WrAs^bDzD)
+ap (RfRAlb X|IUfIzI WrAs^bGb:ADJ->VERB)
+
+"lawful"
+ar (^bRRfRWz|)
+ap (^bRRfRW|Gb)
+
+"lawgiving"
+ar (W|RRfRWz|)
+ap (W|RRfRW|Gb)
+
+"lawless"
+ar (RfRIwIW| WfRUDzD)
+ap (RfRIwIW| WfRUGb)
+
+"lawny"
+ar (XbDG|Wz|)
+* ^bDIcWUbIl QbDGzIGb:ADJ->VERB (dress WlU)
+ap (XbDG|W|Gb)
+
+"lax"
+ar (^fIAfWsD)
+ap (^fIAfRGb)
+
+"laxative"
+ar (RjD\lW ^rAlbAb W|VDzD)
+ap (RjD\lW ^rAlbAb W|VGb)
+
+"lay"
+ar (UlAW|DWz|)
+ap (UlAW|DW|Gb)
+
+"layered"
+ar (ZzWW| W|VDzD)
+ap (ZzWW| W|VGb)
+
+"lazy"
+ar (AgWzIzD)
+* XlII|RGb:ADJ->VERB (lecture AbWWz|) (sunshine ?R|Z)
+* DzI|Gb (stream ^zIzQ)
+* Wj]WzIl Y|A^|Gb:ADJ->VERB (letter AzIXb)
+ap (AgWzIzGb)
+
+
+"leachy"
+ar (GbAlWX|IWz|)
+ap (GbAlWX|IW|Gb)
+
+"lead"
+ar (DbRWzIl QbDGzD)
+ap (DbRWzIl QbDGzIGb)
+
+"lead-free"
+ar (DbRUfWRsDW| WfRUDzD)
+ap (DbRUfWRsDW| WfRUGb)
+# lead free gas (NOUN) : QsWjD ^s|RbIWw
+
+"lead-in"
+ar (BzIWfGzIW|DzD)
+ap (BzIWfGzIW|Gb:ADJ->VERB)
+
+"lead-off"
+ar (Zl|ZlWz|)
+ap (Zl|ZlW|Gb)
+
+"leaden"
+ar (DbRWz|)
+ap (DbRR|ZW|Gb)
+
+"leadenhearted"
+ar (QsXbR|^bD)
+ap (QsXbR|^bGb)
+
+"leading"
+ar (W|BzDzD)
+* Hs|WfDbGb (writer XbAAb)
+* UfDGlXfAW|Gb (cause WsfDW|D) (center UgD\f) (laboratory WjDAsU|I)
+ap (W|BzIGb:ADJ->VERB)
+
+# a leading article (NOUN) : AbXbW XsWWr^bD A|Ub
+# leading business (NOUN) : WjDAzAWz| XsWjD
+# leading cases (NOUN) : XsWr ]bDIk
+# leading edge (NOUN) : ]zIl]gIIfWz| Wb] AbXbWXbI|
+# a leading lady (NOUN) : XsWjD Wj RcWs
+# a leading man (NOUN) : XsWjD DbQ RcWs
+# leading light (NOUN) : WjWGlXb
+# leading motive (NOUN) : XsWbAUbW
+# a leadinng question (NOUN) : WwGl U|QQsD
+# leading rein (NOUN) : AlS|
+# leading screw (NOUN) : WfQX|DbUb
+# leading seaman (NOUN) : UbWGzWRjW
+# leading staff (NOUN) : Ul|[lHsIgWg Rs\W|D QbAGcA|
+# leading strings (NOUN) : VzDzD XsI
+
+"leafless"
+ar (W|]W| WfRUDzD)
+ap (W|]W| WfRUGb)
+
+"leafy"
+ar (W|]W| QbD^WzD)
+ap (W|]W| QbD^Gb)
+
+"leaky"
+ar (UcDzD AsQfWW| W|VDzD)
+ap (UcDzD AsQfWW| W|VGb)
+
+"leal"
+ar (ZsWU|I^bD)
+ap (ZsWU|I^bGb)
+# the land of the leal (NOUN) : ZfDAsA
+
+"lean"
+ar (WdWs|D)
+* X|RbWW| XfAGb (stake AlA|)
+ap (WdWs|Gb)
+
+# a lean diet (NOUN) : XlU|A
+# a lean harvest (NOUN) : ^wWXbA
+# a lean year (NOUN) : ^wWDjD
+
+"lean-to"
+ar (A|GcWf X|WzD)
+ap (A|GcWf X|UGb)
+
+"learned"
+ar (^bAU|AW| W|VDzD)
+ap (^bAU|AW| W|VGb)
+# ^be learned in A (VERB) : [(ADJUNCT A/Wg) XfW\lW^b<VERB>]/Gb
+# my learned friend (NOUN): ^cRbA^bD GlWX|
+# my learned brother (NOUN) : ^cRbA^bD GlWX|
+# the learned professions (NOUN) : ^bAQsDWz| X|AWfR
+
+"leasehold"
+ar (W|QZbWz|)
+ap (W|QZbW|Gb)
+
+"least"
+ar (AbXbW XbAWzD)
+ap (AbXbW XbAGb)
+
+"leather-lunged"
+ar ([zDUlI|Il HfGzI Us W|VDzD)
+ap ([zDUlI|Il HfGzI Us W|VGb)
+
+"leatherheaded"
+ar (RbRl Ab\WzD)
+ap (RbRl Ab\Gb)
+
+"leathern"
+ar (AbXsAWz|)
+ap (AbXsAW|Gb)
+
+"leathery"
+ar (AbXsAAb\WzD)
+ap (AbXsAAb\Gb)
+
+"leaved"
+ar (W|]W| W|VDzD)
+ap (W|]W| W|VGb)
+
+"lebanese"
+ar (IgRbDlDWz|)
+ap (IgRbDlDW|Gb)
+
+"lecherous"
+ar (^lUcA^bD)
+ap (^lUcAXfAW|Gb)
+
+"led"
+ar (X|Gl RbGDzD)
+ap (X|Gl RbGGb:ADJ->VERB)
+
+"ledged"
+ar (UfDRbDW| W|VDzD)
+ap (UfDRbDW| W|VGb)
+
+"leek-green"
+ar (]sIzDR|ZWzI H|D)
+ap (]sIzDR|ZWzI H|Gb)
+
+"leering"
+ar (Aj\DsDX|I^bDzD)
+ap (Aj\DsDX|I^bGb:ADJ->VERB)
+
+"leerly"
+ar (U|QUsIAsXWzD DsDZlI|Wz|)
+ap (U|QUsIAsXWzD DsDZlI|W|Gb)
+
+"leeward"
+ar (RbIbQ RsIWfAbDzD YlAWz|)
+ap (RbIbQ RsIWfAbDzD YlAW|Gb)
+
+"left"
+ar (Wl|D]jDWz|)
+* Xlb]bWz| (politician XfWZ|Ab) (government XfWRs)
+ap (Wl|D]jDW|Gb)
+
+# ^marry with the left hand (VERB) : U|DRsDW| DbXWzD WjXbWlb AjI^lD^bGb
+# on the left hand of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Wl|DYlA<NOUN>]/Wg)
+
+"left-footed"
+ar (Wl|DRbIXbRW|Wz|)
+ap (Wl|DRbIXbRW|W|Gb)
+
+"left-hand"
+ar (Wl|DUlDWz|)
+ap (Wl|DUlDW|Gb)
+
+"left-handed"
+ar (Wl|DUlDXbRW|Wz|)
+ap (Wl|DUlDXbRW|W|Gb)
+
+"left-off"
+ar (RfI|D)
+ap (RfI|Gb)
+
+"leftish"
+ar (Xlb]bWz|)
+ap (Xlb]bW|Gb)
+
+"leftmost"
+ar (XgW|I Wl|DYlAWz|)
+ap (XgW|I Wl|DYlAW|Gb)
+
+"leftover"
+ar (DbQfX|Wz|)
+ap (DbQfX|W|Gb)
+
+"leftward"
+ar (Wl|DYlAWz|)
+ap (Wl|DYlAW|Gb)
+
+"leftwing"
+ar (Xlb]bWz|)
+ap (Xlb]bW|Gb)
+
+"legal"
+ar (^bRRfRXfAW|D)
+* RfRXfW (seperation RjIAf) (representative GcI|W|D)
+* ^bRRfRXfAW|Gb (resident AfXsXb) (right AsfDI|) (act ^cWWs|)
+ap (^bRRfRXfAW|Gb)
+* ^bRRfRXfAW|Gb (betting Rg\|W) (right AsfDI|) (act ^cWWs|)
+
+# legal advisor (NOUN) : RfRIwIXbQsD
+# legal age (NOUN) : RfRXfW WjDIjW
+# legal aid (NOUN) : QsIr RfRIwI UbWGbQ
+# legal blood (NOUN) : XsD ^jIXlA
+# legal guardian (NOUN) : RfRXfW^sAjDW|D
+# legal interest (NOUN) : RfRXfWW|Xb
+# legal lien (NOUN) : UfDZs|GzAAsfD
+# legal mind (NOUN) : RfRIwIWzI XlDXsW^bDzD QbWzQ
+# legal minimum reserve (NOUN) : RfRXfWZl|XfXsDR|WcA
+# legal person (NOUN) : RfRW|D
+# legal price (NOUN) : RfRXfWAbAjA
+# legal rate (NOUN) : RfRXfWW|WwI
+# legal reserve (NOUN) : RfRXfWXsDR|AzQ
+# legal reserve ratio (NOUN) : RfRXfWX|RsIXsDR|WwI
+# legal tender (NOUN) : RfR^lb
+# legal welfare expense (NOUN) : RfRXfWRlAI|R|
+# the legal profession (NOUN) : RjD^lUbWfR
+# legal defense (NOUN) : XfWGbWRbWWs|
+# legal holiday (NOUN) : RfRXfW ^wW|I
+# legal interest (NOUN) : RfRXfWW|Xb
+# legal man (NOUN) : RfRW|D
+# legal person (NOUN) : RfRW|D
+# legal medicine (NOUN) : RfRWz|^bA
+# legal reserve (NOUN) : RfRXfWXsDR|AzQ
+# legal tender (NOUN) : RfR^lb
+
+"legalistic"
+ar (RfRIwIWzI XsW^| WjA|DzD)
+ap (RfRIwIWzI XsW^| WjA|Gb:ADJ->VERB)
+
+"legendary"
+ar (XfDUfIXfAW|D)
+ap (XfDUfIXfAW|Gb)
+
+"legged"
+ar (GbI|Ab W|VDzD)
+ap (GbI|Ab W|VGb)
+
+"legible"
+ar (W|IAA| Us|WsD)
+ap (W|IAA| Us|RGb)
+
+"legionary"
+ar (AlGcIlQb AsDGbDWz|)
+ap (AlGcIlQb AsDGbDW|Gb)
+
+"legislative"
+ar (W|RRfRAsfDW| W|VDzD)
+* W|RRfRWz| (accomplishment UfWZs|) (proceedings XfIZb)
+* XgXfWGl|Gb:ADJ->VERB (law RfRIwI)
+ap (W|RRfRAsfDW| W|VGb)
+# legislative action (NOUN) : RfRXfAXlZ|
+
+"legitimate"
+ar (^bRRfRWz|)
+ap (^bRRfRXfAW|Gb)
+
+"leguminous"
+ar ([lWAlbWz|)
+ap ([lWAlbW|Gb)
+
+"leisure"
+ar (^bDAb^bD)
+* Ww^bDWz| (class AkAzR)
+ap (^bDAb^bGb)
+
+"leisured"
+ar (WjAbAb W|VDzD)
+ap (WjAbAb W|VGb)
+
+"leisurely"
+ar (WjWwW|VDzD)
+ap (WjWwW|VGb)
+
+"lemon"
+ar (IgQlDWzI Df^WzD)
+ap (IgQlDWzI Df^Gb)
+
+"lemony"
+ar (IgQlD QbUW| DbDzD)
+ap (IgQlD QbUW| DbGb:ADJ->VERB)
+
+"lemuriform"
+ar (WjWs WsfDUsWW|Wz|)
+ap (WjWs WsfDUsWW|W|Gb)
+
+"lengthwise"
+ar (UgIlIl A|D)
+ap (UgIlIl A|IGb)
+
+"lengthy"
+ar (U|AbDW| A|D)
+ap (U|AbDW| A|IGb)
+
+"lenient"
+ar (AlbDGc^bD)
+ap (AlbDGc^bGb)
+
+"lenitive"
+ar (X|DXfWU|[|DzD)
+ap (X|DXfWU|[|Gb:ADJ->VERB)
+
+"lenten"
+ar (UbUsDXfIWz|)
+ap (UbUsDXfIW|Gb)
+
+"lenticular"
+ar (IgDXz QlWdWWz|)
+ap (IgDXz QlWdWW|Gb)
+
+"lento"
+ar (DzI|D)
+ap (DzI|Gb)
+
+"lentoid"
+ar (IgDXz QlWdWWz|)
+ap (IgDXz QlWdWW|Gb)
+
+"leonine"
+ar (UbXbWz|)
+ap (UbXbW|Gb)
+
+"leporine"
+ar (\lB|Wz|)
+ap (\lB|W|Gb)
+
+"leprotic"
+ar (QsDGsWRjWWg AfII|D)
+ap (QsDGsWRjWWg AfII|Gb)
+
+"leprous"
+ar (QsDGsWRjWWz|)
+ap (QsDGsWRjWW|Gb)
+
+"lesbian"
+ar (GlWUfWWcWz|)
+ap (GlWUfWWcW|Gb)
+
+"less"
+ar (Gf XbAWzD)
+* Gf XfAGb (money GlD)
+ap (Gf XbAGb)
+# NUM1 less A (NOUN) : [(POSS [(NMODS NUM1) W|^b<NOUN>]/Wz|) A]
+# ^be less than A (VERB->ADJ) : [(ADJUNCT A/RlGb) XfA<ADJ>]/Gb
+# ^be less than A {+UNIT} away $ (VERB->ADJ) : 
+[(ADJUNCT A/RlGb) (MODS [GfI<ADV>]) HfIWfX|<VERB>](Wf/F, W|V/A)/Gb
+# ^be no less ADJ_NODE than A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) ADJ_NODE]/^bGb
+# | much less VP || (PP) : (ADJUNCT VP/^bA|DzD[fDjW)
+# no less than A (NOUN) : [(NMODS A) W|UbW<NOUN>] 
+# less than A (ADJ ADV NOUN) : 1) [(ADJUNCT A/RlGb) XfA<ADJ>]/Gb
+		               2) [(ADJUNCT A/RlGb) XfAAg<ADV>]
+			       3) [(NMODS A) W|^b<NOUN>]
+# less than NUM1 {-ORDNUM} minute (NOUN) : [(NMODS [(NMODS NUM1 {+DGTNUM}) RsD<NOUN>]) W|Dc<NOUN>]
+# less than NUM1 {-ORDNUM} minute remaining (NOUN) : [(NMODS [(AMODS [DbQ<ADJ>]/^bD) (NMODS NUM1) RsD<NOUN>]) W|Dc<NOUN>]
+# less than NUM1 {-ORDNUM} of A (NOUN) : 
+[(AMODS [(NMODS NUM1 {-DGTNUM}) W|^b<NOUN>]/Wz|) A]
+# little less than A (ADJ ADV) : 
+1) [(COMP [(RELCL [(ADJUNCT A/Alb) (MODS [AfWz|<ADV>]) Ab\<ADJ>]/^bD) XfWGl<NOUN>]) _<ADJ>]<W|>/Gb
+    2) (ADJUNCT [(RELCL [(ADJUNCT A/Wlb) AfWz| Ab\<ADJ>]/^bD) XfWGl<NOUN>]/Il)
+# no less than A (NOUN ADV) : 1) [(NMODS A) QbD[zQ<NOUN>]
+			      2) (ADJUNCT A/QbD[zQ)
+# less AJP than AJP1 (ADJ) : 
+[(ADJUNCT AJP(^bX|/F, WbD^/A WbV/P)/X|QbD) (MODS [[zAg<ADV>]) AJP1]/^bGb
+
+"less-than-favorable"
+ar (WwI|^bX| WbD^DzD)
+ap (WwI|^bX| WbD^Gb)
+
+"lesser"
+ar (GfWsA XbAWzD)
+ap (GfWsA XbAGb)
+
+"lethal"
+ar (Z|UbWz|)
+ap (Z|UbW|Gb)
+
+"lethargic"
+ar (^lDUsWz|)
+ap (^lDUsW|Gb)
+
+"lethargical"
+ar (^lDUsWz|)
+ap (^lDUsW|Gb)
+
+"lethean"
+ar (QbWAbAWz| AbWWz|)
+ap (QbWAbAWz| AbWW|Gb)
+
+"lettered"
+ar (AzIXbIzI Df^WzD)
+ap (AzIXbIzI Df^Gb)
+
+"letterless"
+ar (AzIWzI QlIzDzD)
+ap (AzIWzI QlIzGb:ADJ->VERB)
+
+"letterperfect"
+ar (GcUbIzI XbI Wl|Al W|VDzD)
+ap (GcUbIzI XbI Wl|Al W|VGb)
+
+"lettic"
+ar (Ig\z UbIbQWz|)
+ap (Ig\z UbIbQW|Gb)
+
+"lettish"
+ar (Ig\z UbIbQWz|)
+ap (Ig\z UbIbQW|Gb)
+
+"levantine"
+ar (IgRbD\zWz|)
+ap (IgRbD\zW|Gb)
+
+"level"
+ar (]jW]jW^bD)
+* GlWGzW^bGb (race AjWXs)
+* ZbRsD^bGb (tone Wf\s)
+ap (]jW]jW^bGb)
+
+# a level cup of sugar (NOUN) : Q|IWfUf ^bD[fRWz| UfI\bW
+# level stress (NOUN) : ]jWXl
+# college level institute (NOUN) : GbDAlbGc^bAAzR WjDAsUl
+# ^keep a level head (VERB) : DcWXfWWzI WwX|^bGb
+
+"level-headed"
+ar (RsDRjIW|VDzD)
+ap (RsDRjIW|VGb)
+
+"levelheaded"
+ar (WlDAfD^bD)
+ap (WlDAfD^bGb)
+
+"leviable"
+ar (RsAlb^bI Us W|VDzD)
+ap (RsAlb^bI Us W|VGb)
+
+"leviathan"
+ar (AfGc^bD)
+ap (AfGc^bGb)
+
+"levitic"
+ar (IgWs| UbIbQWz|)
+ap (IgWs| UbIbQW|Gb)
+
+"levitical"
+ar (IgWs| UbIbQWz|)
+ap (IgWs| UbIbQW|Gb)
+
+"lewd"
+ar (WzQ\bW^bD)
+ap (WzQ\bW^bGb)
+
+"lexical"
+ar (Wf^s|Wz|)
+ap (Wf^s|W|Gb)
+
+"lexicographer"
+ar (UbXfD ]jDX|RUbWWz|)
+ap (UbXfD ]jDX|RUbWW|Gb)
+
+"lexicographist"
+ar (UbXfD ]jDX|RUbWWz|)
+ap (UbXfD ]jDX|RUbWW|Gb)
+
+"liable"
+ar (ZcAW|QWzI XjWd ^bI)
+ap (ZcAW|QWzI XjWd ^bGb:ADJ->VERB)
+
+"libelous"
+ar (R|RbW^bDzD)
+ap (R|RbW^bGb:ADJ->VERB)
+
+"liberal"
+ar (XbWwIlWsD)
+ap (XbWwIlRGb)
+
+"liberalistic"
+ar (XbWwXsWz|XfAW|D)
+ap (XbWwXsWz|XfAW|Gb)
+
+"liberalminded"
+ar (QbWzQW| DfAzIfWsD)
+ap (QbWzQW| DfAzIfRGb)
+
+"libidinous"
+ar (^lUcAWz|)
+ap (^lUcAXfAW|Gb)
+
+"libyan"
+ar (I|R|WbWz|)
+ap (I|R|WbW|Gb)
+
+"licenced"
+ar (W|DAbGl|D)
+ap (W|DAbGl|Gb)
+
+"licensed"
+ar (W|DAbGl|D)
+ap (W|DAbGl|Gb)
+
+"licentious"
+ar (RbW\bW^bD)
+* WzQ\bW^bGb (passage AsXfI)
+ap (RbW\bW^bGb)
+
+"lichened"
+ar (X|Wz|Ab DbD)
+ap (X|Wz|Ab DbGb)
+
+"lichenous"
+ar (X|Wz|Wz|)
+ap (X|Wz|W|Gb)
+
+"licit"
+ar (^bRRfRWz|)
+ap (^bRRfRXfAW|Gb)
+
+"liege"
+ar (AsDXsW|D)
+ap (AsDXsW|Gb)
+
+"life-and-death"
+ar (UcWUbWg AlbDAkGl|DzD)
+ap (UcWUbWg AlbDAkGl|Gb:ADJ->VERB)
+
+"life-giving"
+ar (UcWQjWWzI XsDzD)
+ap (UcWQjWWzI XsGb:ADJ->VERB)
+
+"life-or-death"
+ar (Ub^lbIW| AfIIj W|VDzD)
+ap (Ub^lbIW| AfIIj W|VGb)
+
+"life-size"
+ar (U|IQsIAlb Ab\WzD [zA|Wz|)
+ap (U|IQsIAlb Ab\WzD [zA|W|Gb)
+
+"lifeless"
+ar (UcWQjWW| WfRUDzD)
+ap (UcWQjWW| WfRUGb)
+
+"lifelong"
+ar (W|IUcWWz|)
+ap (W|IUcWW|Gb)
+
+"lifesaving"
+ar (AsQjWWz|)
+ap (AsQjWW|Gb)
+
+"light"
+ar (AbRjWsD)
+* RbIAGb (room RbW) (color UcA) (blue ZfWUcA)
+ap (AbRjRGb)
+
+# ^give light weight (VERB) : XsWIdWWzI UlAW|Gb
+# ^have a light hand (VERB) : UlDXcXsAb W|VGb
+# ^have a light touch (VERB) : UlDXcXsAb W|VGb
+# light cargo (NOUN) : AjWIdW^lbQsI
+# light eater (NOUN) : UlU|AAb
+# light industries (NOUN) : AjWAlWWfR
+# light machine gun (NOUN) : AjWA|AlbDZlW
+# light manufacturing industry (NOUN) : AjWAlWWfR
+# light metal (NOUN) : AjWAzQUlA
+# light trading (NOUN) : AjWAfIc
+# light weapon (NOUN) : AjW^lbA|
+# light, heat and water expense (NOUN) : AlbWIjIWrWUsR|
+# ^be of light ear (VERB) : XbI Q|GGb
+# light offence (NOUN) : AjWRfQXl|
+# light fooense (NOUN) : AjWRfQXl|
+# light coin (NOUN) : AzDIdWW| QlXbIbDzD ^lb]k
+# light cruiser (NOUN) : AjWUsDWdW^bQ
+# light infantry (NOUN) : AjWRlRjW
+# light truck (NOUN) : AjW\zIfA
+# light rain (NOUN) : AbIbWR|
+# light haze (NOUN) : WjIRWzD WbDAc
+# light sleep (NOUN) : Wj\WzD XbQ
+# light wind (NOUN) : UbDGzI RbIbQ
+# light push (NOUN) : UbIYbA Q|IA|
+# light meal (NOUN) : GbQRcA^bD U|AUb
+# light beer (NOUN) : WdA^bD QcAXs
+# light bread (NOUN) : Rs]sU^bD SbW
+# light soil (NOUN) : ]sUfA]sUfA^bD HbW
+# light jest (NOUN) : XcZ|W|VDzD W|AUbI
+# light woman (NOUN) : RbIbQA| QbD^WzD WjXb
+# light conduct (NOUN) : AjWUlI^bD ^cWGlW
+# light man (NOUN) : RjDGfAXbWW|
+# light laugh (NOUN) : \c]jWUzIfWsD WsUWzQ
+# ^be light of heart (VERB) : AfAXfWW| WfRUGb
+# light railway (NOUN) : AjW]jDZfIGl
+# ^make light of A (VERB) : [(OBJ A/IzI) Wd\Rl<VERB>]/Gb
+# with a light heart (PP->ADV) : [lc^lbI^bAg
+
+"light-legged"
+ar (AfIWzQW| SbIzD)
+ap (AfIWzQW| SbIzGb)
+
+"light-struck"
+ar (AlbWUfDW| GzIWfAb QlUVzAg Gl|D)
+ap (AlbWUfDW| GzIWfAb QlUVzAg Gl|Gb)
+
+"lightfaced"
+ar (^l|AW| AbDzD)
+ap (^l|AW| AbDzIGb)
+
+"lightfast"
+ar (^cUR|ZW| Yl|WfGl RjD^bX| WbD^DzD)
+ap (^cUR|ZW| Yl|WfGl RjD^bX| WbD^Gb)
+
+"lightfingered"
+ar (UlDXcXsW|VDzD)
+ap (UlDXcXsAb W|VGb)
+
+"lightfooted"
+ar (AfIWzQW| SbIzD)
+ap (AfIWzQW| SbIzGb)
+
+"lighthanded"
+ar (UlQV|Ab Xl^WzD)
+ar (UlQV|Ab Xl^Gb)
+
+"lightheaded"
+ar (QfI|Ab W|UbW^bD)
+ap (QfI|Ab W|UbW^bGb)
+
+"lighthearted"
+ar (WbQs AzDU|QW| WfRUDzD)
+ap (WbQs AzDU|QW| WfRUGb)
+
+"lightless"
+ar (R|ZW| WfRUDzD)
+ap (R|ZW| WfRUGb)
+
+"lightminded"
+ar (AjWUlI^bD)
+ap (AjWUlI^bGb)
+
+"lightproof"
+ar (AlbWUfDW| \lW^bX| WbD^DzD)
+ap (AlbWUfDW| \lW^bX| WbD^Gb:ADJ->VERB)
+
+"lightquantum"
+ar (AlbWIdWXb)
+
+"lightsome"
+ar (R|ZWzI RbI^bDzD)
+ap (R|ZWzI RbI^bGb:ADJ->VERB)
+
+"lightweight"
+ar (AjWIdWWz|)
+ap (AjWIdWW|Gb)
+
+"ligneous"
+ar (DbQsAb\WzD)
+ap (DbQsAb\Gb)
+
+"ligulate"
+ar (W|]^j QlWdWWz|)
+ap (W|]^j QlWdWW|Gb)
+
+"likable"
+ar (QbWzQWg GzDzD)
+ap (QbWzQWg GzIGb:ADJ->VERB)
+
+"like"
+ar (Ab\WzD)
+ap (Ab\Gb)
+
+"likeable"
+ar (QbWzQWg GzDzD)
+ap (QbWzQWg GzIGb)
+
+"likely"
+ar (W|VWzI RfR^bD)
+ap (W|VWzI RfR^bGb)
+# ^be not likely THAT_CLAUSE (VERB->ADJ) : [THAT_CLAUSE](^bI/F, AfU/N, Ab\/A X|/F, WbD^/A)/Gb
+# ^be likely THAT_CLAUSE  (VERB->ADJ) : [THAT_CLAUSE](^bI/F, AfU/N, Ab\/A)/Gb
+# ^be likely TO_INF  (VERB->ADJ) : [TO_INF](^bI/F, AfU/N, Ab\/A)/Gb
+# ^be likely PRESP (VERB->ADJ) : [PRESP](^bI/F, AfU/N, Ab\/A)/Gb
+# likely TO_INF  (ADJ) : [TO_INF](^bI/F, AfU/N, Ab\/A)/Gb
+
+"likeminded"
+ar (Ab\WzD QbWzQWz|)
+ap (Ab\WzD QbWzQW|Gb)
+
+"lilied"
+ar (DbI|Ab\WzD)
+ap (DbI|Ab\Gb)
+
+"lilliputian"
+ar (UlW|DAsAWz|)
+ap (UlW|DAsAW|Gb)
+
+"lilylivered"
+ar (AfRQbD^WzD)
+ap (AfRW| QbD^Gb)
+
+"lilywhite"
+ar (DbI|ZfIfQ ^z|D)
+ap (DbI|ZfIfQ ^z|Gb)
+
+"limbate"
+ar (AbXbWXbI|Ab W|VDzD)
+ap (AbXbWXbI|Ab W|VGb)
+
+"limber"
+ar (^s|A| Us|WsD)
+ap (^s|A| Us|RGb)
+
+"limitative"
+ar (Xg^bDXfAW|D)
+ap (Xg^bDXfAW|Gb)
+
+"limited"
+ar (Xg^bDGl|D)
+ap (Xg^bDGl|Gb)
+# limited convertibility (NOUN) : Xg^bDRsAr^lbDUfW
+# limited edition (NOUN) : ^bDXfW]bD \zAAzR
+# limited information (NOUN) : Xg^bDXfWRlZl|GcZsXfWRfR
+# limited labor shortage (NOUN) : AsARsXfA DlGlWIjARsXlA
+# limited liability company (NOUN) : Ww^bDZcAW|Q^l|Ub
+# limited monarcchy (NOUN) : W|R^fD AsDXs XfWZ|
+# limited order to buy (NOUN) : X|XfWXsQsDXg
+# limited tender (NOUN) : X|QjWW|RZbI
+# limited war (NOUN) : AsARs XfD
+
+"limiting"
+ar (Xg^bD^bDzD)
+ap (Xg^bD^bGb:ADJ->VERB)
+
+"limitless"
+ar (Qs^bD^bD)
+ap (Qs^bD^bGb)
+
+"limitrophe"
+ar (AsAAjWWz|)
+ap (AsAAjWW|Gb)
+
+"limp"
+ar (RsGzIfWsD)
+ap (RsGzIfRGb)
+
+"limpid"
+ar (BcBzU^bD)
+ap (BcBzU^bGb)
+
+"limping"
+ar (XfIHsAAfI|DzD)
+ap (XfIHsAAfI|Gb:ADJ->VERB)
+# limping standard (NOUN) : vusrudqhsdnl
+
+"limy"
+ar (AbXbWXbI|Ab W|VDzD)
+ap (AbXbWXbI|Ab W|VGb)
+
+"linable"
+ar (^bD XsIIl UgWsI Us W|VDzD)
+ap (^bD XsIIl UgWsI Us W|VGb)
+
+"lineable"
+ar (^bD XsIIl UgWsI Us W|VDzD)
+ap (^bD XsIIl UgWsI Us W|VGb)
+
+"lineal"
+ar (X|AAkWz|)
+ap (X|AAkW|Gb)
+# lineal promotion (NOUN) : UfDW|QUsD UzWX|D
+
+"lineamental"
+ar (WfIAsIUcWA|QUcWz|)
+ap (WfIAsIUcWA|QUcW|Gb)
+
+"linear"
+ar (UfD^jWXfAW|D)
+* 1ZbWz| (equation RbWXfWU|A)
+ap (UfD^jWXfAW|Gb)
+# linear in A (ADJ) : [(ADJUNCT A/Wlb) UfD^jWXfAW|<ADJ>]/Gb
+# linear programming (NOUN) : UfD^jWAk^l|A
+
+"lined"
+ar (UfDWzI AzWzD)
+ap (UfDWzI AzUGb)
+
+"linen"
+ar (I|DDgIzWz|)
+ap (I|DDgIzW|Gb)
+
+"lingering"
+ar (WsQsIYsQsI^bDzD)
+ap (WsQsIYsQsI^bGb:ADJ->VERB)
+
+"lingual"
+ar (^jWz|)
+ap (^jW|Gb)
+
+"linguiform"
+ar (^jQlWdWWz|)
+ap (^jQlWdWW|Gb)
+
+"linguistic"
+ar (WfDWf^bAWz|)
+ap (WfDWf^bAXfAW|Gb)
+
+"linguistical"
+ar (QbIWz|)
+ap (QbIW|Gb)
+
+"lingulate"
+ar (^jQlWdWWz|)
+ap (^jQlWdWW|Gb)
+
+"linnaean"
+ar (I|DDgWz|)
+ap (I|DDgW|Gb)
+
+"linnean"
+ar (I|DDgWz|)
+ap (I|DDgW|Gb)
+
+"linteled"
+ar (UbWW|DRbWW| W|VDzD)
+ap (UbWW|DRbWW| W|VGb)
+
+"liny"
+ar (UfDWzI AzWzD)
+ap (UfDWzI AzUGb)
+
+"lionhearted"
+ar (WrWQcWUzIfWsD)
+ap (WrWQcWUzIfRGb)
+
+"lionllike"
+ar (UbXbAb\WzD)
+ap (UbXbAb\Gb)
+
+"lipdeep"
+ar (QbI SsDW|D)
+ap (QbI SsDW|Gb)
+
+"lipped"
+ar (W|RUsIW| W|VDzD)
+ap (W|RUsIW| W|VGb)
+
+"liquefactive"
+ar (WcA^lbWz|)
+ap (WcA^lbW|Gb)
+
+"liquefiable"
+ar (WcA^lb^bI Us W|VDzD)
+ap (WcA^lb^bI Us W|VGb)
+
+"liquescent"
+ar (WcA^lb^bA| Us|WsD)
+ap (WcA^lb^bA| Us|RGb)
+
+"liquid"
+ar (WcAZgWz|)
+* RjD^bA| Us|RGb (opinion Wz|AjD) (thought UbAl)
+* QbIAGb (eyes DsD) (sky ^bDzI)
+* WwZbW^bGb (voice QlAUlI|) (poem U|)
+* WwGlWWz| (asset XbUbD) (capital XbRlD)
+ar (WcAZgW|Gb)
+
+"liquidcooled"
+ar (UsDcWU|AWz|)
+ap (UsDcWU|AW|Gb)
+
+"liquorish"
+ar (Q|U|AWzI Xl^Wb^bDzD)
+ap (Q|U|AWzI Xl^Wb^bGb)
+
+"lisping"
+ar (^jYbIcA|Wz|)
+ap (^jYbIcA|W|Gb)
+
+"lissom"
+ar (DbAzUDbAzU^bD)
+ap (DbAzUDbAzU^bGb)
+
+"listening"
+ar (XlU|QUfW W|VDzD)
+ap (XlU|QUfW W|VGb)
+
+"listless"
+ar (QbWzQW| Dc[|X| WbD^DzD)
+ap (QbWzQW| Dc[|X| WbD^Gb:ADJ->VERB)
+
+"literal"
+ar (AzIXb AzGcIlWz|)
+* ZsAWfXfAW|Gb (translation RfDWjA)
+* UbWUbWIjAW| WfRUGb (person UbIbQ)
+* AlbXbWW| WfRUGb (story W|WdA|)
+ap (AzIXb AzGcIlW|Gb)
+# in the literal sense of the word (PP->ADV) : AzIXb AzGcIlWz| Wz|Q|Il
+
+
+"literary"
+ar (QsD^bAWz|)
+* QsD]|IWg Xl^l|Ab A|]Gb (person UbIbQ)
+* QsDWfWz| (style QsDZg)
+ap (QsD^bAW|Gb)
+
+
+"literate"
+ar (W|IAAl VzI XsI WbDzD)
+ap (W|IAAl VzI XsI WbIGb:ADJ->VERB)
+
+"lithe"
+ar (DbAzDDbAzD^bD)
+ap (DbAzDDbAzD^bGb)
+
+"lithic"
+ar (GlIWz|)
+ap (GlIW|Gb)
+
+"litigable"
+ar (RfRXfWWgUf ^bWXcW^bI Us W|VDzD)
+ap (RfRXfWWgUf ^bWXcW^bI Us W|VGb)
+
+"litigant"
+ar (UlUlWWg AlbDAkAb W|VDzD)
+ap (UlUlWWg AlbDAkAb W|VGb)
+
+"litigious"
+ar (UlUlW^bA| Xl^Wb^bDzD)
+ap (UlUlW^bA| Xl^Wb^bGb:ADJ->VERB)
+
+"littery"
+ar (DbDXbR^bD)
+ap (DbDXbR^bGb)
+
+"little"
+ar (XbAWzD)
+* AdDbI]zGb (voice WzQUfW) (sound UlI|)
+* AbRjRGb (blow \bAjA) (wound UbWZf)
+* UbUl^bGb (quarrel VbWsQ)
+* WdAAbDWz| (talk \lIlD) (earth ^zIA)
+* WlWXlI^bGb (mind QbWzQ) (coward AfRXbWW|) (accusation \zX|R)
+* XbAGb (tool GlAs) (dog Ac)
+* XfAGb (study WjDAs) (quantity WdW) (money GlD) (care XsWz|)
+* YbIRGb (walk UbDZcA) (distance AfI|)
+ap (XbAGb)
+
+# a little (ADV ADJ) : 1) WdAAbD
+                             2) XbAGb
+# ONE_S little finger (NOUN) : [(POSS ONE/Wz|) UcB| UlDAbIbA<NOUN>]
+# ONE_S little woman (NOUN) : WbDc
+# a cozy little room (NOUN) : [(AMODS [WbGbQ^b<ADJ>]/^bD) RbW<NOUN>]
+# a cute little dress (NOUN) : [(AMODS [WkSz<ADJ>]/^bD) GzIgUz<NOUN>]
+# a little ^NOUN (NOUN) :
+	* [(AMODS [WdAAbD<NOUN>]/Wz|) NOUN]
+	* NOUN (money GlD)
+	* [(AMODS [YbIR<ADJ>]/^bD) NOUN]
+	* NOUN (walk UbDZcA) (distance AfI|)
+	* [(AMODS [XbA<ADJ>]/^bD) NOUN]
+	* NOUN (~ {+ANIMAL, -HUMAN})
+	* [(AMODS [XbA<ADJ>]/^bD) NOUN]
+	* NOUN (~ {-ANIMAL, -HUMAN})
+	* [(AMODS [WfI|<ADJ>]/^bD) NOUN]
+	* NOUN (~ {+HUMAN})
+# a little brothr (NOUN) : DbQGlWUcW
+# a little mother (NOUN) : WfQfD| AsU|IWzI ^bDzD HbI
+# a little of ^A (NOUN) : [(POSS A/Wz|) W|IRs<NOUN>]
+# a little of what SENT (NOUN) :
+  [(RELCL SENT/^bD) AfUWz| W|IRs<NOUN>]
+# a little stranger (NOUN) : U|DUcWWb
+# a little way off (ADV) : XlAzQ DbDRbGbWg
+# ^be lettle or no A (VERB) : [(SCOMP A/Ab) XlAzQW|VAfDb WfRU<ADJ>]/Gb
+# ^have little TO_INF (VERB->ADJ) : [(SCOMP [(RELCL TO_INF/^bI) AfU<NOUN>]/W|) (MODS [AfWz|<ADV>]) WfRU<ADJ>]/Gb
+# little on A (ADJ) : [(COMP A/Ab) RsXlA^b<ADJ>]/Gb
+# little or no (ADJ) : WfRUAfDb AfWz| WfRUGb
+# little people (NOUN) : WbW|GzI
+# my dear little mother (NOUN) : UbIbW^bDzD DbWz| WfQfD|
+# my little darling (NOUN) : UbIbWUzIfWsD DcUbIbW
+# not a little (ADJ) : XfAX| WbD^Gb
+# no little (ADJ) : XfAX| WbD^Gb
+# quite a little (ADJ ADV) : 1) QcWs QbD^Gb
+		             2) QcWs QbD^W|
+# with little A PRESP (PP) : [(SUBJ A/Ab) (MODS [AfWz|<ADV>]) PRESP](^bX|/F, WbD^/V)/Gb
+
+"liturgic"
+ar (WkRcU|AWz|)
+ap (WkRcU|AW|Gb)
+
+"lityrgical"
+ar (WkRcU|AWz|)
+ap (WkRcU|AW|Gb)
+
+"livable"
+ar (UbI RlIbQW| W|VDzD)
+ap (UbI RlIbQW| W|VGb)
+
+"live"
+ar (UbIWb W|VDzD)
+* ^jDGcXfAW|Gb (religion XlWAr)
+* UcWA|W|VGb (eyes DsD) (party ]b\|) (meeting QlW|Q)
+* GbWQjD^bGb:ADJ->VERB (problem QsDXg)
+* \bAl W|VGb (fire RsI) (fuel UfA\bD) (cigarette GbQRc)
+* AjAIjI^bGb (feeling AbQXfW) (fight VbWsQ)
+* UfDQjW^bGb (color UcABbI)
+* UbW[lc^bGb (air AlWA|)
+* UcWUcW^bGb (climb  GzWXfW)
+* UlI|Ab XbI WsIIj]fX|Gb:ADJ->VERB (hall ^lI)
+* \bDIjAW| Xl^Gb (ball AlW)
+* XbWXfDGl|Wf W|VGb (bullet \bD^lbD)
+* U|I^lbWWz| (program RbWUlW) (concert AlWWjD) (show Ur) (interview W|D\fRw)
+ap (UbIWb W|VGb)
+
+# live bait (NOUN) : UbD Q|B|
+# live cartritge (NOUN) : U|I\bD
+# live load (NOUN) : ^lbI^lbXsW
+# moving load (NOUN) : ^lbI^lbXsW
+# a real live burglar (NOUN) : DbIAbWGl
+# a live personality (NOUN) : XfWIjAAb
+# a live case (NOUN) : UsUb XsWW|D UbAfD
+# live shell (NOUN) : RsIRbI\bD
+# load parking (NOUN) : GcA| XsZb
+# live telecast (NOUN) : \gIIgR|XjD UcWRbWUlW
+
+"live-in"
+ar (W|RXs^bD)
+ap (W|RXs^bGb)
+
+"livelong"
+ar (DcDc)
+ap (DcDcW|Gb)
+
+"lively"
+ar (UcWA|Wg DfQZ|D)
+ap (UcWA|Wg DfQZ|Gb)
+
+"liveout"
+ar (\lWAzDXgWz|)
+ap (\lWAzDXgW|Gb)
+
+"livercolored"
+ar (AbDXbW R|ZBbIWz|)
+ap (AbDXbW R|ZBbIW|Gb)
+
+"livered"
+ar (AfRQbD^WzD)
+ap (AfRW| QbD^Gb)
+
+"liveried"
+ar (XgRlAWzI W|RWzD)
+ap (XgRlAWzI W|RGb)
+
+"liverish"
+ar (AbDXbWRjWWz|)
+ap (AbDXbWRjWW|Gb)
+
+"liverpudlian"
+ar (I|Rf]sI \cUcWWz|)
+ap (I|Rf]sI \cUcWW|Gb)
+
+"livery"
+ar (AbDXbW R|UzU^bD)
+ap (AbDXbW R|UzU^bGb)
+
+"livid"
+ar (DbRR|ZWz|)
+ap (DbRR|ZW|Gb)
+
+"living"
+ar (UbIWb W|VDzD)
+* ^jDXlD^bGb:ADJ->VERB (society Ub^l|) (rule XgGl) (language WfDWf)
+* AbW^bGb (expectation A|Gc) (belief U|DWbW)
+* UfDQjW^bGb (color UcA)
+* UgZbGb (wind RbIbQ)
+* UcW^lbIWz| (expenses R|WrW) (necessaries ]|IUs]sQ) (standard A|XsD)
+ap (UbIWb W|VGb)
+
+# in the land of the living (PP->ADV) : UbIWb W|VWf
+# living conditions (NOUN) : UcW^lbI XlAfD
+# living matter (NOUN) : UcW^lbI QsIX|I
+# living picture (NOUN) : ^lbIW|D^lb
+# living room (NOUN) : AfU|I
+# living space (NOUN) : UcW^lbIAsfD
+# the greatest living poet (NOUN) : GbWGcWz| Zl|Al U|W|D
+# living quarters (NOUN) : ZfUl
+# a living angel (NOUN) : XfWQbI Z|DXfI^bD UbIbQ
+# living wages (NOUN) : UcW^lbI W|QAzQ
+# living water (NOUN) : BzD^W|QWfRUW| ^zIzDzD QsI
+# the living (NOUN) : UbIWbW|VDzD UbIbQ
+
+"loaded"
+ar (X|QWzI U|IWzD)
+ap (X|QWzI U|GGb)
+
+"loamy"
+ar (IlWsQQlWdWWz|)
+ap (IlWsQQlWdWW|Gb)
+
+"loath"
+ar (U|I^WzD)
+ap (U|I^Gb)
+
+"loathing"
+ar (U|I^WzD)
+ap (U|I^Gb)
+
+"loathsome"
+ar (U|I^WzD)
+ap (U|I^Gb)
+
+"lobar"
+ar (As|URlIWz|)
+ap (As|URlIW|Gb)
+
+"lobate"
+ar (WjI]jDW| W|VDzD)
+ap (WjI]jDW| W|VGb)
+
+"lobed"
+ar (W|]QlWdWWz|)
+ap (W|]QlWdWW|Gb)
+
+"lobster-eyed"
+ar (DsDW| \s|WfDbWlD)
+ap (DsDW| \s|WfDbWlGb)
+
+"lobular"
+ar (UlWjI]jDWz|)
+ap (UlWjI]jDW|Gb)
+
+"local"
+ar (X|WjAXfAW|D)
+* Az AlXbWWz| (bakeshop SbWX|R) (citizen XsQ|D) (wine UsI)
+* AsARsXfAW|Gb (change RjD^lb) (infection AbQWjQ) (anesthesia QbZs|)
+* WlWXlI^bGb (prejudice ]jDAjD)
+* WlbD^cWWz| (line DlUfD) (train WjIZb)
+* X|RbWWz| (~ {+HUMAN}) (club [zIIfR)
+ap (X|WjAXfAW|Gb)
+
+# local agent (NOUN) : X|RbWGcI|XfQ
+# local color (NOUN) : X|RbW UcA RsRsDXfA UcAZc
+# local currncy (NOUN) : ^jDX|\lW^lb
+# local examination (NOUN) : X|RbWU|^fQ
+# local express (NOUN) : XsDAzR^cW
+# local finance equalization grants (NOUN) : X|RbWXcXfW]jWGzWArRsAzQ
+# local government (NOUN) : X|RbWXbZ|XgWz|
+# local government (NOUN) : X|RbWZc
+# local habitation (NOUN) : XcXsX|
+# local market area (NOUN) : AsAX|XfAU|XbWAsfD
+# local name (NOUN) : X|QjW
+# local option (NOUN) : UfD\cAAsfD^bD
+# local public finance (NOUN) : X|RbWXcXfW
+# local press (NOUN) : X|RbWU|DQsD
+# local road tax (NOUN) : X|RbWGlIlUg
+# local room (NOUN) : X|RbWRs
+# local switch (NOUN) : XfQQjIA|
+# local veto (NOUN) : AfRsAsfD
+# the local authority (NOUN) : X|RbWGbWAsA
+# the local texes (NOUN) : X|RbWUg
+# local time (NOUN) : X|RbW U|
+# local track (NOUN) : X|UfD
+# local train (NOUN) : AsAbD WjIZb
+# local traffic (NOUN) : U|Dc \lW^lb
+# local union (NOUN) : DlGlWXl^bRWz| X|RbWX|Rs
+
+"lockable"
+ar (XbQAzI Us W|VDzD)
+ap (XbQAzI Us W|VGb)
+
+"locked"
+ar (XbQA|D)
+ap (XbQA|Gb)
+
+"locomotive"
+ar (W|GlW^bDzD)
+ap (W|GlW^bGb:ADJ->VERB)
+
+"lofty"
+ar (QcWs Dl]WzD)
+* AlAjI^bGb (issue QsDXg)
+ap (QcWs Dl]Gb)
+
+# lofty fighting spirit (NOUN) : Dl]WzD XfD\s XfWU|D
+
+"logarithmic"
+ar (GcUsWz|)
+ap (GcUsW|Gb)
+# logarithmic function (NOUN) : GcUs^bQUs
+# logarithmic scale (NOUN) : GcUsDsDAzQ
+# logarithmic table (NOUN) : GcUs]r
+
+"logarithmical"
+ar (GcUsWz|)
+ap (GcUsW|Gb)
+
+"logged"
+ar (IlAzGl|D)
+ap (IlAzGl|Gb)
+
+"logical"
+ar (DlDI|XfAW|D)
+ap (DlDI|XfAW|Gb)
+
+"logistic"
+ar (A|^lDlDI|^bAWz|)
+ap (A|^lDlDI|^bAW|Gb)
+
+"logy"
+ar (GsD^bD)
+ap (GsD^bGb)
+
+"lombardic"
+ar (IlQRbIzG|WbWz|)
+ap (IlQRbIzG|WbW|Gb)
+
+"lone"
+ar (AlGlA^bD)
+* WwW|I^bGb (bogey RlA|)
+ap (AlGlA^bGb)
+# lone flight (NOUN) : GbDGlAR|^cW
+# lone hand (NOUN) : ^lDXbUf W|IWzI ^bDzD UbIbQ
+# Lone star state (NOUN) : Q|AsA XsWz| RjIQjW
+# lone wolf (NOUN) : GbDGlAWzIl ^cWGlW^bDzD UbIbQ
+
+"lonely"
+ar (Wl|IlWsD)
+ap (Wl|IlRGb)
+
+"lonesome"
+ar (Wl|IlWsD)
+ap (Wl|IlRGb)
+
+"long"
+ar (A|D)
+* A|IGb (session A|AbD) (way A|I) (life UbIQ)
+ap (A|IGb)
+
+# NUM1 NOUN {+UNIT} ^long (ADJ) : [(ADJUNCT [(NMODS NUM1{+DGTNUM}) NOUN]/QbD[zQ) A|I<ADJ
+>]/Gb
+# ONE_S long home (NOUN) : [(NMODS ONE/Wz|) QsGfQ<NOUN>]
+# at the longest (PP->ADV) : WlIc AfIIjGl
+# at the longest (PP->ADV) : A|IAg XbRWbGl
+# at the long last (PP->ADV) : GzG|Wf
+# ^be over NUM1 meter long (VERB->ADJ) : [(MODS [(NMODS [(NMODS NUM1 {+DGTNUM}) Q|\f<NOUN>]) W|UbW<NOUN>]) A|I<ADJ>]/Gb
+# ^be a long time ^PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) (SUBJ [U|AbD<NOUN>]/W|) (MODS [QbD^W|<ADV>]) AfII|<VERB>]/Gb
+# before long (PP->ADV) : AlG
+//# ^be no longer A (VERB->ADJ) : 
+//  [(MODS [Gf W|UbW<ADV>]) (COMP A/Ab) WbD|<ADJ>]/Gb
+// rewriteIl ^cAjI
+# ^be no longer A but B (VERB->ADJ) : [(COMP [(COMP [(MODS [Gf W|UbW<ADV>]) (SUBJ A/Ab) WbD|<ADJ>]/Ib) B]) _<ADJ>]<W|>/Gb
+# for so long $ (PP->ADV) : QcWs WlIcUGlWWbD
+# for long $ (PP->ADV) : WlIcUGlWWbD
+# for too long $ (PP->ADV) : QcWs WlIcUGlWWbD
+//# how long is it (SENT) : WfIQbDb A|IGb
+# long fly (NOUN) : [zD ]zIIbW|
+# long lease (NOUN) : XbWA| W|QGcZb AkWdA
+# long drink (NOUN) : QbD^WzD UsI
+# long skull (NOUN) : XbWGsAlI
+# long bill (NOUN) : A|GbIbD AkUbDUf
+# long bowls (NOUN) : WsfDAfI|XfD
+# long casement (NOUN) : Rl\lWRlGb Dl]WzD WjGbGW| ZbWQsD
+# long clothes (NOUN) : RcDcWlU
+# long date (NOUN) : XbWA|
+# long distance (NOUN) : XbWAfI|XfD^lb
+# long ears (NOUN) : A|GbIbD As|
+# long family (NOUN) : GcAbXlA
+# long finger (NOUN) : AbWsDGgU UlDAbIbA
+# long firm (NOUN) : UbA| ^l|Ub
+# long green (NOUN) : X|]k
+# long head (NOUN) : QfI|Ab ZlWQjW^bD UbIbQ
+# long hit (NOUN) : XbW\b
+# long joins (NOUN) : A|D UlAWlU
+# long jump (NOUN) : DfIRW|Hs|A|
+# long memory (NOUN) : AbW^bD A|WfAIjA
+# long odds (NOUN) : [zDZbW|
+# long paliament (NOUN) : XbWA|Wz|^l|
+# long position (NOUN) : QcW|RUsXsD
+# long vacation (NOUN) : ^bA|^wAb
+# long wave (NOUN) : XbW]b
+# long nose (NOUN) : Dl]WzD [l
+# long leave (NOUN) : XbWA|^wAb
+# long explanation (NOUN) : XbW^lbW^bD UfIQjW
+# long years (NOUN) : GbDjD
+# ^make a long arm (VERB) : UlDWzI S|Gb
+# ^make a long neck (VERB) : QlAWzI S|Gb
+# ^take long views (VERB) : QfDXbWIcWz| W|IWzI UcWAbA^bGb
+# upto NUM1 A long (ADJ) : [(ADJUNCT [(NMODS NUM1) A]/QbD[zQBbX|) A|I<ADJ>]/Gb
+
+"long-abandoned"
+ar (XbWA|AbD ]lA|^bD)
+ap (XbWA|AbD ]lA|^bGb:ADJ->VERB)
+
+"long-ago"
+ar (WkUDbIWz|)
+# NUM1 NOUN {+UNIT} long (ADJ) : [(ADJUNCT [(NMODS NUM1) NOUN]/QbD[zQ) A|I<ADJ>]/Gb
+
+"long-eared"
+ar (A|D As|Ab W|VDzD)
+
+"long-faced"
+ar (WfIAsIW| A|D)
+
+"long-haired"
+ar (UbWWb\bRWg \zIWf RbA^|D)
+ap (UbWWb\bRWg \zIWf RbA^|Gb)
+
+"long-headed"
+ar (QfI|Ab A|D)
+ap (QfI|Ab A|IGb)
+
+"long-sighted"
+ar (QfDGg AfUWzI RlI Us W|VDzD)
+ap (QfDGg AfUWzI RlI Us W|VGb)
+
+"long-standing"
+ar (WlIcGl|D)
+ap (WlIcGl|Gb)
+
+"long-term"
+ar (XbWA|Wz|)
+ap (XbWA|XfAW|Gb)
+# a longterm credit (NOUN) : XbWA|GcRs
+# a longterm loan (NOUN) : ZbAlbD
+
+"long-tongued"
+ar (^jAb A|D)
+ap (^jAb A|IGb)
+
+"long-winded"
+ar (UsQW| A|D)
+ap (UsQW| A|IGb)
+
+"longawaited"
+ar (GcQbWWz|)
+ap (GcQbWW|Gb)
+
+"longdated"
+ar (XbWA|Wz|)
+ap (XbWA|W|Gb)
+
+"longeval"
+ar (QlAUsQW| A|D)
+ap (QlAUsQW| A|IGb)
+
+"longhead"
+ar (QfI|Ab A|D)
+ap (QfI|Ab A|IGb)
+
+"longheaded"
+ar (QfI|Ab A|D)
+ap (QfI|Ab A|IGb)
+
+"longies"
+ar (AbIQbW^bDzD)
+ap (AbIQbW^bGb:ADJ->VERB)
+
+"longish"
+ar (A|IzQX|D)
+ap (A|IzQX|Gb)
+
+"longitudinal"
+ar (AjWGlWz|)
+ap (AjWGlW|Gb)
+
+"longlived"
+ar (QlAUsWW| A|D)
+ap (QlAUsWW| A|IGb)
+
+"longrange"
+ar (XbWAfI|Wg GbI^bDzD)
+ap (XbWAfI|Wg GbI^bGb:ADJ->VERB)
+# a longrange gun (NOUN) : XbWAfI|]l
+# a longrange flight (NOUN) : R|^cW
+# long plans (NOUN) : XbWA|Ak^l|A
+# long outlook (NOUN) : XfDQbW
+
+"longrun"
+ar (XbWA| ^zW^cWWz|)
+ap (XbWA| ^zW^cWW|Gb)
+
+"longshore"
+ar (WjDWbDWz|)
+ap (WjDWbDW|Gb)
+# lonshore fishery (NOUN) : WjDWbDWfWfR
+
+"longspun"
+ar (A|IAg BzD)
+ap (A|IAg BzIGb)
+
+"longstanding"
+ar (WjIf^cWg AfIZ|D)
+ap (WjIf^cWg AfIZ|Gb)
+# a longstanding feud (NOUN) : WlIcD RbDRlA
+
+"longtime"
+ar (WlIcUGlWWbDWz|)
+* XbWA|Wz| (worker DlGlWXb)
+ap (WlIcUGlWWbDW|Gb)
+
+"loochooan"
+ar (WwAsWz|)
+ap (WwAsXfAW|Gb)
+
+"loony"
+ar (Q|Z|D)
+ap (Q|Z|Gb)
+
+"looped"
+ar (AlI|Il Gl|D)
+ap (AlI|Il Gl|Gb)
+
+"loopy"
+ar (AlI|Ab QbD^WzD)
+ap (AlI|Ab QbD^Gb)
+
+"loose"
+ar (DzUzD^bD)
+ap (DzUzD^bGb)
+
+"loose-bodied"
+ar (^fIAfWsD)
+ap (^fIAfRGb)
+
+"loose-fitting"
+ar (^fIAfWsD)
+ap (^fIAfRGb)
+
+"loose-jointed"
+ar (AlbDXfIW| ^fIAfWsD)
+ap (AlbDXfIW| ^fIAfRGb)
+
+"loose-leaf"
+ar (IsWsUzI|W|]zU|AWz|)
+ap (IsWsUzI|W|]zU|AW|Gb)
+
+"loose-minded"
+ar (QfI|Ab UbDQbD^bD)
+ap (QfI|Ab UbDQbD^bGb)
+
+"loose-principled"
+ar (X|XlAb WfRUDzD)
+ap (X|XlAb WfRUGb)
+
+"loose-tongued"
+ar (W|RW| VbD)
+ap (W|RW| VbGb)
+
+"loosish"
+ar (]sIWfX|I GzU ^bD)
+ap (]sIWfX|I GzU ^bGb)
+
+"lop-eared"
+ar (As|Ab DzIWfX|D)
+ap (As|Ab DzIWfX|Gb)
+
+"lop-sided"
+ar (^bDYlAWzIl A|WsD)
+ap (^bDYlAWzIl A|WsIGb)
+# lop sided trade (NOUN) : ]jDQsWjA
+# lop sided election victory (NOUN) : UfDAfWgUfWz| W|IRbWXfA GcUzWI|
+
+"lopsided"
+ar (^bDYlAWzIl A|WsD)
+ap (^bDYlAWzIl A|WsIGb)
+# lopsided trade (NOUN) : ]jDQsWjA
+# lopsided election victory (NOUN) : UfDAfWgUfWz| W|IRbWXfA GcUzWI|
+
+"loquacious"
+ar (UsGbUzIfWsD)
+ap (UsGbUzIfRGb)
+
+"loral"
+ar (UcWz| DsDAlb Ws|URsI| UbW| RsRsDWz|)
+ap (UcWz| DsDAlb Ws|URsI| UbW| RsRsDW|Gb)
+
+"lord's"
+ar (AlGlA^bD)
+ap (AlGlA^bGb)
+
+"lordly"
+ar (As|XlAGbWsD)
+ap (As|XlAGbRGb)
+
+"losable"
+ar (W|I^A| Us|WsD)
+ap (W|I^A| Us|RGb)
+
+"losing"
+ar (X|DzD)
+ap (X|Gb:ADJ->VERB)
+
+"lossy"
+ar (UlDU|IWz|)
+ap (UlDU|IW|Gb)
+
+"lost"
+ar (W|I^WfRfI|D)
+* A|IW|I^Gb (child WbW|)
+* ^fR|^bGb (day DbI) (award UbWAzQ)
+* U|QIbD^bGb (expression ]rXfW)
+ap (W|I^WfRfI|Gb)
+
+# lost battle (NOUN) : ]cXfD
+# lost bill (NOUN) : RsDU|IWfWzQ
+# lost or not (ADV) : GcQsIAbQU|IWz| WwQsWg AlbDAkWfRUW|
+# lost love (NOUN) : U|IWjD
+# lost property (NOUN) : RsDU|IQsI
+# a lost plain (NOUN) : ZsIbAA|
+# ^give up for lost (VERB) : XsAWzD AfUWzIl GbDDjQ^bGb
+# ^be lost on/upon A (VERB->ADJ) : [(ADJUNCT A/Wg) ^rAlbAb W|V<ADJ>]/Gb
+# ^be lost to A (VERB->ADJ) : [(MODS [W|Q|<ADV>]) (SCOMP [(POSS A/Wz|) AfU<NOUN>]/W|) WbD|<ADJ>]/Gb
+
+"loth"
+ar (U|I^WzD)
+ap (U|I^Gb)
+
+"lotta"
+ar (QbD^WzD)
+ap (QbD^Gb)
+
+"loud"
+ar ([zD)
+* U|BzIfRGb (party ]b\|) (music WzQWbA) (explosion ]lARbI)
+* AbW^bGb (complaints RsI]jW)
+* ^lbIj^bGb (color UcABbI) (dress WlU)
+* UbWUzIfRGb (manner \cGl) (person UbIbQ)
+ap ([zGb)
+* U|BzIfRGb (~ {+HUMAN})
+
+"loud-spoken"
+ar (QlAUlI|Ab [zD)
+ap (QlAUlI|Ab [zGb)
+
+"loudish"
+ar (UlI|Ab XlQ Dl]WzD)
+ap (UlI|Ab XlQ Dl]Gb)
+
+"loudmouthed"
+ar (QlAUlI|Ab [zD)
+ap (QlAUlI|Ab [zGb)
+
+"louisianan"
+ar (IsW|X|WcDbWz|)
+ap (IsW|X|WcDbW|Gb)
+
+"lousy"
+ar (W|Ab GzIBzI^DzD)
+ap (W|Ab GzIBzI^Gb:ADJ->VERB)
+
+"loutish"
+ar (RfIzUWfRUDzD)
+ap (RfIzUW| WfRUGb)
+
+"lovable"
+ar (UbIbWUzIfWsD)
+ap (UbIbWUzIfRGb)
+
+"love-at-first-sight"
+ar (ZfUDsDWg RbD^bD)
+ap (ZfUDsDWg RbD^bGb)
+
+"loved"
+ar (UbIbW RbGDzD)
+ap (UbIbW RbGGb)
+
+"loveless"
+ar (WcXfWW| WfRUDzD)
+ap (WcXfWW| WfRUGb)
+
+"lovelorn"
+ar (WcW|DWgAg RfI|QRbGWzD)
+ap (WcW|DWgAg RfI|QRbGGb)
+
+"lovely"
+ar (WbIzQGbWsD)
+ap (WbIzQGbRGb)
+
+"lovesome"
+ar (QcIjAXfAW|D)
+ap (QcIjAXfAW|Gb)
+
+"lovestruck"
+ar (UbIbWWg SbX|D)
+ap (UbIbWWg SbX|Gb)
+
+"loving"
+ar (UbIbWUzIfWsD)
+ap (UbIbWUzIfRGb)
+
+"low"
+ar (DbXWzD)
+* DbXGb (base A|Zl)
+* Q|ZfD^bGb (life UcW^lbI) (person UbIbQ)
+* UbWUzIfRGb (joke DlWGbQ) (trick UsXbA) (motive GlWA|) (program ]zIl)
+ap (DbXGb)
+
+# ^have a low opinion of  A (VERB) : [(OBJ A/WzI) AjWU|^b<VERB>]/Gb
+# low comedy (NOUN) : XfUlA^bD ^z|AzA
+# low explosives (NOUN) : Xf]lARbIUfW ^lbWdA
+# low forms of life (NOUN) : ^bGzWGlWQsI
+# low frequency (NOUN) : XfXs]b
+# low grade (NOUN) : XfAzR
+# low income bracket (NOUN) : XfUlGzAZzW
+# low income country (NOUN) : XfUlGzAAsA
+# low interest (NOUN) : XfI|
+# low marks (VERB) : DbXWzD XfQUsIzI HbGb
+# low pollution car (NOUN) : XfAlW^cZb
+# low pressure economy (NOUN) : XfWbRAjWXg
+# low price policy (NOUN) : XfQsIAbXfWZcA
+# low relief (NOUN) : Wd\WzD WdWAbA
+# low Sunday (NOUN) : Rs^lbIXg Gs|Wz| ZfUYc W|IWrW|I
+# low quality (NOUN) : XfGzWAzR
+# low wages (NOUN) : XfW|QAzQ
+# low water (NOUN) : VfIQsI
+# low tea (NOUN) : AbRjWsD U|AUb
+
+"low-budget"
+ar (XfWkUbDWz|)
+ap (WkUbDW| XfAAg GzIGb)
+
+"low-cost"
+ar (R|WrWW| XfAAg GzDzD)
+ap (R|WrWW| XfAAg GzIGb:ADJ->VERB)
+
+"low-end"
+ar (Zl|GbDQbIWz|)
+ap (Zl|GbDQbIW|Gb)
+
+"low-flying"
+ar (XfAlW R|^cWWz|)
+ap (XfAlW R|^cWW|Gb)
+
+"low-grade"
+ar (X|IW| DbXWzD)
+ap (X|IW| DbXGb)
+
+"low-heeled"
+ar (AsRW| DbXWzD)
+ap (AsRW| DbXGb)
+
+"low-key"
+ar (UbQAbDzD)
+ap (UbQAbGb:ADJ->VERB)
+
+"low-lived"
+ar (R|ZfD^bD UcW^lbIWzI ^bDzD)
+ap (R|ZfD^bD UcW^lbIWzI ^bGb:ADJ->VERB)
+
+"low-lying"
+ar (DbXWzD)
+ap (DbXGb)
+# low-lying cloud (NOUN) : DbXAg BbII|D AsIzQ
+
+"low-minded"
+ar (QbWzQW| GfIfWsD)
+ap (QbWzQW| GfIfRGb)
+
+"low-numbered"
+ar (RfD^lAb W|IzD)
+ap (RfD^lAb W|IzGb)
+
+"low-pitched"
+ar (XfXlWz|)
+ap (XfXlW|Gb)
+
+"low-pressure"
+ar (XfWbRWz|)
+ap (XfWbRW|Gb)
+
+"low-profile"
+ar (XfUbUgWz|)
+ap (XfUbUgW|Gb)
+
+"low-rise"
+ar (AlZzWW| WbD|D)
+ap (AlZzWW| WbD|Gb)
+
+"low-spirited"
+ar (A|WsDWfRUDzD)
+ap (A|WsDW| WfRUGb)
+
+"lowborn"
+ar (ZfD^bD \cUcWWz|)
+ap (ZfD^bD \cUcWW|Gb)
+
+"lowbred"
+ar (RfIzUWfRUW| XbIbD)
+ap (RfIzUWfRUW| XbIbGb)
+
+"lowbrow"
+ar (W|QbAb XlRWzD)
+ap (W|QbAb XlRGb)
+
+"lower"
+ar (RlGb DbXWzD)
+* RlGb DbXGb (flight R|^cW) (tax UgAzQ)
+* RlGb VbGb (cost R|WrW) (fare WsDW|Q) (price AbAjA)
+* RlGb XfAGb (opinion Wz|AjD) (profit W|WwD)
+ap (RlGb DbXGb)
+* RlGb DbXGb (tax UgAzQ)
+* RlGb VbGb (price AbAjA)
+
+# Lower Canada (NOUN) : [cDbGb XsWz| WkUW|IzQ
+# lower and medium income groups (NOUN) : XsWXfUlGzAZzW
+# lower case (NOUN) : UlQsDXb
+# lower criticism (NOUN) : XbAsWg AlbD^bD R|]jW
+# lower limit (NOUN) : ^b^bD
+# lower point (NOUN) : ^b^bD
+# lower supervisory management zone (NOUN) : ^bAzRAlbDI|ZzW
+# the lower deck (NOUN) : ^bAbR]bD
+# the Lower Empire (NOUN) : GlWIlQbXgAsA
+# the Lower House (NOUN) : ^bWsfD
+# the Lower Chamber (NOUN) : ^bWsfD
+# the lower orders (NOUN) : ^bZzW Ub^l|
+# the lower classes (NOUN) : ^bZzW Ub^l|
+# the lower regions (NOUN) : X|WlA
+# the lower world (NOUN) : X|WlA
+
+"lower-case"
+ar (UlQsDXbWz|)
+ap (UlQsDXbW|Gb)
+
+"lowering"
+ar (DbIV|Ab ^fQWbA^bD)
+ap (DbIV|Ab ^fQWbA^bGb)
+
+"lowermost"
+ar (Zl|XfWz|)
+ap (Zl|XfW|Gb)
+
+"lowery"
+ar (DbIV|Ab ^fQWbA^bD)
+ap (DbIV|Ab ^fQWbA^bGb)
+
+"lowest"
+ar (Zl|^bWz|)
+ap (Zl|^bW|Gb)
+
+"lowing"
+ar (WzQQc^bAl WsDzD)
+ap (WzQQc^bAl WsIGb:ADJ->VERB)
+
+"lowly"
+ar (X|Ws|Ab DbXWzD)
+ap (X|Ws|Ab DbXGb)
+
+"loxodromic"
+ar (GzWUbAlAUfDWz|)
+ap (GzWUbAlAUfDW|Gb)
+
+"loyal"
+ar (ZsWUfWUzIfWsD)
+* UfWWz|W|VGb (visitor RbWQsDAcA)
+ap (ZsWUfWUzIfRGb)
+# be loyal to A (VERB) : [(ADJUNCT A/WgAg) ZsWUfW^b<VERB>]/Gb
+
+"lubberly"
+ar (WfUcA^bD)
+ap (WfUcA^bGb)
+
+"lubering"
+ar (GfIAfGfAAfI|Qj DbWbAbDzD)
+ap (GfIAfGfAAfI|Qj DbWbAbGb:ADJ->VERB)
+
+"lubricant"
+ar (QcBzIfRAg ^bDzD)
+ap (QcBzIfRAg ^bGb:ADJ->VERB)
+
+"lubricative"
+ar (QcBzIfRAg ^bDzD)
+ap (QcBzIfRAg ^bGb:ADJ->VERB)
+
+"lubricous"
+ar (QcBzIfWsD)
+ap (QcBzIfRGb)
+
+"lucent"
+ar (R|ZDbDzD)
+ap (R|ZDbGb:ADJ->VERB)
+
+"lucid"
+ar (R|ZDbDzD)
+ap (R|ZDbGb:ADJ->VERB)
+
+"luciferous"
+ar (R|ZDbDzD)
+ap (R|ZDbGb)
+
+"lucifugous"
+ar (^cUR|ZWzI ]|^bDzD)
+ap (^cUR|ZWzI ]|^bGb:ADJ->VERB)
+
+"luckless"
+ar (RsI^cW^bD)
+ap (RsI^cW^bGb)
+
+"lucky"
+ar (WsDXl^WzD)
+ap (WsDW| Xl^Gb)
+//# ^be lucky TO_INF (VERB) : [(MODS [WsDW| Xl^Ag<ADV>]) TO_INF]/^bGb
+# || lucky you || (SENT) : (DECL [Xl^<ADJ>](WbVAgV/P)/Gb)
+
+"lucrative"
+ar (WwI|^bD)
+ap (WwI|^bGb)
+
+"luculent"
+ar (QjW[lc^bD)
+ap (QjW[lc^bGb)
+
+"lucullan"
+ar (RsWw^bD)
+ap (RsWw^bGb)
+
+"ludicrous"
+ar (VsAUzIfD)
+ap (VsAUzIfRGb)
+
+"luetic"
+ar (QcGlAWz|)
+ap (QcGlAW|Gb)
+
+"lugubrious"
+ar (UzI]zD GzU ^bD)
+ap (UzI]zD GzU ^bGb)
+
+"lukewarm"
+ar (Q|X|AzD^bD)
+ap (Q|X|AzD^bGb)
+
+"lulling"
+ar (GbIIcGzU ^bDzD)
+ap (GbIIcGzU ^bGb)
+
+"lumbar"
+ar (^fI| RsRsDWz|)
+ap (^fI| RsRsDW|Gb)
+
+"luminescent"
+ar (RbIAlbWUfWWz|)
+ap (RbIAlbWUfWW|Gb)
+
+"luminiferous"
+ar (R|ZWzI RbI^bDzD)
+ap (R|ZWzI RbI^bGb:ADJ->VERB)
+
+"luminous"
+ar (R|ZWzI RbI^bDzD)
+ap (R|ZWzI RbI^bGb:ADJ->VERB)
+
+"lumpen"
+ar (RsIbW UcW^lbIWzI ^bDzD)
+ap (RsIbW UcW^lbIWzI ^bGb:ADJ->VERB)
+
+"lumping"
+ar (QbD^WzD)
+ap (QbD^Gb)
+
+"lumpish"
+ar (GfWWfI| Ab\WzD)
+ap (GfWWfI| Ab\Gb)
+
+"lumpy"
+ar (GfWWfI| \sUfWW|Wz|)
+ap (GfWWfI| \sUfWW|W|Gb)
+
+"lunar"
+ar (GbIWz|)
+ap (GbIW|Gb)
+# lunar calendar (NOUN) : WzQIjA
+# lunar distance (NOUN) : WsfIAf
+# lunar eclipse (NOUN) : WsfIU|A
+# lunar gravity (NOUN) : GbIWz| W|DIjA
+# lunar jeep (NOUN) : WjIQjDZb
+# lunar lander (NOUN) : GbIZbAIwAUfD
+# lunar landing (NOUN) : GbIZbAIwA
+# lunar month (NOUN) : \cWzQWsfI
+# lunar orbit (NOUN) : GbIAsgGl
+# lunar orbiter (NOUN) : GbIAsgGl W|DAlW Ws|UfW
+# lunar overshoes (NOUN) : WsfIQjD^lb
+# lunar politics (NOUN) : AbAlWXfAW|D QsDXg
+# lunar probe (NOUN) : GbI\bQUcAA|
+# lunar rainbow (NOUN) : GbIQsI|
+# lunar rocket (NOUN) : GbIIl[gU
+# lunar satellite (NOUN) : GbIWs|UfW
+# lunar year (NOUN) : \cWzQDjD
+
+"lunate"
+ar (RbDGbI QlWdWWz|)
+ap (RbDGbI QlWdWW|Gb)
+
+"lunatic"
+ar (XfWU|DW|UbWWz|)
+ap (XfWU|DW|UbWW|Gb)
+# lunatic asylum (NOUN) : XfWU|DRjWWsfD
+
+"lunged"
+ar (]kAb W|VDzD)
+ap (]kAb W|VGb)
+
+"luniform"
+ar (GbI QlWdWWz|)
+ap (GbI QlWdWW|Gb)
+
+"lunisolar"
+ar (^cWlb GbIWz|)
+ap (^cWlb GbIW|Gb)
+
+"lunula"
+ar (ZlUzWGbI QlWdWWz| AfUWz|)
+ap (ZlUzWGbI QlWdWWz| AfUW|Gb)
+
+"lupine"
+ar (W|I|Wz|)
+ap (W|I|W|Gb)
+
+"lupous"
+ar (DbWZbWUfWWz|)
+ap (DbWZbWUfWW|Gb)
+
+"lurid"
+ar (Uc]bIb^Ag X|II|D)
+ap (Uc]bIb^Ag X|II|Gb)
+
+"luscious"
+ar (QbUXl^WzD)
+ap (QbUW| Xl^Gb)
+
+"lush"
+ar (]sIzU]sIzU^bD)
+ap (]sIzU]sIzU^bGb)
+
+"lushy"
+ar (UsIZs|^bD)
+ap (UsI Zs|^bGb)
+
+"lustered"
+ar (AlbW\cAW| W|VDzD)
+ap (AlbW\cAW| W|VGb)
+
+"lustful"
+ar (^lUcAWz|)
+ap (^lUcAW|Gb)
+
+"lustral"
+ar (BcBzUW| ^bDzD)
+ap (BcBzUW| ^bGb:ADJ->VERB)
+
+"lustrous"
+ar (AlbW\cAW| W|VDzD)
+ap (AlbW\cAW| W|VGb)
+
+"lusty"
+ar (\zD\zD^bD)
+ap (\zD\zD^bGb)
+
+"luteous"
+ar (X|D^bD Xs^lbWUcAWz|)
+ap (X|D^bD Xs^lbWUcAW|Gb)
+
+"lutetian"
+ar (]bI|Wz|)
+ap (]bI|W|Gb)
+
+"lutheran"
+ar (Is\fWz|)
+ap (Is\fW|Gb)
+
+"luxuriant"
+ar (GbUbDWz|)
+ap (GbUbDW|Gb)
+
+"luxurious"
+ar (UbZ|UzIfWsD)
+ap (UbZ|UzIfRGb)
+
+"lydian"
+ar (I|G|WbWz|)
+ap (I|G|WbW|Gb)
+# Lydian airs (NOUN) : WcAlA
+# Lydian stone (NOUN) : Aw]bDWbQ
+
+"lying"
+ar (AfX|UQbI^bDzD)
+ap (AfX|UQbI^bGb:ADJ->VERB)
+
+"lying"
+ar (GzIfDsWsf W|VDzD)
+ap (GzIfDsWsf W|VGb)
+
+"lying-in"
+ar (^cUbDWz|)
+ap (^cUbDW|Gb)
+
+"lymphatic"
+ar (W|Q]bWz|)
+ap (W|Q]bW|Gb)
+
+"lymphoid"
+ar (W|Q]bWz|)
+ap (W|Q]bW|Gb)
+
+"lyncean"
+ar (U|IbUlD| Ab\WzD DsDWzI ^bD)
+ap (U|IbUlD| Ab\WzD DsDWzI ^bD)
+
+"lynx-eyed"
+ar (DsDW| DbI[bIlWsD)
+ap (DsDW| DbI[bIlRGb)
+
+"lyonnaise"
+ar (WdIRAg VfD)
+ap (WdIRAg VfIGb)
+
+"lyrate"
+ar (UsAzQ QlWdWWz|)
+ap (UsAzQ QlWdWW|Gb)
+
+"lyrated"
+ar (AfQsDAl QlWdWWz|)
+ap (AfQsDAl QlWdWW|Gb)
+
+"lyric"
+ar (UfXfWWz|)
+ap (UfXfWXfAW|Gb)
+
+"lyrical"
+ar (UfXfWU|XfAW|D)
+ap (UfXfWU|XfAW|Gb)
+
+"lyrico-dramatic"
+ar (UfXfWU|Wlb AzAU|Wz| \zAUcAWzI AjI^bR^bD)
+ap (UfXfWU|Wlb AzAU|Wz| \zAUcAWzI AjI^bR^bGb)
+
+"lyrico-epic"
+ar (UfXfWU|Wlb UfUbU|Wz| \zAUcAWzI AjQ^bD)
+ap (UfXfWU|Wlb UfUbU|Wz| \zAUcAWzI AjQ^bGb)
+
+"lyriform"
+ar (UsAzQZfIfQ UcWA|D)
+ap (UsAzQZfIfQ UcWA|Gb)

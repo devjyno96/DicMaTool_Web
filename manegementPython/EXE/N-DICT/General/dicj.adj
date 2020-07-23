@@ -1,0 +1,485 @@
+"Jacksonian"
+ar (XcAUzDWz|)
+ap (XcAUzDW|Gb)
+
+"Jacobean"
+ar (WjWAsAWlbW XgW|QUz U|GcWz|)
+ap (WjWAsAWlbW XgW|QUz U|GcW|Gb)
+
+"Jacobitic"
+ar (XgW|QUz]bWz|)
+ap (XgW|QUz]bW|Gb)
+
+"Jacobitical"
+ar (XgW|QUz]bWz|)
+ap (XgW|QUz]bW|Gb)
+
+"Jain"
+ar (XbW|DbArWz|)
+ap (XbW|DbArW|Gb)
+
+"Jaina"
+ar (XbW|DbArWz|)
+ap (XbW|DbArW|Gb)
+
+"Jamaican"
+ar (XbQbW|[bWz|)
+ap (XbQbW|[bW|Gb)
+
+"Japan"
+ar (W|IRlDWz|)
+ap (W|IRlDW|Gb)
+
+"Japanese"
+ar (W|IRlDWz|)
+* W|IRlDWz| (occupation XfQIjW)
+ap (W|IRlDW|Gb)
+
+"Japanesque"
+ar (W|IRlDU|AWz|)
+ap (W|IRlDU|AW|Gb)
+
+"Japhetic"
+ar (WdRgUWz|)
+ap (WdRgUW|Gb)
+
+"Java-enabled"
+ar (XbRbAb AbDzW^bD)
+ap (XbRbAb AbDzW^bGb)
+
+"Java-related"
+ar (XbRbWlb AlbDIjDGl|D)
+ap (XbRbWlb AlbDIjDGl|Gb)
+
+"Javan"
+ar (XbRbWz|)
+ap (XbRbW|Gb)
+
+"Javanese"
+ar (XbRbWz|)
+ap (XbRbW|Gb)
+
+"Jeffersonian"
+ar (Xg]fUzDU|AWz|)
+ap (Xg]fUzDU|AW|Gb)
+
+"Jesuittic"
+ar (WkUs^l|Wz|)
+ap (WkUs^l|W|Gb)
+
+"Jew"
+ar (WwGcW|DWz|)
+ap (WwGcW|DW|Gb)
+
+"Jewish"
+ar (WwGcW|DWz|)
+ap (WwGcW|DW|Gb)
+
+"Judahite"
+ar (WwGbXlAWz|)
+ap (WwGbXlAW|Gb)
+
+"Judaic"
+ar (Ww\cArWz|)
+ap (Ww\cArW|Gb)
+
+"jabreaking"
+ar (QcWs RbIWzQ^bA| WfIjWsD)
+ap (QcWs RbIWzQ^bA| WfIjRGb)
+
+"jackleg"
+ar (Q|UsA^bD)
+ap (Q|UsA^bGb)
+
+"jagged"
+ar (\lRD| QlWdWWz|)
+ap (\lRD| QlWdWW|Gb)
+
+"jaggy"
+ar (\lRD|QlWdWWz|)
+ap (\lRD|QlWdWW|Gb)
+
+"jake"
+ar (Xl^WzD)
+ap (Xl^Gb)
+
+"jammy"
+ar (X|DGzAX|DGzA^bD)
+ap (X|DGzAX|DGzA^bGb)
+
+"jampacked"
+ar (ScAScAW| GzIWfZbD)
+ap (ScAScAW| GzIWfZbGb)
+
+"janusfaced"
+ar (WfIAsIW| Gs Ac W|VDzD)
+ap (WfIAsIW| Gs Ac W|VGb)
+
+"jarring"
+ar (S|AfAAfI|DzD)
+ar (S|AfAAfI|Gb:ADJ->VERB)
+
+"java-enabled"
+ar (XbRbAb AbDzW^bD)
+ap (XbRbAb AbDzW^bGb)
+
+"jazz"
+ar (XcXzWz|)
+ap (XcXzW|Gb)
+
+"jazzy"
+ar (XcXzXfAW|D)
+ap (XcXzXfAW|Gb)
+
+"jealous"
+ar (X|I\sU|Q QbD^WzD)
+ap (X|I\sU|QW| QbD^Gb)
+# ^be jealous of A  (VERB) : [(OBJ A/IzI) X|I\s^b<VERB>]/Gb
+# ^keep a jealous eye on A  (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/Wf) (OBJ [(AMODS [AjWAk^b<VERB>]/^bDzD) DsD<NOUN>]/WzI) HgX| WbD^<VERB>]/Gb
+
+"jeery"
+ar (DbII|QWzIl X|WzD)
+ap (DbII|QWzIl X|UGb)
+
+"jejune"
+ar (R|DWdA^bD)
+ap (R|DWdA^bGb)
+
+"jellied"
+ar (XgII| QlWdWW| Gl|D)
+ap (XgII| QlWdWW| Gl|Gb)
+
+"jerky"
+ar (^lcA WsQX|AW|DzD)
+ap (^lcA WsQX|AW|Gb:ADJ->VERB)
+
+"jerry-built"
+ar (DbII|Q AlWUbWz|)
+ap (DbII|Q AlWUbW|Gb)
+
+"jesting"
+ar (DlWGbQWz|)
+ap (DlWGbQW|Gb)
+
+"jet"
+ar (Xg\zWz|)
+* ^zAWlAWz| (color UcA)
+ap (Xg\zW|Gb)
+
+"jet-black"
+ar (Z|I^zAWz|)
+ap (Z|I^zAW|Gb)
+
+"jet-borne"
+ar (Xg\zA|Il DbIIbX|DzD)
+ap (Xg\zA|Il DbIIbX|Gb:ADJ->VERB)
+
+"jetpropelled"
+ar (RsDUb ZsX|DU|AWz|)
+ap (RsDUb ZsX|DU|AW|Gb)
+
+"jetty"
+ar (^lAWlAX|IWz|)
+ap (^lAWlAX|IW|Gb)
+
+"jiggered"
+ar (BbQYbA DlIIbD)
+ap (BbQYbA DlIIbGb)
+
+"jimcrow"
+ar (W|DXlW ZbRjIWz|)
+ap (W|DXlW ZbRjIXfAW|Gb)
+
+"jimdand"
+ar (^sIIwW^bD)
+ap (^sIIwW^bGb)
+
+"jingoistic"
+ar (XsXfDIlDXfAW|D)
+ap (XsXfDIlDXfAW|Gb)
+
+"jittery"
+ar (U|DAjWAlbQ|DWz|)
+ap (U|DAjWAlbQ|DW|Gb)
+
+"jobless"
+ar (W|IXbI|Ab WfRUDzD)
+ap (W|IXbI|Ab WfRUGb)
+# jobless rate (NOUN) : U|IWfRIwI
+
+"jocose"
+ar (WsUzBlbWUzIfWsD)
+ap (WsUzBlbWUzIfRGb)
+
+"jocular"
+ar (WsUzBlbWUzIfWsD)
+ap (WsUzBlbWUzIfRGb)
+
+"jocund"
+ar ([lc^lbI^bD)
+ap ([lc^lbI^bGb)
+
+"johannean"
+ar (UbGl Wr^bDWz|)
+ap (UbGl Wr^bDW|Gb)
+
+"johnsonian"
+ar (XlDUzDU|AWz|)
+ap (XlDUzDU|AW|Gb)
+
+"joint"
+ar (AlWGlWWz|)
+ap (AlWGlWW|Gb)
+# joint authors (NOUN) : AlWXfXb
+# joint committee (NOUN) : AlWGlW UfWQjW
+# joint family (NOUN) : X|R^bR AbXlA
+# joint offence (NOUN) : AlWRfQ
+# joint ownership (NOUN) : AlWWwAsfD
+# joint resolution (NOUN) : AlWGlW AjIWz|
+# joint responsibility (NOUN) : AlWGlW ZcAW|Q
+# joint liability (NOUN) : WjDGc ZcAW|Q
+# joint session (NOUN) : WdWWsfDWz| ^bRGlW ^l|Wz|
+# joint meeting (NOUN) : WdWWsfDWz| ^bRGlW ^l|Wz|
+# joint statement (NOUN) : AlWGlWUfWQjW
+# joint venture (NOUN) : ^bRXbA\sXb
+# during their joint lives of A  (PP->ADV) : (ADJUNCT [(COMPCL [(SUBJ A/W|) 
+(MODS [(MODS [UfIl<ADV>]) Ab\W|<ADV>]) UbI<VERB>](Al/F, W|V/V)/^bD) GlWWbD<NOUN>])
+# Joint Chiefs of Staff (NOUN) : ^bRGlW ZbQQl RlDRs
+# Joint Observer Team (NOUN) : AlWGlWAbQU| UlXl
+# Joint Security Area (NOUN) : AlWGlWAjWR|AsWjA
+
+"joint-stock"
+ar (XsU|A XlX|AWz|)
+ap (XsU|A XlX|AW|Gb)
+
+"jointless"
+ar (W|WzQQcAb WfRUDzD)
+ap (W|WzQQcAb WfRUGb)
+
+"joisted"
+ar (XbWUfDWzI GcD)
+ap (XbWUfDWzI GcGb)
+
+"joky"
+ar (DlWGbQWzI Xl^Wb^bDzD)
+ap (DlWGbQWzI Xl^Wb^bGb:ADJ->VERB)
+
+"jolly"
+ar (XzIAfWsD)
+ap (XzIAfRGb)
+# the jolly god (NOUN) : XsU|D
+
+"jolty"
+ar (GlWWrAb U|Q^bD)
+ap (GlWWrAb U|Q^bGb)
+
+"journalistic"
+ar (XfDfII|XzQWz|)
+ap (XfDfII|XzQXfAW|Gb)
+
+"jovial"
+ar (QjWIbW^bD)
+ap (QjWIbW^bGb)
+
+"jovian"
+ar (U|DWz|)
+ap (U|DW|Gb)
+
+"joyful"
+ar (A|SzD)
+* A|SzQWg ZbGb:ADJ->VERB (~ {+HUMAN})
+ap (A|SzGb)
+
+"joyless"
+ar (A|SzQW| WfRUDzD)
+ap (A|SzQW| WfRUGb)
+
+"joyous"
+ar (XzIAfWsD)
+ap (XzIAfRGb)
+
+"jubilant"
+ar (Xl^Wb^bDzD)
+ap (Xl^Wb^bGb:ADJ->VERB)
+
+"judaic"
+ar (WwGcWz|)
+ap (WwGcW|Gb)
+
+"judas-colored"
+ar (QfI|\fIW| RsIAWzD)
+ap (QfI|\fIW| RsIAGb)
+
+"judean"
+ar (WwGcWz|)
+ap (WwGcW|Gb)
+
+"judge-made"
+ar (]bDIkWg W|RAbA^bD)
+ar (]bDIkWg W|RAbA^bGb)
+
+"judgmatic"
+ar (UbI| RsDRjIW| W|VDzD)
+ap (UbI| RsDRjIW| W|VGb)
+
+"judgmatical"
+ar (UbI| RsDRjIW| W|VDzD)
+ap (UbI| RsDRjIW| W|VGb)
+
+"judicatory"
+ar (Xc]bDWz|)
+ap (Xc]bDW|Gb)
+
+"judicial"
+ar (UbRfRWz|)
+ap (UbRfRXfAW|Gb)
+
+"judiciary"
+ar (UbRfRWz|)
+ap (UbRfRXfAW|Gb)
+
+"judicious"
+ar (UbI| RsDRjIW| W|VDzD)
+ap (UbI| RsDRjIW| W|VDzD)
+
+"jugate"
+ar (VbWWzIl Gl|Wf W|VDzD)
+ap (VbWWzIl Gl|Wf W|VGb)
+
+"jugular"
+ar (AjWRsWz|)
+ap (AjWRsW|Gb)
+
+"juiceless"
+ar (XzRW| WfRUDzD)
+ap (XzRW| WfRUGb)
+
+"juicy"
+ar (UsRsDW| QbD^WzD)
+ap (UsRsDW| QbD^Gb)
+
+"julienne"
+ar (XbIAg VfD)
+ap (XbIAg VfIGb)
+
+"jumbled"
+ar (QsX|IUf^bD)
+ap (QsX|IUf^bGb)
+
+"jumbly"
+ar (Gs|RfQRfAW| Gl|D)
+ap (Gs|RfQRfAW| Gl|Gb)
+
+"jumbo"
+ar (WfQZfWDbAg [zD)
+ap (WfQZfWDbAg [zGb)
+
+"jump"
+ar (\gQ]lAb SbIzD)
+ap (\gQ]lAb SbIzGb)
+
+"jumped-up"
+ar (U|D^zWWz|)
+ap (U|D^zWW|Gb)
+
+"jumpy"
+ar (Hs|DzD)
+ap (Hs|Gb:ADJ->VERB)
+
+"jungly"
+ar (XfWAzIWz|) 
+ap (XfWAzIW|Gb) 
+
+"junior"
+ar (WjDUl^bD)
+ap (WjDUl^bGb)
+# junior college (NOUN) : 2DjDXg Gc^bA
+# junior fly weight (NOUN) : XsWsD|Wf ]zIIbW|AzRWz| UfDUs
+# junior Senator (NOUN) : U|DZbQ UbWWsfDWz|WsfD
+# junior author (NOUN) : RsX|R]|IXb
+# junior high (NOUN) : XsW^bAAr
+# junior miss (NOUN) : XfIQWzD WjXb
+# junior school (NOUN) : AsAQ|D^bAAr
+# ^be NUM1 years junior to A {+HUMAN} (VERB->ADJ) : [(ADJUNCT A/RlGb) (SCOMP [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) WjDUl^b<ADJ>]/Gb
+# junior varsity (NOUN) : Gc^bA WsDGlW \|W|QWz| RlAjI UfDUsGbD
+
+"junky"
+ar (]kQsIWz|)
+ap (]kQsIW|Gb)
+
+"jural"
+ar (RfRIwIUbWWz|)
+ap (RfRIwIUbWW|Gb)
+
+"juridical"
+ar (UbRfRUbWWz|)
+ap (UbRfRUbWW|Gb)
+
+"jurisdictional"
+ar (UbRfRAsfDWz|)
+ap (UbRfRAsfDW|Gb)
+
+"jurisprudent"
+ar (RfRIwIWg XfW\lW^bD)
+ap (RfRIwIWg XfW\lW^bGb)
+
+"jurisprudential"
+ar (RfR^bAUbWWz|)
+ap (RfR^bAUbWW|Gb)
+
+"juristic"
+ar (RfR^bAXbXfAW|D)
+ap (RfR^bAXbXfAW|Gb)
+# juristic act (NOUN) : RfRIwI^cWWs|
+# juristic person (NOUN) : RfRW|D
+
+"juristical"
+ar (RfR^bAXbXfAW|D)
+ap (RfR^bAXbXfAW|Gb)
+# juristical act (NOUN) : RfRIwI^cWWs|
+# juristical person (NOUN) : RfRW|D
+
+"jury"
+ar (W|QU|Wz|)
+ap (W|QU|W|Gb)
+
+"jussive"
+ar (QjWIjWWzI Db\bDcDzD)
+ap (QjWIjWWzI Db\bDcGb:ADJ->VERB)
+
+"just"
+ar (WlIRbIzD)
+* XfAXfW^bGb (price AbAjA) (demand WrAs) (award UbW)
+* XfW^lbA^bGb (report RlAl)
+* AzDAfAb W|VGb (suspiction Wz|U|Q)
+ap (WlIRbIzGb)
+# just claim (NOUN) : XfWGbW^bD XfWAs
+# just price (NOUN) : AlWXfW^bD AbAjA
+
+"justiciable"
+ar (Xc]bDWg Rs\WjWd ^bI)
+ap (Xc]bDWg Rs\WjWd ^bGb:ADJ->VERB)
+
+"justiciary"
+ar (UbRfRUbWWz|)
+ap (UbRfRUbWW|Gb)
+
+"justifiable"
+ar (XfWGbW^bGbAl W|DXfWGl|DzD)
+ap (XfWGbW^bGbAl W|DXfWGl|Gb:ADJ->VERB)
+
+"justificative"
+ar (XfWGbW^lb^bDzD)
+ap (XfWGbW^lb^bGb)
+
+"justificatory"
+ar (XfWGbW^lb^bDzD)
+ap (XfWGbW^lb^bGb)
+
+"juvenescent"
+ar (ZfWDjDW| Gl|DzD)
+ap (ZfWDjDW| Gl|Gb:ADJ->VERB)
+
+"juvenile"
+ar (ZfWUlDjDWz|)
+ap (ZfWUlDjDW|Gb)

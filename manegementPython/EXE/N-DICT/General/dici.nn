@@ -1,0 +1,4992 @@
+"Immigration"
+(W|Q|D)
+# Immigration and Naturalization Service (NOUN) : Q| W|Q|DAsA
+
+"In-ho"
+% HUMAN
+(W|D^l)
+
+"In-suk"
+% HUMAN
+(W|DUfA)
+
+"Independence Day"
+(GlAI|R A|DjQW|I)
+
+"India"
+% MATERIAL PLACE ORGAN
+(W|DGl)
+
+"Indian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|DG|WbD)
+# American Indian (NOUN) : WbQgI|[bD W|DG|WbD
+
+"Indian Parliament"
+(W|DGl Wz|^l|)
+
+"Indies"
+% ORGAN
+(W|DGl XgAsA)
+
+"Indonesia"
+% PLACE ORGAN
+(W|DGlDgU|Wb)
+
+"Indonesian"
+% HUMAN
+(W|DGlDgU|WbW|D)
+# Indonesian A (NOUN) : [(NMODS [W|DGlDgU|Wb<NOUN>]) A]
+
+"Industrial Revolution"
+(UbDWfR^jAQjW)
+
+"Information Retrieval"
+(XfWRl AfQUcA)
+
+"Internal Revenue Service"
+(UgAzQ XfWUbDUl)
+
+"International Money Fund"
+(AsAXg\lW^lbA|AzQ)
+
+"Internet"
+% PLACE
+(W|D\fDgU)
+# Internet recruiting (NOUN) : W|D\fDgU AsW|D
+
+"Iowa"
+% PLACE ORGAN
+(WbW|WlWlb)
+
+"Iran"
+% PLACE ORGAN
+(W|IbD)
+
+"Iraq"
+% PLACE ORGAN
+(W|Ib[z)
+
+"Iraqis"
+(W|Ib[zW|D)
+
+"Ireland"
+% PLACE ORGAN
+(WbW|IIcDGz)
+
+"Iron Lady"
+% HUMAN
+(ZfIWz| WjW|D)
+
+"Israel"
+% PLACE ORGAN
+(W|UzIbWgI)
+
+"Israeli"
+% HUMAN
+(W|UzIbWgIW|D)
+
+"Islaeli forces" 
+(W|UzIbWgI AsDGc)
+
+"Israeli Prime Minister Ehud Barak"
+% HUMAN
+(W|UzIbWgI UsUbW Wg^sGz RbIb[z)
+
+"Isramic"
+(W|UzIIbQ)
+
+"Isramic Movement"
+(W|UzIIbQ WsDGlW)
+
+"Italian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|\bII|WbW|D)
+
+"Italy"
+% PLACE
+(W|\bII|Wb)
+
+"i"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(i)
+
+"iamb"
+% CONCRETE MATERIAL 
+(GbDXbWAjA)
+
+"iambic"
+(GbDXbWAjA)
+
+"iambus"
+% CONCRETE MATERIAL 
+(GbDXbWAjA)
+
+"iberian"
+% HUMAN
+(W|RgI|Wb UbIbQ)
+
+"ibex"
+% CONCRETE ANIMAL MATERIAL 
+(WdUcW WjQUl)
+
+"ibis"
+% CONCRETE ANIMAL MATERIAL 
+(HbWlA|)
+
+"ibsenism"
+% ART
+(W|RUgDXsWz|)
+
+"ice"
+% CONCRETE MATERIAL 
+(WfIWzQ)
+# ^break the ice (VERB) : U|IQbI|IzI XbRGb
+# ^cut ice (VERB) : WjW^dWW| W|VGb
+# ^cut no ice (VERB) : VzIQlAb WfRUGb
+# ice box (NOUN) : DcWXbWAl
+# ice cream (NOUN) : WbW|Uz[zI|Q
+# ^not much ice (VERB) : VzIQlAb WfRUGb
+# polar ice (NOUN) : AzAX| WfIWzQ
+
+"ice-blink"
+(R|WAlbW)
+
+"ice-boat"
+(R|WUbW Wr\z)
+
+"ice-man"
+% HUMAN
+(WfIWzQXbWUs)
+
+"ice-up"
+(R|WAjI)
+
+"iceberg"
+(R|WUbD)
+
+"icebreaker"
+% CONCRETE ANIMAL MATERIAL 
+(UlcR|WUfD)
+
+"icecap"
+(QbDDjDUfI)
+
+"icehouse"
+% PLACE
+(WfIWzQZbWAl)
+
+"icelander"
+% HUMAN
+(WbW|UzIIcDGz UbIbQ)
+
+"icelandic"
+(WbW|UzIIbDGz QbI)
+
+"ichneumon"
+% CONCRETE ANIMAL MATERIAL 
+(W|X|R\z QlWAsWsUz)
+
+"ichnography"
+(]jWQjDGlRfR)
+
+"ichnolite"
+(XlAXfA^lbUfA)
+
+"ichor"
+% CONCRETE MATERIAL 
+(W|[lIz)
+
+"ichthyoid"
+% ANIMAL
+(WfIw)
+
+"ichthyol"
+(W|^|\|WlI)
+
+"ichthyolite"
+(QsIAlA|Wz| ^lbUfA)
+
+"ichthyology"
+% ART
+(WfIwX|)
+
+"icicle"
+(AlGzIzQ)
+
+"iciness"
+% CONCRETE MATERIAL 
+(ZbAbWsQ)
+
+"icing"
+% CONCRETE MATERIAL 
+(W|R^|D UfI\bW)
+
+"icon"
+% CONCRETE MATERIAL 
+(UbW)
+
+"iconoclasm"
+% MATERIAL 
+(UfWUbW ]bAl|)
+
+"iconoclast"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfWUbW ]bAl|Xb)
+
+"iconography"
+(Gl^c)
+
+"iconometer"
+(WbW|[lDlQ|\f)
+
+"iconoscope"
+(UlWUbWAlbD)
+
+"icosahedron"
+% MATERIAL 
+(20 QjDZg)
+
+"icteric"
+(^lbWGbI Z|IrWdA)
+
+"icterus"
+(^lbWGbI)
+
+"ictus"
+% MATERIAL 
+(AbWWzQ)
+
+"id"
+% MATERIAL 
+(W|Gz)
+
+"iddumpty"
+(XfQAlb UfD)
+
+"idea"
+% MATERIAL 
+(UcWAbA)
+# ^form a idea of A (VERB)  : [(OBJ A/WzI) (ADJUNCT [QbWzQUlA<NOUN>]/Wg) AzI|<VERB>]/Gb
+# ^have no idea ONESELF (VERB) : QlIzGb
+# ^have no idea (VERB) : QlIzGb
+# ^have no idea about $ (VERB) : QlIzGb
+# ^have no idea why SENT (VERB) : 
+  [(OBJ [(RELCL SENT/^bDzD) W|Ww<NOUN>]/IzI) QlIz<VERB>]/Gb
+# ^have some idea (VERB) : XlQ WbIGb
+# ^have some idea of A (VERB) : [(OBJ A/IzI) (MODS [XlQ<ADV>]) WbI<VERB>]/Gb
+# ^have some idea of how SENT (VERB) : [(OBJ [(RELCL [(MODS [WfHf^Ag<ADV>]) SENT]/^bDzD) X|<NOUN>]/IzI) (MODS [XlQ<ADV>]) WbI<VERB>]/Gb
+# ^have no idea of A (VERB) : [(OBJ A/IzI) QlIz<VERB>]/Gb
+# ^have no idea of WHAT_CLAUSE (VERB) : 
+  [(OBJ [(RELCL WHAT_CLAUSE/^bD) AfU<NOUN>]/WzI) QlIz<VERB>]/Gb
+# ^have no idea about A (VERB->ADJ) : [(SCOMP [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bD) 
+UcWAbA<NOUN>]/W|) WfRU<VERB>]/Gb
+# ^have a great idea of A (VERB) : [(SCOMP [(OBJ A/WzI) ^sIIwW^b<ADJ>]/^bGbAl) 
+UcWAbA^b<VERB>]/Gb
+# ^have a poor idea of A (VERB) : [(SCOMP [(OBJ A/WzI) U|U|^b<ADJ>]/^bGbAl) 
+UcWAbA^b<VERB>]/Gb
+# ^have the idea of A (VERB->ADJ) : [(OBJ [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bD) UcWAbA<NOUN>]/WzI) 
+AbX|Al W|V<VERB>]/Gb
+# ^have the idea of WHAT_CLAUSE (VERB->ADJ) : [(OBJ [(ADJUNCT [(COMP [(RELCL 
+WHAT_CLAUSE/^bD) AfU<NOUN>]/Wg) Gc^b<VERB>]/^bD) UcWAbA<NOUN>]/WzI) AbX|Al W|V<VERB>]/Gb
+
+"ideal"
+% CONCRETE MATERIAL 
+(W|UbW)
+
+"ideality"
+(AlbDDjQUfW)
+
+"idealization"
+% MATERIAL 
+(W|UbW^lb)
+
+"ideate"
+(RbIUcW)
+
+"ideation"
+% MATERIAL 
+(AlbDDjQXbAWrW)
+
+"identification"
+% CONCRETE MATERIAL ACTION
+(U|ARjI)
+# fake identification (NOUN) : Ws|XlU|DRsDXzW
+# identification card (NOUN) : U|DRsDXzWQjWUf
+# identification disk  (NOUN) : W|DU|A]r
+# identification tay  (NOUN) : W|DU|A]r
+# identification initials  (NOUN) : ]jDX|XbAUfWAlbDAkXb GsQsDXb
+# station identification  (NOUN) : AsAQjWWzI RbIA^|A|
+# identification parade  (NOUN) : UbAfD WrWWz|Xb
+# identification tag  (NOUN) : W|DU|A]r
+
+"identity"
+% CONCRETE MATERIAL 
+(GlWW|I^bQ)
+# identity {+PLUR} (NOUN) : U|DWsfD
+# identity card  (NOUN) : U|DRsDXzWQjWUf
+# identity crisis  (NOUN) : XbA|W|DU|AWz| Ws|A|
+# identity disc  (NOUN) : W|DU|A]r
+
+"ideography"
+% CONCRETE MATERIAL 
+(]rWz| QsDXb^bA)
+
+"ideologist"
+% HUMAN
+(AlbDDjQ^bA]bWz| UbIbQ)
+
+"ideologue"
+% HUMAN
+(AlWUbWAb)
+
+"ideology"
+% MATERIAL 
+(W|GgWlIIlA|)
+
+"ides"
+% CONCRETE TIME MATERIAL 
+(GbWzQWz| 8 W|IYc)
+
+"idiocy"
+% MATERIAL 
+(ZfDZ|)
+
+"idioglossia"
+(U|DXbAWfDWfXzW)
+
+"idiom"
+% CONCRETE MATERIAL 
+(AlbDWrWWf)
+
+"idiopathy"
+(\zARbIXzW)
+
+"idiosyncrasy"
+% CONCRETE MATERIAL 
+(\zAX|I)
+
+"idiot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbRl)
+
+"idleness"
+% CONCRETE MATERIAL 
+(Db\c)
+
+"idler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AgWzIzQXbWW|)
+# idler gear (NOUN) : AlWXfDA|Wf
+
+"ido"
+(W|GlWf)
+
+"idol"
+% CONCRETE MATERIAL 
+(WsUbW)
+
+"idolater"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsUbW UsWRcXb)
+
+"idolatress"
+% HUMAN
+(WjUfW WsUbW UsWRcXb)
+
+"idolatry"
+% MATERIAL 
+(WsUbW UsWRc)
+
+"idolization"
+% MATERIAL 
+(WsUbW^lb)
+
+"idolum"
+(U|QUbW)
+
+"idyl"
+% ART
+(XfDWsfDU|)
+
+"idylist"
+% HUMAN
+(XfDWsfD U|W|D)
+
+"ifclause"
+(XlAfDXfI)
+
+"igloo"
+% PLACE
+(W|AzIIs)
+
+"iglu"
+% PLACE
+(W|AzIIs)
+
+"ignitability"
+(AbWjDUfW)
+
+"igniter"
+% CONCRETE ANIMAL MATERIAL 
+(XfQ^lbXb)
+
+"ignition"
+% CONCRETE MATERIAL 
+(XfQ^lb)
+
+"ignobility"
+(R|WjI)
+
+"ignobleness"
+(R|ZfD)
+
+"ignominiousness"
+% CONCRETE MATERIAL 
+(Z|WrA)
+
+"ignominy"
+% MATERIAL 
+(QjDQlA WfRUWzQ)
+
+"ignoramus"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsU|A^bD UbIbQ)
+
+"ignorance"
+% MATERIAL 
+(QsX|)
+
+"igorot"
+% HUMAN ORGAN
+(W|AlIlWs\z XlA)
+
+"iguana"
+% CONCRETE ANIMAL MATERIAL 
+(W|AsWbDb)
+
+"ike"
+% HUMAN
+(WbW|XgD^bWsf)
+
+"ikon"
+(UbW)
+
+"il duce"
+% HUMAN
+(W|\bII|Wb ]bU|Uz\z GbWUs Wz| Z|W^l)
+
+"ileum"
+% CONCRETE MATERIAL HUMAN
+(^l|XbW)
+
+"ilex"
+% PLANT
+(\fIAbU|DbQs)
+
+"ilium"
+% CONCRETE MATERIAL 
+(XbWAlI)
+
+"ilk"
+% MATERIAL 
+(AbXlA)
+
+"ill"
+(RjW)
+# mentally ill (NOUN) : XfWU|DX|I^lbD
+
+"ill-affected"
+% ACTION
+(ZsI|)
+
+"ill-being"
+% MATERIAL STATE
+(DbSzD UbW\c)
+
+"ill-breeding"
+(RfIzUWfRUWzQ)
+
+"illegality"
+% CONCRETE MATERIAL 
+(RsIRfR)
+
+"illegibility"
+(]bDGlA RsIDzW)
+
+"illegitimacy"
+% CONCRETE MATERIAL 
+(RsIRfR)
+
+"illegitimate"
+% HUMAN
+(UbUcWWb)
+
+"illegitimation"
+(RsIRfRW|IbAl W|DXfW^bQ)
+
+"illiberality"
+% CONCRETE MATERIAL 
+(W|DUcA)
+
+"illicitness"
+% CONCRETE MATERIAL 
+(AzQXg)
+
+"illinium"
+(W|II|DwQ)
+
+"illinois"
+% PLACE
+(W|II|DlW|Xs)
+
+"illiteracy"
+% MATERIAL 
+(QsU|A)
+
+"illiterate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsArWwAXb)
+
+"illness"
+% MATERIAL 
+(RjW)
+
+"illogicality"
+(RsI^bRI|)
+
+"illtreatment"
+(AsRbA)
+
+"illuminant"
+(RbIAlbWZg)
+
+"illuminati"
+% HUMAN
+(ZfIW|DGzI)
+
+"illumination"
+% CONCRETE MATERIAL 
+(XlQjW)
+
+"illuminator"
+% HUMAN
+(XlQjWGbQGbWXb)
+
+"illusion"
+% MATERIAL 
+(^lbDUbW)
+
+"illusiveness"
+(ZbAAbAWzI W|IWz[|Q)
+
+"illustration"
+% CONCRETE MATERIAL 
+(U|IIk)
+
+"illustrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbR^lbAb)
+
+"illustriousness"
+(AfIZsI^bQ)
+
+"illwisher"
+% HUMAN
+(DbQW| QlUGl|A|IzI R|DzD UbIbQ)
+
+"image"
+% STATE 
+(W|Q|X|)
+# auditory image (NOUN) : ZfWAbAXfAW|D W|Q|X|
+# computer image (NOUN) : [fQ]w\f W|Q|X|
+# fake image (NOUN) : Ws|XlUbX|D
+
+"imagebuilding"
+(W|Q|X|AsZsA)
+
+"imagery"
+% MATERIAL 
+(W|Q|X|)
+# imagery in poetry (NOUN) : U|UbW
+
+"imaginableness"
+(AbDzW^bQ)
+
+"imagination"
+% MATERIAL 
+(UbWUbW)
+
+"imagism"
+% ART
+(UbUbW XsWz|)
+
+"imago"
+% CONCRETE ANIMAL MATERIAL 
+(UfWZsW)
+
+"imam"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|QbQ)
+
+"imaum"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlUb)
+
+"imbalance"
+% CONCRETE MATERIAL 
+(RsIWbDXfW)
+
+"imbecile"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbRl)
+
+"imbecility"
+(XfDzW)
+
+"imbibition"
+(^zRW|R)
+
+"imbrication"
+% CONCRETE ANIMAL MATERIAL 
+(R|DzI QlWdW)
+
+"imbroglio"
+(DbDAsA)
+
+"imitability"
+(QlRbW^bI Us W|VWzQ)
+
+"imitation"
+% CONCRETE MATERIAL ACTION
+(QlRbW)
+
+"imitator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QlRbWXb)
+
+"immaculacy"
+(WlXfQW| WfRUWzQ)
+
+"immanence"
+(DcXc)
+
+"immanency"
+(DcXc)
+
+"immateriality"
+% CONCRETE MATERIAL 
+(R|QsIX|IUfW)
+
+"immaturity"
+% MATERIAL 
+(Q|UsA)
+
+"immeasurability"
+(XcI Us WfRUWzQ)
+
+"immediacy"
+(X|AXfR)
+
+"immensity"
+% CONCRETE MATERIAL 
+(AlbWGcQsRjD)
+
+"immersion"
+% MATERIAL ACTION
+(Z|QW|R)
+
+"immigrant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|XsXb)
+
+"immigration"
+% ACTION
+(W|Xs)
+# immigration official (NOUN) : ZsIW|RAsAAlbDI|
+# immigration of laborers (NOUN) : DlGlWXbW|W|R
+# immigration policy (NOUN) : W|Q|DXfWZcA
+
+"imminence"
+(XfIRbA)
+
+"imminency"
+(XfIRbA)
+
+"immixture"
+(^lD^bR)
+
+"immobility"
+% CONCRETE MATERIAL 
+(RsGlW)
+# immobility of capital (NOUN) : XbRlDWz| R|W|GlWUfW
+# immobility of labor (NOUN) : : GlWWz| R|W|GlWUfW
+
+"immoderation"
+% CONCRETE MATERIAL 
+(QsXfIXg)
+
+"immodesty"
+% CONCRETE MATERIAL 
+(RsIAzDU|D)
+
+"immolation"
+% MATERIAL ACTION
+(XgQsIIl RbZ|A|)
+
+"immolator"
+% HUMAN
+(^z|UcWWzI RbZ|DzD UbIbQ)
+
+"immorality"
+% CONCRETE MATERIAL 
+(RsGlGfA)
+
+"immortal"
+% HUMAN
+(XsAX|WbD^DzD UbIbQ)
+
+"immortality"
+% CONCRETE MATERIAL 
+(RsIUb)
+
+"immortalization"
+(RsIQjI^lb)
+
+"immortelle"
+(RsXl^lb)
+
+"immovability"
+% CONCRETE MATERIAL 
+(RsGlW)
+
+"immovable"
+% ECOLIFE
+(RsGlWUbD)
+
+"immune"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QjDWjAGl|D UbIbQ)
+
+"immunity"
+% MATERIAL 
+(QjDWjA)
+
+"immunization"
+% MATERIAL 
+(QjDWjA)
+
+"immunogen"
+% CONCRETE MATERIAL 
+(QjDWjAWsfD)
+
+"immunoglobulin"
+% CONCRETE MATERIAL 
+(QjDWjA AzIIlRsII|D)
+
+"immunology"
+% MATERIAL ART
+(QjDWjA^bA)
+
+"immutability"
+% CONCRETE MATERIAL 
+(RsIRjD)
+
+"imp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(BlQb GlBcR|)
+
+"impact"
+% MATERIAL 
+(ZsWAjA)
+# impact effect (NOUN) : W|Q]cA\z ^rAlb
+# impact loan (NOUN) : W|Q]cA\z GcRs
+
+"impaction"
+% MATERIAL 
+(B|WsfDf^A|)
+
+"impairment"
+% MATERIAL 
+(UlDUbW)
+
+"impalement"
+% ACTION
+(Y|IIfBlXWzQ)
+
+"impalpability"
+(Qs^jW)
+
+"impanelment"
+(RcU|QQjWRsWg WlII|Q)
+
+"imparity"
+(RsIAwDGzW)
+
+"impartiality"
+% MATERIAL 
+(RsI]jDRsGbW)
+
+"impartition"
+(RsDAzR)
+
+"impartment"
+(RsDAzR)
+
+"impassability"
+(\lW^cW RsIDzW)
+
+"impasse"
+% CONCRETE MATERIAL PLACE
+(ArZbAUbW\c)
+
+"impassiveness"
+% CONCRETE MATERIAL 
+(QsAbQAbA)
+
+"impassivity"
+% CONCRETE MATERIAL 
+(QsAbQAbA)
+
+"impasto"
+(GsBfRAg Z|I^bD ZcIr)
+
+"impatience"
+% CONCRETE MATERIAL 
+(UfWAzR^bQ)
+
+"impeachment"
+% CONCRETE MATERIAL 
+(\bD^cA)
+
+"impeccability"
+(Xl|Ab WfRUWzQ)
+
+"impecuniosness"
+(QsW|I]sD)
+
+"impedance"
+% CONCRETE MATERIAL 
+(W|Q]|W|GfDUz)
+
+"impediment"
+% CONCRETE MATERIAL 
+(RbW^c)
+
+"impedimenta"
+% CONCRETE MATERIAL 
+(RbW^cQsI)
+
+"impellent"
+(ZsX|DIjA)
+
+"impeller"
+% HUMAN
+(ZsX|D^bDzD UbIbQ)
+
+"impendence"
+(AfIIj W|VWzQ)
+
+"impendency"
+(AfIIj W|VWzQ)
+
+"impenetrability"
+% CONCRETE MATERIAL 
+(AlbD\lW^bI Us WfRUWzQ)
+
+"impenitence"
+(WlbDAl^bQ)
+
+"impenitency"
+(WlbDAl^bQ)
+
+"impenitent"
+% HUMAN
+(Ds|WsZ|X| WbD^DzD UbIbQ)
+
+"imperative"
+% MATERIAL 
+(QjWIjW)
+
+"imperator"
+% HUMAN
+(^lbWXg)
+
+"imperceptibility"
+(AzDUl^bQ)
+
+"imperfection"
+% MATERIAL 
+(RsIWlbDXfD)
+
+"imperforate"
+(AsQfWW| WfRUDzD)
+
+"imperial"
+% CONCRETE MATERIAL 
+(^lbWXgUsWjQ)
+
+"imperialism"
+% MATERIAL ART
+(XgAsAXsWz|)
+
+"imperiousness"
+(WlQbD^bQ)
+
+"imperishability"
+% CONCRETE MATERIAL 
+(RsIQjI)
+
+"imperium"
+(XfIGcAsfD)
+
+"impermanence"
+% CONCRETE MATERIAL 
+(R|WjWAsUfW W|IU|UfW)
+
+"impermanency"
+% CONCRETE MATERIAL 
+(R|WjWAsUfW W|IU|UfW)
+
+"impermeability"
+% CONCRETE MATERIAL 
+(UzQjGzIX| WbD^WzQ)
+
+"impersonal"
+(R|W|DZ|W GlWUb)
+
+"impersonality"
+(R|W|DAjAUfW)
+
+"impersonation"
+% MATERIAL 
+(W|DAjA^lb)
+
+"impersonator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsDXbWXb)
+
+"impertinence"
+% CONCRETE MATERIAL 
+(QsIk)
+
+"imperturbability"
+% MATERIAL 
+(Z|QZbA)
+
+"imperturbation"
+(Z|QZbA)
+
+"imperviousness"
+% CONCRETE MATERIAL 
+(QsAbQAbA)
+
+"impetigo"
+(DlWAbX|D)
+
+"impetuosity"
+% CONCRETE MATERIAL 
+(AjAIjI)
+
+"impetus"
+% MATERIAL 
+(A|GlWIjA)
+
+"impi"
+% ORGAN
+(GcRsGc)
+
+"impiety"
+% CONCRETE MATERIAL 
+(RsIU|DWbW)
+
+"implacability"
+(QsXbR|)
+
+"implant"
+% CONCRETE ANIMAL MATERIAL 
+(W|U|A)
+
+"implantation"
+(W|U|A)
+
+"implement"
+% CONCRETE ANIMAL MATERIAL 
+(GlAs)
+# agricultural implements (NOUN) : DlWA|As
+
+"implementation"
+% MATERIAL 
+(W|^cW)
+
+"impletion"
+(ZcWsQ)
+
+"implicate"
+(]l^bQGl|DAfU)
+
+"implication"
+% CONCRETE MATERIAL 
+(^bQZsA)
+# by implication  (PP) : (ADJUNCT [^bQZsAUfW W|V<ADJ>]/Ag)
+
+"implicitness"
+(WbQU|)
+
+"imploration"
+(AbDZfW)
+
+"implosion"
+(Dc]b)
+
+"implosive"
+(Dc]bWzQ)
+
+"impolicy"
+(XlIIjI^bD AkZcA)
+
+"impoliteness"
+% CONCRETE MATERIAL 
+(QsIk)
+
+"imponderable"
+(RsIAbIdWQsI)
+
+"import"
+% CONCRETE MATERIAL ECOLIFE
+(UsW|R)
+# anticipated import (NOUN) : WkUbWUsW|R
+# direct import (NOUN) : X|AXfRUsW|R
+# free import (NOUN) : Us^lbDUsW|R
+# gold import point (NOUN) : XfDUsW|RXfQ
+# import announcement (NOUN) : UsW|RAlW]r
+# import bill (NOUN) : UsW|RWfWzQ
+# import by order (NOUN) : XsQsDUsW|R
+# import certificate (NOUN) : UsW|RXzWQjWUf
+# import cover ratio (NOUN) : UsW|R[fRfWwI
+# import declaration (NOUN) : UsW|RU|DAl
+# import demand (NOUN) : UsW|RUsWr
+# import duties (NOUN) : UsW|RAlbDUg
+# import entitlement (NOUN) : UsW|RAsfDI|AkXfW
+# import entry (NOUN) : UsW|RXfIZb
+# import for stockpiling (NOUN) : R|ZsAUsW|R
+# import freight bill (NOUN) : UsW|RWsDW|QWfWzQ
+# import guarantee rate (NOUN) : UsW|RGbQRlWwI
+# import letter of credit (NOUN) : UsW|RU|DWrWXbW
+# import license (NOUN) : UsW|RUzWW|D
+# import permit (NOUN) : UsW|R^fAbXzW
+# import point (NOUN) : AzQUsW|RXzW
+# import price (NOUN) : UsW|RAbAjA
+# import priority (NOUN) : UsW|RWsUfDUsDWs|
+# import procedure (NOUN) : UsW|RXfIZb
+# import quota restriction (NOUN) : UsW|R^bIGbWXgGl
+# import quota system (NOUN) : UsW|R^bIGbWXg
+# import restiction (NOUN) : UsW|RXg^bD
+# import settlement bill (NOUN) : UsW|RAjIXgWfWzQ
+# import specie point (NOUN) : XfW^lbUsW|RXfQ
+# import surcharge (NOUN) : UsW|RXfAAlbUg
+# import tariff (NOUN) : UsW|RUgWwI
+# import trade bill (NOUN) : UsW|RQsWjAWfWzQ
+# import without foreign exchange (NOUN) : Qs^lbDUsW|R
+# indirect import (NOUN) : AbDXfRUsW|R
+# invisible import (NOUN) : QsWjAWl|UsW|R
+# visible import (NOUN) : UbW]sQUsW|R
+
+"importance"
+% CONCRETE MATERIAL 
+(XsWWrUfW)
+# ^attach importance to A (VERB) : [(OBJ A/WzI) XsWWrU|^b<VERB>]/Gb
+# ^be conscious of ONE_S  own importance (VERB) : XbIDbDZg ^bGb
+# ^know ONE_S  own importance (VERB) : XbIDbDZg ^bGb
+# ^have a good idea of ONE_S  own importance (VERB) : XbIDbDZg ^bGb
+# ^be of importance (VERB) : [XsWWr^b<ADJ>]/Gb 
+# be important of no importance (VERB) : [GcUsIlRX| WbD^<ADJ>]/Gb
+# ^be of great importance (VERB) : [QcWs XsWWr^b<ADJ>]/Gb
+# ^set importance on A (VERB) : [(ADJUNCT A/Wg) (OBJ [XsWXfQ<NOUN>]/WzI) Gs<VERB>]/Gb
+# with an air of importance (ADV) : AfGzIzQWzI ]|WsQj
+
+"importation"
+% MATERIAL 
+(UsW|R)
+# importation of foreign capital (NOUN) : Wl|XbGlW|R
+
+"importer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsW|RWfRXb)
+
+"importunity"
+% CONCRETE MATERIAL 
+(X|RWr^bQ)
+
+"imposition"
+% MATERIAL ACTION
+(RsAlb)
+# imposition of export ban (NOUN) : UsZsIAzQX|
+
+"impossibility"
+% MATERIAL 
+(RsIAbDzW)
+
+"impost"
+% CONCRETE MATERIAL 
+(RsAlbAzQ)
+
+"impostor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbA|BsD)
+
+"imposture"
+% MATERIAL ACTION
+(UbA|)
+
+"impotence"
+% CONCRETE MATERIAL 
+(QsIjA)
+
+"impoverishment"
+% MATERIAL STATE
+(AbDbD)
+
+"impracticability"
+% CONCRETE MATERIAL 
+(U|IU| RsIAbDzW)
+
+"impracticality"
+% CONCRETE MATERIAL 
+(R|U|IXgUfW)
+
+"imprecation"
+% CONCRETE MATERIAL 
+(XfXs)
+
+"imprecator"
+(A|WsfD)
+
+"impreg"
+(^bRUfWUsX|IzI QfAW|D ^bR]bD)
+
+"impregnability"
+% MATERIAL 
+(DbDAlWRsIIbA)
+
+"impregnation"
+% MATERIAL 
+(Us\c)
+
+"impresario"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^zW^cWXs)
+
+"impress"
+% MATERIAL 
+(DbIW|D)
+
+"impressibility"
+(Q|DAbQ^bQ)
+
+"impression"
+% CONCRETE MATERIAL 
+(W|DUbW)
+# first impression (NOUN) : ZfUW|DUbW
+
+"impressionability"
+(AbQUsUfW)
+
+"impressionism"
+% CONCRETE MATERIAL ART
+(W|DUbW]b)
+
+"impressionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|DUbW]b ^lbAb)
+# impressionist painting (NOUN) : W|DUbW]bWz| AzI|Q
+
+"impressment"
+% MATERIAL ACTION
+(AbWXgX|WQl)
+
+"imprest"
+% ECOLIFE
+(UfDRsIAzQ)
+
+"imprimatur"
+% CONCRETE MATERIAL 
+(W|DUlc ^fAb)
+
+"imprint"
+% CONCRETE MATERIAL 
+(GlXbW)
+
+"imprisonment"
+% MATERIAL 
+(\sWlA)
+
+"improbability"
+% CONCRETE MATERIAL 
+(ZbQQbIAb\X| WbD^WzQ)
+
+"improbity"
+(RsXfWX|A)
+
+"impromptu"
+% ACTION
+(XzA^zW WjDUfI)
+
+"impropriating"
+(]jWU|DGl UlWwIl WlIQA|Gb)
+
+"impropriator"
+% HUMAN
+(Ar^l| XcUbDWzI UlWw^bDzD ]jWU|DGl)
+
+"impropriety"
+% CONCRETE MATERIAL 
+(RsXfAGbW)
+
+"improvement"
+% CONCRETE MATERIAL 
+(AcUfD)
+# improvement trade (NOUN) : AbAlWQsWjA
+
+"improver"
+% HUMAN
+(AcUfD^bDzD UbIbQ)
+
+"improvidence"
+% CONCRETE MATERIAL 
+(UfDAjDX|QjWW| WfRUWzQ)
+
+"improvisation"
+% MATERIAL 
+(XzAUfAWgUf ^bA|)
+
+"improvisator"
+% HUMAN
+(XzA^zW WjDXsXb)
+
+"improviser"
+% HUMAN
+(XzA^zW U|W|D)
+
+"imprudence"
+% CONCRETE MATERIAL 
+(AjWUlI)
+
+"impudence"
+% CONCRETE MATERIAL 
+(SfDRfDUzIfWsQ)
+
+"impudicity"
+(]bIjQZ|)
+
+"impugner"
+% ACTION
+(R|DbD)
+
+"impugnment"
+% ACTION
+(R|DbD)
+
+"impuissance"
+(QsA|IjA)
+
+"impulse"
+% MATERIAL MIND
+(ZsWGlW)
+# electrical impulse (NOUN) : XfDA| ZsWAjA
+# impulse buying (NOUN) : W|Q]fIUz QcW|R
+# impulse purchase  (NOUN) : ZsWGlWAsQc
+# impulse buying  (NOUN) : ZsWGlWAsQc
+
+"impulsion"
+% MATERIAL MIND
+(ZsWGlW)
+
+"impunity"
+% MATERIAL 
+(^jWRfIWzI RbGX| WbD^WzQ)
+
+"impurity"
+% MATERIAL STATE
+(RsIAjI)
+
+"imputability"
+(XfDAbU|[|I Us W|VWzQ)
+
+"imputation"
+% CONCRETE MATERIAL 
+(XfDAb)
+
+"inability"
+% MATERIAL 
+(QsIjA)
+
+"inaccessibility"
+(XfRAzD^bA| WfIjWsQ)
+
+"inaccuracy"
+% CONCRETE MATERIAL 
+(RsXfW^lbA)
+
+"inaction"
+% MATERIAL 
+(QsWs|)
+
+"inactivity"
+% CONCRETE MATERIAL 
+(^wX|)
+
+"inadaptability"
+(R|XfA^bRUfW)
+
+"inadequacy"
+% CONCRETE MATERIAL 
+(RsXfAGbW)
+
+"inadequitecy"
+(RsXsWz|)
+
+"inadmissibility"
+(WrWDbR^bA| WfIjWsQ)
+
+"inadvertence"
+(RsXsWz|)
+
+"inadvisability"
+% CONCRETE MATERIAL 
+(WdWGl RsIAbDzW)
+
+"inalienability"
+(WdWGl^bI Us WfRUWzQ)
+
+"inalterability"
+(RsIRjDUfW)
+
+"inamorata"
+(XfWRs)
+
+"inamorato"
+(XfWRs)
+
+"inanimation"
+(UcWQjWW| WfRUWzQ)
+
+"inanition"
+% CONCRETE MATERIAL 
+(WjWWdWU|IXl)
+
+"inanity"
+% CONCRETE MATERIAL 
+(WfI|UfAWzQ)
+
+"inappetence"
+(U|AWrARsX|D)
+
+"inapplicability"
+% CONCRETE MATERIAL 
+(XfAWrW ^bI Us WfRUWzQ)
+
+"inappreciation"
+(RsIW|DU|A)
+
+"inapprehension"
+(QlIW|^c)
+
+"inaptitude"
+% MATERIAL 
+(RsXfAGbW)
+
+"inarticulateness"
+(RsIRsDQjW)
+
+"inattention"
+% MATERIAL 
+(RsXsWz|)
+# with inattention (ADV) : RsXsWz|^bAg
+
+"inaudibility"
+(ZfWZs| RsIDzW)
+
+"inauguaral"
+(Zs|W|QWjDUfI)
+
+"inaugurater"
+% HUMAN
+(UfW|QXb)
+
+"inauguration"
+% MATERIAL
+(AcWfR)
+# Inaugration Day  (NOUN) : Gc\lWIjW Zs|W|QU|ADbI
+
+"inaugurator"
+% HUMAN
+(UfW|QXb)
+
+"inauspiciousness"
+(RsIA|I)
+
+"inbeing"
+(DcXc)
+
+"inbetween"
+(XsWAbDXb)
+
+"inbreeding"
+(GlWXlARfDU|A)
+
+"inca"
+% HUMAN
+(W|W[b ^lbWXg)
+
+"incabloc"
+(DcX|D XbWZ|)
+
+"incalculability"
+(QsUs)
+
+"incan"
+% HUMAN
+(W|W[b UbIbQ)
+
+"incandescence"
+% CONCRETE MATERIAL 
+(RcAWjI)
+
+"incantation"
+% CONCRETE MATERIAL 
+(XsQsD)
+
+"incapability"
+% MATERIAL 
+(QsDzW)
+
+"incapacitant"
+(^cWGlW RsIDzW ^lb^bAXg)
+
+"incapacitation"
+(QsIjA^lb)
+
+"incapacity"
+% MATERIAL 
+(QsDzW)
+
+"incarceration"
+% MATERIAL ACTION
+(AbQAzQ)
+
+"incarnation"
+% MATERIAL 
+(W|DAbD^lb)
+
+"incasement"
+(]lXbW^lb)
+
+"incendiarism"
+% MATERIAL 
+(RbW^lb)
+
+"incendiary"
+% CONCRETE ANIMAL MATERIAL 
+(RbW^lbXb)
+# incendiary bomb  (NOUN) : UlW|\bD
+# incendiary shell  (NOUN) : UlW|\bD
+
+"incense"
+(^dW)
+
+"incensory"
+(QcGbDzD ^dWIl)
+
+"incentive"
+(XbAzA)
+
+"inception"
+% MATERIAL 
+(U|Zl)
+
+"inceptive"
+(A|GlW GlWUb)
+
+"inceptor"
+% HUMAN
+(^bAWs|IzI Zs|GzAXb)
+
+"incertitude"
+(RsI^lbAU|I)
+
+"incest"
+% MATERIAL ACTION
+(AzDZ|D UbWAbD)
+
+"inch"
+% CONCRETE UNIT MATERIAL 
+(W|DZ|)
+# NUM1 or NUM2 inch (NOUN) : [(NMODS [(CODS NUM1) (MODS [HlDzD<ADV>]) (CMODS NUM2) _<NOUN>]) W|DZ|<NOUN>]
+# a NUM1 {+ORDNUM} of an inch (NOUN) : [(POSS [(NMODS NUM1 {+DGTNUM}) RsD<NOUN>]/Wz|) (NMODS [W|I<NOUN>]) W|DZ|<NOUN>]
+# an inch (NOUN) : 1 W|DZ|
+# every inch of A (NOUN) : [(POSS A/Wz|) AsUfAAsUfA<NOUN>]
+# inch by inch (ADV) : XlAzQV|A
+
+"incher"
+(W|DZ|Wz| AfU)
+
+"inchoation"
+(U|XbA)
+
+"inchoative"
+(U|XbA)
+
+"inchworm"
+% CONCRETE ANIMAL MATERIAL 
+(XbRfIIg)
+
+"incidence"
+% CONCRETE MATERIAL 
+(RfQWs|)
+# coincident indicator (NOUN) : W|IZ|X|Us
+# incidence indicator  (NOUN) : W|RUbAk
+# incidence of taxation (NOUN) : XlUgRsGbQ
+
+"incident"
+% MATERIAL 
+(UbAfD)
+
+"incidental"
+(RsUsXfAW|D W|I)
+
+"incineration"
+(UlAbA)
+
+"incinerator"
+% CONCRETE MATERIAL PLACE
+(UlAbAIl)
+
+"incipience"
+(Zl|Zl)
+
+"incipiency"
+(Zl|Zl)
+
+"incision"
+% MATERIAL 
+(RgD XbI|)
+
+"incisor"
+% CONCRETE MATERIAL ANIMAL
+(Wb]D|)
+
+"incitant"
+(XbAzAQsI)
+
+"incitation"
+% MATERIAL 
+(XbAzA)
+
+"incitement"
+(XbAzA)
+
+"incivility"
+% CONCRETE MATERIAL 
+(QsIk)
+
+"incivism"
+(R|WcAsAXfA XfWU|D)
+
+"inclearing"
+% ECOLIFE
+(UsW|R WfWzQ ZlWWcA)
+
+"inclemency"
+(^lAGlA)
+
+"inclination"
+% CONCRETE MATERIAL 
+(AjW^dW)
+
+"incline"
+% CONCRETE MATERIAL 
+(AjWUbQjD)
+
+"inclinometer"
+% CONCRETE ANIMAL MATERIAL 
+(AjWUbAk)
+
+"inclusion"
+% CONCRETE MATERIAL 
+(]l^bQ)
+
+"incognito"
+% HUMAN
+(W|AQjWXb)
+
+"incognitoency"
+(X|I|QjIIjI)
+
+"incognizance"
+(RsIW|DU|A)
+
+"incoherence"
+% CONCRETE MATERIAL 
+(X|I|QjIIjI)
+
+"incombustibity"
+(RsIWjDUfW)
+
+"income"
+% MATERIAL 
+(UsW|R)
+# annual income (NOUN) : WjD UsW|R
+# disposable personal income (NOUN) : AcW|DAbZfRsDUlGzA
+# earned income (NOUN) : AzDIlUlGzA
+# earned income exemption (NOUN) : AzDIlUlGzAAlWXg
+# imputed income (NOUN) : As|UlAUlGzA
+# income certainty (NOUN) : UsW|A^lbAU|IUfW
+# income debenture (NOUN) : UsW|AUbZc
+# income deposit (NOUN) : UsW|AWkAzQ
+# income determinatin (NOUN) : UlDW|AAjIXfW
+# income distribution theory (NOUN) : UlGzARsD]lW|IlD
+# income effect (NOUN) : UlGzA^rAlb
+# income elasticity of demand (NOUN) : UsWrWz| UlGzA\bDIjAUfW
+# income elasticity of exports (NOUN) : UsZsIWz| UlGzA\bDIjAUfW
+# income elasticity of imports (NOUN) : UsW|RWz| UlGzA\bDIjAUfW
+# income foregone (NOUN) : RbWAkUlGzA
+# income gain (NOUN) : W|D[fQ AgW|D
+# income motive (NOUN) : UlGzAGlWA|
+# income policy (NOUN) : UlGzAXfWZcA
+# income received but unearned (NOUN) : W|WjDUsW|A
+# income revolution (NOUN) : UlGzA^jAQjW
+# income statement (NOUN) : UlDW|AAkUbDUf
+# income tax (NOUN) : UlGzAUg
+# income tax collected at the source (NOUN) : WsfDZfDUlGzAUg
+# income theory of money (NOUN) : UlGzAUsIdWUfI
+# income to farm people (NOUN) : DlWAbUlGzA
+# income velocity of money (NOUN) : ^lb]kWz| UlGzAUlAGl
+# miscellaneous income (NOUN) : XbRUsW|R
+# monetary income (NOUN) : ^lb]kUlGzA
+# non-operating income (NOUN) : WjWWfRWl|UsW|R
+# national income (NOUN) : AsAQ|D UlGzA
+# operating income (NOUN) : WjWWfRUsW|R
+# psychie income (NOUN) : U|QI|XfAUlGzA
+# taxable income (NOUN) : AlbUg GcUbW UlGzA
+# unearned income (NOUN) : UfDUsW|AAzQ
+# unearned revenue (NOUN) : UfDUsW|AAzQ
+
+"incomer"
+% HUMAN
+(U|DW|QXb)
+
+"incoming"
+% MATERIAL 
+(GlIc)
+
+"incommensurability"
+(Ab\WzD ]rXsDWzIl XcI Us WfRUWzQ)
+
+"incommensurable"
+(WdAQsD^bI Us WfRUDzD Us)
+
+"incommodity"
+(WlWUcA RsI]jD)
+
+"incommunicability"
+(XfDGbI^bI Us WfRUWzQ)
+
+"incompatibility"
+% CONCRETE MATERIAL 
+(WdWI|R^bA| WfIjWsQ)
+
+"incompetence"
+% MATERIAL 
+(QsDzWIjA)
+
+"incompetency"
+% MATERIAL 
+(QsDzWIjA)
+
+"incompetent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsXfAW|QXb)
+
+"incompletion"
+(RsIWlbDXfD)
+
+"incomprehensibility"
+% CONCRETE MATERIAL 
+(RsIAb^cUfW)
+
+"incomprehensible"
+(Qs^bD^bD AfU)
+
+"incomprehension"
+(QlIW|^c)
+
+"incompressibility"
+(R|WbRZsAUfW)
+
+"inconceivability"
+% MATERIAL 
+(RsIAb^c)
+
+"inconformity"
+(RsIW|IZ|)
+
+"incongruity"
+% CONCRETE MATERIAL 
+(RsIW|IZ|)
+
+"inconsequence"
+% CONCRETE MATERIAL 
+(QlUsD)
+
+"inconsiderateness"
+% CONCRETE MATERIAL 
+(AjWUlI^bQ)
+
+"inconsideration"
+(X|AbA WfRUWzQ)
+
+"inconsistency"
+% CONCRETE MATERIAL 
+(QlUsD)
+
+"inconsonance"
+(RsXl^lb)
+
+"inconstancy"
+% CONCRETE MATERIAL 
+(RjDGfA)
+
+"incontinence"
+% CONCRETE MATERIAL 
+(U|IAzQ)
+# incontinence of urine  (NOUN) : WwDr
+
+"incontinency"
+% MATERIAL 
+(U|IAzQ)
+# incontinency of urine  (NOUN) : WwDr
+
+"inconvenience"
+% CONCRETE MATERIAL 
+(RsI]jD)
+
+"inconvertibility"
+% ECOLIFE
+(\c^lbDRsIDzW)
+
+"incorporation"
+% MATERIAL 
+(^lD^bR)
+# article of incorporation (NOUN) : ^l|UbXfWAlbD
+# incorporation procedure (NOUN) : ^l|UbUfII|RXfIZb
+
+"incorporator"
+% HUMAN ECOLIFE
+(RfRW|D UfII|RXb)
+
+"incorrectness"
+% CONCRETE MATERIAL 
+(RsXfW^lbA)
+
+"incorrigibility"
+(AlZ|I Us WfRUWzQ)
+
+"incorrigible"
+% HUMAN
+(AlX|IXfAW|D)
+
+"incorruptibility"
+% CONCRETE MATERIAL 
+(Rs]c^bX| WbD^WzQ)
+
+"incorruption"
+(Rs]c^bX| WbD^WzQ)
+
+"increase"
+% ACTION STATE ECOLIFE 
+(XzWAb)
+
+# increase in A (NOUN) : [(POSS A/Wz|) XzWAb<NOUN>]
+
+"incredibility"
+% CONCRETE MATERIAL 
+(Q|GWfX|X| WbD^WzQ)
+
+"incredulity"
+% MATERIAL MIND
+(RsIU|D)
+
+"increment"
+% CONCRETE MATERIAL 
+(XzWAb)
+# price increment (NOUN) : AbAjAXzWAb
+# unearned increment (NOUN) : XbWjDXzWAb
+
+"incrimination"
+% CONCRETE MATERIAL 
+(WwXl)
+
+"incrowd"
+% ORGAN
+(Rc\bXfAW|D GlGbW)
+
+"incrustation"
+% CONCRETE ANIMAL MATERIAL 
+(Wl|]|Il Gf]A|)
+
+"incrustment"
+(Wl|]|ZzW)
+
+"incubation"
+% MATERIAL 
+(Rs^lb)
+
+"incubator"
+% CONCRETE ANIMAL MATERIAL 
+(RsIbDA|)
+
+"incubus"
+% HUMAN
+(WbAQb)
+
+"inculcation"
+(BzDGfAX|Ag AbIzZ|Q)
+
+"inculcator"
+% HUMAN
+(UfIGzA^bDzD UbIbQ)
+
+"inculpation"
+% CONCRETE MATERIAL 
+(AlRbI)
+
+"incumbency"
+(^jDX|A)
+
+"incumbent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^jDX|AXb)
+
+"incunabula"
+(ZlA|)
+
+"incurability"
+(RsIZ|)
+
+"incurable"
+(RsIZ|Wz| RjWXb)
+
+"incuriosity"
+(QsAlbDU|Q)
+
+"incurrence"
+% MATERIAL 
+(RbGWzQ)
+
+"incursion"
+% MATERIAL 
+(Z|QW|R)
+
+"incurvation"
+(QbDAlA)
+
+"incurve"
+(QbDAlA)
+
+"incus"
+(Z|QAlI)
+
+"incuse"
+(AbAW|D)
+
+"indaba"
+(^l|Wz|)
+
+"indamin"
+(W|DGbQ|D)
+
+"indamine"
+(W|DGbQ|D)
+
+"indebtedness"
+% MATERIAL 
+(RsZcWcA)
+
+"indecency"
+% CONCRETE MATERIAL 
+(RfIzU WfRUWzQ)
+
+"indecision"
+% CONCRETE MATERIAL 
+(WsWwRsGbD)
+
+"indeclinable"
+(RsIRjD^lbUb)
+
+"indecorum"
+% CONCRETE MATERIAL 
+(RfIzUWfRUWzQ)
+
+"indefatigability"
+% CONCRETE MATERIAL 
+(BzDA| W|VWzQ)
+
+"indefeasibility"
+(]bA|^bA| WfIjWsQ)
+
+"indefiniteness"
+% CONCRETE MATERIAL 
+(RsIQjWIr)
+
+"indelibility"
+(X|WsI Us WfRUWzQ)
+
+"indelicacy"
+(UbWUzIfWsQ)
+
+"indemnification"
+% ECOLIFE
+(RlXzW)
+
+"indemnity"
+% MATERIAL 
+(RlXbW)
+# indemnity bond (NOUN) : RlUbWAkWdAUf
+
+"indent"
+(\lRD| QlWdW)
+# closed indent (NOUN) : X|XfWQcW|RWs|\bA
+# indent with limit (NOUN) : XfWAbQcW|R
+# open indent (NOUN) : AsW|RUfDQsX|XfW QcW|RWs|\bA
+
+"indentation"
+% MATERIAL 
+(UcA|D XbAsA)
+
+"indention"
+(GzIWjYbA|)
+
+"indenture"
+% CONCRETE MATERIAL 
+(AkWdAUf)
+
+"independence"
+% CONCRETE MATERIAL 
+(GlAI|R)
+# || independence for Korea | (SENT) : Gc^bDGlAI|RQbDUg
+
+"independency"
+% MATERIAL 
+(GlAI|R)
+
+"independent"
+(QsUlUlA Wz|WsfD)
+
+"indescribability"
+(QbAWjD^bQ)
+
+"indetermination"
+(RsXfW)
+
+"indeterminism"
+% ART
+(R|AjIXfWIlD)
+
+"index"
+% CONCRETE MATERIAL 
+(UcAW|D)
+# I index librorum prohibitorum  (NOUN) : AzQUf QlAIlA
+# Standard & Poor's 500 index (NOUN) : Uz\cDGbGz & ]sWf 500 X|Us
+# commodity price index  (NOUN) : QsIAb X|Us
+# composite index (NOUN) : RlA^bRX|Us
+# index card  (NOUN) : ZbQAl UcAW|D [bWbGz
+# index error  (NOUN) : X|U|WlZb UbAXgRsRsD X|U|]r
+# index number (NOUN) : X|Us
+# index number of cost of living (NOUN) : UcWAkR|X|Us
+# index number of production (NOUN) : UcWUbDX|Us
+# price index (NOUN) : QsIAbX|Us
+# the I index  (NOUN) : AzQUf QlAIlA
+# wholesale price index  (NOUN) : GlQcQsIAb X|Us
+
+"indexation"
+(UcAW|D W|WrW)
+
+"indexing"
+(UcAW|D)
+
+"indiaman"
+(W|DGl QsWjAUfD)
+
+"indianization"
+% HUMAN
+(W|DGlW|D)
+
+"indicant"
+% CONCRETE MATERIAL 
+(X|U|QsI)
+
+"indication"
+% CONCRETE MATERIAL 
+(X|U|)
+# indication of oil (NOUN) : A|IzQWz| ^zDXfA
+# letter of indication (NOUN) : UfQjWIbQ
+
+"indicative"
+(X|AUfIRfR)
+
+"indicator"
+% CONCRETE MATERIAL 
+(X|U|Xb)
+
+"indicium"
+(X|W^s)
+
+"indictment"
+% CONCRETE MATERIAL 
+(A|Ul)
+
+"indies"
+% ORGAN
+(W|DGl XgAsA)
+
+"indifference"
+% CONCRETE MATERIAL 
+(QsAlbDU|Q)
+# indifference curve (NOUN) : QsZbRjIAlAUfD
+
+"indifferent"
+% HUMAN
+(QsAlbDU|Q^bD UbIbQ)
+
+"indigence"
+% MATERIAL 
+(AbDbD)
+
+"indigene"
+% HUMAN
+(\lZbAQ|D)
+
+"indigestibility"
+% CONCRETE MATERIAL 
+(RsIUl^lb)
+
+"indigestion"
+% MATERIAL 
+(Ul^lb RsIIdW)
+
+"indignation"
+% MATERIAL MIND
+(RsDDl)
+
+"indignity"
+% MATERIAL MIND
+(AjWQjI)
+
+"indigo"
+% CONCRETE MATERIAL 
+(DbQUcA)
+
+"indigotin"
+% CONCRETE MATERIAL 
+(DbQZfW)
+
+"indirecrtion"
+(AbDXfRXfAW|D RbWRfR)
+
+"indiscernible"
+(RsDAbD^bI Us WfRUDzD AfU)
+
+"indiscipline"
+% CONCRETE MATERIAL 
+(AwWwI)
+
+"indiscreetness"
+% MATERIAL 
+(AjWUlI)
+
+"indiscretion"
+% CONCRETE MATERIAL 
+(QsRsDRjI)
+
+"indiscrimination"
+(QsZbRjI)
+
+"indispensability"
+% CONCRETE MATERIAL 
+(]|IWr RsIAbAjI^bD W|I)
+
+"indisposition"
+% MIND
+(RsI[lc)
+
+"indisputability"
+% CONCRETE MATERIAL 
+(GbWWjD^bQ)
+
+"indissolubility"
+(WjWAsUfW)
+
+"indium"
+% CONCRETE MATERIAL 
+(W|DGwQ)
+
+"individual"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AcW|D)
+
+"individualism"
+(AcW|DXsWz|)
+
+"individuality"
+% CONCRETE MATERIAL 
+(AcUfW)
+
+"individuation"
+% MATERIAL 
+(AcZg^lb)
+
+"indivisibility"
+(RsD^bI^bI Us WfRUWzQ)
+
+"indivisible"
+(AzAUlIdW)
+
+"indochiness"
+% HUMAN
+(W|DGlX|Db UbIbQ)
+
+"indocility"
+(AbIzZ|A| ^|QGzQ)
+
+"indoctrination"
+% MATERIAL 
+(Ar^lb)
+
+"indoeuropean"
+(W|DGl WwIfR WfXlA)
+
+"indogermanic"
+(W|DGl WwIfR WfXlA)
+
+"indohittite"
+(W|DGl ^|\bW|\zWfXlA)
+
+"indolence"
+% CONCRETE MATERIAL 
+(Db\c)
+
+"indonesian"
+% HUMAN
+(W|DGlDgU|WbW|D)
+# indonesian A (NOUN) : [(POSS [W|DGlDgU|Wb<NOUN>]/Wz|) A]
+
+"indraught"
+(WwW|R)
+
+"inducement"
+% CONCRETE MATERIAL 
+(WwW|D)
+# inducement coefficient (NOUN) : UcWUbDWwRbIAkUs
+# inducement to invest (NOUN) : \sXbWwW|D
+
+"inducer"
+(WwGl^rUl)
+
+"inducer"
+(WwW|D^bDzD AfU)
+
+"inductance"
+% MATERIAL 
+(W|DGfA\fDUz)
+
+"inductee"
+(XfWQlRjW)
+
+"induction"
+% MATERIAL 
+(WwGl)
+# induction to foreign capital (NOUN) : Wl|XbGlW|R
+
+"inductometer"
+(W|DGfA\fDUz ZzAXfWAk)
+
+"inductor"
+% CONCRETE ANIMAL MATERIAL 
+(WwGlXb)
+
+"indulgence"
+% CONCRETE MATERIAL 
+(\bQD|A)
+
+"indulgency"
+(\bQD|A)
+
+"indult"
+(\zAXfD)
+
+"induration"
+(AjW^lb)
+
+"industrialist"
+% HUMAN
+(UbDWfRXsWz|Xb)
+
+"industrialization"
+% MATERIAL 
+(UbDWfR^lb)
+
+"industry"
+% ORGAN ECOLIFE 
+(UbDWfR)
+# basic industry (NOUN) : A|ZlUbDWfR
+# bottleneck industry (NOUN) : WcIlUbDWfR
+# capital-intensive industry (NOUN) : XbRlD X|RWdAXfA UbDWfR
+# chemical industry (NOUN) : ^lb^bAAlWWfR
+# civilian industry (NOUN) : Q|DUsUbDWfR
+# declining industry (NOUN) : UbWdWUbDWfR
+# domestic industry (NOUN) : AsADcUbDWfR
+# expanding industry (NOUN) : ^l^lbWUbDWfR
+# farming industry (NOUN) : DlWWfR
+# fishery industry (NOUN) : WfWfR
+# fishing industry (NOUN) : WfWfR
+# heavy and chemical industry (NOUN) : XsW^lb^bAAlWWfR
+# heavy industry (NOUN) : XsWAlWWfR
+# household industry (NOUN) : AbDcAlWWfR
+# iron and steel industry (NOUN) : ZfIAbWWfR
+# light industry (NOUN) : AjWAlWWfR
+# manufacturing industry (NOUN) : XgXlWfR
+# mechanical industry (NOUN) : A|AkAlWWfR
+# mining industry (NOUN) : AlbWWfR
+# nationalized industry (NOUN) : AsAWwUbDWfR
+# over-protected industry (NOUN) : AlbRl^lUbDWfR
+# processing industry (NOUN) : AbAlWAlWWfR
+# service industry (NOUN) : UfR|UzWfR
+# sheltered industry (NOUN) : R|^lUbDWfR
+# shipping industry (NOUN) : ^cWsDWfR
+# spirits industry (NOUN) : XzWIwXs UbDWfR
+# subsidized industry (NOUN) : XlUfWUbDWfR
+# textile industry (NOUN) : UfQWw UbDWfR
+# tourist industry (NOUN) : AlbDAlbW UbDWfR
+
+"inebriation"
+% MATERIAL STATE
+(UsIZs|^bQ)
+
+"inebriety"
+% STATE
+(UsIZs|^bQ)
+
+"inedibility"
+(U|AWrWWg QbXX| WbD^WzQ)
+
+"ineffectuality"
+(Qs^r)
+
+"inefficacy"
+% CONCRETE MATERIAL 
+(Qs^rAlb)
+
+"inefficiency"
+% MATERIAL 
+(R|DzWIwI)
+
+"inelasticity"
+% CONCRETE MATERIAL 
+(\bDIjAW| WfRUWzQ)
+
+"inelegance"
+% CONCRETE MATERIAL 
+(WsWb^bX| WbD^WzQ)
+
+"inelegancy"
+(WsWb^bX| WbD^WzQ)
+
+"ineligibility"
+(QsXbAjA)
+
+"ineligible"
+% HUMAN
+(XfAAjAXbAb WbD|D UbIbQ)
+
+"ineptitude"
+% CONCRETE MATERIAL 
+(WfI|UfAWzQ)
+
+"inequality"
+% CONCRETE MATERIAL 
+(RsI]jWGzW)
+
+"inequity"
+(RsIAlW]jW)
+
+"inertia"
+% MATERIAL 
+(AlbDUfW)
+
+"inessential"
+(A|DWr ^bX| WbD^WzD AfU)
+
+"inevitability"
+% CONCRETE MATERIAL 
+(RsIAb]|)
+
+"inexactitude"
+(RsXfW^lbA)
+
+"inexactness"
+% CONCRETE MATERIAL 
+(RsXfW^lbA^bQ)
+
+"inexecution"
+(RsIW|^cW)
+
+"inexertion"
+(AgWzIzQ)
+
+"inexhaustibility"
+(QsX|DXbW)
+
+"inexorability"
+(RsIRjD)
+
+"inexpedience"
+% CONCRETE MATERIAL 
+(RsI]jD)
+
+"inexpediency"
+% CONCRETE MATERIAL 
+(RsI]jD)
+
+"inexperience"
+% MATERIAL 
+(QsAjW^fQ)
+
+"inexplicability"
+(RsIAb^c)
+
+"inexpressible"
+(WdWRlARbX|)
+
+"inextension"
+(RsI^lbAXbW)
+
+"infalammability"
+(WjDUlUfW)
+
+"infall"
+% ACTION
+(Z|QW|R)
+
+"infallibilism"
+% ART
+(Ar^lbW RsIAbIwUfW)
+
+"infallibility"
+(XfIGc ^lbAU|I)
+
+"infallible"
+% HUMAN
+(XfIGc ^lbAU|I^bD UbIbQ)
+
+"infamy"
+% MATERIAL 
+(WbAQjW)
+
+"infancy"
+% CONCRETE MATERIAL 
+(WwUl)
+# in ONE_S  infancy (ADV) : WfI|I XfAWg
+# in its infancy (ADV) : WfI|I XfAWg
+# natural infancy  (NOUN) : WwDjD
+
+"infant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwWb)
+
+"infanta"
+% HUMAN
+(WlbWDj)
+
+"infante"
+% HUMAN
+(WlbWXb)
+
+"infanticide"
+(WwWb UbI^c)
+
+"infantilism"
+% MATERIAL 
+(WwZ|XzW)
+
+"infantry"
+% MATERIAL HUMAN
+(RlRjW)
+
+"infantryman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlRjW)
+
+"infarction"
+(AjWUcA)
+
+"infatuate"
+% HUMAN
+(^lA^bD UbIbQ)
+
+"infatuation"
+% MATERIAL 
+(U|QZs|)
+
+"infeasibility"
+% CONCRETE MATERIAL 
+(U|I^cWRsIAbDzWUfW)
+
+"infection"
+% MATERIAL 
+(XfDWjQ)
+
+"infelicity"
+% CONCRETE MATERIAL 
+(RsI^cW)
+
+"inference"
+% MATERIAL ACTION
+(ZsIlD)
+
+"inferiority"
+% CONCRETE MATERIAL 
+(^bWs|)
+
+"infernality"
+(AzAWbAQsGl)
+
+"inferno"
+% MATERIAL PLACE
+(X|WlA]jD)
+
+"infertility"
+% CONCRETE MATERIAL 
+(RsIQl)
+
+"infestation"
+% MATERIAL ACTION
+(Z|QIdA)
+
+"infidel"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DWbWU|QW| WfRUDzD UbIbQ)
+
+"infidelity"
+% CONCRETE MATERIAL MIND
+(RsIZsW)
+
+"infield"
+% MATERIAL PLACE
+(DcWd)
+
+"infighting"
+% ACTION
+(XfRAzDXfD)
+
+"infiltration"
+% MATERIAL 
+(Z|QW|R)
+
+"infinite"
+(Qs^bDGc)
+
+"infinitesimal"
+(AzAQ|IdW)
+
+"infinitive"
+% MATERIAL 
+(RsXfWUb)
+
+"infinitude"
+(Qs^bD)
+
+"infinity"
+% CONCRETE MATERIAL 
+(Qs^bD)
+
+"infirmary"
+% CONCRETE ANIMAL MATERIAL PLACE
+(X|DIrUl)
+
+"infirmity"
+% MATERIAL 
+(^fWdA)
+
+"infix"
+% MATERIAL 
+(UbRW|RUb)
+
+"inflammable"
+(AbWjDQsI)
+
+"inflammation"
+% MATERIAL 
+(XfQ^lb)
+
+"inflation"
+% STATE ECOLIFE 
+(W|D]zIIgW|UjD)
+# cost-push inflation (NOUN) : [lUz\z]sUs| W|D]zIIg
+# demand-pull inflation (NOUN) : G|QcDGz ]sI^jW W|D\zIIg
+# galloping inflation (NOUN) : AzRX|DW|D]zIIgW|UjD
+# inflation alert (NOUN) : W|D]zIIgAjWRl
+# inflation of currency (NOUN) : \lW^lb]cWZbW
+# inflation mentality (NOUN) : W|D]zIIgU|QI|
+# inflation of prices (NOUN) : QsIAbWz| UbWUzW
+# inflation of wages (NOUN) : XbAzQWz| UbWUzW
+# inflation policy (NOUN) : W|D]zIIgW|UjD XfWZcA
+# inflation rate (NOUN) : W|D]zIIgWwI
+# vicious inflation (NOUN) : WbAUfW W|D]zIIg
+
+"inflection"
+% CONCRETE MATERIAL 
+(AsIAlA)
+
+"inflexibility"
+% CONCRETE MATERIAL 
+(RsIAsI)
+
+"inflexion"
+(AsIXfI)
+
+"infliction"
+% MATERIAL 
+(Alb^bA|)
+
+"inflictor"
+% HUMAN
+(Ab^cXb)
+
+"inflorescence"
+% CONCRETE MATERIAL 
+(Ac^lb)
+
+"inflow"
+% MATERIAL 
+(WwW|R)
+
+"influence"
+% CONCRETE MATERIAL 
+(WjW^dW)
+
+# under the influence of A (PP->ADV) : 
+	(ADJUNCT [(OBJ [(POSS A/Wz|) WjW^dW<NOUN>]/WzI) 
+RbG<VERB>]/^bWj)
+
+"influent"
+% PLACE
+(X|Iw)
+
+"influenza"
+% MATERIAL 
+(W|D]zIIsWgDXb)
+
+"inflump"
+(RsI^bW^bWz| W|D]zIIgW|UjD)
+
+"influx"
+% MATERIAL 
+(WwW|R)
+# influx of capital (NOUN) : XbRlDWz| WwW|R
+
+"info"
+% CONCRETE MATERIAL 
+(XfWRl)
+
+"informality"
+% CONCRETE MATERIAL 
+(R|AlWU|A)
+
+"informant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\lWAlXb)
+
+"informatics"
+% ART
+(XfWRl Alb^bA)
+
+"information"
+% CONCRETE MATERIAL 
+(XfWRl)
+# balanced information (NOUN) : AwD^jWXbR^|D XfWRl
+# confidential information (NOUN) : A|Q|IXfWRl
+# inside information (NOUN) : DcRsXfWRl
+# information age  (NOUN) : XfWRlU|Gc
+# information industry (NOUN) : XfWRlUbDWfR
+# information intelligence (NOUN) : XfWRl
+# information retrieval  (NOUN) : XfWRl AfQUcA
+# information extraction  (NOUN) : XfWRl ZsZsI
+# information science  (NOUN) : XfWRl Alb^bA
+# information theoretic (ADJ) : XfWRl W|IlDXfAW|Gb
+# information theory  (NOUN) : XfWRl W|IlD
+# inside information (NOUN) : DcRs XfWRl
+# ^lay an information against A (VERB)  : [(OBJ A/WzI) Q|IAl^b<VERB>]/Gb
+# ^lodge an information against A (VERB)  : [(OBJ A/WzI) AlRbI^b<VERB>]/Gb
+# medical computer information (NOUN) : Wz|^bAXfA [fQ]w\f XfWRl
+# ordering information (NOUN) : XsQsD XfWRl
+
+"informer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\lWX|Xb)
+
+"infraction"
+% MATERIAL 
+(Ws|RbD ^cWWs|)
+
+"infractor"
+% HUMAN
+(Ws|RbDXb)
+
+"infrastructure"
+% CONCRETE MATERIAL PLACE ORGAN ECOLIFE
+(X|WsfDU|UfI)
+
+"infrastructure"
+% CONCRETE MATERIAL 
+(^bRs XlX|A)
+
+"infrequency"
+% CONCRETE MATERIAL 
+(^z|As|)
+
+"infression"
+(W|D]zIIg^bWz| RsI^lbW)
+
+"infringement"
+(Z|Q^c)
+# infringement of copyright (NOUN) : ]bDAsfDZ|Q^c
+# infringement of patent right (NOUN) : \zA^fAsfDZ|Q^c
+# infringement of trade mark (NOUN) : UbW]rAsfDZ|Q^c
+
+"infringer"
+(Z|Q^c)
+
+"infuriation"
+% MATERIAL 
+(AjADl)
+
+"infuser"
+(XsW|RXb)
+
+"infusibility"
+(RsIWrW^cUfW)
+
+"infusion"
+% CONCRETE MATERIAL 
+(XsW|R)
+
+"infusorian"
+% CONCRETE ANIMAL MATERIAL 
+(XfAZsWIw)
+
+"ingathering"
+(Us^lbA)
+
+"ingenue"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsDXfW UlDj)
+
+"ingenuity"
+% MATERIAL 
+(ZbWWz|IjA)
+
+"ingesta"
+(UfRZs|QsI)
+
+"ingestion"
+% MATERIAL 
+(WzQU|AQsI UfRZs|)
+
+"ingle"
+(DbDIlRsI)
+
+"inglenook"
+% MATERIAL PLACE
+(DbDIlUAb)
+
+"ingoal"
+(RlDX|D)
+
+"ingoing"
+(DcW|R)
+
+"ingot"
+% CONCRETE ANIMAL MATERIAL 
+(XsAl|)
+
+"ingrain"
+(A|]W| RcWfGzD)
+
+"ingrate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WzD^kIzI QlIzDzD UbIbQ)
+
+"ingratitude"
+% MATERIAL 
+(RcWzDQbWGfA)
+
+"ingravescence"
+(WbWX|D)
+
+"ingredient"
+% CONCRETE MATERIAL 
+(UfWRsD)
+
+"ingress"
+% MATERIAL 
+(XfDW|R)
+
+"ingroup"
+% MATERIAL 
+(DcX|RGbD)
+
+"ingrowth"
+(DcRsUfWXbW)
+
+"inhabitancy"
+% MATERIAL 
+(AfXs)
+
+"inhabitant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsQ|D)
+
+"inhabitation"
+% MATERIAL 
+(XsAf)
+
+"inhalant"
+(^zRW|RA|)
+
+"inhalation"
+% MATERIAL 
+(^zRW|R)
+
+"inhalator"
+(^zRW|RA|)
+
+"inhaler"
+% CONCRETE ANIMAL MATERIAL 
+(^zRW|RXb)
+
+"inherence"
+(AlWw)
+
+"inhereny"
+(AlWw)
+
+"inheritability"
+(UbWUlA^bI Us W|VWzQ)
+
+"inheritance"
+% CONCRETE MATERIAL ECOLIFE 
+(UbWUlA)
+# inheritance property (NOUN) : UbWUlAXcUbD
+# inheritance tax  (NOUN) : UbWUlAUg
+
+"inheritor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbWUlAW|D)
+
+"inheritress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb UbWUlAW|D)
+
+"inheritrix"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb UbWUlAW|D)
+
+"inhesion"
+(AlWw)
+
+"inhibition"
+% CONCRETE MATERIAL 
+(AzQX|)
+
+"inhospitality"
+(]sGcXfR)
+
+"inhumaness"
+(QlIW|DXfW)
+
+"inhumanity"
+% CONCRETE MATERIAL 
+(QlIW|DXfW)
+
+"inhumation"
+% MATERIAL 
+(QcXbW)
+
+"iniquity"
+% MATERIAL 
+(RsXfW)
+
+"initial"
+(ZfUAzIXb)
+
+"initiation"
+% CONCRETE MATERIAL 
+(AcU|)
+
+"initiative"
+% CONCRETE MATERIAL
+(W|D|Uj\|Rz)
+
+"initiator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|XbA^bDzD UbIbQ)
+
+"injectable"
+(XsUb^bIUs W|VDzD WdA)
+
+"injection"
+% CONCRETE MATERIAL 
+(XsW|R)
+
+"injector"
+(XsUbA|)
+
+"injunction"
+% CONCRETE MATERIAL 
+(QjWIjW)
+# court injunction (NOUN) : RfRWsfD QjWIjW
+
+"injurer"
+% HUMAN
+(Ab^cXb)
+
+"injuriousness"
+% CONCRETE MATERIAL 
+(^cIlWsQ)
+
+"injury"
+% MATERIAL 
+(^c)
+# arm injury (NOUN) : ]bIRsUbW
+# injury benefit  (NOUN) : UbW^c Rl^fQAzQ
+# leg injury (NOUN) : GbI|RsUbW
+# hand injury (NOUN) : UlDRsUbW
+# with no serious injuries (PP->ADV) : [zD RsUbWWfRUW|
+
+"injustice"
+% CONCRETE MATERIAL 
+(RsIRfR)
+
+"ink"
+% CONCRETE MATERIAL 
+(W|W[z)
+
+"inker"
+(W|W[z IlWsIIf)
+
+"inkfish"
+% ANIMAL
+(WlX|WWf)
+
+"inkholder"
+(W|W[z \lW)
+
+"inkiness"
+(UcBbQbQ)
+
+"inking"
+(QfA\lW)
+
+"inkling"
+% MATERIAL 
+(WbQU|)
+
+"inkpad"
+(W|W[zGc)
+
+"inkpot"
+(W|W[z AzIzU)
+
+"inkslinger"
+% HUMAN
+(XbAAb)
+
+"inkstand"
+(W|W[zUz\cDGz)
+
+"inkstone"
+(RjIs)
+
+"inkwell"
+(W|W[zRjW)
+
+"inky"
+(RcAWjI XfDGzW)
+
+"inland"
+(DcX|)
+# inland bill (NOUN) : AsADc^lbDWfWzQ
+# inland market (NOUN) : AsADcU|XbW
+# inland money order (NOUN) : AsADcWs]jD^lbD
+# inland navigation (NOUN) : AsADcWsD^cW
+# inland revenue (NOUN) : AsADcUgUsW|R
+# inland trade (NOUN) : AsADcQsWjA
+
+"inlaw"
+% HUMAN
+(W|DZfA)
+
+"inlay"
+% CONCRETE ANIMAL MATERIAL 
+(UbWAbQ)
+
+"inlet"
+% CONCRETE MATERIAL 
+(^sQ|)
+
+"inmate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|RUlXb)
+
+"inn"
+% CONCRETE ANIMAL MATERIAL PLACE
+(WjW|DUsA)
+
+"innards"
+% CONCRETE MATERIAL ANIMAL
+(DcXbW)
+
+"inner"
+% PLACE
+(DcWsfD)
+
+"innermost"
+% PLACE
+(AbXbW UbXfAW|D)
+
+"innervation"
+(U|DAjW X|Rc)
+
+"inning"
+% CONCRETE MATERIAL 
+(^l|)
+
+"innkeeper"
+% HUMAN
+(WjW|DUsA XsW|D)
+
+"innocence"
+% CONCRETE MATERIAL 
+(QsXl|)
+
+"innovation"
+% CONCRETE MATERIAL 
+(^jAU|D)
+# technical innovation (NOUN) : A|UsI^jAQjW
+
+"innovator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^jAU|DXb)
+
+"innuendo"
+% CONCRETE MATERIAL 
+(]sWXb)
+
+"innutrition"
+(WjWWdW RsXlA)
+
+"inobservance"
+(RsXsWz|)
+
+"inocalm"
+(XfRXlWQsI)
+
+"inoculation"
+% MATERIAL 
+(XfRXlW)
+
+"inoffensiveness"
+(QsWbAWz|)
+
+"inoperativeness"
+(Qs^rIjA)
+
+"inopportuness"
+(RsIU|A|)
+
+"inordinacy"
+(AlbGl)
+
+"inordinate"
+(AlbGl^bD W|I)
+
+"inosculation"
+% MATERIAL 
+(XfR^bR)
+
+"inositol"
+% CONCRETE MATERIAL 
+(W|DlU|\lWlI)
+
+"inpatient"
+% HUMAN
+(W|RWsfD ^lbDXb)
+
+"inpouring"
+(WwW|R)
+
+"input"
+% CONCRETE MATERIAL 
+(W|RIjA)
+# input device (NOUN) : W|RIjAXbWZ|
+# input equipment (NOUN) : W|RIjAXbWZ|
+
+"inquest"
+% MATERIAL 
+(U|QI|)
+
+"inquietude"
+% STATE
+(RsIWbD)
+
+"inquirer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlUbXb)
+
+"inquiry"
+% CONCRETE MATERIAL 
+(QsIWzQ)
+# inquiry agency  (NOUN) : ^zWU|DUl
+# inquiry agent  (NOUN) : UbI|R\bQXfW
+# inquiry office  (NOUN) : XfRUsZf
+# letter of inquiry (NOUN) : Xl^l|XbW
+
+"inquisition"
+% CONCRETE MATERIAL 
+(XlUb)
+
+"inquisitive"
+% HUMAN
+(^lA|U|Q QbD^WzD UbIbQ)
+
+"inquisitor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlUbXb)
+
+"inroad"
+% MATERIAL ACTION
+(DcUzR)
+
+"inrush"
+% ACTION
+(Z|QW|R)
+
+"insalivation"
+(\bWcA ^lD^bR)
+
+"insalubrity"
+% CONCRETE MATERIAL 
+(R|Ws|UcW)
+
+"insanity"
+% MATERIAL STATE
+(XfWU|D W|UbW)
+
+"insatiability"
+(\bQWrA)
+
+"inscription"
+% CONCRETE MATERIAL 
+(QjW)
+
+"inscrutability"
+(^gWbI|I Us WfRUWzQ)
+
+"insect"
+% CONCRETE ANIMAL MATERIAL 
+(AlDZsW)
+
+"insectarium"
+% PLACE
+(AlDZsW UbWwAXbW)
+
+"insecticide"
+(UbIZsWXg)
+
+"insectivore"
+% CONCRETE ANIMAL MATERIAL 
+(U|AZsW GlW QsI)
+
+"insectology"
+% ART
+(AlDZsW^bA)
+
+"insecurity"
+% CONCRETE MATERIAL 
+(RsIWbDXfW)
+
+"insemination"
+% MATERIAL 
+(]bXlW)
+
+"insensibility"
+% MATERIAL 
+(QsX|AbA)
+
+"insensitivity"
+% MATERIAL 
+(QsAbQAbA)
+
+"inseparability"
+(RsIAbRsDUfW)
+
+"inseparable"
+% HUMAN
+(Z|DWs)
+
+"insertion"
+% MATERIAL 
+(UbRW|R)
+
+"inset"
+(UbRW|RQsI)
+
+"inshoot"
+(W|DUwWs\z)
+
+"inside"
+% MATERIAL 
+(DcRs)
+# inside and out (ADV) : WbD]bAWzIl
+# inside out (ADV) : Gs|X|RWfUf
+
+"insider"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DcRsUbIbQ)
+# insider stock (NOUN) : DcRs XsU|A
+
+"insight"
+% MATERIAL 
+(\lWZbIIjA)
+# insight into A (NOUN) : [(AMODS [(ADJUNCT A/Wg) Gc^b<VERB>]/Gb{+PAST,-PRES}) \lWZbIIjA<NOUN>]
+
+"insignia"
+% CONCRETE MATERIAL 
+(A|XbW)
+
+"insincerity"
+% CONCRETE MATERIAL 
+(GsIIf QbI^bGb)
+
+"insinuation"
+% CONCRETE MATERIAL 
+(Q|IWfDf^Gb)
+
+"insinuator"
+% HUMAN
+(R|UGcWf QbI^bDzD UbIbQ)
+
+"insipidity"
+% CONCRETE MATERIAL 
+(QbUWfRUWzQ)
+
+"insistence"
+% CONCRETE MATERIAL 
+(AbWWr)
+
+"insistency"
+% MATERIAL 
+(AbWWr)
+
+"insoak"
+(UzQjGzIA|)
+
+"insobriety"
+(QsXfIXg)
+
+"insolation"
+% MATERIAL 
+(W|IAlbWWrA)
+
+"insole"
+(WbDZbW)
+
+"insolence"
+% CONCRETE MATERIAL 
+(AfQbD)
+
+"insolubility"
+(RsIWrW^cUfW)
+
+"insolvency"
+% ECOLIFE
+(]bUbD)
+# economic insolvency (NOUN) : AjWXgXfA X|RsIRsIDzW
+# financial insolvency (NOUN) : AzQWwWXfA X|RsIRsIDzW
+# involuntary insolvency (NOUN) : AbWXgX|RsIRsIDzW
+# voluntary insolvency (NOUN) : W|QWz|X|RsIRsIDzW
+
+"insolvent"
+% HUMAN
+(]bUbDXb)
+
+"insomnia"
+% MATERIAL 
+(RsIQjD)
+
+"insomniac"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIQjDXzW^lbDXb)
+
+"insouciance"
+% MATERIAL 
+(RsXsWz|)
+
+"inspection"
+% MATERIAL ACTION
+(XfWQ|I AfQUb)
+# inspection and testing charge (NOUN) : AfQUbR|
+# inspection before shipment (NOUN) : XfAXgXfDAfQUb
+# inspection certificate (NOUN) : AfQUbXzWQjWUf
+# inspection fee (NOUN) : AfQUbIr
+# inspection of factory (NOUN) : AlWXbWWz| XfWQ|I AfQUb
+
+"inspector"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|ZbIXb)
+# inspector general  (NOUN) : AbQZbI Ws|WsfDXbW
+# a ticket inspector  (NOUN) : AfQ]rWsfD
+# meat inspector  (NOUN) : U|AWwAAfQUbAlbD
+
+"inspectorate"
+% HUMAN
+(AfQUbAlbDX|A)
+
+"inspectress"
+% HUMAN
+(WjXbAfQUbAlbD)
+
+"inspiration"
+% MATERIAL 
+(WjWAbQ)
+
+"inspirator"
+(^zRW|RA|)
+
+"inspissation"
+% MATERIAL 
+(DlW^s^lb)
+
+"instability"
+% CONCRETE MATERIAL 
+(RsIWbDXfWUfW)
+# economic instability (NOUN) : AjWXgXfA RsIWbDXfW
+
+"installation"
+% CONCRETE MATERIAL 
+(UfIZ|)
+
+"installer"
+% HUMAN
+(UfIZ|Xb)
+
+"instalment"
+% CONCRETE MATERIAL 
+(^bIRsAzQ)
+# instalment account payable (NOUN) : ^bIRsX|RsIAkXfW
+# instalment account receivable (NOUN) : ^bIRsUsW|RAkXfW
+# instalment buying (NOUN) : ^bIRsQcW|R
+# instalment credit (NOUN) : ^bIRsU|DWrW
+# instalment sales company (NOUN) : ^bIRs]bDQc^l|Ub
+# instalment savings deposit (NOUN) : XfWA|XfAAzQ
+# instalment selling (NOUN) : ^bIRs]bDQc
+# instalment shipment (NOUN) : ^bIRsXfAUfD
+# instalment system (NOUN) : ^bIRsRbWU|A
+
+"installment"
+% CONCRETE MATERIAL 
+(^bIRsAzQ)
+# instalment account payable (NOUN) : ^bIRsX|RsIAkXfW
+# instalment account receivable (NOUN) : ^bIRsUsW|RAkXfW
+# instalment buying (NOUN) : ^bIRsQcW|R
+# instalment credit (NOUN) : ^bIRsU|DWrW
+# instalment sales company (NOUN) : ^bIRs]bDQc^l|Ub
+# instalment savings deposit (NOUN) : XfWA|XfAAzQ
+# instalment selling (NOUN) : ^bIRs]bDQc
+# instalment shipment (NOUN) : ^bIRsXfAUfD
+# instalment system (NOUN) : ^bIRsRbWU|A
+
+"instance"
+% MATERIAL 
+(AjWWs)
+# for instance (ADV) : WkIzI GzIQjD
+# forinstance (ADV) : WkIzI GzIQjD
+# in an instance (PP->ADV) : ^bD UsDAbDWg
+
+"instancy"
+(A|DRbA)
+
+"instant"
+% CONCRETE MATERIAL 
+(UsDAbD)
+
+"instantography"
+(UzDcRUbX|D)
+
+"instatement"
+% ACTION
+(W|QQjW)
+
+"instauration"
+% MATERIAL 
+(^l|RlA)
+
+"instep"
+% CONCRETE MATERIAL ANIMAL
+(RbIGzW)
+
+"instigation"
+% CONCRETE MATERIAL ACTION
+(UfDGlW)
+# at the instigation to A (PP->ADV) : ([(ADJUNCT A/WgAg) UbXsGl|<VERB>]/^bWj)
+# by the instigation to A (PP->ADV) : ([(ADJUNCT A/WgAg) UbXsGl|<VERB>]/^bWj)
+
+"instillation"
+% MATERIAL 
+(XfQXfA)
+
+"instilment"
+% MATERIAL 
+(XfQXfA)
+
+"instinct"
+% MATERIAL 
+(RlDDzW)
+# by instinct (PP->ADV) : RlDDzWXfAWzIl
+
+"institute"
+% MATERIAL ORGAN
+(^bA^l|)
+
+"institution"
+% CONCRETE ORGAN
+(^bA^l|)
+# financial institution (NOUN) : AzQWwWA|As
+# public institution (NOUN) : AlWAlWA|AlbD
+
+"institutor"
+% HUMAN
+(XgXfWXb)
+
+"instruction"
+% CONCRETE MATERIAL ACTION
+(QjWIjW)
+# instruction book (NOUN) : UfIQjWUf
+
+"instructor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ArUb)
+
+"instructress"
+% HUMAN
+(WjXb AbWUb)
+
+"instrument"
+% CONCRETE ANIMAL MATERIAL 
+(GlAs)
+# negotiable instrument (NOUN) : Ww\lWXzWAsfD
+# instruments of monetary policy (NOUN) : AzQWwWXfWZcAUsGbD
+# instruments of ratification (NOUN) : R|XsDUf
+
+"instrumental"
+% MATERIAL 
+(XlAjA)
+
+"instrumentality"
+% CONCRETE MATERIAL 
+(UsGbD)
+# through the instrumentality of A (ADV) : (ADJUNCT [(COMP A/Wg) Wz|^b<VERB>]/Wf)
+
+"instrumentation"
+% MATERIAL 
+(A|WbA ]jDUfWRfR)
+# control & instrumentation (NOUN) : XgWfAkZzA
+# control and instrumentation (NOUN) : XgWfAkZzA
+
+"insubordination"
+% CONCRETE MATERIAL 
+(RsIUsDXlW)
+
+"insubstantiality"
+% CONCRETE MATERIAL 
+(RsU|I)
+
+"insufficiency"
+% CONCRETE MATERIAL 
+(RsIZsWRsD)
+
+"insufflator"
+(Zs|W|RA|)
+
+"insularity"
+% MATERIAL 
+(UfQW|Q)
+
+"insulation"
+% CONCRETE MATERIAL 
+(XfIWjD)
+
+"insulator"
+% CONCRETE MATERIAL 
+(XfIWjDZg)
+
+"insulin"
+% CONCRETE MATERIAL 
+(W|DUwII|D)
+
+"insult"
+% CONCRETE MATERIAL ACTION
+(QlWrA)
+# ^add insult to injury (VERB) : ^lDDcXsAl Hl QlWrA^bGb
+
+"insuperability"
+(W|AjDcA| WfIjWsQ)
+
+"insurance"
+% CONCRETE MATERIAL ECOLIFE
+(Rl^fQ)
+# accident insurance (NOUN) : UbW^cRl^fQ
+# additional insurance (NOUN) : ZsAbRl^fQ
+# air insurance (NOUN) : ^bWAlWRl^fQ
+# aviation insurance (NOUN) : ^bWAlWRl^fQ
+# automobile insurance (NOUN) : XbGlWZbRl^fQ
+# breakage insurance (NOUN) : ]bUbDRl^fQ
+# burglary insurance (NOUN) : GlDbDRl^fQ
+# builder's risk insurance (NOUN) : UfDRbAAfDXlRl^fQ
+# cargo insurance (NOUN) : XfA^bRl^fQ
+# casual insurance (NOUN) : UbW^cRl^fQ
+# casualty insurance (NOUN) : UbW^cRl^fQ
+# double insurance (NOUN) : RlARl^fQ
+# employer's liability insurance (NOUN) : AlWrWXs ZcAW|QRl^fQ
+# excess insurance (NOUN) : ZlAlbRl^fQ
+# expected profit insurance (NOUN) : ^z|QbWW|W|ARl^fQ
+# extended insurance (NOUN) : WjDXbWRl^fQ
+# fidelity insurance (NOUN) : U|DWrWRl^fQ
+# fire insurance (NOUN) : ^lbXcRl^fQ
+# group accident insurance (NOUN) : GbDZgUbW^cRl^fQ
+# hull insurance (NOUN) : UfDZgRl^fQ
+# insurance adjuster (NOUN) : Rl^fQGcI|XfQ
+# insurance against nonperformance (NOUN) : AkWdARsIW|^cWRl^fQ
+# insurance agent (NOUN) : Rl^fQGcI|XfQ
+# insurance claim (NOUN) : Rl^fQAzQZfWAs
+# insurance clauses (NOUN) : Rl^fQWdAXfW
+# insurance policy (NOUN) : Rl^fQXzWAsfD
+# insurance premium (NOUN) : Rl^fQIr
+# insurance rate (NOUN) : Rl^fQWrWwI
+# insurance surveyor (NOUN) : Rl^fQAfQUbW|D
+# insurance value (NOUN) : Rl^fQAbAjA
+# marine insurance (NOUN) : ^cUbWRl^fQ
+# indemnity insurance (NOUN) : UbW^cRl^fQ
+# over insurance (NOUN) : WjDXbWRl^fQ
+# sickness insurance (NOUN) : UbWRjWRl^fQ
+# transportation insurance (NOUN) : WsDUlWRl^fQ
+# unemployment insurance (NOUN) : U|IWfRRl^fQ
+# war risk insurance (NOUN) : XfDXcWRl^fQ
+# workmen's compensation insurance (NOUN) : DlQsXb Xc^cRlUbWRl^fQ
+
+"insurant"
+% HUMAN
+(]|Rl^fQXb)
+
+"insurer"
+% HUMAN
+(Rl^fQWfRXb)
+
+"insurgency"
+% MATERIAL ACTION
+(RbDIbD)
+
+"insurgent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]lAGl)
+
+"insurrection"
+% MATERIAL ACTION
+(]lAGlW)
+
+"insurrectionist"
+% HUMAN
+(]lAGl)
+
+"insusceptibilty"
+(QsAbQAbA)
+
+"intaglio"
+% CONCRETE MATERIAL 
+(WzQAbA Wr]bDW|DUlc)
+
+"intake"
+% MATERIAL 
+(^zRW|RAs)
+# intake value (NOUN) : AsW|RGbDAb
+
+"intangibility"
+(Qs^jW)
+
+"integer"
+% CONCRETE MATERIAL 
+(XfWUs)
+
+"integral"
+% MATERIAL 
+(XfDZg)
+
+"integrality"
+(WlbDXfD)
+
+"integration"
+% MATERIAL 
+(\lW^bR)
+# circular integration (NOUN) : WsfDUbW\lW^bR
+# horizontal integration (NOUN) : Us]jW\lW^bR
+# vertical integration (NOUN) : UsX|A\lW^bR
+
+"integrator"
+% CONCRETE ANIMAL MATERIAL 
+(XfARsDA|)
+
+"integrity"
+% CONCRETE MATERIAL 
+(UfWU|I)
+
+"integument"
+% CONCRETE MATERIAL 
+(Wl|]|)
+
+"intelect"
+(X|IjA)
+
+"intellect"
+% CONCRETE HUMAN ANIMAL MATERIAL ART
+(X|U|A)
+
+"intellection"
+% MATERIAL ART
+(UbAl)
+
+"intellectual"
+(X|U|AW|D)
+
+"intellectuality"
+% ART
+(X|IjA)
+
+"intelligence"
+% CONCRETE MATERIAL ART
+(X|DzW)
+# intelligence bureau  (NOUN) : XfWRlAsA
+# intelligence office  (NOUN) : XfWRlAsA
+# artificial intelligence (NOUN) : W|DAlW X|DzW
+# artificial intelligence research (NOUN) : W|DAlW X|DzW WjDAs
+# U.S. intelligence (NOUN) : Q|AsA XfWRlA|AlbD
+
+"intelligencer"
+% HUMAN
+(RlGlXb)
+
+"intelligentsia"
+% ORGAN HUMAN
+(X|U|A AkAzR)
+
+"intelligibility"
+% CONCRETE MATERIAL 
+(QjWIr^bQ)
+
+"intelsat"
+% ORGAN
+(W|D\gIUb\z)
+
+"intendance"
+% ORGAN
+(^cWXfWZfW)
+
+"intendant"
+% HUMAN
+(AbQGlAXb)
+
+"intended"
+% HUMAN
+(WdA^lDXb)
+
+"intensification"
+% MATERIAL 
+(AbW^lb)
+
+"intensifier"
+% MATERIAL 
+(AbWWz|Wf)
+
+"intension"
+% CONCRETE MATERIAL 
+(AbW^lb)
+
+"intensity"
+% CONCRETE MATERIAL 
+(AbWGl)
+
+# with a intensity $ (ADV) :  WjIU|Q^|
+
+"intensive"
+(AbWWz|Wf)
+
+"intent"
+% CONCRETE MATERIAL
+(Wz|Ub)
+
+"intention"
+% MATERIAL 
+(Wz|Ub)
+# with the intention of PRESP (PP->ADV) : (ADJUNCT PRESP/^bIjAl)
+
+"interaction"
+% CONCRETE MATERIAL 
+(UbW^lXbAWrW)
+
+"interactivity"
+(UbW^lXbAWrW)
+
+"interception"
+% MATERIAL ACTION
+(AbIlZcA|)
+
+"interceptor"
+% HUMAN
+(RbW^cXb)
+
+"intercession"
+% CONCRETE MATERIAL 
+(XsWXc)
+
+"intercessor"
+% HUMAN
+(XsWXcXb)
+
+"interchange"
+% CONCRETE MATERIAL ACTION
+(Ar^lbD)
+
+"interchangeability"
+% CONCRETE MATERIAL 
+(Ar^lbD ^bI Us W|VWzQ)
+
+"intercom"
+% CONCRETE ANIMAL MATERIAL 
+(W|D\f[lQ)
+
+"intercommunication"
+(UbW^lWz| Ar\lW)
+# intercommunication system  (NOUN) : DcRs\lW^lbXbWZ|
+
+"intercommunion"
+(Z|DAr)
+
+"intercommunity"
+(AlWWw)
+
+"interconnection"
+% CONCRETE MATERIAL 
+(UbW^l WjDAjI)
+
+"interconnexion"
+(UbW^l WjDAjI)
+
+"intercourse"
+% CONCRETE MATERIAL 
+(UfWAr)
+
+"intercross"
+(W|XlW ArRc)
+
+"interdependence"
+% CONCRETE MATERIAL 
+(UbW^l Wz|XlD)
+
+"interdependency"
+% CONCRETE MATERIAL 
+(UbW^l Wz|XlD)
+
+"interdict"
+(AzQX|)
+
+"interdiction"
+% CONCRETE MATERIAL 
+(AzQX|)
+
+"interest"
+% MATERIAL MIND
+(AlbDU|Q)
+# accrued interest (NOUN) : AjWAlbW|Xb
+# accumulated interest (NOUN) : XfAI|RW|Xb
+# annual interest (NOUN) : DjDW|Xb
+# annual interest rate (NOUN) : DjDW|Xb
+# compound interest (NOUN) : RlAI|
+# insurable interest (NOUN) : ]|Rl^fQQsIAfD
+# imputed interest (NOUN) : As|UlAW|Xb
+# ^be of interest to A (VERB->ADJ) : [(OBJ2 A/WgAg) ^zWQ|Ab W|V<VERB>]/Gb
+# in the interest of A (PP)  : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+
+# interest arbitrage (NOUN) : W|XbXgXfW
+# interest bill (NOUN) : W|XbRsWfWzQ
+# interest burden for endborrowers (NOUN) : WfRXbRsGbQAzQI|
+# interest cost (NOUN) : W|XbR|WrW
+# interest coupon (NOUN) : W|Xb]r
+# interest for delinquency (NOUN) : WjDGcW|Xb
+# interest income (NOUN) : W|XbUlGzA
+# interest payable (NOUN) : ZbW|RAzQW|Xb
+# interest per annum (NOUN) : DjDI|
+# interest rate (NOUN) : W|XbWwI
+# interest rate policy (NOUN) : AzQI|XfWZcA
+# interest revenue (NOUN) : W|XbUsW|R
+# penal interest (NOUN) : Ws|WdAW|XbX
+# refunded interest (NOUN) : ^lbDRsIW|Xb
+# simple interest (NOUN) : GbDI|
+# uncollected interest (NOUN) : Q|UsW|Xb
+# vested interest (NOUN) : A|GzAAsfDW|A
+# ^take an interest in A (VERB) : [(ADJUNCT A/Wg) (OBJ [^zWQ|<NOUN>]/IzI) AbXAg Gl|<VERB>]/Gb
+# unearned interest (NOUN) : Q|AjWAlbW|Xb
+
+"interest-rate"
+(AzQI|)
+# interest-rate hike (NOUN) : AzQI| W|DUbW
+
+"interface"
+% CONCRETE MATERIAL 
+(W|D\f]gW|Uz)
+
+"interference"
+% CONCRETE MATERIAL 
+(AbDUfR)
+
+"interferometer"
+% CONCRETE ANIMAL MATERIAL 
+(AbDUfRAk)
+
+"interferon"
+(W|D\f]gIlD)
+
+"interflow"
+(^lDIw)
+
+"interfusion"
+(Z|QWwD)
+
+"intergrade"
+(XsWAbD GbDAk)
+
+"interim"
+% CONCRETE MATERIAL 
+(YbQ)
+
+"interior"
+% MATERIAL PLACE
+(WbDYlA[W|D\gI|Wf])
+# the Interior Department (NOUN) : DcQsRs
+
+"interjection"
+% CONCRETE MATERIAL 
+(\sW|R)
+
+"interlacement"
+% STATE
+(ArZbA)
+
+"interleaf"
+(AbDX|)
+
+"interlineation"
+(^cW)
+
+"interlingua"
+(AsAXgWf)
+
+"interlining"
+(U|QDf^A|)
+
+"interlock"
+% MATERIAL 
+(QbXQsII|D UbW\c)
+
+"interlocution"
+(Gc^lb)
+
+"interlocutor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Gc^lbXb)
+
+"interlocutress"
+% HUMAN
+(WjUfW Gc^lbXb)
+
+"interloper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^sgRbWAsD)
+
+"interlude"
+% CONCRETE MATERIAL 
+(UbW|)
+
+"intermarriage"
+% ACTION
+(AjI^lD)
+
+"intermediary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QcAcXb)
+
+"intermediation"
+% MATERIAL ACTION
+(XsWAc)
+
+"intermediator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsWAcXb)
+
+"intermedium"
+(XsWAcQsI)
+
+"interment"
+% MATERIAL PLACE
+(QcXbW)
+
+"intermezzo"
+(QbAAbD WjDWk)
+
+"intermigration"
+% ACTION
+(UbW^l W|Xs)
+
+"intermission"
+% CONCRETE MATERIAL 
+(XsWGbD)
+
+"intermittence"
+% CONCRETE MATERIAL 
+(HcHcIl BzD^A|A|)
+
+"intermittent"
+(AbD^fIWjI)
+
+"intermixture"
+(^lD^bR)
+
+"intern"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|D\fD)
+
+"internal"
+(RlDX|I)
+
+"internality"
+(DcXc)
+
+"internals"
+% ANIMAL
+(DcXbW)
+
+"international"
+% HUMAN
+(AsAXgAjWA| ZsIXbWXb)
+
+"internationale"
+(W|D\fDcUjDfIWz| DlIc)
+
+"internationalism"
+% ART
+(AsAXgXsWz|)
+
+"internationalite"
+% HUMAN
+(AsAXg QsGcWz| ^lbIWdAAb)
+
+"internationality"
+(AsAXgXfAW|Q)
+
+"internationalization"
+(AsAXg^lb)
+
+"interne"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|D\fD)
+
+"internee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]|WfAIwXb)
+
+"internet"
+% PLACE
+(W|D\fDgU)
+# internet portal (NOUN) : W|D\fDgU]l\bIUbW|\z
+
+"internment"
+% MATERIAL 
+(WwZ|)
+
+"internship"
+% HUMAN
+(W|D\fDWz| X|Ws|)
+
+"internuncio"
+% HUMAN
+(Ar^lbWAlWUb)
+
+"interoperability"
+(UbW^l XbAGlW AbDzWUfW)
+
+"interpellation"
+% ACTION
+(X|IWz|)
+
+"interpenetration"
+% ACTION
+(Z|Q\s)
+
+"interphone"
+(DcRs XfD^lb)
+
+"interplay"
+% CONCRETE MATERIAL 
+(UbW^lXbAWrW)
+
+"interpolation"
+% MATERIAL 
+(AcRjD)
+
+"interpolator"
+% HUMAN
+(Ab]|IXb)
+
+"interposal"
+(AcW|R)
+
+"interposition"
+% MATERIAL 
+(AcXc)
+
+"interpretation"
+% CONCRETE MATERIAL 
+(^cUfA)
+
+"interpreter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^cUfAXb)
+
+"interpretress"
+% HUMAN
+(WjUfW UfIQjWXb)
+
+"interregnum"
+% CONCRETE TIME MATERIAL 
+(AsfIWs| A|AbD)
+
+"interrelation"
+% CONCRETE MATERIAL 
+(UbW^l AlbDAk)
+
+"interrelationship"
+% CONCRETE MATERIAL 
+(UbW^l AlbDAk)
+
+"interrogation"
+% CONCRETE MATERIAL ACTION
+(X|IQsD)
+
+"interrogative"
+% CONCRETE MATERIAL 
+(Wz|QsDUb)
+
+"interrogator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|IQsDXb)
+
+"interrogatory"
+(Wz|QsD)
+
+"interrupt"
+(AcW|RXsWGbD)
+
+"interrupter"
+% HUMAN
+(RbW^cXb)
+
+"interruption"
+% MATERIAL 
+(XsWGbD)
+# interruption of business (NOUN) : WjWWfRXfWX|
+
+"intersection"
+% MATERIAL 
+(ArZb)
+
+"interspace"
+% PLACE
+(UbW|Wz| AlWAbD)
+
+"interspersion"
+(UbI]l)
+
+"interstice"
+% CONCRETE MATERIAL 
+(R|D\zQ)
+
+"intertexture"
+(ArX|A)
+
+"intertype"
+(W|D\f\bW|]z)
+
+"interval"
+% CONCRETE MATERIAL 
+(AbDAjA)
+
+"intervale"
+% PLACE
+(DbXWzD HbW)
+
+"intervention"
+% CONCRETE MATERIAL 
+(AcW|R)
+# intervention currency (NOUN) : AcW|R\lW^lb
+# intervention point (NOUN) : AcW|RXfQ
+
+"interventionist"
+% HUMAN
+(DcXfW AbDUfRXsWz|Xb)
+
+"interview"
+% CONCRETE MATERIAL ACTION
+(W|D\fRw)
+# interview for a job (NOUN) : AsX|AXb QjDXfR
+# interview survey (NOUN) : QjDXfRXlUb
+# job interview (NOUN) : Zs|X|A QjDXfR
+# personal interview (NOUN) : AcW|D QjDXfR
+# press interview (NOUN) : A|Xb ^l|AjD
+
+"interviewee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]|^l|AjDXb)
+
+"interviewer"
+% HUMAN ANIMAL
+(W|D\fRw A|Xb)
+
+"interwork"
+(UbW^lXbAWfR)
+
+"intestacy"
+(WwWfDWzI DbQA|X| WbD^Al XsAWzQ)
+
+"intestate"
+% HUMAN
+(WwWfD WfRUDzD UbQbWXb)
+
+"intestine"
+% CONCRETE MATERIAL ANIMAL
+(ZbWXb)
+
+"intimacy"
+% CONCRETE MATERIAL 
+(Z|DQ|I)
+
+"intimation"
+% CONCRETE MATERIAL ACTION
+(WbQU|)
+
+"intimidation"
+% CONCRETE MATERIAL ACTION
+(Ws|^jR)
+
+"intimidator"
+% HUMAN
+(Ws|^jRXb)
+
+"intimity"
+(Z|DQ|I)
+
+"intinction"
+% ACTION
+(UfWZbDWz| SbWWzI ]lGlXsWg XfAU|A|)
+
+"intolerance"
+% CONCRETE MATERIAL 
+(AjDG|I Us WfRUWzQ)
+
+"intonation"
+% CONCRETE MATERIAL 
+(WfAWdW)
+
+"intourist"
+% ORGAN
+(UlIjDWz| Wl|AsAW|D AlbDAlbWAsA)
+
+"intoxicant"
+% CONCRETE MATERIAL 
+(Zs|^bAg ^bDzD AfU)
+
+"intoxication"
+% MATERIAL STATE
+(UsIZs|^bQ)
+
+"intra-party"
+(GbWDc)
+
+"intractability"
+% CONCRETE MATERIAL 
+(AlX|R RsI\lW)
+
+"intrados"
+(DcIwD)
+
+"intransigent"
+% HUMAN
+(R|\b^jRXfAW|D UbIbQ)
+
+"intrant"
+% HUMAN
+(U|DW|RUcW)
+
+"intray"
+(GlZbA UfIw^bQ)
+
+"intrepidity"
+% MATERIAL 
+(GcGbQ)
+
+"intricacy"
+% CONCRETE MATERIAL 
+(RlAXbR)
+
+"intrigant"
+% HUMAN
+(WzQQlXb)
+
+"intrigue"
+% MATERIAL 
+(WzQQl)
+
+"intro"
+(ZfURsRsD)
+
+"introducer"
+% HUMAN
+(UlAcXb)
+
+"introduction"
+% CONCRETE MATERIAL ACTION
+(UlAc)
+# introduction of foreign capital (NOUN) : Wl|XbGlW|R
+# introduction to A (NOUN) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bD) UlAc<NOUN>]
+
+"introit"
+(ZlW|RAjW)
+
+"intromission"
+% MATERIAL 
+(UbRW|R)
+
+"introspection"
+% MATERIAL 
+(DcUfW)
+
+"introversion"
+(Dc^dW)
+
+"introvert"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DcUfWXfAW|D UbIbQ)
+
+"intruder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Z|QW|RXb)
+
+"intrusion"
+% MATERIAL ACTION
+(AbWWr)
+
+"intubation"
+(UbRAlbDRfR)
+
+"intuition"
+% MATERIAL 
+(X|AAbA)
+
+"intuitionism"
+% MATERIAL 
+(X|AAlbDUfI)
+
+"intumecence"
+(RsWf WlIzA|)
+
+"intussusception"
+% MATERIAL 
+(UfRZs|)
+
+"inulin"
+% CONCRETE MATERIAL 
+(W|DsII|D)
+
+"inunction"
+% MATERIAL 
+(A|IzQ RbIzA|)
+
+"inundation"
+(RfQIbQ)
+
+"inurbanity"
+(ZfD^bQ)
+
+"inutility"
+% CONCRETE MATERIAL 
+(QsW|A)
+
+"invader"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Z|QIdAXb)
+
+"invalid"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjWWdAXb)
+
+"invalidation"
+% MATERIAL 
+(Qs^rIl ^bA|)
+
+"invalidism"
+(RjWWdA)
+
+"invalidity"
+% CONCRETE MATERIAL 
+(Qs^r)
+
+"invar"
+(RsIRjDAbW)
+
+"invariability"
+% CONCRETE MATERIAL 
+(RsIRjD)
+
+"invariable"
+(RsIRjD^bDzD AfU)
+
+"invariant"
+(RsIRjDIdW)
+
+"invasion"
+% MATERIAL 
+(Z|QW|R)
+
+"invective"
+% CONCRETE MATERIAL 
+(GlAUfI)
+
+"invention"
+% CONCRETE MATERIAL 
+(RbIQjW)
+
+"inventor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbIQjWAb)
+
+"inventory"
+% CONCRETE MATERIAL 
+(QlAIlA)
+# average inventory (NOUN) : ]jWAwDXcAl
+# basic inventory (NOUN) : A|XsDXcAl
+# closing inventory (NOUN) : A|QbIXcAl
+# inventory accumulation (NOUN) : XcAlZsAXfA
+# inventory adjustment (NOUN) : XcAlXlXfW
+# inventory change (NOUN) : XcAlRjDGlW
+# inventory clearance (NOUN) : XcAlXlUb
+# inventory control (NOUN) : XcAlAlbDI|
+# inventory cycle (NOUN) : XcAl\sXbUsD^lbD
+# inventory finance (NOUN) : XcAlAzQWwW
+# inventory investment (NOUN) : XcAl\sXb
+# inventory preparation (NOUN) : XcAlUsGbW
+# inventory recession (NOUN) : W|DRgD\lI| I|UgUjD
+# inventory valuation adjustment (NOUN) : XcAl]jWAbXfWI|
+
+"inventress"
+% HUMAN
+(WjUfW RbIQjWAb)
+
+"inveracity"
+(RsIUfWU|I)
+
+"inverness"
+(W|DRfDgUz)
+
+"inverse"
+% CONCRETE MATERIAL 
+(WjA)
+
+"inversion"
+% CONCRETE MATERIAL 
+(XfDGl)
+
+"invert"
+% HUMAN
+(XfDGlXb)
+
+"invertase"
+(XbGbW ^rUl)
+
+"invertebrate"
+% CONCRETE ANIMAL MATERIAL 
+(QsZfAZs GlWQsI)
+
+"inverter"
+% CONCRETE ANIMAL MATERIAL 
+(RjD^lbDXbWZ|)
+
+"investigation"
+% MATERIAL 
+(XlUb)
+# congressional investigation (NOUN) : Wz|^l|XlUb
+# federal investigation (NOUN) : WjDRbW XlUb
+# under investigation (ADV) : XlUbXsWWg
+
+"investigator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlUbXb)
+# federal investigator (NOUN) : WjDRbW XlUbAlbD
+# head investigator (NOUN) : XlUbAlbD Gc]r
+
+"investment"
+% ACTION ECOLIFE
+(\sXb)
+# attracting investment (NOUN) : \sXbWwRbI
+# autonomous investment (NOUN) : GlAI|R\sXb
+# ex-ante investment (NOUN) : UbXfDXfA\sXb
+# ex-post investment (NOUN) : Ub^sXfA\sXb
+# foreign investment (NOUN) : ^cWl|\sXb
+# investment bank  (NOUN) : XsU|A W|DUsWfRXb
+# investment banker (NOUN) : \sXbWzD^cW
+# investment capital (NOUN) : \sXbXbRlD
+# investment company  (NOUN) : \sXbU|D\bA^l|Ub
+# investment currency (NOUN) : \sXb\lW^lb
+# investment curve (NOUN) : \sXbAlAUfD
+# investment dollar (NOUN) : \sXbGbIIf
+# investment demand schedule (NOUN) : \sXbUsWr]r
+# investment effort (NOUN) : \sXbDlIjA
+# investment for labor saving (NOUN) : DlGlWXfIWdAXfA\sXb
+# investment function (NOUN) : \sXb^bQUs
+# investment goods (NOUN) : \sXbXc
+# investment guarantee (NOUN) : \sXbRlXzW
+# investment in kind (NOUN) : ^jDQsI\sXb
+# investment in plant and machinary (NOUN) : UfIR|\sXb
+# investment in plant and stocks (NOUN) : UfIR|XcAl\sXb
+# investment instrument (NOUN) : \sXbQsIAfD
+# investment intentions (NOUN) : \sXbAk^l|A
+# investment manager (NOUN) : \sXbAlbDI|W|D
+# investment multiplier (NOUN) : \sXbUzWUs
+# investment plan (NOUN) : \sXbAk^l|A
+# investment portfolio (NOUN) : \sXbXbUbDRs
+# investment trust  (NOUN) : \sXbU|D\bA^l|Ub
+# inward investment (NOUN) : GcDc\sXb
+# institutional investor (NOUN) : A|AlbD\sXbAb
+# sound investment (NOUN) : AfDXfD\sXb
+# outward investment (NOUN) : GcWl|\sXb
+# overseas investment (NOUN) : ^cWl|\sXb
+# unintended inventory investment (NOUN) : Wz|GlWfRUDzD XcAl\sXb
+
+"investor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\sXbXb)
+# long-term inverstor (NOUN) : XbWA|\sXbXb
+
+"inveteracy"
+(WlbDAl)
+
+"invigorant"
+(AbWXbWXg)
+
+"invigoration"
+(AjAIj)
+
+"invigorator"
+(XbAzAQsI)
+
+"invincibleness"
+(QsXfA)
+
+"inviolability"
+(U|DUfW)
+
+"inviolacy"
+% MATERIAL 
+(RsIAbZ|Q)
+
+"invisibility"
+% MATERIAL 
+(R|AbU|UfW)
+
+"invisible"
+(RlI Us WfRUDzD)
+
+
+"invitation"
+% CONCRETE MATERIAL ACTION
+(ZlGc)
+# invitation for tenders (NOUN) : W|RZbIQlX|R
+# invitation of foreign capital (NOUN) : Wl|XbGlW|R
+# written invitation (NOUN) : ZlGcXbW
+
+"invite"
+% ACTION
+(ZlGc)
+
+"invocation"
+% CONCRETE MATERIAL 
+(A|WsfD)
+
+"invoice"
+% CONCRETE MATERIAL 
+(UlWXbW)
+# duplicate invoice (NOUN) : RlARlDUlWXbW
+# factory invoice (NOUN) : XlWXbWGlUlWXbW
+# invoice amount (NOUN) : UlWXbWWcAQjDAzQWcA
+# original invoice (NOUN) : XfWRlDUlWXbW
+
+"involucre"
+(QbAUbW]|RlA)
+
+"involucrum"
+(QbAUbW]|RlA)
+
+"involute"
+(U|DAcUfD)
+
+"involution"
+% MATERIAL 
+(RsDAw)
+
+"involvement"
+% CONCRETE MATERIAL 
+(AlbDIjD)
+
+"invulnerability"
+% CONCRETE MATERIAL 
+(RsIUbU|D)
+
+"inward"
+(DcRs)
+
+"iodide"
+% CONCRETE MATERIAL 
+(WrWlGz^lbQsI)
+
+"iodine"
+% CONCRETE MATERIAL 
+(WlAUl)
+
+"iodism"
+(WlAXl XsWGlA)
+
+"iodoform"
+(WrWlGz]lIzQ)
+
+"ion"
+% CONCRETE MATERIAL 
+(W|WlD)
+
+"ionian"
+% HUMAN
+(W|WlD|Wb UbIbQ)
+
+"ionium"
+(W|WlDwQ)
+
+"ionization"
+(W|WlD^lb)
+
+"ionosphere"
+% MATERIAL 
+(XfDI|ZzW)
+
+"iota"
+% CONCRETE MATERIAL 
+(Q|Ul)
+
+"iou"
+% ECOLIFE
+(ZbWrW XzWUf)
+
+"ipecac"
+(\lAzD)
+
+"ipecacuanha"
+(\lAzD)
+
+"irade"
+(\f[| ^lbWXgWz| Z|AIjW)
+
+"iraki"
+% HUMAN
+(W|Ib[zW|D)
+
+"iranian"
+% HUMAN
+(W|IbD UbIbQ)
+
+"iraqi"
+% HUMAN
+(W|Ib[z UbIbQ)
+
+"irascibility"
+% MATERIAL 
+(UfWQ| AzR^bQ)
+
+"ire"
+% MATERIAL 
+(UfW)
+
+"irenicon"
+(]jW^lb XgWz|)
+
+"iridescence"
+% CONCRETE MATERIAL 
+(QsX|Ac R|Z)
+
+"iridium"
+% CONCRETE MATERIAL 
+(W|I|GwQ)
+
+"iridosmine"
+(WlUzQwQ Alb W|I|GwQ Wz| ZfDWjD ^bRAzQ)
+
+"iris"
+% CONCRETE MATERIAL 
+(^lWZc)
+
+"irishism"
+(WbW|IIbDGz ]sW)
+
+"irishman"
+% HUMAN
+(WbW|IIbDGz UbIbQ)
+
+"irishwoman"
+% HUMAN
+(WbW|IIbDGzWz| WjW|D)
+
+"iritis"
+(^lWZcWjQ)
+
+"iron"
+% CONCRETE MATERIAL 
+(ZfI)
+# in irons (ADV) : RbW^dWWzI GlII|IUs WfRUDzD
+# irons in the fire  (NOUN) : ZbAUs^bAl W|VDzD W|I
+# iron law of wages (NOUN) : W|QAzQZfIZ|A
+# iron ore (NOUN) : ZfIAlbWUfA
+# ^rule with a rob of iron (VERB) : AbWWbRXfWZ|IzI ^bGb
+
+"iron-stone"
+(ZfIAlbWUfA)
+
+"ironclad"
+(ZfIAbRUfD)
+
+"irongray"
+(ZfI^l|UcA)
+
+"irongrey"
+(ZfI^l|UcA)
+
+"ironing"
+(GbI|Q|X|I)
+
+"ironist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|DXfWGcDzD UbIbQ)
+
+"ironmaster"
+% HUMAN
+(XgZfIWfRXb)
+
+"ironmonger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZfIXg A|As UbWW|D)
+
+"ironmongery"
+% PLACE
+(ZfIQsIUbW)
+
+"ironside"
+(XbWUb)
+
+"ironsides"
+% ORGAN HUMAN
+(ZfIA|Gc)
+
+"ironware"
+(ZfIQsI)
+
+"ironwood"
+% CONCRETE MATERIAL 
+(AjWX|I UsQlA)
+
+"ironwork"
+(ZfIXg RsRsD)
+
+"ironworker"
+% HUMAN
+(ZfIAlW)
+
+"ironworks"
+% PLACE
+(XgZfIUl)
+
+"irony"
+% CONCRETE MATERIAL 
+(RbDWf)
+
+"iroquois"
+% ORGAN HUMAN
+(W|Il[sfW|XlA)
+
+"irradiance"
+(RbIAlbW)
+
+"irradiancy"
+(RbIAlbW)
+
+"irradiation"
+(RbIAlbW)
+
+"irrational"
+(QsI|Us)
+
+"irrationality"
+% MATERIAL 
+(RsI^bRI|)
+
+"irreconcilability"
+(GcI|R)
+
+"irreconcilable"
+% HUMAN
+(R|\b^jRXfAW|D UbIbQ)
+
+"irredentism"
+% ART
+(Q|DXlA \lWW|IXsWz|)
+
+"irredentismist"
+% HUMAN
+(^l|RlAXsWz|Xb)
+
+"irrefutability"
+(RbDRbA^bI Us WfRUWzQ)
+
+"irregular"
+% HUMAN
+(RsIAwZ|AXfAW|D UbIbQ)
+
+"irregularity"
+% CONCRETE MATERIAL 
+(RsIAwZ|A)
+
+"irrelevance"
+% CONCRETE MATERIAL 
+(RsXfAXfI)
+
+"irrelevancy"
+% CONCRETE MATERIAL 
+(RsXfAXfI)
+
+"irreligion"
+% CONCRETE MATERIAL 
+(QsXlWAr)
+
+"irremovability"
+(WlIQA|I Us WfRUWzQ)
+
+"irreproachability"
+(WlbDRjA^bQ)
+
+"irresistibility"
+(Xf^bW^bI Us WfRUWzQ)
+
+"irresolution"
+% CONCRETE MATERIAL 
+(AjIGbDIjAWfRUWzQ)
+
+"irresponsibility"
+% CONCRETE MATERIAL 
+(QsZcAW|Q)
+
+"irresponsible"
+% HUMAN
+(ZcAW|QW| WfRUDzD UbIbQ)
+
+"irretention"
+(RlWw^bI Us WfRUWzQ)
+
+"irreverence"
+% MATERIAL 
+(RsIAjW)
+
+"irreversibility"
+(XfDGl RsIDzW)
+
+"irrevocability"
+(Zs|Ul RsIAbDzW)
+
+"irrigation"
+% CONCRETE MATERIAL 
+(AlbDAc)
+
+"irritability"
+% CONCRETE MATERIAL 
+(UfWQbIzQ)
+
+"irritableness"
+(UfWQbIzQ)
+
+"irritancy"
+(XbAzA)
+
+"irritant"
+(XbAzAQsI)
+
+"irritation"
+% CONCRETE MATERIAL 
+(ZlXl)
+
+"irruption"
+(GlIW|R)
+
+"isagogic"
+(UfWUf UfIlD)
+
+"ishmaelite"
+% ORGAN HUMAN
+(W|UzQbWgIXlA)
+
+"isinglass"
+% CONCRETE MATERIAL PLANT
+(RsIg]sI)
+
+"islam"
+(W|UzIIbQ)
+
+"islamism"
+(Qb^lQgUAr)
+
+"islamite"
+% HUMAN
+(Qb^lQgUArGl)
+
+"island"
+% CONCRETE MATERIAL PLACE
+(UfQ)
+# the Island of Saints  (NOUN) : UfWW|DGzIWz| UfQ
+
+"isle"
+% CONCRETE MATERIAL PLACE
+(UfQ)
+
+"islet"
+% PLACE
+(XbAWzD UfQ)
+
+"ism"
+% ART
+(XsWz|)
+
+"isobar"
+% MATERIAL 
+(GzWWbRUfD)
+
+"isocheim"
+(GzW^bDUfD)
+
+"isocracy"
+% ORGAN
+(QbDQ|D ]jWGzW XfWZ|)
+
+"isodynamic"
+(GzWXbIjAUfD)
+
+"isolation"
+% MATERIAL 
+(AjAI|)
+
+"isolationism"
+% ART
+(AlI|RXsWz|)
+
+"isolator"
+% HUMAN
+(AjAI|^bDzD UbIbQ)
+
+"isomer"
+% CONCRETE MATERIAL 
+(W|UfWZg)
+
+"isometrics"
+(AzDWwAAbW^lbWsDGlW)
+
+"isomorphism"
+(GlW^jW)
+
+"isopod"
+% CONCRETE ANIMAL MATERIAL 
+(GzWAbAIw)
+
+"isopropanol"
+% MATERIAL 
+(W|Ul]zIl]bDlI)
+
+"isopropyl alcohol"
+% MATERIAL 
+(W|Ul]zIl]|I WbI[lI)
+
+"isoseismal"
+(GzWX|DGlUfD)
+
+"isoserm"
+(GzWWlDUfD)
+
+"isothermal"
+(GzWWlDUfD)
+
+"isotope"
+% CONCRETE MATERIAL 
+(GlWWs| WsfDUl)
+
+"isotron"
+(WbW|Ul\zIlD)
+
+"israeli"
+% HUMAN
+(W|UzIbWgIW|D)
+
+"israelite"
+% HUMAN
+(W|UzIbWgIW|D)
+
+"issuance"
+(RbI^cW)
+
+"issue"
+% CONCRETE MATERIAL 
+(W|Uw)
+# contract issue (NOUN) : AkWdAAfD
+# burning issue (NOUN) : \bWlIzDzD DlDXfQ
+# economic issue (NOUN) : AjWXgQsDXg
+# issue bank (NOUN) : RbIAsfDWzD^cW
+# issue market (NOUN) : RbIAsfDU|XbW
+# issue on how SENT (NOUN) : [(AMODS [(ADJUNCT [(RELCL SENT/^bDzD) RbWRfR<NOUN>]/Wg) Gc^b<ADJ>]/Gb) DlDXfQ<NOUN>]
+# issue price (NOUN) : RbI^cWAbAjA
+# issue terms (NOUN) : RbI^cWXlAfD
+# ^join issue (VERB) : DlDXcWWzI U|XbA^bGb
+# recommended issue (NOUN) : XbWIjXs
+# ^take issue with A (VERB) : [(ADJUNCT A/Wg) RbDGc^b<VERB>]/Gb
+# thorny issue (NOUN) : AlDIbD^bD QsDXg
+
+"issueist"
+% HUMAN
+(RbI^cWW|D)
+
+"issuer"
+% HUMAN
+(RbI^cWW|D)
+
+"isthmus"
+% CONCRETE MATERIAL 
+(X|^jR)
+
+"it"
+% CONCRETE MATERIAL 
+(UsIIc)
+# ^be with it (VERB) : XfWU|DZbI|Al W|VGb
+# ^get with it (VERB) : WjIU|Q^| ^bGb
+# ^have it (VERB) : WwAZgXfA UfWXfA QcIjAW| W|VGb
+
+"it"
+% CONCRETE MATERIAL 
+(W|\bII|W|UbD RgIzQsU)
+
+"italian"
+% HUMAN
+(W|\bII|Wb UbIbQ)
+
+"italianism"
+(W|\bII|Wb]sW)
+
+"italic"
+% CONCRETE MATERIAL 
+(W|\cII|AZg)
+
+"itch"
+% MATERIAL 
+(AbIjWsQ)
+
+"itching"
+(AbIjWsQ)
+
+"item"
+% CONCRETE MATERIAL 
+(WbW|\gQ)
+# balanced item (NOUN) : XlXfW^bWQlA
+# brand-name item (NOUN) : QgW|[f]sQ
+
+"iteration"
+% MATERIAL 
+(RbDRlA)
+
+"itineracy"
+(UsD^l|)
+
+"itinerant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]jDIjAXb)
+# itinerant salesman (NOUN) : ^cWUbWW|D
+
+"itinerary"
+(WjXfW)
+
+"itineration"
+(WjXfW)
+
+"itis"
+(A|AlbDWz| WjQXzW)
+
+"ivory"
+% CONCRETE MATERIAL 
+(UbWWb)
+# black ivory  (NOUN) : Wb]zI|[b ^zAW|D DlWk
+# fosial ivory  (NOUN) : QcQfGz WfQD|
+# ivory tower  (NOUN) : UbWWb\bR
+# ^show ONE_S  ivories (VERB) : W|SbIWzI GzIfDcGb
+# ^wash ONE_S  ivories (VERB) : UsIWzI QbU|Gb
+# ivory black  (NOUN) : ^zAUcAWbDIr
+# ivory Coast  (NOUN) : [l\zG|RlbIz
+# ivory nut  (NOUN) : WdXbWjIQc
+# ivory palm  (NOUN) : UbWWbWdXb
+# ivory towerism  (NOUN) : ZlUlAXsWz|
+
+"ivy"
+% CONCRETE ANIMAL MATERIAL PLANT
+(GbQXcWW|)
+
+"ixia"
+(W|AU|Wb)
+
+"izzard"
+(izzard)
+
+"izzat"
+(QjWWk)

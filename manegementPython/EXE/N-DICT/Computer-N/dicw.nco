@@ -1,0 +1,456 @@
+
+"WheelMouse"
+# WheelMouse (NOUN) : ^s|W|IQbWsUz
+
+"Win"
+# Win NUM1 (NOUN) : [(NMODS [Ws|D<NOUN>]) NUM1]
+
+"Windows"
+# Windows 95 (NOUN) : Ws|DGlWsXz 95
+# Windows 98 (NOUN) : Ws|DGlWsXz 98
+
+"Windows CE"
+# Windows CE (NOUN) : Ws|DGlWsXz CE
+
+"Windows CE Embedded Toolkit"
+# Windows CE Embedded Toolkit for Visual C++ 5.0 (NOUN) : R|XwWfI C++ 5.0 WzI Ws|^bD Ws|DGlWsXz CE DcXbW \sI[|U
+
+"Windows CE Toolkit"
+# Windows CE Toolkit (NOUN) : Ws|DGlWsXz CE \sI[|U
+# Windows CE Toolkit for Visual C++ 5.0 (NOUN) : R|XwWfI C++ 5.0WzI Ws|^bD Ws|DGlWsXz CE \sI[|U
+
+"Windows CE-based Handheld PC"
+# Windows CE-based Handheld PC (NOUN) : Ws|DGlWsXz CE A|RbD ]l[gUWrW PC
+
+"Windows NT Server"
+# Windows NT Server 4.0 (NOUN) : Ws|DGlWsXz NT UfRf 4.0
+
+"Windows NT Server Enterprise Edition"
+# Windows NT Server Enterprise Edition (NOUN) : Ws|DGlWsXz NT UfRf A|WfR]bD
+
+"Windows NT Server Terminal Server Edition"
+# Windows NT Server Terminal Server Edition (NOUN) : Ws|DGlWsXz NT UfRf \fQ|DfI UfRf]bD
+
+"Windows NT Workstation"
+# Windows NT Workstation 4.0 (NOUN) : Ws|DGlWsXz NT Wsf[zUz\gW|UjD 4.0
+
+"Word"
+# Word 6.0.1 for the Macintosh (NOUN) : Qc[|D\lU|WrW WsfGz 6.0.1
+# Word 97 for Windows 95 (NOUN) : Ws|DGlWsXz 95WrW WsfGz 97
+# Word 98 Macintosh Edition (NOUN) : WsfGz 98 Qc[|D\lU|]bD
+
+"Works"
+# Works 4.0 for the Macintosh (NOUN) : Qc[|D\lU|WrW Wsf[z 4.0
+# Works 4.5 for Windows 95 (NOUN) : Ws|DGlWsXz 95WrW Wsf[z 4.5
+
+"Web"
+# Web (NOUN) : WsgR
+
+"Word"
+# Word (NOUN) : WsfGz
+# Word 97 (NOUN) : WsfGz 97
+# Word NUM1 (NOUN) : [(NMODS [WsfGz<NOUN>]) NUM1]
+
+"w/c"
+# W/C dfficiency  (NOUN) : W/C ^rWwI
+
+"wack"
+# WACK  (NOUN) : XfDUlWXfD GcA| AzWXfW WzWGbR
+
+"wait"
+# wait  (NOUN) : GcA|
+# wait condition  (NOUN) : GcA| UbW\c
+# wait flag  (NOUN) : GcA| ]zIIcAz
+# wait indicator  (NOUN) : GcA| ]rU|XbWZ|
+# wait state  (NOUN) : GcA| UbW\c
+# wait time  (NOUN) : GcA| U|AbD
+
+"wait-to-ineligible"
+# wait-to-ineligible  (NOUN) : GcA|WgUf RsXfA^bRWzIl
+
+"waiting"
+# waiting  (NOUN) : GcA| UbW\c
+# waiting orders  (NOUN) : GcA| UbW\c WlGf
+
+"warehouse"
+# warehouse  (NOUN) : XbIr XfXbWUl
+# warehouse administrator  (NOUN) : XbIr XfXbWUl AlbDI|Xb
+# warehouse file  (NOUN) : XbIr XfXbWUl ]bW|I
+# warehouse location  (NOUN) : ZbWAl Ws|Z|
+# warehouse package  (NOUN) : XbIr XfXbWUl ]c[|X|
+# warehouse stock location  (NOUN) : ZbWAl XfXbW Ws|Z|
+# warehouse unit price  (NOUN) : ZbWAl GbDWs| WsfDAb
+
+"warm"
+# warm restart  (NOUN) : WlD XcAbGlW
+# warm start  (NOUN) : WlD AbGlW
+
+"warning"
+# warning  (NOUN) : AjWAl
+# warning check  (NOUN) : AjWAlU|A AfQUb
+# warning flag  (NOUN) : AjWAl ]zIIcAz
+# warning message  (NOUN) : AjWAl QgUgX|
+
+"wats"
+# WATS  (NOUN) : AlbWWjA XfD^lb UfR|Uz
+
+"wave"
+# wave (NOUN) : ]bGlW
+# air wave (NOUN) : AlWA| X|DGlW
+
+"way"
+# way  (NOUN) : RbWRfR
+# way station  (NOUN) : XsWAbD X|AsA
+
+"wcc"
+# WCC  (NOUN) : VzA| XgWf QsDXb
+
+"wcgm"
+# WCGM  (NOUN) : VzA| AbDzW QsDXb UcWUfW QlGwI
+
+"wcs"
+# WCS  (NOUN) : VzA| AbDzW XgWf A|WfA WjWWjA
+
+"weak"
+# Weak eXTernal Reference  (NOUN) : U|I^cWU| Wl|Rs ZbQXl
+# weak key  (NOUN) : WdA [|
+
+"web"
+# web (NOUN) : WsgR
+# web browsing (NOUN) : WsgR RzIbWsX|W
+
+"web_cast"
+# web_cast (NOUN) : WsgR RbWUlW
+
+"websight"
+# websight (NOUN) : WsgRUbW|\z
+
+"weekly"
+# weekly build schedule  (NOUN) : XsAbD UcWUbDIdW Ak^l|A
+
+"weight"
+# weight  (NOUN) : AbXsWZ|
+
+"weighted"
+# weighted average  (NOUN) : AbXsW ]jWAwD
+# weighted percent  (NOUN) : AbXsWIwI
+
+"what"
+# what if analysis  (NOUN) : QlWz| RsDUfA
+
+"wheel"
+# wheel printer  (NOUN) : ^s|I W|DUlcA|
+
+"where"
+# where clause  (NOUN) : whereXfI
+# where used  (NOUN) : UbWrWZf
+
+"where-used"
+# where-used pegging  (NOUN) : UbWrWZf AzDAf ZsXfA
+
+"while"
+# while statement  (NOUN) : while QsD
+
+"while/end"
+# while/end  (NOUN) : while/end
+
+"whole"
+# whole database  (NOUN) : XfDZg GgW|\b RgW|Uz
+# whole number  (NOUN) : XfWUs
+
+"wide"
+# Wide Area Network  (NOUN) : AlbWWjA Dg\zWsf[z
+# Wide Area Telephone Service  (NOUN) : AlbWWjA XfD^lb UfR|Uz
+
+"wide"
+# Wide Area Network  (NOUN) : WsfDAfI| \lWU|DQbW
+
+"wide-area"
+# Wide-Area Network  (NOUN) : WsfDAfI| \lWU|DQbW
+
+"width"
+# width  (NOUN) : ]lA
+
+"wiener-levinson"
+
+"wild-card"
+# wild-card character  (NOUN) : WlbW|IGz [bGz QsDXb
+
+"wildcard"
+# wildcard character  (NOUN) : WlbW|IGz[bGz QsDXb
+
+"willful"
+# willful intercept  (NOUN) : AlWz|XfA AbIlZcA|
+
+"williams"
+# williams tube  (NOUN) : Ws|II|WbQUz AlbD
+
+"win"
+# win NUM1 (NOUN) : [(NMODS [Ws|D<NOUN>]) NUM1]
+
+"window"
+# window  (NOUN) : Ws|DGlWs
+# window NUM1 (NOUN) : [(NMODS [Ws|DGlWsXz<NOUN>]) NUM1]
+# window border  (NOUN) : Ws|DGlWs AjWAk
+# window class  (NOUN) : Ws|DGlWs GzWAzR
+# window coordinates  (NOUN) : ZbW Xlb]rAk
+# window field  (NOUN) : Ws|DGlWs ]|IGz
+# window intercept  (NOUN) : Ws|DGlWs AbIlZcA|
+# window left/right  (NOUN) : Wl|DYlA/WlIzDYlA WjIIbQ
+# Window list  (NOUN) : Ws|DGlWs W|IIbQ]r
+# window management  (NOUN) : Ws|DGlWs AlbDI|
+# window procedure  (NOUN) : Ws|DGlWs XfIZb
+# window rectangle  (NOUN) : X|AUbAbA^jW Ws|DGlWs
+# window size  (NOUN) : Ws|DGlWs [zA|
+# window style  (NOUN) : Ws|DGlWs Uz\bW|I
+# window title  (NOUN) : Ws|DGlWs XgQlA
+# windows NUM1 (NOUN) : [(NMODS [Ws|DGlWsXz<NOUN>]) NUM1]
+
+"windowed"
+# windowed application  (NOUN) : ZbW UbWrW XfAWrWWfRQs
+# windowed session  (NOUN) : ZbW UbWrW UgUjD
+
+"windowing"
+# windowing  (NOUN) : Ws|DGlWs XlXbA
+
+"wip"
+# WIP  (NOUN) : XcAlW]sQ
+# WIP cost accounting  (NOUN) : XcAlW]sQ WsfDAb ^l|Ak
+# WIP management and activity control  (NOUN) : XcAlW]sQ AlbDI| Q|Z XbAWfR XgWf
+
+"wire"
+# wire  (NOUN) : XfDUfD
+# wire printer  (NOUN) : WlbW|Wf W|DUlcXbWZ|
+# wire tapping  (NOUN) : GlZfW
+
+"wiring"
+# wiring board  (NOUN) : RcUfD]bD
+
+"with"
+# with statement  (NOUN) : with QsD
+
+"withdraw"
+# withdraw  (NOUN) : Zs|Ul
+
+"word"
+# word  (NOUN) : GbDWf
+# word boundary  (NOUN) : GbDWf AjWAk
+# Word Buffer  (NOUN) : GbDWf Rf]f XbWZ|
+# word length  (NOUN) : GbDWf A|IW|
+# word mark  (NOUN) : GbDWf ]rU|
+# word operand  (NOUN) : GbDWf ]|WjDUbDXb
+# word spill  (NOUN) : GbDWf DfQZ|Q W|GlW
+# word time  (NOUN) : GbDWf U|AbD
+# word wrap  (NOUN) : GbDWf Gl|GlII|A|
+# word 97 (NOUN) : WsfGz 97
+
+"word-organized"
+# word-organized storage  (NOUN) : GbDWf AsUfW A|WfAXbWZ|
+
+"words"
+# words per minute  (NOUN) : GbDWf/RsD
+
+"work"
+# graphics work (NOUN) : AzIc]|A XbAWfR
+# work  (NOUN) : XbAWfR
+# work area  (NOUN) : XbAWfR WjWWjA
+# work area item  (NOUN) : XbAWfR WjWWjA ^bWQlA
+# work center  (NOUN) : XbAWfRXbW
+# work center base values  (NOUN) : XbAWfRXbW A|XsDZ|
+# work center capacity  (NOUN) : XbAWfRXbW AlWXfW DzWIjA
+# work center costs  (NOUN) : XbAWfRXbW WsfDAb
+# work center load  (NOUN) : XbAWfRXbW Rs^b
+# work center master  (NOUN) : XbAWfRXbW QbUz\f ]bW|I
+# work cylinder  (NOUN) : XbAWfR U|II|DGf
+# work drive  (NOUN) : XbAWfR AsGlWXbWZ|
+# work file  (NOUN) : XbAWfR ]bW|I
+# work flow  (NOUN) : XbAWfR ^zIzQ
+# work folder  (NOUN) : XbAWfR ]lIGf
+# work item  (NOUN) : XbAWfR ^bWQlA
+# work list horizon  (NOUN) : XbAWfR W|IIbQ]r A|AbD
+# work list initialization  (NOUN) : XbAWfR W|IIbQ]r ZlA| UfIXfW
+# work list priority  (NOUN) : XbAWfR W|IIbQ]r WsUfD UsDWs|
+# work load  (NOUN) : XbAWfR Rs^b
+# work load extract  (NOUN) : XbAWfR Rs^b RbIZsg
+# work load file  (NOUN) : XbAWfR Rs^b ]bW|I
+# work load level  (NOUN) : XbAWfR Rs^b UsXsD
+# work load manager  (NOUN) : XbAWfR Rs^b AlbDI| ]zIlAzIcQ
+# work managment  (NOUN) : XbAWfR AlbDI|
+# work order  (NOUN) : XbAWfR X|U|
+# work queue  (NOUN) : XbAWfR GcA|^cWIjI
+# work queue entry  (NOUN) : XbAWfR GcA| ^bWQlA
+# work record  (NOUN) : XbAWfR Ig[lGz
+# work scheduling data (NOUN) : XbAWfR Uz[gXwII|W GgW|\b
+# work session  (NOUN) : XbAWfR UgUjD
+# work session control record  (NOUN) : XbAWfR UgUjD XgWf Ig[lGz
+# Work Sheet Formats  (NOUN) : XbAWfR]r ^jWU|A
+# work space  (NOUN) : XbAWfR AlWAbD
+# work storage  (NOUN) : XbAWfRWrW A|WfA WjWWjA
+# work track  (NOUN) : XbAWfR \zIcA
+# work unit  (NOUN) : XbAWfR GbDWs|
+# work volume  (NOUN) : XbAWfRIdW
+# year 2000 work (NOUN) : 2000DjD XbAWfR
+
+"work-in"
+# work-in process  (NOUN) : XcAlW]sQ
+# work-in process inventory  (NOUN) : XcAlW]sQ XcAl
+
+"work-in-porcess"
+# Work-In-Porcess  (NOUN) : XcAlW]sQ
+
+"work-session-initiation"
+# work-session-initiation processing level  (NOUN) : XbAWfR UgUjD U|XbA ZfI| UsXsD
+
+"workday"
+# workday  (NOUN) : XbAWfRW|I
+
+"workentry"
+# workentry  (NOUN) : XbAWfR ^bWQlA
+
+"working"
+# working directory  (NOUN) : UbWWrW GzWIlARs
+# working diskette  (NOUN) : XbAWfR G|Uz[gU
+# working display  (NOUN) : XbAWfR ^lbQjD
+# working draft  (NOUN) : XbAWfR ZlWbD
+# working memory  (NOUN) : XbAWfR A|WfAWjWWjA
+# working set  (NOUN) : Ww^r ]gW|X| Ug\z
+# working storage  (NOUN) : XbAWfRWrW A|WfA WjWWjA
+
+"working-storage"
+# working-storage section  (NOUN) : XbAWfRWrW A|WfA XbWUl AsWjA
+
+"workplace"
+# workplace  (NOUN) : XbAWfR AsWjA
+# workplace  (NOUN) : XbAWfR XbWUl
+
+"worksheet"
+# worksheet  (NOUN) : XbAWfR WrWX|
+
+"workshop"
+# workshop exercises  (NOUN) : U|IUzR WjDUzRQsDXg
+
+"workspace"
+# workspace  (NOUN) : XbAWfR AlWAbD
+
+"workstation"
+# workstation  (NOUN) : Wsf[zUz\gW|UjD
+# workstation address  (NOUN) : Wsf[zUz\gW|UjD XsUl
+# workstation address switches  (NOUN) : Wsf[zUz\gW|UjD XsUl UzWs|Z|
+# Workstation Control Expansion  (NOUN) : Wsf[zUz\gW|UjD XgWf A|As ^lbAXbW
+# workstation controller  (NOUN) : Wsf[zUz\gW|UjD XgWfA|
+# workstation data management  (NOUN) : Wsf[zUz\gW|UjD XbIr AlbDI|
+# workstation entry  (NOUN) : Wsf[zUz\gW|UjD ^bWQlA
+# workstation expansion feature  (NOUN) : Wsf[zUz\gW|UjD ^lbAXbW A|DzW
+# workstation ID  (NOUN) : Wsf[zUz\gW|UjD ID
+# workstation message queue  (NOUN) : Wsf[zUz\gW|UjD QgUgX| GcA|^cWIjI
+# workstation printer  (NOUN) : Wsf[zUz\gW|UjD ]zI|D\f
+# Workstation System  (NOUN) : Wsf[zUz\gW|UjD U|Uz\gQ
+# workstation user  (NOUN) : Wsf[zUz\gW|UjD UbWrWXb
+# workstation user profile  (NOUN) : Wsf[zUz\gW|UjD UbWrWXb ]zIl]bW|I
+# WorkStation Utility  (NOUN) : Wsf[zUz\gW|UjD Ww\|II|\|
+
+"world"
+# World coordinate  (NOUN) : Xlb]rZsA
+# world coordinates  (NOUN) : UgAk Xlb]rAk
+# world coordinates  (NOUN) : Xlb]rZsA
+# World Trade Telegraph Adapter  (NOUN) : XfDU|D XbWZ| XfRUlAA|
+# World Trade Telegraph Double Current Line Adapter  (NOUN) : XfDU|DXbWZ| RlAIw^l|UfD XfRUlAA|
+# World Trade Telegraph Double Current Line Set  (NOUN) : XfDU|DXbWZ| RlAIw^l|UfD Ug\z
+# World Trade Telegraph Double Current Line Set Expander  (NOUN) : XfDU|DXbWZ| RlAIw^l|UfD Ug\z ^lbAXbW A|As
+# World Trade Telegraph Line Adapter  (NOUN) : XfDU|DXbWZ| ^l|UfD XfRUlAA|
+# World Trade Telegraph Line Speed Option  (NOUN) : XfDU|DXbWZ| ^l|UfDUlAGl X|XfW A|As
+# World Trade Telegraph Single Current Line Adapter  (NOUN) : XfDU|DXbWZ| GbDIw^l|UfD XfRUlAA|
+# World Trade Telegraph Single Current Line Set  (NOUN) : XfDU|DXbWZ| GbDIw^l|UfD Ug\z
+# World Trade Telegraph Single Current Line Set Expander  (NOUN) : XfDU|DXbWZ| GbDIw ^l|UfD Ug\z ^lbAXbWA|As
+# World Trade Telegraph Terminal Control  (NOUN) : XfDU|DXbWZ| GbDQbI XgWf A|As
+
+"world-coordinate"
+# world-coordinate space  (NOUN) : UgAk Xlb]r AlWAbD
+
+"wrap"
+# wrap  (NOUN) : IcR
+# wrap around  (NOUN) : IcR WfIbWsDGz
+# wrap around format  (NOUN) : IcR WfIbWsDGz ^jWU|A
+# wrap around list  (NOUN) : IcR WfIbWsDGz I|Uz\z
+# wrap connector  (NOUN) : IcR XfRUlAA|
+# wrap mode  (NOUN) : IcR QlGz
+# wrap point  (NOUN) : IcR X|XfQ
+# wrap spool file  (NOUN) : IcR Uz]sI ]bW|I
+# wrap test  (NOUN) : IcR AfQUb
+# wrap test messages  (NOUN) : IcR U|^fQ QgUgX|
+# wrap test personal patterns  (NOUN) : IcR AfQUb AcW|DWrW ]c\fD
+
+"wrap-around"
+# wrap-around field  (NOUN) : IcR WfIbWsDGz ]|IGz
+
+"wrapped"
+# wrapped line  (NOUN) : IcRGl|D ^cW
+
+"wrapping"
+# wrapping  (NOUN) : IcR]|W
+
+"writable"
+# Writable Character Generation Module  (NOUN) : VzA|AbDzW QsDXb UcWUfW QlGwI
+# writable character generation storage  (NOUN) : VzA|AbDzW QsDXb UcWUfW A|WfAXbWZ|
+# Writable Control Storage  (NOUN) : VzA|AbDzW XgWf A|WfAXbWZ|
+
+"write"
+# write check  (NOUN) : A|IlA AfQUcA
+# write command  (NOUN) : write QjWIjW
+# write control character  (NOUN) : A|IlA XgWf QsDXb
+# write cycle time  (NOUN) : A|IlA XsA| U|AbD
+# write down  (NOUN) : XfAWfGsGb
+# write enable ring  (NOUN) : A|IlA ^fWrW I|W
+# write fault  (NOUN) : VzA| AjI^bQ
+# write format release  (NOUN) : A|IlA WdWU|A ^cXgA|DzW
+# write head  (NOUN) : A|IlA ^gGz
+# write inhibit  (NOUN) : A|IlA AzQX|
+# write inhibit switch  (NOUN) : A|IlA AzQX| UzWs|Z|
+# write only  (NOUN) : A|IlA XfDWrW
+# Write Only Tape Control  (NOUN) : A|IlA XfDWrW \gW|]z XgWfA|As
+# write protect  (NOUN) : A|IlA RbWX|
+# write protect plug  (NOUN) : A|IlA RbWZ| ]zIIfAz
+# write protection  (NOUN) : VzA| Rl^l
+# write request element  (NOUN) : A|IlA WrAs WrUl
+
+"write-enable"
+# write-enable ring  (NOUN) : A|IlA-^fWrW I|W
+# write-enable sensor  (NOUN) : A|IlA-^fWrW AbQX|A|
+
+"write-operation"
+# write-operation  (NOUN) : VzA| XbAWfR
+
+"write-protected"
+# write-protected  (NOUN) : VzA| Rl^lGl|D
+
+"write-to-operator"
+# write-to-operator  (NOUN) : Wl]fIgW|\f RlAl
+
+"writing"
+# writing  (NOUN) : A|IlA
+# writing task  (NOUN) : VzA| \bUz[z
+
+"wrong"
+# wrong diskette  (NOUN) : XbIQlUGl|D G|Uz[gU
+# wrong length bit  (NOUN) : \zII|D A|IW| R|\z
+# wrong order  (NOUN) : XbIQlUGl|D UsDUf
+
+"wru"
+
+"wsc"
+# WSC  (NOUN) : Wsf[zUz\gW|UjD XgWfA|As
+
+"wsf"
+# WSF  (NOUN) : WSF
+
+"wsu"
+# WSU display  (NOUN) : WSU ^lbQjD
+
+"wsu-generated"
+# WSU-generated procedure  (NOUN) : WSU UcWUfW XfIZb
+
+"wt"
+# WT Modem  (NOUN) : RjDRlAXlA|
+
+"wxtrn"
+# WXTRN  (NOUN) : U|I^cWU| Wl|Rs ZbQXl

@@ -1,0 +1,360 @@
+
+"label"
+# acceptance label (NOUN) : AfQUb ^bRAjAXzW
+
+"labor"
+# indirect labor (NOUN) : AbDXfR XbAWfR
+
+"laboratories"
+# precision between different laboratories (NOUN) : U|IAbD XsDXfWGl
+# Underwriters' Laboratories (NOUN) : UL
+# accreditation of laboratories (NOUN) : U|^fQ AfQUb A|AlbDWz| W|DXfW
+# permissible tolerance between different laboratories (NOUN) : U|IAbD ^fWrWZb
+# overall precision between different laboratories (NOUN) : U|IAbD XfWGl
+# overall precision between different laboratories (NOUN) : U|I^fQU|IAbD XfWGl
+# permissible tolerance between different laboratories (NOUN) : U|I^fQU|IAbD ^fWrWZb
+# overall precision between different laboratories (NOUN) : U|I^fQU|IAbD XlW^bR XfWGl
+# precision between different laboratories (NOUN) : U|I^fQU|IAbD XsDXfWGl
+
+"laboratory"
+# permissible tolerance within same laboratory (NOUN) : U|IDc ^fWrWZb
+# precision within same laboratory (NOUN) : U|IDc XfWGl
+# precision within the same laboratory (NOUN) : U|I^fQU|IDc XfWGl
+# permissible tolerance within the same laboratory (NOUN) : U|I^fQU|IDc ^fWrWZb
+
+"lag"
+# time lag (NOUN) : \bW|QIcAz
+
+"lambda"
+# lambda (NOUN) : IbQGb
+# Wilk's lambda (NOUN) : Ws|I[zWz| IbQGb
+
+"lamp"
+# reflector type high pressure mercury lamp (NOUN) : RbDUb^jW AlWbR UsWzD IcQ]z
+# metal halide lamp (NOUN) : Qg\bI ^bII|Gz IcQ]z
+# fluorescent lamp (NOUN) : ^jWAlbW IcQ]z
+# discharge lamp (NOUN) : RbWXfD IcQ]z
+# reflector lamp (NOUN) : RbDUb^jW XfDAs
+# mercury lamp (NOUN) : UsWzD IcQ]z
+# tungsten halogen lamp (NOUN) : ^bIIlAgD XfDAs
+# fluorescent high pressure mercury vapour lamp (NOUN) : ^jWAlbW AlWbR UsWzD IcQ]z
+# reflector type high pressure mercury vapor lamp (NOUN) : RbDUb^jW AlWbR UsWzD XzWA| IcQ]z
+# fluorescent high pressure mercury vapour lamp (NOUN) : ^jWAlbW UsWzD IcQ]z
+# high pressure mercury lamp (NOUN) : AlWbR UsWzD IcQ]z
+# low pressure sodium lamp (NOUN) : XfWbR Db\zIwQ IcQ]z
+# high output fluorescent lamp (NOUN) : AlZsIIjA ^jWAlbW IcQ]z
+# ballast of a discharge lamp (NOUN) : RbWXfD IcQ]zWz| RcIIfUz\z
+# incandescent lamp (NOUN) : RcAWjI XfDAs
+# self-ballasted mercury lamp (NOUN) : WbDXfWA| DcXbW^jW AlWbRUsWzD IcQ]z
+# starter of a discharge lamp (NOUN) : RbWXfD IcQ]zWz| U|GlWA|
+# high-intensity discharge lamp (NOUN) : HID IcQ]z
+# xenon lamp (NOUN) : XgDlD IcQ]z
+# gas-filled lamp (NOUN) : AbUz RsWW|R XfDAs
+# extra-high output fluorescent lamp (NOUN) : Zl AlZsIIjA ^jWAlbW IcQ]z
+# electroluminescent lamp (NOUN) : W|IIgA\zIlIsQ|DgUzD\z IcQ]z
+# self-ballasted mercury lamp (NOUN) : WbDXfWA| DcXbW^jW UsWzD IcQ]z
+# high pressure sodium lamp (NOUN) : AlWbR UlG|WfQ IcQ]z
+
+"language"
+# simulation language (NOUN) : U|QwIIgW|UjD WfDWf
+# programming language (NOUN) : ]zIlAzIcQ|W WfDWf
+
+"lathe"
+# lathe (NOUN) : UfDRbD
+
+"law"
+# law (NOUN) : RfRZ|A
+# Export Inspection Law (NOUN) : UsZsI AfQUbRfR
+# Coulomb's law (NOUN) : [sWsIIlWWz| RfRZ|A
+# Food Sanitation Law (NOUN) : U|A]sQ Ws|UcWRfR
+# Measurement Law (NOUN) : AkIdWRfR
+# Poisonous and Deleterious Substances Control Law (NOUN) : GlAAzAQsIAlb Ww^c QsIX|I AlbDI|RfR
+# Air Pollution Control Law (NOUN) : GcA| WlWjQ RbWX|RfR
+# Pharmaceutical Affairs Law (NOUN) : WdAUbRfR
+# Avogadro's law (NOUN) : WbRlAbGzIlWz| RfRZ|A
+# Lanbert's law (NOUN) : IcDRf\zWz| RfRZ|A
+# Biot-- Savart's law (NOUN) : RbW|WlU-UbRbIz\zWz| RfRZ|A
+# Charle's law (NOUN) : ZdII|Wz| RfRZ|A
+# Household Goods Labelling Law (NOUN) : AbWjDWrW]sQ ]sQX|I ]rU|RfR
+# Road Traffic Law (NOUN) : GlIl Ar\lWRfR
+# Fire Service Law (NOUN) : UlRbWRfR
+# Building Standard Law (NOUN) : AfDUfI A|XsDRfR
+# Consumer Products Safety Law (NOUN) : UlR| UcW^lbIWrW Xg]sQ WbDXfDRfR
+# Ohm's law (NOUN) : WlQWz| RfRZ|A
+# Consumer Protection Basic Law (NOUN) : UlR|Xb Rl^l A|RlDRfR
+# Boyle's law (NOUN) : RlW|IWz| RfRZ|A
+# Gas Utility Industry Law (NOUN) : AbUz UbWfRUl
+# Water Pollution Control Law (NOUN) : UsX|I WlWjQ RbWX|RfR
+# Electrical Appliance and Material Law (NOUN) : XfDA| WrW]sQ Zs|AzRWg AlbD^bD RfR
+# Electricity Utility Industry Law (NOUN) : XfDA| UbWfRRfR
+# Industrial Safety and Health Law (NOUN) : DlGlW WbDXfD^sUcWRfR
+# Raoult's law (NOUN) : IbWsI\zWz| RfRZ|A
+# Fourier's law (NOUN) : ]sI|WgWz| RfRZ|A
+# Faraday's law (NOUN) : ]cIfGgW|Wz| RfRZ|A
+# Stephan-- Boltzman's law (NOUN) : Uz\g]bD-RlIZzQbDWz| RfRZ|A
+# Joul's law (NOUN) : XsWsIWz| RfRZ|A
+# Industrial Standardization Law (NOUN) : AlWWfR ]rXsD^lbRfR
+# Dalton's law (NOUN) : GbI\zDWz| RfRZ|A
+# Vibration Regulation Law (NOUN) : X|DGlW AwXgRfR
+# Ampere's circuital law (NOUN) : WbQ]gWfWz| ^l|IlWz| RfRZ|A
+# Noise Regulation Law (NOUN) : UlWzQ AwXgRfR
+# Kirchhoff's law (NOUN) : [|IzZ|^l]zWz| RfRZ|A
+# Kirchhoff's law (NOUN) : [|IzZ|^l]zWz| RfRZ|A
+# High Pressure Gas Control Law (NOUN) : 
+
+"layoff"
+# layoff (NOUN) : IgW|Wl]z
+
+"layout"
+# multi-way layout (NOUN) : GbWsfD RcZ|
+# plant layout (NOUN) : UfIR| RcZ|
+# two-way layout (NOUN) : W|WsfD RcZ|
+# one-way layout (NOUN) : W|IWsfD RcZ|
+
+"leadership"
+# leadership (NOUN) : I|GfUs|R
+
+"learning"
+# learning (NOUN) : ^bAUzR
+# learning (NOUN) : ^bAUzRUfW
+
+"lemma"
+# Neyman Pearson's lemma (NOUN) : DlW|QbD ]|WfUzDWz| XfWI|
+# Neyman-- Pearson's lemma (NOUN) : DlW|QbD-]|WfUzDWz| XfWI|
+
+"length"
+# scale length (NOUN) : DsDAzQ A|IW|
+# path length (NOUN) : AjWIlWz| A|IW|
+# sample length (NOUN) : 
+
+"letter"
+# code letter (NOUN) : UcQ]zI QsDXb
+# sample letter (NOUN) : U|Ir QsDXb
+
+"level"
+# cleanliness level (NOUN) : ZfWXfWGl IgRgI
+# acceptable reliability level (NOUN) : ARL
+# confidence level (NOUN) : U|DIl| UsXsD
+# quality of certified level (NOUN) : RlXzW ]sQX|I
+# dummy level (NOUN) : AbUbW UsXsD
+# inventory level (NOUN) : XcAl UsXsD
+# control level (NOUN) : AlbDI| UsXsD
+# inspection level (NOUN) : AfQUb UsXsD
+# level (NOUN) : AgW|QWz| UsXsD
+# M level (NOUN) : M UsXsD
+# quality level (NOUN) : ]sQX|I UsXsD
+# acceptable reliability level (NOUN) : ^bRAjA U|DIl|UfW UsXsD
+# confidence level (NOUN) : U|DIl|Gl UsXsD
+# acceptable quality level (NOUN) : AQL
+# standard inventory level (NOUN) : A|XsD XcAlIdW
+# noise level (NOUN) : XbRWzQ IgRgI
+# failure rate level (NOUN) : AlXbWIwI UsXsD
+# quality of certified level (NOUN) : RlXzW UsXsD
+# level (NOUN) : UsXsD
+# significance level (NOUN) : WwWz| UsXsD
+# acceptable quality level (NOUN) : ^bRAjA ]sQX|I UsXsD
+# significance level (NOUN) : Ws|^fQIwI
+# level (NOUN) : UsXsDA|
+
+"leveling"
+# leveling (NOUN) : UsXsD ZzAIdW
+
+"leverage"
+# leverage (NOUN) : IgRfI|X|
+
+"liability"
+# strict liability (NOUN) : WfQAjA ZcAW|Q
+# negligence liability (NOUN) : AlbU|I ZcAW|Q
+# product liability (NOUN) : Xg]sQ ZcAW|Q
+# liability (NOUN) : IbW|WfR|II|\|
+# product liability (NOUN) : XgXlQsI RcUbW ZcAW|Q
+# product liability (NOUN) : XgXlQsI ZcAW|Q
+# product liability (NOUN) : UcWUbDQsI RlUbW ZcAW|Q
+# product liability (NOUN) : ]zIlGfA\z IbW|WfR|II|\|
+# product liability (NOUN) : PL
+
+"life"
+# cycle life (NOUN) : UbW|[zI UsQjW
+# shelf life (NOUN) : RlAlbD UsQjW
+# rated life (NOUN) : XfWAjA UsQjW
+# useful life (NOUN) : AbWrW UsQjW
+# mean life (NOUN) : Q|D IbW|]z
+# quality of working life (NOUN) : QWL
+# life (NOUN) : UsQjW
+# reliable life (NOUN) : U|DIl| UsQjW
+
+"light"
+# light (NOUN) : AlbW
+# quantity of light (NOUN) : AlbWIdW
+
+"lighting"
+# semi-indirect lighting (NOUN) : RbD AbDXfR XlQjW
+# indirect lighting (NOUN) : AbDXfR XlQjW
+# mixed lighting (NOUN) : ^lDAlbW XlQjW
+# semi-direct lighting (NOUN) : RbD X|AXfR XlQjW
+# localized lighting (NOUN) : AsARs XlQjW
+# general lighting (NOUN) : XfDRbD XlQjW
+# direct lighting (NOUN) : X|AXfR XlQjW
+
+"lignite"
+# brown coals and lignite (NOUN) : AbI\bD
+
+"likelihood"
+# likelihood (NOUN) : WwUbGl
+
+"limit"
+# action limit (NOUN) : ZfZ| ^bDAk
+# upper control limit (NOUN) : UbWRbW AlbDI| ^bDAk
+# specification with upper and lower limit (NOUN) : WdWZzAAwAjA
+# probability limit (NOUN) : ^lbAIwI ^bDAk
+# lower control limit (NOUN) : AlbDI| ^b^bDUfD
+# lower control limit (NOUN) : AlbDI| ^b^bDUfD
+# lower control limit (NOUN) : LCL
+# compressed limit (NOUN) : WbRZsA^bDAk
+# warning limit (NOUN) : AjWAk ^bDAk
+# lower specification limit (NOUN) : 
+# outer control limit (NOUN) : Wl|Rs AlbDI| ^bDAk
+# lower specification limit (NOUN) : 
+# confidence limit (NOUN) : U|DIl| ^bDAk
+# average outgoing quality limit (NOUN) : AOQL
+# specification limit (NOUN) : AwAjA ^bDAk
+# specification with lower limit (NOUN) : 
+# inner control limit (NOUN) : DcZzA AlbDI| ^bDAk
+# upper specification limit (NOUN) : UbWWs| AwAjA ^bDAk
+# upper specification limit (NOUN) : UbWWs| AwAjA ^bDAk
+# specification with upper limit (NOUN) : UbW^bDUfD AwAjA
+# upper control limit (NOUN) : UCL
+# specification limit (NOUN) : U|RbW ^bDAk
+# average outgoing quality limit (NOUN) : ]jWAwD ZsIAfQ ]sQX|I ^bDAk
+# explosion limit (NOUN) : ]lARbI ^bDAk
+# control limit (NOUN) : AlbDI| ^bDAk
+# control limit (NOUN) : AlbDI| ^bDAkUfD
+# method of compressed limit (NOUN) : WbRZsA^bDAkRfR
+# inflammable limit (NOUN) : AbWjD ^bDAk
+# three sigma limit (NOUN) : 3 U|AzQb ^bDAk
+# tolerance limit (NOUN) : ^fWrW AsAbD
+# tolerance limit (NOUN) : ^fWrW ^bDAkZ|
+# production process regulation limit (NOUN) : UcWUbD AlWXfW XlXfI ^bDAk
+# upper control limit (NOUN) : AlbDI| UbW^bDUfD
+
+"line"
+# acceptance line (NOUN) : ^bRAjA ]bDXfWUfD
+# regression line (NOUN) : ^l|As| X|AUfD
+# graduation line (NOUN) : DsDAzQUfD
+# mixed products line (NOUN) : ^lD^bR ]sQXlW IbW|D
+# central line (NOUN) : XsWU|QUfD
+# regression line (NOUN) : ^l|As|UfD
+# production line (NOUN) : AlWXfW ]jDUfW
+# low-tension distribution line (NOUN) : XfWbR RcXfDUfD
+# overhead electric line (NOUN) : AbAlW XfDUfDIl
+# high-tension distribution line (NOUN) : AlWbR RcXfDUfD
+# control line (NOUN) : AlbDI|UfD
+# extra high tension distribution line (NOUN) : \zA AlXfDWbR RcUfD
+# underground electric line (NOUN) : X|XsW XfDUfDIl
+# assembly line (NOUN) : W|IAlbD XbAWfR
+# distribution line (NOUN) : RcXfD UfDIl
+# assembly production line (NOUN) : XlI|R AlWXfW
+
+"linear"
+# linear (NOUN) : X|AUfDUfW
+# linear (NOUN) : X|AUfDUfW
+
+"linearity"
+# linearity (NOUN) : X|AUfDUfW
+
+"lint-free"
+# lint-free (NOUN) : I|D\z-]zI|
+# lint-free (NOUN) : I|D\z-]zI|
+
+"Lique"
+# Law Concerning the Securing of Safety and Optimization of Transaction of Lique (NOUN) : LPGRfR
+
+"liquid"
+# contaminated liquid (NOUN) : WlWjQ WcAZg
+# saturated liquid (NOUN) : ]l^lb WcAZg
+
+"liquor"
+# pulp spent liquor (NOUN) : 
+
+"list"
+# drawing check list (NOUN) : 
+# order list (NOUN) : RbIXs]r
+# check list (NOUN) : Zg[z I|Uz\z
+
+"load"
+# peak load (NOUN) : ]|[z Rs^b
+# refractoriness under load (NOUN) : ^bXsW WjD^bXfQ
+# economical load (NOUN) : AjWXg Rs^b
+# middle load (NOUN) : XsWAbD Rs^b
+# maximum load (NOUN) : Zl|Gc Rs^b
+# inductive load (NOUN) : WwGl Rs^b
+# work load (NOUN) : Rs^b AlAUfD
+# base load (NOUN) : A|Xf Rs^b
+# condensive load (NOUN) : X|DUbW Rs^b
+
+"loading"
+# loading (NOUN) : Rs^bU|
+# factor loading (NOUN) : W|DXb Rs^bIdW
+
+"location"
+# first work location (NOUN) : UfDGs XbAWfR Ws|Z|
+
+"lock"
+# air lock (NOUN) : WgWfIlA
+# air lock (NOUN) : WgWfIlA
+
+"log-transformation"
+# log-transformation (NOUN) : IlAz RjD^lbD
+
+"logistics"
+# logistics (NOUN) : IlX|Uz\|AUz
+# business logistics (NOUN) : R|XzD|Uz IlX|Uz\|AUz
+
+"logit"
+# minimum logit (NOUN) : Zl|Ul IlX|\z
+
+"loss"
+# transmission loss (NOUN) : UlWXfD UlDU|I
+# core loss (NOUN) : ZfIU|QUlD
+# ohmic loss (NOUN) : Xf^bW UlDU|I
+# heat loss (NOUN) : UlDU|IWjI
+# stray load loss (NOUN) : ]rWw Rs^b UlDU|I
+# head loss (NOUN) : UlDU|I UsGs
+# mechanical loss (NOUN) : A|AkWsfD
+# no-load loss (NOUN) : QsRs^b UlDU|I
+# load loss (NOUN) : Rs^bWwI
+# shortage loss (NOUN) : ]sQXfI UlDU|I
+# distribution loss (NOUN) : RcXfD UlDU|I
+# obsolescence loss (NOUN) : X|DRs^lb UlDU|I
+# copper loss (NOUN) : GlW(AsI|) UlDU|I
+
+"lot"
+# lot (NOUN) : ]|IX|
+# lot (NOUN) : ]|IX|
+# inspection lot (NOUN) : AfQUb Ib\z
+# treatment for nonacceptance lot (NOUN) : RsI^bRAjA WjWWjA
+# moving lot (NOUN) : W|GlW ]|IX|
+# lot (NOUN) : IbU
+# lot (NOUN) : ]|IX|
+# disposal of lot (NOUN) : IbUWz| UfIZ|
+# lot (NOUN) : ]|IX|
+
+"louver"
+# louver (NOUN) : IsWsRf
+
+"luminaire"
+# luminaire (NOUN) : XlQjW A|As
+# light output ratio of a luminaire (NOUN) : A|As ^rWwI
+# narrow angle luminaire (NOUN) : ^jRUl^jW A|As
+# narrow angle luminaire (NOUN) : ^jRXl^jW XlQjWA|As
+# angle luminaire (NOUN) : AbAXl^jW XlQjW A|As
+# wide angle luminaire (NOUN) : AlbWXl^jW A|As
+# wide angle luminaire (NOUN) : AlbWXl^jW XlQjW A|As
+# angle luminaire (NOUN) : AbAXl^jW A|As
+
+"luminance"
+# luminance (NOUN) : ^s|Gl
+
+"luminescence"
+# luminescence (NOUN) : IsQ|DgUgDUz
+

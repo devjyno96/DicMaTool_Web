@@ -1,0 +1,1543 @@
+"Jan"
+% TIME
+(1 WsfI)
+
+"Jan."
+% CONCRETE TIME MATERIAL 
+(1 WsfI)
+
+"January"
+% CONCRETE TIME MATERIAL 
+(1 WsfI)
+
+
+"Japan"
+% PLACE ORGAN
+(W|IRlD)
+
+"Japanese"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|IRlDW|D)
+# Japanese stock (NOUN) : W|IRlD XzWU|
+
+"Java"
+(XbRb)
+
+"Jazz"
+(XcXz)
+
+"Jerusalem"
+(WkIsUbIIgQ)
+
+"Jesus"
+% CONCRETE MATERIAL HUMAN
+(WkUs)
+
+"Jew"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwGcW|D)
+
+"Jewess"
+% HUMAN
+(WjXbWwGcW|D)
+
+"Jewry"
+% HUMAN
+(WwGc UbIbQ)
+
+"Jill"
+% HUMAN
+(X|I)
+
+"John"
+% HUMAN
+(XrD)
+
+"Johnson"
+% HUMAN
+(XlDUzD)
+
+"Jordan"
+% PLACE ORGAN
+(WrIzGbD)
+
+"Joseph"
+% HUMAN
+(WrUgR)
+
+"Juda"
+% HUMAN
+(WwGb)
+
+"Judah"
+% HUMAN
+(WwGb)
+# Judah ha-Levi (NOUN) : ^sGb WbIIgR|
+# Judah ha-Nasi (NOUN) : WwGb ^bDbU|
+
+"Judahite"
+% HUMAN
+(WwGbXlA)
+
+"Judaica"
+% CONCRETE MATERIAL
+(Ww\c AlbDAkQsI)
+
+"Judaism"
+(Ww\cAr)
+
+"Judaist"
+% HUMAN
+(Ww\c ArGl)
+
+"Judas"
+% HUMAN
+(AbIlU WwGb)
+# Judas tree (NOUN) : UbWdWRbA\cA|
+
+"Judd"
+% HUMAN
+(XfGz)
+
+"July"
+% CONCRETE TIME MATERIAL 
+(7 WsfI)
+
+"June"
+% CONCRETE TIME MATERIAL 
+(6 WsfI)
+
+"Justice"
+(XfWWz|)
+
+"Justice Department"
+(RfRQsRs)
+
+"Justice investigators"
+(RfRQsRs XlUbAlbD)
+
+"jab"
+% MATERIAL ACTION
+(Y|IzA|)
+
+"jabber"
+% CONCRETE MATERIAL 
+(XcAbIAfI|Q)
+
+"jabberwock"
+(QsWz|Q|^bD W|WdA|)
+
+"jabberwocky"
+(QsWz|Q|^bD W|WdA|)
+
+"jabot"
+(XbRl)
+
+"jacaranda"
+(Xb[bIbDGb)
+
+"jacinth"
+% MATERIAL 
+(XfA^lbWUcA)
+
+"jack"
+% CONCRETE ANIMAL MATERIAL 
+(XcA)
+# cheap Jack (NOUN) : GlRsXbWUs
+# every Jack (NOUN) : W|AfU XfAfU QlGs
+# jack at a pinch (NOUN) : W|QU| AlWrWW|D
+# the Union Jack (NOUN) : WjWAsA AsAA|
+
+"jack-a-dandy"
+% HUMAN
+(QfUXbWW|)
+
+"jackal"
+% CONCRETE ANIMAL MATERIAL 
+(Xc[bI)
+
+"jackanapes"
+% HUMAN
+(AfDRbWX|DDlQ)
+
+"jackaroo"
+% HUMAN
+(]sUDbA| W|IAsD)
+
+"jackass"
+% CONCRETE ANIMAL MATERIAL 
+(UsUDbAs|)
+
+"jackboot"
+% CONCRETE ANIMAL MATERIAL 
+(XbW^lb)
+
+"jackdaw"
+% CONCRETE ANIMAL MATERIAL 
+(AbIAbQbAs|)
+
+"jacket"
+% CONCRETE MATERIAL 
+(Xb[gU)
+
+"jackhammer"
+% CONCRETE ANIMAL MATERIAL 
+(UsGlW ZbAWbQA|)
+
+"jackinabox"
+(XcAW|DWfGlAUz)
+
+"jackinofflce"
+% HUMAN
+(AfGzIzQRsI|DzD ^bAzR AlbDI|)
+
+"jackknife"
+% CONCRETE MATERIAL 
+(XcADbW|]z)
+
+"jacklight"
+(XlQjWGzW)
+
+"jackplane"
+(QbAGc]c)
+
+"jackpot"
+(]l[fWgUf AkUlA \cWsDzD GlD)
+
+"jackpudding"
+% HUMAN
+(AlbWGc)
+
+"jackscrew"
+% CONCRETE ANIMAL MATERIAL 
+(DbUbU|A XcA)
+
+"jacksnipe"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD GlWr)
+
+"jacksonian"
+(UfDUsA|Gc)
+
+"jackstone"
+(XbAWzD GlI HzD Ul|AsUzI)
+
+"jackstraw"
+(X|]W|D^jW)
+
+"jacobean"
+% HUMAN
+(XgW|QUz1Ug U|GcUbIbQ)
+
+"jacobin"
+% HUMAN
+(Xb[lRbW GbWWsfD)
+
+"jacobite"
+(Xb[lRbW|\z)
+
+"jacobus"
+(XgW|QUz1Ug U|GcWz| AzQ^lb)
+
+"jaconet"
+(WjIRWzD ^z|DQsQjW)
+
+"jactation"
+(XbIbW)
+
+"jactitation"
+(UbA|)
+
+"jade"
+% CONCRETE ANIMAL MATERIAL 
+(QbI)
+
+"jade"
+% CONCRETE ANIMAL MATERIAL 
+(R|Zs|)
+
+"jadeite"
+(AjWWlA)
+
+"jaeger"
+% CONCRETE ANIMAL MATERIAL 
+(GlGsAAbIQcA|)
+
+"jaegr"
+% ANIMAL
+(GlGsAAbIQcA|)
+
+"jag"
+% MATERIAL 
+(XbAWzD X|Q)
+
+"jager"
+% HUMAN
+(UbDdWAsD)
+
+"jaggery"
+(XlGbW)
+
+"jaguar"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(XcAwWf)
+
+"jail"
+% CONCRETE PLACE
+(AbQWlA)
+# destine for jail for PRESP (VERB) : [(ADJUNCT [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzIl) (MODS [AbQWlAWg<ADV>]) AbAgGl|<VERB>]/Gb
+# jail bait (NOUN) : WjUfW Q|UfWDjDXb
+
+"jailbird"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Xl|Us)
+
+"jailbreak"
+% MATERIAL ACTION
+(\bIWlA)
+
+"jailer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbDUs)
+
+"jailhouse"
+% CONCRETE ANIMAL MATERIAL PLACE
+(^jWQsUl)
+
+"jailor"
+% HUMAN
+(AbDUs)
+
+"jain"
+% HUMAN
+(XbW|DbArGl)
+
+"jaina"
+% HUMAN
+(XbW|DbArGl)
+
+"jake"
+% HUMAN
+(U|AlIHzA|)
+
+"jalap"
+(^bIIb]b)
+
+"jallopy"
+(DbIAWzD XbGlWZb)
+
+"jalopy"
+% CONCRETE ANIMAL MATERIAL 
+(DbIAWzD XbGlWZb)
+
+"jalousie"
+% CONCRETE MATERIAL 
+(RbI)
+
+"jam"
+% CONCRETE MATERIAL 
+(XcQ)
+# money for jam (NOUN) : ^l|WXc
+
+"jamaican"
+% HUMAN
+(XbQgW|[b UbIbQ)
+
+"jamb"
+% CONCRETE ANIMAL MATERIAL PLACE
+(HfGzIVfA^bD XbDZ|)
+
+"jamboree"
+% MATERIAL ORGAN
+(RlW|Uz[bWsU Gc^l|)
+
+"jangle"
+% MATERIAL 
+(DbDXl)
+
+"janissary"
+% HUMAN
+(\f[|Wz| AzDWs| RlRjW)
+
+"janite"
+% HUMAN
+(ZbDQ|Xb)
+
+"janitor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsDX|A|)
+
+"janitress"
+% HUMAN
+(WjXbXbRWjARs)
+
+"janizary"
+% HUMAN
+(\f[|Wz| AzDWs| RlRjW)
+
+"jansenism"
+% ART
+(WdDUgDWz| U|DXl)
+
+"january"
+% TIME
+(1 WsfI)
+# on Janunary NUM1 , NUM2 (PP) : (ADJUNCT [(NMODS [(NMODS NUM2) DjD<NOUN>]) (NMODS [1<NOUN>]) WsfI<NOUN>]) (NMODS NUM1) W|I<NOUN>]/Wg)
+
+"japanology"
+% ART
+(W|IRlD^bA)
+
+"japanophile"
+% HUMAN ANIMAL
+(Z|DW|I]b)
+
+"jape"
+% CONCRETE MATERIAL 
+(DlWGbQ)
+
+"japery"
+(DlWGbQ)
+
+"japonica"
+% PLANT
+(GlWRcA DbQs)
+
+"jar"
+% CONCRETE MATERIAL 
+(RjW)
+
+"jardiniere"
+(^lbRsD)
+
+"jarful"
+% CONCRETE MATERIAL 
+(RjW AbGzA)
+
+"jargon"
+% CONCRETE MATERIAL 
+(XfDQsDWrWWf)
+
+"jarl"
+% HUMAN
+(XlAXbW)
+
+"jarring"
+(S|AfAAfI|Q)
+
+"jarvey"
+% HUMAN
+(QbRs)
+
+"jasmin"
+% PLANT
+(XcUzQ|D)
+
+"jataka"
+(Xb\b[b)
+
+"jaundice"
+(^lbWGbI)
+
+"jaunt"
+% MATERIAL 
+(Ul]sW)
+
+"java"
+(XbRb)
+
+"javan"
+% HUMAN
+(XbRbW|D)
+
+"javanese"
+% HUMAN
+(XbRbUfQ UbIbQ)
+
+"javelin"
+% MATERIAL 
+(GfDX|DzD ZbW)
+
+"jaw"
+% CONCRETE MATERIAL 
+(\fA)
+
+"jawbone"
+% CONCRETE MATERIAL ANIMAL
+(\fASj)
+
+"jawbreaker"
+(RbIWzQ^bA| WfIjWsD QbI)
+
+"jay"
+% CONCRETE ANIMAL MATERIAL 
+(WfZ|)
+
+"jaycee"
+% HUMAN
+(ZfWDjD UbWAlW^l|Wz|UlWz| ^l|WsfD)
+
+"jayhawker"
+% HUMAN
+([gDUbUzXsQ|D)
+
+"jayvee"
+% ORGAN HUMAN
+(Gc]r\|QWz| 2 AsD)
+
+"jaywalker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlIl ^l|WGbD Ws|RbDXb)
+
+"jazz"
+% MATERIAL 
+(XcXz)
+
+"jealousy"
+% MATERIAL MIND
+(U|A|)
+
+"jean"
+% CONCRETE MATERIAL 
+(X|D)
+
+"jeep"
+% CONCRETE ANIMAL MATERIAL 
+(X|W|]z)
+
+"jeer"
+% CONCRETE MATERIAL 
+(XlUl)
+
+"jeffersonian"
+% HUMAN
+(Xg]fUzDWz| UsWRcXb)
+
+"jehad"
+(UfWXfD)
+
+"jehu"
+% HUMAN
+(QbRs)
+
+"jejunum"
+% CONCRETE MATERIAL 
+(AlWXbW)
+
+"jell"
+% FOOD
+(XgII|)
+
+"jello"
+% FOOD
+(XgII|)
+
+"jelly"
+% CONCRETE MATERIAL FOOD
+(XgII|)
+
+"jellyfish"
+% CONCRETE ANIMAL MATERIAL 
+(^c]bI|)
+
+"jemadar"
+% HUMAN
+(XbWAr)
+
+"jemimas"
+(QlAA|D AlQsU|D)
+
+"jemmy"
+(YbIRWzD Ul|X|Ig)
+
+"jennet"
+% CONCRETE ANIMAL MATERIAL 
+(WbQ GbWDbAs|)
+
+"jenny"
+% CONCRETE ANIMAL MATERIAL 
+(XbGlW A|XsWA|)
+
+"jenny"
+% CONCRETE ANIMAL MATERIAL 
+(jenny)
+
+"jeopardy"
+% MATERIAL 
+(Ws|^fQ)
+
+"jerid"
+(\sZbW)
+
+"jerk"
+% CONCRETE MATERIAL 
+(^lcA WsQX|AW|Gb)
+
+"jerk"
+% CONCRETE MATERIAL FOOD
+(WwA]l)
+
+"jerkin"
+(Xf[|D)
+
+"jerky"
+% CONCRETE MATERIAL FOOD
+(QbII|D Ul|AlA|)
+
+"jerque"
+(UfDDcW|QAfQ)
+
+"jerry-builder"
+% HUMAN
+(DbII|Q QlAUs)
+
+"jerry-building"
+(DbII|Q AlWUb)
+
+"jess"
+(RbIQlABzD)
+
+"jessamin"
+% PLANT
+(XgUzQ|D)
+
+"jest"
+% CONCRETE MATERIAL 
+(DlWGbQ)
+
+"jestbook"
+% ART
+(QbDGbQX|R)
+
+"jester"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlWGbQ^bDzD UbIbQ)
+
+"jesting"
+(W|AUbI)
+
+"jesuit"
+% HUMAN
+(WkUs^l| ^l|WsfD)
+
+"jesuitism"
+% ART
+(WkUs^l| XsWz|)
+
+"jesuitry"
+% ART
+(WkUs^l| XsWz|)
+
+"jet"
+% CONCRETE MATERIAL 
+(Xg\z)
+
+"jetliner"
+(Xg\zWjAcAA|)
+
+"jetport"
+% PLACE
+(Xg\zA| R|^cWXbW)
+
+"jetsam"
+(\s^b)
+
+"jettison"
+% MATERIAL 
+(\s^b)
+
+"jetton"
+(UbDAbX|)
+
+"jetty"
+% CONCRETE ANIMAL MATERIAL PLACE
+(GsA)
+# jetty harbor (NOUN) : GlIXg^bW
+
+"jeu"
+(XbWDbD DlIW|)
+
+"jew's-harp"
+(AsAzQ)
+
+"jewbaiting"
+% ACTION
+(WwGcW|D RbA^c)
+
+"jewel"
+% CONCRETE MATERIAL 
+(RlUfA)
+
+"jeweller"
+% HUMAN
+(RlUfAUbW)
+
+"jewellery"
+% CONCRETE MATERIAL 
+(RlUfAIw)
+
+"jewelry"
+% CONCRETE MATERIAL 
+(RlUfAIw)
+# fine jewelry (NOUN) : XbWU|A RlUfA
+
+"jewish"
+(W|G|U|Wf)
+
+"Jiang Zemin"
+(XbWYfQ|D)
+
+"jib"
+% CONCRETE MATERIAL 
+(X|Rz)
+
+"jibber"
+% ANIMAL
+(Gs|UAfIWzQX|IZ|DzD UbDbWsD QbI)
+
+"jibe"
+% CONCRETE MATERIAL 
+(UgIlGlZWz| W|GlW)
+
+"jiff"
+% TIME
+(UsDAbD)
+
+"jiffy"
+% CONCRETE MATERIAL TIME
+(UsDAbD)
+
+"jig"
+% MATERIAL 
+(X|Az)
+
+"jigamaree"
+(UcIlWsD AlWbDQsI)
+
+"jigger"
+% CONCRETE ANIMAL MATERIAL 
+(QlIcRjIsA)
+
+"jigger"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(X|AzIzI ZsDzD UbIbQ)
+
+"jiggerypokert"
+(UlAW|QUs)
+
+"jigsaw"
+% CONCRETE ANIMAL MATERIAL 
+([zIcW[z \lR)
+
+"jihad"
+(UfWXfD)
+
+"jill"
+(Jill)
+
+"jilt"
+% HUMAN
+(RbIbQGsWW| WjXb)
+
+"jimdandy"
+(^sIIwW^bD AfU)
+
+"jimjams"
+(WbDGbI^bA|)
+
+"jingle"
+% CONCRETE MATERIAL 
+(HbIIbW)
+
+"jingo"
+% HUMAN
+(AbWAjWIlDXb)
+
+"jink"
+(^s|A^s|A WsQX|AW|Gb)
+
+"jinnee"
+(U|DIjW)
+
+"jinni"
+(U|DIjW)
+
+"jinx"
+% CONCRETE MATERIAL 
+(X|W[zUz)
+# ^break the jinx (VERB) : WjD]cBz\Wg W|A|Gb
+
+"jitney"
+% CONCRETE ANIMAL MATERIAL 
+(5 UgD\z RcAGlWXfD)
+
+"jitter"
+(RsIWbD)
+
+"jitterbug"
+% MATERIAL HUMAN
+(U|DAjWX|IW| U|Q^bD UbIbQ)
+
+"jive"
+% MATERIAL 
+(UzWs|W WzQWbA)
+
+"jo"
+% HUMAN
+(WcW|D)
+
+"joad"
+% HUMAN
+(W|Xs DlGlWXb)
+
+"job"
+% MATERIAL 
+(X|AWfR)
+# a job of work (NOUN) : W|I
+# by the job (PP) : GlAzRWzIl
+# job analysis (NOUN) : X|AQsRsDUfA
+# job application (NOUN) : AsX|A
+# job change (NOUN) : XfDX|A
+# job cut (NOUN) : ^cAl
+# job evaluation (NOUN) : X|AQs]jWAb
+# job hunter (NOUN) : AsX|AXb
+# job loser (NOUN) : U|IX|AXb
+# job market (NOUN) : AsW|DU|XbW
+# job opening (NOUN) : AsW|D
+# job opportunity (NOUN) : AlWrWA|^l|
+# job right (NOUN) : X|AWfRWzI AbX|I AsfDI|
+# job wage (NOUN) : X|AQsAzR
+# day job (NOUN) : W|IW|I XbAWfR
+# ^do a job on A (VERB) : [(OBJ A/IzI) HcIjRsUs<VERB>]/Gb
+# job oppotunity (NOUN) : X|AWfRWz| A|^l|
+# federal job (NOUN) : WjDRbW X|AWfR
+# from job to job (PP->ADV) : W| X|AWfRWgUf Xf X|AWfRWzIl
+# ^lie down on the job (VERB) : X|AQsIzI \cQbD^| ^bGb
+# ^make a good job of it (VERB) : XbI ^cDcGb
+# ^make the best of a bad job (VERB) : WfIjWsD Ub\cIzI Xl^Ag ^cAjI^bGb
+
+"job-hopper"
+% HUMAN
+(XbXs XfDX|A^bDzD UbIbQ)
+
+"jobation"
+(A|D XbDUlI|)
+
+"jobber"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlQcUbW)
+
+"jobbernowl"
+% HUMAN
+(RbRl)
+
+"jobbery"
+(GlAX|A)
+
+"jobholder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|IXfW X|AWfRWzI AbX|D UbIbQ)
+
+"jobmaster"
+% HUMAN
+(QbI W|QGcWfRXb)
+
+"jock"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Uz[l\zIIcDGzWz| RjWUb)
+
+"jockey"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(A|Us)
+
+"jocko"
+% ANIMAL
+(WsfDUsWW|)
+
+"jocosity"
+% CONCRETE MATERIAL 
+(W|AUbI)
+
+"jocularity"
+% CONCRETE MATERIAL 
+(W|AUbI)
+
+"jocundity"
+% MATERIAL MIND
+(QjWIbW)
+
+"jodhpurs"
+(UzWQbWrW RbX|)
+
+"joey"
+% ANIMAL
+([cWAfIsWs UcB|)
+
+"joey"
+(3 ]gDUz ^lb]k)
+
+"jog"
+% MATERIAL 
+(^zDGzII|Q)
+
+"jogger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlA|W^bDzD UbIbQ)
+
+"jogging"
+% MATERIAL ACTION
+(XlA|W)
+
+"joggle"
+% CONCRETE ANIMAL MATERIAL 
+(AbRjWsD WsDGlW)
+
+"johannisberger"
+% FOOD
+(GlAW|I UbDWz| AlAzR RcA]lGlXs)
+
+"john"
+% HUMAN
+(XrD)
+
+"john bullism"
+(WjWAsAW|D A|X|I)
+
+"johnny-come-lately"
+% HUMAN
+(U|DZbQXb)
+
+"johnny-jump-up"
+% PLANT
+(XgR|BlZ)
+
+"johnnycake"
+% CONCRETE MATERIAL FOOD
+(WlAUsUsSbW)
+
+"johnsonese"
+(XlDUzD QsDZg)
+
+"johnsonian"
+(XlDUzDU|AWz| QsDXb)
+
+"join"
+% MATERIAL 
+(XfR^bR)
+
+"joinder"
+(RjW^bR)
+
+"joiner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AjI^bRXb)
+
+"joinery"
+(UlQlAW|I)
+
+"joint"
+% CONCRETE MATERIAL 
+(XfR^bR)
+# joint acceptor (NOUN) : WjDGcWfWzQW|DUsW|D
+# joint audit (NOUN) : WjDGcWfWzQW|DUsW|D
+# joint bargain (NOUN) : AlWGlWAfIc
+# joint business venture (NOUN) : ^bRRjW^l|Ub
+# joint capital (NOUN) : ^bRRjW
+# joint contribution (NOUN) : AlWGlWA|Wj
+# joint control (NOUN) : AlWGlWAlbDI|
+# joint costs (NOUN) : AlWGlWR|WrW
+# joint debtor (NOUN) : WjDGcZcQsXb
+# joint demand (NOUN) : XlW^bRUsWr
+# joint enterprise (NOUN) : AlWGlWUbWfR
+# joint financing (NOUN) : ^jRXlWwWXb
+# joint float (NOUN) : AlWGlW]zIIl\z
+# joint management (NOUN) : AlWGlWAjWWjW
+# joint mortgage (NOUN) : AlWGlWGbQRl
+# joint ownership (NOUN) : AlWWwAsfD
+# joint product (NOUN) : XlW^bRUcWUbDQsI
+# joint property (NOUN) : AlWWwXcUbD
+# joint return (NOUN) : W|RsDW|UzWRfR
+# joint supply (NOUN) : AlWGlWAlWAzR
+# joint undertaking (NOUN) : AlWGlWUbWfR
+# joint venture (NOUN) : ^bRRjWUbWfR
+# out_of joint (ADV) : AlbDXfIW| S|Wf
+
+"jointer"
+% CONCRETE ANIMAL MATERIAL 
+(XfR^bRXb)
+
+"jointress"
+% HUMAN
+(AlbRs AzRWjIzI RbGDzD WjXb)
+
+"jointure"
+% ECOLIFE
+(AlbRs XbUbD)
+
+"joist"
+% CONCRETE ANIMAL MATERIAL 
+(XbWUfD)
+
+"joke"
+% CONCRETE MATERIAL 
+(DlWGbQ)
+# for a joke (ADV) : DlWGbQUbQWb
+# in joke (ADV) : DlWGbQWzIl
+# ^play a joke on a person (VERB) : DbQWzI XlIlW^bGb
+# a pratical joke (NOUN) : X|XAsXWzD XbWDbD
+# ^take a joke (VERB) : DlII|QWzI GbW^bAlGl UfWDcX| WbD^Gb
+
+"joker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlWGbQ^bDzD UbIbQ)
+
+"jollier"
+% HUMAN
+(RsZsA|DzD UbIbQ)
+
+"jollification"
+(U|I[fU XzIA|A|)
+
+"jollity"
+% MATERIAL MIND
+(XzIAfWsQ)
+
+"jolly"
+% HUMAN
+(^cRjW)
+
+"jolt"
+% MATERIAL 
+(AzRAjA^bD GlWWr)
+
+"jolterhead"
+% HUMAN
+(QfW\fWAsI|)
+
+"jongleur"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbWIbWU|W|D)
+
+"jonquil"
+(XbWUs^lb)
+
+"jordanian"
+% HUMAN
+(WrIzGbD UbIbQ)
+
+"jorum"
+([zD UsIXbD)
+
+"josh"
+(WbAWz| WfRUDzD DlWGbQ)
+
+"joskin"
+% HUMAN
+(U|AlIHzA|)
+
+"joss"
+% CONCRETE MATERIAL 
+(WsUbW)
+
+"josser"
+% HUMAN
+(RbRl)
+
+"jostile"
+(^lDXbR)
+
+"jot"
+% CONCRETE MATERIAL 
+(XfAWzQ)
+
+"jotting"
+(XfAWfGsA|)
+
+"joule"
+% CONCRETE UNIT MATERIAL 
+(XsI)
+
+"jourlismist"
+% HUMAN
+(U|DQsD XbRX| A|Xb)
+
+"journal"
+% CONCRETE MATERIAL 
+(XfDfI)
+
+"journalese"
+(U|DQsDXbRX| QsDZg)
+
+"journalism"
+% CONCRETE MATERIAL 
+(U|DQsD XbRX| ]jDX|R)
+# journalism English (NOUN) : U|DQsD WjWWf
+
+"journalist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]jDX|RXbW)
+
+"journey"
+% MATERIAL ACTION
+(Wj^cW)
+# journey home (NOUN) : X|RWzIl AbDzD Wj^cW 
+# ONE_S journey end (NOUN) : WjIlWz| Bz\
+
+"journeyman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbWW|D)
+
+"journeywork"
+(XbWW|DWz| W|I)
+
+"joust"
+% MATERIAL ACTION
+(QbUbW ZbWU|^bR)
+
+"joviality"
+% CONCRETE MATERIAL MIND
+(XzIAfWsQ)
+
+"jowl"
+% CONCRETE MATERIAL ANIMAL
+(\fASj)
+
+"joy"
+% MATERIAL MIND
+(A|SzQ)
+# || out_of joy | (ADV) : A|SzQWg DfQZj
+# to ONE_S joy (ADV) : (ADJUNCT [(SUBJ ONE/Ab) A|Sz<ADJ>]/^bAgGl)
+# to ONE_S ADJ joy (ADV) : 
+(ADJUNCT [(SUBJ ONE/Ab) (MODS ADJ/^bAg) A|Sz<ADJ>]/^bAgGl)
+
+"joybells"
+(ZsAXg)
+
+"joyfulness"
+% MATERIAL MIND
+(A|SzQ)
+
+"joyride"
+% ACTION
+(GzIbW|Rz)
+
+"jubilance"
+% MATERIAL MIND
+(^lbD^z|)
+
+"jubilancy"
+% MATERIAL MIND
+(^lbD^z|)
+
+"jubilate"
+(^lbD^l|Wz| DlIc)
+
+"jubilation"
+% MATERIAL MIND
+(^lbD^z|)
+
+"jubilee"
+% CONCRETE TIME MATERIAL 
+(A|DjQXg)
+# Diamond Jubilee (NOUN) : 60 DjDXg
+# golden jubilee (NOUN) : 50 DjDXg
+# silver jubilee (NOUN) : 25 DjDXg
+
+"judaism"
+(WwGcAr)
+
+"judaismist"
+% HUMAN
+(WwGc ArGl)
+
+"judder"
+(W|UbWX|DGlW)
+
+"judean"
+(WwGcWz|)
+
+"judge"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Xc]bDAlbD)
+# ^be on judge of A (VERB) : [(OBJ [(POSS A/Wz|) AbQXfW<NOUN>]/WzI) XbIQlU^b<VERB>]/Gb
+# ^be a good judge of A (VERB) : [(OBJ [(POSS A/Wz|) AbQXfW<NOUN>]/WzI) (MODS [XbI<ADV>]) ^b<VERB>]/Gb
+# federal judge (NOUN) : WjDRbW]bDUb
+# Judge Advocate General (NOUN) : WwAAsD RfRQsAbQ
+# judge advocate (NOUN) : RfRQsAlbD
+# trial judge (NOUN) : Xc]bDAlbD
+
+"judgement"
+% CONCRETE MATERIAL ACTION
+(]bDGbD)
+# judgement debt (NOUN) : ]bDAjIWg Wz|Af^bD ZcQs
+# the judgement of God (NOUN) : U|DWz| Xc]bD
+# judgement summons (NOUN) : ZcQsXb AsUlAWjWXbW
+# ^pass judgement on A (VERB) : [(ADJUNCT A/Wg) (OBJ []bDAjI<NOUN>]/WzI) DcI|<VERB>]/Gb
+# the Last Judgement (NOUN) : Zl|^sWz| U|Q]bD
+
+"judgeship"
+% HUMAN
+(Xc]bDAlbD Wz| X|Ws|)
+
+"judgment"
+% CONCRETE MATERIAL ACTION
+(]bDGbD)
+# judgment debt (NOUN) : ]bDAjIWg Wz|Af^bD ZcQs
+# the judgment of God (NOUN) : U|DWz| Xc]bD
+# judgment summons (NOUN) : ZcQsXb AsUlAWjWXbW
+# ^pass judgment on A (VERB) : [(ADJUNCT A/Wg) (OBJ []bDAjI<NOUN>]/WzI) DcI|<VERB>]/Gb
+# the Last Judgment (NOUN) : Zl|^sWz| U|Q]bD
+
+"judicatory"
+% PLACE
+(Xc]bDUl)
+
+"judicature"
+(UbRfR)
+# the Supreme Court of Judicature (NOUN) : Zl|Al RfRWsfD
+
+"judiciary"
+% MATERIAL ORGAN
+(UbRfRRs)
+
+"judiciousness"
+% CONCRETE MATERIAL 
+(^jDQjW^bQ)
+
+"judo"
+% MATERIAL 
+(WwGl)
+
+"jug"
+% CONCRETE MATERIAL 
+(QsIRjW)
+
+"jugal"
+% ANIMAL
+(AlbWGcSj)
+
+"juggernaut"
+% CONCRETE MATERIAL 
+(Gc^jW RfUz)
+
+"juggins"
+% HUMAN
+(RbRl)
+
+"juggler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WrUsIXbWW|)
+
+"jugglery"
+(WrUsI)
+
+"jugular"
+(AjWXfWQcA)
+
+"juice"
+% CONCRETE MATERIAL FOOD
+(XwUz)
+# orange juice (NOUN) : WlIgDX| XwUz
+
+"juicer"
+(QsGc XfDA|Ak)
+
+"juju"
+% CONCRETE MATERIAL 
+(RsXfA)
+
+"jujube"
+% CONCRETE MATERIAL PLANT
+(GcZsDbQs)
+
+"juke"
+(XbGlWXfDZsA)
+
+"jukes"
+% HUMAN
+(RbRl)
+
+"julep"
+% CONCRETE MATERIAL 
+(XsWsIIgR)
+
+"jumbal"
+% CONCRETE MATERIAL FOOD
+(WdIRWzD AlI| QlWdWWz| SbWAlbXb)
+
+"jumble"
+% CONCRETE MATERIAL 
+(Gs|RfQRfA)
+
+"jumble"
+% CONCRETE MATERIAL 
+(WdIRWzD AlI| QlWdWWz| SbWAlbXb)
+
+"jumbo"
+(WbXs [zD)
+
+"jump"
+% MATERIAL ACTION
+(Hs|A|)
+# all of jump (ADV) : WsQY|IWsQY|I^bWj
+# at a jump (ADV) : ^sIYfA Hs|Wf
+# broad jump (NOUN) : DfIRW| Hs|A|
+# from the jump (ADV) : ZfWzQRs\f
+# ^get the jump on A (VERB) : [(ADJUNCT A/RlGb) WsUg^b<VERB>]/Gb
+# ^give A the jumps (VERB) : [(OBJ A/WzI) WsQY|I^bAg ^b<VERB>]/Gb
+# ^have the jump on A (VERB) : [(ADJUNCT A/RlGb) WsUg^b<VERB>]/Gb
+# ^have the jumps (VERB) : BbQYbA DlIIbAg ^bGb
+# high jump (NOUN) : Dl]W| Hs|A|
+# on the jump (ADV) : GlWRsDUfXs^bWj
+
+"jump-jet"
+(UsX|A W|ZbAIwA Xg\zA|)
+
+"jump-off"
+(ZsIRbI)
+
+"jumper"
+% CONCRETE MATERIAL 
+(GlWdAXb)
+
+"jumper"
+% CONCRETE MATERIAL 
+(XbQRb)
+
+"jumping"
+% MATERIAL 
+(GlWdA)
+
+"jumpmaster"
+% HUMAN
+(DbA^bUbD AbW^b X|^s|AlbD)
+
+"junction"
+% CONCRETE MATERIAL 
+(XfR^bR)
+
+"juncture"
+% MATERIAL 
+(XfRUlA)
+
+"june"
+% TIME
+(6 WsfI)
+# on June NUM1 , NUM2 (PP) : (ADJUNCT [(NMODS [(NMODS NUM2) DjD<NOUN>]) (NMODS [(NMODS [6<NOUN>]) WsfI<NOUN>]) (NMODS NUM1) W|I<NOUN>]/Wg)
+
+
+"jungle"
+% MATERIAL PLACE
+(Q|II|Q)
+# a junngle of wretched cars (NOUN) : ]kZbGfQ|
+# the advertising jungle (NOUN) : AlbWAl AlbGbW AjWXcW
+
+"junior"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjDUlXb[3^bADjD])
+# junior by NUM1 {-ORDNUM} years (NOUN) : [(NMODS [(NMODS NUM1 {+DGTNUM}) UbI<NOUN>]) WjDUlXb<NOUN>]
+# junior clerk (NOUN) : ^bAzRX|AWsfD
+
+"juniority"
+(WjDUl)
+
+"juniper"
+% CONCRETE MATERIAL PLANT
+(DlAbDXs DbQs)
+
+"junk"
+% CONCRETE MATERIAL 
+(XfW[z)
+
+"junk"
+% CONCRETE MATERIAL 
+(]kQsI)
+
+"junker"
+(DbIAWzD XbGlWZb)
+
+"junket"
+% CONCRETE MATERIAL FOOD
+(WzQWwXg U|A]sQ)
+
+"junketeer"
+% HUMAN
+(AlbDR|Wj^cWXb)
+
+"junketer"
+% HUMAN
+(AlbDR|Wj^cWXb)
+
+"junketing"
+% ORGAN
+(^dWWjD)
+
+"junkie"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wb]jDXbWW|)
+
+"junkman"
+% PLACE
+(AlQsIUbW)
+
+"junky"
+% HUMAN
+(QbWdAUbWWrWXb)
+
+"junkyard"
+% PLACE
+(Vb^Wb GsDzD AlU)
+
+"junta"
+% MATERIAL ORGAN
+(AsDUb^jAQjWWs|WsfD^l|)
+
+"junto"
+% MATERIAL ORGAN
+(R|Q|I AjIUb)
+
+"jupiter"
+% HUMAN
+(Xw]|\f)
+
+"jurassic"
+% TIME
+(XsIbA|)
+
+"jurat"
+(jurat)
+
+"jurimetrics"
+% ART
+(AkIdW RfR^bA)
+
+"jurisconsult"
+% HUMAN
+(RjD^lUb)
+
+"jurisdiction"
+% CONCRETE MATERIAL 
+(UbRfRAsfD)
+
+"jurisprudence"
+% MATERIAL ART
+(RfRIwI^bA)
+# medical jurisprudence (NOUN) : RfRWz|^bA
+
+"jurisprudent"
+% HUMAN
+(RfR^bA XfDAlWXb)
+
+"jurist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfR^bAXb)
+
+"juror"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RcU|QWsfD)
+
+"jury"
+% MATERIAL HUMAN
+(RcU|Q)
+# common jury (NOUN) : Rl\lW RcU|Q
+# grand jury (NOUN) : GcRcU|Q
+# petty jury (NOUN) : UlRcU|Q
+# jury fixer (NOUN) : RcU|QWsfD QcUsXb
+# jury of matrons (NOUN) : RsW|D RcU|Q
+# special jury (NOUN) : \zARjI RcU|Q
+# jury system (NOUN) : RcU|QXgGl
+
+"jury-packing"
+% ACTION
+(RcU|QWsfD QcUs)
+
+"juryman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RcU|QWsfD)
+
+"jurywoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjRcU|QWsfD)
+
+"justice"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfWWz|[]bDUb])
+# ^bring A  to justice (VERB) : [(OBJ A/WzI) (ADJUNCT [(ADJUNCT [RfR<NOUN>]/Wg) Wz|^b<NOUN>]/^bWj) ZfGbD^b<VERB>]/Gb
+# court of justice (NOUN) : RfRXfW
+# ^do A  justice (VERB) : [(OBJ A/IzI) (MODS [XfWGbW^bAg<ADV>]) Zs|AzR^b<VERB>]/Gb
+# ^do justice to A  (VERB) : [(OBJ A/IzI) (MODS [AlWXfW^bAg<ADV>]) ]jW^b<VERB>]/Gb
+# ^do ONESELF  justice (VERB) : U|IIjAWzI ZsWRsD^| RbI^s|^bGb
+# department of justice (NOUN) : RfRQsUfW
+# Justice of the peace (NOUN) : Z|WbD ]bDUb
+# poetical justice (NOUN) : U|XfA XfWWz|
+# a sense of justice (NOUN) : XfWWz|AbQ
+# Justice Department (NOUN) : RfRQsRs
+# justice investigator (NOUN) : RfRQsRs XlUbAlbD
+
+"justiceship"
+% HUMAN
+(Xc]bDAlbDWz| XbAjA)
+
+"justiciar"
+% HUMAN
+(GcUbRfRAlbD)
+
+"justiciary"
+% HUMAN
+(GcUbRfRAlbD)
+
+"justification"
+% CONCRETE MATERIAL 
+(Wz|IlRGbAl WjAjX|A|)
+# in justification of A (PP) : (ADJUNCT [(SCOMP [(SUBJ A/Ab) XfWGbW^b<ADJ>]/^bGbAl) XsXbW^bA| Ws|^b<VERB>]/^bWj)
+
+"justifier"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjDQjWXb)
+
+"justness"
+% CONCRETE MATERIAL 
+(AlWXfW)
+
+"jut"
+% MATERIAL 
+(GlIA|)
+
+"jute"
+% CONCRETE MATERIAL 
+(Xs\z UbIbQ)
+
+"jute"
+% CONCRETE MATERIAL 
+(^lbWQb)
+
+"juvenescence"
+% MATERIAL 
+(ZfWZsD)
+
+"juvenile"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UlDjD)
+
+"juvenilia"
+% ART
+( AWzD U|XfI XbA]sQ)
+
+"juvenility"
+(DbW|WfI|Q)
+
+"juvenocracy"
+% ORGAN
+(ZfWDjD XfWZ|)
+
+"juvey"
+% HUMAN
+(UlDjDRfQXl|Xb)
+
+"juvie"
+% HUMAN
+(UlDjDRfQXl|Xb)
+
+"juxtaposition"
+% MATERIAL 
+(RjWIjI)

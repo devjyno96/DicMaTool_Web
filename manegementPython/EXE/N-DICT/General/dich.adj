@@ -1,0 +1,2152 @@
+"HTML-based"
+ar (HTML A|RbDWz|)
+ap (HTML A|RbDW|Gb)
+
+"Hawaiian"
+ar (^bWlbW|Wz|)
+ap (^bWlbW|W|Gb)
+
+"Hebrew"
+ar (^|RzI| UbIbQWz|)
+ap (^|RzI| UbIbQW|Gb)
+
+"Hispanic"
+ar (Ib\|D WbQgI|[bWz|)
+ap (Ib\|D WbQgI|[bW|Gb)
+
+"habilimented"
+ar (WlUWzI W|RWzD)
+ap (WlUWzI W|RGb)
+
+"habit-forming"
+ar (UzRAlbDUfWWz|)
+ap (UzRAlbDUfWW|Gb)
+
+"habitable"
+ar (UbI Us W|VDzD)
+ap (UbI Us W|VGb)
+
+"habitual"
+ar (UzRAlbDXfAW|D)
+* ^zD^| W|VGb (task W|I)
+ap (UzRAlbDXfAW|Gb)
+
+"hackly"
+ar (AfZ|IAfZ|I^bD)
+ap (AfZ|IAfZ|I^bGb)
+
+"hackney"
+ar (Ug Dl^WzD)
+ap (Ug Dl^Gb)
+
+"hackneyed"
+ar (VfUf DbIAWzD)
+ap (VfUf DbIAGb)
+
+"haggard"
+ar (WjWs|D)
+ap (WjWs|Gb)
+
+"haggish"
+ar (QbAs| ^bIQfQ Ab\WzD)
+ap (QbAs| ^bIQfQ Ab\Gb)
+
+"hagridden"
+ar (WbAQlWWg U|GbII|D)
+ap (WbAQlWWg U|GbII|Gb)
+
+"haily"
+ar (WsRbAWz|)
+ap (WsRbAW|Gb)
+
+"hair's-breadth"
+ar (WbXs XlRWzD)
+ap (WbXs XlRGb)
+
+"hair-curling"
+ar (QfI|\fIW| AlDGsUfDzD)
+ap (QfI|\fIW| AlDGsUfGb:ADJ->VERB)
+
+"hair-raising"
+ar (QfI|\fIW| W|IWfUfDzD GzU^bD)
+ap (QfI|\fIW| W|IWfUfDzD GzU^bGb)
+
+"hair-trigger"
+ar (ZlARbIXfAW|D)
+ap (ZlARbIXfAW|Gb)
+
+"hairbreadth"
+ar (WbUzIWbUzI^bD)
+ap (WbUzIWbUzI^bGb)
+
+"haired"
+ar (QfI|\fIW| W|VDzD)
+ap (QfI|\fIW| W|VGb)
+
+"hairless"
+ar (\fIW| WfRUDzD)
+ap (\fIW| WfRUGb)
+
+"hairpin"
+ar (UXb QlWdWWz|)
+ap (UXb QlWdWW|Gb)
+
+"hairsplitting"
+ar (BbGbIlRAg HbX|DzD)
+ap (BbGbIlRAg HbX|Gb:ADJ->VERB)
+
+"hairy"
+ar (\fIW| QbD^WzD)
+ap (\fIW| QbD^Gb)
+
+"hairy-heeled"
+ar (RfIzUWfRUW| XbIbD)
+ap (RfIzUWfRUW| XbIbGb)
+
+"haitian"
+ar (^bW|\| UfQWz|)
+ap (^bW|\| UfQW|Gb)
+
+"hale"
+ar (AfDXbW^bD)
+ap (AfDXbW^bGb)
+
+"half"
+ar (RbDWz|)
+ap (RbDW|Gb)
+# half binding (NOUN) : RbD^jA XbWXfW
+# half brother (NOUN) : WbRfX| GbIzD ^jWXg
+# half butt (NOUN) : RbD A|IW|Wz| GbWAsZc
+# half calf (NOUN) : UlWWbX| AbXsAWz| RbD^jA XbWXfW
+# half deck (NOUN) : RbDAbR]bD
+# half dime (NOUN) : UgD\z WzD^lb
+# half dollar (NOUN) : RbD GbIIf WzD^lb
+# half eagle (NOUN) : GbIIf AzQ^lb
+# half hitch (NOUN) : RbD QcGzR
+# half holiday (NOUN) : RbDAlWW|I
+# half hose (NOUN) : YbIRWzD WdWQbI
+# half hour (NOUN) : RbDU|AbD
+# half measures (NOUN) : AlU|AXfAW|D UsGbD
+# half moon (NOUN) : RbDGbI
+# half morocco (NOUN) : RbD QlIl[l AbXsA XbWXfW
+# half mourning (NOUN) : RbD UbWRlA
+# half pay (NOUN) : RlWAzRWz| RbD
+# half pint (NOUN) : RbD ]|D\z
+# half silk (NOUN) : QjWXsWlb QsQjWWz| ArX|A
+# half sister (NOUN) : WbRfX| GbIzD XbQc
+# half sovereign (NOUN) : WjWAsAWz| AzQ^lb
+# half step (NOUN) : RbDWzQ
+# half the continent (NOUN) : GcIwAWz| RbD
+# half the distance (NOUN) : AfI|Wz| XfIRbD
+# half tide (NOUN) : RbDXl
+# half tint (NOUN) : AbDUcA
+# half title (NOUN) : YbIRWzD ]rXg
+# half tone (NOUN) : RbDWzQ
+# half trap (NOUN) : RbDAlAAlbD
+
+"half-and-half"
+ar (RbDRbDWz|)
+ap (RbDRbDW|Gb)
+
+"half-baked"
+ar (UfI AsWsfX|D)
+ap (UfI AsWsfX|Gb)
+
+"half-blood"
+ar (^lD^jIWz|)
+ap (^lD^jIW|Gb)
+
+"half-blooded"
+ar (^lD^jIWz|)
+ap (^lD^jIW|Gb)
+
+"half-boiled"
+ar (UfIW|AWzD)
+ap (UfIW|AGb)
+
+"half-bound"
+ar (RbDAbXsAXbWXfWWz|)
+ap (RbDAbXsAXbWXfWW|Gb)
+
+"half-bred"
+ar (XbRXlWWz|)
+ap (XbRXlWW|Gb)
+
+"half-breed"
+ar (^lD^jIWz|)
+ap (^lD^jIW|Gb)
+
+"half-cocked"
+ar (WbDXfDXbWZ|IzI ^bD)
+ap (WbDXfDXbWZ|IzI ^bGb)
+
+"half-cooked"
+ar (UfIW|AWzD)
+ap (UfIW|AGb)
+
+"half-dead"
+ar (RbDWzD XsAWzD)
+ap (RbDWzD XsAGb)
+
+"half-done"
+ar (^bGbAb QbD)
+ap (^bGbAb QbIGb)
+
+"half-face"
+ar (WfIAsI Wj] QlUzRWzI AzI|D)
+ap (WfIAsI Wj] QlUzRWzI AzI|Gb)
+
+"half-hearted"
+ar (QbWzQ Dc[|X| WbD^WzD)
+ap (QbWzQ Dc[|X| WbD^Gb)
+
+"half-hourly"
+ar (RbDU|AbDWz|)
+ap (RbDU|AbDW|Gb)
+
+"half-length"
+ar (RbDU|DWz|)
+ap (RbDU|DW|Gb)
+
+"half-minded"
+ar (QbWzQDc[|X| WbD^WzD)
+ap (QbWzQDc[|X| WbD^Gb)
+
+"half-read"
+ar (WfIZ|A|Il W|IAWzD)
+ap (WfIZ|A|Il W|IAGb)
+
+"half-round"
+ar (RbDWsfDWz|)
+ap (RbDWsfDW|Gb)
+
+"half-shot"
+ar (WfUfI]zAg Zs|^bD)
+ap (WfUfI]zAg Zs|^bGb)
+
+"half-timbered"
+ar (DbQsIl QbDGzD)
+ap (DbQsIl QbDGzIGb) 
+
+"half-time"
+ar (RbDW|IXgWz|)
+ap (RbDW|IXgW|Gb)
+
+"halfhearted"
+ar (WjIUfWW| WfRUDzD)
+ap (WjIUfWW| WfRUGb)
+
+"halfling"
+ar (Q|UsA^bD)
+ap (Q|UsA^bGb)
+
+"halfpenny"
+ar (VbAsIjWz|)
+ap (VbAsIjW|Gb)
+
+"halfway"
+ar (XsWAbDWz|)
+ap (XsWAbDW|Gb)
+# halfway lines (NOUN) : XsWWbWUfD
+
+"halfwitted"
+ar (WfISbX|D)
+ap (WfISbX|Gb)
+
+"halieutic"
+ar (DbBU|X|IWz|)
+ap (DbBU|X|IW|Gb)
+
+"hallowed"
+ar (U|DUfW^lb^bD)
+ap (U|DUfW^lb^bGb)
+
+"hallucinogenic"
+ar (^lbDAbAUfWWz|)
+ap (^lbDAbAUfWW|Gb)
+
+"halting"
+ar (XfIHsAAfI|DzD)
+ap (XfIHsAAfI|Gb:ADJ->VERB)
+
+"halycon"
+ar (QsIZlWUcWz|)
+ap (QsIZlWUcW|Gb)
+
+"ham-fisted"
+ar (Uf\sIzD)
+ap (Uf\sIGb)
+
+"ham-handed"
+ar (Uf\sIzD)
+ap (Uf\sIGb)
+
+"hamitic"
+ar (^cQXlAWz|)
+ap (^cQXlAW|Gb)
+
+"hammerheaded"
+ar (QbWZ| QlWdWWz| QfI|IzI ^bD)
+ap (QbWZ| QlWdWWz| QfI|IzI ^bGb)
+
+"hammering"
+ar (QbWZ|X|I^bDzD)
+ap (QbWZ|X|I^bGb:ADJ->VERB)
+
+"hammerless"
+ar (QbWZ|Ab WfRUDzD)
+ap (QbWZ|Ab WfRUGb)
+
+"hammy"
+ar (^cQ DcQUcAb DbDzD)
+ap (^cQ DcQUcAb DbGb:ADJ->VERB)
+
+"hand-knit"
+ar (UlDWzIl YbD)
+ap (UlDWzIl YbGb)
+
+"hand-lettered"
+ar (UlDWzIl VzD)
+ap (UlDWzIl VzGb)
+
+"hand-made"
+ar (UlDWzIl QbDGzD)
+ap (UlDWzIl QbDGzIGb)
+
+"hand-me-down"
+ar (QbDGzIWf Dl^WzD)
+ap (QbDGzIWf Dl^Gb)
+
+"hand-picked"
+ar (UlDWzIl HbD)
+ap (UlDWzIl HbGb)
+
+"hand-printed"
+ar (UlDWzIl VzD)
+* UlDWzIl VzGb (letter AzIXb)
+ap (UlDWzIl VzGb)
+
+"hand-to-hand"
+ar (XfRXfDWz|)
+ap (XfRXfDW|Gb)
+
+"hand-to-mouth"
+ar (^bIs RfIWf ^bIs QfAAl UbDzD)
+ap (^bIs RfIWf ^bIs QfAAl UbIGb:ADJ->VERB)
+
+"hand-wrought"
+ar (UlDWzIl QbDGzD)
+ap (UlDWzIl QbDGzIGb)
+
+"handed"
+ar (UlDW| W|VDzD)
+ap (UlDW| W|VGb)
+
+"handfast"
+ar (BlA Xs|D)
+ap (BlA Xs|Gb)
+
+"handfull"
+ar (^bD WsW[zQWz|)
+ap (^bD WsW[zQW|Gb)
+
+# a handful of A (NOUN) : [(AMODS [QbD^X| WbD^<ADJ>]/^bD) A]
+
+"handicapped"
+ar (XbWWcAb W|VDzD)
+ap (XbWWcAb W|VGb)
+# handicapped ^A {+HUMAN} (NOUN) : [(NMODS [XbWWc<NOUN>]) A]
+
+"handinglove"
+ar (Z|DQ|I^bD)
+ap (Z|DQ|I^bGb)
+
+"handinhand"
+ar (UlDWg UlDWzI XbRWzD)
+ap (UlDWg UlDWzI XbRGb)
+
+"handless"
+ar (UlDW| WfRUDzD)
+ap (UlDW| WfRUGb)
+
+"hands-off"
+ar (ZbQAjD^bX| WbD^DzD)
+ap (ZbQAjD^bX| WbD^Gb:ADJ->VERB)
+
+"handset"
+ar (UlDWzIl Xl]bD^bD)
+ap (UlDWzIl Xl]bD^bGb)
+
+"handsome"
+ar (QfUX|D)
+* UbWGbW^bGb (money AzQWcA) (property XcUbD) (present UfDQsI)
+* UlQV|W|VGb (speech WjDUfI)
+ap (QfUX|Gb)
+
+"handtight"
+ar (UlDWzIl ^|QBfU GbWA|D)
+ap (UlDWzIl ^|QBfU GbWA|Gb)
+
+"handworked"
+ar (UsAlWWz|)
+ap (UsAlWW|Gb)
+
+"handy"
+ar (UlQV| W|VDzD)
+ap (UlQV| W|VGb)
+# ^come in handy (VERB) : VzIQlAb W|VGb
+
+"hangdog"
+ar (R|WjI^bD)
+ap (R|WjI^bGb)
+
+"hanging"
+ar (ArUs^jWWg Zf^bI)
+ap (ArUs^jWWg Zf^bGb:ADJ->VERB)
+# hanging judge (NOUN) : ArUs^jWWzI DcI|A| Xl^Wb^bDzD ]bDUb
+
+"hanoverian"
+ar (^bDlWsRf WlbWAbWz|)
+ap (^bDlWsRf WlbWAbW|Gb)
+
+"hanseatic"
+ar (^bDXbGlWQcWWz|)
+ap (^bDXbGlWQcWW|Gb)
+
+"happy"
+ar (^cWRlA^bD)
+ap (^cWRlA^bGb)
+ap (^cWRlA^bGb)
+# || happy birthday | (SENT) :  (DECL [(OBJ [UcWW|I<NOUN>]/WzI) ZsA^b^b<VERB>]/Gb)
+# || happy birthday to you | (SENT) :  (DECL [(OBJ [UcWW|I<NOUN>]/WzI) ZsA^b^b<VERB>]/Gb)
+# ^be happy TO_INF (VERB->ADJ) : [(ADJUNCT TO_INF/^cUf) ^cWRlA^b<ADJ>]/Gb
+# ^be happy THAT_CLAUSE (VERB->ADJ) : [(ADJUNCT THAT_CLAUSE/^cUf) ^cWRlA^b<ADJ>]/Gb
+# ^be happy for A {-HUMAN} (VERB->ADJ) : [(ADJUNCT [(COMP A) HcQsD<NOUN>]/Wg) ^cWRlA^b<ADJ>]/Gb
+# ^be happy with A (VERB->ADJ) : [(ADJUNCT [(COMP A) HcQsD<NOUN>]/Wg) ^cWRlA^b<ADJ>]/Gb
+# ^happy with A (ADJ) : [(ADJUNCT [(COMP A) HcQsD<NOUN>]/Wg) ^cWRlA^b<ADJ>]/Gb
+
+"harassing"
+ar (Al|IlR^|DzD)
+ap (Al|IlR^|Gb:ADJ->VERB)
+
+"harborless"
+ar (^bWAsAb WfRUDzD)
+ap (^bWAsAb WfRUGb)
+
+"hard"
+ar (WfIjWsD)
+* BzQY|A^bGb (rain R|)
+* GbDGbD^bGb (defense UsR|) (shell BfRX|I)
+* GlA^bGb (liquor UsI)
+* QsXfW^bGb (personality UfWAjA) (temper A|X|I) (behavior ^cWWs|)
+* QbUWfRUGb (food WzQU|A) (wine UsI)
+* WfQWjD^bGb (right AsfDI|)
+* ^|QGzIGb:ADJ->VERB (time U|AbD) (work W|I) (practice WjDUzR) (day DbI)
+ap (WfIjRGb)
+
+//# be hard TO_INF (VERB->ADJ) : [(ADJUNCT TO_INF/^bA|Wg) WfIjR<ADJ>]/Gb 
+# at hard edge (PP->ADV) : X|DX|^bAg
+# ^be hard on A  (VERB) : [(OBJ A/WzI) AsRbA^b<VERB>]/Gb
+# ^be hard upon A  (VERB) : [(OBJ A/WzI) AsRbA^b<VERB>]/Gb
+# ^be hard up (VERB) : YlGzII|Gb
+# hard bar (NOUN) : GbDGbD^bD QlIc\lR
+# hard bargain (NOUN) : X|GlA^bD AfWc
+# hard coal (NOUN) : QsWjD\bD
+# hard common sense (NOUN) : AfDXfD^bD UbWU|A
+# hard core (NOUN) : Q|\GlI
+# hard court (NOUN) : ^bGz [l\z
+# hard currency (NOUN) : AjW^lb
+# hard dealing (NOUN) : ^bAGc
+# hard drinker (NOUN) : UsIAlIc
+# hard drying (NOUN) : WlbDXfD AfDXl
+# hard facts (NOUN) : WsQX|AW|I Us WfRUDzD UbU|I
+# hard finish (NOUN) : RjAWz| Af\Z|I
+# hard fish (NOUN) : AfDWf
+# hard food (NOUN) : Al^jW UbIr
+# hard goods (NOUN) : DcAsXc
+# hard horse (NOUN) : U|QUsIAsXWzD XbWAr
+# hard labor (NOUN) : XsWDlGlW
+# hard law (NOUN) : A|^lA^bD RfRIwI
+# hard lines (NOUN) : AlDAjW
+# hard look (NOUN) : QsUfWsD WfIAsI DsDZlI|
+# hard eye (NOUN) : QsUfWsD ^fQ^bD DsDZlI|
+# hard news (NOUN) : XsWGc DwWsUz
+# hard pad (NOUN) : AcWz| RjW
+# hard row to hoe (NOUN) : ^|QGzDzD W|I
+# hard rubber (NOUN) : AjWX|I AlQs
+# hard saying (NOUN) : W|^c^bA| WfIjWsD QbI
+# hard sell (NOUN) : AbWWbRXfAW|D ]bDQc RbWRfR
+# hard set (NOUN) : WzWAjI
+# hard swearing (NOUN) : AfX|U QcWUg
+# hard wheat (NOUN) : AjWX|I Q|I
+# hard words (NOUN) : U|Q^bD QbI
+# hard worker (NOUN) : AzDQjDAb
+# ^have a hard time (VERB) : ^lDW| DbGb
+# ^have hard luck (VERB) : XcUsAb WfRUGb
+# in hard conditions (PP->ADV) : \zD\zD^bD QlQWzIl
+# the hard way (ADV) : AlUcW^bWj
+
+"hard-baked"
+ar (HbAHbA^bAg AsWsD)
+ap (HbAHbA^bAg AsRGb)
+
+"hard-boiled"
+ar (GbDGbD^bAg UbIQWzD)
+ap (GbDGbD^bAg UbIQGb)
+
+"hard-bought"
+ar (AlUcW^bWj WfGWzD)
+ap (AlUcW^bWj WfGGb)
+
+"hard-core"
+ar (XsW^cAWz|)
+ap (XsW^cAW|Gb)
+
+"hard-dried"
+ar (QbII|D)
+ap (QbII|Gb)
+
+"hard-earned"
+ar (AlUcW^bWj RfD)
+ap (AlUcW^bWj RfIGb)
+
+"hard-favored"
+ar (QsUfWsD WfIAsIWzI ^bD)
+ap (QsUfWsD WfIAsIWzI ^bGb)
+
+"hard-favoured"
+ar (QsUfWsD WfIAsIWzI ^bD)
+ap (QsUfWsD WfIAsIWzI ^bGb)
+
+"hard-featured"
+ar (QsUfWsD WfIAsIWzI ^bD)
+ap (QsUfWsD WfIAsIWzI ^bGb)
+
+"hard-fisted"
+ar (W|DUcA^bD)
+ap (W|DUcA^bGb)
+
+"hard-grained"
+ar (AjIW| Z|Q|I^bD)
+ap (AjIW| Z|Q|I^bGb)
+
+"hard-headed"
+ar (R|D\zQWfRUDzD)
+ap (R|D\zQWfRUGb)
+
+"hard-hitting"
+ar (^lbIA|W|VDzD)
+ap (^lbIA|W|VGb)
+
+"hard-line"
+ar (AbWAjW^bD)
+ap (AbWAjW^bGb)
+
+"hard-mouthed"
+ar (XcAbIWzI QsII|A| ^|QGzD)
+ap (XcAbIWzI QsII|A| ^|QGzIGb)
+
+"hard-nosed"
+ar (DcQUcIzI QlUQb\DzD)
+ap (DcQUcIzI QlUQb\Gb:ADJ->VERB)
+
+"hard-pressed"
+ar (QlRU| WbRRbARbGDzD)
+ap (QlRU| WbRRbARbGGb:ADJ->VERB)
+
+"hard-working"
+ar (WjIU|QW|D)
+ap (WjIU|QW|Gb)
+
+"hardball"
+ar (R|XfW^bD)
+ap (R|XfW^bGb)
+
+"hardbitten"
+ar (QbDQbDZ| WbD^WzD)
+ap (QbDQbDZ| WbD^Gb)
+
+"hardbound"
+ar (GsBfWsD ]rX|IzI Vz|WsD)
+ap (GsBfWsD ]rX|IzI Vz|WsGb)
+
+"hardcore"
+ar (^cAU|QWz|)
+ap (^cAU|QW|Gb)
+
+"hardcover"
+ar (GsBfWsD ]rX|Wz|)
+ap (GsBfWsD ]rX|W|Gb)
+
+"hardcured"
+ar (QbII|D)
+ap (QbII|Gb)
+
+"hardened"
+ar (GbDGbD^bAg Gl|D)
+ap (GbDGbD^bAg Gl|Gb)
+
+"hardfaced"
+ar (QsUfWsD WfIAsIWzI ^bD)
+ap (QsUfWsD WfIAsIWzI ^bGb)
+
+"hardhanded"
+ar (UlDW| AsGWzD)
+ap (UlDW| AsGGb)
+
+"hardheaded"
+ar (WlbDAl^bD)
+ap (WlbDAl^bGb)
+
+"hardhearted"
+ar (QsXfW^bD)
+ap (QsXfW^bGb)
+
+"hardworking"
+ar (AzDQjD^bD)
+ap (AzDQjD^bGb)
+
+"hardy"
+ar (DcAsIjA W|VDzD)
+ap (DcAsIjA W|VGb)
+
+"harmful"
+ar (^cIlWsD)
+ap (^cIlRGb)
+
+# ^do harm (VERB) : ^cIzI B|Z|Gb
+# ^do harm to A (VERB) : [(OBJ2 A/WgAg) ^cIzI B|Z|<VERB>]/Gb
+# ^do A harm (VERB) : [(OBJ2 A/WgAg) ^cIzI B|Z|<VERB>]/Gb
+
+"harmless"
+ar (^cIlRX| WbD^WzD)
+ap (^cIlRX| WbD^Gb)
+
+"harmonic"
+ar (Xl^lbGl|D)
+ap (Xl^lbGl|Gb)
+
+"harmonious"
+ar (Xl^lbGl|D)
+ap (Xl^lbGl|Gb)
+
+"harsh"
+ar (AfZ|D)
+* U|Q^bGb (penalty ]gDfI\|)
+ap (AfZ|IGb)
+# ^be harsh in scolding A (VERB) : 
+  [(OBJ A/IzI) (MODS [WfQ^bAg<ADV>]) BsX|X<VERB>]/Gb
+
+"hasty"
+ar (AzR^bD)
+ap (AzR^bGb)
+
+"hated"
+ar (Q|Wsf^bDzD)
+ap (Q|Wsf^bGb)
+
+"hateful"
+ar (Q|WsD)
+ap (Q|RGb)
+
+"hatful"
+ar (QlXb AbGzA^bD)
+ap (QlXb AbGzA^bGb)
+
+"haughty"
+ar (WlQbD^bD)
+ap (WlQbD^bGb)
+
+"haunting"
+ar (XbXs QbWsQ UlAWg HfWlIzDzD)
+ap (XbXs QbWsQ UlAWg HfWlIzGb:ADJ->VERB)
+
+"hawk-nosed"
+ar (QcRsI|[lWz|)
+ap (QcRsI|[lW|Gb)
+
+"haywire"
+ar (^lDIbDGl|D)
+ap (^lDIbDGl|Gb)
+# ^go haywire $ (VERB) : WfWQbWWzIl Gl|Gb
+
+"hazardous"
+ar (Ws|^fQ^bD)
+ap (Ws|^fQ^bGb)
+
+"hazel"
+ar (AcWbQDbQsWz|)
+ap (AcWbQDbQsW|Gb)
+
+"hazy"
+ar (^zI|U^bD)
+ap (^zI|U^bGb)
+
+"head"
+ar (UfDGsWz|)
+ap (UfDGsW|Gb)
+
+"head-on"
+ar (XfWQjDWz|)
+ap (XfWQjDW|Gb)
+
+"headless"
+ar (RsDRjIWfRUDzD)
+ap (RsDRjIWfRUGb)
+
+"headstrong"
+ar (WlbDAl^bD)
+ap (WlbDAl^bGb)
+
+"heady"
+ar (Zs|^bAg ^bDzD)
+* Ws|UgAb Xl^Gb (state UbW\c)
+ap (Zs|^bAg ^bGb)
+
+"healing"
+ar (Z|IrWz|)
+ap (Z|IrW|Gb)
+
+"healthful"
+ar (AfDAbWWg Xl^WzD)
+ap (AfDAbWWg Xl^Gb)
+
+"healthy"
+ar (AfDAbW^bD)
+ap (AfDAbW^bGb)
+
+"heartbroken"
+ar (R|\bDWg XbQA|D)
+ap (R|\bDWg XbQA|Gb)
+
+"heartful"
+ar (X|DU|QWzIlRs\f WsIfDbD)
+ap (X|DU|QWzIlRs\f WsIfDbGb)
+
+"heartsick"
+ar (R|\bDWg XbQA|D)
+ap (R|\bDWg XbQA|Gb)
+
+"heartwarming"
+ar (QbWzQW| HbHzU^cX|DzD)
+ap (QbWzQW| HbHzU^cX|Gb)
+
+"hearty"
+ar (QbWzQWzIlRs\fWz|)
+* RcRsIzGb (meal U|AUb)
+ap (QbWzQWzIlRs\fW|Gb)
+
+"heated"
+ar (AbWjI^bD)
+ap (AbWjI^bGb)
+
+"heathen"
+ar (W|ArGlWz|)
+ap (W|ArGlW|Gb)
+
+"heating"
+ar (AbWjI^bDzD)
+ap (AbWjI^bGb:ADJ->VERB)
+
+"heavenly"
+ar (^bDzIWz|)
+ap (^bDzIW|Gb)
+
+"heavy"
+ar (QsAfWsD)
+* AjAU|Q^bGb (traffic Ar\lW)
+* AsIAGb (line UfD) (character AzIXb) (letter QsDXb)
+* QsAfRGb (letter ]jDX|) (luggage Us^bQsI) (gait AfIWzQAfIW|) (tax UgAzQ)
+* UgZbGb (rain R|) (snow DsD)
+* XcQ|WfRUGb (book ZcA)
+* XsWGc^bGb (task XbAWfR) (duty Wz|Qs)
+* [zGb (favorite UfD^l) (volume AfIcIdW) (demand UsWr) (sound UlI|) (noise UlWzQ)
+* ^|QGzIGb:ADJ->VERB (day DbI)
+ap (QsAfRGb)
+* AjAU|Q^bGb (traffic Ar\lW)
+* QsAfRGb (letter ]jDX|)
+
+# heavy and chemical industries (NOUN) : XsW^lb^bAAlWWfR
+# heavy cargo (NOUN) : XsWIdW^lbQsI
+# heavy goods (NOUN) : XsWIdW^lbQsI
+# heavy chemical (NOUN) : XsW^lb^bA
+# heavy consumption (NOUN) : GcIdWUlR|
+# heavy crop (NOUN) : Gc]sWXbA
+# heavy demand (NOUN) : GcIdWUsWr
+# heavy industry (NOUN) : XsWAlWWfR
+# heavy manufacturing industry (NOUN) : XsWAlWWfR
+# heavy metal (NOUN) : XsWAzQUlA
+# heavy lift charges (NOUN) : \zARjI XsWIdW^lbQsI XbW^bIr
+# heavy sin (NOUN) : XsWXl|
+# heavy tax (NOUN) : XsWUg
+# heavy with A (ADJ) : [(ADJUNCT A/Il) AbGzAZb<VERB>]/Gb
+
+"hectic"
+ar (^zWRsD^bD)
+ap (^zWRsD^bGb)
+
+"heedful"
+ar (XsWz|A|]WzD)
+ap (XsWz|A|]Gb)
+
+"heedless"
+ar (RsXsWz|^bD)
+ap (RsXsWz|^bGb)
+
+"hefty"
+ar ([zAl \zD\zD^bD)
+ap ([zAl \zD\zD^bGb)
+
+"heinous"
+ar (WbXs DbSzD)
+* AzAWbA QsGl^bGb (criminal RfQW|D)
+ap (WbXs DbSzGb)
+
+"helluva"
+ar (WbXs AlDIbD^bD)
+ap (WbXs AlDIbD^bGb)
+
+"helpful"
+ar (GlWsQW| Gl|DzD)
+ap (GlWsQW| Gl|Gb:ADJ->VERB)
+
+"helpless"
+ar (UzUzIl WfHf^AgGl ^bI Us WfRUDzD)
+ap (UzUzIl WfHf^AgGl ^bI Us WfRUGb)
+
+"her"
+ar (AzDjWz|)
+ap (AzDjW|Gb)
+//#' her ^PRESP (VERB) : AzDjAb PRESP ^bGb
+
+"herbal"
+ar (]sIWz|)
+ap (]sIW|Gb)
+
+"here"
+ar (WjA|)
+
+"heredirary"
+ar (UgUzRWz|)
+ap (UgUzRW|Gb)
+
+"heritable"
+ar (QsIIjXsI Us WfRUDzD)
+ap (QsIIjXsI Us WfRUGb)
+
+"heroic"
+ar (WjWWsWXfAW|D)
+ap (WjWWsWXfAW|Gb)
+
+"hesitant"
+ar (QfQsUAfI|DzD)
+ap (QfQsUAfI|Gb:ADJ->VERB)
+
+"hesitative"
+ar (XsXf^bDzD)
+ap (XsXf^bGb:ADJ->VERB)
+
+"heterogeneous"
+ar (W|X|IXfAW|D)
+ap (W|X|IXfAW|Gb)
+
+"hidden"
+ar (UsQAjX|D)
+* UsQAjX|Gb (opening AsQfW)
+ap (UsQAjX|Gb)
+# hidden asset (NOUN) : WzDD|AXbUbD
+# hidden loan (NOUN) : UbZc
+# hidden persuader (NOUN) : UsQWzD UfIGzAXb
+# hidden reserve (NOUN) : R|Q|IXfAI|RAzQ
+
+"hideous"
+ar (QsU|QsU|^bD)
+ap (QsU|QsU|^bGb)
+
+"hierarchical"
+ar (AkZzWXfAW|D)
+ap (AkZzWXfAW|Gb)
+
+"high"
+ar (Dl]WzD)
+* SbIzGb (speed UlAIjA)
+* R|VbGb (cost AbAjA) (price AbAjA)
+* AlAs|^bD (happiness ^cWRlA) (felicity ^cWRlA)
+* Dl]Gb (rent W|QGcIr) (descent AbQsD) (structure AsXlQsI) (mark XfQUs)
+ap (Dl]Gb)
+
+# high frequency (NOUN) : AlXs]b
+# high income brackets (NOUN) : AlWcAUlGzAZzW
+# high income nation (NOUN) : AlUlGzAAsA
+# high income product (NOUN) : AlUlGzAUcWUbDQsI
+# high jumping (NOUN) : Dl]W|Hs|A|
+# high mass consumption (NOUN) : AlGlGcXsWUlR|
+# high pressure economy (NOUN) : AlWbRAjWXg
+# high quality manpower (NOUN) : WdWX|IWz| DlGlWIjA
+# high seas (NOUN) : AlW^c
+# high school (NOUN) : AlGzW^bAAr
+# high school life (NOUN) : AlGzW^bAAr UcW^lbI
+# NUM1 feet high (ADJ) :  [(ADJUNCT [(NMODS NUM1{+DGTNUM}) ]|\z<NOUN>]/QbD[zQ) Dl]<ADJ>]/Gb
+//# NUM1 NOUN {+UNIT} ^high (ADJ) : NUM1 {+DGTNUM} NOUN QbD[zQ Dl]WzD
+
+"high-capacity"
+ar (AlUfWDzWWz|)
+ap (AlUfWDzWW|Gb)
+
+"high-contrast"
+ar (AlGcR|Wz|)
+ap (AlGcR| W|Gb)
+
+"high-end"
+ar (Zl|AlWz|)
+ap (Zl|AlW|Gb)
+
+"high-performance"
+ar (AlUfWDzWWz|)
+ap (AlUfWDzWW|Gb)
+
+"high-powered"
+ar (AbWIjA^bD)
+ap (AbWIjA^bGb)
+
+"high-priced"
+ar (AlAbWz|)
+ap (AlAbW|Gb)
+
+"high-quality"
+ar (Al]sQX|IWz|)
+ap (Al]sQX|IW|Gb)
+
+"high-speed"
+ar (AlUlAWz|)
+ap (AlUlAW|Gb)
+
+"highborn"
+ar (QjWQsD ZsIU|DWz|)
+ap (QjWQsD ZsIU|DW|Gb)
+
+"highland"
+ar (AlX|Wz|)
+ap (AlX|W|Gb)
+
+"hind"
+ar (^sRsWz|)
+ap (^sRsW|Gb)
+
+"hinder"
+ar (Gs|YlAWz|)
+ap (Gs|YlAW|Gb)
+
+"hindermost"
+ar (AbXbW Gs|YlAWz|)
+ap (AbXbW Gs|YlAW|Gb)
+
+"hindi"
+ar (RsARsW|DGlWz|)
+ap (RsARsW|DGlW|Gb)
+
+"hindmost"
+ar (AbXbW Gs|YlAWz|)
+ap (AbXbW Gs|YlAW|Gb)
+
+"hindu"
+ar (^|DGsWz|)
+ap (^|DGsW|Gb)
+
+"hindustani"
+ar (^|DGsWz|)
+ap (^|DGsW|Gb)
+
+"hinged"
+ar (AjWZfRW| W|VDzD)
+ap (AjWZfRW| W|VGb)
+
+"hip"
+ar (Ww^cWWg XfW\lW^bD)
+ap (Ww^cWWg XfW\lW^bGb)
+
+"hip-hugger"
+ar (WsgW|Uz\zIbW|DW| DbXWzD)
+ap (WsgW|Uz\zIbW|DW| DbXGb)
+
+"hipped"
+ar (WfWGfWW|Ab W|VDzD)
+ap (WfWGfWW|Ab W|VGb)
+
+"hipped"
+ar (WjIXsW^bD)
+ap (WjIXsW^bGb)
+
+"hippie"
+ar (^|]| XlAWz|)
+ap (^|]| XlAW|Gb)
+
+"hirable"
+ar (AlWrW^bI Us W|VDzD)
+ap (AlWrW^bI Us W|VGb)
+
+"hircine"
+ar (WjQUlWz|)
+ap (WjQUlW|Gb)
+
+"hire-purchase"
+ar (RsD^bI X|RsIU|AWz|)
+ap (RsD^bI X|RsIU|AW|Gb)
+
+"hired"
+ar (AlWrW^bD)
+ap (AlWrW^bGb)
+
+"hireling"
+ar (GlDWzI Ws|^cUf W|I^bDzD)
+ap (GlDWzI Ws|^cUf W|I^bGb:ADJ->VERB)
+
+"hirsute"
+ar (\fIW| AfZ|D)
+ap (\fIW| AfZ|IGb)
+
+"his"
+ar (AzWz|)
+* AzWz| (time U|Gc) (plane R|^cWA|) (injury RsUbW) (number RfD^l)
+ap (AzW|Gb)
+
+//# his ^PRESP (VERB) : AzAb PRESP ^bGb
+//# his A : [(NMODS [AzWz|<NOUN>]) A]
+//# her A : [(NMODS [AzWz|<NOUN>]) A]
+# his or her (ADJ) : AzWz|
+
+"hispanic"
+ar (Uz]gW|DWz|)
+ap (Uz]gW|DW|Gb)
+
+"hispid"
+ar (AfZ|IAl SbUSbU^bD \fIW| W|VDzD)
+ap (AfZ|IAl SbUSbU^bD \fIW| W|VGb)
+
+"historic"
+ar (WjAUbXfAW|D)
+* WjAUbUbW WwQjW^bGb (spot AlU)
+* WwUfA|]Gb (castle UsGlWsfD)
+* WjAUbXfAW|Gb (task W|I) (work WfRXfA) (remains WwXfA)
+ap (WjAUbXfAW|Gb)
+
+# historic of present (NOUN) : UbUsIXfA ^jDXg
+# historic present (NOUN) : UbUsIXfA ^jDXg
+//# historic remains (NOUN) : WjAUbXfAW|D WwQsIGzI
+
+"historical"
+ar (WjAUbWz|)
+* WjAUbXfAW|Gb (task W|I) (work WfRXfA)
+ap (WjAUbXfAW|Gb)
+
+# historical costs (NOUN) : Zs|GzAWsfDAb
+# historical geography (NOUN) : WjAUbX|I|^bA
+# historical materialism (NOUN) : UbXfA WwQsIIlD
+# historical truth (NOUN) : WjAUbXfA UbU|I
+
+"historied"
+ar (WjAUbUbW WwQjW^bD)
+ap (WjAUbUbW WwQjW^bGb)
+
+"histrionic"
+ar (RcWsWz|)
+ap (RcWsW|Gb)
+
+"hit-and-miss"
+ar (Gl|DzDGcIl ^bD)
+ap (Gl|DzDGcIl ^bGb)
+
+"hit-and-run"
+ar (Z|Al GbII|DzD)
+ap (Z|Al GbII|Gb:ADJ->VERB)
+
+"hitless"
+ar (Z|X| WbD^DzD)
+ap (Z|X| WbD^Gb)
+
+"hitormiss"
+ar (GbAZ|DzD GcIlWz|)
+ap (GbAZ|DzD GcIlW|Gb)
+
+"hoarse"
+ar (AfZ|D)
+ap (AfZ|IGb)
+
+"hoary"
+ar (^l|RcAUcAWz|)
+ap (^l|RcAUcAW|Gb)
+
+"hoary-headed"
+ar (QfI|Ab ^z|D)
+ap (QfI|Ab ^z|Gb)
+
+"hob-and-nob"
+ar (Z|D^bD)
+ap (Z|D^bGb)
+
+"hodden"
+ar (UlDWzIl YbD)
+ap (UlDWzIl YbGb)
+
+"hog-wild"
+ar (QlRU| ^zWRsD^bD)
+ap (QlRU| ^zWRsD^bGb)
+
+"hoggish"
+ar (GlcX|Ab\WzD)
+ap (GlcX|Ab\Gb)
+
+"hogmaned"
+ar (AbIA|IzI YbIRAg BbBWzD)
+ap (AbIA|IzI YbIRAg BbBGb)
+
+"hoitytoity"
+ar (XsXgDfQWzD)
+ap (XsXgDfQGb)
+
+"holdover"
+ar (DbQWzD)
+ap (DbQGb)
+
+"holdthe-line"
+ar (^jDUbWWwX|Wz|)
+ap (^jDUbWWwX|W|Gb)
+
+"holdup"
+ar (AbW\bI^bDzD)
+ap (AbW\bI^bGb:ADJ->VERB)
+
+"hole-in-the-wall"
+ar (XlAzQb^bD)
+ap (XlAzQb^Gb)
+
+"holeandcorner"
+ar (R|Q|IWz|)
+ap (R|Q|IW|Gb)
+
+"holey"
+ar (AsQfW\sUfWW|Wz|)
+ap (AsQfW\sUfWW|W|Gb)
+
+"holiday"
+ar (WjWwW|VDzD)
+* ZsAXgAb\Gb (mood A|RsD)
+* ZsAXgWg WfWsII|Gb:ADJ->VERB (clothes WlU)
+ap (WjWwW|VGb)
+
+# ^be home for the holidays (VERB) : ^wAbIl As|^dW XsWWg W|VGb
+# ^make a holiday of it (VERB) : ^wWfR^bAl ZsA^b^bGb
+# ^make holiday (VERB) : ^wWfR^bGb
+# on holiday  (PP->ADV) : ^wAbIzI WfGWf
+# ^take a holiday (VERB) : Us|Gb
+
+"hollow"
+ar (\fW R|Wf W|VDzD)
+ap (\fW R|Wf W|VGb)
+
+"hollow-eyed"
+ar (DsDW| WsQsA^bD)
+ap (DsDW| WsQsA^bGb)
+
+"hollow-hearted"
+ar (RsIUfWU|I^bD)
+ap (RsIUfWU|I^bGb)
+
+"holocene"
+ar (^jDUgWz|)
+ap (^jDUgW|Gb)
+
+"holograph"
+ar (Xb]|IWz|)
+ap (Xb]|IW|Gb)
+
+"holoscopic"
+ar (XfD U|WdXfAW|D)
+ap (XfD U|WdXfAW|Gb)
+
+"holy"
+ar (U|DUfW^bD)
+* AjWAfD^bGb (attitude \cGl)
+* AlDIbD^bGb (behavior ^cWGlW)
+ap (U|DUfW^bGb)
+
+# holy bread (NOUN) : UfWZbDU|AWrW SbW
+# holy loaf (NOUN) : Q|UbWrW SbW
+# holy day (NOUN) : ZsAXgW|I
+# Holy Father (NOUN) : Ar^lbW
+# Holy Ghost (NOUN) : UfWIjW
+# Holy Spirit (NOUN) : UfWIjW
+# holy orders (NOUN) : UfWX|A
+# holy place (NOUN) : UfWX|
+# Holy Saturday (NOUN) : UfW \lWrW|I
+# holy terror (NOUN) : U|IIl AbAlW^bI QbD^bD \gIf
+# Holy Thursday (NOUN) : UzWZfD ZsAW|I
+# holy wars (NOUN) : UfWXfD
+# holy water (NOUN) : UfWUs
+# the Holiest (NOUN) : X|UfWXb
+# the Holy City (NOUN) : UfWGl WkIsUbIIgQ
+# the Holy Land (NOUN) : UfWX|
+# the Holy Name (NOUN) : AzI|UzGlWz| W|IzQ
+# the Holy Office (NOUN) : XlWAr Xc]bDUl
+# the Holy One (NOUN) : UfWXb
+# the Holy Roman Empire (NOUN) : U|DUfW IlQbXgAsA
+# the Holy See (NOUN) : UfWXlb
+# the Holy Week (NOUN) : UfWXsAbD
+# the Holy Writ (NOUN) : UfWUf
+
+"home"
+ar (X|RWz|)
+* AsADcWz| (products UbW]sQ) (affairs UbQs)
+* AzRUlIzI Y|IzGb:ADJ->VERB (question X|IQsD)
+ar (X|RW|Gb)
+
+# home affairs (NOUN) : AsADcQsDXg
+# home consumption (NOUN) : AsADc UlR|
+# home economics (NOUN) : AbXfW^bA
+# home farm (NOUN) : XbXbADlWXbW
+# home fire (NOUN) : ^lbIlURsI
+# home front (NOUN) : ^sRbW
+# home ground (NOUN) : ^lWsQAzIbWsDGz
+# Home Guard (NOUN) : X|RbW Wz|WrWRjW
+# home industries (NOUN) : AsADc UbDWfR
+# Home Loan (NOUN) : DcAsAZc
+# home market (NOUN) : AsADc U|XbW
+# home products (NOUN) : AsAUbD]sQ
+# home project (NOUN) : AbXfW U|IUzR
+# Home Rule (NOUN) : XbZ|
+# home run (NOUN) : ^lQIfD
+# home thrust (NOUN) : AzRUlIzI [sA Y|IzA|
+# the Home Office (NOUN) : DcQsUfW
+# the Home Secretary (NOUN) : XbWAlbD
+
+"home-born"
+ar (RlDAsAWgUf \cWfDbD)
+ap (RlDAsAWgUf \cWfDbGb)
+
+"home-bound"
+ar (RlDAsAWzIl AbDzD)
+ap (RlDAsAWzIl AbGb:ADJ->VERB)
+
+"home-brewed"
+ar (XbAb WdWXlWz|)
+ap (XbAb WdWXlW|Gb)
+
+"home-grown"
+ar (RlDAsAUbDWz|)
+ap (RlDAsAUbDW|Gb)
+
+"homebred"
+ar (XbA| X|RWgUf XbIbD)
+ap (XbA| X|RWgUf XbIbGb)
+
+"homefelt"
+ar (XfIU|I^bD)
+ap (XfIU|I^bGb)
+
+"homekeeping"
+ar (XgX|RWg \zIWfRbA^j W|VA|IzI Xl^Wb^bDzD)
+ap (XgX|RWg \zIWfRbA^j W|VA|IzI Xl^Wb^bGb:ADJ->VERB)
+
+"homeless"
+ar (X|RWfRUDzD)
+ap (X|RW| WfRUGb)
+
+"homelike"
+ar (XbA| X|R Ab\WzD)
+ap (XbA| X|R Ab\Gb)
+
+"homely"
+ar (XbA| X|R Ab\WzD)
+ap (XbA| X|R Ab\Gb)
+
+"homemade"
+ar (X|RWgUf QbDGzD)
+ap (X|RWgUf QbDGzIGb)
+
+"homeric"
+ar (^lQfWz|)
+ap (^lQfW|Gb)
+
+"homerless"
+ar (^lQIfDW| WfRUDzD)
+ap (^lQIfDW| WfRUGb)
+
+"homesick"
+ar (QbW^dWRjWWz|)
+ap (QbW^dWRjWW|Gb)
+
+"homespun"
+ar (UlDWzIl YbD)
+* UlRbA^bD (virtue Q|GfA)
+ap (UlDWzIl YbGb)
+
+"homeward"
+ar (X|RWzIl ^dW^bDzD)
+ap (X|RWzIl ^dW^bGb:ADJ->VERB)
+
+"homey"
+ar (AbXfWWz|)
+ap (AbXfWW|Gb)
+
+"homiletic"
+ar (UfIArWz|)
+ap (UfIArW|Gb)
+
+"homiletical"
+ar (UfIArWz|)
+ap (UfIArW|Gb)
+
+"homing"
+ar (X|RWzIl GlIWbAbDzD)
+ap (X|RWzIl GlIWbAbGb:ADJ->VERB)
+# homing device (NOUN) : XbGlW WwGl XbWZ|
+# homing pigeon (NOUN) : XfDUfAs
+# homing torpedo (NOUN) : AbQWzW WfIl|
+
+"homocentric"
+ar (Ab\WzD XsWU|QWzI AbX|DzD)
+ap (Ab\WzD XsWU|QWzI AbX|Gb:ADJ->VERB)
+
+"homogeneous"
+ar (GlWX|IWz|)
+ap (GlWX|IW|Gb)
+
+"homologous"
+ar (W|IZ|^bDzD)
+ap (W|IZ|^bGb:ADJ->VERB)
+
+"homonymic"
+ar (GlWWzQ W|Wz|WfWz|)
+ap (GlWWzQ W|Wz|WfW|Gb)
+
+"homonymous"
+ar (GlWWzQ W|Wz|WfWz|)
+ap (GlWWzQ W|Wz|WfW|Gb)
+
+"homophile"
+ar (GlWUfWWjDWcXbWz| AsfDI|Wlb RlAX|Wg AlbDU|QWzI AbX|D)
+ap (GlWUfWWjDWcXbWz| AsfDI|Wlb RlAX|Wg AlbDU|QWzI AbX|Gb)
+
+"homosexual"
+ar (GlWUfWWcWz|)
+ap (GlWUfWWcW|Gb)
+
+"homy"
+ar (AbXfWGbWsD)
+ap (AbXfWGbRGb)
+
+"honest"
+ar (XfWX|A^bD)
+* XfWGbW^bGb (wealth Rs) (living UcW^lbI)
+* UsDUs^bGb (milk WsWw) (commodity UbW]sQ)
+* U|DWrW^bI Us W|VGb (name W|IzQ) (account ^l|Ak)
+ap (XfWX|A^bGb)
+
+# ^be honest with A (VERB) : [(ADJUNCT A/Wg) (MODS [XfWX|A^bAg<ADV>]) Gc^b<VERB>]/Gb
+
+"honey"
+ar (RfIBsIWz|)
+ap (RfIBsIW|Gb)
+
+"honey-mouthed"
+ar (QbIWzI XbI BsQjGcDzD)
+ap (QbIWzI XbI BsQjGcGb:ADJ->VERB)
+
+"honey-sweet"
+ar (BsIZfIfQ GbD)
+ap (BsIZfIfQ GbIGb)
+
+"honey-tongued"
+ar (GbI[lQ^bAg QbIXbI^bDzD)
+ap (GbI[lQ^bAg QbIXbI^bGb:ADJ->VERB)
+
+"honeyed"
+ar (BsIW| W|VDzD)
+ap (BsIW| W|VGb)
+
+"honky-tonk"
+ar (]jWRfQ^bD)
+ap (]jWRfQ^bGb)
+
+"honorable"
+ar (XlDAjW^bI QbD^bD)
+* WjWWkIlRGb (prize UbW)
+ap (XlDAjW^bI QbD^bGb)
+
+"honorary"
+ar (QjWWkUbWWz|)
+ap (QjWWkUbWW|Gb)
+
+"honorific"
+ar (AjWZ|WWz|)
+ap (AjWZ|WW|Gb)
+
+"hooded"
+ar (GsAfDWzI VzD)
+ap (GsAfDWzI VzGb)
+
+"hook-nosed"
+ar (QcRsI|[lWz|)
+ap (QcRsI|[lW|Gb)
+
+"hooked"
+ar (AbIAlI| QlWdWWz|)
+ap (AbIAlI| QlWdWW|Gb)
+
+"hooky"
+ar (AbIAlI| QlWdWWz|)
+ap (AbIAlI| QlWdWW|Gb)
+
+"hoop-la"
+ar (AzDUb^bD)
+ap (AzDUb^bGb)
+
+"hooped"
+ar (\gIzI GsIzD)
+ap (\gIzI GsIzGb)
+
+"hoopla"
+ar (AzDUb^bD)
+ap (AzDUb^bGb)
+
+"hoped-for"
+ar (A|GcGl|D)
+ap (A|GcGl|Gb)
+
+"hopeful"
+ar (^z|QbWWg ZbD)
+* WwQbW^bGb (prospect XfDGl) (young XfIQWzDW|)
+ap (^z|QbWWg ZbGb)
+
+"hopeless"
+ar (^z|QbWWzI W|I^WzD)
+ap (^z|QbWWzI W|I^Gb)
+
+"hopping"
+ar (BbWZlWBbWZlW Hs|DzD)
+ap (BbWZlWBbWZlW Hs|Gb:ADJ->VERB)
+
+"hoppy"
+ar (^lR Wz| ]sWQ|Ab W|VDzD)
+ap (^lR Wz| ]sWQ|Ab W|VGb)
+
+"horary"
+ar (U|AbDWz|)
+ap (U|AbDW|Gb)
+
+"horizontal"
+ar (X|]jWUfDUbWWz|)
+* AbIlWz| (line UfD)
+* Us]jWWzIl WsQX|AW|Gb:ADJ->VERB (wheel Rb[s|) (axis ZsA)
+ap (X|]jWUfDUbWW|Gb)
+
+# horizontal amalgamation (NOUN) : GlWWfRXbAbD ^bRRjW
+# horizontal bar (NOUN) : ZfIRlW
+# horizontal bombing (NOUN) : Us]jW]lAAjA
+# horizontal combination (NOUN) : ^l|WXfA A|WfRWjD^bR
+# horizontal engine (NOUN) : AbIl Dl^DzD A|AlbD
+# horizontal expansion (NOUN) : ^l|WXfA A|WfR^lbAXbW
+# horizontal integration (NOUN) : Us]jW\lW^bR
+# horizontal international specification (NOUN) : Us]jWXfA AsAXgRsDWfR
+# horizontal multiplier (NOUN) : Us]jWUzWUs
+# horizontal line (NOUN) : Us]jWUfD
+# horizontal parallax (NOUN) : X|]jW U|Zb
+# horizontal rudder (NOUN) : Us]jW\b
+# horizontal union (NOUN) : X|AWfRRjIXl^bR
+# horizontal trade (NOUN) : Us]jWQsWjA
+
+"horned"
+ar (SsI W|VDzD)
+ap (SsIW| W|VGb)
+# horned horse (NOUN) : UlWjWWdW
+# horned owl (NOUN) : UsI| RsWfWW|
+# the horned moon (NOUN) : ZlUcWGbI
+# horned toad (NOUN) : GlQbRcQ
+
+"hornless"
+ar (SsI WfRUDzD)
+ap (SsIW| WfRUGb)
+
+"horny"
+ar (SsIWz|)
+ap (SsIW|Gb)
+
+"horny-handed"
+ar (UlDW| AsGWfX|D)
+ap (UlDW| AsGWfX|Gb)
+
+"horologic"
+ar (U|AkWz|)
+ap (U|AkW|Gb)
+
+"horological"
+ar (U|AkWz|)
+ap (U|AkW|Gb)
+
+"horoscopic"
+ar (ZfDAsWGlWz|)
+ap (ZfDAsWGlW|Gb)
+
+"horoscopical"
+ar (ZfDAsWGlWz|)
+ap (ZfDAsWGlW|Gb)
+
+"horrendous"
+ar (QsUfWsD)
+ap (QsUfRGb)
+
+"horrent"
+ar (AlDGsUfD)
+ap (AlDGsUfGb)
+
+"horrible"
+ar (QsUfWsD)
+* X|GlA^bGb (life UcW^lbI) (smell DcQUc)
+ap (QsUfRGb)
+* BzQY|A^bGb (offense AlWAjA)
+
+"horrid"
+ar (QsUfWsD)
+ap (QsUfRGb)
+
+"horrific"
+ar (UlIzQB|Z|IQbD^bD)
+ap (UlIzQB|Z|IQbD^bGb)
+
+"horrifying"
+ar (QsUfWsD)
+ap (QsUfRGb)
+
+"horro-stricken"
+ar (AlW]lWg UbIlXbR^|D)
+ap (AlW]lWg UbIlXbR^|Gb)
+
+"horror-struck"
+ar (AlW]lWg UbIlXbR^|D)
+ap (AlW]lWg UbIlXbR^|Gb)
+
+"horse-faced"
+ar (QbIUbWWzI ^bD)
+ap (QbIUbWWzI ^bGb)
+
+"horseless"
+ar (QbIW| WfRUDzD)
+ap (QbIW| WfRUGb)
+
+"horsy"
+ar (QbIWz|)
+ap (QbIW|Gb)
+
+"horticultural"
+ar (WsfDWkWz|)
+ap (WsfDWkW|Gb)
+
+"hospitable"
+ar (GcXfRW| Xl^WzD)
+ap (GcXfRW| Xl^Gb)
+
+"hospital"
+ar (RjWWsfDWz|)
+ap (RjWWsfDW|Gb)
+
+"hostile"
+ar (XfAWz| W|VDzD)
+ap (XfAWz|Ab W|VGb)
+
+"hot"
+ar (HzAfWsD)
+* AbWIjI^bGb (color UcA) (trail XbZs|) (taste DcQUc)
+* AjAIjI^bGb (temper A|X|I) (emotion AbQXfW)
+* GfRGb (day DbI) (month GbI) (months AkXfI)
+* HbBzDHbBzD^bGb (meat WzQU|A)
+* HzAfRGb (drink WzQIr)
+* QcRGb (food WzQU|A)
+ap (HzAfRGb)
+* QcRGb (Kimchi WzQU|A) (food WzQU|A)
+
+# ^drop A  like a hot potato (VERB) : [(OBJ A/IzI) (MODS [^lbWAzR^|<ADV>]) DcRfI|<VERB>]/Gb
+# ^get it hot (VERB) : Gl|Ag WdGbDQbXGb
+# ^catch it hot (VERB) : Gl|Ag WdGbDQbXGb
+# ^have it hot (VERB) : QlRU| BsX|XGb
+# hot and heavy (NOUN) : QcWIjI^bD
+# hot and strong (ADV) : ^lGl|Ag
+# hot atom (NOUN) : RbWUbUfW WsfDXb
+# hot bill (NOUN) : WsIdWWfWzQ
+# hot blast (NOUN) : WrWAlbWIlWg RsIWfDf^DzD HzAfWsD RbIbQ
+# hot chair (NOUN) : Ub^jWWrW XfDA| Wz|Xb
+# hot money (NOUN) : AsAXg RsGlWXbAzQ
+# hot plate (NOUN) : WrI|WrW ZfI]bD
+# hot pot (NOUN) : Ul|AlA|
+# hot seat (NOUN) : XfDA|Wz|Xb
+# hot spring (NOUN) : WlDZfD
+# hot stuff (NOUN) : WsfDA|WlbWUfW^bD UbIbQ
+# hot war (NOUN) : WjIXfD
+# hot water (NOUN) : HzAfWsD QsI
+# hot under the collar (ADV) : ^lbAb XbDHzA DbUf
+# hot well (NOUN) : WlDZfW
+# ^make it too hot for A  (VERB) : [(OBJ A/WzI) AjDG|IUs WfRUAg ^b<VERB>]/Gb
+# make the place too hot for A  (VERB) : [(OBJ A/WzI) AjDG|IUs WfRUAg ^b<VERB>]/Gb
+
+"hot-air"
+ar (WjIA|Wz|)
+ap (WjIA|W|Gb)
+
+"hot-blooded"
+ar (WjIIjI^bD)
+ap (WjIIjI^bGb)
+
+"hot-brained"
+ar (AjA^bA| Us|WsD)
+ap (AjA^bA| Us|RGb)
+
+"hot-dog"
+ar (QrA|IzI RlW|DzD)
+ap (QrA|IzI RlW|Gb:ADJ->VERB)
+
+"hot-headed"
+ar (UfWAzR^bD)
+ap (UfWAzR^bGb)
+
+"hot-short"
+ar (WjIWg WdA^bD)
+ap (WjIWg WdA^bGb)
+
+"hot-shot"
+ar (WwDzW^bD)
+ap (WwDzW^bGb)
+
+"hot-tempered"
+ar (UfWAzR^bD)
+ap (UfWAzR^bGb)
+
+"hotcha"
+ar (QcIjAXfAW|D)
+ap (QcIjAXfAW|Gb)
+
+"hotspur"
+ar (UfWAzR^bD)
+ap (UfWAzR^bGb)
+
+"hottentot"
+ar (^l\gD\lUWz|)
+ap (^l\gD\lUW|Gb)
+
+"hourly"
+ar (^bD U|AbDQbGbWz|)
+ap (^bD U|AbDQbGbW|Gb)
+# hourly earnings (NOUN) : U|AbDGbWW|QAzQ
+
+"house-proud"
+ar (X|R XbIbWWzI ^bDzD)
+ap (X|R XbIbWWzI ^bGb:ADJ->VERB)
+
+"house-to-house"
+ar (^lRjIWz|)
+ap (^lRjIW|Gb)
+
+"housebroken"
+ar (X|RWg A|IGzIWjX|D)
+ap (X|RWg A|IGzIWjX|Gb)
+
+"housekeeping"
+ar (AbXfWWz|)
+ap (AbXfWXfAW|Gb)
+
+"houseless"
+ar (X|RWfRUDzD)
+ap (X|RW| WfRUGb)
+
+"housewifely"
+ar (XsRsGbWsD)
+ap (XsRsGbRGb)
+
+"how-to"
+ar (W|RQsDWz|)
+ap (W|RQsDW|Gb)
+
+"howling"
+ar (X|XDzD)
+ap (X|XGb)
+
+"hoydenish"
+ar (QbIAlbIIdWW| Ab\WzD)
+ap (QbIAlbIIdWW| Ab\Gb)
+
+"hubbly"
+ar (^lA\sUfWW|Wz|)
+ap (^lA\sUfWW|W|Gb)
+
+"hubrid"
+ar (XbRXlWWz|)
+ap (XbRXlWW|Gb)
+
+"hucklebacked"
+ar (AlRUbGzWW|Wz|)
+ap (AlRUbGzWW|W|Gb)
+
+"huffish"
+ar (U|QsIsA^bD)
+ap (U|QsIsA^bGb)
+
+"huffy"
+ar (U|QsIsA^bD)
+ap (U|QsIsA^bGb)
+
+"huge"
+ar (AfGc^bD)
+ap (AfGc^bGb)
+
+"hugeous"
+ar (AfGc^bD)
+ap (AfGc^bGb)
+
+"hulking"
+ar (QlQX|RW| [zD)
+ap (QlQX|RW| [zGb)
+
+"human"
+ar (UbIbQWz|)
+* UbIbQWz| (term W|RXbW)
+ap (UbIbQW|Gb)
+# human document (NOUN) : W|DAbD A|IlA
+# human geography (NOUN) : W|DQsD X|I|^bA
+# human relations (NOUN) : W|DAbDAlbDAk
+# human torpedo (NOUN) : W|DAbDWfIl|
+# human nature (NOUN) : UbIbQWz| UfWAjA
+
+"humane"
+ar (W|DGlXfAW|D)
+ap (W|DGlXfAW|Gb)
+# humane killer (NOUN) : Qs\lW GlUbIA|
+# the Humane Socity (NOUN) : \sU|DXb AsXl^l|
+
+"humanistic"
+ar (W|DAbDUfW WjDAsWz|)
+ap (W|DAbDUfW WjDAsW|Gb)
+
+"humanitarian"
+ar (W|DGlXsWz|Wz|)
+ap (W|DGlXsWz|W|Gb)
+
+"humanoid"
+ar (UbIbQAb\WzD)
+ap (UbIbQAb\Gb)
+
+"humble"
+ar (ZlIb^bD)
+* RlXbIAfU WfRUGb (place XbI|) (opinion AjD^c)
+* WjIGzW^bGb (ability DzWIjA) (position X|Ws|)
+* ZlIb^bGb (cloth WlU) (dwelling X|R) (income UsW|R)
+* AjQUlD^bGb (~ {+HUMAN})
+ap (ZlIb^bGb)
+
+# be it so humble (ADV) : WbQsI| ZlIb^bGfIbGl
+
+"humdrum"
+ar (]jWRfQ^bD)
+ap (]jWRfQ^bGb)
+
+"humeral"
+ar (UbWRbAAlIWz|)
+ap (UbWRbAAlIW|Gb)
+
+"humid"
+ar (UzRA|Ab W|VDzD)
+ap (UzRA|Ab W|VGb)
+
+"humiliating"
+ar (AsIWrAXfAW|D)
+ap (AsIWrAXfAW|Gb)
+
+"humming"
+ar (Ws|WWs|W UlI|DcDzD)
+ap (Ws|WWs|W UlI|DcGb:ADJ->VERB)
+
+"humoral"
+ar (ZgWcAWz|)
+ap (ZgWcAW|Gb)
+
+"humoristic"
+ar (^c^bAXfAW|D)
+ap (^c^bAXfAW|Gb)
+
+"humorless"
+ar (^c^bAW| WfRUDzD)
+ap (^c^bAW| WfRUGb)
+
+"humorous"
+ar (^c^bAXfAW|D)
+* WwQfIfUz^bGb (side QjD)
+ap (^c^bAXfAW|Gb)
+
+"humorsome"
+ar (RjDGfAUzIfWsD)
+ap (RjDGfAUzIfRGb)
+
+"humped"
+ar (^lAW| W|VDzD)
+ap (^lAW| W|VGb)
+
+"humptydumpty"
+ar (HbWHbIQbA^bD)
+ap (HbWHbIQbA^bGb)
+
+"humpy"
+ar (^lAW| W|VDzD)
+ap (^lAW| W|VGb)
+
+"hunchy"
+ar (^lAW| W|VDzD)
+ap (^lAW| W|VGb)
+
+"hundred"
+ar (100Wz|)
+* 100 AcWz| (~ {-HUMAN})
+* 100 QjWWz| (~ {+HUMAN})
+* 100 AsfDWz| (book ZcA) (dictionary UbXfD)
+ar (100W|Gb)
+
+"hundredfold"
+ar (100RcWz|)
+ap (100RcW|Gb)
+
+"hundredpercent"
+ar (WlbDXfD^bD)
+ap (WlbDXfD^bGb)
+
+"hundredproof"
+ar (WbI[lIRsD 50GlWz|)
+ap (WbI[lIRsD 50GlW|Gb)
+
+"hundredth"
+ar (100RfDYcWz|)
+ap (100RfDYcW|Gb)
+
+"hungarian"
+ar (^bWAbI|Wz|)
+ap (^bWAbI|W|Gb)
+
+"hungry"
+ar (RcAl]zD)
+ap (RcAl]zGb)
+//# ^be hungry (VERB->ADJ) : [(SCOMP [Rc<NOUN>]/Ab) Al]z<ADJ>]/Gb
+# ^get hungry $ (VERB) : [(SCOMP [Rc<NOUN>]/Ab) Al]bX|<VERB>]/Gb
+
+"hunkey"
+ar (GbDXfW^bD)
+ap (GbDXfW^bGb)
+
+"hunkie"
+ar (GbDXfW^bD)
+ap (GbDXfW^bGb)
+
+"hunkydory"
+ar (QbDXlAUzIfWsD)
+ap (QbDXlAUzIfRGb)
+
+"hunnish"
+ar (^wWDlWz|)
+ap (^wWDlW|Gb)
+
+"hurlyhurlburly"
+ar (U|BzIfWsD)
+ap (U|BzIfRGb)
+
+"hurried"
+ar (UfGsIzDzD)
+ap (UfGsIzGb:ADJ->VERB)
+
+"hurryscurry"
+ar (^lbWAzR^bD)
+ap (^lbWAzR^bGb)
+
+"hurryup"
+ar (AzR^| UfGsIzDzD)
+ap (AzR^| UfGsIzGb:ADJ->VERB)
+
+"hurt"
+ar (GbZ|D)
+ap (GbZ|Gb)
+//* UbWU|Q^bGb (~ {+HUMAN})
+
+"hurtful"
+ar (^cIlWsD)
+ap (^cIlRGb)
+
+"hurtless"
+ar (^cIlRX| WbD^WzD)
+ap (^cIlRX| WbD^Gb)
+
+"husband"
+ar (DbQ]jDWz|)
+ap (DbQ]jDW|Gb)
+
+"hushed"
+ar (XbQXbQ^bD)
+ap (XbQXbQ^bGb)
+
+"hushhush"
+ar (AzAR|Wz|)
+ap (AzAR|W|Gb)
+
+"husky"
+ar (BfRX|IWz|)
+ap (BfRX|IW|Gb)
+
+"husting"
+ar (^lbIGlWXfAW|D)
+ap (^lbIGlWXfAW|Gb)
+
+"hyacinthine"
+ar (^|WbU|DGzWz|)
+ap (^|WbU|DGzW|Gb)
+
+"hyaena"
+ar (WwI|Ab\WzD)
+ap (WwI|Ab\Gb)
+
+"hyaloid"
+ar (WwI| QlWdWWz|)
+ap (WwI| QlWdWW|Gb)
+
+"hybrid"
+ar (XbRXlWWz|)
+ap (XbRXlWW|Gb)
+
+"hydraheaded"
+ar (QfI|Ab QbD^WzD)
+ap (QfI|Ab QbD^Gb)
+
+"hydraulic"
+ar (UsIjA^bAXfAW|D)
+ap (UsIjA^bAXfAW|Gb)
+# hydraulic efficiency (NOUN) : UsIjA^rWwI
+# hydraulic power (NOUN) : UsIjA
+# hydraulic power plant (NOUN) : UsIjA RbIXfDUl
+# hydraulic power station (NOUN) : UsIjA RbIXfDUl
+
+"hydric"
+ar (UsUlWz|)
+ap (UsUlW|Gb)
+
+"hydro"
+ar (UsIjA XfDA|Wz|)
+ap (UsIjA XfDA|W|Gb)
+
+"hydrocephalus"
+ar (WjQ^lbUsUlWz|)
+ap (WjQ^lbUsUlW|Gb)
+
+"hydrocyanic"
+ar (U|WbD^lb UsUlWz|)
+ap (U|WbD^lb UsUlW|Gb)
+
+"hydrodynamic"
+ar (UsIjA^bAWz|)
+ap (UsIjA^bAW|Gb)
+
+"hydroelectric"
+ar (UsIjA XfDA|Wz|)
+ap (UsIjA XfDA|W|Gb)
+# hydroelectric power plant (NOUN) : UsIjARbIXfDUl
+# hydroelectric power station (NOUN) : UsIjARbIXfDUl
+
+"hydrofluoric"
+ar (RsI^lb UsUlWz|)
+ap (RsI^lb UsUlW|Gb)
+
+"hydrogenous"
+ar (UsUlWz|)
+ap (UsUlW|Gb)
+
+"hydrometrical"
+ar (WcAZgR|XsWAkWz|)
+ap (WcAZgR|XsWAkW|Gb)
+
+"hydropathic"
+ar (UsZ|IrRfRWz|)
+ap (UsZ|IrRfRW|Gb)
+
+"hydropic"
+ar (UsXlWWz|)
+ap (UsXlWW|Gb)
+
+"hydrostatic"
+ar (XfWUsWz|)
+ap (XfWUsW|Gb)
+
+"hydrostatical"
+ar (XfWUsWz|)
+ap (XfWUsW|Gb)
+
+"hydrotheraeutic"
+ar (UsZ|IrRfRWz|)
+ap (UsZ|IrRfRW|Gb)
+
+"hydrothermal"
+ar (WjIUsWz|)
+ap (WjIUsW|Gb)
+
+"hydrotropism"
+ar (^bQUsWz|)
+ap (^bQUsW|Gb)
+
+"hydrozoan"
+ar (^|GzIlZsWIwWz|)
+ap (^|GzIlZsWIwW|Gb)
+
+"hygienic"
+ar (Ws|UcW^bAWz|)
+ap (Ws|UcW^bAXfAW|Gb)
+
+"hygienical"
+ar (Ws|UcW^bAWz|)
+ap (Ws|UcW^bAXfAW|Gb)
+
+"hygroscopic"
+ar (AfQUzRA|Wz|)
+ap (AfQUzRA|W|Gb)
+
+"hylic"
+ar (QsIX|IWz|)
+ap (QsIX|IXfAW|Gb)
+
+"hymeneal"
+ar (^lDW|DWz|)
+ap (^lDW|DW|Gb)
+
+"hymenopteron"
+ar (ZbDUlWAbWz|)
+ap (ZbDUlWAbW|Gb)
+
+"hyoid"
+ar (U Xb^jWWz|)
+ap (U Xb^jWW|Gb)
+
+"hyperacid"
+ar (Ws|UbD AlbGbWz|)
+ap (Ws|UbD AlbGbW|Gb)
+
+"hyperbolic"
+ar (AlbXbW^bD)
+ap (AlbXbW^bGb)
+
+"hyperbolical"
+ar (AlbXbWRfRWz|)
+ap (AlbXbWRfRXfAW|Gb)
+
+"hyperborean"
+ar (RsARbW XfW\lWg UbDzD UbIbQGzIWz|)
+ap (RsARbW XfW\lWg UbDzD UbIbQGzIW|Gb)
+
+"hypercritical"
+ar (^lA]jW^bDzD)
+ap (^lA]jW^bGb:ADJ->VERB)
+
+"hypermetric"
+ar (WzQXfIW| AlbGb^bD)
+ap (WzQXfIW| AlbGb^bGb)
+
+"hypermetrical"
+ar (WzQXfIW| AlbGb^bD)
+ap (WzQXfIW| AlbGb^bGb)
+
+"hypermetropic"
+ar (WsfDU|Wz|)
+ap (WsfDU|XfAW|Gb)
+
+"hyperopia"
+ar (Q|DAbQ^bD)
+ap (Q|DAbQ^bGb)
+
+"hypersonic"
+ar (AzAZlWzQUlAWz|)
+ap (AzAZlWzQUlAW|Gb)
+
+"hypertensive"
+ar (Al^jIWbRWz|)
+ap (Al^jIWbRW|Gb)
+
+"hypertrophic"
+ar (R|GcUfWWz|)
+ap (R|GcUfWW|Gb)
+
+"hypertrophied"
+ar (R|GcUfWWz|)
+ap (R|GcUfWW|Gb)
+
+"hyphenated"
+ar (^bW|]zDWzIl W|WzD)
+ap (^bW|]zDWzIl W|UGb)
+
+"hypnotic"
+ar (Zl|QjDWz|)
+ap (Zl|QjDW|Gb)
+
+"hypochondriac"
+ar (WsWsIXzWWz|)
+ap (WsWsIXzWW|Gb)
+
+"hypochondriacal"
+ar (WsWsIXzWWz|)
+ap (WsWsIXzWW|Gb)
+
+"hypocoristic"
+ar (Z|DWcAbQWzI Db\bDcDzD)
+ap (Z|DWcAbQWzI Db\bDcGb:ADJ->VERB)
+
+"hypocrite"
+ar (Ws|UfDXbWz|)
+ap (Ws|UfDXbW|Gb)
+
+"hypocritic"
+ar (Ws|UfDWz|)
+ap (Ws|UfDW|Gb)
+
+"hypocritical"
+ar (Ws|UfDWz|)
+ap (Ws|UfDW|Gb)
+
+"hypodermic"
+ar (]|^bWz|)
+ap (]|^bW|Gb)
+
+"hypogastric"
+ar (^bRlARsWz|)
+ap (^bRlARsW|Gb)
+
+"hypostatic"
+ar (RlDX|IWz|)
+ap (RlDX|IXfAW|Gb)
+
+"hypostyle"
+ar (GbXsU|AWz|)
+ap (GbXsU|AW|Gb)
+
+"hypotension"
+ar (Xf^jIWbRWz|)
+ap (Xf^jIWbRW|Gb)
+
+"hypothetic"
+ar (AbUfIWz|)
+ap (AbUfIW|Gb)
+
+"hypothetical"
+ar (AbUfIWz|)
+ap (AbUfIW|Gb)
+
+"hysteric"
+ar (^|Uz\gI|Wz|)
+ap (^|Uz\gI|W|Gb)
+
+"hysterical"
+ar (^|Uz\gI|Wz|)
+ap (^|Uz\gI|W|Gb)
+
+"hysteroid"
+ar (^|Uz\gI| R|UzU^bD)
+ap (^|Uz\gI| R|UzU^bGb)
+
+"hysteroidal"
+ar (^|Uz\gI| R|UzU^bD)
+ap (^|Uz\gI| R|UzU^bGb)

@@ -1,0 +1,273 @@
+"obediently"
+(RlAXlW^bWj)
+
+"objectively"
+(AcAAlbDXfAWzIl)
+
+"obligingly"
+(Z|DXfI^bAg)
+
+"obscurely"
+(WfGsRAg)
+
+"observably"
+(DsDWg Hz|Ag)
+
+"observationally"
+(AlbDZbIUbW)
+
+"obstinately"
+(WlbDAl^bAg)
+
+"obversely"
+(]rQjDWzI ^dW^bWj)
+
+"obviously"
+(RsDQjW^|)
+
+# obviously then (ADV) : RsDQjW^|
+
+"occasionally"
+(HcHcIl)
+
+"occidentally"
+(UfWdWU|AWzIl)
+
+"oddly"
+(A|Qr^bAg)
+# oddly enough (ADV) : QcWs W|UbW^bAgGl
+
+"off"
+(XfYlAWg)
+# ^be badly off $ (VERB->ADJ) : QcWs AbDbD^bGb
+
+"offendedly"
+(AbQXfWWzI UbW^bDGzUW|)
+
+"offensively"
+(AlWAjAXfAWzIl)
+
+"offhand"
+(XzAAbA)
+
+"officially"
+(AlWU|AXfAWzIl)
+
+"offisland"
+(UfQWzI HfDbUf)
+
+"offshore"
+(Wb]RbGbWg)
+
+"often"
+(XlWXlW)
+* XbXs (change)
+# all too often (ADV) : DfQs XbXs
+# more often than not (ADV) : AbDAbD^|
+# most often (ADV) : AbXbW XbXs
+# often {+COMPR} than not (ADV) : XlWXlW
+# quite often (ADV) : XbXs
+
+"oh"
+(Wl)
+# oh , thanks (SENT) : (DECL [(MODS [Wl<ADV>]) AbQUb^b<VERB>]/Gb)
+# oh , NOUN {+PRNOUN} (SENT) : [(MODS [Wl<ADV>]) NOUN]
+# oh , NOUN {+PRNOUN} SENT (SENT) : [(DECL [(MODS [Wl<ADV>]) NOUN]) SENT]
+
+"on"
+(Ws|Wg)
+
+"once"
+(^bDRfD)
+* WkUDbIWg (~ {+SBEGIN})
+
+# $ once ^PASTP (PP) : (ADVCL [(MODS [^bDRfD <ADV>]) PASTP]/^bQjD)
+# at once $ (ADV) : XzAU|
+# once again (ADV) : GbU| ^bDRfD
+# once a day (ADV) : ^bIsWg ^bDRfD
+# usually once a week (ADV) : GcAc W|IXsW|IWg ^bDRfD
+# once a week (ADV) : W|IXsW|IWg ^bDRfD
+# once a month (ADV) : ^bDGbIWg ^bDRfD
+# once a year (ADV) : W|IDjDWg ^bDRfD
+# once an hour (ADV) : ^bDU|AbDWg ^bDRfD
+# once and for all | (ADV) : Zl|XlWXfAWzIl
+# once every NUM1 A (ADV) : (MODS [(COMP [(NMODS NUM1) A]/Wg) ^bDRfD<NOUN>])
+# once every week (ADV) : QcXs ^bDRfD
+# || once in A {-TIME,-ANIMAL} (ADV) : (ADVCL [(MODS [^bDRfD<ADV>]) (ADJUNCT A/Wg) Wl<VERB>]/QjD)
+# once married (ADV) : ^bDRfD AjI^lD^bQjD
+# once more (ADV) : ^bDRfD Gf
+# once or twice (ADV) : ^bDGsRfD
+# only once  (ADV) : GbDX| ^bDRfD
+# more than once | (ADV) : ^bDRfD W|UbW
+
+"one-handed"
+(^bD UlDWzIl)
+
+"online"
+(WlDIbW|DWzIl)
+
+"only"
+(GbDX|)
+# only once  (ADV) : GbDX| ^bDRfD
+# only a little (ADV) : WbXs WdAAbD
+
+"onward"
+(XfDRbWWzIl)
+
+"onwards"
+(XfDRbWWzIl)
+
+"oozily"
+(^zIA\sUfWW|Il)
+
+"open"
+(WjII|DZcIl)
+
+"openly"
+(AlWAlWWjD^|)
+
+"opposite"
+(XfWRbDGcWz| Ws|Z|Wg)
+
+"oppositely"
+(RbDGc Ws|Z|Wg)
+
+"oppressively"
+(Ab^lA^bAg)
+
+"optically"
+(AlbW^bAXfAWzIl)
+
+"optionally"
+(UfD\cAXfAWzIl)
+
+"opulently"
+(]sWRs^bAg)
+
+"or"
+(HlDzD)
+
+"orally"
+(AsGsIl)
+
+"oratorically"
+(WjDUfIU|AWzIl)
+
+"orderly"
+(X|IUfXfWWjD^bAg)
+
+"ordinarily"
+(Rl\lW)
+
+"organically"
+(WwA|XfAWzIl)
+
+"orientally"
+(GlWWdWXfAWzIl)
+
+"originally"
+(WsfDIc)
+
+"ornamentally"
+(XbWU|AXfAWzIl)
+
+"ostensibly"
+(]rQjDUbWWzIl)
+
+"otherwhere"
+(HbD AlUWg)
+
+"otherwise"
+(AzIf^X| WbD^WzQjD)
+
+"ourselves"
+(WsI|GzI UzUzIl)
+
+"out"
+(RbBWg)
+
+# ^NUM1 out_of NUM2 (NOUN) : [(ADJUNCT [(COMP [(NMODS NUM2) QjW<NOUN>]) XsW<NOUN>]) (NMODS NUM1) QjW<NOUN>]
+# far out A (NOUN) : [(AMODS [W|UbW^b<ADJ>]/Gb) A]
+
+"outdoors"
+(X|R RbB WgUf)
+
+"outright"
+(UsQA|QWfRUW|)
+
+"outside"
+(RbBWg)
+* RbBWzIl (run)
+# ^look outside | (VERB) : RbBWzI RlGb
+
+"outspokenly"
+(AfI|B|QWfRUW|)
+
+"outward"
+(RbBWzIl)
+
+"outwardly"
+(Wl|RsXfAWzIl)
+
+"over"
+(Ws|Wg)
+* W|UbW (take)
+# ^be over with A {+HUMAN} (VERB) : [(ADJUNCT A/Wlb) Bz\Db<VERB>]/Gb
+# ^be all over with A {+HUMAN} (VERB) : [(ADJUNCT A/Wlb) (MODS [WlbDXfD^|<ADV>]) 
+Bz\Db<VERB>]/Gb
+# over ^A {+TIME} ago (PP->ADV) : (ADJUNCT [(NMODS [(NMODS A) W|UbW<NOUN>]) W|XfD<NOUN>]/Wg)
+# for over ^A {+TIME} (PP->ADV) : (ADJUNCT [(COMP [(NMODS A) W|UbW<NOUN>]) GlWWbD<NOUN>])
+//# over ^A {+TIME} (PP NOUN) : 1) A Wg AfIZj
+//			      2) A /W|UbW 
+# over once more (PP->ADV) : ^bDRfD W|UbW
+# quite over A (ADV) : (ADJUNCT [(ADJUNCT A/RlGb) ^sfIV|D QbD^W|<ADV>])
+# well over A (ADV) : (ADJUNCT [(ADJUNCT A/RlGb) ^sfIV|D QbD^W|<ADV>])
+
+"overall"
+(XfDZgXfAWzIl)
+
+"overboard"
+(RcRbBWg)
+
+"overhand"
+(Ws|IlRs\f UlDWzI GcWf)
+
+"overhead"
+(QfI|Ws|Wg)
+
+"overland"
+(WwAUbWWzIl)
+
+"overleaf"
+(GbWzQ ]gW|X|Wg)
+
+"overly"
+(QlRU|)
+
+"overmuch"
+(AlbGl^bAg)
+
+"overnight"
+(RbQUcBfU)
+
+"overpoweringly"
+(WbRGlXfAWzIl)
+
+"oversea"
+(^cWl|Wg)
+
+"overseas"
+* ^cWl|WgUf (work)
+(^cWl|Wg)
+
+"overside"
+(RcUXfDWzI DfQWfUf)
+
+"overtime"
+(U|AbDWl|Wg)
+
+"overtly"
+(QjWRcA^|)
+
+"overwhelmingly"
+(WbRGlXfAWzIl)

@@ -1,0 +1,1488 @@
+
+"P"
+# substance P (NOUN) : QsIX|IP
+# P (NOUN) : P
+# substance P (NOUN) : QsIX|IP
+# vitamin P (NOUN) : R|\bQ|D P
+
+"p-"
+# p- (NOUN) : p-^jW
+
+"P-450"
+# cytochrome P-450 (NOUN) : ^lbD^jW GMP
+
+"p-hydroxybenzoate"
+# p-hydroxybenzoate (NOUN) : p-^bW|GzIlAU|RgDXlUbD
+
+"p-hydroxyphenylalanine"
+# p-hydroxyphenylalanine (NOUN) : p-^bW|GzIlAU| ]gD|IWbIIbD|D
+
+"p-nitrophenylacetate"
+# p-nitrophenylacetate (NOUN) : P-D|\zIl]gD|IWbUg\zUbD
+
+"p-terphenyl"
+# p-terphenyl (NOUN) : P-\gIz]gD|I
+
+"p-tert-amylphenol"
+# p-tert-amylphenol (NOUN) : P-\g\zIl-WbQ|I]gD|I
+
+"P450"
+# cytochrome P450 (NOUN) : UbW|\l[zIlQ P450
+
+"pack"
+# pack (NOUN) : QsBWzQ, ZsWXfD, Y|QX|I
+
+"package"
+# package (NOUN) : ]lXbW, ]c[|X|
+
+"packaging"
+# packaging (NOUN) : ]lXbW , ]bWbX| DNAAb ]bWbX| QfI|AsXlIl VbW|DzDAfU
+# vitro packaging (NOUN) : U|^fQAlbDDc ]gW|X| ]lXbW, U|^fQAlbDDc ]gW|X| ]c[|X|W
+# in vitro packaging (NOUN) : U|^fQAlbDDc]lXbW
+
+"packing"
+# packing (NOUN) : ZsWXfD, XfDUcA, ZsWXfDQsI
+
+"pair"
+# wobble base pair (NOUN) : GlWWr WjQA|VbW, WsfRzI WjQA|VbW
+# base pair (NOUN) : WjQA|YbA, WjQA|VbW
+# kilobase pair (NOUN) : [|IIlWjQA|VbW, 1000AcWz| WjQA|VbW
+# nucleotide pair (NOUN) : Dw[zIIgWl\bW|Gz VbW
+
+"pairing"
+# base pairing (NOUN) : WjQA| YbAX|UA|
+
+"paleobiochemistry"
+# paleobiochemistry (NOUN) : AlUcW^lb^bA
+
+"palindrome"
+# palindrome (NOUN) : ^l|QsDAsXl, ]bII|DGzIlQ, WjAWs|RbDRlAAsXl
+
+"palmitaldehyde"
+# palmitaldehyde (NOUN) : ]bIQ|\zWbIGg^bW|Gz
+
+"pancreas"
+# pancreas (NOUN) : ZsgXbW, W|Xb
+
+"pancreatin"
+# pancreatin (NOUN) : ]bD[zIgWb\|D
+
+"pancreozymin"
+# pancreozymin (NOUN) : ]bD[zIgWlXbW|Q|D
+
+"panencephalitis"
+# subacute sclerosing panencephalitis (NOUN) : WbAzRUfWAjW^lbUfWRfQDl|WjQ
+# subacute sclerosing panencephalitis (NOUN) : WbAzRUfW AjW^lbXzW
+
+"papain"
+# papain (NOUN) : ]b]bW|D
+
+"papovavirus"
+# papovavirus (NOUN) : ]b]lRbW|IfUz
+
+"paracasein"
+# paracasein (NOUN) : ]bIb[bUgW|D
+
+"paramyxovirus"
+# paramyxovirus (NOUN) : ]bIbQbW|UlRbW|IfUz
+
+"paraprotein"
+# paraprotein (NOUN) : ]bIbGbDRcAX|I
+
+"paraquat"
+# paraquat (NOUN) : ]bIb[lbD\z
+
+"parathion"
+# parathion (NOUN) : ]bIb\|WlD
+
+"parathyroid"
+# parathyroid (NOUN) : RsAbRUbWUfD
+
+"Parkinsonism"
+# Parkinsonism (NOUN) : ]b[|DUzD XsWz|
+
+"parthenogenesis"
+# parthenogenesis (NOUN) : ZfDjUcWU|A, GbDWs|UcWU|A
+
+"particle"
+# signal recognition particle (NOUN) : WfAXg
+# electron transfer particle (NOUN) : XfDXb XfDW| W|RXb
+# submitochondrial particle (NOUN) : XsDQ|\l[lDGzI|Wb W|RXb
+# signal recognition particle (NOUN) : U|D^l \bQX| W|RXb
+# virus particle (NOUN) : RbW|IfUz W|RXb
+
+"parvovirus"
+# parvovirus (NOUN) : ]bIRlRbW|IfUz, Q|UlRbW|IfUz
+
+"pass"
+# pass (NOUN) : AkGc
+
+"passage"
+# passage (NOUN) : AkGc
+
+"passenger"
+# passenger (NOUN) : \lWAlbQsI, UbDGl\lWAlbQsI
+# passenger (NOUN) : Wl|IcUfW WwXfDXb
+
+"patch"
+# patch (NOUN) : WjDAjI, ]cZs|, W|DXl]r]jD, RbDXfQ, XfRRs
+
+"patching"
+# patching (NOUN) : ]cZs|W, RsRsDRlUs, XfRRs
+
+"patent"
+# substance patent (NOUN) : QsIX|I \zA^f
+
+"path"
+# reaction path (NOUN) : RbDWzW AjWIl
+
+"pathway"
+# salvage pathway (NOUN) : XcUcW AjWIl
+# salvage pathway (NOUN) : XcW|WrW AjWIl
+# nucleotide-biosynthetic pathway (NOUN) : Dw[zIIgWl\bW|Gz-UcW^bRUfW AjWIl
+# mevalonate pathway (NOUN) : QgRbIIlDUbD AjWIl
+# metabolic pathway (NOUN) : GcUbUfW X|IUl
+# glycolytic pathway (NOUN) : ^cGbWAk
+# quinaldine pathway (NOUN) : [s|DbIG|D AjWIl
+# aminoadipic acid pathway (NOUN) : WbQ|DlWbG|]zUbD AjWIl
+# polyol pathway (NOUN) : ]lII|WlI GcUbAjWIl
+# methylmalonyl pathway (NOUN) : Qg\|IQbIIlD|IAjWIl
+# malonate semialdehyde pathway (NOUN) : QbIIlDUbD UgQ|WbIGg^bW|Gz AjWIl
+# salvage pathway (NOUN) : AsXg^l|Il, ^l|Us^l|Il
+# alternative pathway (NOUN) : Xg 2 AjWIl
+# phosphogluconate pathway (NOUN) : ]lUz]lAzIIs[lDgW|\z AjWIl
+# sirine pathway (NOUN) : UgI|D AjWIl
+# glucuronate pathway (NOUN) : AzIIs[sIlDUbD ^l|Il
+# phosphoketolase pathway (NOUN) : ]lUz]l[g\lIIgW|Uz AjWIl
+# creatine pathway (NOUN) : [zIgWb\|D ^l|Il
+# shikimic acid pathway (NOUN) : UfGfD RzIIb\z A|UsI, DNAIzI XfDW|X|Il W|GlWU|[|DzD RbWRfR
+# pathway (NOUN) : AjWIl
+# diaminopimelic acid pathway (NOUN) : UbW|\l[bW|D
+# Entner-- Doudoroff pathway (NOUN) : Wg\|Dg--GsGzIl]zAjWIl
+
+"pbr322"
+# pbr322 (NOUN) : pbr322
+
+"pectinase"
+# pectinase (NOUN) : ]gA\|DgW|Uz
+
+"pectinesterase"
+# pectinesterase (NOUN) : ]gA\|DWgUz\gIgW|Uz
+
+"pellagra"
+# pellagra (NOUN) : ]gIIbAzIb, DbW|WbU|D AjI]|R XzW^sAsD
+
+"penicillamine"
+# penicillamine (NOUN) : ]gD|U|IIbQ|D
+
+"penicillinase"
+# penicillinase (NOUN) : ]gD|U|II|DDgW|Uz
+
+"Penicillium"
+# Penicillium (NOUN) : ]gD|U|II|D
+# Penicillium (NOUN) : ]gD|U|IIwQUlA
+
+"pentaphosphate"
+# inositol pentaphosphate (NOUN) : W|DlU|\lI WlW|DUbD
+
+"pepsinogen"
+# pepsinogen (NOUN) : ]gRU|DlAgD
+
+"pepstatin"
+# pepstatin (NOUN) : ]gRUz\b\|D,]gRU|D WfAXgXbAWrWUfW ]gR\bW|Gz
+
+"peptide"
+# signal peptide (NOUN) : ^lbWAjXb
+# analgesic peptide (NOUN) : X|D\lWUfW ]gR\bW|Gz
+# delta sleep inducing peptide (NOUN) : GgI\b XbQ ZlAX|D ]gR\bW|Gz
+# gastrin releasing peptide (NOUN) : AbUz\zI|D RsDR|GbDRcAX|I
+# opioid peptide (NOUN) : Wb]jDWdWXgXg]gR\bW|Gz, ^bRUfWQbWdA ]gR\bW|Gz
+# brain peptide (NOUN) : Dl| ]gR\bW|Gz
+# nonprotein peptide (NOUN) : R|GbDRcAX|IUfW ]gR\bW|Gz
+# inhibitor peptide (NOUN) : Xf^cUfW ]gR\bW|Gz
+# cyclic peptide (NOUN) : ^lbDUbW ]gR\bW|Gz
+# corticotropin-like intermediate lobe peptide (NOUN) : CLIP, WwUb[lIz\|[l\zIl]|D XsWAbDWjR ]gR\bW|Gz
+# chemotactic peptide (NOUN) : Xs^lbUfW ]gR\bW|Gz
+# gastrin releasing peptide (NOUN) : AbUz\zI|D RbWZsI ]gR\bW|Gz
+
+"peptidoglycan"
+# peptidoglycan (NOUN) : ]gR\|GlAzII|[bD
+
+"Percoll"
+# Percoll (NOUN) : ]fI[lI
+
+"perfuse"
+# perfuse (NOUN) : AlbDIw
+# perfuse (NOUN) : AlbDIw
+
+"perfusion"
+# perfusion (NOUN) : AlbDIw
+
+"perhydrocyclopentano"
+# perhydrocyclopentano (NOUN) : ]f^bW|GzIlUbW|[zIIl]gD\bDl
+
+"perhydrocyclopentanol"
+# perhydrocyclopentanol (NOUN) : ]f^bW|GzIlAUbW|[zIIlD]gD\bDlI
+
+"perienzyme"
+# perienzyme (NOUN) : ]gI|WgDXbW|Q
+
+"period"
+# unit evolutionary period (NOUN) : GbDWs|X|D^lbA|AbD
+# latent period (NOUN) : XbQRlAA|
+# eclipse period (NOUN) : WbQ^zAA|
+
+"periplasm"
+# periplasm (NOUN) : Ug]l(^jW)X|I, Wl|X|I
+
+"permeability"
+# ion permeability (NOUN) : W|WlD\sAlbUfW
+
+"permease"
+# permease (NOUN) : \sAlb ^rUl
+# galactoside permease (NOUN) : AbIIbA\lUbW|Gz \sAlb^rUl(]fQ|WgW|Xz)
+# permease (NOUN) : \sAlb^rUl
+
+"peroxidase"
+# glutathione peroxidase (NOUN) : AzIIs\b\|WlD ]fIlAU|GgW|Uz
+# NAD+ peroxidase (NOUN) : NAD+ AlbUbD^lbQsIRsD^c^rUl, NAD+ ]fIlAU|GgW|
+# fatty acid peroxidase (NOUN) : X|RbWUbD AlbUbD^lb^rUl
+
+"peroxide"
+# benzoyl peroxide (NOUN) : RgDXlI ]fIlAUbW|Gz
+# benzoyl peroxide (NOUN) : AlbUbD^lbRgDXlW|I
+
+"peroxisome"
+# peroxisome (NOUN) : ]gIlAU|XlQ, AlbUbD^lb^rUl
+# electron transport system of peroxisome (NOUN) : ]gIlAU|XlQ(AlbUbD^lbUlZg)Wz| XfDXbXfDGbIAk
+
+"phage"
+# virulent phage (NOUN) : GlAUfW ]bWbX|
+# Charon phage (NOUN) : AlUkRjW
+# temperate phage (NOUN) : WdAGlAUfW ]bWbX|, \gQIf]|\z ]bWbX|
+# defective phage (NOUN) : AjIUlD ]gW|X| (]bWbX|)
+# defective phage (NOUN) : AjIUlD ]gW|X| (]bWbX|)
+# helper phage (NOUN) : RlXl ]gW|X|(]bWbX|)
+# virulent phage (NOUN) : GlAUfW ]gW|X|(]bWbX|)
+# T4 phage (NOUN) : T4 ]gW|X|
+# phage (NOUN) : ]bWbX|
+# morphogenesis of phage (NOUN) : ]bWbX|Wz| ^jW\c^jWUfW
+# lambda phage (NOUN) : IbQGb ]gW|X|(]bWbX|)
+# lysogenic phage (NOUN) : WrWWsfD ]gW|X|
+# incomplete phage (NOUN) : RsIWlbDXfD ]gW|X|
+# rough specific phage (NOUN) : XlQjD\zAW|UfW ]gW|X|
+# induction of phage (NOUN) : ]bWbX|Wz| WwRbI
+# single-stranded DNA phage (NOUN) : GbDUfDAbGbA DNA ]gW|X|
+# transducing phage (NOUN) : ^jWX|IGlW|R ]gW|X|(]bWbX|)
+# DNA phage (NOUN) : DNA ]gW|X|
+# RNA phage (NOUN) : I|Rl^cAUbD ]gW|X|, RNA ]gW|X|
+# T phage (NOUN) : T ]bWbX|
+# single-stranded DNA phage (NOUN) : GbDW|I UbUzI DNA ]gW|X|, GbDUfDAbGbA DNA ]gW|X|
+
+"phagocyte"
+# phagocyte (NOUN) : U|AUg]l
+# phagocyte (NOUN) : U|AUg]l
+
+"phagocytosis"
+# phagocytosis (NOUN) : U|AXbAWrW, ]lU|A
+# phagocytosis (NOUN) : U|AXfAWrW
+# phagocytosis (NOUN) : U|AXbAWrW
+# phagocytosis (NOUN) : U|AUg]lXbAWrW
+
+"phagolysosome"
+# phagolysosome (NOUN) : ]bAlIbW|UlXlQ, U|AUg]lDbW-IbW|UlUlQ XsW^bRZg
+
+"phagosome"
+# phagosome (NOUN) : U|AUg]lDbW
+
+"phalloidin"
+# phalloidin (NOUN) : ]bIIlW|G|D
+
+"pharmacology"
+# pharmacology (NOUN) : WdAI|^bA
+
+"phase"
+# S phase (NOUN) : SA|
+# resting phase (NOUN) : XfWX|A| 
+# G2 phase (NOUN) : G2 A|
+# logarithmic growth phase (NOUN) : GcUs XzWU|AA|
+# M phase (NOUN) : M A|
+# phase (NOUN) : Ws|UbW
+# G0 phase (NOUN) : G0A|
+# G1 phase (NOUN) : G1 A|
+
+"phaseolin"
+# phaseolin (NOUN) : ]bUgWlI|D, AbWDbW[lWWz| AzIIlRsII|D
+
+"phenanthrene"
+# phenanthrene (NOUN) : ]gDbD\zI|D
+
+"phenetidine"
+# phenetidine (NOUN) : ]gDg\|G|D
+
+"phenetole"
+# phenetole (NOUN) : ]gDg\lI
+
+"phenol"
+# phenol (NOUN) : ]gDlI
+
+"phenol-lyase"
+# tyrosine phenol-lyase (NOUN) : \bW|IlU|D ]gDlI-XfIGbD^rUl
+
+"phenomenon"
+# lupus erythematosus phenomenon (NOUN) : ^lWRbDUfW DbWZbW ^jDUbW
+# restriction phenomenon (NOUN) : Xg^bD ^jDUbW
+# Arthus phenomenon (NOUN) : WbIz\wUz ^jDUbW
+
+"phenothiazine"
+# phenothiazine (NOUN) : ]gDl\|WbX|D
+
+"phenotype"
+# phenotype (NOUN) : WwXfDXb ]r^jD^jW
+# phenotype (NOUN) : ]r^jD^jW
+
+"phenylalaninase"
+# phenylalaninase (NOUN) : ]gD|IWbIbD|DgW|Uz
+
+"phenylalanine"
+# phenylalanine (NOUN) : ]gD|I WbIIbD|D
+# phenylalanine (NOUN) : ]gD|IWbIIbD|D
+
+"phenylbiphenyl-terphenyl"
+# phenylbiphenyl-terphenyl (NOUN) : ]gD|IRbW|[gD|I-\gIz]gD|I
+
+"phenylbutazon"
+# phenylbutazon (NOUN) : ]gD|IRs\bXlD
+
+"phenylglyoxal"
+# phenylglyoxal (NOUN) : ]gD|I AzII|WlAUbI
+
+"phenylisothiocyanate"
+# phenylisothiocyanate (NOUN) : ]gD|IW|Ul\|WlU|WbDUbD
+# phenylisothiocyanate (NOUN) : ]gD|I W|Ul\|WlU|WbDUbD
+
+"phenylketonuria"
+# phenylketonuria (NOUN) : ]gD|I[g\lDDrXzW
+# phenylketonuria (NOUN) : ]gD|I[g\lDDrXzW
+
+"phenylosazone"
+# phenylosazone (NOUN) : ]gD|IWlUbXlD
+
+"phenylthiocarbamoyl"
+# phenylthiocarbamoyl (NOUN) : ]gD|I\|Wl[bIzRbQlW|I
+
+"phenylthiohydantoin"
+# phenylthiohydantoin (NOUN) : ]gD|I\|Wl^bW|GbD\lW|D
+
+"pheromone"
+# sex pheromone (NOUN) : UfW ]gIlQlD
+# pheromone (NOUN) : ]gIlQlD, ZgWl|RsDR|^lIzQlD
+
+"phleomycin"
+# phleomycin (NOUN) : ]zIIgWlQbW|U|D
+
+"phloretin"
+# phloretin (NOUN) : ]zIIlIg\|D
+
+"phlorizin"
+# phlorizin (NOUN) : ]zIIlI|X|D
+
+"phloroglucin"
+# phloroglucin (NOUN) : ]zIIlIlAsU|D
+
+"phloroglucinol"
+# phloroglucinol (NOUN) : ]zIIlIl AsU|DlI
+
+"phorbol"
+# phorbol (NOUN) : ]lIRlI
+
+"phosphagen"
+# phosphagen (NOUN) : ]lUz]bAgD, W|DWsfDX|I
+
+"phosphatase"
+# acid phosphatase (NOUN) : UbDUfW W|DUbD ^rUl
+# amino acid phosphatase (NOUN) : WbQ|DlUbD W|DUbDAbUsRsD^c^rUl
+# phosphorylase phosphatase (NOUN) : AbW|DUbDAbUsRsD^c^rUl W|DUbDAbUsRsD^c^rUl
+# alkaline phosphatase (NOUN) : WbI[bII|UfW W|DUbDAbUsRsD^c^rUl
+# protein phosphatase (NOUN) : GbDRcAX|I W|DUbDAbUsRsD^c^rUl
+# alkaline phosphatase (NOUN) : WbI[bIIbW|D ]lUz]b\gW|Uz
+# phosphatase (NOUN) : W|DUbDAbUsRsD^c^rUl
+# phosphatidate phosphatase (NOUN) : ]lUz]b\|GzUbD W|DUbDAbUsRsD^c^rUl
+# lipoamide phosphatase (NOUN) : I|]lWbQbW|Gz W|DUbD^rUl, I|]lWbQbW|Gz ]lUz]b\gW|Uz
+# prostatic acid phosphatase (NOUN) : XfDI|RUfD UbDUfW W|DUbD^rUl
+# phosphoserine phosphatase (NOUN) : ]lUz]lUgI|D W|DUbDAbUsRsD^c^rUl
+# prostatic acid phosphatase (NOUN) : ]zIlUz\b\zUbD \bIW|DUbDAbUsRsD^c^rUl
+
+"phosphate"
+# reduced nicotinamide adenine dinucleotide phosphate (NOUN) : ^lbDWsfDGl|D NADP, NADPH
+# nicotinamide adenine dinucleotide phosphate (NOUN) : D|[l\|D WbQbW|Gz WbGgD|D GbW|Dw[zIIgWl\bW|Gz W|DUbD
+# ethanolamine phosphate (NOUN) : Wg\bDWlIWbQ|D W|DUbD
+# glycerol phosphate (NOUN) : AzIIbW|UgIlI W|DUbD
+# acetyl phosphate (NOUN) : WbUg\|I W|DUbD
+# pyridoxamine phosphate (NOUN) : ]|I|GlAUzWbQ|D W|DUbD 
+# pentose phosphate (NOUN) : 5\bDGbW W|DUbDWjQ
+# pyridoxal phosphate (NOUN) : ]|I|GlAUbI W|DUbD
+# dinucleotide phosphate (NOUN) : GbW|Dw[zIIgWl\bW|Gz W|DUbD
+# choline phosphate (NOUN) : [lII|D W|DUbD
+# inositol phosphate (NOUN) : W|DlU|\lI W|DUbD
+# creatine phosphate (NOUN) : [zIgWb\|D W|DUbD
+# carbamoyl phosphate (NOUN) : [bIzRbQlW|IW|DUbD(WjQ)
+# codeine phosphate (NOUN) : [lGgW|D W|DUbDWjQ
+# hexose phosphate (NOUN) : WwA\bDGbW AbUsRsD^c^rUl
+# amino acid phosphate (NOUN) : WbQ|DlUbD W|DUbDWjQ
+# dihydroxyacetone phosphate (NOUN) : GbW|^bW|GzIlAU|WbUg\lD W|DUbD
+# pyridoxamine phosphate (NOUN) : ]|I|GlAUzWbQ|D W|DUbD
+# pyridoxal phosphate (NOUN) : ]|I|GlAUbI W|DUbD
+
+"phosphatidalcholine"
+# phosphatidalcholine (NOUN) : ]lUz]b\|GbI[lII|D
+
+"phosphatidalethanolamine"
+# phosphatidalethanolamine (NOUN) : ]lUz]b\|GbIWg\bDWlIWbQ|D
+
+"phosphatide"
+# phosphatide (NOUN) : ]lUz]b\|Gz
+
+"phosphatidyl"
+# phosphatidyl (NOUN) : ]lUz]b\|G|I
+
+"phosphatidylcholine"
+# phosphatidylcholine (NOUN) : ]lUz]b\|G|I[lII|D
+
+"phosphatidylethanolamine"
+# phosphatidylethanolamine (NOUN) : ]lUz]b\|G|IWg\bDWlIIbQ|D
+# phosphatidylethanolamine (NOUN) : ]lUz]b\|G|IWg\bDWlIIbQ|D
+
+"phosphatidylglycerol"
+# phosphatidylglycerol (NOUN) : ]lUz]b\|G|IAzII|UgIlI
+
+"phosphatidylinositol"
+# phosphatidylinositol (NOUN) : ]lUz]b\|G|IW|DlU|\lI
+# phosphatidylinositol (NOUN) : ]lUz]b\|G|IW|DlU|\lI  
+
+"phosphatidylserine"
+# phosphatidylserine (NOUN) : ]lUz]b\|G|IUgI|D
+
+"phospho"
+# phospho (NOUN) : ]lUz]l 
+
+"phosphoadenosine"
+# phosphoadenosine (NOUN) : ]lUz]lWbGgDlU|D
+
+"phosphoamidase"
+# phosphoamidase (NOUN) : ]lUz]lWbQ|GgW|Uz
+
+"phosphoarginine"
+# phosphoarginine (NOUN) : ]lUz]lWbIzA|D|D
+
+"phosphocreatine"
+# phosphocreatine (NOUN) : ]lUz]l[zIgWb\|D
+
+"phosphodiesterase"
+# phosphodiesterase (NOUN) : ]lUz]lGbW|WgUz\gIgW|Uz
+# cyclic nucleotide phosphodiesterase (NOUN) : ^lbDUbW Dw[zIIgWl\|Gz ]lUz]lGbW|WgUz\gIz AbUsRsD^c^rUl
+# phosphodiesterase (NOUN) : ]lUz]l GbW|WgUz\gIgW|Uz
+
+"phosphoenzyme"
+# phosphoenzyme (NOUN) : W|DUbD^lb^rUl
+
+"phosphoethanolamine"
+# phosphoethanolamine (NOUN) : ]lUz]lWg\bDWlIIbQ|D
+
+"phosphofluoridate"
+# phosphofluoridate (NOUN) : ]lUz]l]zIIsWlI|GgW|\z
+# diisopropyl phosphofluoridate (NOUN) : DIPF, GbW|WbW|Ul]zIl]|I ]lUz]l ]zIIsWlI|GgW|\z
+
+"phosphofructokinase"
+# phosphofructokinase (NOUN) : ]lUz]l]zIIbA\l[bW|DgW|Uz
+
+"phosphoglucokinase"
+# phosphoglucokinase (NOUN) : ]lUz]lAzIIs[l[bW|DgW|Uz
+
+"phosphoglucomutase"
+# phosphoglucomutase (NOUN) : ]lUz]lAzIIs[lQw\gW|Uz
+
+"phosphoglyceraldehyde"
+# phosphoglyceraldehyde (NOUN) : ]lUz]lAzII|UgIbIGg^bW|Gz
+
+"phosphoglyceromutase"
+# phosphoglyceromutase (NOUN) : ]lUz]lAzII|UgIlQw\gW|Uz
+
+"phosphoguanidine"
+# phosphoguanidine (NOUN) : ]lUz]lAsWbD|G|D
+
+"phosphohexokinase"
+# phosphohexokinase (NOUN) : ]lUz]l^gAUl[bW|DgW|Uz
+
+"phosphohistidine"
+# phosphohistidine (NOUN) : ]lUz]l^|Uz\|G|D
+
+"phosphohomoserine"
+# phosphohomoserine (NOUN) : ]lUz]l^lQlUgI|D
+
+"phosphohydrolase"
+# nucleotide phosphohydrolase (NOUN) : Dw[zIIgWl\bW|Gz W|DUbDAbUsRsD^c^rUl
+
+"phosphoinositide"
+# phosphoinositide (NOUN) : ]lUz]lW|DlU|\bW|Gz
+
+"phosphokinase"
+# creatine phosphokinase (NOUN) : CPK, [zIgWb\|D ]lUz]l[bW|DgW|Uz
+# creatine phosphokinase (NOUN) : [zIgWb\|D W|DUbD[bW|DgW|Uz
+
+"phospholamban"
+# phospholamban (NOUN) : ]lUz]lIbQRbD
+
+"phospholipase"
+# phospholipase (NOUN) : ]lUz]lI|]bWbXg, W|DUbDX|X|IRsD^c^rUl
+
+"phosphomonoesterase"
+# phosphomonoesterase (NOUN) : ]lUz]lQlDlWgUz\gIgW|Uz
+# phosphomonoesterase (NOUN) : ]lUz]lQlDlWgUz\gIgW|Uz
+
+"phosphonolipid"
+# phosphonolipid (NOUN) : W|DX|X|I
+
+"phosphopantetheine"
+# phosphopantetheine (NOUN) : ]lUz]l]bD\g\gW|D
+
+"phosphopeptide"
+# casein phosphopeptide (NOUN) : CPP, [bUgW|D ]lUz]l]gR\bW|Gz
+# casein phosphopeptide (NOUN) : [bUgW|D W|DUbD ]gR\bW|Gz
+
+"phosphoribosyl"
+# phosphoribosyl (NOUN) : ]lUz]lI|RlU|I
+
+"phosphoribosyladenosine"
+# phosphoribosyladenosine (NOUN) : ]lUz]lI|RlU|I WbGgD|D
+
+"phosphoribosylpyrophosphate"
+# phosphoribosylpyrophosphate (NOUN) : ]lUz]lI|RlU|I]|IlW|DUbD
+
+"phosphorolysis"
+# phosphorolysis (NOUN) : AbW|DUbDRsD^c
+
+"phosphorolyze"
+# phosphorolyze (NOUN) : AbW|DUbDRsD^c
+
+"phosphorylase"
+# glycogen phosphorylase (NOUN) : AzII|[lAgD AbW|DUbDAbUsRsD^c^rUl
+# muscle phosphorylase (NOUN) : AzD AbW|DUbD AbUsRsD^c^rUl
+# nucleoside phosphorylase (NOUN) : Dw[zIIgWlUbW|Gz AbW|DUbDAbUsRsD^c^rUl
+# polynucleotide phosphorylase (NOUN) : AbW|DUbD AbUsRsD^c^rUl, ]lII|Dw[zIIgWl\|Gz ]lUz]lI|IIgW|Uz
+# phosphorylase (NOUN) : AbW|DUbDAbUsRsD^c^rUl
+
+"phosphorylate"
+# phosphorylate (NOUN) : W|DUbD^lb
+
+"phosphorylation"
+# substrate-level phosphorylation (NOUN) : A|X|I UsXsD W|DUbD^lb
+# phosphorylation (NOUN) : W|DUbD^lb
+# acid-base phosphorylation (NOUN) : UbD-WjQA| W|DUbD^lb
+# photosynthetic phosphorylation (NOUN) : AlbW^bRUfWXfA W|DUbD^lb
+# oxidative phosphorylation (NOUN) : UbD^lbXfA W|DUbD^lb
+
+"phosphosulfate"
+# phosphosulfate (NOUN) : ]lUz]l^lbWUbD
+
+"phosphotransferase"
+# phosphotransferase (NOUN) : W|DUbDA| XfDW|^rUl
+# choline phosphotransferase (NOUN) : [lII|D W|DUbDXfDW|^rUl
+# phosphotransferase (NOUN) : W|DUbDXfDW|^rUl
+
+"phosvitin"
+# phosvitin (NOUN) : ]lUzR|\|D
+
+"photobiology"
+# photobiology (NOUN) : AlbWUcWQsI^bA
+
+"photobiotin"
+# photobiotin (NOUN) : ]l\lRbW|Wl\|D
+
+"photolithotroph"
+# photolithotroph (NOUN) : AlbW^bRUfW QsA| WjWWdW UcWQsI
+
+"photoluminescence"
+# photoluminescence (NOUN) : ]l\lIsQ|DgUgDUz
+
+"photolysis"
+# flash photolysis (NOUN) : UfQAlbWRsD^c
+
+"photomorphogenesis"
+# photomorphogenesis (NOUN) : AlbW ^jW\c^jWUfW
+
+"photoorganotroph"
+# photoorganotroph (NOUN) : AlbW^bRUfW WwA| WjWWdW UcWQsI
+
+"photooxidation"
+# photooxidation (NOUN) : AlbWUbD^lb
+
+"photooxidize"
+# photooxidize (NOUN) : AlbWUbD^lb
+
+"photophosphorylate"
+# photophosphorylate (NOUN) : AlbWW|DUbD^lb
+
+"photophosphorylation"
+# photophosphorylation (NOUN) : AlbWW|DUbD^lb
+
+"photoreactivate"
+# photoreactivate (NOUN) : AlbW(^lbIUfW)^l|RlA
+# photoreactivate (NOUN) : AlbW(^lbIUfW)^l|RlA
+
+"photoreactivation"
+# photoreactivation (NOUN) : AlbW(^lbIUfW)^l|RlA
+
+"photoreceptor"
+# photoreceptor (NOUN) : AlbWUsWrWZg
+
+"photoreduce"
+# photoreduce (NOUN) : AlbW^lbDWsfD
+
+"photoreduction"
+# photoreduction (NOUN) : AlbW^lbDWsfD
+
+"photorespiration"
+# photorespiration (NOUN) : AlbW^l^zR
+
+"photorespire"
+# photorespire (NOUN) : AlbW^l^zR
+
+"photosynthesis"
+# electron transport system in photosynthesis (NOUN) : AlbW^bRUfWWz| XfDXbXfDGbIAk
+
+"photosystem"
+# photosystem (NOUN) : AlbW^lb^bAAk
+
+"phototropism"
+# phototropism (NOUN) : AsIAlbWUfW
+# phototropism (NOUN) : AsIAlbWUfW
+
+"phycobilin"
+# phycobilin (NOUN) : ]|[lR|II|D, ^lWXlHlDzD DbQXlIwWz| W|IXlWWz| UcAUl
+
+"phycocyanin"
+# phycocyanin (NOUN) : ]|[lUbW|WbD|D, DbQXlWz| ZfWUcAUcAUlAjI^bRGbDRcAX|I
+
+"phycoerythrin"
+# phycoerythrin (NOUN) : ]|[lWgI|\|D, AbIXlWz| XfAUcAUcAUlGbDRcAX|I
+
+"phylogeny"
+# phylogeny (NOUN) : Ak\lWRbIUcW
+
+"physical"
+# roentgen equivalent physical (NOUN) : QsII|XfA Il|D\zAgD GbWIdW
+
+"physiology"
+# molecular physiology (NOUN) : RsDXb UcWI|^bA
+# physiology (NOUN) : UcWI|^bA
+
+"physostigmine"
+# physostigmine (NOUN) : ]bW|UlUz\|AzQ|D
+
+"phytin"
+# phytin (NOUN) : ]bW|\|D, U|AQsIUfW W|DlU|\lIWz| W|IXlW
+
+"phytoalexin"
+# phytoalexin (NOUN) : ]bW|\lWbIIgAU|D, U|AQsIUfW RjWWsfDZg Gc^bW ^lb^bRQsI
+# phytoalexin (NOUN) : ]bW|\lWbIIgAU|D
+
+"phytochrome"
+# phytochrome (NOUN) : ]bW|\l[zIlQ, AlbWXsUfW XlXfI UcAUlGbDRcAWz| W|I^jW
+
+"phytoecdysone"
+# phytoecdysone (NOUN) : U|AQsI WgAG|UlD
+
+"phytohemagglutinin"
+# phytohemagglutinin (NOUN) : U|AQsIUfW(XfA^jIAs)WzWX|RUl
+# phytohemagglutinin (NOUN) : U|AQsIUfW XfA^jIAs WzWX|RUl
+# phytohemagglutinin (NOUN) : U|AQsIUfW XfA^jIAs WzWX|RUl
+# phytohemagglutinin (NOUN) : U|AQsIUfW XfA^jIAs WzWX|RUl
+# phytohemagglutinin (NOUN) : ]bW|\l^gQbAzIIs\|D|D
+
+"phytol"
+# phytol (NOUN) : ]bW|\lI
+
+"phytosterol"
+# phytosterol (NOUN) : U|AQsIUfW Uz\gIlI
+
+"picibanil"
+# picibanil (NOUN) : ]|U|RbD|I  
+# picibanil (NOUN) : ]|U|RbD|I
+
+"pigment"
+# natural pigment (NOUN) : ZfDWjD UcAUl
+# respiratory pigment (NOUN) : ^l^zRUcAUl
+# accessory pigment (NOUN) : RlXl UcAUl
+
+"pigmentosum"
+# congenital xeroderma pigmentosum (NOUN) : UfDZfDUfW UcAUlUfW AfD]|XzW
+# xeroderma pigmentosum (NOUN) : UcAUlUfW AfD]|XzW
+
+"pinacol"
+# pinacol (NOUN) : ]|Db[lI
+
+"pinacolone"
+# pinacolone (NOUN) : ]|Db[lIIlD
+
+"pinocytosis"
+# pinocytosis (NOUN) : WzQXbAWrW, ^zRWzQXbAWrW
+# pinocytosis (NOUN) : WzQUg]lXbAWrW, ]|DlUbW|\lU|Uz
+
+"pinocytotic"
+# pinocytotic (NOUN) : WzQXbAWrW
+# pinocytotic (NOUN) : WzQXbAWrW
+
+"pinosome"
+# pinosome (NOUN) : ]|DlUlQ, WzQXbAWrW]l
+
+"piperidine"
+# piperidine (NOUN) : ]|]gI|G|D
+
+"piperonal"
+# piperonal (NOUN) : ]|]gIlDbI
+
+"pituitary"
+# pituitary (NOUN) : Dl|^bUsZg
+# posterior pituitary (NOUN) : (Dl|)^bUsZg^sWjR
+# pituitary (NOUN) : (Dl|)^bUsZg
+# anterior pituitary (NOUN) : (Dl|)^bUsZg XfDWjR
+
+"placenta"
+# placenta (NOUN) : \cRbD
+
+"plan"
+# biomass conversion plan (NOUN) : UcWZgIdW RjD^lbD AkQjD
+
+"plankton"
+# plankton (NOUN) : ]zIIbW[z\lD
+# plankton (NOUN) : RsWw UcWQsI
+
+"plant"
+# pilot plant (NOUN) : XsWAbDU|^fQAlWXbW
+# medicinal plant (NOUN) : WdAWrW U|AQsI
+# crassulacean acid metabolism plant (NOUN) : CAM U|AQsI, [zIcUwIUbD GcUbU|AQsI
+
+"plaque"
+# dental plaque (NOUN) : Z|As, Z|\c
+# plaque (NOUN) : WrWAwDRbD, ]zIIb[z
+# plaque (NOUN) : ]zIIb[z
+
+"plasma"
+# blood plasma (NOUN) : ^jIWcA ]zIIbUzQb
+# blood plasma (NOUN) : ^jIXbW
+
+"plasmagene"
+# plasmagene (NOUN) : Ug]lX|I WwXfDXb
+
+"plasmalogen"
+# plasmalogen (NOUN) : ]zIIbUzQbIIlXgD
+
+"plasmid"
+# drug tolerance plasmid (NOUN) : WdAQsI DcUfW ]zIIbUzQ|Gz
+# Ti plasmid (NOUN) : Ti ]zIIbUzQ|Gz
+# transferable plasmid (NOUN) : XfDGbIUfW ]zIIbUzQ|Gz
+# killer plasmid (NOUN) : ]bAl|Xb ]zIIbUzQbGz
+# non-transmissional plasmid (NOUN) : R|XfDGbIUfW ]zIIbUzQ|Gz
+# Ri plasmid (NOUN) : Ri ]zIIbUzQ|Gz
+# R plasmid (NOUN) : R ]zIIbUzQ|Gz
+# plasmid (NOUN) : ^cAWl| WwXfDXb, ]zIIbUzQ|Gz
+# plasmid (NOUN) : ]zIIbUzQ|Gz, Ug]lX|IWwXfDXb
+# F plasmid (NOUN) : F ]zIIbUzQ|Gz 
+# high copy plasmid (NOUN) : GcIdW RlAXg ]zIIbUzQ|Gz
+# conjugated plasmid (NOUN) : XfR^bRZg ]zIIbUzQ|Gz
+# relaxed type plasmid (NOUN) : W|WlbD^jW ]zIIbUzQ|Gz
+# stringent plasmid (NOUN) : Uz\zI|DXfD\z ]zIIbUzQ|Gz
+
+"plasminogen"
+# plasminogen (NOUN) : ]zIIbUzQ|DlAgD, ]zIIbUzQ|DWz| R|^lbIUfW XfDAsQsIX|I
+
+"plasmoblast"
+# plasmoblast (NOUN) : ^jWX|IWbAs
+
+"plasmocytoma"
+# plasmocytoma (NOUN) : ^jWX|IUg]lXlW
+
+"plasmolysis"
+# plasmolysis (NOUN) : WsfD^jWX|IRsDI|
+
+"plasmolyze"
+# plasmolyze (NOUN) : WsfD^jWX|IRsDI|
+
+"plastid"
+# plastid (NOUN) : UcAUlZg
+
+"plastocyanin"
+# plastocyanin (NOUN) : ]zIIbUz\lU|WbD|D
+
+"plastoquinone"
+# plastoquinone (NOUN) : ]zIIbUz\l[s|DlD
+
+"plate"
+# soft agar plate (NOUN) : WjD ^bDZfD RcX|
+
+"plating"
+# efficiency of plating (NOUN) : ]jW]bD ^rWwI
+
+"pleiotropic"
+# pleiotropic (NOUN) : GbQjD RbI^jDUfW
+# pleiotropic (NOUN) : GbQjD RbI^jDUfW
+
+"pleiotropy"
+# pleiotropy (NOUN) : GbQjD RbI^jDUfW
+
+"plot"
+# Ramachandran plot (NOUN) : IbQbUdDGzIbD Gl]r
+# Arrhenius plot (NOUN) : WbIgD|WsUz AlAUfD
+# plot (NOUN) : GlQjD, Gl]r, Ak^l|A, XfDIdA
+# double reciprocal plot (NOUN) : W|XsW WjAUs Gl]r, W|XsW WjAUs ]zIIbU
+
+"pneumoniae"
+# Diplococcus pneumoniae (NOUN) : ]kIjQ VbWAsAwD
+
+"point"
+# crossover point (NOUN) : ArZbXfQ
+
+"pole"
+# animal pole (NOUN) : GlWQsIAzA
+# vegetal pole (NOUN) : U|AQsIAzA
+
+"poliovirus"
+# poliovirus (NOUN) : ]lII|Wl RbW|IfUz
+
+"pollinosis"
+# pollinosis (NOUN) : ^lbRsD RjWXzW
+
+"poly"
+# poly (NOUN) : ]lII|
+
+"polyacrylamide"
+# polyacrylamide (NOUN) : ]lII| Wb[zI|I WbQbW|Gz
+
+"polyamine"
+# polyamine (NOUN) : ]lII| WbQ|D
+
+"polydeoxyribonucleotide"
+# polydeoxyribonucleotide (NOUN) : ]lII|G|WlAU| I|RlDw[zIIgWl\|Gz
+
+"polyelectrolyte"
+# polyelectrolyte (NOUN) : AlRsDXb XfD^cX|I
+# polyelectrolyte (NOUN) : GbAb XfD^cX|I
+
+"polygene"
+# polygene (NOUN) : ]lII|X|D (R|GcI|R WwXfDXbWz| W|IAsD)
+
+"polymer"
+# hydrophobic polymer (NOUN) : UlUsUfW XsW^bRZg
+# reactive polymer (NOUN) : RbDWzWUfW AlRsDXb
+# urethan polymer (NOUN) : WwIg\bD XsW^bRZg
+
+"polymerase"
+# RNA dependent DNA polymerase (NOUN) : RNAWz|XlD DNA XsW^bR^rUl, RNAWz|XlD DNA ]lII|QfIgW|Uz
+# nucleoside triphosphate polymerase (NOUN) : Dw[zIIgWlUbW|Gz UbQW|DUbD XsW^bR^rUl
+# RNA dependent RNA polymerase (NOUN) : RNA Wz|XlDUfW RNA XsW^bR^rUl
+# RNA polymerase (NOUN) : RNA ]lII|QfIgW|Uz
+# RNA dependent DNA polymerase (NOUN) : RNA Wz|XlDUfW DNA XsW^bR^rUl
+# DNA polymerase (NOUN) : DNA XsW^bR^rUl
+# DNA dependent RNA polymerase (NOUN) : DNA Wz|XlDUfW RNA XsW^bR^rUl
+# RNA polymerase (NOUN) : RNA XsW^bR^rUl
+# RNA polymerase (NOUN) : RNA XsW^bR^rUl
+
+"polymerization"
+# charge-transfer polymerization (NOUN) : XfD^b W|GlW XsW^bR
+# degree of polymerization (NOUN) : XsW^bRGl
+
+"polymorphic"
+# polymorphic (NOUN) : Gb^jWUfW
+# polymorphic (NOUN) : Gb^jWUfW
+
+"polymorphism"
+# protein polymorphism (NOUN) : GbDRcAX|I Gb^jW^jDUbW
+# polymorphism (NOUN) : Gb^jWUfW
+# genetic polymorphism (NOUN) : WwXfDXfAGb^jW
+
+"polymyositis"
+# polymyositis (NOUN) : GbRbIUfW AzDWjQ
+
+"polynactin"
+# polynactin (NOUN) : ]lII|DbA\|D
+
+"polynucleotide"
+# polynucleotide (NOUN) : ]lII|Dw[zIIgWl\|Gz
+
+"polypeptide"
+# atrial natriuretic polypeptide (NOUN) : U|QRbWUfW Db\zIwQ RcUfIXzWAb ]lII|]gR\bW|Gz
+# gastric inhibitory polypeptide (NOUN) : Ws| WfAXg GbDRcAX|I
+# vasoactive intestinal polypeptide (NOUN) : ^jIAlbD XbAWrWUfW XbWWz| ]lII|]gR\bW|Gz, ^jIAlbD XbAWrWUfW XbWAlbDWz| ]lII|]gR\bW|Gz
+
+"polyphenol"
+# polyphenol (NOUN) : ]lII|]gDlI
+
+"polyploid"
+# polyploid (NOUN) : RcUsZg
+
+"polyribonucleotide"
+# polyribonucleotide (NOUN) : ]lII|I|RlDw[zIIgWl\|Gz
+# synthetic polyribonucleotide (NOUN) : ^bRUfW ]lII|IbW|RlDw[zIIgWl\bW|Gz
+
+"polyribosome"
+# polyribosome (NOUN) : ]lII|IbW|RlUlQ
+
+"polysaccharide"
+# polysaccharide (NOUN) : GbGbW
+# capsular polysaccharide (NOUN) : ^jRQbA GbGbW
+
+"polysheath"
+# polysheath (NOUN) : ]lII|Us|\z
+
+"polysome"
+# polysome (NOUN) : ]lII|UlQ
+
+"pomato"
+# pomato (NOUN) : ]lQb\l
+
+"pool"
+# amino acid pool (NOUN) : WbQ|DlUbD ]sI(AzRWsfD)
+# metabolic pool (NOUN) : GcUb AjWIl
+# gene pool (NOUN) : WwXfDXb AzRWsfD
+
+"pore"
+# nuclear pore (NOUN) : ^cAAlW
+# nuclear pore (NOUN) : ^cAQbAAlW
+
+"porphin"
+# porphin (NOUN) : ]lIz]|D
+
+"porphobilinogen"
+# porphobilinogen (NOUN) : ]lIz]lR|II|DlAgD
+# porphobilinogen (NOUN) : ]lIz]l R|II|DlXgD
+
+"porphyria"
+# porphyria (NOUN) : ]lIz]|I|DXzW
+
+"position"
+# benzylic position (NOUN) : RgDX|I Ws|, RgDX|IXbI|
+
+"potential"
+# postsynaptic potential (NOUN) : U|DcRUz ^s XfDWbR
+# phosphorylation potential (NOUN) : W|DUbD^lb ]l\gDUjI
+# liquid junction potential (NOUN) : WcAAbD XfDWs|
+# postsynaptic potential (NOUN) : UbI[lW|GlU|Uz, WwWwAXlWXzW
+# action potential (NOUN) : ^lbIGlW XfDWs|
+# phase boundary potential (NOUN) : AkQjDXfDWs|
+# reduction potential (NOUN) : ^lbDWsfD XfDWs|
+# inhibitory postsynaptic potential (NOUN) : WfAXgUfW U|DcRUz^s XfDWs|
+# high potential (NOUN) : Al ]l\gDUjI
+# excitatory postsynaptic potential (NOUN) : ^zWRsDUfW U|DAjWXfI^s(U|DcRUz^s) XfDWs|
+# phosphate-group transfer potential (NOUN) : W|DUbDA|XfDW|]l\gDUjI
+# resting potential (NOUN) : XfWX| XfDWs|
+# resting membrane potential (NOUN) : XfWX|QbA XfDWs|
+
+"potentiation"
+# long-term potentiation (NOUN) : XbWA| XzWAbW ^jDUbW
+
+"powder"
+# acetone powder (NOUN) : WbUg\lD RsDQbI
+
+"power"
+# reducing power (NOUN) : ^lbDWsfDIjA
+
+"poxvirus"
+# poxvirus (NOUN) : ]lAUz RbW|IfUz
+
+"pralidoxime"
+# pralidoxime (NOUN) : ]zIIbI|GlXbW|Q
+# pralidoxime (NOUN) : ]zIIbI|GlAU|D
+
+"prealbumin"
+# thyroxine-binding prealbumin (NOUN) : \|IlAU|D-AjI^bR ]zI|WbIRsQ|D
+# prealbumin (NOUN) : ]zI|WbIRsQ|D
+
+"precipitate"
+# immune precipitate (NOUN) : QjDWjA Z|QAbWQsI, QjDWjA Z|QXfDQsI
+
+"precursor"
+# enzyme precursor (NOUN) : ^rUl XfDAsZg
+# precursor (NOUN) : XfDAsZg
+
+"pregnane"
+# pregnane (NOUN) : ]zIgAzDgW|D
+
+"pregnanediol"
+# pregnanediol (NOUN) : ]zIgAzDgW|DGbW|WlI
+
+"pregnanetriol"
+# pregnanetriol (NOUN) : ]zIgAzDgW|D\zI|WlI
+
+"pregnenolone"
+# pregnenolone (NOUN) : ]zIgAzDgDlIIlD
+
+"preparation"
+# immunoglobulin preparation (NOUN) : QjDWjA AzIIlRsII|D XgXl
+
+"preproinsulin"
+# preproinsulin (NOUN) : ]zI|]zIlW|DUwII|D, W|DUwII|D XfDAsQsIX|I
+
+"pressure"
+# surface pressure (NOUN) : ]rQjDWbR
+
+"primase"
+# primase (NOUN) : ]zIbW|QgW|Uz
+
+"primer"
+# primer (NOUN) : ]zIbW|Qf, U|RbIQsIX|I(RlAXgW|WrWGbDUfD ^cAUbD)
+
+"priming"
+# RNA priming (NOUN) : I|Rl^cAUbD U|XfQAsXl, I|Rl^cAUbD ]zIbW|Q|W, RNA U|XfQAsXl, RNA ]zIbW|Q|W
+
+"principle"
+# Dale's principle (NOUN) : GgW|IWz| WsfDI|
+# transforming principle (NOUN) : ^jWX|IXfD^lbDW|DXb
+
+"print"
+# finger print (NOUN) : X|QsD
+
+"printing"
+# finger printing (NOUN) : X|QsDRfR
+
+"prion"
+# prion (NOUN) : ]zI|WlD, ^cAUbDAjIWjW|RXb
+
+"proaccelerin"
+# proaccelerin (NOUN) : ]zIlWbAUgIgII|D, WzWAlW|DXb
+
+"probe"
+# DNA probe (NOUN) : DNA \bQZ|Q
+# probe (NOUN) : \bQZ|Q
+
+"procarboxypeptidase"
+# procarboxypeptidase (NOUN) : ]zIl[bIzRlAU|]gR\|GgW|Uz
+
+"procaryote"
+# procaryote (NOUN) : WsfD^cAUcWQsI
+# procaryote (NOUN) : WsfD^cA UcWQsI
+
+"proccess"
+# activated sludge proccess (NOUN) : ^lbIUfW WlD|RfR
+
+"process"
+# differentiation process (NOUN) : RsD^lb AlbXfW
+
+"processing"
+# post-transcriptional processing (NOUN) : XfDUb^s ]zIlUgU|W
+# processing (NOUN) : ]zIlVgU|W, GbDRcAX|I ^bRUfWAlbXfWXsWWz| mRNAHlDzD GbDRcAX|IWz| Ac]jD
+
+"prochirality"
+# prochirality (NOUN) : ]zIl[bW|IbII|\|
+
+"procollagen"
+# procollagen (NOUN) : [lIIbXgDXfDAsZg
+
+"proconvertine"
+# proconvertine (NOUN) : ]zIl[lDRf\|D, WzWAlW|DXb
+
+"prodrug"
+# prodrug (NOUN) : WdAQsIWz| XfDAsZg
+
+"produce"
+# produce (NOUN) : UcWUbD
+
+"product"
+# fibrin degradation product (NOUN) : ]|RzI|D(UfQWwUl) RsD^cUbDQsI
+# end product (NOUN) : Zl|XlW UbDQsI
+# primary transcription product (NOUN) : Xg1Zb DzWGlW UsUlW
+
+"production"
+# mechanism of antibody production (NOUN) : ^bWZgUcWUbDA|As
+# production (NOUN) : UcWUbD
+
+"proelastase"
+# proelastase (NOUN) : ]zIlWgIIbUz\gW|Uz
+
+"proflavin"
+# proflavin (NOUN) : ]zIl]zIIbR|D
+
+"progesterone"
+# progesterone (NOUN) : ]zIlXgUz\gIlD
+
+"progesterone-receptor"
+# progesterone-receptor (NOUN) : ]zIlXgUz\gIlD-UsWrWZg
+
+"progestin"
+# progestin (NOUN) : ]zIlXgUz\|D 
+
+"progestogen"
+# progestogen (NOUN) : ]zIlXgUz\lXgD
+
+"prohormone"
+# prohormone (NOUN) : ]zIl^lIzQlD, ^lIzQlDXfDAsZg
+
+"proinsulin"
+# proinsulin (NOUN) : W|DUwII|DXfDAsZg
+
+"prolactin"
+# prolactin (NOUN) : ]zIlIbA\|D, XfXRsDR| XbAzA ^lIzQlD
+# prolactin (NOUN) : ]zIIlIbA\|D, ^lbWZgXbAzA^lIzQlD
+
+"prolamine"
+# prolamine (NOUN) : ]zIlIIbQ|D
+
+"prolidase"
+# prolidase (NOUN) : ]zIlII|GgW|Uz
+
+"proliferate"
+# proliferate (NOUN) : XzWU|A
+# proliferate (NOUN) : XzWU|A
+
+"proliferation"
+# accelerator factor of cell proliferation (NOUN) : Ug]l XzWU|A ZlAX|D W|DXb
+# proliferation (NOUN) : XzWU|A
+# infinite proliferation (NOUN) : Qs^bD XzWU|A
+
+"proline"
+# proline (NOUN) : ]zIlII|D 
+
+"prolylhydroxylase"
+# prolylhydroxylase (NOUN) : ]zIlII|I^bW|GzIlAU|IIgW|Uz,]zIl]|IUsUbD^lb^rUl
+
+"promote"
+# promote (NOUN) : ZlAX|D
+
+"promoter"
+# lac promoter (NOUN) : lac ]zIlQl\f(ZlAX|DWwXfDXb)
+# enhancer promoter (NOUN) : XzW]lAXg ZlAX|DW|DXb(]zIlQl\f)
+# promoter (NOUN) : ]zIlQl\f, XfDUbZlAX|DW|DXb
+# early promoter (NOUN) : ZlA| ]zIlQl\f
+# tumor promoter (NOUN) : XlWWdW ]zIlQl\f
+# lac promoter (NOUN) : lac ]zIlQl\f
+
+"promotion"
+# promotion (NOUN) : ZlAX|D
+
+"pronase"
+# pronase (NOUN) : ]zIlDgW|Uz, R|\zAW|XfA GbDRcAX|I RsD^c^rUl
+
+"propagation"
+# vegetative propagation (NOUN) : WjWWdWRfDU|A
+# vegetative propagation (NOUN) : WjWWdWUcWU|A
+
+"propanediol"
+# propanediol (NOUN) : ]zIl]bDG|WlI
+
+"propanil"
+# propanil (NOUN) : ]zIl]bD|I
+
+"prophage"
+# prophage (NOUN) : ]zIl]bWbX|
+
+"propranolol"
+# propranolol (NOUN) : ]zIl]z]gDlIlI
+
+"prostacyclin"
+# prostacyclin (NOUN) : ]zIlUz\bUbW|[zII|D
+
+"prostaglandin"
+# prostaglandin (NOUN) : ]zIlUz\bAzIIbDG|D
+# prostaglandin (NOUN) : ]zIlUz\bAzIIbDG|D 
+
+"prostigmine"
+# prostigmine (NOUN) : ]zIlUz\|AzQ|D
+
+"protease"
+# protease (NOUN) : GbDRcAX|I RsD^c^rUl, ]zIl\gW|Uz
+# serine protease (NOUN) : UgI|D GbDRcAX|I RsD^c^rUl
+# Ca2+-activated neutral protease (NOUN) : CANP, Ca2+-^lbIUfW^lb XsWUfW GbDRcAX|IRsD^c^rUl
+# acid protease (NOUN) : UbDUfW GbDRcA RsD^c ^rUl
+# alkaline protease (NOUN) : WbI[bII|UfW GbDRcAX|IRsD^c^rUl
+# Ca2+-dependent protease (NOUN) : Ca2+([bIUwQW|AbW|WlD) Wz|XlDUfW GbDRcAX|I RsD^c ^rUl
+# thiol protease (NOUN) : \|WlI GbDRcAX|IRsD^c^rUl
+# protease (NOUN) : GbDRcAX|I RsD^c^rUl
+# carboxyl protease (NOUN) : [bIzRlAU|I GbDRcAX|IRsD^c^rUl
+
+"protein"
+# molybdenum-iron-sulfur protein (NOUN) : QlII|RzGgD-ZfI Ww^lbW GbDRcAX|I
+# gene 32 protein (NOUN) : WwXfDXb32 GbDRcAX|I
+# gene activator protein (NOUN) : WwXfDXb^lbIUfW^lb GbDRcAX|I
+# ribosomal protein (NOUN) : IbW|RlUlQ GbDRcAX|I
+# retinol-binding protein (NOUN) : Ig\|DlI AjI^bRGbDRcAX|I
+# serum protein (NOUN) : ^jIZfW GbDRcAX|I
+# myelin basic protein (NOUN) : QbW|WgII|D WjQA|UfW GbDRcAX|I
+# alpha-fetal protein (NOUN) : WbI]b \cWb GbDRcAX|I
+# acute stage protein (NOUN) : AzRUfWA| GbDRcAX|I
+# encephalitogenic protein (NOUN) : Dl|WjQ RbIUcW GbDRcAX|I
+# binding protein (NOUN) : AjI^bR GbDRcAX|I
+# phospholipid exchange protein (NOUN) : W|DX|X|IAr^lbDGbDRcAX|I
+# plasma protein (NOUN) : ^jIXbW GbDRcAX|I
+# methyl-accepting chemotaxis protein (NOUN) : Qg\|IA|UsWrW^lb^bAXsUfW GbDRcAX|I
+# hydrolysis of protein (NOUN) : GbDRcAX|IWz| AbUsRsD^c
+# single cell protein (NOUN) : GbDW|I Ug]l GbDRcAX|I 
+# single cell protein (NOUN) : GbDW|I [zIIlDUfW ^bWZg
+# chloroplast protein (NOUN) : WjRIlAZg GbDRcAX|I
+# secretory protein (NOUN) : RsDR| GbDRcAX|I
+# iron-sulfur protein (NOUN) : ZfIWw^lbW GbDRcAX|I
+# single cell protein (NOUN) : WfAXgW|DXb WsDRbD I|Rl^cAUbD, WfAXgUfW tRNA 
+# coat protein (NOUN) : [l\z GbDRcAX|I, BfRX|I GbDRcAX|I
+# scaffold protein (NOUN) : R|Ak GbDRcAX|I, Uz[g]lIGz GbDRcAX|I
+# steroid binding protein (NOUN) : Uz\gIlW|Gz AjI^bRGbDRcAX|I
+# regulatory protein (NOUN) : XlXfI GbDRcAX|I
+# storage protein (NOUN) : XfXbW GbDRcAX|I
+# scaffold protein (NOUN) : AlIAjA GbDRcAX|I
+# acidic protein (NOUN) : UbDUfW GbDRcAX|I
+# DNA binding protein (NOUN) : DNA AjI^bR GbDRcAX|I
+# copper protein (NOUN) : GlWGbDRcAX|I, AsI| GbDRcAX|I
+# carrier protein (NOUN) : WsDRbD GbDRcAX|I, GbQZg 
+# catabolite activator protein (NOUN) : W|^lbQsIX|I ^lbIUfW GbDRcAX|I
+# calmodulin binding protein (NOUN) : [bIQlGwII|D AjI^bR GbDRcAX|I
+# antibacterial protein (NOUN) : UbIAwDUfW GbDRcAX|I, ^bWAwDUfW GbDRcAX|I
+# calcitonin gene related protein (NOUN) : [bIU|\lD|D WwXfDXbWjDAlbD GbDRcAX|I
+# oligomeric protein (NOUN) : WlII|AlZg GbDRcAX|I
+# toxic protein (NOUN) : GlAUfW GbDRcAX|I
+# toxic protein (NOUN) : GlAUl GbDRcAX|I
+# chemical modification of protein (NOUN) : GbDRcAX|IWz| ^lb^bAUsUb
+# chemical synthesis of protein (NOUN) : GbDRcAX|IWz| ^lb^bA^bRUfW
+# denaturation of protein (NOUN) : GbDRcAX|IWz| RjDUfW
+# brain protein (NOUN) : Dl| GbDRcAX|I
+# structural protein (NOUN) : AsXl GbDRcAX|I
+# higher-order structure of protein (NOUN) : GbDRcAX|IWz| AlZbAsXl
+# globular protein (NOUN) : AsUbW GbDRcAX|I
+# mass production of protein (NOUN) : GbDRcAX|I WdWUbD
+# primary structure of protein (NOUN) : GbDRcAX|IWz| 1ZbAsXl
+# protein (NOUN) : GbDRcAX|I
+# quaternary structure of protein (NOUN) : GbDRcAX|I 4ZbAsXl
+# secondary structure of protein (NOUN) : GbDRcAX|I 2ZbAsXl
+# sequence determination of protein (NOUN) : GbDRcAX|IWz| 1ZbAsXl(WbQ|DlUbDUfWjI)AjIXfWRfR
+# tertiary structure of protein (NOUN) : GbDRcAX|I 3Zb AsXl
+# allosteric protein (NOUN) : GbIzDXbI|(W|RZgUfW) GbDRcAX|I
+# heat shock protein (NOUN) : WjI ZsWAjA GbDRcAX|I
+# fibrous protein (NOUN) : UfQWwUbW GbDRcAX|I
+# acyl carrier protein (NOUN) : ACP, WbU|IA| UsUlW GbDRcAX|I
+# toxic protein (NOUN) : GlAUfW GbDRcAX|I
+# acyl carrier protein (NOUN) : WbU|IA| GbQZg, WsDRbD GbDRcAX|I
+# rec-- A protein (NOUN) : rec-A GbDRcAX|I
+# microbial protein (NOUN) : Q|UcWQsI GbDRcAX|I
+# px protein (NOUN) : px GbDRcAX|I
+# mrna protein (NOUN) : XfDIjW RNA(mRNA) GbDRcAX|I
+# non-histone protein (NOUN) : R|^|Uz\lD GbDRcAX|I
+# Bence-- Jones protein (NOUN) : RgDUz-XlDUz GbDRcAX|I 
+# myeloma protein (NOUN) : AlIUsXlW GbDRcAX|I
+# C4-binding protein (NOUN) : C4-bp, C4 AjI^bRGbDRcAX|I
+# single-stranded DNA binding protein (NOUN) : GbDW|I AbGbA DNAAjI^bR GbDRcAX|I
+# microtubule associate protein (NOUN) : Q|UgUlAlbD AjI^bR GbDRcAX|I
+# S-100 protein (NOUN) : S-100 GbDRcAX|I
+# methyl-accepting chemotaxis protein (NOUN) : Qg\|IA| UsWrW-Xs^lbUfWGbDRcAX|I
+# retinol-binding protein (NOUN) : Ig\|DlI AjI^bRGbDRcAX|I
+# hybrid protein (NOUN) : XbRXlW GbDRcAX|I
+# M protein (NOUN) : M GbDRcAX|I
+# oligomycin-sensitivity-conferring protein (NOUN) : WlII|AlQbW|U|D-Q|DAbQUfW RsWj GbDRcAX|I
+# oxygen carrying protein (NOUN) : UbDUlWsDRbD GbDRcAX|I
+# biotin carboxyl carrier protein (NOUN) : BCCP, RbW|Wl\|D [bIzRlAU|I WsDRbD GbDRcAX|I
+# passenger protein (NOUN) : \lWAlb GbDRcAX|I
+# prepriming protein (NOUN) : ]zI|]zIbW|Q|W GbDRcAX|I, U|GlWGbDRcAX|IWsfD
+# penicillin binding protein (NOUN) : ]gD|U|II|D AjI^bR GbDRcAX|I
+# calcitonin gene related protein (NOUN) : CGRP, [bIU|\lD|D WwXfDXb AlbDIjD GbDRcAX|I
+# cap binding protein (NOUN) : CBP, [cR AjI^bRGbDRcAX|I, QlXbAsXl AjI^bR GbDRcAX|I
+# acyl carrier protein (NOUN) : X|RbWUbDA| WsDRbD GbDRcAX|I
+# carboxyl carrier protein (NOUN) : CCP,[bIzRlAU|IA| WsDRbDGbDRcAX|I
+# cell surface protein (NOUN) : CSP, Ug]l ]rQjD GbDRcAX|I
+# catabolite activator protein (NOUN) : CAP, RsD^cGcUbX|I ^lbIUfW^lb GbDRcAX|I
+# membrane protein (NOUN) : QbA GbDRcAX|I
+# histidine containing protein (NOUN) : ^|Uz\|G|D ^bQWw GbDRcAX|I
+# cyclic AMP receptor protein (NOUN) : CRP, ^lbDUbW AMP UsWrWGbDRcAX|I
+# nonhistone chromosomal protein (NOUN) : R|^|Uz\lDUfW WjQUcAZg GbDRcAX|I
+# myelin basic protein (NOUN) : WjQA|UfW UsZl GbDRcAX|I
+# C protein (NOUN) : C GbDRcAX|I
+# C-reactive protein (NOUN) : C RbDWzWUfW GbDRcAX|I
+# G protein (NOUN) : G GbDRcAX|I
+# HANA protein (NOUN) : HANA GbDRcAX|I
+# hybrid protein (NOUN) : XbRXlW GbDRcAX|I
+# receptor protein (NOUN) : UsWrW GbDRcAX|I
+# protein (NOUN) : GbDRcAX|I
+# F protein (NOUN) : F GbDRcAX|I
+# contractile protein (NOUN) : UsZsAUfW GbDRcAX|I
+# large external transformation sensitive protein (NOUN) : ^jWX|IXfD^lbD Q|DAbQUfW AfGc Wl|Rs GbDRcAX|I
+
+"proteinase"
+# proteinase (NOUN) : GbDRcARsD^c^rUl, ]zIl\|DDgW|Uz
+
+"proteoglycan"
+# proteoglycan (NOUN) : ]zIl\gWlAzII|[bD
+
+"proteolipid"
+# proteolipid (NOUN) : ]zIl\gWlX|X|I
+
+"proteose"
+# proteose (NOUN) : ]zIl\gWlUz
+
+"protist"
+# protist (NOUN) : WsfDUcWUcWQsI
+
+"protochlorophyll"
+# protochlorophyll (NOUN) : ]zIl\l[zIIlIl]|I
+
+"protofilament"
+# protofilament (NOUN) : ]zIl\l]|IIbQgD\z, WsfDU|WsfDUbUbWZg
+
+"protoheme"
+# protoheme (NOUN) : ]zIl\l^|Q
+
+"protomer"
+# protomer (NOUN) : WsfDZg
+
+"protoplasm"
+# protoplasm (NOUN) : WsfD^jWX|I
+
+"protoplast"
+# protoplast (NOUN) : WsfD^jWX|IZg
+# protoplast (NOUN) : ]zIl\l]zIIbUz\z, WsfD^jWX|IZg
+
+"protoporphyrin"
+# protoporphyrin (NOUN) : ]zIl\l]lIz]|I|D
+
+"prototroph"
+# prototroph (NOUN) : WsfDWjWWdWXs
+
+"prourokinase"
+# prourokinase (NOUN) : ]zIlWwIl[bW|DgW|Uz
+
+"provirus"
+# provirus (NOUN) : ]zIlRbW|IfUz
+
+"pseudogene"
+# pseudogene (NOUN) : (^f)Ws| WwXfDXb
+
+"pseudoglobulin"
+# pseudoglobulin (NOUN) : WwUbAzIIlRsII|D 
+
+"pseudohypoparathyroidism"
+# pseudohypoparathyroidism (NOUN) : ^fWs|UfW RsAbRUbWUfD A|DzW Xf^bXzW
+
+"Pseudomonas"
+# Pseudomonas (NOUN) : AlIX|RlA^bRZg
+
+"pseudopregnancy"
+# pseudopregnancy (NOUN) : ^fWs| W|QU|D, Wz|W|QU|D, AbW|QU|D
+
+"pseudopregnant"
+# pseudopregnant (NOUN) : ^fWs| W|QU|D, Wz|W|QU|D, AbW|QU|D
+# pseudopregnant (NOUN) : ^fWs| W|QU|D, Wz|W|QU|D, AbW|QU|D
+# become pseudopregnant (NOUN) : Wz|W|QU|D, AbW|QU|D
+
+"pseudouridine"
+# pseudouridine (NOUN) : WwUbWwI|G|D
+
+"psychosine"
+# psychosine (NOUN) : UbW|[lU|D
+
+"pteridine"
+# pteridine (NOUN) : ]z\gI|G|D
+
+"puff"
+# puff (NOUN) : ]f]z, Zs|WzQ, Rs]sD WjQUcAZgAsXl(^lbIRbI^bD XfDUbWjWWjA) 
+
+"pullulan"
+# pullulan (NOUN) : ]zIIsIbD
+
+"pullulanase"
+# pullulanase (NOUN) : ]zIIsIbDgW|Uz
+
+"pump"
+# calcium pump (NOUN) : [bIUwQ ]fQ]z
+# sodium pump (NOUN) : UlG|WsQ ]fQ]z
+# proton pump (NOUN) : WdWXb ]fQ]z
+
+"purine"
+# purine (NOUN) : ]wI|D
+
+"puripotency"
+# puripotency (NOUN) : GbRsD^lbDzW
+
+"puripotent"
+# puripotent (NOUN) : GbRsD^lbDzW
+# puripotent (NOUN) : GbRsD^lbDzW
+
+"purity"
+# optical purity (NOUN) : AlbW^bA UsDGl
+
+"purple"
+# visual purple (NOUN) : U|^lW
+
+"putrescine"
+# putrescine (NOUN) : ]s\zIgU|D, \g\zIbQg\|IIgDG|WbQ|D
+
+"pyocyanine"
+# pyocyanine (NOUN) : ]|WlU|WbQ|D
+
+"pyrazinamide"
+# pyrazinamide (NOUN) : ]|IbX|DWbQbW|Gz
+# pyrazinamide (NOUN) : ]bW|IbX|DWbQbW|Gz
+
+"pyrazine"
+# pyrazine (NOUN) : ]|IbX|D
+
+"pyrethrin"
+# pyrethrin (NOUN) : ]bW|Ig\zI|D
+
+"pyrethroid"
+# pyrethroid (NOUN) : ]bW|Ig\zIlW|Gz
+
+"pyridoxal"
+# pyridoxal (NOUN) : ]|I|GlAUbI
+
+"pyridoxamine"
+# pyridoxamine (NOUN) : ]|I|GlAUzWbQ|D
+# pyridoxamine (NOUN) : ]|I|GlAUzWbQ|D
+
+"pyridoxine"
+# pyridoxine (NOUN) : ]|I|GlAU|D 
+# pyridoxine (NOUN) : ]|I|GlAU|D
+
+"pyrimidine"
+# pyrimidine (NOUN) : ]|I|Q|G|D
+
+"pyrimidinone"
+# pyrimidinone (NOUN) : ]|I|Q|G|DlD
+
+"pyrocatechine"
+# pyrocatechine (NOUN) : ]bW|Il[b\g[|D, ]bW|Il[b\g[lI
+
+"pyrocatechol"
+# pyrocatechol (NOUN) : ]bW|Il[b\g[lI
+
+"pyrogen"
+# endogenous pyrogen (NOUN) : RbIWjI W|DXb
+# endogenous pyrogen (NOUN) : DcXgXfA RbIWjIWsfD
+# pyrogen (NOUN) : RbIWjI QsIX|I
+# pyrogen (NOUN) : RbIWjIUfW QsIX|I
+
+"pyroline-5-carboxylate"
+# pyroline-5-carboxylate (NOUN) : ]bW|IlI|D-5-[bIzRlAU|UbD
+
+"pyron"
+# pyron (NOUN) : ]bW|IlD
+
+"pyrophosphatase"
+# pyrophosphatase (NOUN) : ]bW|Il]lUz]b\gW|Uz, XsWU|QW|DUbDAjI^bR AbUsRsD^c^rUl
+# nucleotide pyrophosphatase (NOUN) : Dw[zIIgWl\bW|Gz ]|IlW|DUbDAbUsRsD^c^rUl
+
+"pyrophosphate"
+# geranylgeranyl pyrophosphate (NOUN) : XgIbD|IXgIbD|I ]|IlW|DUbD
+# geranyl pyrophosphate (NOUN) : XgIbD|I ]|IlW|DUbD
+# phosphoribosyl pyrophosphate (NOUN) : ]lUz]lI|RlU|I ]|IlW|DUbDWjQ
+# pyrophosphate (NOUN) : ]|IlW|DUbD 
+# farnesyl pyrophosphate (NOUN) : ]bDgU|I ]|IlW|DUbD
+# thiamin pyrophosphate (NOUN) : \|WbQ|D ]|IlW|DUbD
+# isopentenyl pyrophosphate (NOUN) : WbW|Ul]gD\gD ]|IlW|DUbD
+# tetraethyl pyrophosphate (NOUN) : \g\zIbWg\|I ]|IlW|DUbD
+# dimethylallyl pyrophosphate (NOUN) : GbW|Qg\|IWbI|I ]|IlW|DUbD
+# tetraethyl pyrophosphate (NOUN) : \g\zIbWg\|I ]|IlW|DUbD
+
+"pyrophosphorylase"
+# pyrophosphorylase (NOUN) : Ab]|IlW|DUbD AbUsRsD^c^rUl, ]bW|Il]lUz]lI|IIgW|Uz
+# NAD+ pyrophosphorylase (NOUN) : NAD+ ]|IlW|DUbDAbUsRsD^c^rUl
+
+"pyrrolase"
+# tryptophan pyrrolase (NOUN) : \zI|R\l]bD ]|IlIIgW|Uz
+
+"pyrrolidone"
+# pyrrolidone (NOUN) : ]bW|IlII|GlD
+

@@ -1,0 +1,584 @@
+
+"R"
+# coenzyme R (NOUN) : Rl^rUl R
+
+"racemase"
+# amino acid racemase (NOUN) : WbQ|DlUbD IbUgQ|^lb^rUl
+# racemase (NOUN) : IbU|QgW|Uz (IbUgQbWbXg)
+
+"radiation"
+# adaptive radiation (NOUN) : XfAWzW RbWUb
+
+"radiation-resistant"
+# radiation-resistant (NOUN) : RbWUbUfD DcUfW
+# radiation-resistant (NOUN) : RbWUbUfD DcUfW
+
+"radical"
+# phenoxy radical (NOUN) : ]gDlAU| WwI|A|
+
+"radioautography"
+# radioautography (NOUN) : RbWUbUfD XbAbA|IlA
+
+"radioimmunoassay"
+# radioimmunoassay (NOUN) : RbWUbUfD QjDWjAAfQUb, RbWUbQjDWjARsDUfAU|^fQ
+# radioimmunoassay (NOUN) : RbWUbUfD QjDWjA AfQXfWRfR
+# radioimmunoassay (NOUN) : RbWUbUfD QjDWjAZzAXfWRfR
+
+"radioisotope"
+# radioisotope (NOUN) : RbWUbUfW GlWWs|WsfDUl
+# radioisotope (NOUN) : RbWUbUfW GlWWs|WsfDUl
+# radioisotope (NOUN) : RbWUbUfW GlWWs|WsfDUl
+
+"raffinose"
+# raffinose (NOUN) : Ib]|DlWlUz
+
+"range"
+# host range (NOUN) : UsAXsWjA
+
+"rat"
+# analbuminemic rat (NOUN) : QsWbIRsQ|DWz| Xs|
+# spontaneous hypertension rat (NOUN) : XbRbIUfW Al^jIWbR Xs|
+# rat (NOUN) : Xs|
+# spontaneous hypertension rat (NOUN) : Al^jIWbR Xs|
+
+"rate"
+# mutation rate (NOUN) : GlIWjDRjDW|WwI
+# red cell iron turnover rate (NOUN) : XfA^jIAs ZfIArGcWwI
+
+"ratio"
+# turnover ratio (NOUN) : ^l|XfDWwI, XfD^lbDWwI
+# protein efficiency ratio (NOUN) : GbDRcAX|I ^rWwI R|WwI
+# NADH/NAD+ ratio (NOUN) : NADH/NAD+ R|
+# phosphorus/oxygen ratio (NOUN) : W|D/UbDUl R|
+# nutritive ratio (NOUN) : WjWWdWWwI
+# protein efficiency ratio (NOUN) : GbDRcAX|I ^rWwI
+
+"reabsorb"
+# reabsorb (NOUN) : Xc^zRUs
+
+"reabsorption"
+# reabsorption (NOUN) : Xc^zRUs
+
+"reactant"
+# acute phase reactant (NOUN) : AzRUfWA| RbDWzW QsIX|I
+# acute phase reactant (NOUN) : APR, AzRUfWA| RbDWzW QsIX|I
+
+"reaction"
+# Ehrlich's reaction (NOUN) : WgIzII|^| RbDWzW
+# ATP-- pyraophosphate exchnge reaction (NOUN) : ATP ]bW|Il W|DUbD Ar^lbD RbDWzW
+# transannular reaction (NOUN) : Gl^lbD RbDWzW
+# Carr-- Price reaction (NOUN) : [bI-]zIbW|Uz RbDWzW
+# biuret reaction (NOUN) : RwIgU RbDWzW
+# ATP-ADP exchange reaction (NOUN) : ATP-ADP Ar^lbDRbDWzW
+# Wood-- Werkman reaction (NOUN) : WsGz-Wsf[zQbD RbDWzW
+# delayed-type reaction (NOUN) : X|WjD^jW RbDWzW
+# bisubstrate reaction (NOUN) : W|A|X|I RbDWzW
+# Sullivan reaction (NOUN) : UfII|RbDRbDWzW
+# indophenol reaction (NOUN) : W|DGl]gDlIRbDWzW
+# steady state of enzyme reaction (NOUN) : ^rUl RbDWzWWz| XfWUbW UbW\c
+# Hill reaction (NOUN) : ^|I RbDWzW
+# cascade reaction (NOUN) : XlWUlA RbDWzW ,[gUz[gW|Gz^jW RbDWzW
+# enzyme reaction (NOUN) : ^rUl RbDWzW
+# decarboxylation transaminaton reaction (NOUN) : \bI\bDUbD WbQ|DlA| XfDW| RbDWzW
+# polymer reaction (NOUN) : AlRsDXb RbDWzW
+# coupled reaction (NOUN) : AlWWjARbDWzW
+# complement fixation reaction (NOUN) : RlZg AjI^bR RbDWzW
+# periodic acid-- Schiff reaction (NOUN) : AlbWlAUlUbD--U|]z RbDWzW
+# photochemical reaction (NOUN) : AlbW^lb^bA RbDWzW
+# periodic acid-- Schiff reaction (NOUN) : AlbWlAUlUbD-Us|]zRbDWzW
+# third-order reaction (NOUN) : UbQZb RbDWzW
+# indophenol blue reaction (NOUN) : W|DGl]gDlI ZfWUcARbDWzW
+# peptidyl transfer reaction (NOUN) : ]gR\|G|I XfDW|RbDWzW
+# Salkowski's reaction (NOUN) : UbI[lWsUz[|RbDWzW 
+# substitution reaction (NOUN) : GcGsWw
+# diphenylamine reaction (NOUN) : GbW|]gD|IWbQ|D RbDWzW
+# thiobarbituric acid reaction (NOUN) : \lWlRbIR|\sIzUbD RbDWzW
+# anthrone reaction (NOUN) : WcD\zIlDRbDWzW
+# aminotransferase reaction (NOUN) : WbQ|DlXfDW|^rUlRbDWzW
+# mixed lymphocyte reaction (NOUN) : ^lD^bR I|Q]zAs RbDWzW
+# allergic reaction (NOUN) : WbIIgIzA| RbDWzW
+# Arthus reaction (NOUN) : WbIz\wUz RbDWzW
+# exergonic reaction (NOUN) : RbIWjI RbDWzW
+# graft versus host reaction (NOUN) : W|U|A]jD Gc UsAXsRbDWzW
+# mixed lymphocyte reaction (NOUN) : ^lD^bR I|Q]zAs RbDWzW
+# nucleophilic substitution reaction (NOUN) : As^cAZ|^lbDRbDWzW
+# Diels-- Alder reaction (NOUN) : G|WgI --WgIGf RbDWzW
+# antigen-antibody reaction (NOUN) : ^bWWsfD ^bWZg RbDWzW
+# mixed lymphocyte culture reaction (NOUN) : I|Q[zAs ^lD^bR RcWdW RbDWzW
+# passive cutaneous anaphylaxis reaction (NOUN) : UsGlW ]|RsAlbQ|DRbDWzW
+# graft versus host reaction (NOUN) : W|U|A]jDGc UsAXsRbDWzW
+# Tollens' reaction (NOUN) : \lIIgD RbDWzW
+# electron transfer reaction (NOUN) : XfDXb XfDGbI RbDWzW
+# cross reaction (NOUN) : ArZb RbDWzW
+# rapid reaction (NOUN) : AlUlA RbDWzW
+# tuberculin reaction (NOUN) : \wRgIz[sII|D RbDWzW
+# ATP-- phosphate exchange reaction (NOUN) : ATP W|DUbDAr^lbDRbDWzW
+# cross reaction (NOUN) : ArZb RbDWzW
+# phospholipid base-exchange reaction (NOUN) : W|DX|X|IWjQA|Ar^lbDRbDWzW
+# anaphylatic reaction (NOUN) : AlbQ|DRbDWzW, WbDb]|IIbAU|Uz RbDWzW
+# vectorial reaction (NOUN) : RgA\lI|WbI RbDWzW, RbW^dWUfWRbDWzW
+# endergonic reaction (NOUN) : ^zRWjIRbDWzW
+# Schotten-- Baumann's reaction (NOUN) : UcWAfRfR
+# second-order reaction (NOUN) : W|Zb RbDWzW
+# phosphate-- ATP exchange reaction (NOUN) : W|DUbD ATP Ar^lbDRbDWzW
+# Bial reaction (NOUN) : RbW|WbI RbDWzW
+# plastein reaction (NOUN) : ]zIIbUz\gW|D RbDWzW
+# Adamkiewicz reaction (NOUN) : WbGbQ[sgW|Xz RbDWzW
+# asymmetric reaction (NOUN) : R|GcZ|W RbDWzW
+# pyrophosphate- ATP exchange reaction (NOUN) : ]|IlW|DUbD ATP Ar^lbDRbDWzW
+# glyoxylic acid reaction (NOUN) : AzII|WlAU|IUbD RbDWzW
+# inhibition of enzyme reaction (NOUN) : ^rUl RbDWzWWz| WfAXg
+# Millon's reaction (NOUN) : Q|IIlD RbDWzW
+# Molisch's reaction (NOUN) : QlII|Us| RbDWzW
+# Sakaguchi's reaction (NOUN) : Ub[bAsY| RbDWzW
+# ADP-- phosphate exchange reaction (NOUN) : ADP W|DUbDAr^lbDRbDWzW
+
+"reactivation"
+# multiplicity reactivation (NOUN) : GbXsW AbQWjQ Xc^lbIUfW^lb
+
+"reactor"
+# membrane reactor (NOUN) : QbA^jW RbDWzWA|
+
+"reagent"
+# Bial's reagent (NOUN) : RbW|WbI U|WdA
+# Millon's reagent (NOUN) : Q|IIlD U|WdA
+# Ellman's reagent (NOUN) : WgIzII|^| U|WdA
+# Barfoed's reagent (NOUN) : RbIz]lGz U|WdA
+# alkaloid reagent (NOUN) : WbI[bIIlW|Gz U|WdA
+# periodic acid-- Schiff's reagent (NOUN) : AlbWlAUlUbD-Us|]zU|WdA
+# Tollens' reagent (NOUN) : \lIIgD U|WdA
+# nucleophilic reagent (NOUN) : Z|D^cAU|WdA, As^cAU|WdA
+# Schiff's reagent (NOUN) : UbI[lWsUz[|RbDWzW 
+# electrophilic reagent (NOUN) : XfDXb Z|D^lbUfW U|WdA, AsXfDXb U|WdA
+
+"rearrange"
+# rearrange (NOUN) : XcRcWjI^bGb
+
+"rearrangement"
+# allylic rearrangement (NOUN) : WbII|I XcRgWs| 
+# pinacol-pinacolone rearrangement (NOUN) : ]|Db[lI-]|Db[lIIlD XcRcWs|
+# rearrangement (NOUN) : XbI|WlIQA|Q(RbDWzW)
+# Amadori rearrangement (NOUN) : WbQbGlI| XcRcWjI
+
+"receptor"
+# GABA receptor (NOUN) : AbRb UsWrWZg
+# cell membrane receptor (NOUN) : Ug]lQbA UsWrWA|
+# Fc receptor (NOUN) : Fc UsWrWZg
+# steroid hormone receptor (NOUN) : Uz\gIlW|Gz ^lIzQlD UsWrWZg
+# acetylcholine receptor (NOUN) : WbUg\|I[lII|D I|UgR\f
+# complement receptor (NOUN) : CR, RlZg UsWrWZg
+# gamma-aminobutyric acid receptor (NOUN) : AbQQb WbQ|DlDbAUbDUsWrWZg
+# antigen-binding receptor (NOUN) : ^bWWsfD AjI^bRUfW UsWrWA|
+# nicotinic acetylcholine receptor (NOUN) : D|[l\|D WbUg\|I[lII|D UsWrWZg
+# Fcepsilon receptor (NOUN) : FUgRU|IIlD UsWrWZg 
+# Fcepsilon receptor (NOUN) : FUgRU|IIlD UsWrWZg
+# epidermal growth factor receptor (NOUN) : UbW]| UfWXbW W|DXb UsWrWZg
+# receptor (NOUN) : XfDGbI QsIX|I UsWrWZg
+# nicotinic acetylcholine receptor (NOUN) : D|[l\|D|A WbUg\|I[lII|D UsWrWZg
+# T cell receptor (NOUN) : T Ug]l I|Ug\f(UsWrWZg)
+# i- C3b receptor (NOUN) : i-C3b UsWrWZg
+# acetylcholine receptor (NOUN) : AChR, WbUg\|I[lII|D UsWrWZg
+# low density lipoprotein receptor (NOUN) : XfQ|IGl X|X|I GbDRcAX|I UsWrWZg
+# ionotropic receptor (NOUN) : W|WlD^l|UfWUsWrWZg
+# Fc receptor (NOUN) : Fc UsWrWZg
+# receptor (NOUN) : UsWrWZg
+# muscarinic acetylcholine receptor (NOUN) : QsUz[bI|D WbUg\|I[lII|D UsWrWZg
+# C3d receptor (NOUN) : C3d UsWrWZg
+# interleukin 2 receptor (NOUN) : W|D\fIs[|D UsWrWZg
+# hormone receptor (NOUN) : ^lIzQlD UsWrWZg
+# hormone receptor (NOUN) : ^lIzQlD UsWrWZg
+# insulin receptor (NOUN) : W|DUwII|D UsWrWZg
+# opioid receptor (NOUN) : Wb]jDWdWXgXg UsWrWZg
+# receptor (NOUN) : UsWrWZg
+# morphine receptor (NOUN) : QlIz]|D UsWrWZg
+# acetylcholine receptor (NOUN) : WbUg\|I[lII|D UsWrWZg
+# glucocorticoid receptor (NOUN) : GbWX|I[lIz\|[lW|Gz UsWrWZg
+# catecholamine receptor (NOUN) : [bGg[lIWbQ|D UsWrWZg
+# complement receptor (NOUN) : RlZg UsWrWZg
+# metabotropic receptor (NOUN) : GcUbQsI
+# phage receptor (NOUN) : ]bWbX| UsWrWZg
+
+"recessive"
+# recessive (NOUN) : WjIUfW
+# recessive (NOUN) : WjIUfW
+
+"recessiveness"
+# recessiveness (NOUN) : WjIUfW
+
+"recognition"
+# cell recognition (NOUN) : Ug]l W|DU|A
+
+"recombinant"
+# recombinant (NOUN) : XcXl^bR
+# recombinant (NOUN) : XcXl^bR
+# recombinant (NOUN) : XcXl^bRZg
+
+"recombination"
+# illegitimate recombination (NOUN) : R|XfW\lWXfA XcXl^bR
+# artificial DNA recombination (NOUN) : W|DAlWXfA DNAXcXl^bR
+# gene recombination (NOUN) : WwXfDXb XcXl^bR
+# class switch recombination (NOUN) : AkAzRXfD^lbDXcXl^bR
+# homologous recombination (NOUN) : UbWGlW XcXl^bR
+# genetic recombination (NOUN) : WwXfDXfA XcXl^bR
+# recombination (NOUN) : XcXl^bR
+
+"recombine"
+# recombine (NOUN) : XcXl^bR
+
+"recording"
+# patch electrode recording (NOUN) : ]cZs| XfDAzARfR
+
+"redifferentiate"
+# redifferentiate (NOUN) : XcRsD^lb
+
+"redifferentiation"
+# redifferentiation (NOUN) : XcRsD^lb
+
+"reductase"
+# ribonucleotide reductase (NOUN) : IbW|RlDw[zIIgWl\bW|Gz I|GfA\gW|Uz, IbW|RlDw[zIIgWl\bW|Gz ^lbDWsfD^rUl
+# dihydrofolate reductase (NOUN) : GbW|^bW|GzIl]lIIgW|\z ^lbDWsfD^rUl, GbW|^bW|GzIlWjRUbD^lbDWsfD^rUl
+# amino acid reductase (NOUN) : WbQ|DlUbD ^lbDWsfD^rUl
+# glutaryl-- Co- A reductase (NOUN) : AzIIs\bI|I Co-A ^lbDWsfD ^rUl
+# glutathione reductase (NOUN) : AzIIs\b\|WlD ^lbDWsfD ^rUl
+# dihydrolipoamide reductase (NOUN) : GbW|^bW|GzIlI|]lWbQbW|Gz ^lbDWsfD^rUl
+# reductase (NOUN) : ^lbDWsfD^rUl
+# D-proline reductase (NOUN) : D-]zIlII|D ^lbDWsfD^rUl
+# nitrate reductase (NOUN) : X|IUbD ^lbDWsfD^rUl
+
+"reduction"
+# asymmetric reduction (NOUN) : R|GcZ|W ^lbDWsfD
+
+"region"
+# variable region (NOUN) : AbRjDRs
+# variable region (NOUN) : AbRjDWjWWjA
+# region (NOUN) : WjWWjA
+# T/t genetic region (NOUN) : T/t WwXfDXbWjWWjA
+# promoter region (NOUN) : ]zIlQl\f WjWWjA
+# hinge region (NOUN) : ^|DX|Rs, XfRRfDRs
+# operator region (NOUN) : XbAGlWW|DXb WjWWjA
+# constant region (NOUN) : XfWUbW WjWWjA
+
+"regulate"
+# regulate (NOUN) : XlXfI
+
+"regulation"
+# expression regulation (NOUN) : RbI^jD XlXfI
+# immunity regulation (NOUN) : QjDWjA XlXfI
+# metabolic regulation (NOUN) : GcUb AzRWsfD, GcUb ]sI
+# regulation (NOUN) : XlXfI
+# allosteric regulation (NOUN) : GbIzDXbI|(W|RZgUfW)XlXfI
+# attenuator regulation (NOUN) : Wf\gDwWgW|\f(AbQWdAW|DXb)XlXfI
+
+"rejection"
+# graft rejection (NOUN) : W|U|A]jD AfRsRbDWzW
+# rejection (NOUN) : AfRsRbDWzW
+
+"relationship"
+# symbiotic relationship (NOUN) : AlWUcWAlbDAk
+
+"relax"
+# relax (NOUN) : WlbD^lb
+# relax (NOUN) : WlbD^lb
+
+"relaxation"
+# relaxation (NOUN) : WlbD^lb, W|WlbD
+
+"release"
+# environmental release (NOUN) : ^lbDAjWRbWZsI
+
+"renin"
+# brain renin (NOUN) : Dl| IgD|D
+# renin (NOUN) : IgD|D
+# purification of renin (NOUN) : IgD|D XfWXg
+# submandibular gland renin (NOUN) : ^bWbA^bUfD IgD|D
+# big renin (NOUN) : AfGc IgD|D
+
+"renin-angiotensin"
+# renin-angiotensin (NOUN) : IgD|D-WbDX|Wl\gDU|D
+
+"rennin"
+# rennin (NOUN) : IgDD|D
+
+"reovirus"
+# reovirus (NOUN) : IgWlRbW|IfUz
+
+"repair"
+# SOS repair (NOUN) : SOS ArXfW, SOS UsRlA
+# repair (NOUN) : ArXfW, UsRlA
+# recombination repair (NOUN) : XcXl^bR ArXfW, XcXl^bR UsRlA
+# post-replication repair (NOUN) : RlAXg ^s ArXfW, RlAXg ^s UsRlA
+# excision repair (NOUN) : XgAf ArXfW, XgAf UsRlA
+# dark repair (NOUN) : WbQ^l|RlA
+# repair (NOUN) : ArXfW, UsRlA
+
+"repeat"
+# long terminal repeat (NOUN) : QbIGbD RbDRlA UfWjI
+# direct repeat (NOUN) : X|ARbDRlA
+# long terminal repeat (NOUN) : A|D QbIGbD RbDRlA
+
+"repetition"
+# terminal repetition (NOUN) : QbIGbD XsWRlA
+
+"replacement"
+# multiple isomorphous replacement (NOUN) : GbUsWz| GlW^jWZ|^lbD
+# single isomorphous replacement (NOUN) : GbDW|I GlW^jW Z|^lbD
+
+"replicase"
+# RNA replicase (NOUN) : RNA Ig]zII|[gW|Uz
+# RNA replicase (NOUN) : RNA RlAXg^rUl
+# replicase (NOUN) : Ig]zII|[gW|Uz
+# Qbeta replicase (NOUN) : QRg\b RlAXg^rUl
+
+"replicate"
+# replicate (NOUN) : RlAXg
+
+"replication"
+# initiation comple of DNA replication (NOUN) : DNA RlAXgWz| AcU| RlA^bRZg
+# rolling circle-type replication (NOUN) : IlII|W Uf[zI^jW RlAXg
+# DNA replication (NOUN) : DNA RlAXg
+# initiation of DNA replication (NOUN) : DNA RlAXgWz| AcU|
+# discontinous replication (NOUN) : RsIWjDUlA RlAXg
+# semiconservative replication (NOUN) : RbDRlXlDXfA RlAXg
+# replication (NOUN) : RlAXg
+# origin of replication (NOUN) : RlAXgAcU|WjWWjA
+
+"replicator"
+# replicator (NOUN) : Ig]zII|[gW|\f, RlAXgAcU|XfQ
+
+"replicon"
+# replicon (NOUN) : Ig]zII|[lD, RlAXgGbDWs|
+# runaway replicon (NOUN) : W|\bI Ig]zII|[lD, W|\bI RlAXgGbDWs|
+
+"repression"
+# enzyme repression (NOUN) : ^rUl WfAXg
+# end product repression (NOUN) : Zl|XlW UbDQsI WfAXg
+# repression (NOUN) : WfAXg
+# catabolite repression (NOUN) : W|^lbQsIX|I WfAXg 
+# feedback repression (NOUN) : Gl|QfAW|Q WfAXg, ]|GzRcAXgWf
+# catabolite repression (NOUN) : W|^lbGcUbUbDQsIWfAXg
+
+"repressor"
+# hemin-controlled repressor (NOUN) : ^gQ|D-XlXfI WfAXgW|DXb
+# repressor (NOUN) : WfAXgQsIX|I
+# lac repressor (NOUN) : lac WfAXg WwXfDXb
+
+"reproduction"
+# sexual reproduction (NOUN) : WwUfW UcWU|A
+# asexual reproduction (NOUN) : QsUfWUcWU|A
+
+"research"
+# development research (NOUN) : AcRbIWjDAs
+
+"reserpine"
+# reserpine (NOUN) : I|Uf]|D (IgUgIz]|D)
+
+"residue"
+# C-terminal amino acid residue (NOUN) : C QbIGbD WbQ|DlUbD XbDA|
+# N-- terminal amino acid residue (NOUN) : N-QbIGbD WbQ|DlUbD XbDA|
+# amino acid residue (NOUN) : WbQ|DlUbD XbDA| 
+
+"resin"
+# photocrosslinkable resin (NOUN) : AlbWAbArUfW UsX|
+
+"resistance"
+# radiation resistance (NOUN) : RbWUbUfD DcUfW
+# mycophenolic acid resistance (NOUN) : QbW|[l]gDlIUbD DcUfW
+# drug resistance (NOUN) : WdAQsI DcUfW
+# cross resistance (NOUN) : ArZb DcUfW
+# total peripheral blood vessel resistance (NOUN) : ZlW QbIZl ^jIAlbD Xf^bW
+
+"resonance"
+# electron spin resonance (NOUN) : XfDXb ^l|XfD AlWQjW
+# electron paramagnetic resonance (NOUN) : XfDXb UbWXbUfW AlWQjW
+# spin resonance (NOUN) : Uz]|DAlWQjW, ^l|XfDAlWQjW
+
+"resorcinol"
+# resorcinol (NOUN) : I|XlIzU|DlI
+
+"respiration"
+# aerobic respiration (NOUN) : ^lA|XfA ^l^zR
+# respiration (NOUN) : ^l^zR
+
+"respire"
+# respire (NOUN) : ^l^zR
+
+"respirometer"
+# respirometer (NOUN) : ^l^zRAk
+
+"response"
+# primary immune response (NOUN) : W|IZbQjDWjARbDWzW
+# secondary immune response (NOUN) : W|Zb QjDWjA RbDWzW
+# immune response (NOUN) : QjDWjA RbDWzW
+# antibody response (NOUN) : ^bWZg RbDWzW
+
+"restrict"
+# restrict (NOUN) : Xg^bD
+
+"restriction"
+# restriction (NOUN) : Xg^bD
+
+"retardant"
+# growth retardant (NOUN) : UfWXbW WfAXgXg
+# plant growth retardant (NOUN) : U|AQsI UfWXbW WfAXg QsIX|I
+
+"reticulocyte"
+# reticulocyte (NOUN) : QbWUbW XfA^jIAs
+
+"reticulum"
+# smooth-surfaced endoplasmic reticulum (NOUN) : ^lbIQjD Ul]lZg
+# endoplasmic reticulum (NOUN) : Ul]lZg 
+# endoplasmic reticulum (NOUN) : Ul]lZg
+# smooth endoplasmic reticulum (NOUN) : ^lbIQjD Ul]lZg
+# rough endoplasmic reticulum (NOUN) : XlQjDUl]lZg
+# sarcoplasmic reticulum (NOUN) : AzDUl]lZg
+# rough-surfaced endoplasmic reticulum (NOUN) : XlQjD Ul]lZg
+
+"retinal"
+# retinal (NOUN) : QbWQbAWz|, Ig\|DbI
+
+"retinene"
+# retinene (NOUN) : U|^lbW, Ig\|D|D
+
+"retinoid"
+# retinoid (NOUN) : Ig\|DlW|Gz
+
+"retrovirus"
+# retrovirus (NOUN) : Ig\zIl RbW|IfUz
+
+"reversal"
+# sex reversal (NOUN) : UfW XfD^lbD
+
+"Revolution"
+# Green Revolution (NOUN) : DlAUcA ^jAQjW
+
+"rhabdovirus"
+# rhabdovirus (NOUN) : IbRGl RbW|IfUz
+
+"rhizobium"
+# rhizobium (NOUN) : IbW|XlR|WsQ
+
+"rhizopterin"
+# rhizopterin (NOUN) : IbW|Xl]z\gI|D
+
+"rho"
+# rho (NOUN) : Il
+
+"rhodopsin"
+# rhodopsin (NOUN) : U|^lW, IlGlRU|D
+
+"rhythm"
+# circadian rhythm (NOUN) : AcW|I I|GzQ, W|IArZb, WdA 1W|I I|GzQ
+
+"ribitol"
+# ribitol (NOUN) : IbW|R|\lI
+
+"riboflavin"
+# riboflavin (NOUN) : IbW|Rl]zIIbR|D
+
+"ribonuclease"
+# ribonuclease (NOUN) : IbW|Rl Dw[zII|WgW|Uz
+# ribonuclease (NOUN) : IbW|Rl Dw[zII|WgW|Uz, I|Rl Dw[zIIgWbXg
+# ribonuclease (NOUN) : I|Rl^cAUbDRsD^c^rUl
+
+"ribonucleoprotein"
+# ribonucleoprotein (NOUN) : I|Rl^cAUbD GbDRcAX|I
+
+"ribonucleoside"
+# ribonucleoside (NOUN) : IbW|Rl Dw[zIIgWlUbW|Gz
+
+"ribonucleotide"
+# glycinamide ribonucleotide (NOUN) : AzIIbW|U|DWbQbW|Gz I|RlDw[zIIgWl\bW|Gz
+# ribonucleotide (NOUN) : IbW|RlDw[zIIgWl\bW|Gz
+# glycinamide ribonucleotide (NOUN) : AzIIbW|U|DWbQbW|Gz I|RlDw[zIIgWl\bW|Gz
+# 4-carboxylate ribonucleotide (NOUN) : 4-[bIzRlAU|IUbD I|RlDw[zIIgWl\|Gz
+# 5-aminoimidazole-4-- N-succinocarboxamide ribonucleotide (NOUN) : 5-WbQ|DlW|Q|GgXlI4-N-UsAU|Dl[bIzRlAUzWbQbW|Gz I|RlDw[zIIgWl\bW|Gz
+# 5-aminoimidazole-4-carboxamide ribonucleotide (NOUN) : 5-WbQ|Dl W|Q|GbXlI -4-[bIzRlAU| WbQbW|Gz I|RlDw[zIIgWl\|Gz, AICAR
+# nicotinamide ribonucleotide (NOUN) : D|[l\|DWbQbW|Gz  I|RlDw[zIIgWl\bW|Gz
+
+"ribosome"
+# mitochondrial ribosome (NOUN) : QbW|\l[lDGzI|WbWz| IbW|RlUlQ
+# ribosome (NOUN) : IbW|RlUlQ
+
+"ribosylase"
+# ADP-- ribosylase (NOUN) : ADP IbW|RlU|IIgW|Uz
+
+"ribosylate"
+# ribosylate (NOUN) : IbW|RlU|I^lb
+
+"ribosylation"
+# ribosylation (NOUN) : IbW|RlU|I^lb
+# ADP-- ribosylation (NOUN) : ADP-IbW|RlU|I^lb
+
+"ribosylthimine"
+# ribosylthimine (NOUN) : I|RlU|I\|Q|D
+
+"ribozyme"
+# ribozyme (NOUN) : IbW|RlXbW|Q
+
+"ribulosebisphosphate"
+# ribulosebisphosphate (NOUN) : IbW|RsIIlUz R|Uz W|DUbD
+
+"ribulosephosphate"
+# ribulosephosphate (NOUN) : IbW|RsIIlUz W|DUbD
+
+"rickettsia"
+# rickettsia (NOUN) : I|[gZb
+
+"rifampicin"
+# rifampicin (NOUN) : I|]bQ]|U|D
+
+"rifamycin"
+# rifamycin (NOUN) : I|]bQbW|U|D
+
+"ring"
+# isoalloxazine ring (NOUN) : W|UlWbIIlAUbX|D^lbD
+# porphyrin ring (NOUN) : ]lIz]|I|D^lbD
+# pyrrole ring (NOUN) : ]bW|IlI^lbD
+# imidazole ring (NOUN) : W|Q|GgXlI^lbD
+
+"RNA"
+# RNA (NOUN) : RNA(I|Rl^cAUbD)
+# messenger RNA (NOUN) : XfDIjW RNA
+# ribosomal RNA (NOUN) : IbW|RlUlQ RNA
+# antisense RNA (NOUN) : WbD\|UgDUz RNA, GcWzWWz|Q| I|Rl^cAUbD
+# mitochondrial RNA (NOUN) : Q|\l[lDGzI|WbUfW RNA 
+# precursor RNA (NOUN) : XfDAsZg RNA
+# transfer RNA (NOUN) : XfDW| RNA
+# messenger RNA (NOUN) : QgU|DXf RNA, XfDIjW RNA
+# primer RNA (NOUN) : ]zIbW|Qf RNA,U|RbIQsIX|I RNA (RlAXgW|WrWGbDUfD RNA)
+# transfer RNA (NOUN) : WsDRbDRNA
+# transfer RNA (NOUN) : WsDRbD I|Rl^cAUbD, WsDRbD RNA
+# peptidyl-t- RNA (NOUN) : ]gR\|G|I-WsDRbD RNA
+# small-- RNA (NOUN) : Ul^jW RNA
+# messenger RNA (NOUN) : QgU|DXf RNA
+# small nuclear RNA (NOUN) : ^cADc XfRsDXb RNA
+# heterogeneous nuclear RNA (NOUN) : W|X|IUfW ^cA RNA
+# double helical RNA (NOUN) : W|XsW DbUfD RNA
+# small nuclear RNA (NOUN) : XbAWzD ^cAUfW RNA
+# heterogeneous nuclear RNA (NOUN) : RsIAwDX|IWz| ^cA RNA
+# mitochondrial RNA (NOUN) : QbW|\l[lDGzI|Wb RNA
+# messenger RNA (NOUN) : XfDIjWRNA
+# double helical RNA (NOUN) : W|XsW DbUfD RNA
+# ligation of RNA (NOUN) : RNA WjDAjI^rUl
+# single-stranded RNA (NOUN) : GbDW|I UbUzI RNA, GbDUfDAbGbA RNA
+# ribosomal RNA (NOUN) : IbW|RlUlQ RNA
+
+"room"
+# bioclean room (NOUN) : UcWZgXfW^lbU|I
+
+"rosette"
+# erythrocyte-antibody-complement rosette (NOUN) : XfA^jIAs-^bWZg-RlZg IlXg\z
+
+"rotavirus"
+# rotavirus (NOUN) : Il\b RbW|IfUz
+
+"rotenone"
+# rotenone (NOUN) : Il\gDlD
+
+"rotor"
+# angle rotor (NOUN) : WcWAzI Il\f, AbA ^l|XfDXb
+
+"rule"
+# Landsteiner's rule (NOUN) : IbDGzUz\bW|DfWz| RfRZ|A
+# lactone rule (NOUN) : IbA\lD RfRZ|A
+

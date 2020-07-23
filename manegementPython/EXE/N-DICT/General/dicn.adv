@@ -1,0 +1,262 @@
+
+"naively"
+(UsDX|D^bAg)
+
+"nakedly"
+(RbIAbRfUAl XfADbIb^bAg)
+
+"namely"
+(XzA)
+
+"narratively"
+(W|WdA|ZfIfQ)
+
+"narrowly"
+(XlRAg)
+* AzDUl^bAg (avert)
+
+"nastily"
+(GfIfRAg)
+
+"natch"
+(Wz|GbW)
+
+"nationally"
+(AsAAbXfAWzIl)
+
+"natively"
+(UfDZfDXfAWzIl)
+
+"naturally"
+(XbWjD^|)
+* GbWWjD^| (~ {+SBEGIN})
+
+"naughtily"
+(XbWDbDBsIfA|Ab\W|)
+
+"nautically"
+(^bW^cUbW)
+
+"nay"
+(WbD|)
+
+"near"
+(AbBbW|)
+# near here (ADV) : W| AzDZfWgUf
+
+"nearby"
+(AbBbW|)
+
+"nearly"
+(AfWz|)
+
+"neatly"
+(QbIVsA^bAg)
+
+"necessarily"
+(]|IWjDXfAWzIl)
+
+"needfully"
+(]|IWrUbW)
+
+"needily"
+(AsW]|R^bWj)
+
+"negatively"
+(RsXfWXfAWzIl)
+
+"neither"
+()
+# neither A nor B (NOUN) : [(ADJUNCT A/Gl) B]/Gl {+NEG}
+# neither VP nor VP1 (VERB) : [(COMP [(COMP VP/^bX|Gl) VP1]/^bX|Gl) WbD^<VERB>]/Gb
+# || neither ^can PRON | (SENT) : [(SUBJ PRON/Gl) ^bI Us WfRU<VERB>]/Gb
+# || neither ^do PRON | (SENT) : [(SUBJ PRON/Gl) ^bI Us WfRU<VERB>]/Gb
+# || neither ^will PRON | (SENT) : [(SUBJ PRON/Gl) ^bX| WbD^DzD<VERB>]/Gb
+
+"nervously"
+(U|DAjWX|IXfAWzIl)
+* Q|DAbQ^bAg (react)
+
+"neutrally"
+(XsWI|RXfAWzIl)
+
+"never"
+(WbD|Wl)
+# never ^VP anything so AJP (VERB) : [(OBJ [(AMODS [(MODS [AzIf^Ag<ADV>]) AJP]/^bD) AfU<NOUN>]/WzI) (SCOMP [(RELCL VP/^bD) XfA<NOUN>]/W|) WfRU<VERB>]/Gb
+# never ^VP anything AJP (VERB) : [(OBJ [(AMODS [(MODS [W|If^Ag<ADV>]) AJP]/^bD) AfU<NOUN>]/WzI) (SCOMP [(RELCL VP/^bD) XfA<NOUN>]/W|) WfRU<VERB>]/Gb
+
+"nevermore"
+(GsRfD GbU|)
+
+"nevertheless"
+(AzIfQWgGl RsIAs^bAl)
+
+"newly"
+(UcIlRAg)
+
+"next"
+(GbWzQRfDWg)
+
+"nicely"
+(^sIIwW^bAg)
+
+"nightly"
+(RbQWg)
+
+"nights"
+(RbQW|QjD)
+
+"ninthly"
+(Xg 9RfDYcIl)
+
+"no"
+(WbD|Wl)
+# || no || (ADV) : WbD|Wl
+# || no , no | (SENT) : WbD|, WbD|
+# ^be no less AJP than A (VERB->ADJ) : [(ADJUNCT [(COMP A) QlUX|WbD^<ADJ>]/Ag) AJP]/^bGb
+# ^have no sooner VP than SENT (VERB) : [(ADJUNCT SENT/^bXbQbXb) VP]/^bGb
+# || no , thanks || (SENT) : (DECL [(MODS [WbD|<ADV>]) AlcDZbD^<ADJ>]/Gb)
+# || no , of course , not || (SENT) : (DECL [(MODS [QsIIlD<ADV>]) WbD|<ADJ>]/Gb)
+# || no , of course not || (SENT) : (DECL [(MODS [QsIIlD<ADV>]) WbD|<ADJ>]/Gb)
+# no sooner had SENT than SENT1 (SENT) : 
+  [(ADJUNCT SENT/^bXbQbXb) SENT1]/^bGb
+
+"nobly"
+(AfIsA ^bAg)
+* AlUbW^bAg (conduct perform)
+
+"nocturnally"
+(WdAbDWg)
+
+"nohow"
+(AjI[l WbD^Gb)
+
+"noiselessly"
+(UlI|WfRUW|)
+
+"noisily"
+(HfGzIVfA^bAg)
+
+"nomadically"
+(RbWIbW^bWj)
+
+"nominally"
+(QjWQlAUbW)
+
+"non"
+(WbD^Gb)
+
+"nonchalantly"
+(\cWjD^|)
+
+"none"
+(XlAzQGl WbD^Gb)
+
+"nonetheless"
+(AzIfQWgGl RsIAs^bAl)
+
+"nontheless"
+(AzIfQWgGl RsIAs^bAl)
+
+"nontroppo"
+(X|DbZ|X| WbD^Ag)
+
+"normally"
+(Rl\lW)
+
+"north"
+(RsAYlAWzIl)
+
+"northeast"
+(GlWRsAWg)
+
+"northeastwards"
+(GlWRsARbWWg)
+
+"northerly"
+(RsAYlAWzIl)
+
+"northward"
+(RsAWzIl ^dW^bWj)
+
+"northwestly"
+(UfRsAWz|)
+
+"northwestward"
+(UfRsAYlA)
+
+"northwestwards"
+(UfRsAYlAWzIl)
+# , not A (ADJ) : [(SCOMP A/W|) WbD|<ADJ>]/Gb
+# not ^A , but B (NOUN) : [(ADJUNCT [(SUBJ A/Ab) WbD|<ADJ>]/Ib) B]
+
+"not"
+()
+# than not (ADV) : WbD|D AfU RlGb
+//# not ^A but B (NOUN) : A Ab WbD|Ib B
+//# not PP ^but PP1 (PP->ADV) : PP Ab WbD|Ib PP1
+//# not PP , ^but PP1 (PP->ADV) : PP Ab WbD|Ib PP1
+//# not ^VERB A , but B (VERB) : A Ab WbD|Ib B IzI VERB ^bGb
+//# not only ^VERB A but B as well (VERB) : A SsDQbD WbD|Ib B Gl VERB ^bGb
+//# not only ^A but B (NOUN) : A QbDW| WbD|Ib B
+//# not only ^VP but VP1 (VERB) : VP ^bI SsDQbD WbD|Ib VP1 ^bGb
+//# not only ^VP but also VP1 (VERB) : VP ^bI SsDQbD WbD|Ib VP1 ^bGb
+//# not only ^AJP but AJP1 (ADJ) : AJP ^bI SsDQbD WbD|Ib AJP1 ^bD
+//# not only ^AJP but also AJP1 (ADJ) : AJP ^bI SsDQbD WbD|Ib AJP1 ^bD
+//# not only ^AVP but AVP1 (ADV) : AVP SsDQbD WbD|Ib AVP1
+//# not only ^AVP but also AVP1 (ADV) : AVP SsDQbD WbD|Ib AVP1
+//# A be not B any more than SENT (SENT->ADJ) : SENT ^bD AfUW| WbD|D AfU ZfIfQ A DzD B Ab WbD|Gb
+# || not really | (ADV) : BlA QbXX|DzD WbD^X|QbD
+# || of course , not || (SENT) : (DECL [(MODS [QsIIlD<ADV>]) WbD|<ADJ>]/Gb)
+# || of course not || (SENT) : (DECL [(MODS [QsIIlD<ADV>]) WbD|<ADJ>]/Gb)
+# not too long ago (ADV) : WfIQbXfDWg
+//# not only ^A but also B (NOUN) : A QbDW| WbD|Ib B
+// for test
+
+"notably"
+(^jDXf^|)
+
+"notarially"
+(AlWXzWW|DWg Wz|^bWj)
+
+"notedly"
+(^jDXf^bAg)
+
+"nothing"
+(XlAzQGl WbD^Gb)
+
+"notoriously"
+(WbAQjWDl]Ag)
+
+"notwithstanding"
+(AzIfQWgGl RsIAs^bAl)
+
+"notwithstandingly"
+(AzIfQWgGl RsIAs^bAl)
+
+"now"
+(X|AzQ)
+# || not now (SENT->ADJ) : X|AzQWzD WbD|Gb
+//# now that SENT (ADV) : SENT ^bQzIl
+#' | now that {+SINGULAR} (CONJ) : ^bQzIl
+# now and then (ADV) : HcHcIl
+# || for now | (NOUN) : X|AzQBbX|
+
+"nowadays"
+(WlDzIDbI)
+
+"noway"
+(XlAzQGl WbD^Gb)
+
+"nowdays"
+(Zl|AzDWg)
+
+"nowhere"
+(WbQsGgGl WfRUW|)
+# ^be nowhere in sight (VERB->ADJ) : U|WdWg WfRUGb
+
+"nudely"
+(WbIQlQWzIl)
+
+"numbly"
+(XfIjUf)

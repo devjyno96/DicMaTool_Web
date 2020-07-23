@@ -1,0 +1,75 @@
+
+"gaussian"
+# Gaussian elimination : AbWsUz UbAXgRfR
+# Gaussian factorization : AbWsUz RsD^c
+
+"general"
+# General Band Matrix Factorization : W|IRbD GcWjA ^cWIjI RsD^c
+# General Band Matrix Solve : W|IRbD GcWjA ^cWIjI ^cRfR
+# general control subroutine : W|IRbD XgWf RsUlAIs\|D
+# general data extract feature : W|IRbD XbIr ZsZsI A|DzW
+# general data interface exit : RfQWrW XbIr W|D\f]gW|Uz ZsIAs
+# general description : W|IRbD UfIQjW
+# General Format Identifier : W|IRbD WdWU|A U|ARjIXb
+# general graphic : W|IRbD AzIc]|A
+# General help : W|IRbD GlWsQQbI
+# general item comments : W|IRbD ]sQQlA XsUfA
+# general ledger : WsfDXbW
+# general ledger chat : ZlW AkXfW WsfDXbW]r
+# general ledger master : ZlW AkXfW WsfDXbW QbUz\f
+# general ledger worksheet : ZlW AkXfW WsfDXbW XbAWfR]r
+# General Ledger : ZlW AkXfW WsfDXbW
+# general matrix inverse : W|IRbD WjA^cWIjI
+# general order comments : W|IRbD WlGf XsUfA
+# general poll : W|IRbD ]lI
+# general preferences : W|IRbD WsUfDGl
+# general procedure : W|IRbD XfIZb
+# general purpose computer : RfQWrW [fQ]w\f
+# General Purpose Interface Bus : RfQWrW W|D\f]gW|Uz RfUz
+# general purpose jobstream : RfQWrW XbAWfRWjI
+# General Purpose Library : RfQWrW IbW|RzIfI|
+# general purpose operating system : RfQWrW WsDWrW U|Uz\gQ
+# general purpose register : RfQWrW IgX|Uz\f
+# General Purpose Simulation System : RfQWrW QlWz| XbAGlW U|Uz\gQ
+# General Purpose Simulation System V DOS : DOS RfQWrW QlWz| XbAGlW U|Uz\gQ V
+# General Purpose Simulation System V OS : OS RfQWrW QlWz| XbAGlW U|Uz\gQ V
+# general register : RfQWrW IgX|Uz\f
+# general resource : W|IRbD XbWsfD
+# general resource profile : W|IRbD XbWsfD ]zIl]bW|I
+# general selector pool : W|IRbD UfD\cAA| ]sI
+# general service : W|IRbDXfAW|D UfR|Uz
+# general session display : RfQWrW UgUjD ]rU|
+# general source file : RfQWrW WsfDU| ]bW|I
+# General Tridiagonal Matrix Factorization : W|IRbD 3XsW GcAbA^cWIjI RsD^c
+# General Tridiagonal Matrix Solve : W|IRbD 3XsW GcAbA^cWIjI ^cRfR
+# general user : W|IRbD UbWrWXb
+# general user privilege class : W|IRbD UbWrWXb \zAAsfD XlWIw
+# general virtual volume : RfQWrW AbUbW RlIIwQ
+
+"global"
+# global (ADJ) : AlbWWjAWz|
+# Global Access Checking : AlbWWjA XfRAzD XfQAfQ
+# global access list : XfDWjWWjA XfRAzD W|IIbQ]r
+# global area : AlbWWjA
+# global code : XfDWjWWjA [lGz
+# global connection : AlbWWjA XfRUlA
+# global control section : AlbWWjA XgWf AsWjA
+# Global Descriptor Table : XfD WjWWjA UfIQjWXb]r
+# global file : XfD WjWWjA ]bW|I
+# global file name characters : ]bW|IQjW ZlWZ|W QsDXb
+# global filename character : XfDWjA ]bW|IQjW QsDXb
+# global lock : XfD WjWWjA XbQA|Q
+# global processor : XfD WjWWjA ZfI|A|
+# global resource : AlbWWjA XbWsfD
+# global resource serialization : XfD WjWWjA XbWsfD UsDRfDQcA|Q
+# global service : XfDWjWWjA UfR|Uz
+# Global Shared Resources : XfDWjWWjA AlWWrW XbWsfD
+# global storage : XfDWjA A|WfAWjWWjA
+# global variable : XfDWjWWjA RjDUs
+# global variable pool : XfD WjWWjA RjDUs XfXbWUl
+# global variable symbol : XfDWjWWjA RjDUs A|^l
+
+"graphical"
+# Graphical Data Display Data Display Manager : Gl^jW XbIr ]rU| AlbDI| ]zIlAzIcQ
+# Graphical Data Display Manager : AzIc]|A XbIr ]rU|AlbDI| ]zIlAzIcQ
+# Graphical Display and Query Facility : AzIc]|A ]rU| Q|Z Xl^l| A|DzW

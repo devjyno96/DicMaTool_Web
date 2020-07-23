@@ -1,0 +1,165 @@
+
+"half"
+# half band width  :  RbD GcWjA ]lA
+# half duplex  :  R|GlWU| WdWRbW^dW XfDUlW
+# half duplex channel  :  R|GlWU| WdWRbW^dW ZcDfI
+# half duplex circuit  :  R|GlWU| WdWRbW^dW XfDUlW ^l|UfD
+# half duplex contention mode  :  R|GlWU| WdWRbW^dW XfDUlW AjW^bR QlGz
+# Half Duplex DCE Attachment  :  R|GlWU| WdWRbW^dW DCE XfRUlAA|As
+# half duplex flip-flop mode  :  R|GlWU| WdWRbW^dW XfDUlW ]zII|R ]zIIlR QlGz
+# half duplex protocol  :  R|GlWU| WdWRbW^dW XfDUlW AwWdA
+# half duplex transmission  :  R|GlWU| WdWRbW^dW XfDUlW
+# half index down  :  RbD[bD DcI|Q W|DUlc
+# half index up  :  RbD[bD WlII|Q W|DUlc
+# half justify  :  XsWAbD XfWIjI
+# half path  :  RbD AjWIl
+# half session  :  RbD UgUjD
+# half speed  :  RbD UlAGl
+# half word  :  RbD GbDWf
+# half word binary  :  2X|D RbDGbDWf
+
+"hard"
+# hard copy  :  ^bGz [b]|
+# hard copy support  :  ^bGz [b]| X|WsfD
+# hard disk  :  ^bGz G|Uz[z
+# hard disk file :  ^bGz G|Uz[z ^lbW|I
+# hard error  :  AzDRlDXfA WlIw
+# hard machine check interruption  :  ^bGzWsgWf W|UbW XfQAfQ AbIlZcA|
+# hard stop  :  ^bGz XfWX|
+# hard wait  :  WjWAs GcA|
+# hard wait state  :  ^bGzWsgWf GcA| UbW\c
+
+"heavy"
+# heavy duty printing requirements  :  GbIdW W|DUlc WrAs
+# heavy weight line  :  AsIAWzDUfD
+
+"heterogeneous"
+# heterogeneous : W|A|XlWAbDWz| 
+
+"hexadecimal"
+# hexadecimal  :  16X|D
+# hexadecimal address  :  16X|D XsUl
+# hexadecimal character representation  :  16X|DUs QsDXb ]rU|
+# hexadecimal constant  :  16X|D UbWUs
+# hexadecimal digit  :  16X|DUs
+# hexadecimal number  :  16X|DUs
+# hexadecimal number system  :  16X|DRfR
+# hexadecimal string  :  16X|D QsDXbWjI
+
+"hierarchic"
+# Hierarchic File Support Feature  :  AkZzW ]bW|I X|WsfD A|DzW
+# hierarchic path  :  AkZzW AjWIl
+# hierarchic sequence  :  AkZzW UsDUf
+# hierarchic structure  :  AkZzW AsXl
+
+"hierarchical"
+# hierarchical data base  :  AkZzW AsXl GgW|\b RgW|Uz
+# hierarchical data base structures  :  AkZzW GgW|\b RgW|Uz AsXl
+# Hierarchical Direct Access Method  :  AkZzW X|AXfR XfRAzD RbWU|A
+# hierarchical direct organization  :  AkZzW X|AXfR ]jDUfW
+# hierarchical file system  :  AkZzW ]bW|I U|Uz\gQ
+# Hierarchical Indexed Direct Access Method  :  AkZzW UcAW|D X|AXfR XfRAzD RbWU|A
+# Hierarchical Indexed Sequential Access Method  :  AkZzW UcAW|D UsDZb XfRAzD RbWU|A
+# hierarchical network  :  AkZzW Dg\zWsf[z
+# hierarchical relationship  :  AkZzW AlbDAk
+# hierarchical sequential  :  AkZzW UsDZb
+# Hierarchical Sequential Access Method  :  AkZzW UsDZb XfRAzD RbWU|A
+# hierarchical sequential organization  :  AkZzW UsDZb ]jDUfW
+# Hierarchical Storage  : AkZzW A|WfAWjWWjA AlbDI| ]zIlAzIcQ
+# hierarchical structure  :  AkZzW AsXl
+# hierarchical tree structure  :  AkZzWU|A DbQs AsXl
+
+"high"
+# high intensity  :  AbW^bD RbIAA|
+# high key range  :  UbWWs|[| RfQWs|
+# high level  :  UbWWs| UsXsD
+# High Level Data Link Control  :  AlAzR XbIr WjDAjI XgWf
+# High Level Language  :  AlAzR WfDWf
+# high level message  :  UbWWs| UsXsD QgUgX|
+# high level of use  :  UbWrW R|DGlAb Dl]WzD
+# high level only attachment  :  AlUsXsD XfDWrW XzW]lAA|
+# High Level Programming Interface  : UbWWs| UsXsD ]zIlAzIcQ|W W|D\f]gW|Uz
+# high level trace  :  AlUsXsDWz| ZsXfA
+# high limit  :  UbW^bD
+# High Limit Address  :  UbW^bD XsUl
+# high order  :  UbWWs|UsD
+# high order position  :  UbWWs| XbI|Us
+# High Order Zero and Blank Selection  :  UbWWs|UsD 0 Q|Z AlWRcA UfD\cA A|As
+# High Performance Communication Adapter  :  AlUfWDzW \lWU|D XfRUlAA|
+# High Performance Direct Connect Asynch. LA  :  AlUfWDzW X|AXfR XfRUlA R|GlWA| ^l|UfD LA
+# High Performance Full Modem Asynch. LA  :  AlUfWDzW RjDRlAXl XbWZ| R|GlWA| ^l|UfD LA
+# High Performance Full Modem Synch. LA  :  AlUfWDzW RjDRlAXl XbWZ| GlWA| ^l|UfD LA
+# high range  :  UbW^bDAbRU
+# high resolution  :  Al^cUbWGl
+# High Resolution Interval Timer  :  Al^cUbWGl AbDAjA AkU|A|
+# High Speed Block  :  AlUlA RzIIlA QfI\|]zIIgAUf ZcDfI
+# High Speed Direct Access Storage Priority  :  AlUlA X|AXfR XfRAzD A|WfAXbWZ| WsUfD A|As
+# High Speed General Register  :  AlUlA RfQWrW IgX|Uz\f
+# high speed I/O channel  :  AlUlA I/O ZcDfI
+# high speed line  :  AlUlA XfDUlW ^l|UfD
+# High Speed Modem Adapter  :  AlUlA RjDRlAXlXbWZ| XfRUlAA|
+# High Speed Multiplexer Channel  :  AlUlA QfI\|]zIIgAUf ZcDfI ZsAb
+# High Speed Multiply  :  AlUlA UzWUbD A|As
+# High Speed Processor  :  XsWWbW WjDUbD ZfI| XbWZ|
+# high speed skip  :  AlUlA AfDDfHs|A|
+
+"high-level"
+# high-level data link control  : AlAzR GgW|\b I|W[z XgWf
+# high-level language  : AlAzR WfDWf
+# high-level language pointer  : AlAzR WfDWf X|U|Xb
+# high-level qualifier  : UbWWs| UsXsD ^bDXfWXb
+# high-level structured query language  : UbWWs| UsXsD AsXl Xl^l| WfDWf
+
+"higher"
+# higher level  :  UbWWs| GbDAk
+# higher level language  :  AlAzR WfDWf
+# Higher Performance Disk Attachment  :  AlUfWDzW G|Uz[z XfRUlAA|As
+
+"home"
+# home address  :  ^lQ XsUl
+# Home Component Recognition  :  ^lQ WrUl W|DU|AA|As
+# Home Correction  :  ^lQ UsXfWA|As
+# home directory  :  ^lQ GzWIlARs
+# home environment  :  ^lQ ^lbDAjW
+# home fileset  :  ^lQ ]bW|I Ug\z
+# home host  :  ^lQ ^lUz\z
+# home key  :  ^lQ [|
+# home loop  :  ^lQ Is]z
+# home loop input component interlock  :  ^lQ Is]z W|RIjA XbGlW XfWX|A|As
+# home loop operation  :  ^lQ Is]z XlXbA
+# home mode  :  ^lQ QlGz
+# home panel  :  ^lQ]cDfI
+# home position  :  WsfDWs|Z|
+# home record  :  ^lQ Ig[lGz
+# home tab key  :  ^lQ \cR [|
+
+"horizontal"
+# horizontal  :  Us]jW
+# horizontal array  :  Us]jW RcWjI
+# horizontal bars  :  AbIlUfD
+# horizontal cursor speed  :  [fUf Us]jW W|GlW UlAGl
+# horizontal displayed record  :  Us]jW ]rU| RlAUs Ig[lGz
+# horizontal feed  :  Us]jW W|UlW
+# horizontal growth  :  Us]jW ^lbAXbWUfW
+# Horizontal Parity Check  :  Us]jW ]cI|\| XfQAfQ
+# horizontal pointer  :  Us]jW X|U|Xb
+# Horizontal Redundancy Check  :  Us]jW WjRsD QsDXb XfQAfQ
+# horizontal scroll values  :  Us]jW W|GlWZ|
+# horizontal tab position  :  Us]jW \cR Ws|Z|
+# horizontal tab table  :  Us]jW \cR ]r
+# horizontal tabulation  :  Us]jW Gl]r^lb
+
+"hot"
+# hot key  :  ^bU [|
+# hot key sequence  :  ^bU [| UsDUf
+# hot list  :  A|DAzR XbXc W|IIbQ]r
+# Hot Pluggability  :  UbWU| Ar^lbD AbDzWUfW
+# hot spot  :  ^bU Ws|Z|
+
+"human"
+# human oriented language  :  W|DAbD XsWU|Q WfDWf
+
+"hybrid"
+# hybrid coil  :  ^bW|RzI|Gz [lW|I
+# hybrid computer  :  ^bW|RzI|Gz [fQ]w\f
+# hybrid integrated circuit  :  ^bW|RzI|Gz X|RXfA ^l|Il

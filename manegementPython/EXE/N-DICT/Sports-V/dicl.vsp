@@ -1,0 +1,11 @@
+"lead"
+vt (W|BzIGb)
+vi (W|BzIGb)
+# lead by NUM1 point (VERB) : [(OBJ [(NMODS NUM1) XfQ<NOUN>]/WzI) I|Gz^b<VERB>]/Gb
+# lead off $ (VERB) : UfDGs\bXbAb Gl|Gb
+# lead off the NUM1 {+ORDNUM} (VERB) : [(ADJUNCT [(NMODS NUM1) ^l|<NOUN>]/Wg) (COMP [UfDGs\bXb<NOUN>]/Il) DbWl<VERB>]/Gb
+
+"lose"
+vt (W|I^Gb)
+vi (X|Gb)
+# lose to A {+PRNOUN} (VERB) : [(ADJUNCT A/WgAg) X|<VERB>]/Gb

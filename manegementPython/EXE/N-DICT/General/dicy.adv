@@ -1,0 +1,33 @@
+
+"yes"
+(Wk)
+
+"yesterday"
+(WfXg)
+
+"yesternight"
+(WfXgURbQ)
+
+"yesteryear"
+(XbADjD)
+
+"yestreen"
+(WbX|A)
+
+"yet"
+(WbX|A)
+* WbX|A (~ {+NEG})
+* AzIfDb (~ {+SBEGIN})
+* AzIfDb (~ {+FRONTADV})
+
+# || not yet | (SENT) : (DECL [WbX|A<ADV>])
+# as yet (ADV) : WbX|A
+
+"yonder"
+(Xf YlAWg)
+
+"yourself"
+(GbWU|D UzUzIl)
+
+"ywis"
+(BlA)

@@ -1,0 +1,10935 @@
+"A.D"
+(‹¡¶¥Ò)
+% TIME
+# A.D NUM1 (NOUN) : [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>] 
+# NUM1 A.D (NOUN) : [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>] 
+# as early as NUM1 A.D (ADV) : (ADJUNCT [(NMODS [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>]) Á¡‹¡<NOUN>]/µA) 
+# in the year NUM1 A.D (PP->ADV) : (ADJUNCT [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>]/µA)
+
+"A.D."
+(‹¡¶¥Ò)
+% TIME
+# A.D. NUM1 (NOUN) : [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>] 
+# NUM1 A.D. (NOUN) : [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>] 
+# as early as NUM1 A.D. (ADV) : (ADJUNCT [(NMODS [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>]) Á¡‹¡<NOUN>]/µA) 
+# in the year NUM1 A.D. (PP->ADV) : (ADJUNCT [(NMODS [‹¡¶¥Ò<NOUN>]) (NMODS NUM1 {+DGTNUM}) ‘e<NOUN>]/µA)
+
+"A.I.D."
+% PLACE ORGAN
+(£¡Š‚Š‚¹Aˆ¤iŠ‚)
+
+"A.I.Q."
+(¸a•·®·³ Ði”w¹A)
+
+"ACTH"
+% CONCRETE MATERIAL 
+(’AÐa®ÁAµA¬á ¨… Ñ¡Ÿa¡¥)
+
+"Achilles"
+(´aÇ©A¯a)
+% HUMAN
+# Achilles tendon (NOUN) : ´aÇ©A¯aˆå
+# Achilles' tendon (NOUN) : ´aÇ©A¯aˆå
+# the heel of Achilles (NOUN) : ‹s­¡
+# Achilles heel (NOUN) : ‹s­¡
+# Achilles' heel (NOUN) : ‹s­¡
+
+"Adam"
+% CONCRETE HUMAN MATERIAL ANIMAL
+(´a”q)
+# Adam and Eve (NOUN) : ´a”q‰Á ·¡§a
+
+"Adelaide"
+% MATERIAL 
+(´a•IA·¡—a)
+
+"Administration & Management"
+(Ð—¸÷ £¹ ‰ÅŸ¡)
+
+"Adult Only"
+(¬÷·¥ ¸å¶w)
+
+"Advanced Search"
+(»¥¸åÐe Èq¬‚)
+
+"Afghan"
+% HUMAN
+(´aÏaˆe·¥)
+
+"Afghans"
+% HUMAN
+(´aÏaˆe·¥—i)
+
+"Afghanistan"
+% PLACE ORGAN
+(´aÏaˆa“¡¯aÈe)
+
+"Africa"
+% CONCRETE MATERIAL PLACE ORGAN
+(´aÏaŸ¡Äa)
+
+"Agrarian Revolution"
+(µwŠ‚· ‘·´óÑb¡w)
+
+"Air China"
+(º—Š‚Ðw‰·)
+
+"Air Force"
+(‰·Š…)
+
+"Air Force One"
+(‰·Š… 1Ñ¡‹¡)
+
+"Air France"
+(µA´á Ïaœw¯a)
+
+"Albanian"
+% HUMAN 
+(´i¤a“¡´a·¥)
+
+"Alexandria"
+% MATERIAL PLACE 
+(´iB¬e—aŸ¡´a)
+
+"Alexandrine"
+% ART
+(´iB¬e”á‰b·¥)
+
+"Alice"
+% HUMAN
+(´‰Ÿ¡¯a)
+
+"Allies"
+% MATERIAL ORGAN
+(µeÐsŠ‚)
+
+"Alington"
+% PLACE
+(´‰Ÿ·Èå)
+
+"Alzheimer"
+% HUMAN
+(´iÃaÐa·¡ á)
+
+"Alzheimer's"
+(´iÃaÐa·¡ á¥w)
+
+"America"
+% CONCRETE MATERIAL PLACE ORGAN
+(£¡Š‚)
+# North America (NOUN) : ¦‚£¡ 
+# South America (NOUN) : q£¡
+# United States of America (NOUN) : £¡Ðsº—Š‚
+
+"American"
+% CONCRETE HUMAN  
+(£¡Š‚·¥)
+# American selling price (NOUN) : £¡Š‚ ¯¡¸wˆa‰b
+# Pan American Airline (NOUN) : Ì…´q Ðw‰·¬a
+
+"American Airline"
+(´a¡AŸ¡Äe µA´áœa·¥)
+
+"American Civil Liberities Union"
+(£¡Š‚ ¯¡£¥ ¸a·A µe —)
+
+"American Depositary Receipts"
+(£¡Š‚µÈb»wŠ¥)
+
+"American Express"
+(´a¡AŸ¡Äe ·¢¯aÏaA¯a)
+  
+"American Red Cross"
+% ORGAN
+(£¡Š‚ ¸â¯³¸a¬a)
+
+"American Stock Exchange"
+(£¡Š‚ »wŠ¥ ˆáœ­¡)
+
+"Amorphous Graphite"
+(¯³¸wÓbµe)
+
+"Amsterdam"
+% MATERIAL PLACE 
+(´q¯aÉAŸa”q)
+
+"Amtrak"
+% ORGAN
+(´qËaœÇa)
+# Amtrak train (NOUN) : ´qËaœ‚ µiÀa
+
+
+"Andalusian"
+% HUMAN
+(´e”iž¯¡´a ¬aœq)
+# Andalusian fowl (NOUN) : ´e”iž¯¡´a ”j
+# Andalusian wool (NOUN) : ¦—aœó‰¡ ˆa“e Èé¯©
+
+"Andean"
+% HUMAN
+(´e•A¯a ¬e ‚· º£¥)
+
+"Anglo-Saxon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´—‹i¡¬‚¯e)
+
+"Antarctic"
+% MATERIAL PLACE
+(q‹b)
+# Antarctic Ocean (NOUN) : q‹bÐ
+# the Antarctic Ocean (NOUN) : q‹bÐ
+
+"Antarctic Ocean"
+% CONCRETE MATERIAL PLACE
+(q‹bÐ)
+# the Antarctic Ocean (NOUN) : q‹bÐ
+
+"Antarctica"
+% CONCRETE MATERIAL PLACE
+(q‹b ”ŸB)
+# continent of Antactica (NOUN) : q‹b ”ŸB
+
+"Apennines"
+% PLACE
+(´aÍA“¥ ¬e ‚)
+
+"Appeals"
+(Ðw­¡)
+# Appeals Court (NOUN) : Ðw­¡¯±
+
+"April"
+% CONCRETE TIME MATERIAL 
+(4 ¶©)
+# April Fool (NOUN) :  e¶¸é
+
+
+"April Fool"
+( e¶¸é)
+
+"Arabs"
+(´aœsŠ‚ˆa—i)
+
+"Arafat"
+% HUMAN
+(´aœaÌaËa·¸w)
+
+"Arcadia"
+% MATERIAL PLACE
+(´aŸaÄa—¡´a)
+
+"Arcadian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´aŸaÄa—¡´a ¬aœq)
+
+"Arctic"
+% MATERIAL PLACE
+(¦‚‹b)
+
+"Arctic Tern"
+% ANIMAL
+(¦‚‹b ˆi ‹¡)
+
+"Argentina"
+% MATERIAL PLACE ORGAN
+(´aŸaÑEË¡a)
+
+"Arian"
+% HUMAN
+(´aŸ¡´e ¬aœq)
+
+"Arian"
+% HUMAN
+(´aŸ¡¶¯aÌa)
+
+"Arianism"
+% ART
+(´aŸ¡¶¯aÌa· ŠaŸ¡)
+
+"Arizona"
+% PLACE ORGAN
+(´aŸ¡¹¡a)
+
+"Arkansan"
+% HUMAN
+(´aÄe­¡º· ¬aœq)
+
+"Arther Anderson"
+% ORGAN
+(´a”á´…”á¯e)
+
+"Aryan"
+% HUMAN
+(´aŸ¡´e ¬aœq)
+
+"Asia"
+% CONCRETE MATERIAL PLACE ORGAN
+(´a¯¡´a)
+# East Asia (NOUN) : •·´a¯¡´a
+# West Asia (NOUN) : ¬á´a¯¡´a
+# South Asia (NOUN) : q´a¯¡´a
+# Mid-East Asia (NOUN) : º—•·
+# South-West Asia (NOUN) : ¬áq´a¯¡´a
+# South-East Asia (NOUN) : •·q´a¯¡´a
+
+"Asiad"
+% ACTION
+(´a¯¡´e ‰A·±)
+
+"Asian"
+% HUMAN
+(´a¯¡´a ¬aœq)
+# Asian Games (NOUN) : ´a¯¡´e ‰A·±
+# the Asian Games in NUM1 (NOUN) : [(POSS [(NMODS NUM1) ‘e<NOUN>]/·) ´a¯¡´e‰A·±<NOUN>]
+# Asian society (NOUN) : ´a¯¡´a ¬aÒA
+
+"Asian Development Bank"
+% ORGAN
+(´a¯¡´a ˆ¤i ·eÐ—)
+
+"Asian Games"
+% ACTION
+(´a¯¡´e ‰A·±)
+# the Asian Games in 1986 (NOUN) : 1986‘e ´a¯¡´e ‰A·±
+
+"Asian Monetary Unit"
+(´a¯¡´aÉ·ÑÁ”e¶á)
+
+"Asian Payment Union"
+(´a¯¡´a‰i¹A•· —)
+
+"Asian Productivity Organization"
+(´a¯¡´a¬—¬e¬÷‹¡Š)
+
+"Asianization"
+% ACTION
+(´a¯¡´aÑÁ)
+
+"Asianness"
+% STATE
+(´a¯¡´a ¬÷)
+
+"Asiatic"
+% HUMAN
+(´a¯¡´a ¬aœq)
+
+"Asiaticness"
+% STATE
+(´a¯¡´a¬÷)
+
+"Associated Press"
+(‰Åe ´å¥‹¡‰Å)
+
+"Association"
+(ÑsÒA)
+
+"Assyria"
+% MATERIAL PLACE ORGAN
+(´u¯¡Ÿ¡´a)
+
+"Assyrian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´u¯¡Ÿ¡´a¬aœq)
+
+"Assyriologist"
+% HUMAN ART
+(´u¯¡Ÿ¡´a Ðb¸a)
+
+"Assyriology"
+% ART
+(´u¯¡Ÿ¡´aÐb)
+
+"Asuncion"
+(´a®…¯¡µ¥)
+
+"Athenaeum"
+% PLACE
+(´aÉAa ¯¥¸å)
+
+"Atheneum"
+% PLACE
+(´aÉAa ¯¥¸å)
+
+"Athenian"
+% CONCRETE HUMAN ANIMAL MATERIAL
+(´aÉA‘A ¬aœq)
+
+"Athens"
+% MATERIAL PLACE 
+(´aÉA‘A)
+
+"Atlanta"
+% PLACE
+(´ËiœeÈa)
+
+"Atlantic"
+% CONCRETE MATERIAL PLACE
+(”¬á´·)
+# Atlantic Ocean (NOUN) : ”¬á´·
+# Atlantic Charter (NOUN) : ”¬á´·Ðå¸w
+
+"Atlantic City"
+% PLACE
+(´áËiœ…Ë¢ ¯¡Ë¡)
+
+"Atlantica"
+% ORGAN
+(”¬á´· ­A‰)
+
+"Atlanticism"
+% ART
+(”¬á´· º·)
+
+"Atlanticist"
+% HUMAN ART
+(”¬á´·º·¸a)
+
+"Atlantovision"
+% ORGAN
+(”¬á´· ÉIA§¡¹e ¤w­· w)
+
+"Athletic Commission"
+(ÁA·B¶á¶¥ÒA)
+
+"Atticism"
+% ART
+(´aÉA‘A ¢…Ðb· Ëb»©)
+
+"August"
+% CONCRETE TIME MATERIAL 
+(8 ¶©)
+
+
+"Augustinian"
+% CONCRETE HUMAN ANIMAL MATERIAL ART
+(´a¶Š¯aË¡’¯a ŠaŸ¡¯¥¥·¸a)
+
+"Aurora"
+% CONCRETE MATERIAL ANIMAL
+(µa¡w· µa¯¥)
+
+"Aussie"
+% CONCRETE HUMAN ANIMAL MATERIAL ANIMAL
+(Ñ¡º ¬aœq)
+
+"Auster"
+(qÎ—)
+
+"Australasian"
+% HUMAN
+(q´·º· ¬aœq)
+
+"Australia"
+% CONCRETE MATERIAL PLACE ORGAN
+(Ñ¡º)
+
+"Australian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ñ¡º ¬aœq)
+
+"Australianism"
+% MIND 
+(µ¡¯aËaA·©Ÿ¡´a·¥ ‹¡»©)
+
+"Austrian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(µ¡¯aËaŸ¡´a ¬aœq)
+
+"Aztec"
+% HUMAN
+(´a»aÉB ¬aœq)
+
+"a"
+% MATERIAL 
+(a)
+
+"a.m"
+% TIME
+(µ¡¸å)
+# NUM1 a.m (NOUN) : [(NMODS [µ¡¸å<NOUN>]) (NMODS NUM1) ¯¡<NOUN>] {+TIME,-SUBJP,-OBJP}
+
+"a.m."
+% TIME
+(µ¡¸å)
+# NUM1 a.m. (NOUN) : [(NMODS [µ¡¸å<NOUN>]) (NMODS NUM1) ¯¡<NOUN>] {+TIME,-SUBJP,-OBJP}
+
+"a-bomb"
+(¶¥¸aÍ¢Èe)
+
+"a-bomber"
+(¶¥¸aÈe Í¢‰b‹¡)
+
+"a-control"
+% ORGAN
+(¶¥¸ab ‰ÅŸ¡)
+
+"a-frame"
+% PLACE
+(A ¸a ¡¡´·· »³)
+
+"a-test"
+% ART 
+(¶¥Í¢ ¯©Ðñ)
+
+"a-weapon"
+(¶¥¸a¢‹¡)
+
+"aardvark"
+% CONCRETE ANIMAL MATERIAL ANIMAL
+(ˆ£¡¸s·¡)
+
+"aardwolf"
+% CONCRETE ANIMAL MATERIAL ANIMAL
+(“b”)
+
+"aaron"
+% HUMAN ANIMAL
+(´a¥)
+
+"aasvogel"
+% ANIMAL
+(Å¥•¡Ÿa)
+
+"aba"
+(­¡ ´ô“e ˆûµµ)
+
+"abaculus"
+(¡¡¸a·¡Ça¶w Èa·©)
+
+"abacus"
+% CONCRETE ANIMAL MATERIAL 
+(ºÌe)
+
+"abaddon"
+% PLACE
+(¤a”b´ô“e »¡µ¢)
+
+"abalone"
+% CONCRETE ANIMAL MATERIAL ANIMAL FOOD
+(¸å¥¢)
+
+"abandon"
+% CONCRETE MATERIAL ACTION MIND
+(¤w¹·)
+
+"abandonee"
+% HUMAN ACTION
+(Ï¡·A‹¡¸a)
+
+"abandoner"
+% HUMAN ACTION
+(·A‹¡¸a)
+
+"abandonment"
+% MATERIAL ACTION
+(Í¡‹¡)
+
+"abasement"
+% MATERIAL MIND
+(Š‰¶b)
+
+"abashment"
+% MATERIAL MIND
+(y·i ¦ŠÓ±)
+
+"abatement"
+% CONCRETE MATERIAL 
+(ˆq­¡)
+# pleas in abatement (NOUN) : ˆbÐa Ðw¥e
+
+"abatis"
+% ACTION
+(‘¢À)
+
+"abattis"
+% ACTION
+(‘¢À)
+
+"abb"
+(³¡º‰)
+
+"abba"
+% HUMAN ANIMAL
+(´a¤á»¡)
+
+"abbacy"
+% PLACE ORGAN
+(” ®•¡¶¥¸w· ‰ÅÐiŠµb)
+
+"abbb"
+(¬s»©)
+
+"abbess"
+% CONCRETE HUMAN ANIMAL MATERIAL ANIMAL
+(µa¸a ”¯w¶¥¸w)
+
+"abbey"
+% CONCRETE MATERIAL PLACE
+(”®•¡¶¥)
+
+"abbot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(”®•¡¶¥¸w)
+
+"abbotship"
+% PLACE ORGAN
+(” ®•¡¶¥¸w· ‰ÅŠ)
+
+"abbreviation"
+% MATERIAL 
+(¬—œ¢)
+
+"abbreviator"
+% HUMAN ANIMAL
+(¬—œ¢¸a)
+
+"abc"
+(µA·¡ §¡·¡ ¯¡·¡)
+# as simple as ABC (ADJ) : [(MODS [´aº<ADV>]) ˆe”eÐa<ADJ>]/”a
+# as easy as ABC (ADJ) : ´aº ®ó”a
+
+"abdication"
+% CONCRETE MATERIAL ACTION
+(ÊA¶á)
+
+"abdicator"
+% HUMAN ANIMAL
+(Í¡‹¡·¥)
+
+"abdomen"
+% CONCRETE MATERIAL ANIMAL
+(¤)
+
+"abduction"
+% MATERIAL ACTION
+(·AŠA)
+
+"abductor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(·AŠA¸a)
+
+"abele"
+% PLANT
+(¤‚´·)
+
+"aberdevine"
+% ANIMAL
+(¤w¶‰¬)
+
+"aberdonian"
+% HUMAN ANIMAL
+(´¤á—¥ ¬aœq)
+
+"abernethy"
+% FOOD
+(˜b˜bÐe §¡¯aÅU)
+
+"aberrance"
+% CONCRETE MATERIAL 
+(¸÷•¡Ÿi ¤õ´áq)
+
+"aberrancy"
+% MATERIAL 
+(¸÷•¡Ÿi ¤õ´áq)
+
+"aberration"
+(¬w‹AŸi ¤õ´áq)
+# annual aberration (NOUN) : ·©º‰×Ð—Àa
+# mental aberration (NOUN) : ¸÷¯¥·¡¬w
+
+"abeter"
+% HUMAN ANIMAL
+(Ša¬a¸a)
+
+"abetment"
+% CONCRETE MATERIAL 
+(Ša¬a)
+
+"abetor"
+% HUMAN ANIMAL
+(Ša¬a¸a)
+
+"abeyance"
+% MATERIAL STATE
+(º—»¡)
+# ^be in abeyance $ (VERB) : [¸÷»¡º—·¡<ADJ>]/”a
+# ^fall into abeyance $ (VERB) : [¸÷»¡–A<VERB>]/”a
+# ^hold A in abeyance $ (VERB) : [(OBJ A/·i) (OCOMP [(AMODS [(MODS [¸q¯¡<ADV>])
+ £¡¸÷·¡<ADJ>]/Ðe) ¬wÈ<NOUN>]/¡) –<VERB>]/”a
+# ^leave A in abeyance $ (VERB) : 
+  [(OBJ A/·i) (OCOMP [(AMODS [(MODS [¸q¯¡<ADV>]) £¡¸÷·¡<ADJ>]/Ðe) ¬wÈ<NOUN>]/¡) –<VERB>]/”a
+
+"abhorrence"
+% MATERIAL MIND
+(»wµ¡)
+# ^have an abhorrence of A (VERB) : [(OBJ A/·i) Ñqµ¡Ða<VERB>]/”a
+# ^hold A in abhorrence $ (VERB) : [(OBJ A/·i) Ñqµ¡Ða<VERB>]/”a
+
+"abhorrer"
+% HUMAN ANIMAL 
+(¡³¯¡ ¯°´áÐa“e ¬aœq)
+
+"abidance"
+% CONCRETE MATERIAL STATE
+(»¡­¢)
+
+"abiding"
+% ACTION STATE
+(ºˆá)
+
+"abigail"
+% HUMAN ANIMAL
+(¯¡‘a)
+
+"ability"
+% CONCRETE MATERIAL 
+(“wb)
+# ability to buy (NOUN) : Š  “wb
+# administrative ability (NOUN) : ‰wµw®µÅ
+# man of ability (NOUN) : “wb·¶“e ¬aœq
+# the ability TO_INF (NOUN) : [(RELCL TO_INF/Ða“e) “wb<NOUN>]
+# to the best of ONE_S ability (ADV) : Ó±Œõ
+
+"abiogenist"
+% HUMAN ANIMAL
+(¸aµe¤i¬—¥¸a)
+
+"abjection"
+% STATE
+(§¡Àå)
+
+"abjectness"
+% STATE
+(§¡ÀqÐq)
+
+"abjuration"
+% CONCRETE MATERIAL ACTION
+(Í¡‹¡ ¬å¬á)
+# abjuration of the realm (NOUN) : Š‚µ×· ÊA¶á ¬å´å
+# oath of abjuration (NOUN) : ‰¡Š‚ Í¡‹¡ ¬å¬á
+
+"ablactation"
+% STATE
+(·¡·A)
+
+"ablation"
+% MATERIAL ACTION
+(¹Aˆá)
+
+"ablative"
+% MATERIAL ACTION
+(Èi‰b)
+# ablative case (NOUN) : Èi‰b
+# ablative absolute (NOUN) : Èi‰b •¢Ÿ³Š
+
+"ablator"
+(·W¹A ¢‰»©)
+
+"ablaut"
+(¡¡·q¸åÑÅ)
+
+"ablegate"
+% HUMAN ANIMAL
+(ŠaÑ× Ëb¬a)
+
+"ablution"
+% MATERIAL ACTION
+(¡¢¶b)
+
+"abnegation"
+% MATERIAL ACTION
+(ˆá¸é)
+
+"abnegator"
+% HUMAN ANIMAL
+(Í¡‹¡¸a)
+
+"abnormalism"
+% STATE
+(·¡¬w)
+
+"abnormality"
+% MATERIAL STATE
+(·¡¬w)
+
+"abnormity"
+% STATE
+(·¡¬w)
+
+"abo"
+% HUMAN ANIMAL
+(µ¡¯aËaA·©Ÿ¡´a ¶¥º£¥)
+
+"abode"
+% CONCRETE ANIMAL MATERIAL PLACE
+(º­¡)
+# ^make ONE_S abode $ (VERB) : [ˆáºÐa<VERB>]/”a
+# ^take up ONE_S abode $ (VERB) : [ˆáºÐa<VERB>]/”a
+
+"abolition"
+% MATERIAL ACTION
+(Í»¡)
+
+"abolitionism"
+% ACTION
+(Í»¡¥)
+
+"abolitionist"
+% CONCRETE HUMAN ANIMAL MATERIAL ACTION
+(Í»¡¥¸a)
+
+"abomination"
+% MATERIAL MIND
+(Ñqµ¡)
+# ^have in abomination $ (VERB) : [¡³¯¡ ¯°´áÐa<VERB>]/”a
+# ^hold in abomination $ (VERB) : [¡³¯¡ ¯°´áÐa<VERB>]/”a
+
+"abominator"
+% HUMAN ANIMAL
+(¡³¯¡ ¯°´áÐa“e ¬aœq)
+
+"aboriginal"
+% HUMAN ANIMAL
+(¶¥º£¥)
+
+"aborigines"
+% HUMAN ANIMAL
+(¶¥º£¥)
+
+"aborticide"
+% ACTION
+(·±¯¥º—¸é)
+
+"abortifacient"
+(bÈ´¢)
+
+"abortion"
+% MATERIAL ACTION
+(·A¬e)
+# criminal abortion (NOUN) : bÈºA
+# illegal abortion (NOUN) : bÈºA
+# ^have an abortion $ (VERB) : [·A¬eÐa<VERB>]/”a
+# ^procure abortion $ (VERB) : [bÈ¯¡Ç¡<VERB>]/”a
+
+"abortion-right"
+(bÈ Š¥Ÿ¡)
+
+"abortionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(bÈ ®®‰¸a)
+
+"abortive"
+(bÈ´¢)
+
+"about-face"
+% MATERIAL ACTION
+(–á¡ •©‹¡)
+
+"about-turn"
+% MATERIAL ACTION
+(–á¡ •©‹¡)
+
+"above"
+(¬w‹¡Ðe ·©)
+
+"above-the-line"
+% ECOLIFE
+(‰w¬w‰¸÷ µ¬e)
+
+"abovestairs"
+% PLACE
+(¶áÃw)
+
+"abracadabra"
+% CONCRETE MATERIAL ACTION
+(º¢…)
+
+"abrahamman"
+% HUMAN ANIMAL
+(£¡Ã¡‰×·¡ ˆá»¡)
+
+"abrasion"
+% MATERIAL STATE
+(¤õ‰a»±)
+
+"abrasive"
+% CONCRETE ANIMAL MATERIAL 
+(µe a¹A)
+
+"abreaction"
+% MATERIAL ACTION
+(­¡¬e ¸b¶w)
+
+"abridgement"
+% CONCRETE MATERIAL 
+(¶a´¢)
+
+"abridgment"
+% CONCRETE MATERIAL 
+(¶a´¢)
+
+"abrogation"
+% MATERIAL ACTION
+(Í‹¡)
+
+"abruption"
+% ACTION
+(‹s‰bÐe ¦…Ÿ¡)
+
+"abruptness"
+% CONCRETE MATERIAL
+(ˆs¸b¯aœá¶‘)
+
+"abscess"
+% MATERIAL 
+(‘·´·)
+
+"abscissa"
+% CONCRETE MATERIAL 
+(ÒW¹ÁÎa)
+
+"abscission"
+% MATERIAL ACTION
+(¸é”e)
+
+"abscondence"
+% ACTION
+(•¡ w)
+
+"absence"
+% MATERIAL STATE
+(¦¸)
+# absence without leave (NOUN) : ¢”e¶AÂ‰
+# after ten years' absence (PP->ADV) : 10 ‘e eµA
+# during ONE_S absence (PP->ADV) : ¦¸º—µA
+# in ONE_S absence (PP->ADV) : ¦¸º—µA
+# in the absence of A (PP->ADV) : (ADJUNCT [(RELCL [(SUBJ A/ˆa) ´ô<ADJ>]/Ði) ˜<NOUN>]/µA)
+# ^mark the absence $ (VERB) : [Â‰¬â·i ¦Ÿa<VERB>]/”a
+
+"absent-mindedness"
+% MIND STATE
+( ÷Ðq)
+
+"absentee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦‰Àq¸a)
+# absentee director (NOUN) : §¡¬w‹e º—µb
+# absentee owner (NOUN) : ¦¸ »¡º
+# absentee tactics (NOUN) : ‰i¬â ¸åœ¢
+
+"absenteeism"
+% MATERIAL 
+(¦¸ »¡º ¹A•¡)
+
+"absinth"
+% CONCRETE MATERIAL 
+(´s°wËa)
+
+"absinthe"
+% CONCRETE MATERIAL PLANT
+(´s°wËa)
+
+"absinthism"
+% STATE
+(´s¬wËa º—•¢)
+
+"absolute"
+(¸é”)
+
+"absolution"
+% MATERIAL 
+(¡e¹A)
+
+"absolutism"
+% MATERIAL 
+(¸é”¬é)
+
+"absolutist"
+% HUMAN ANIMAL
+(¸é”¥¸a)
+
+"absorbability"
+(Ós®¬÷)
+
+"absorbefacient"
+(Ós®¹A)
+
+"absorbent"
+% CONCRETE MATERIAL 
+(Ós®¹A)
+
+"absorption"
+% MATERIAL ACTION
+(Ós®)
+
+"abstainer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¸é¹Aˆa)
+# a total abstainer (NOUN) : ¸é”‹qºˆa
+
+"abstemiousness"
+% CONCRETE MATERIAL 
+(¸é¹A)
+
+"abstention"
+% MATERIAL ACTION
+(¸a¹A)
+# abstention rate (NOUN) : ‹¡Š¥·I
+
+"abstergent"
+(­A¸÷¢‰)
+
+"abstinence"
+% MATERIAL 
+(¸é¹A)
+
+"abstract"
+% CONCRETE MATERIAL 
+(¶a´¢[Â¬w])
+# in the abstract (ADV) : ·¡¥¸â·a¡
+# ^make an abstract of a book $ (VERB) : [(OBJ [À‚· ¶a¸ñ<NOUN>]/·i) Á¡¢Ða<VERB>]/”a
+
+"abstraction"
+% CONCRETE MATERIAL 
+(Â¬w)
+# with an air of abstraction (PP->ADV) :  ÷Ða“¡
+
+"abstractionism"
+% CONCRETE MATERIAL ART
+(Â¬wº·)
+
+"abstractionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Â¬wÌa ÑÁˆa)
+
+"abstractionmonger"
+% HUMAN ANIMAL
+(‰·¬wˆa)
+
+"abstractness"
+% CONCRETE MATERIAL 
+(Â¬w¬÷)
+
+"abstruseness"
+% CONCRETE MATERIAL 
+(¯±¶¥Ðq)
+
+"absurd"
+(¦¹¡Ÿ¡)
+
+"absurdism"
+% ART
+(¦¹¡Ÿ¡º·)
+
+"absurdist"
+% HUMAN ANIMAL
+(¦¹¡Ÿ¡º· ¸bˆa)
+
+"absurdity"
+% CONCRETE MATERIAL 
+(¦‰ÐsŸ¡)
+
+"absurdness"
+% CONCRETE MATERIAL 
+(¦‰ÐsŸ¡Ðq)
+
+"abulia"
+% MATERIAL MIND
+(¢·»¡)
+
+"abundance"
+% CONCRETE MATERIAL 
+(Î—¦)
+# in abundance (ADV) :  g·¡ q´a •©  eÇq
+
+"abuse"
+% CONCRETE MATERIAL 
+(q¶w)
+# child abuse (NOUN) : ´a•· Ðb”
+# human right abuse (NOUN) : ·¥Š¥ i¬i
+# physical abuse (NOUN) : ¯¥ÁA Ðb”
+# sex abuse (NOUN) : ¬÷¸âÐb”
+# sexual abuse (NOUN) : ¬÷¸âÐb”
+
+"abutilon"
+% PLANT
+(´á¸áŠá ­¢· ¯¢¢‰)
+
+"abutment"
+% CONCRETE MATERIAL STATE
+(·¥¸ó)
+
+"abutter"
+% HUMAN ANIMAL
+(·¡¶• »¡º)
+
+"abysm"
+% PLACE
+(¯±µe)
+
+"abyss"
+% MATERIAL PLACE
+(¯±µe)
+
+"abyssinian"
+(´a§¡¯¡“¡´a ¬aœq)
+
+"acacia"
+% CONCRETE MATERIAL PLANT
+(´aÄa¯¡´a)
+
+"academe"
+% MATERIAL PLACE ORGAN ART
+(Ðb¶¥)
+
+"academese"
+% ART
+(Ðb®‰ ¶w´á)
+
+"academia"
+% MATERIAL ART
+(Ðb‰)
+
+"academic"
+% CONCRETE HUMAN ANIMAL MATERIAL ART
+(Ðb¬—)
+# academic interests (NOUN) : Ðb¶¥ ‰wµw ”eÁA
+# academic year (NOUN) : Ðb‘e•¡
+
+"academical"
+(”Ðb µ¥¢)
+
+"academician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´aÄa•A£¡ ÒA¶¥)
+
+"academicism"
+% ART
+(¸åÉ·º·)
+
+"academy"
+% CONCRETE MATERIAL ART
+(Ðb¶¥)
+# the Academy (NOUN) : µ×Ÿ³ £¡®‰¶¥
+# Academy award (NOUN) : ´aÄa•A£¡ ¬w
+
+"acaleph"
+% ANIMAL FOOD
+(ÐÌaŸ¡)
+
+"acanthus"
+% PLANT
+(´aÄe”á¯a)
+
+"acatalepsy"
+% ART
+(¦‰ˆa»¡¥)
+
+"accelerant"
+(Á¢»¥¹A)
+
+"acceleration"
+% CONCRETE MATERIAL 
+(ˆa­¢)
+# acceleration error (NOUN) : ‰¡­¢µ¡Àa
+# accelaration principle (NOUN) : ˆa­¢•¡¶¥Ÿ¡
+
+"accelerator"
+% CONCRETE ANIMAL MATERIAL 
+(ˆa­¢¸a)
+# accelerator effect (NOUN) : ‰¡­¢•¡Òa‰Á
+# accelerator theory (NOUN) : ˆa­¢•¡·¡¥
+
+"accelerometer"
+% CONCRETE ANIMAL MATERIAL 
+(ˆa­¢•¡‰)
+
+"accent"
+% CONCRETE MATERIAL 
+(´b­EËa)
+# accent mark (NOUN) : ´b­EËa ¦Ñ¡
+
+"accentuation"
+(·q· ´â´·¤ó)
+
+"acceptability"
+% CONCRETE MATERIAL 
+(®œbÐi ® ·¶·q)
+
+"acceptance"
+% CONCRETE MATERIAL ACTION
+(®œb)
+# acceptance of persons (NOUN) : µb¬÷
+# acceptance speech (NOUN) : ®œb µe¬é
+# ^find general acceptance (VERB) : [·©¤eµA‰A Àe¬÷¤h<VERB>]/”a
+# ^gain general acceptance (VERB) : [·©¤eµA‰A Àe¬÷¤h<VERB>]/”a
+# ^win general acceptance (VERB) : [·©¤eµA‰A Àe¬÷¤h<VERB>]/”a
+# with acceptance (ADV) : ¬å¬åÓ¡
+
+"acceptation"
+% CONCRETE MATERIAL 
+(·£¡)
+
+"acceptor"
+% HUMAN ANIMAL
+(®œb¸a)
+
+"access"
+% CONCRETE MATERIAL ACTION
+(¸ó‹e)
+# ^gain access to A (VERB) : [(ADJUNCT A/µA) ¸ó‹eÐa<VERB>]/”a
+# ^obtain access to A (VERB) : [(ADJUNCT A/µA) Â‰·³Ða<VERB>]/”a
+# ^give access to A (VERB) : [(ADJUNCT A/µA) (OBJ [¸ó‹e<NOUN>]/·i) ÐáœbÐa<VERB>]/”a
+# ^have access to A (VERB) : [(ADJUNCT A/µA) ¸ó‹eÐa<VERB>](Ði/F, ®/N, ·¶/V)/”a
+# within easy access of A (ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/¡) ®ó‰A ˆi ® ·¶<VERB>]/Ðe) ‰µ<NOUN>]/µA)
+
+"accessary"
+(´‚­A¬áŸ¡)
+
+"accessibility"
+% CONCRETE MATERIAL 
+(¸ó‹e¬÷)
+
+"accession"
+% CONCRETE MATERIAL 
+(•¡”i)
+# accession book (NOUN) : ®s •¡¬á ”¸w
+# accession number (NOUN) : ®s¤åÑ¡
+
+"accessory"
+% CONCRETE MATERIAL 
+(´‚­A¬aŸ¡)
+
+"accidence"
+% ART
+(´áÑw¥)
+
+"accident"
+% MATERIAL ACTION
+(¬a‰¡)
+# by accident (ADV) : ¶µeÓ¡
+# by a mere accident (ADV) : ¶µeÓ¡
+# chapter of accidents (NOUN) : ˆa»¡ˆa»¡ ¦‰Ð—
+
+# have an accident with A {-ANIMAL} (VERB) : [(SCOMP A/ˆa) (OBJ [¬a‰¡<NOUN>]/Ÿi) ”wÐa<VERB>]/”a
+* [(OBJ [(NMODS A) ¬a‰¡<NOUN>]/Ÿi) ”wÐa<VERB>]/”a
+* A (plane §¡Ð—‹¡)
+# ^meet witn an accident (VERB) : [ÒW´‚·i  ea<VERB>]/”a
+# inevitable accident (NOUN) : ¦‰ˆaÐwb
+# road accident (NOUN) : ŠaÉ·¬a‰¡
+# without accident (ADV) : ¢¬aÓ¡
+
+"accidental"
+(¶µeÐe)
+
+"accidie"
+% MIND
+(‰A·aŸq)
+
+"acclaim"
+% CONCRETE MATERIAL ACTION
+(”ˆiÀ)
+
+"acclamation"
+% CONCRETE MATERIAL ACTION
+(”ˆiÀ)
+
+"acclimation"
+(¬ ÑÅ‰w ®…·w)
+# acclimation fever (NOUN) : Î—É¡ µi¥w
+
+"acclimatization"
+(¬ ÑÅ‰w ®…·w)
+# acclimatization fever (NOUN) : Î—É¡ µi¥w
+
+"acclivity"
+% CONCRETE MATERIAL 
+(§¡Èi)
+
+"accolade"
+% CONCRETE MATERIAL ACTION
+(¸b¶á ®µa)
+# ^receive the accolade (VERB) : [a·¡Ëa ¸b¶áŸi ¤h<VERB>]/”a
+
+"accommodation"
+% CONCRETE MATERIAL 
+(¸â·w)
+# accommodation bill (NOUN) : ·WÉ·´á·q
+# accommodation note (NOUN) : ·WÉ·´á·q
+# accommodation ladder (NOUN) : ¤•¸åµA µ©œaˆa“e ¬a”aŸ¡
+# accommodation road (NOUN) : Ëb¬é •¡¡
+# accommodation train (NOUN) : ¥¡É·µiÀa
+# accommodation unit (NOUN) : »³
+
+"accommodator"
+% HUMAN ANIMAL
+(¸â·w¸a)
+
+"accomopanyist"
+% HUMAN ANIMAL
+(¤eº¸a)
+
+"accompaniment"
+% CONCRETE MATERIAL 
+(¦­¢¢‰)
+
+"accompanist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¤eº¸a)
+
+"accomplice"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰·¤ñ¸a)
+
+"accomplishment"
+% MATERIAL 
+(¬÷Âá)
+
+"accord"
+% CONCRETE MATERIAL 
+(·©Ã¡)
+# ^be in accord with A (VERB) : [(ADJUNCT A/µÁ) (OBJ [¹¡ÑÁ<NOUN>]/Ÿi) ·¡ž<VERB>]/”a 
+# ^be out_of accord with A (VERB) : [(ADJUNCT A/‰Á) ·©Ã¡–A<VERB>](Ða»¡/F, ´g/A)/”a
+# ^be of one accord (VERB) : [·©Ã¡–A´á ·¶<VERB>]/”a
+# of ONE_S own accord (ADV) : ¸a¤i¸â·a¡
+# of its own accord (ADV) : ¸a¤i¸â·a¡
+# with one accord (ADV) : Ðe  a·q Ðe›u·a¡
+
+"accordance"
+% CONCRETE MATERIAL 
+(·©Ã¡)
+# in accordance with A (ADV) : (ADJUNCT [(ADJUNCT A/‰Á) ·©Ã¡Ða<ADJ>]/Ðaµa)
+
+"accordianist"
+% HUMAN ANIMAL
+(´aÅ¡—¡´å µeº¸a)
+
+"accordion"
+% CONCRETE ANIMAL MATERIAL 
+(´aÅ¡—¡´å)
+# accordian door (NOUN) : µi¡e ¸ó´á»¡“e ¢…
+# accordian pleats (NOUN) : ¹³”aœe ºŸq
+
+"account"
+% CONCRETE MATERIAL HOMONYM
+(‰¬e)
+# ONE_S account (NOUN) : [(POSS ONE/·) ‰¹Á<NOUN>]
+# account {+PLUR} (NOUN) : ·eÐ—‰¸÷
+# account at bank (NOUN) : ·eÐ—‰¸÷
+# account book (NOUN) : Â‰s¦
+# account day (NOUN) : ÒA‰·©
+# account in arrear (NOUN) : ¸a‹q‰¸÷
+# account in transit (NOUN) : £¡”i‰¸÷
+# account number (NOUN) : ·eÐ—‰¹Á¤åÑ¡
+# account sales (NOUN) :  ¬w‰¬e‹¡
+# account title (NOUN) : ‰¸÷‰Á¡¢
+# account with A (NOUN) :
+* [(POSS A/·) ·eÐ—‰¹Á<NOUN>]
+* A (bank ·eÐ—)
+# accounts due (NOUN) : £¡®‹q
+# accounts payable (NOUN) : »¡¦‰‰¸÷
+# accounts receivable (NOUN) : ®Âá‰¸÷
+# accounts sections (NOUN) : ÒA‰‰Á
+# advance account (NOUN) : ”¦‰¸÷
+# agent account (NOUN) : ”Ÿ¡¸ñ‰¸÷
+# an account of WHAT_CLAUSE (NOUN) : [(ADJUNCT WHAT_CLAUSE/µA”Ðe) ¬é¡w<NOUN>]
+# appropriation account (NOUN) : ®·¢¤”w‰¸÷
+# ^ask an account (VERB) : [(OBJ [‰¬e¬á<NOUN>]/Ÿi) À÷ŠÐa<VERB>]/”a
+# at all accounts (ADV) : ¤e—a¯¡
+# at any account $ (PP->ADV) : ´á˜áÐe ‰w¶µA•¡
+# ^balance accounts (VERB) : [À÷¬eÐa<VERB>]/”a
+# bank account (NOUN) : ·eÐ— ‰¸÷
+# ^be in account with A (VERB) : [(ADJUNCT A/‰Á) ˆáœÐa‰¡ ·¶<VERB>]/”a
+# ^be of no account $ (VERB) : º—¶aÐa»¡ ´g”a
+# blocked account (NOUN) : ¥·­á‰¸÷
+# bring a person to account (VERB) : qµA‰A À‚·±·i ¢ˆ”a
+# brought for account (NOUN) : ¶A¬w ·³
+# brought for cash (NOUN) : Ñe‹q ·³
+# by all accounts (ADV) : ’ŠµA‰A —i´á•¡
+# call a person to account (VERB) : qµA‰A À‚·±·i Ð¡w·i ¶aŠÐa”a
+# cast accounts (VERB) : ‰¬eÐa”a
+# ^charge it to ONE_S account (VERB) : [(ADJUNCT [(POSS ONE/·) ‰¬e<NOUN>]/µA) ”i<VERB>]/”a
+# checking account (NOUN) : ”w¹Áµ‹q
+# ^close an account with A (VERB) : [(ADJUNCT A/‰Á) (OBJ [ˆáœ<NOUN>]/Ÿi) g<VERB>]/”a
+# constrast account (NOUN) : ”¹¡‰¸÷
+# current account (NOUN) : ”w¹Á‰¸÷
+# demand an account (VERB) : ‰¬e¬áŸi À÷ŠÐa”a
+# domestic account (NOUN) : Š‚µ‹q‰¸÷
+# ^find no account in A (VERB): [(SCOMP A/·e) —b–I ˆõ·¡ ´ô<VERB>]/”a
+# for account of A (ADV) : (ADJUNCT [(POSS A/·) ­Q<NOUN>]/·a¡)
+# from all accounts (ADV) : ’ŠµA‰A —i´á•¡
+# ^give a bad account of A (VERB): [(OBJ A/·i) Ðé›h<VERB>]/”a
+# ^give a poor account of A (VERB): [(OBJ A/·i) Ðé›h<VERB>]/”a
+# ^give a good account of A (VERB) : [(OBJ A/·i) ·¡‰a<VERB>]/”a
+# ^give an account of A (VERB): [(OBJ A/·i) ¬é¡wÐa<VERB>]/”a
+# ^give an account of what SENT (VERB) : 
+  [(OBJ [(RELCL SENT/Ðe) ˆõ<NOUN>]/·i) ¬é¡wÐa<VERB>]/”a
+# go to ONE_S account  (VERB): ¸á¯wµA ˆa”a
+# go to ONE_S long account  (VERB): ¸á¯wµA ˆa”a
+# hand in ONE_S accounts  (VERB): ¸á¯wµA ˆa”a
+# ^have an account with A (VERB): [(ADJUNCT A/‰Á) ˆáœˆa ·¶<VERB>]/”a
+# hold of no account (VERB) : ÐaÀg‰A ¥¡”a
+# itemised account (NOUN) : Ðw¡¢µb‰i¸÷
+# keep accounts (VERB) : Ã¡¦Ða”a
+# ^lay ONE_S account with A (VERB) : [(OBJ A/·i) ‹¡”Ða<VERB>]/”a
+# ^make little account of A (VERB) : [(OBJ A/·i) º—¶a¯¡ Ða»¡ ´g<VERB>]/”a
+# ^make much account of A (VERB) : [(OBJ A/·i) º—¶a¯¡ Ða<VERB>]/”a
+# ^make no account of A (VERB) : [(OBJ A/·i) º—¶a¯¡ Ða<VERB>]/”a
+# money of account (NOUN) : ‰¸÷ÑÁÍ
+# newspaper ^account (NOUN) : ¯¥¢… ‹¡¬a
+# nostro account (NOUN) : ¸a¬a‰¸÷
+# not on any account (ADV) : ‰iÅ¡ ´g”a
+# of much account (ADJ) : º—¶aÐa”a
+# of no account (ADJ) : ÐaÀg”a
+# on a person's account (ADV) : q· §¡¶w·a¡
+# on account (ADV) : ‰´¢‹q·a¡¬á
+# on account of (ADV) : ˜¢…µA
+# on all accounts (ADV) : ¤e—a¯¡
+# on every account (ADV) : ¤e—a¯¡
+# on no account (ADV) : ‰iÅ¡ ´g”a
+# on ONE_S own account (ADV) : •¢Ÿ³Ðaµa
+# on that account (ADV) : ‹aˆõ ˜¢…µA
+# on this account (ADV) : ·¡ˆõ ˜¢…µA
+# pay an account (VERB) : ­Q·i  aÃ¡”a
+# put it to a person's account (VERB) : q· ­QµA Ã¡¦Ða”a
+# put it down to a person's account (VERB) : q· ­QµA Ã¡¦Ða”a
+# render an account (VERB) : ‰i¬e ¥¡‰¡Ÿi Ða”a
+# send an account (VERB) : À÷¬e¬áŸi ¥¡”a
+# ^settle an account with A (VERB) : [(ADJUNCT A/‰Á) (OBJ [­Q<NOUN>]/·i) 
+À÷¬eÐa<VERB>]/”a
+# ^square an account with A (VERB) : [(ADJUNCT A/‰Á) (OBJ [­Q<NOUN>]/·i) À÷¬eÐa<VERB>]/”a
+# ^take A into account $ (VERB) : [(OBJ A/Ÿi) ‰¡aÐa<VERB>]/”a 
+# ^take account of A (VERB) : [(OBJ A/Ÿi) ‰¡aµA ý<VERB>]/”a
+# ^take into account $ (VERB) : ‰¡aµA ý”a
+# ^take into account A (VERB) : [(OBJ A/Ÿi) ‰¡aÐa<VERB>]/”a
+# ^take no account of A (VERB) : [(OBJ A/·i) ¢¯¡Ða<VERB>]/”a
+# the great account (NOUN) : ÂAÒ· ¯±Ìe
+# the last account (NOUN) : ÂAÒ· ¯±Ìe
+# turn to account (VERB) : ·¡¶wÐa”a
+# turn to good account (VERB) : ·¡¶wÐa”a
+# vostro account (NOUN) : ¬w”¤w‰¸÷
+
+"account1nn"
+% ECOLIFE
+(ÒA‰)
+
+"account2nn"
+% ECOLIFE
+(‰¹Á)
+
+"account3nn"
+% STATE
+(·¡·A)
+
+"account4nn"
+% ACTION
+(¬é¡w)
+
+"accountability"
+% CONCRETE MATERIAL 
+(À‚·±)
+
+"accountancy"
+% MATERIAL ECOLIFE
+(ÒA‰»¢)
+
+"accountant"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(ÒA‰¬a)
+# accountant general (NOUN) : ÒA‰‰Á¸w
+# certified public accountant (NOUN) : ‰··¥ÒA‰¬a
+# chartered accountant (NOUN) : ËbÐáÒA‰¬a
+
+"accounting"
+% CONCRETE MATERIAL ECOLIFE
+(ÒA‰)
+# accounting book (NOUN) : ÒA‰¸w¦
+# accounting firm (NOUN) : ÒA‰¤ó·¥
+# accounting official (NOUN) : Â‰s‰ÅŸ¡
+# accounting period (NOUN) : ÒA‰‹¡ˆe
+# accounting price (NOUN) : ‰¬eˆa‰b
+# accounting procedure (NOUN) : ÒA‰¸éÀa
+# accounting regulations (NOUN) : ÒA‰‹A¸÷
+# accounting report (NOUN) : ÒA‰¥¡‰¡
+# accounting year (NOUN) : ÒA‰‘e•¡
+# cost accounting (NOUN) : ¶¥ˆaÒA‰
+# individuals accounting (NOUN) : ˆ·¥ Š¹Á
+# national income accounting (NOUN) : Š‚£¥­¡—bÒA‰
+# social accounting (NOUN) : ¬aÒAÒA‰
+
+"accouterments"
+(¥¢¸w)
+
+"accoutrements"
+(¥¢¸w)
+
+"accretion"
+% MATERIAL 
+(»w”)
+
+"accrual"
+% MATERIAL 
+(»wˆa)
+
+"acculturation"
+% MATERIAL ART
+(¢…ÑÁ¬óÂá)
+
+"accumulation"
+% MATERIAL 
+(Â‚¸â)
+# accumulation of capital (NOUN) : ¸a¥¥Â‚¸â
+
+"accumulator"
+% CONCRETE ANIMAL MATERIAL 
+(Â‚¸â¸a)
+
+"accuracy"
+% CONCRETE MATERIAL 
+(¸÷ÑÂ)
+
+"accusation"
+% CONCRETE MATERIAL ACTION
+(‰¡¤i)
+# under an accusation (ADV) : ‰¡­¡–A´á
+
+"accusative"
+% MATERIAL 
+(”‰b)
+
+"accused"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ï¡‰¡·¥)
+
+"accuser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰¡¤i·¥)
+
+"ace"
+% CONCRETE MATERIAL 
+(µA·¡¯a)
+# play ONE_S ace well (VERB) : ’…Ã¡ ¨aŸa‰A ´|–áŸi ¸i ¸”a
+# ^be within an ace of death (VERB) : [º‚<VERB>](Ði/F, ¨åÐa/A)/”a
+# ^be within an ace of being killed (VERB) : [º‚<VERB>](Ði/F, ¨åÐa/A)/”a
+
+"acedia"
+% MATERIAL STATE
+(‰A·aŸq)
+
+"aceldama"
+% PLACE
+(·AÑi· ˜w)
+
+"acerbity"
+% CONCRETE MATERIAL 
+(³e  u)
+
+"acetabulum"
+% ANIMAL
+(¨iÌe)
+
+"acetal"
+(´a­AÈi)
+
+"acetate"
+% CONCRETE MATERIAL 
+(Á¡¬eµq)
+
+"acetification"
+(Á¡ÑÁ)
+
+"acetone"
+% MATERIAL 
+(´a­AÉ¥)
+# acetone body (NOUN) : ´a­AÉ¥ ÁA
+
+"acetyl"
+(´a­AË©)
+
+"acetylene"
+% CONCRETE MATERIAL 
+(´a­AË©E)
+
+"achaean"
+% HUMAN ANIMAL
+(´aˆa´¡ ¬aœq)
+
+"achaian"
+% HUMAN ANIMAL
+(´aˆa´¡ ¬aœq)
+
+"ache"
+% MATERIAL MIND
+(´aÏq)
+# head ache (NOUN) : –É·
+
+"achene"
+% CONCRETE MATERIAL PLANT
+(®‰Á)
+
+"achievement"
+% MATERIAL 
+(¬÷Âá)
+# achievement age (NOUN) : Ðbb ‹¡º… µew
+# achievement quotient (NOUN) : ¬÷¸â»¡®
+# achievement test (NOUN) : Ðbb‰¡¬a
+
+"achromaticity"
+(®¬‚¬÷)
+
+"achromatism"
+(®¬‚¬÷)
+
+"achromycin"
+(´aÇa¡ a·¡¯¥)
+
+"acid"
+% CONCRETE MATERIAL 
+(¬e)
+# acid rain (NOUN) : ¬e¬÷§¡
+
+"acidhead"
+% HUMAN ANIMAL
+(ÑÅˆb¹A ¬w¶w¸a)
+
+"acidification"
+(¬e¬÷ÑÁ)
+
+"acidimeter"
+(¬e¸÷œ·‹¡)
+
+"acidity"
+% CONCRETE MATERIAL 
+(¯¥ u)
+
+"acidosis"
+% STATE
+(¬e‰Á”a»w)
+
+"acinus"
+(­¡Ð‚‰Á)
+
+"ack-ack"
+% CONCRETE ANIMAL MATERIAL 
+(‰¡¬aÍ¡)
+
+"ackemma"
+% TIME
+(µ¡¸å)
+
+"acknowledgement"
+% ACTION
+(¯w·¥)
+# bow ONE_S acknowledgements (VERB) : ÐáŸ¡Ÿi Š“Ña ·¥¬aÐa”a
+# in acknowledgement of A (ADV) : (ADJUNCT [(OBJ A/·i) ¯w·¥Ða<VERB>]/Ðaµa)
+
+"acme"
+% MATERIAL STATE
+(¸é¸÷)
+
+"acne"
+% MATERIAL 
+(µa—aŸq)
+
+"acolyte"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¯¡¹A)
+
+"aconite"
+% CONCRETE ANIMAL MATERIAL PLANT
+(´aÅ¡“µ)
+
+"acorn"
+% PLANT FOOD
+(•¡É¡Ÿ¡)
+# acorn cup (NOUN) : Œb¸÷·¡
+# sweet acorn (NOUN) : ¡¡£©¸u¤sa¢· µi 
+
+"acotyledon"
+% PLANT
+(¢¸aµs ¯¢¢‰)
+
+"acoumeter"
+(À÷b‰)
+
+"acoustic"
+% ART
+(·qÐ·Ðb)
+
+"acoustician"
+% HUMAN ANIMAL
+(·qÐ·Ðb¸a)
+
+"acousticon"
+(¥¡À÷‹¡)
+
+"acoustics"
+% MATERIAL 
+(·qÐ·Ðb)
+
+"acquaintance"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´a“e ¬aœq)
+# ^cultivate ONE_S acquaintance (VERB) : [(SCOMP [(OBJ ONE/·i) ´i<VERB>]/Ðaa‰¡) ´³a<VERB>]/”a
+# ^cut ONE_S acquaintance with (VERB) : [(ADJUNCT ONE/‰Á) ¸éŠaÐa<VERB>]/”a
+# ^drop ONE_S acquaintance with (VERB) : [(ADJUNCT ONE/‰Á) ¸éŠaÐa<VERB>]/”a
+# ^gain aquaintance with A (VERB->ADJ) : [(OBJ A/·i) ´i<VERB>]/”a
+# ^have a slight acquaintance with A (VERB->ADJ) : [(OBJ A/·i) (MODS [¹±<ADV>])
+ ´i‰¡ ·¶<VERB>]/”a
+# ^have an intimate acquaintance with A (VERB->ADJ) : [(OBJ A/·i) (MODS [¸i<ADV>]) ´i‰¡ ·¶<VERB>]/”a
+# have a wide acquaintance (VERB->ADJ) : Ša¹Aˆa ì”a
+# have a wide circle of acquaintances (VERB->ADJ) : Ša¹Aˆa ì”a
+# ^make the acquaintance of A (VERB->ADJ) : [(OBJ A/Ÿi) ´i‰A –A<VERB>]/”a
+# make ONE_S acquaintance (VERB->ADJ) : [(ADJUNCT [q<NOUN>]/‰Á) ´i<VERB>](‰A/F, –A/V)/”a
+# seek the acquaintance of a person (VERB->ADJ) : [(ADJUNCT [q<NOUN>]/‰Á) ´i<VERB>](‰A/F, –A/V)/”a
+# seek ONE_S acquaintance (VERB->ADJ) : [(ADJUNCT [q<NOUN>]/‰Á) ´i<VERB>](‰A/F, –A/V)/”a
+# strike up an acquaintance (VERB->ADJ) : ´i‰A–A”a
+# ^renew ONE_S acquaintance with A (VERB) : [(ADJUNCT A/‰Á) 
+(OBJ [µ•¸÷<NOUN>]/·i) (MODS [¬¡·¡<ADV>]) Ða<VERB>]/”a
+
+"acquaintanceship"
+% CONCRETE MATERIAL 
+(´a“e ¬a·¡)
+
+"acquaintedness"
+(´k)
+
+"acquest"
+(Âá—b¢‰)
+
+"acquiescence"
+% CONCRETE MATERIAL ACTION
+(¢‚¹·)
+
+"acquirement"
+% MATERIAL ACTION
+(Âá—b)
+
+"acquisition"
+% MATERIAL ACTION
+(ÒB—b)
+
+"acquisitiveness"
+% MATERIAL MIND
+(¶b¯±)
+
+"acquittal"
+% MATERIAL 
+(¢ºA¤w¡e)
+
+"acquittance"
+% CONCRETE MATERIAL 
+(­¡¡i)
+
+"acre"
+% CONCRETE UNIT MATERIAL 
+(µA·¡Äá)
+# God's Acres (NOUN) : ¢a»¡
+
+"acreage"
+% CONCRETE MATERIAL 
+(µA·¡Äá ®)
+
+"acridine"
+(´aÇaŸ¡—¥)
+
+"acridity"
+% CONCRETE MATERIAL 
+(¯¥œiÐq)
+
+"acridness"
+% CONCRETE MATERIAL 
+(¯¥œiÐq)
+
+"acrimony"
+% CONCRETE MATERIAL 
+(É·i)
+
+"acro-theater"
+(‰¢µ)
+
+"acrobat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰¢µ¬a)
+
+"acrobatics"
+% MATERIAL 
+(‰¢µ)
+
+"acrogen"
+% PLANT
+(¸÷¬—¯¢¢‰)
+
+"acrolith"
+% ANIMAL
+( áŸ¡)
+
+"acromegalic"
+% HUMAN ANIMAL
+(¬å”e§¡”»w· ¬aœq)
+
+"acromegaly"
+% MATERIAL 
+(¬å”e§¡”»w)
+
+"acronym"
+% MATERIAL 
+(–¸a´á)
+
+"acrophobia"
+% MATERIAL MIND
+(‰¡­¡ ‰·Í¡»w)
+
+"acropolis"
+% CONCRETE ANIMAL MATERIAL 
+(¬÷À)
+
+"acrostic"
+% CONCRETE MATERIAL 
+(ˆb Ð—· Àõ‹i¸aŸi ¡¡·a¡e  i·¡ –A“e ¯¡)
+
+"acrylic"
+% CONCRETE MATERIAL 
+(´aÇaŸ© ®»¡)
+
+"act"
+% CONCRETE MATERIAL ACTION
+(Ð—¶á)
+# Act of God (NOUN) : ¦‰ˆaÐwb
+# NUM1 {-ORDNUM} acts (NOUN) : [(NMODS NUM1 {+DGTNUM})  b<NOUN>]
+# act and deed (NOUN) : »wˆá
+# act of God (NOUN) : ¦‰ˆaÐwb
+# act of Congress (NOUN) : ¤ów
+# act of Parliament (NOUN) : ¤ów
+# act of Providence (NOUN) : ¦‰ˆaÐwb
+# act of grace (NOUN) : Ëb¬a
+# act of war (NOUN) : ¸å¸— Ð—¶á
+# get into the act (VERB) : ‰ÒBµA Ðe ¡¤ ¡”a
+# the Acts (NOUN) : ¬a•¡Ð—»¥
+# the Acts of the Apostles (NOUN) : ¬a•¡Ð—»¥
+
+"actability"
+% STATE
+(¬wµe ˆa“wÐq)
+
+"acth"
+(’AÐa®ÁAµA¬á ¨… Ñ¡Ÿa¡¥)
+
+"actin"
+(´bË¥)
+
+"acting"
+% MATERIAL ACTION
+(‰·µe)
+
+"actinia"
+% CONCRETE ANIMAL MATERIAL 
+( i£¡¸i)
+
+"actinism"
+(ÑÁÐb¬å ¸b¶w)
+
+"actinium"
+% CONCRETE MATERIAL 
+(´bË¡“Q)
+
+"actinometer"
+% CONCRETE ANIMAL MATERIAL 
+(ÑÁÐb ‰×œ·‰)
+
+"actinomycin"
+% CONCRETE MATERIAL 
+(´bË¡‘¡ a·¡¯¥)
+
+"actinotherapy"
+% ACTION
+(¤w¬a¬å Ã¡ža)
+
+"actinozoan"
+% CONCRETE ANIMAL MATERIAL 
+(ÑÁÑwÂ—)
+
+"action"
+% CONCRETE MATERIAL ACTION
+(Ð—•·)
+# in action (PP->ADV PP->ADJ) : 1) ÑÉ•·Ðaµa
+2) [ÑÉ•·º—µA ·¶<VERB>]/”a
+# action of mind (NOUN) : ¸÷¯¥¸â ÑÉ•·
+# action of the bowels (NOUN) : ¥eÉ·
+# bring an action against a person (VERB) : ­¡­··i ¹A‹¡Ða”a
+# bring into action (VERB) : ¸åÊµA Àqˆa¯¡Ç¡”a
+# come into action (VERB) : ¸åÊµA ÀqˆaÐa”a
+# concerted action (NOUN) : ·©Ã¡–E Ð—•·
+# clear for action (VERB) : ¸åÊ º…§¡Ÿi Ða”a
+# deffered asset (NOUN) : ·¡µe¸a¬e
+# file an action against a person (VERB) : ­¡­··i ¹A‹¡Ða”a
+# have an action against a person (VERB) : ­¡­··i ¹A‹¡Ða”a
+# line of action (NOUN) : ¸b´ó‰É·
+# man of action (NOUN) : ÑÉ•·ˆa
+# put in action (VERB) : ¯©ÀåµA µ«‹¡”a
+# put into action (VERB) : ¯©ÀåµA µ«‹¡”a
+# put out_of action (VERB) : ¶‘»¢·¡»¡ ´g‰A Ða”a
+# rouse to action (VERB) : ¦…‹¡¯¡Ç¡”a
+# see action (VERB) : ¸åÊµA ÀqˆaÐa”a
+# take a action (VERB) : ¹¡Ã¡Ÿi ÂáÐa”a
+# take actions (VERB) : ¹¡Ã¡Ÿi ÂáÐa”a
+
+"activation"
+% MATERIAL 
+(ÑÉ¬÷ÑÁ)
+
+"activator"
+% CONCRETE MATERIAL 
+(ÑÉ¬÷¹A)
+
+"active"
+% CONCRETE MATERIAL 
+(ÑÉ•·¦…¸a)
+
+"activeness"
+% CONCRETE MATERIAL 
+(ÑÉ•·¬÷)
+
+"activism"
+% MATERIAL ART
+(Ð—•·º·)
+# social activism (NOUN) : ¬aÒA Ð—•·º·
+# student activism (NOUN) : Ðb¬— ¶…•·
+# student social activism (NOUN) : Ðb¬— ¬aÒA Ð—•·º·
+
+"activismist"
+% HUMAN ANIMAL
+(Ð—•·º·¸a)
+
+"activist"
+% HUMAN
+(ÑÉ•·ˆa)
+
+"activity"
+% MATERIAL ACTION
+(ÑÉ•·)
+# activity analysis (NOUN) : ÑÉ•·¦…¬â
+# classroom activity (NOUN) : Ðb‹sÑÉ•·
+# commercial activity (NOUN) : ¬wÑÉ•·
+# manufacturing activity (NOUN) : ¹A¹¡ÑÉ•·
+# mental activity (NOUN) : ¸÷¯¥ÑÉ•·
+# production activity (NOUN) : ¬—¬eÑÉ•·
+
+"acton"
+(ˆsµµ ­¢µA ·³“e Ñ»µµ)
+
+"actor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¤¶)
+# bad actor (NOUN) : £¨·i ® ´ô“e ¬aœq
+
+"actress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(µa¤¶)
+
+"acts"
+(Ð—¶á)
+
+"actualist"
+% HUMAN ANIMAL
+(Ñe¯©º·¸a)
+
+"actuality"
+% CONCRETE MATERIAL 
+(Ñe¯©)
+
+"actualization"
+% MATERIAL 
+(Ñe¯©ÑÁ)
+
+"actuary"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(¥¡Ðñ‰Ÿ¡¬a)
+
+"actuation"
+% MATERIAL 
+(Â—•·¸b¶w)
+
+"actuator"
+(´‚ËAµA·¡Èá)
+
+"acuity"
+(iÄa¡¶‘)
+
+"acumen"
+% MATERIAL 
+(iÄa¡¶‘)
+
+"acupressure"
+% ACTION
+(»¡´s)
+
+"acupuncture"
+(Ã±ža¤ó)
+
+"acupuncturist"
+% HUMAN ANIMAL
+(Ã±®‰¬a)
+
+"acuteness"
+% CONCRETE MATERIAL 
+(iÄa¡¶‘)
+
+"ad"
+% CONCRETE MATERIAL 
+(‰×‰¡)
+# ad lib (NOUN) : »bÓw¸â µeº
+
+"ad-column"
+(‰×‰¡œe)
+
+"ad-craft"
+(‰×‰¡ Âá‹s´ó)
+
+"ad-rate"
+(‰×‰¡ža)
+
+"ad-writer"
+% HUMAN ANIMAL
+(‰×‰¡ ¢…´e ¸b¬÷¸a)
+
+"adacity"
+(””q)
+
+"adage"
+% CONCRETE MATERIAL 
+(‹q´å)
+
+"adagency"
+% ECOLIFE
+(‰×‰¡ ”Ð—´ó)
+
+"adagent"
+% HUMAN ANIMAL
+(‰×‰¡ ”Ð—´ó¸a)
+
+"adalin"
+(´a”iŸ¥)
+
+"adamant"
+(‹qˆw¬â)
+# as hard as adamant (ADJ) : ‰e‰¡¢§¡Ða”a
+
+"adamite"
+% HUMAN ANIMAL
+(´a”q· ¸a­¥)
+
+"adamsite"
+% STATE
+(¸À‹¡ •¢ˆa¯a)
+
+"adaptability"
+% CONCRETE MATERIAL 
+(¸â·w¬÷)
+
+"adaptation"
+% CONCRETE MATERIAL 
+(¸â·w)
+
+"adapter"
+% CONCRETE ANIMAL MATERIAL 
+(ˆ¸b¸a)
+
+"adaption"
+(¸â·w)
+
+"adaptor"
+% CONCRETE ANIMAL MATERIAL 
+(ˆ¸b¸a)
+
+"add"
+% CONCRETE MATERIAL
+(Âˆa¶¥‰¡)
+
+"add-on"
+(Âˆa)
+
+"addax"
+% CONCRETE ANIMAL MATERIAL 
+(Çe µw´·)
+
+"addend"
+(ˆa®)
+
+"addendum"
+% CONCRETE MATERIAL 
+(¦¢)
+
+"adder"
+% CONCRETE ANIMAL MATERIAL 
+(‰¬e‹¡)
+
+"adder"
+% CONCRETE ANIMAL MATERIAL 
+(¬i¡¡¬a)
+
+"adder's-tongue"
+% PLANT
+(a•¡‰¡¬aŸ¡ ¬q­¢·¡ ´·Ã¡¯¢¢‰)
+
+"addict"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+( a´¢ º—•¢¸a)
+
+"addiction"
+% MATERIAL ACTION
+(Èq“¢)
+
+"addition"
+% CONCRETE MATERIAL 
+(Àñˆa¢‰)
+# in addition $ (ADV) : [™¡Ðe<ADV>]
+# in addition to A (PP->ADV) : (ADJUNCT [(COMP A) ·¡¶AµA<ADV>])
+# in addition to PRESP (PP->ADV) : (ADJUNCT [(COMP [(COMPCL PRESP/Ði) ª…<NOUN>]/ e) ´a“¡<ADJ>]/œa)
+
+"additional"
+(¦ˆa¢‰)
+
+"additive"
+% CONCRETE MATERIAL 
+(¦ˆa¢‰)
+
+"address"
+% CONCRETE MATERIAL HOMONYM
+(º­¡)
+# forwarding address (NOUN) : ¶Íe º­¡
+# televised address (NOUN) : TV¤w­· µe¬é
+# welcoming address (NOUN) : ÑÅµw µe¬é
+
+"address1nn"
+% ART ACTION
+(µe¬é)
+
+"addressee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®¯¥·¥)
+
+"addresser"
+% HUMAN ANIMAL
+(¤i¯¥·¥)
+
+"addressing machine"
+(º­¡ ¸a•··¥­á‹¡)
+
+"addressograph"
+(º­¡ ¸a•··¥­á‹¡)
+
+"addressor"
+% HUMAN ANIMAL
+(¤i¯¥·¥)
+
+"adduction"
+% ACTION
+(·¥¶w)
+
+"adenine"
+(´a•A“¥)
+
+"adenoids"
+(´a•A‘¡·¡—a)
+
+"adept"
+% HUMAN ANIMAL
+(¡w·¥)
+
+"adequacy"
+% CONCRETE MATERIAL 
+(¸â”wÐq)
+
+"adequateness"
+% MATERIAL 
+(¸â”wÐq)
+
+"adherence"
+% CONCRETE MATERIAL 
+(‰¡®)
+
+"adherent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ÐeÍe)
+
+"adhesion"
+% CONCRETE MATERIAL 
+(¸ñÀb)
+# give in ONE_S adhesion to the treaty (VERB) : ¹¡´¢ ˆa —·i É·‰¡Ða”a
+
+"adhesive"
+% CONCRETE MATERIAL 
+(¸óÀb¹A)
+
+"adiantum"
+% PLANT 
+(¬w‹e Á¡­¢)
+
+"adieu"
+% CONCRETE MATERIAL ACTION
+(¸b¥i)
+
+"adipocere"
+(¯¡œs)
+
+"adipose"
+(»¡¤w)
+
+"adiposity"
+% CONCRETE MATERIAL 
+(§¡ e»w)
+
+"adit"
+(·³Š)
+# have free adit (VERB) :  a·q”¡ —aa—i”a
+
+"aditorial"
+(‘¥¬é‰×‰¡)
+
+"adjacency"
+% CONCRETE MATERIAL 
+(·¥¸ó)
+
+"adjective"
+% MATERIAL 
+(Ñw¶w¬a)
+
+"adjournment"
+% MATERIAL ACTION
+(µe‹¡)
+
+"adjudgement"
+% ACTION
+(Ìe‰i)
+
+"adjudgment"
+% ACTION
+(Ìe‰i)
+
+"adjudication"
+% MATERIAL ACTION
+(Ìe‰i)
+
+"adjudicator"
+% HUMAN ANIMAL
+(Ìe‰i¸a)
+
+"adjunct"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦ˆa¢‰)
+# adjunct professor (NOUN) : ¦Ša®
+
+"adjuration"
+% MATERIAL ACTION
+(Èe¶¥)
+
+"adjuster"
+% HUMAN ANIMAL
+(¹¡¸÷¸a)
+# average adjuster (NOUN) : Ð­¥¸÷¬e·¥
+
+"adjustment"
+% ACTION 
+(¹¡¸÷)
+# adjustment account (NOUN) : ¸÷Ÿ¡‰¸÷
+# adjustment board (NOUN) : ¹¡¸÷¶á¶¥ÒA
+# adjustment process (NOUN) : ¹¡¸÷‰Á¸÷
+# bad account (NOUN) : ‰i­¥‰¸÷
+# heavy-load adjustment (NOUN) : º—¦Ða¹¡¸÷
+# monetary adjustment (NOUN) : ‹q·W¹¡¸é
+# year-end adjustment (NOUN) : ‘e i¹¡¸÷
+
+"adjustor"
+% HUMAN ANIMAL
+(¹¡¸÷¸a)
+
+"adjutancy"
+% HUMAN
+(¦‰Å· »¢)
+
+"adjutant"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(¦‰Å)
+
+"adjuvant"
+% CONCRETE MATERIAL 
+(•¡¶‘·¡ –A“e ˆõ)
+
+"adlet"
+(¸b·e ‰×‰¡)
+
+"adman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰×‰¡ Š¥·A¶¥)
+
+"admass"
+% HUMAN ANIMAL
+( ¯aÅ±µA ¸i •·¶aÐa“e ”º—)
+
+"admeasurement"
+(Ði”w)
+
+"adminicle"
+(•¡¶‘)
+
+"administration"
+% MATERIAL 
+(‰ÅŸ¡)
+# NOUN {+PRNOUN} administration {-POSSESIVE} (NOUN) : [(NMODS NOUN) Ð—¸÷¦<NOUN>]
+
+"administrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ð—¸÷‰Å)
+# administrator bond (NOUN) : ¸¬eÀáŸ¡·¥»w
+# administrator in bankrupcy (NOUN) : Ìa¬e‰ÅŸ¡·¥
+
+"administratorship"
+% HUMAN
+(Ð—¸÷‰Å· »¢¶á)
+
+"administratrix"
+% HUMAN ANIMAL
+(µa¸a‰ÅŸ¡¸a)
+
+"admirableness"
+(Ò‰ŸWÐq)
+
+"admiral"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(¹A•¢)
+# Board of Admirals (NOUN) : ÐŠ… ¸w‰ÅÒA·
+# Loard High Admiral (NOUN) : ÐŠ…”¯¥
+
+"admiralship"
+% HUMAN
+(ÐŠ…¹A•¢· »¢)
+
+"admiralty"
+% ORGAN
+(ÐŠ… ¥¥¦)
+# Lords Commissioners of the Admiralty (NOUN) : ÐŠ…¥¥¦ ·¶¥
+# the Court of the Admiralty (NOUN) : Ð¬a ¸Ìe­¡
+# the First Lord of the Admiralty (NOUN) : ÐŠ…”¯¥
+
+"admiration"
+% MATERIAL MIND
+(ˆqÈe)
+# in admiration of A (ADV) : (ADJUNCT [(OBJ A/·i) Ã·ÀeÐa<VERB>]/Ðaµa)
+# note of admiration (NOUN) : ˆqÈe¦Ñ¡
+# to admiration (ADV) : Ò‰ŸWÐa‰A
+# with admiration (ADV) : ˆqÈeÐaµa
+
+"admirer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®—¤¸a)
+
+"admissibility"
+(Ðá¶w)
+
+"admission"
+% CONCRETE MATERIAL 
+(Ðáˆa)
+# Admission Day (NOUN) : ˆbº· Ðsº—Š‚ Àqˆa ‹¡‘q·©
+# admission fee (NOUN) : ·³¸wža
+# admission temporaire (NOUN) : ˆa®·³Ðáˆa
+# admission ticket (NOUN) : ·³¸wŠ¥
+# charge admission (VERB) : ·³¸wžaŸi ¤h”a
+# gain admission (VERB) : ·³¸w·i Ðáˆa¤h”a
+# obtain admission (VERB) : ·³¸w·i Ðáˆa¤h”a
+# ^give free admission to A (VERB) : [(OBJ A/·i) (MODS [¸a·A¡<ADV>]) ·³¸w¯¡Ç¡<VERB>]/”a
+# make an admission of the fact to a person (VERB) : ¬a¯©·i qµA‰A ‰¡¤‚Ða”a
+
+"admittance"
+% CONCRETE MATERIAL 
+(·³¸w)
+# No admittance (NOUN) : ·³¸w¬a¸é
+
+"admixture"
+% MATERIAL 
+(Ñ¥Ðs)
+
+"admonisher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ò…‰¸a)
+
+"admonishment"
+% CONCRETE MATERIAL ACTION
+(Èa·¡Ÿq)
+
+"admonition"
+% CONCRETE MATERIAL ACTION
+(Èa·¡Ÿq)
+
+"admonitor"
+% HUMAN ANIMAL
+(Â—‰¡¸a)
+
+"ado"
+% MATERIAL ACTION
+(­¡•·)
+# make much ado (VERB) : ¤ó¬â·i ˜é”a
+# have much ado (VERB) : ¤ó¬â·i ˜é”a
+# with much ado (ADV) : ´¡”e¤ó¬âÐa¡a
+# without more ado (ADV) : ‹a ·¡¬w ¥i·© ´ô·¡
+
+"adobe"
+% CONCRETE MATERIAL 
+(´á•¡§¡ ¸ñÉ¡)
+
+"adolescence"
+% CONCRETE MATERIAL 
+(À÷‘e‹¡)
+
+"adolescency"
+(À÷‘e‹¡)
+
+"adolescent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(À÷‘e)
+
+"adoptee"
+% HUMAN ANIMAL 
+(´·¸a)
+
+"adopter"
+% HUMAN ANIMAL 
+(ÀÈ‚¸a)
+
+"adoption"
+% MATERIAL ACTION
+(·³´·)
+# adoption agency (NOUN) : ´·¸a ´i¬å‹¡‰Å
+
+"adorableness"
+(®—¤Ði  eÐq)
+
+"adoration"
+% MATERIAL MIND
+(¹¥‰w)
+
+"adorer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®—¤¸a)
+
+"adornment"
+% CONCRETE MATERIAL 
+(Ž£¡‹¡)
+
+"adrenal"
+% CONCRETE MATERIAL 
+(¦¯¥)
+
+"adrenalin"
+% CONCRETE MATERIAL 
+(´a—aAiŸ¥)
+
+"adrenaline"
+% CONCRETE MATERIAL 
+(´a—aAiŸ¥)
+
+"adriamycin"
+(´a—aŸ¡´a a·¡¯¥)
+
+"adroitness"
+% MATERIAL STATE
+(­±³¡·¶·q)
+
+"adsorption"
+% MATERIAL 
+(ÓsÀb)
+
+"adulation"
+% MATERIAL ACTION
+(´aÀñ)
+
+"adulator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´aÀñŽ…)
+
+"adult"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¬÷·¥)
+# adult only (NOUN) : ¬÷·¥ ¸å¶w
+# adult tooth (NOUN) : µwŠÃ¡
+# mentally retarded adult (NOUN) : ¸÷¯¥¸â £¡¬÷®‚ ¬÷·¥
+
+"adulterant"
+(Ñ¥Ðs¢‰)
+
+"adulteration"
+% MATERIAL 
+(Ñ¥Ðs)
+
+"adulterator"
+% HUMAN ANIMAL
+(¹¡´¢Î‘ ¹A¹¡¸a)
+
+"adulterer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ˆe¦)
+
+"adulteress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ˆe¦)
+
+"adulterine"
+(¹¡´bÎ‘)
+
+"adultery"
+% MATERIAL 
+(ˆeÉ·)
+# ^commit adultery with A {+HUMAN} (VERB) : [(ADJUNCT A/‰Á) ˆeÉ·Ða<VERB>]/”a
+
+"adulthood"
+% CONCRETE MATERIAL STATE
+(¬÷·¥·±)
+# reach adulthood (VERB) : ¬÷·¥·¡ –A”a
+
+"adumbration"
+(·E‰Â ¢a¬a)
+
+"adurol"
+(´a—A©)
+
+"advance"
+% CONCRETE MATERIAL 
+(¸å»¥)
+# advance refunding (NOUN) : ¬a¸åÀaÁA
+# be on the advance (VERB) : ¢‰ˆaˆa µ¡Ÿa“e ‰wÐ··¡”a
+# early advance (NOUN) : ·¡Ÿe ´¢»¥
+# encourage a person's advances (VERB) : q· ¸ó‹e·i ¹¡¸wÐa”a
+# in advance (ADV) : £¡Ÿ¡
+# in advance before SENT (SUBCL->ADV) : [(ADJUNCT SENT/Ða‹¡µA) ´|¬á<ADV>]
+# in advance of (ADV) : ¥¡”a a´aˆa¬á
+# in advance of A (ADV ADJ) : 1) (ADJUNCT [(ADJUNCT A/¥¡”a) ´|¬á<VERB>]/Ðaµa¬á) 
+                              2) [(ADJUNCT A/¥¡”a) ´|¬á<VERB>]/”a
+# great advance (NOUN) : ¬w”wÐe ¤i¸å
+# repel a person's advances (VERB) : q· ¸ó‹e·i ¢‰Ÿ¡Ã¡”a
+
+"advancement"
+% CONCRETE MATERIAL 
+(¤i¸å)
+
+"advantage"
+% CONCRETE MATERIAL 
+(·¡¸ñ)
+# gain an advantage over a person (VERB) : q·i “wˆaÐa”a
+# win an advantage over a person (VERB) : q·i “wˆaÐa”a
+# ^take a person at advantage (VERB) : q· ÐáŸi ¿¡Ÿa”a
+# ^take advantage of A (VERB) : [(OBJ A/Ÿi) ·¡¶wÐa<VERB>]/”a
+	* [(OBJ A/Ÿi) ­¢·¡<VERB>]/”a
+	* A (~ {+HUMAN})
+# ^take full advantage of A (VERB) : [(OBJ A/Ÿi) (MODS [¸i <ADV>]) ·¡¶wÐa<VERB>]/”a
+# to advantage (ADV) : ·AŸ¡Ða‰A
+# turn to advantage (VERB) : ·AŸ¡Ða‰A ·¡i”a
+# with advantage (ADV) : ·AŸ¡Ða‰A
+
+"advantageousness"
+% CONCRETE MATERIAL 
+(·AŸ¡Ðq)
+
+"advent"
+% MATERIAL 
+(Â‰Ñe)
+
+"adventism"
+% ART
+(‹aŸ¡¯a•¡ ¸Ÿ±¬é)
+
+"adventismist"
+% HUMAN ANIMAL
+(‹aŸ¡¯a•¡ ¸Ÿ±¥¸a)
+
+"adventure"
+% MATERIAL 
+(¡¡Ðñ)
+
+"adventurer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¡¡Ðñˆa)
+
+"adventuress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(µa¸a ¡¡Ðñˆa)
+
+"adventurism"
+% ART
+(¡¡Ðñº·)
+
+"adventurismist"
+% HUMAN
+(¡¡Ðñº·¸a)
+
+"adventurist"
+% HUMAN
+(µa¬÷ ¡¡Ðñˆa)
+
+"adventurousness"
+% CONCRETE MATERIAL 
+(¡¡Ðñ·i ¹½´aÐa“e ˆõ)
+
+"adverb"
+% MATERIAL 
+(¦¬a)
+# interrogative adverb (NOUN) : ·¢… ¦¬a
+# relative adverb (NOUN) : ‰Å‰¦¬a
+
+"adversary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¸â)
+# the Adversary (NOUN) : ´b a
+
+"adversative"
+(¤e·´á)
+
+"adverseness"
+(¤e”)
+
+"adversity"
+% MATERIAL STATE
+(µb‰w)
+
+"advertence"
+% MATERIAL 
+(º·)
+
+"advertency"
+% MATERIAL 
+(º·)
+
+"advertisement"
+% CONCRETE MATERIAL ACTION
+(‰×‰¡)
+# advertisement column (NOUN) : ‰×‰¡œe
+# advertisement mail (NOUN) : ‰×‰¡¶Íe
+# ^put an advertisement in A (VERB) : [(ADJUNCT A/µA) (OBJ [‰×‰¡<NOUN>]/Ÿi)
+ <VERB>]/”a
+# ^insert an advertisement in A (VERB) : [(OBJ A/µA) (OBJ [‰×‰¡<NOUN>]/Ÿi)
+ <VERB>]/”a
+
+"advertiser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰×‰¡¸a)
+
+"advertising"
+% CONCRETE MATERIAL ACTION
+(‰×‰¡)
+# ONE_S advertising (NOUN) : [(POSS ONE/·) ‰×‰¡<NOUN>] 
+# a magazine advertising (NOUN) : ¸s»¡ ‰×‰¡
+# advertising department (NOUN) : ‰×‰¡ ¦¬á
+# competitive advertising (NOUN) : ‰w¸—¸â‰×‰¡
+# misleading advertising (NOUN) : Ðá¶á‰×‰¡
+
+"advertizement"
+% ACTION
+(‰×‰¡)
+# advertizement column (NOUN) : ‰×‰¡œe
+# advertizement mail (NOUN) : ‰×‰¡¶Íe
+
+"advertizing"
+% MATERIAL ACTION
+(‰×‰¡)
+# a magazine advertizing (NOUN) : ¸s»¡ ‰×‰¡
+# advertizing department (NOUN) : ‰×‰¡ ¦¬á
+
+"advice"
+% CONCRETE MATERIAL ACTION
+(Â—‰¡)
+# act on advice (VERB) : Â—‰¡µA ˜aŸa”a
+# advice and pay (NOUN) : É·»¡¦‰
+# advice of arrival (NOUN) : •¡ÀbÉ·»¡
+# advice slip (NOUN) : É·»¡¸åÎa
+# by a person's advice (ADV) : q· Â—‰¡Ÿi ¤h‰¡
+# on a person's advice (ADV) : q· Â—‰¡Ÿi ¤h‰¡
+# follow a person's advice (VERB) : q· Š¥‰¡Ÿi ˜aŸa”a
+# give a person a piece of advice (VERB) : qµA‰A Ðe a—¡ Â—‰¡Ða”a
+# give a person a bit of advice (VERB) : qµA‰A Ðe a—¡ Â—‰¡Ða”a
+# give a person a word of advice (VERB) : qµA‰A Ðe a—¡ Â—‰¡Ða”a
+# take a person's advice (VERB) : q· Â—‰¡Ÿi ¤h´a—i·¡”a
+
+"advisabilitiy"
+(Š¥Ði  eÐq)
+
+"advisableness"
+(¤aœq»¢Ðq)
+
+"advisee"
+% HUMAN
+(»¡•¡¤h“e Ðb¬—)
+
+"advisement"
+% CONCRETE MATERIAL 
+(®‚‰¡)
+
+"adviser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Â—‰¡¸a)
+# legal adviser (NOUN) : ¤óŸI ‰¡¢…
+# student adviser (NOUN) : Ðb¬— »¡•¡ ¬å¬—
+
+"advisor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Â—‰¡¸a)
+# legal advisor (NOUN) : ¤óŸI ‰¡¢…
+
+"advocacy"
+% CONCRETE MATERIAL ACTION
+(»¡»¡)
+
+"advocate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¥e¥¸a)
+# Judge Advocate (NOUN) : ¤ó¢‰Å
+# Lord Advocate (NOUN) : ˆñÀiÁ·¸w
+# free market advocate (NOUN) : ¸a·A¯¡¸w µ·Ñ¡¥¸a
+
+"advocator"
+% HUMAN
+(ºÀw¸a)
+
+"advowson"
+(¡¢¬aºÀåŠ¥)
+
+"adynamia"
+% STATE
+(®A´¢)
+
+"adytum"
+(´e½¢)
+
+"adz"
+% CONCRETE ANIMAL MATERIAL 
+(­¥•¡¡)
+
+"adze"
+% CONCRETE ANIMAL MATERIAL 
+(­¥•¡¡)
+
+"aeger"
+(»¥”e¬á)
+
+"aegis"
+% CONCRETE ANIMAL MATERIAL 
+(¤wÌ)
+
+"aegrotat"
+(»¥”e¬á)
+
+"aeolic"
+(·¡µ©Ÿ¡´a ¬aÊŸ¡)
+
+"aeolipile"
+(ÒA¸å¸wÃ¡)
+
+"aeolipyle"
+(ÒA¸å¸wÃ¡)
+
+"aeon"
+% CONCRETE MATERIAL TIME
+(µwŠ)
+
+"aeration"
+(‰·‹¡µA ²Q)
+
+"aerator"
+(É·Î—‹¡)
+
+"aerial"
+% CONCRETE ANIMAL MATERIAL 
+(´eÉAa)
+
+"aerialist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰·º— ‰¢µ¬a)
+
+"aeriality"
+(‰·‹¡ ˆ{·e ¬÷»©)
+
+"aerie"
+(‘¼·e ‰µµA ·¶“e –—»¡)
+
+"aerification"
+(‰·‹¡Ÿi À¶‹¡)
+
+"aero"
+(Ðw‰·‹¡)
+
+"aeroballistics"
+% ART
+(Ðw‰· Èe•¡Ðb)
+
+"aerobatics"
+% MATERIAL ACTION
+(‰¢µ §¡Ð—)
+
+"aerobe"
+% CONCRETE ANIMAL MATERIAL 
+(Ñ¡‹¡¬÷ ­A‹E)
+
+"aerobee"
+(¯¥Ñw ¡ÅU)
+
+"aerobics"
+% MATERIAL 
+(µA´á¡§¢¯a)
+
+"aerobiology"
+(”‹¡Š¥ ¬—¢‰Ðb)
+
+"aeroboat"
+(§¡Ð— ¸÷)
+
+"aerobomb"
+(Í¢‰bÈe)
+
+"aerobus"
+(µaˆ‚‹¡)
+
+"aerocade"
+(§¡Ð—‹¡ Íe”)
+
+"aerocamera"
+(Ðw‰· ¬a»¥‹¡)
+
+"aerocraft"
+(Ðw‰·‹¡)
+
+"aerocycle"
+(­¡Ñw ÑIŸ¡Å³Èá)
+
+"aerodrome"
+% CONCRETE ANIMAL MATERIAL 
+(‰·Ðw)
+
+"aerodynamics"
+% ART
+(‹¡ÁA µbÐb)
+
+"aerodyne"
+(º— Ðw‰·‹¡)
+
+"aeroembolism"
+% MATERIAL STATE
+(‰·‹¡ ¬‚¸å»w)
+
+"aerofoil"
+% CONCRETE ANIMAL MATERIAL 
+(iˆ)
+
+"aerogram"
+% CONCRETE MATERIAL 
+(¢¬å ¸å¥¡)
+
+"aerograph"
+(¢¬å¸å¯¥)
+
+"aerographer"
+(¬w‰· ‹¡¬w ‰ÅÃb¥w)
+
+"aerogun"
+(‰¡¬aÍ¡)
+
+"aerohydroplane"
+(®¬w §¡Ð—‹¡)
+
+"aerolite"
+% CONCRETE MATERIAL 
+(¶…¬â)
+
+"aerolith"
+(¶…¬â)
+
+"aerologist"
+% HUMAN
+(‹¡¬w ¢‰Ÿ¡Ðb¸a)
+
+"aerology"
+% ART
+(‹¡¬w¢‰Ÿ¡Ðb)
+
+"aeromap"
+(§¡Ð— »¡•¡)
+
+"aeromechanic"
+% HUMAN
+(§¡Ð—‹¡ ‹¡®‰¸a)
+
+"aeromechanics"
+% MATERIAL ART
+(Ðw‰· µbÐb)
+
+"aeromedicine"
+% ART
+(Ðw‰· ·Ðb)
+
+"aerometer"
+(´·‹¡‰)
+
+"aerometry"
+(‹¡ÁA Ãb¸÷)
+
+"aeromobile"
+(‰·º— ¸a•·Àa)
+
+"aeronaut"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(§¡Ð—¬å ¹¡¹·¬a)
+
+"aeronautics"
+% MATERIAL ART
+(Ðw‰·®‰)
+
+"aeronomy"
+% ART
+(Á¡‰¡Ãw ”‹¡ ¢‰Ÿ¡Ðb)
+
+"aeropause"
+(”‹¡ ‰¡e)
+
+"aerophone"
+(‰·º— ¢¬å ¸åÑÁ‹¡)
+
+"aerophotography"
+% ART
+(Ðw‰· ¬a»¥®‰)
+
+"aeroplane"
+% CONCRETE ANIMAL MATERIAL 
+(§¡Ð—‹¡)
+# by aeroplane (ADV) : §¡Ð—‹¡¡
+# take aeroplane (VERB) : §¡Ð—‹¡µA Èa”a
+
+"aeropolitics"
+% ACTION
+(Š‚¹A Ðw‰· ¸÷À‚)
+
+"aerosol"
+% CONCRETE MATERIAL 
+(µA´á¡­©)
+
+"aerospace"
+% PLACE
+(¶º)
+
+"aerostat"
+(‰w Ðw‰·‹¡)
+
+"aerostation"
+(‰w‹¡Š ¹¡¹·)
+
+"aerotherapy"
+(‰·‹¡ Ã¡ža¤ó)
+
+"aerotrain"
+(µA´á¡ ËaA·¥)
+
+"aeroview"
+(‰·º— ¦ˆq•¡)
+
+"aery"
+(§¡Ñe¯©¸â·¥)
+
+"aesthete"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(·A£¡º·¸a)
+
+"aestheticism"
+% ART
+(·A£¡º·)
+
+"aesthetics"
+% MATERIAL ART
+(£¡Ðb)
+
+"aestivation"
+(Ða¡e)
+
+"aetiology"
+% MATERIAL ART
+(¶¥·¥¥)
+
+"afateware"
+( a‘¡Àáœñ ¥¡·¡‰A µAa¡I·i Ã©Ðe ®A‹aŸu)
+
+"affability"
+% CONCRETE MATERIAL 
+(¦›·±¬÷·¡ ·¶·q)
+
+"affair"
+% CONCRETE MATERIAL 
+(¬aˆå)
+# an affair of honor (NOUN) : ‰iÊ
+# a man of affairs (NOUN) : ¬a¢ˆa
+# a pretty state of affair (NOUN) : ¡³¯¡ eÀáÐe ¬wÈ
+# economic affairs (NOUN) : ‰w¹A ¢…¹A
+# human affair (NOUN) : ¬aœq·©
+# love affair (NOUN) : µe´ ‰Å‰
+# love affair with A (NOUN) : [(ADJUNCT A/µÁ·) ¬aœw<NOUN>]
+# the state of affairs (NOUN) : ¬aÈ
+# wind up ONE_S affairs (VERB) : ´ó¢ –á ÀáŸ¡Ÿi Ða”a
+
+"affect"
+% MATERIAL 
+(µwÐ·)
+
+"affectation"
+% CONCRETE MATERIAL 
+(·¥ÁAÐa‹¡)
+# without affectation (ADV) : ­©»¢Ó¡
+
+"affection"
+% CONCRETE MATERIAL MIND
+(´¸÷)
+
+"affiance"
+% MIND
+(¯¥žA)
+
+"affiant"
+% HUMAN
+(¬å¬á Š®‰¬á ¸b¬÷¸a)
+
+"affidavit"
+% CONCRETE MATERIAL 
+(¬å¬á Š®‰¬á)
+# affidavit of support (NOUN) : ¸¸÷ ¥¡»w¬á
+# swear an affidavit (VERB) : Š®‰¬áµA ˆá»µ·¡ ´ô·q·i ¬å¬áÐa”a
+# make an affidavit (VERB) : Š®‰¬áµA ˆá»µ·¡ ´ô·q·i ¬å¬áÐa”a
+# take an affidavit (VERB) : Š®‰¬áµA ˆá»µ·¡ ´ô·q·i ¬å¬áÐa”a
+# take an affidavit (VERB) : Š®‰¬áŸi ¤h”a
+
+"affiliate"
+% ORGAN
+(‰Å‰ ”eÁA)
+
+"affiliation"
+% CONCRETE MATERIAL 
+(·³ÒA)
+
+"affinity"
+% CONCRETE MATERIAL 
+(Ã¥£©Ðq)
+
+"affirmance"
+(‹w¸÷)
+
+"affirmant"
+(ÑÂ´å¸a)
+
+"affirmation"
+% CONCRETE MATERIAL 
+(ÑÂ´å)
+
+"affirmative"
+% CONCRETE MATERIAL 
+(‹w¸÷)
+# answer in the affirmative (VERB) : ‹w¸÷Ða”a
+
+"affix"
+% MATERIAL 
+(¦Àb)
+
+"affixture"
+(Àñˆa¢‰)
+
+"afflatus"
+(µwˆq)
+
+"affliction"
+% MATERIAL MIND
+(‰¡’A)
+
+"affluence"
+% MATERIAL STATE
+(Î—¶a)
+
+"afflux"
+(·A·³)
+
+"afforestation"
+(¹¡Ÿ±)
+
+"affranchisement"
+% STATE
+(Ð¤w)
+
+"affray"
+% CONCRETE MATERIAL ACTION
+(°a¶‘)
+
+"affricate"
+% MATERIAL 
+(ÌaÀi·q)
+
+"affricative"
+% MATERIAL 
+(ÌaÀi·q)
+
+"affright"
+% MIND
+(‰·Í¡)
+
+"affront"
+% CONCRETE MATERIAL MIND
+(¡¡¶b)
+# put an affront upon (VERB) : ¡¡¶bÐa”a
+# offer an affront to (VERB) : ¡¡¶bÐa”a
+# suffer an affront (VERB) : ¡¡¶b ”wÐa”a
+
+"affusion"
+% MATERIAL 
+(‰Å®¯¢)
+
+"afghan"
+% CONCRETE MATERIAL HUMAN
+(´aÏaˆa“¡¯aÈe ¬aœq) 
+
+"afghani"
+% CONCRETE UNIT MATERIAL 
+(´aÏaˆa“¡¯aÈe· ÑÁÍ”e¶á)
+
+"africa"
+% PLACE
+(´aÏaŸ¡Äa)
+
+"africanism"
+(´aÏaŸ¡Äa iÊ)
+
+"afrikaans"
+(Îaº… ‘A”éœe—a i)
+
+"afrikander"
+% HUMAN
+(q´aÏaŸ¡Äa È¬—· ¤‚·¥)
+
+"afrikaner"
+% HUMAN
+(q´aÏaŸ¡Äa È¬—· ¤‚·¥)
+
+"afro"
+% CONCRETE MATERIAL 
+(´aÏaŸ¡Äa Ób·¥¯¢ ÑA´á¯aÈa·©)
+
+"afro-american"
+% HUMAN
+(´a¡AŸ¡Äa Ób·¥)
+
+"afro-americanese"
+(´a¡AŸ¡Äa Ób·¥ µw´á)
+
+"after-recording"
+(ÁÉµwÒ ‘¢·q)
+
+"after-tax"
+(­AÒ)
+
+"afterbirth"
+% CONCRETE MATERIAL HUMAN
+(·A¥¢¸a)
+
+"afterbody"
+(•·ÁA)
+
+"afterbrain"
+% ANIMAL
+(Ò’A)
+
+"afterburner"
+% CONCRETE ANIMAL MATERIAL 
+(Ò‹¡ µe­¡‹¡)
+
+"afterburning"
+(¸µe­¡)
+
+"aftercare"
+% ACTION
+(¬aÒÀáŸ¡)
+
+"afterclap"
+% STATE
+(›u¤c· ‰i‰Á)
+
+"aftercost"
+(¬aÒ· §¡¶w)
+
+"aftercrop"
+(‹ažˆi·¡)
+
+"afterdamp"
+(Ò¤iˆa¯a)
+
+"aftereffect"
+(µaÌa)
+
+"afterglow"
+(¸á‘b‘©)
+
+"aftergrass"
+(‹ažˆi·¡)
+
+"aftergrowth"
+(–¤å¼ a“e ˆõ)
+
+"afterimage"
+(¸e¬w)
+
+"afterlife"
+% CONCRETE MATERIAL TIME
+(­A)
+
+"afterlight"
+(¸á‘b‘©)
+
+"aftermarket"
+(®Ÿ¡¶wÎ‘ ¯¡¸w)
+
+"aftermath"
+% MATERIAL 
+(µaÌa)
+
+"afternoon"
+% CONCRETE TIME MATERIAL 
+(µ¡Ò)
+
+# early that afternoon (NOUN ADV) : ‹ai µ¡Ò ·©¿¢ 
+# early this afternoon (NOUN ADV) : µ¡“i µ¡Ò ·©¿¢ 
+# every afternoon (NOUN ADV) :  ·© µ¡Ò
+# in the afternoon (PP->ADV) : µ¡ÒµA
+# late afternoon (NOUN ADV) : “x·e µ¡Ò {+RESTRIC}
+# later that afternoon (ADV) : ‹ai µ¡Ò “x‰A
+# later this afternoon (ADV) : µ¡“i µ¡Ò “x‰A
+# one afternoon (NOUN ADV) : ´á“a µ¡Ò {+RESTRIC} 
+# that afternoon (NOUN ADV) : ‹ai µ¡Ò {+RESTRIC}
+# this afternoon (NOUN ADV) : µ¡“i µ¡Ò {+RESTRIC}
+# tomorrow afternoon (NOUN ADV) : ·© µ¡Ò {+RESTRIC}
+# yesterday afternoon (NOUN ADV) : ´á¹A µ¡Ò {+RESTRIC}
+# Monday afternoon (NOUN ADV) : ¶©¶a·© µ¡Ò
+# Tuesday afternoon (NOUN ADV) : ÑÁ¶a·© µ¡Ò
+# Wednesday afternoon (NOUN ADV) : ®¶a·© µ¡Ò
+# Thursday afternoon (NOUN ADV) : ¡¢¶a·© µ¡Ò
+# Friday afternoon (NOUN AD) : ‹q¶a·© µ¡Ò
+# Saturday afternoon (NOUN ADV) : É¡¶a·© µ¡Ò
+# Sunday afternoon (NOUN ADV) : ·©¶a·© µ¡Ò
+"afternooner"
+(¬âˆe)
+
+"afterpains"
+% STATE
+(¬eÒ· »¥É·)
+
+"afterpiece"
+(¼i bÐe Ó‹b)
+
+"aftershock"
+% MATERIAL 
+(µa»¥)
+
+"aftertaste"
+(–õ u)
+
+"afterthought"
+(˜“x·e ¬—ˆb)
+
+"aftertime"
+% TIME
+(Ò•i)
+
+"afterward"
+% TIME
+(­A)
+
+"afterwards"
+% TIME
+(­A)
+
+"afterwit"
+(–õŠ—Ÿ¡)
+
+"afterword"
+% TIME
+(Ò‹¡)
+
+"afterworld"
+% TIME
+(Ò­A)
+
+"afteryears"
+% TIME
+( e‘e)
+
+"aga"
+(‰¡‰Å)
+
+"agamogenesis"
+(¢¬÷ ¬—¯¢)
+
+"agape"
+% MIND
+(•·Í¡´)
+
+"agar"
+% CONCRETE MATERIAL PLANT FOOD
+(¶¢•ˆa¬aŸ¡)
+
+"agar-agar"
+% CONCRETE MATERIAL PLANT FOOD
+(¶¢•ˆa¬aŸ¡)
+
+"agaric"
+% PLANT FOOD
+(¬á´·­··¡)
+
+"agate"
+% MATERIAL 
+( a‘¡)
+
+"agave"
+% CONCRETE PLANT MATERIAL 
+(¶w¬éœe)
+
+"age"
+% CONCRETE MATERIAL TIME
+(a·¡)
+# ONE_S old age (NOUN) : ‘¡‘e
+# age of Discovery (NOUN) : ˆÀâ¯¡”
+# age of discovery (NOUN) : ˆÀâ¯¡”
+# at the age of NUM1 (PP->ADV) : (ADJUNCT [(NMODS NUM1 {+DGTNUM}) ­A<NOUN>]/µA)
+# ^be about ONE_S age $ (VERB->ADJ) : [(POSS ONE/·) a·¡·¡<ADJ>]/”a
+# computer age (NOUN) : ÄñÏAÈá ¯¡”
+
+# for ONE_S age (PP->ADV) : (ADJUNCT [(COMP [(POSS ONE/·) a·¡<NOUN>]/µA) §¡Ða<VERB>]/´á¬á)
+# for ages (PP->ADV) : ¡y‘eˆe
+# ice age (NOUN) : §·Ða¯¡”
+# in all ages (ADV) : µa »¡‹q·¡a 
+# ^live in an age $ (VERB) : Ðe¯¡”µA ¬i”a
+# machine age (NOUN) : ‹¡‰ ¯¡”
+# modern age (NOUN) : Ñe”
+# present age (NOUN) : Ñe”
+# the age of A {-HUMAN} (NOUN) : [(POSS A/·) ¯¡”<NOUN>] 
+* [(POSS A/·) a·¡<NOUN>] 
+* A (earth »¡Š)
+# the age of NUM1 {-ORDNUM} (NOUN) : [(NMODS NUM1{+DGTNUM}) ¬i<NOUN>]
+# the age of consent (NOUN) : ¯wb µew
+# the age of discretion (NOUN) : ¦…¥i µew
+# the atomic age (NOUN) : ¶¥¸a ¯¡”
+# with age (ADV) : ‘¡w Èu·a¡
+
+"agedness"
+% CONCRETE MATERIAL 
+(‘¡w)
+
+"ageing"
+(‘¡ÑÁ)
+
+"ageism"
+% ART
+(‘¡·¥ Àa¥i)
+
+"agency"
+% MATERIAL HUMAN
+(”Ð—¸a)
+# agency agreement (NOUN) : ”Ÿ¡¸ñ‹A´¢
+# agency loan (NOUN) : ”Ÿ¡”¦
+# agency marketing (NOUN) : Ìe ”Ÿ¡¸ñ
+# agency shop (NOUN) : ¹¡Ðs”Ÿ¡‰·¸w
+# defense agency (NOUN) : ¤w¶á¥¥¦
+# intelligence agency (NOUN) : ¸÷¥¡‹¡‰Å
+# planning agency (NOUN) : ‹¡ÒBŠ‚
+# transit agency (NOUN) : ŠaÉ·‹¡‰Å
+
+"agenda"
+% MATERIAL 
+(Ñs· ¬aÐw)
+
+"agendum"
+(Ñs· ¬aÐw)
+
+"agene"
+(¬qµqÑÁ »©­¡)
+
+"agent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(µA·¡¸åËa)
+# advertising agent (NOUN) : ‰×‰¡”Ÿ¡´ó
+# agent commission (NOUN) : ”Ÿ¡¸ñ®®ža
+# agents of production (NOUN) : ¬—¬e¶a­¡
+# buying agent (NOUN) : Š ”Ÿ¡¸ñ
+# clearing agent (NOUN) : ”Ÿ¡ŠaÑÅ·eÐ—
+# co-authenticating agent (NOUN) : µe¬á”Ÿ¡·¥
+# collecting agent (NOUN) : ®‹q”Ÿ¡·¥
+# countersigning agent (NOUN) : ¦¬á”Ÿ¡·¥
+# del credere agent (NOUN) :  º»¡¦‰“wb¥¡»w”Ÿ¡·¥
+# distributing agent (NOUN) : Ìe ”Ÿ¡¸ñ
+# forwarding agent (NOUN) : É·¶…´ó¸a
+# general agent (NOUN) : Á·”Ÿ¡¸ñ
+# insurance agent (NOUN) : ¥¡Ðñ”Ÿ¡¸ñ
+# ticket agent (NOUN) :  Îa ÒA¬a
+
+"agglomeration"
+% MATERIAL 
+(·w»³¸b¶w)
+
+"agglutination"
+% MATERIAL 
+(ŠaÀb)
+
+"aggrandizement"
+% MATERIAL 
+(»w”)
+
+"aggravation"
+% CONCRETE MATERIAL 
+(´bÑÁ)
+
+"aggravator"
+(”á¶‚ ´bÑÁ¯¡Ç¡“e ˆõ)
+
+"aggregate"
+% CONCRETE MATERIAL 
+(»³Ðs)
+# in the aggregate (ADV) : ¸åÁA¡¬á
+
+"aggregation"
+% MATERIAL 
+(»³Ðs)
+
+"aggression"
+% CONCRETE MATERIAL ACTION
+(Ã±œ¢)
+$ aggression by A (NOUN) : [(ADJUNCT A/·) Ã±œ¢<NOUN>]
+
+"aggressiveness"
+% CONCRETE MATERIAL 
+(‰·‰b¬÷)
+
+"aggressor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ã±œ¢¸a)
+
+"agility"
+% CONCRETE MATERIAL 
+(‹¡£¥)
+
+"aging"
+(‘¡ÑÁ)
+
+"agio"
+% MATERIAL ECOLIFE
+(ÑÅ‹q ®®ža)
+# agio theory (NOUN) : ·¡¸aº·¥¯¡Àa¬é
+
+"agiotage"
+% ECOLIFE
+(ÑÅ¸å´ó)
+
+"agitation"
+% MATERIAL 
+(•·¶a)
+
+"agitator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¬å•·¸a)
+
+"agitprop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¬å•·‰Á ¬å¸å)
+
+"aglet"
+% CONCRETE MATERIAL 
+(¸w¯¢ ®A¦›·¡)
+
+"agnail"
+(­¥ˆá¯aœá£¡)
+
+"agnate"
+% CONCRETE MATERIAL HUMAN
+(¦‰Ã¥¹¢)
+
+"agnation"
+% CONCRETE MATERIAL HUMAN
+(q‰ Ã¥¹¢)
+
+"agnomen"
+(‘A¼ ·¡Ÿq)
+
+"agnostic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦‰ˆa»¡¥¸a)
+
+"agnosticism"
+% MATERIAL ART
+(¦‰ˆa»¡¥)
+
+"agony"
+% MATERIAL MIND
+(‰¡É·)
+# the Agony (NOUN) : ®e¸å ‹aŸ¡¯a•¡· ‰¡£¥
+
+"agoraphobia"
+% MATERIAL MIND
+(‰×¸w ‰·Í¡»w)
+
+"agouti"
+% CONCRETE ANIMAL MATERIAL 
+(—iºá)
+
+"agouty"
+% ANIMAL
+(—iºá)
+
+"agraffe"
+(¸b·e Œâ®A)
+
+"agrarian"
+% HUMAN
+(É¡»¡ ‹E¦… ¥¸a)
+
+"agrarianism"
+% ART
+(É¡»¡ ‹E¦…¥)
+
+"agreeableness"
+% CONCRETE MATERIAL 
+(¸âÐs)
+
+"agreement"
+% ACTION STATE MIND
+(•··)
+# ^arrive at an agreement (VERB) : Ñs¸÷·¡ ¬÷Ÿ³–A”a
+# ^be in agreement | (VERB) : •··Ða”a
+# ^be in agreement with A (VERB) : [(ADJUNCT A/µÁ) ·©Ã¡Ða<VERB>]/”a
+# ^be in good agreement with A (VERB) :
+	[(ADJUNCT A/µÁ) (MODS [¸i<ADV>]) ·©Ã¡Ða<VERB>]/”a
+# ^be in agreement over A (VERB) : [(ADJUNCT [(COMP A/µA) ”Ða<VERB>]/´á) •··Ða<VERB>]/”a
+# ^be in substantial agreement over A (VERB) :
+[(ADJUNCT [(COMP A/µA) ”Ða<VERB>]/´á) (ADJUNCT [‹¡¥¥¸â<NOUN>]/¡) •··Ða<VERB>]/”a
+# bilateral agreement (NOUN) : °w¢Ñs¸÷
+# bilateral clearing agreement (NOUN) : °w¢¸â ¸÷¬eÑs¸÷
+# by agreement (PP->ADV) : Ðs·¡
+# by mutual agreement (PP->ADV) : Ðs·¡
+# ^come to an agreement (VERB) : Ñs¸÷·¡ ¬÷Ÿ³–A”a
+# ^come to an agreement on A (VERB) : [(ADJUNCT A/µA”Ðe) (OBJ [Ñs¸÷<NOUN>]/·i)  ˜<VERB>]/”a
+# gentleman's agreement (NOUN) : ¯¥¬aÑs¸÷
+# in agreement with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/µÁ) ·©Ã¡Ða<VERB>]/Ðaµa)
+# in good agreement with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/µÁ) (MODS [¸i<ADV>]) ·©Ã¡Ða<VERB>]/Ðaµa)
+# ^make an agreement (VERB) : Ðs·Ða”a
+# ^make an agreement with A (VERB) : [(ADJUNCT A/‰Á) (OBJ [‰´¢<NOUN>]/·i)  ˜<VERB>]/”a
+# peace agreement (NOUN) : ÍwÑÁ Ñs¸÷
+# ^reach an agreement (VERB) : •··Ða”a
+# strategic agreement (NOUN) : ¸åœ¢¸â ¹AÓA
+# three-way agreement (NOUN) : 3¸a Ðs·
+
+"agribusiness"
+% MATERIAL 
+(‘·´ó ‰Åe¬e´ó)
+
+"agrichemical"
+(‘·´¢)
+
+"agriculture"
+% MATERIAL 
+(‘·´ó)
+
+"agriculturist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‘·´ó ¹·¬a¸a)
+
+"agrimony"
+% MATERIAL PLANT
+(»¼¯¥a¢‰)
+
+"agrimotor"
+(‘·‰w¶w Ëaœ‚Èá)
+
+"agro-industry"
+(‘·¬e´ó)
+
+"agrobiology"
+% ART
+(‘·´ó ¬—¢‰Ðb)
+
+"agronomics"
+% ART
+(‘·Ðb)
+
+"agronomist"
+% HUMAN
+(‘·‰wÐb¸a)
+
+"agronomy"
+% ART
+(‘·‰w¤ó)
+
+"agrotechny"
+% ART
+(‘·¬e¢‰ ˆa‰·Ðb)
+
+"ague"
+% CONCRETE MATERIAL STATE
+(Ðb»©)
+
+"ahimsa"
+% ART
+(§¡Í¢b)
+
+"ai"
+% CONCRETE ANIMAL MATERIAL 
+(­A­¥ˆaœba¢“i¥¡)
+
+"aid"
+% CONCRETE MATERIAL 
+(•¡¶‘)
+# aid station (NOUN) : Š‹sÃ¡ža­¡
+# bilateral aid (NOUN) : ·¡Š‚ˆe¶¥¹¡
+# ^call in ONE_S aid (VERB) :  [(OBJ [(POSS ONE/·) •¡¶‘<NOUN>]/·i) À÷Ða<VERB>]/”a
+# ^come to ONE_S aid (VERB) : 
+[(ADJUNCT [(COMP [(OBJ ONE/·i) •³<VERB>]/‹¡) ¶áÐa<VERB>]/´á) µ¡<VERB>]/”a
+# concessional aid (NOUN) : softÐe ¹¡ˆåµA ·Ðe Ñs¹¡
+# first aid (NOUN) : Š‹s Ã¡ža
+# in aid of A (ADV) : (ADJUNCT [(OBJ A/·i) •³‹¡ ¶áÐa<VERB>]/Ðaµa)
+# with the aid of A (ADV) : (ADJUNCT [(POSS A/·) •¡¶‘<NOUN>]/¡)
+# by the aid of A (ADV) : (ADJUNCT [(POSS A/·) •¡¶‘<NOUN>]/¡)
+
+"aide"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦‰Å)
+# Gore aides (NOUN) : ‰¡´á· ¥¡¹Á‰Å
+
+"aide-de-camp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦‰Å)
+
+"aidman"
+% HUMAN
+(¶á¬—¥w)
+
+"aiglet"
+% CONCRETE MATERIAL 
+(¸w¯¢ ®A¦›·¡)
+
+"aigret"
+% CONCRETE MATERIAL ANIMAL
+(¤‚¡)
+
+"aigrette"
+% CONCRETE MATERIAL ANIMAL
+(¤‚¡)
+
+"aiguille"
+% PLACE
+(ªa¹¢ªa¹¢Ðe ¥·¶Ÿ¡)
+
+"aiguillette"
+(¸w¯¢®‰)
+
+"aileron"
+% CONCRETE ANIMAL MATERIAL 
+(¥¡¹¡iˆ)
+
+"ailment"
+% MATERIAL STATE
+(¥w)
+
+"aim"
+% CONCRETE MATERIAL 
+(¡¢¸â)
+# aim and end (NOUN) : Š—‹b· ¡¢Îa
+# attain ONE_S aim (VERB) : ‰a··¡  x”a
+# miss ONE_S aim (VERB) : ‰a··¡ §µaˆa”a
+# take aim (VERB) : ‰a·Ða”a
+# take aim at A (VERB) : [(OBJ A/Ÿi) ‰a·Ða<VERB>]/”a
+# take a good aim (VERB) : ‰a·Ða”a
+# with the aim of doing (ADV) : Ði ¡¢¸â·a¡
+# without aim (ADV) : ¡¢¸â´ô·¡
+
+"aiming"
+(‰a·)
+
+"aimlessness"
+(¡¢¸â·¡ ´ô·q)
+
+"aino"
+% HUMAN
+(´a·¡’)
+
+"ainu"
+% HUMAN
+(´a·¡’)
+
+"air"
+% CONCRETE MATERIAL 
+(‰·‹¡)
+# air base (NOUN) : ‰·Š…‹¡»¡ 
+# air conditioning (NOUN) : µA´áÄå
+# air contamination (NOUN) : ”‹¡µ¡µq
+# air France (NOUN) : µA´á Ïaœw¯a
+# air of excitement (NOUN) : Ów¦…–E ¦…¶á‹¡
+# air letter (NOUN) : Ðw‰·¶Íe
+# air raid (NOUN) : ‰·¯s 
+# air traffic control (NOUN) : Ðw‰·É·¹A
+# air transport (NOUN) : Ðw‰·
+# airs and graces (NOUN) : ´±¸åÐeÁA Ða“e È•¡
+# aristocratic air (NOUN) : Šá¹¢¸â·¥ È•¡
+# ^assume airs (VERB) : ¹EÁAÐa”a
+# ^beat the air (VERB) : Ðá‰··i Ã¡”a
+# ^build CASTLES in the air (VERB) : ‰·¬wµA ¸q‹¡”a
+#' by air | (PP->ADV) : §¡Ð—‹¡¡
+# change of air (NOUN) : ¸å»¡
+# country air (NOUN) : ‰¡¸w· ‰·‹¡
+# float on air (VERB) : ‹¡¨á išá”a
+
+# ^give air to A (VERB) : [(OBJ A/Ÿi) ¤iÎaÐa<VERB>]/”a
+# ^give the air (VERB) : Ð‰¡Ða”a
+# ^get the air (VERB) : ”wÐa”a
+# ^give ONESELF  airs (VERB) : ¹EÁAÐa”a
+# ^go up in the air (VERB) : Ów¦…Ða”a
+# ^grab a handful of air (VERB) : ‹s§aA·¡ÇaŸi ˆé”a # ^hit the air (VERB) : ¤w­·Ða”a # hot air (NOUN) : µi‹¡
+#' in the air $ (PP->ADV) : ‰·º—µA¬á
+# in the open air $ (PP->ADV) : µ¢¶AµA
+#' off the air (PP->ADV) : ¤w­· –A»¡ ´g“e
+#' on air (PP->ADV) : ·‹¡ ´·´·Ðaµa
+# || on the air | (SENT) : ¤w­·º—
+#' on the air (PP->ADV) : ¤w­·º—
+# ^put on airs (VERB) : ©±”a
+# ^take the air $ (VERB) : ¶AÂ‰Ða”a
+# ^take to the air $ (VERB) : ¤w­·Ða”a
+# ^tread on air $ (VERB) : ‹¡¨á išá”a
+# ^walk on air $ (VERB) : ‹¡¨á išá”a
+# up in the air $ (PP->ADV) : ‰·º—µA
+# with an air $ (PP->ADV) : ¸a¯¥·¶‰A
+# with a sad air $ (PP->ADV) : Ïi·¡ º‚´á
+
+"air-bridge"
+(‰·º— ˆaŠa)
+
+"air-conditioning"
+% CONCRETE ANIMAL MATERIAL 
+(‰·‹¡ ¹¡¸é —¤w ¸wÃ¡)
+
+"air-cooling"
+% ART
+(‰·‹¡ —ˆb¤ó)
+
+"air-freight"
+(Ðw‰·”¢‰)
+
+"air-raid"
+(‰·¯s)
+
+"airbag"
+(µA´á¤‚)
+
+"airball"
+(µA´á¥©)
+
+"airboat"
+(Ïa¡ÍIœá ¥¡¶Ëa)
+
+"airbrush"
+(µA´á§aœá¯¡)
+
+"airbus"
+(µA´á¤á¯a)
+
+"aircast"
+(¤w­·)
+
+"aircraft"
+% CONCRETE MATERIAL 
+(Ðw‰·‹¡)
+
+"aircraftman"
+% HUMAN
+(Ðw‰·¥w)
+
+"aircraftsman"
+% HUMAN
+(Ðw‰·¥w)
+
+"aircrew"
+% HUMAN
+(Ðw‰·‹¡ Ès¯w¶¥)
+
+"airdrome"
+% CONCRETE ANIMAL MATERIAL PLACE
+(§¡Ð—¸w)
+
+"airdrop"
+(‰·º— ÊÐa)
+
+"airedale"
+(µA´á•A·©)
+
+"airer"
+(ˆå¹¡ ¸wÃ¡)
+
+"airfare"
+(Ðw‰· ¶a‹q)
+
+"airfield"
+% CONCRETE ANIMAL MATERIAL PLACE
+(§¡Ð—¸w)
+
+"airfight"
+(‰·º—¸å)
+
+"airflow"
+% MATERIAL 
+(‹¡ŸA)
+
+"airfoil"
+% CONCRETE ANIMAL MATERIAL 
+(iˆ)
+
+"airframe"
+(‹¡ÁA)
+
+"airfreight"
+(ÑÁ¢‰ ‰·®)
+
+"airfreighter"
+(ÑÁ¢‰ ®­·‹¡)
+
+"airglow"
+(´¡‰×)
+
+"airgraph"
+(Ðw‰· Â‚¬a ¶Íe)
+
+"airhead"
+(bÐa Ša–¥¡)
+
+"airiness"
+% CONCRETE MATERIAL 
+(ÑÅ‹¡ˆa ¸i –Q)
+
+"airing"
+% CONCRETE MATERIAL 
+(‰·‹¡µA ²A‹¡)
+
+"airlift"
+(‰·º— ¥¡‹s)
+
+"airline"
+% CONCRETE MATERIAL 
+(¸÷‹¡Ðw‰·)
+# airline Swiss (NOUN) : ¯a¶á¯aÐw‰·
+
+"airliner"
+% CONCRETE ANIMAL MATERIAL 
+(Ðw‰·‹¡)
+
+"airmail"
+(Ðw‰· ¶Íe)
+
+"airman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(§¡Ð—¬a)
+
+"airmanship"
+% ART
+(§¡Ð—®‰)
+
+"airometer"
+(´·‹¡‰)
+
+"airpart"
+% PLACE
+(­¡§¡Ð—¸w)
+
+"airplane"
+% CONCRETE MATERIAL 
+(§¡Ð—‹¡)
+
+"airplank"
+(¤iÌe)
+
+"airport"
+% CONCRETE MATERIAL PLACE
+(‰·Ðw)
+# international airport (NOUN) : Š‚¹A‰·Ðw
+# national airport (NOUN) : Š‚¹A‰·Ðw
+
+"airscape"
+(‰·º— ¦ˆq•¡)
+
+"airscrew"
+% CONCRETE ANIMAL MATERIAL 
+(Ïa¡ÍIœá)
+
+"airshed"
+% PLACE
+(Ðw‰·‹¡ ‰bs‰¡)
+
+"airship"
+% CONCRETE ANIMAL MATERIAL 
+(§¡Ð—¬å)
+
+"airsickness"
+% MATERIAL 
+(Ðw‰·¥w)
+
+"airspace"
+(µw‰·)
+
+"airspeed"
+(Ðw­¢)
+
+"airstrike"
+(‰·¯s)
+
+"airstrip"
+% CONCRETE ANIMAL MATERIAL PLACE
+(ˆa¬é ÑÉº¡)
+
+"airwave"
+(‰·º—Ìa)
+
+"airway"
+% CONCRETE MATERIAL
+(Ðw‰·¡)
+# airway bill (NOUN) : Ðw‰·»wŠ¥
+# the Imperial Airways (NOUN) : µwŠ‚ Ðw‰· ÒA¬a
+
+"airwoman"
+% HUMAN
+(µaŸA §¡Ð—¬a)
+
+"airworthiness"
+% STATE
+(Ðw¬÷)
+
+"aisle"
+% CONCRETE MATERIAL PLACE
+(É·¡)
+
+"ait"
+% PLACE
+(ˆw ­¢· ¸b·e ¬ñ)
+
+"aithbone"
+% ANIMAL
+(¥©‹¡©a)
+
+"ala"
+% ANIMAL
+(iˆ)
+
+"alabaster"
+% CONCRETE MATERIAL 
+(¬éÑÁ¬â‰¡)
+
+"alacrity"
+% CONCRETE MATERIAL 
+(£¥ÑÉ)
+# with alacrity (ADV) : £¥ÑÉÓ¡
+
+"alameda"
+% PLACE
+(ˆa¡®‹©)
+
+"alamo"
+% PLANT
+(ì·e·¼ ´·¤á—i)
+
+"alamode"
+(´¬·e ˆñ·e ¡wº)
+
+"alarm"
+% CONCRETE MATERIAL 
+(‰w¥¡)
+# ^give the alarm $ (VERB) : ‰w¥¡Ða”a
+# ^raise an alarm $ (VERB) : ‰w¥¡Ða”a
+#' in alarm $ (ADV) : ‘©œa¬á
+# ^ring the alarm $ (VERB) : ‰w¹··i ¶‰Ÿ¡”a
+# ^take alarm $ (VERB) : Œq¼b ‘©œa”a
+# ^take the alarm $ (VERB) : Œq¼b ‘©œa”a
+
+"alarmism"
+% MIND
+(‹¡¶)
+
+"alarmist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Š…ˆâ¸÷Ða“e ¬aœq)
+
+"alarum"
+(‰w¥¡‹¡)
+# alarums and excursions (NOUN) : eÊ
+
+"alaskan"
+% HUMAN 
+(´iœ¯aÄa ¬aœq)
+
+"alb"
+(¸w¤‚·)
+
+"albacore"
+% CONCRETE ANIMAL MATERIAL 
+(”aœw´á)
+
+"albata"
+(´··e)
+
+"albatross"
+% CONCRETE ANIMAL MATERIAL 
+(‰©ÃµˆáŸ¡)
+
+"albiness"
+% HUMAN 
+(¤‚Ï¡»wµA ˆéŸ¥ µa¸a)
+
+"albinism"
+% MATERIAL STATE
+(Ï¡¦ ¬‚­¡ ‰iÏ³»w)
+
+"albino"
+% HUMAN 
+(¤‚·¥)
+
+"albion"
+(´‰§¡´å)
+
+"albite"
+(¹¡¸w¬â)
+
+"album"
+% CONCRETE MATERIAL 
+(´‰¤ñ)
+
+"albumen"
+% CONCRETE MATERIAL 
+(´i· Ó…¸a¶á)
+
+"albumin"
+% CONCRETE MATERIAL 
+(´i¦£¥)
+
+"albuminoid"
+% CONCRETE MATERIAL 
+(‰w ”e¤‚»©)
+
+"albuminuria"
+% STATE
+(”e¤‚’a»w)
+
+"alburnum"
+(¥e¸)
+
+"alcahest"
+( e¢‰ ·WÑÁ´‚)
+
+"alcaide"
+% HUMAN
+(¶a¬ ¬aw‰Å)
+
+"alcalde"
+% HUMAN
+(¸Ìe‰Å·i ‰qÐe ¯¡¸w)
+
+"alcayde"
+% HUMAN
+(¶a¬ ¬aw‰Å)
+
+"alchemist"
+% HUMAN
+(µe‹q®‰¬a)
+
+"alchemy"
+% MATERIAL 
+(µe‹q®‰)
+
+"alcohol"
+% CONCRETE MATERIAL 
+(´iÅ©)
+
+"alcoholic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´iÅ© º—•¢ ÑÅ¸a)
+# Alcoholics Anonymous (NOUN) : ´iÅ© º—•¢ ¤w»¡ ÑsÒA
+
+"alcoholism"
+% MATERIAL STATE
+(´iÅ© º—•¢)
+
+"alcoholismist"
+% HUMAN 
+(´iÅ© º—•¢ ÑÅ¸a)
+
+"alcoholometer"
+(´iÅ© §¡º—‰)
+
+"alcometer"
+(Âá•¡‰)
+
+"alcoran"
+% ART
+(Å¡œe)
+
+"alcove"
+% CONCRETE MATERIAL 
+(¸b·e ¤w)
+
+"aldehyde"
+% CONCRETE MATERIAL 
+(´i•AÓ¡—a)
+
+"alder"
+% CONCRETE MATERIAL PLANT
+(µ¡Ÿ¡a¢)
+
+"alderman"
+% HUMAN
+(¯¡·ÒA ·¶¥)
+
+"aldermanry"
+% HUMAN
+(¯¡·ÒA ·¶¥»¢)
+
+"alderney"
+% ANIMAL
+(µ¡µ©”á“¡ ¹·· ¸ø­¡)
+
+"aldershot"
+% ORGAN PLACE
+(¥wµw)
+
+"ale"
+% CONCRETE MATERIAL FOOD
+( ‚º)
+
+"aleconner"
+% HUMAN
+(ºŸAˆñ¬a‰Å)
+
+"alegar"
+(µu‹¡ŸqÁ¡)
+
+"alehouse"
+% PLACE
+( ‚º Ñ¡µ©)
+
+"alembic"
+(»wŸA‹¡)
+
+"alert"
+% CONCRETE MATERIAL 
+(‰w‰¡)
+
+"alertness"
+% CONCRETE MATERIAL 
+(§¥Ëq´ô·q)
+
+"aleut"
+% HUMAN
+(´éž¶¬å µi•¡· ¬aœq)
+
+"aleutian"
+% HUMAN
+(´éž¶­e µi•¡· º£¥)
+# the Aleutian Islands (NOUN) : µiž¶­e µi•¡
+
+"alewife"
+% CONCRETE ANIMAL MATERIAL HUMAN
+( ‚º»³ · ´eº·¥)
+
+"alexandrite"
+% MATERIAL 
+(´iB¬e”á ¥¡¬â)
+
+"alexia"
+% MATERIAL STATE
+(•¢¬á ¦‰“w»w)
+
+"alexin"
+(´iB¯¥)
+
+"alexipharmic"
+(Ð•¢¹A)
+
+"alfalfa"
+% CONCRETE MATERIAL PLANT
+(¸aºˆ¸aŸ¡)
+
+"algae"
+% CONCRETE ANIMAL MATERIAL PLANT
+(ÐÁ¡)
+
+"algebra"
+% MATERIAL ART
+(”®Ðb)
+
+"algebraist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(”®Ðb¸a)
+
+"algerian"
+(´i¹AŸ¡´a·)
+
+"algidity"
+(µ¡Ðe)
+
+"algol"
+(´i‰©)
+
+"algologist"
+% HUMAN
+(¹¡ŸAÐb¸a)
+
+"algology"
+% ART
+(¹¡ŸAÐb)
+
+"algometer"
+(É·ˆb‰)
+
+"algonkian"
+% HUMAN
+(´i‰·Ç¡´e ´á¹¢· ¦‚£¡ É¡·¥)
+
+"algonkin"
+% HUMAN
+(´i‰·Ç¡´e ´á¹¢· ¦‚£¡ É¡·¥)
+
+"algonquian"
+% HUMAN
+(´i‰·Ç¡´e ´á¹¢· ¦‚£¡ É¡·¥)
+
+"algonquin"
+(´i‰·Ç¡´e ´á¹¢· ¦‚£¡ É¡·¥)
+
+"algorism"
+(´aœa§¡´a¯¢ ‹¡®¤ó)
+# cipher in algorism (NOUN) : µw
+
+"algorithm"
+% MATERIAL ART
+(´i‰¡Ÿ¡»q)
+
+"alguazil"
+% HUMAN 
+(‰wÀi‰Å)
+
+"algum"
+(¤‚”e)
+
+"alias"
+% MATERIAL 
+(¥i¡w)
+
+"alibi"
+% CONCRETE MATERIAL 
+(´iŸ¡¤a·¡)
+
+"alidad"
+(¯¡º…·)
+
+"alidade"
+(¯¡º…·)
+
+"alien"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¶AŠ‚·¥)
+# alien property (NOUN) : ¶AŠ‚·¥¸¬e
+# ailen tax (NOUN) : ¶AŠ‚·¥·³Š‚­A
+
+"alienability"
+(´·•¡ ˆa“w¬÷)
+
+"alienage"
+(¶AŠ‚·¥·±)
+
+"alienation"
+% MATERIAL 
+(˜a•©Ÿ±)
+
+"alienator"
+% HUMAN
+(­¡¶A¤h“e ¬aœq)
+
+"alienee"
+% HUMAN
+(´·®·¥)
+
+"alienism"
+% ART
+(¸÷¯¥¥w µeŠ)
+
+"alienist"
+% HUMAN
+(¸÷¯¥¥w ¸å¢… ·¬a)
+
+"alienor"
+% HUMAN
+(´·•¡·¥)
+
+"alignment"
+% CONCRETE MATERIAL 
+(·©i ¸÷i ¸÷•¥Ðe ¬å ‘¡¬å ¬é¸÷)
+
+"aliment"
+% CONCRETE MATERIAL 
+(µw´·¢‰)
+
+"alimentation"
+(µw´·)
+
+"alimentotherapy"
+(¯¢·¡ ¶a¤ó)
+
+"alimony"
+% MATERIAL 
+(¥iˆá ®”w)
+
+"alinement"
+% MATERIAL 
+(·©i ¸÷i)
+
+"aliped"
+% ANIMAL 
+(·¢¹¢ •·¢‰)
+
+"aliquant"
+% CONCRETE MATERIAL 
+(a’‰ ® ´ô“e ®)
+
+"aliquot"
+% CONCRETE MATERIAL 
+(a’‰ ® ·¶“e ®)
+
+"alizarin"
+(´iŸ¡¸aŸ¥)
+
+"alkahest"
+( e¢‰ ·WÑÁ´‚)
+
+"alkalescence"
+(´iÄiŸ¡¬÷)
+
+"alkali"
+% CONCRETE MATERIAL 
+(´iÄiŸ¡)
+
+"alkalinity"
+(´iÄiŸ¡¬÷)
+
+"alkaloid"
+% CONCRETE MATERIAL 
+(´iÄi¡·¡—a)
+
+"alkanet"
+(´iÄaa)
+
+"alkoran"
+% ART
+(Å¡œe)
+
+"alky"
+(´iÅ¡µ©)
+
+"all"
+(¡¡—e ˆõ)
+# all along (ADV) : »b
+# all and sundry (NOUN) : ˆb¸a ¸å¦
+# all at once (ADV) : ¡¡– •·¯¡µA
+
+# all in all (NOUN) : ¸å¦
+# ^all of A (NOUN) : [(NMODS A) ¸å¦<NOUN>] 
+* [(NMODS A) ¡¡–<NOUN>] 
+* A (~ {+HUMAN})
+# all gone (NOUN) :  »¥
+# all over $ (ADV) : éŸ¡
+# all over the country (PP->ADV) : ¸åŠ‚µA ˆéÁa
+# all over the shop (ADV) : Ñ¥œeÐaµa
+
+# all the further (NOUN) : ‹bb
+# all the rage (ADV) : Ça‰A·AÐ—Ðaµa
+# all the time (ADV) : ‹a¬a·¡ º‚
+# all the way (ADV) : •¡º—
+# all together (ADV) : ¡¡– ÐqA
+# all told (NOUN) : Á·‰
+# all up (ADV) : ¥©¸w ”a¥¡´a
+# at all $ (ADV) : ¸åÑa
+# best of all (NOUN ADV) : 1) ˆa¸w ¹½·e ˆõ 
+                           2) ˆa¸w
+# most of all (ADV) : ¢´õ¥¡”a•¡
+# not at all $ (ADV) : ¸åÑa
+#' for all $ (PP->ADV) : ‹aœñµA•¡ ¦‰ŠÐa‰¡
+# once for all (ADV) : ·¡¤å e
+
+"all-in"
+(eÊ)
+
+"all-inclusive principle"
+(Í¡‰Éº·)
+
+"all-outer"
+% HUMAN
+(Àé¸á ¸÷À‚ ºÀw¸a)
+
+"all-product"
+% CONCRETE MATERIAL
+(¡¡—e ¹AÎ‘)
+
+"all-purpose"
+( e“w)
+# all-purpose balance sheet (NOUN) :  e“w”Àa”¹¡Îa
+# all-round price (NOUN) : Ìa‰b¸â ¸éÐaˆa‰b
+
+"all-rounder"
+% HUMAN
+( e“w· ¬aœq)
+
+"all-time"
+# all-time high (NOUN) : ÂA‰¡‹¡¢
+# all-time low (NOUN) : ÂA¸á‹¡¢
+
+"all-up"
+(¸å§¡ º—œ·)
+
+"allantois"
+(¶a b)
+
+"allegation"
+% CONCRETE MATERIAL 
+(»¥®‰)
+
+"allegiance"
+% CONCRETE MATERIAL MIND
+(Â—¬÷)
+
+"allegorist"
+% HUMAN
+(Î—·Aˆa)
+
+"allegory"
+% CONCRETE MATERIAL 
+(Î—·A)
+
+"allelomorph"
+(¬w”Ñw»©)
+
+"alleluia"
+(ÐiIž´¡)
+
+"allelujah"
+(ÐiIž´¡)
+
+"allemande"
+% CONCRETE MATERIAL 
+(´iA w—a)
+
+"allergy"
+% MATERIAL 
+(´iAŸa‹¡)
+
+"alleviation"
+% CONCRETE MATERIAL 
+(‰wˆq)
+
+"alleviative"
+(‰wˆq ¯¡Ç¡“e ˆõ)
+
+"alleviator"
+% HUMAN
+(‰wˆq ¯¡Ç¡“e ¬aœq)
+
+"alley"
+% CONCRETE MATERIAL ORGAN
+(•· —Š‚)
+
+"alley"
+% CONCRETE MATERIAL 
+(¹³·e‹©)
+# up ONE_S alley (ADJ) : [Âá£¡µA  x<VERB>]/”a
+
+"alleyway"
+% CONCRETE MATERIAL PLACE
+(–õˆáŸ¡)
+
+"allhallows"
+% TIME
+( e¬÷¸é)
+
+"alliance"
+% CONCRETE MATERIAL ORGAN
+(•· —)
+# Alliance for Progress (NOUN) : ¤i¸å·i ¶áÐe •· —
+# the Holy Alliance (NOUN) : ¯¥¬÷ •· —
+# a triple alliance (NOUN) : ¬qŠ‚ •· —
+
+"alligation"
+(Ñ¥Ðs¤ó)
+
+"alligator"
+% CONCRETE ANIMAL MATERIAL 
+(´b´á)
+
+"alliteration"
+% CONCRETE MATERIAL 
+(–¶…)
+
+"allium"
+(Ìa­¢)
+
+"allocation"
+% CONCRETE MATERIAL 
+(¤”w)
+# allocation of resources (NOUN) : ¸a¶¥¤¦…
+
+"allocator"
+% HUMAN
+(¤”w¸a)
+
+"allocution"
+% ACTION
+(Ò…¯¡)
+
+"allodium"
+(µÅ¸å ¬a·A»¡)
+
+"allogamy"
+(ÈaÑÁ®¸÷)
+
+"allomerism"
+(·¡»© •·Ñw)
+
+"allomorphism"
+(•·»© ·¡ÁA)
+
+"allonge"
+(”Ï©)
+
+"allonym"
+(ˆa¡w)
+
+"allopathy"
+(”º— ¶a¤ó)
+
+"allophane"
+(´‰œáÍA·¥)
+
+"allophone"
+(·¡·q)
+
+"allophylian"
+% HUMAN
+(´aŸ¡´e£¹ ­Q´á¹¢µA ­¢Ða»¡ ´g“e ¬aœq)
+
+"allotment"
+% CONCRETE MATERIAL 
+(Ði”w)
+# allotment letter (NOUN) : º¯¢Ði”w É·»¡¸w
+
+"allotrope"
+(•·­¡ÁA)
+
+"allotropism"
+(•·»© ·¡ÁA)
+
+"allotropy"
+(•·»© ·¡ÁA)
+
+"allottee"
+% HUMAN
+(Ði”w·i ¤h“e ¬aœq)
+
+"allover"
+(¸å¡eµA ˆéÃ¥ Àå)
+
+"allowance"
+% CONCRETE MATERIAL 
+(Ðá¶w)
+# allowance demand (NOUN) : ˆtŒc‹¡
+# allowance for price increase (NOUN) : ¢‰ˆa®”w
+# allowance for uncollectable accounts (NOUN) : ”­¥Â—”w
+# allowance for write-offs (NOUN) : ‰i­¥Ði”w‹q
+# an allowance for long service (NOUN) : µe‰·ˆa¥·
+# at no allowance (ADV) : Â—¦…Ó¡
+# family allowance (NOUN) : ˆa¹¢®”w
+# make allowances for A (VERB) : [(OBJ A/·i) Àq¸bÐa<VERB>]/”a
+# retiring allowance (NOUN) : ÊA»¢®”w
+
+"alloy"
+% MATERIAL 
+(Ðs‹q)
+
+"allseed"
+% PLANT
+(Î‰³¡)
+
+"allspice"
+% CONCRETE MATERIAL PLANT FOOD
+(Ï¡¡EÉ¡¶ ‰¡Â)
+
+"allure"
+% CONCRETE MATERIAL MIND
+( b)
+
+"allurement"
+% MATERIAL MIND
+(·AÑ¢)
+
+"allurer"
+% HUMAN
+(·AÑ¢¸a)
+
+"allusion"
+% CONCRETE MATERIAL MIND
+(´q¯¡)
+
+"alluvia"
+(Â—¸âÃw—i)
+
+"alluvion"
+% MATERIAL 
+(—i·¡Ã±)
+
+"alluvium"
+(Â—¸âÃw)
+
+"ally"
+% CONCRETE HUMAN ANIMAL MATERIAL ORGAN
+(•· —Š‚)
+# the Allies (NOUN) : µeÐsŠ‚
+
+"allyl"
+(´iŸ©)
+
+"alma"
+(¢Ó)
+
+"almanac"
+% CONCRETE MATERIAL 
+(µeˆq)
+
+"almandine"
+(Šá¬âŸA¬â)
+
+"almandite"
+(Šá¬âŸA¬â)
+
+"almightiness"
+(¸å“w)
+
+"almirah"
+(µµ¸w)
+
+"almond"
+% CONCRETE MATERIAL PLANT FOOD
+(´a¡¥—a)
+
+"almoner"
+(·ža‰Åe ¬aÒA¥¢»¡¬a)
+
+"almonry"
+(¯¡¢‰ ¦…¤­¡)
+
+"alms"
+% MATERIAL 
+(ŠÑ¡Î‘)
+
+"almsdeed"
+(¸a¬å Ð—¶á)
+
+"almsgiver"
+% HUMAN
+(¸a¬åˆa)
+
+"almsgiving"
+(¸a¬å)
+
+"almshouse"
+(Š§¥¶¥)
+
+"almsman"
+% HUMAN
+(ŠÑ¡Ÿi ¤h“e §¥£¥)
+
+"almswoman"
+% HUMAN
+(ŠÑ¡Ÿi ¤h“e ˆaeÐe µa¸a)
+
+"almug"
+(¤‚”e)
+
+"alnico"
+(´i“¡Å¡)
+
+"aloe"
+(‘¡ÒA)
+
+"aloeswood"
+% PLANT
+(·¥•¡¬e Ð·¡¢)
+
+"aloha"
+% CONCRETE MATERIAL 
+(¬aœw)
+# aloha shirt (NOUN) : ´i¡Ða ¬¡³a
+# the Aloha State (NOUN) : ÐaµÁ·¡º
+
+"aloneness"
+(¶A¡¶‘)
+
+"aloofness"
+% CONCRETE MATERIAL 
+(¢‰Å¯±)
+
+"alopecia"
+% STATE
+(¶¥Ñw Èi¡¡»w)
+
+"alp"
+% CONCRETE MATERIAL PLACE
+(‘¼·e ¬e)
+# alps on alps (NOUN) : ÀóÀóÐe º…¥·
+# the Alps (NOUN) : ´iÏa¯a ¬e ‚
+
+"alpaca"
+% CONCRETE ANIMAL MATERIAL 
+(´iÌaÄa)
+
+"alpenglow"
+(´aÃ±‘©)
+
+"alpenhorn"
+(´iÍEÑ¥)
+
+"alpenstock"
+(»¡Ìw·¡)
+
+"alpha"
+% MATERIAL 
+(´iÌa)
+# Alpha and Omega (NOUN) : Àá·q‰Á {
+# alpha particle (NOUN) : ´iÌa ·³¸a
+# alpha rays (NOUN) : ´iÌa¬å
+# alpha rhythm (NOUN) : ´iÌa Ÿ¡—q
+# alpha wave (NOUN) : ´iÌa Ÿ¡—q
+
+"alphabet"
+% CONCRETE MATERIAL 
+(´iÌa¥U)
+# Korean alphabet (NOUN) : Ðe‹i ¸a¡¡
+# phonetic alphabet (NOUN) : Îa·q ¢…¸a
+
+"alpine"
+% PLANT
+(‰¡¬e ¯¢¢‰)
+
+"alpinist"
+% HUMAN
+(´iÏa¯a —w¬eˆa)
+
+"alps"
+% PLACE
+(´iÏa¯a ¬e ‚)
+
+"alsatian"
+% HUMAN
+(´i¬a¯a ¬aœq)
+
+"also-ran"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(—w®µA —i»¡ ¡µÐe  i)
+
+"alt"
+(´iÉ¡)
+# in alt (ADV) : ‰¡·q·a¡
+
+"altaic"
+(´iÈa·¡ ´á¹¢)
+
+"altair"
+(‰e¶¬÷)
+
+"altar"
+% CONCRETE MATERIAL 
+(¹A”e)
+# lead a woman to the altar (VERB) : ´á˜å µa¸aµÁ ‰iÑ¥Ða”a
+
+"altarpiece"
+(¹A”e· –áÍe)
+
+"altazimuth"
+% CONCRETE ANIMAL MATERIAL 
+(‰w¶á·)
+
+"alterant"
+(¥e»©¹A)
+
+"alteration"
+% CONCRETE MATERIAL 
+(¥e‰w)
+
+"alterative"
+(¥e»©¹A)
+
+"altercation"
+% CONCRETE MATERIAL 
+( i”aÊ‘)
+
+"alternant"
+(Ša” Ðq®)
+
+"alternate"
+% CONCRETE MATERIAL 
+(”Ÿ¡)
+
+"alternation"
+% CONCRETE MATERIAL 
+(ŠaÑ¡)
+# alternation of generations (NOUN) : ­A” Ša¤å
+
+"alternative"
+% MATERIAL 
+(”´e)
+# forgone alternative (NOUN) : ·©¸÷Ðe Ð—•·µA ˜aŸa“e §¡¶w·i ¬w¯©Ðe ”´e
+
+"alternator"
+% CONCRETE ANIMAL MATERIAL 
+(ŠaŸA‹¡)
+
+"althorn"
+(´iÉ¡ Ñ¡Ÿe)
+
+"altimeter"
+% CONCRETE ANIMAL MATERIAL 
+(‰¡•¡‰)
+
+"altimetry"
+(‰¡ˆb Ãbœ·)
+
+"altitude"
+% CONCRETE MATERIAL 
+(‰¡•¡)
+# altitude flight (NOUN) : ‰¡•¡ §¡Ð—
+# altitude record (NOUN) : ‰¡•¡ ‹¡¢
+# altitude sickness (NOUN) : ‰¡‰·¥w
+
+"alto"
+% CONCRETE MATERIAL 
+(´iÉ¡)
+
+"alto-cumulus"
+(‰¡¸â¶…)
+
+"alto-relievo"
+% CONCRETE MATERIAL 
+(‰¡´·ˆb)
+
+"alto-stratus"
+(‰¡Ãw¶…)
+
+"altogether"
+% MATERIAL 
+(¸åÁA)
+
+"altometer"
+(‰¡•¡‰)
+
+"altruism"
+% CONCRETE MATERIAL ART
+(´Èaº·)
+
+"altruismist"
+% HUMAN
+(´Èaº·¸a)
+
+"alum"
+% CONCRETE MATERIAL 
+(¡w¤e)
+
+"alum"
+% CONCRETE MATERIAL HUMAN
+(Ðb¬—)
+
+"alumina"
+% CONCRETE MATERIAL 
+(¤eÉ¡)
+
+"aluminate"
+(´iž£¥¬eµq)
+
+"aluminium"
+% CONCRETE MATERIAL 
+(´iž£¡“Q)
+
+"aluminum"
+% CONCRETE MATERIAL 
+(´iž£¡“Q)
+
+"alumite"
+(´iž a·¡Ëa)
+
+"alumna"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ðb¬—)
+
+"alumnus"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ðb¬—)
+
+"alumroot"
+% PLANT
+(¤ñ· Šá­¢)
+
+"alunite"
+(´iž a·¡Ëa)
+
+"alveolus"
+% CONCRETE MATERIAL 
+(¤é»³ Š ÷)
+
+"alzheimer"
+(´iÃaÐa·¡ á)
+
+"am"
+% TIME
+(µ¡¸å)
+# NUM1 am (NOUN) : [(NMODS [µ¡¸å<NOUN>]) NUM1]
+
+"amadavat"
+% CONCRETE ANIMAL MATERIAL 
+(¤w¶‰¬ §¡®•Ðe ¬)
+
+"amah"
+% HUMAN
+(·A¡¡)
+
+"amalgam"
+(´a iˆq)
+
+"amalgamation"
+% MATERIAL 
+(´a iˆq·a¡  e—i‹¡)
+
+"amalgamator"
+(Ñ¥ÓW‹¡)
+
+"amanuensis"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ï©‹¡¸a)
+
+"amaranth"
+% CONCRETE PLANT MATERIAL 
+(µw¶¥Ó¡ ¯¡—i»¡ ´g“e ¹)
+
+"amaryllis"
+% CONCRETE ANIMAL MATERIAL 
+(´a aŸ©Ÿ¡¯a)
+
+"amasser"
+(Â‚¸â¸a)
+
+"amassment"
+(Â‚¸â)
+
+"amateur"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´a aËA´á)
+# amateur Athletic Union (NOUN) : £¡Š‚ ÁA·BÑsÒA
+# amateur dramatic club (NOUN) : ­¡·¥ µe‹b Çiœó
+# amateur theatricals (NOUN) : ­¡·¥‹b
+
+"amateurishness"
+(´a aÃA´á”a¶‘)
+
+"amateurism"
+(´a aÊ´á µeµ)
+
+"amativeness"
+(Ñ¡¬‚¸â·±)
+
+"amatol"
+(‰¡¬÷“w Í¢´¢)
+
+"amaurosis"
+(Ób¸w)
+
+"amaze"
+% MIND
+(‰w´b)
+
+"amazement"
+% MATERIAL MIND
+(‰w´b)
+# in amazement (ADV) : ”‰w ¯©¬‚Ðaµa
+# to ONE_S amazement (ADV) : ‘©œs‰A•¡
+
+"ambages"
+% PLACE
+(¶ÒA¸â·¥ ‹©)
+
+"ambassador"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(”¬a)
+# ambassador at large (NOUN) : ¢·±­¡ ”¬a
+# ambassador extraordinary and plenipotentiary (NOUN) : Ëb¡w ¸åŠ¥”¬a
+# ordinary ambassador (NOUN) : ÌeŸ¡ ”¬a
+# resident ambassador (NOUN) : ºÀa ”¬a
+# roving ambassador (NOUN) : ®…ÒA ”¬a
+
+"ambassadorship"
+% HUMAN
+(”¬a· »¢)
+
+"ambassadress"
+% HUMAN
+(µa”¬a)
+
+"amber"
+% CONCRETE MATERIAL 
+(Ñ¡¤b)
+# amber fauna (NOUN) : Ñ¡¤b ­¢µA —i´á ·¶“e •·¢‰
+# amber flora (NOUN) : Ñ¡¤b ­¢µA —i´á ·¶“e ¯¢¢‰
+
+"ambergris"
+% CONCRETE MATERIAL 
+(¶wµeÐ·)
+
+"ambiance"
+% MATERIAL 
+(ÑÅ‰w)
+
+"ambidexter"
+(´·®¸s·¡)
+
+"ambidexterity"
+(´·®¸s·¡·±)
+
+"ambience"
+% MATERIAL 
+(ÑÅ‰w)
+
+"ambiguity"
+% CONCRETE MATERIAL 
+(¡¡Ñ¡Ðq)
+
+"ambit"
+(º·)
+
+"ambitendency"
+(¬á¡ ¬w¤e–A“e ‰wÐ·· ‰·¹¥)
+
+"ambition"
+% CONCRETE MATERIAL MIND
+(´¡ w)
+
+"ambitiousness"
+% CONCRETE MATERIAL MIND
+(´¡¯± e eÐq)
+
+"ambivalence"
+% MATERIAL 
+(´·¡e ˆaÃ¡)
+
+"ambiversion"
+% MIND
+(´·Ð· ¬÷‰b)
+
+"amble"
+% MATERIAL 
+(Ãb”¥¡)
+
+"amblyopia"
+(´¢¯¡)
+
+"ambo"
+% CONCRETE MATERIAL 
+(•¢‰w”)
+
+"ambrosia"
+% CONCRETE MATERIAL FOOD
+(¯¥· ·q¯¢)
+
+"ambry"
+(Àe¸w)
+
+"ambsace"
+(¦‰¶…)
+
+"ambucopter"
+(Š‹s¶w ÑIŸ¡Å³Èá)
+
+"ambulance"
+% CONCRETE ANIMAL MATERIAL 
+(Š‹sÀa)
+
+"ambulation"
+(¥¡Ð—)
+
+"ambulatory"
+(¥¢•¡)
+
+"ambuscade"
+( ¥¢)
+
+"ambush"
+% MATERIAL ACTION
+( ¥¢)
+# fall into an ambush (VERB) : ¥¢¥wµA ‰ia—i”a
+# lie in ambush (VERB) :  ¥¢Ða”a
+# hide in ambush (VERB) :  ¥¢Ða”a
+# lay an ambush (VERB) : ¥¢¥w·i –”a
+# make an ambush (VERB) : ¥¢¥w·i –”a
+
+"ambusher"
+% HUMAN
+( ¥¢Ða“e ¬aœq)
+
+"ambushment"
+% ACTION
+( ¥¢)
+
+"ameer"
+% HUMAN
+(ÒAŠaŠ‚· µ×)
+
+"amelioration"
+% MATERIAL 
+(ˆœ·)
+
+"ameliorator"
+% HUMAN
+(ˆœ·¸a)
+
+"amen"
+(´a¡E)
+
+"amenability"
+% CONCRETE MATERIAL 
+(®…¹·)
+
+"amendment"
+% MATERIAL 
+(ˆ¸÷)
+# Eighteenth Amendment (NOUN) : ‹qº¤ó
+# Twenty first Amendment (NOUN) : ‹qº¤ó Í»¡¤ó
+
+"amends"
+% MATERIAL 
+(¥¡¬w)
+# make amends (VERB) : ¥¡¬wÐa”a
+# make amends for (VERB) : ¥¡¬wÐa”a
+
+"amenity"
+% CONCRETE MATERIAL MIND
+(‹¡¦… ¹½·q)
+# exchange amenities (VERB) : ŠaÑÅÐa”a
+# amenity ship (NOUN) : ¶á¢…¬å
+
+"amenorrhoea"
+% STATE
+(¶©‰w ¦‰®…)
+
+"ament"
+% CONCRETE MATERIAL HUMAN
+(¸÷¯¥ ¤b´¢´a)
+
+"amentia"
+% STATE
+(¸÷¯¥ ¤b´¢)
+
+"amerasian"
+% HUMAN
+(£¡Š‚·¥‰Á •·´··¥ˆe· Ñ¥Ñi´a)
+
+"amercement"
+% MATERIAL 
+(¤é‹qÑw)
+
+"america"
+% ORGAN PLACE
+(£¡Š‚)
+
+"american"
+% HUMAN
+(£¡Š‚·¥)
+
+"americana"
+(´a¡AŸ¡Äa¢…Ðå)
+
+"americanism"
+% ART
+(Ã¥£¡º·)
+
+"americanization"
+(£¡Š‚ ŠáÑÁ)
+
+"americanologist"
+% HUMAN
+(£¡Š‚ ¸÷Ã¡ µeŠˆa)
+
+"americanophile"
+% HUMAN
+(£¡Š‚ Àe£¡ˆa)
+
+"americium"
+% CONCRETE MATERIAL 
+(´a¡AŸ¡¯Q)
+
+"amerind"
+% HUMAN
+(´a¡AŸ¡Äa É¡·¥)
+
+"amerindian"
+% HUMAN
+(´a¡AŸ¡Äa É¡·¥)
+
+"amesace"
+(¦‰¶…)
+
+"amethyst"
+% MATERIAL 
+(¸a®¸÷)
+# Oriental Amethyst (NOUN) : ¸a¬‚ ¬aÌa·¡´á
+
+"ametropia"
+(¦¸÷¯¡)
+
+"amharic"
+(´qÐaœa i)
+
+"amiability"
+% CONCRETE MATERIAL MIND
+(Šáµq¬÷)
+
+"amiableness"
+% MIND
+(Šáµq¬÷)
+
+"amianthus"
+(¬â¡e)
+
+"amiantus"
+(¬â¡e)
+
+"amicability"
+% CONCRETE MATERIAL MIND
+(¶Ñ¡)
+
+"amicableness"
+% CONCRETE MATERIAL MIND
+(¶Ñ¡¸â·±)
+
+"amice"
+(ÄaÉ©Ÿ¢Ša· ¬a¹Aˆa ´áŒµA ˆéÃ¡“e Ó… ¬q¥A)
+
+"amide"
+(´a£¡—a)
+
+"amidin"
+(´a£¡—¥)
+
+"amidol"
+(´a£¡•©)
+
+"amigo"
+% HUMAN
+(Ã¥Š)
+
+"amine"
+% CONCRETE MATERIAL 
+(´a£¥)
+
+"amir"
+% HUMAN
+(ÒAŠaŠ‚· µ×)
+
+"amirate"
+% ORGAN PLACE
+(É¡ÒŠ‚)
+
+"amitabha"
+(´a£¡Èa)
+
+"amitosis"
+(¢¬a ¦…µi)
+
+"amity"
+% CONCRETE MATERIAL MIND
+(Ã¥¡¢)
+# in amity (ADV) : ¬a·¡ ¹½‰A
+
+"ammeter"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(¸åŸA‰)
+
+"ammo"
+% CONCRETE ANIMAL MATERIAL 
+(Èe´¢)
+
+"ammon"
+% ART
+(È´·¯¥)
+
+"ammonal"
+(ˆwb Í¢´¢)
+
+"ammonia"
+% CONCRETE MATERIAL 
+(´q¡¡“¡´a)
+
+"ammoniac"
+% CONCRETE MATERIAL 
+(´q¡¡“¡´a ‰¡¢)
+
+"ammonite"
+% ANIMAL
+(´q¡¥ ¹¡ˆ)
+
+"ammonium"
+(´q¡¡“Q)
+
+"ammunition"
+% CONCRETE ANIMAL MATERIAL 
+(Èe´¢)
+# ammunition belt (NOUN) : Èe´¢”
+# ammunition pouch (NOUN) : º á“¡
+# ammunition wagon (NOUN) : Àa
+# ammunition boots (NOUN) : Š…ÑÁ
+# ammunition bread (NOUN) : Š…¶w¨w
+# ammunition hats (NOUN) : Š…¡¡
+# ammunition industry (NOUN) : Š…® ‰·´ó
+
+"amnesia"
+% MATERIAL 
+(‹¡´âb ¬w¯©)
+
+"amnesty"
+% CONCRETE MATERIAL 
+(¬a¡e)
+# Amnesty International (NOUN) : Š‚¹A ¬a¡e ¶á¶¥ÒA
+
+"amnion"
+(´· b)
+
+"amoeba"
+% CONCRETE ANIMAL MATERIAL 
+(´a¡AµA¤a)
+
+"amon"
+% ART
+(È´·¯¥)
+
+"amorce"
+(¸weˆq Š¥Á·· ’A‰Å)
+
+"amorist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ñ¡¬‚ˆa)
+
+"amorousness"
+% MATERIAL 
+(Ñ¡¬‚¸â·±)
+
+"amorphism"
+(¢¸÷Ñw)
+
+"amortisation"
+(¦•·¬e ´·•¡)
+
+"amortization"
+% MATERIAL 
+(¦•·¬e ´·•¡)
+
+"amortizement"
+(¦•·¬e ´·•¡)
+
+"amount"
+% CONCRETE MATERIAL 
+(´·)
+# a large amount of A (NOUN) : [(AMODS [ g<ADJ>]/Ðe) A]
+# about the same amount of A (NOUN) : [(POSS [(AMODS [(MODS [”œ¢<ADV>]) ˆ{<ADJ>]/Ðe) ´·<NOUN>]/·) A]
+# amount brought backward (NOUN) : Ò‹¡¹¡¶©
+# amount brought forward (NOUN) : ¹¡‹¡¹¡¶©
+# amount payable (NOUN) : ­A· ÑÅ¶¥
+# amount receivable (NOUN) : ®Âá‹q
+# approximate amount (NOUN) : ˆ¬e´‚
+# assessed amount (NOUN) : ‹A¸÷´‚
+# great amount of A (NOUN) : [(POSS [(AMODS [´ñÀ÷a<ADJ>]/Ðe) ´·<NOUN>]/·) A]
+# in amount (ADV) : Á·‰¡
+# in large amount $ (PP->ADV) : ”aœ··a¡
+# in tiny amount $ (PP->ADV) : ­¡œ··a¡
+# insured amount (NOUN) : ¥¡Ðñ‹q´‚
+# to the amount of (ADV) : Á·‰Œa»¡
+
+"amour"
+(µe´¬aˆå)
+
+"amp"
+% CONCRETE UNIT MATERIAL 
+(»wÍ¢‹¡)
+
+"amperage"
+(´qÍA´á®)
+
+"ampere"
+% CONCRETE UNIT MATERIAL 
+(´qÍA´á)
+
+"amperemeter"
+(¸åŸA‰)
+
+"ampersand"
+(´‘Ìá¬…—a)
+
+"amphibia"
+% ANIMAL
+(´·¬áŸA)
+
+"amphibian"
+% CONCRETE ANIMAL MATERIAL 
+(´·¬á •·¢‰)
+
+"amphibiology"
+% ART
+(´·¬áŸAÐb)
+
+"amphibole"
+(ˆb¬ñ¬â)
+
+"amphibology"
+(´å´á· ¡¡Ñ¡Ðq)
+
+"amphibrach"
+(”e¸w”e‰b)
+
+"amphicar"
+(®ŸB´·¶w ¸a•·Àa)
+
+"amphigory"
+% CONCRETE MATERIAL 
+(¢·£¡Ða‰¡ ·¢¬i x·e ¢…¸w)
+
+"amphigouri"
+(¢·£¡Ða‰¡ ·¢¬i x·e ¢…¸w)
+
+"amphimixis"
+(´·¬÷ Ñ¥Ðs)
+
+"amphioxus"
+% CONCRETE ANIMAL MATERIAL 
+(ÑÉ·A´á)
+
+"amphiprostyle"
+(´·Ð·¤¯¢)
+
+"amphisbaena"
+% ANIMAL
+(´|–áµA  áŸ¡ˆa ·¶“e ¤‘)
+
+"amphitheater"
+% CONCRETE ANIMAL MATERIAL 
+(¶¥Ñw ‰w‹¡¸w)
+
+"amphitheatre"
+(¶¥Ñw ‰w‹¡¸w)
+
+"amphora"
+% CONCRETE ANIMAL MATERIAL 
+(­¥¸s·¡ˆa –‰ ”iŸ¥ Ðw´aŸ¡)
+
+"ampicillin"
+(´qÏ¡¯©Ÿ¥)
+
+"ampleness"
+% CONCRETE MATERIAL 
+(Î—¦Ðq)
+
+"amplification"
+% CONCRETE MATERIAL 
+(»wÍ¢)
+
+"amplifier"
+% CONCRETE MATERIAL 
+(»wÍ¢‹¡)
+
+"amplitude"
+% CONCRETE MATERIAL 
+(Ça‹¡)
+# amplitude modulation (NOUN) : »¥Í¢ ¥e¹¡
+
+"ampoule"
+% CONCRETE ANIMAL MATERIAL 
+(¸b·e ¥w)
+
+"ampul"
+(¸b·e ¥w)
+
+"ampule"
+% CONCRETE ANIMAL MATERIAL 
+(¸b·e ¥w)
+
+"ampulla"
+% CONCRETE MATERIAL 
+(”e»¡)
+
+"amputation"
+% MATERIAL 
+(¸é”e)
+
+"amputator"
+% HUMAN
+(¸é”e ®®‰¸a)
+
+"amputee"
+% HUMAN
+(¸é”e ®®‰·i ¤h“e ¬aœq)
+
+"amtrac"
+(®ŸB ´·¶w Ëaœ‚Èá)
+
+"amtrac"
+% ORGAN
+(¸åŠ‚ Àé•¡µaˆ‚‰·¬a)
+
+"amulet"
+% CONCRETE MATERIAL 
+(¦¸â)
+
+"amusement"
+% MATERIAL MIND
+(»iˆá¶‘)
+# amusement and restaurant tax (NOUN) : µaÐ—·q¯¢´ó
+# amusement industry (NOUN) : µ¡œb¬e´ó
+
+"amygdala"
+(Íe•¡)
+
+"amyl"
+(´a£©)
+
+"amylase"
+(´a£©œa´a¹A)
+
+"amyloid"
+(´a i¡·¡—a)
+
+"amylopsin"
+(´a£©³¯¥)
+
+"ana"
+% MATERIAL 
+(´á¢)
+
+"anabaptism"
+% ART
+(¸Ã±)
+
+"anabaptist"
+% HUMAN
+(¸Ã±ŠaÌa· Ša•¡)
+
+"anabas"
+(—w¡¢´á)
+
+"anabasis"
+(»¥Š…)
+
+"anabolism"
+% MATERIAL 
+(•·ÑÁ¸b¶w)
+
+"anabranch"
+(»¡ŸA)
+
+"anachronism"
+% MATERIAL ART
+(¯¡” Àbµ¡)
+
+"anachronistic"
+(¯¡”Àbµ¡· ˆå¢‰)
+
+"anacoluthon"
+% CONCRETE MATERIAL 
+(Ìa‰b Š¢…)
+
+"anaconda"
+% CONCRETE ANIMAL MATERIAL 
+(´aaÅ¥”a)
+
+"anacreontic"
+% ART
+(´aaÇaAµ¥ÁA· ¯¡)
+
+"anadem"
+(ÑÁ‰Å)
+
+"anaemia"
+% MATERIAL STATE
+(§¥Ñi»w)
+
+"anaglyph"
+(´»·e ¦¹¡)
+
+"anagram"
+(Àé¸a ¤aŽ‹¡ ‘©·¡)
+
+"anagrammatism"
+(´áŠ· Àé¸a ¤aŽ‹¡)
+
+"analecta"
+(´á¢)
+
+"analects"
+(´á¢)
+
+"analeptic"
+(ˆw¸w¹A)
+
+"analgesia"
+% STATE
+(É·ˆb¬w¯©)
+
+"analgesic"
+% CONCRETE MATERIAL 
+(»¥É·¹A)
+
+"analog"
+(´ai¡‹a)
+# analog type (NOUN) : ´ai¡‹a ÑwÈ
+
+"analogism"
+% ART
+(·AÂ ÂŸ¡)
+
+"analogist"
+% HUMAN
+(·AÂ¥¸a)
+
+"analogousness"
+(·A¬a¬÷)
+
+"analogue"
+% CONCRETE MATERIAL 
+(·A¬a¢‰)
+# analogue type (NOUN) : ´ai¡‹a ÑwÈ
+
+"analogy"
+% CONCRETE MATERIAL 
+(·A¬a)
+# by analogy (ADV) : ·AÂµA ·Ðaµa
+# forced analogy (NOUN) : ¢Ÿ¡Ðe ·AÂ
+
+"analphabetic"
+% HUMAN
+(¢¯¢¸a)
+
+"analysand"
+% HUMAN
+(¸÷¯¥¦…¬â ”¬w¸a)
+
+"analysis"
+% MATERIAL 
+(¦…¬â)
+# aggregate economic analysis (NOUN) : Á·ÁA¸â‰w¹A¦…¬â
+# cost analysis (NOUN) : ¶¥ˆa¦…¬â
+# credit analysis (NOUN) : ¯¥¶w¦…¬â
+# ex-ante and ex-post analysis (NOUN) : ¬a¸å¬aÒ¦…¬â
+# market analysis (NOUN) : ¯¡¸w¦…¬â
+# qualitative analysis (NOUN) : ¸÷¬÷ ¦…¬â
+# quantitative analysis (NOUN) : ¸÷œ· ¦…¬â
+# semantic analysis (NOUN) : ·£¡ ¦…¬â
+# syntactic analysis (NOUN) : Š¢… ¦…¬â
+
+"analyst"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦…¬â¸a)
+# banking analyst (NOUN) : ·eÐ— ¦…¬âˆa
+
+"analytics"
+% ART
+(Ð¬âÐb)
+
+"analyzer"
+% CONCRETE ANIMAL MATERIAL 
+(¦…Ð¸a)
+
+"anamorphosis"
+% CONCRETE MATERIAL 
+(µá¬w)
+
+"ananas"
+% CONCRETE MATERIAL PLANT FOOD
+(Ìa·¥´Ïi)
+
+"ananias"
+% HUMAN
+(ˆá»µ i¸w·¡)
+
+"anapaest"
+% CONCRETE MATERIAL 
+(”e”e¸w‰b)
+
+"anapest"
+% CONCRETE MATERIAL 
+(”e”e¸w‰b)
+
+"anaphora"
+% CONCRETE MATERIAL 
+(Àõ áŸ¡ ´áŠ· ¤e¥¢)
+
+"anaplasty"
+% MATERIAL ART
+(¸÷Ñw¶A‰Á®‰)
+
+"anarch"
+% HUMAN
+(¤eœe· º¡¡¸a)
+
+"anarchism"
+% MATERIAL ART
+(¢¸÷¦ º·)
+
+"anarchy"
+% MATERIAL STATE
+(¢¸÷¦¬wÈ)
+
+"anastigmat"
+(®ÀaŠa¸÷E»a)
+
+"anastomosis"
+% MATERIAL 
+(¸óÐs)
+
+"anastrophe"
+% CONCRETE MATERIAL ART
+(•¡Ã¡¤ó)
+
+"anastrophy"
+% ART
+(•¡Ã¡¤ó)
+
+"anathema"
+% CONCRETE MATERIAL MIND
+(¸áº)
+
+"anathematization"
+(¸áº)
+
+"anatomist"
+% HUMAN
+(Ð¦Ðb¸a)
+
+"anatomy"
+% CONCRETE MATERIAL 
+(Ð¦)
+
+"ancestor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¹¡¬w)
+
+"ancestress"
+% HUMAN
+(µa¸a¹¡¬w)
+
+"ancestry"
+% CONCRETE MATERIAL 
+(¬å¹¡)
+
+"anchor"
+% CONCRETE MATERIAL 
+(”y)
+# be at anchor (NOUN) : Çe ”y
+# lie at anchor (NOUN) : Çe ”y
+# ride at anchor (NOUN) : Çe ”y
+# cast anchor (VERB) : ”y·i Ÿ¡”a
+# drop anchor (VERB) : ”y·i Ÿ¡”a
+# come to anchor (VERB) : ¸÷¤bÐa”a
+# drag cnahor (VERB) : ÎaŸAÐa”a
+# foul anchor (NOUN) : ”y·¡ ´êÑa ·¶“e ”y
+# kedge anchor (NOUN) : ¸b·e ”y
+# let go the anchor (VERB) : ”y·i Ÿ¡”a
+# sheet anchor (NOUN) : §¡¬w¶w Çe ”y
+# weigh anchor (VERB) : ”y·i µ©Ÿ¡”a
+
+"anchorage"
+% MATERIAL 
+(¸÷¤b)
+
+"anchoress"
+% HUMAN
+(µa¸a·e¸a)
+
+"anchoret"
+% HUMAN
+(·e¸a)
+
+"anchorite"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(·e¸a)
+
+"anchovy"
+% CONCRETE ANIMAL MATERIAL 
+(´…Á¡¶§¡)
+# anchovy sauce (NOUN) : ´…Á¡¶§¡ ­¡µ¡¯a
+
+"anchylosis"
+(ŠaÀb)
+
+"anchylosis"
+(ŠaÀb)
+
+"ancient"
+(‹µ¤i)
+
+"ancient"
+% HUMAN
+(‰¡”·¥)
+# the Ancient of Days (NOUN) : Ðaa“±
+# the ancients (NOUN) : ‰¡” ¢…¡w·¥
+
+"ancientness"
+% CONCRETE MATERIAL 
+(µ¡œ–Q)
+
+"ancientry"
+(µ¡œ–Q)
+
+"ancle"
+% ANIMAL
+(¤i¡¢)
+
+"ancon"
+% ANIMAL
+(ÌiŽ‘Ã¡)
+
+"ancress"
+% HUMAN
+(µa¸a·e¸a)
+
+"andante"
+(´e”eÉA¹¡)
+
+"andantino"
+(´e”eË¡‘¡¹¡)
+
+"andesite"
+(´e¬e´q)
+
+"andiron"
+% CONCRETE ANIMAL MATERIAL 
+(¸w¸b¤hÃ±®A)
+
+"androgen"
+% CONCRETE MATERIAL 
+(´e—a¡‰E)
+
+"android"
+% CONCRETE ANIMAL MATERIAL 
+(·¥¹¡·¥ˆe)
+
+"androsterone"
+% CONCRETE MATERIAL 
+(´e—a¡¯aÉA¥)
+
+"anecdotage"
+(·©ÑÁ»³)
+
+"anecdote"
+% CONCRETE MATERIAL 
+(·©ÑÁ)
+
+"anecdotist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(·©ÑÁŸi ·¡´¡‹¡Ða“e ¬aœq)
+
+"anemia"
+% MATERIAL 
+(§¥Ñi»w)
+
+"anemograph"
+(¸a•· Î—b ‹¡¢‰)
+
+"anemometer"
+% CONCRETE ANIMAL MATERIAL 
+(Î—b‰)
+
+"anemometry"
+% MATERIAL 
+(Î—b Ãb¸÷¤ó)
+
+"anemone"
+% CONCRETE ANIMAL MATERIAL 
+(´a‘A¡¡‘A)
+
+"aneroid"
+(´a‘A¡·¡—a À÷¶‰)
+
+"anesthesia"
+% MATERIAL 
+( aÂá)
+
+"anesthetic"
+% CONCRETE MATERIAL 
+( aÂá¹A)
+
+"anesthetist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+( aÂá¬a)
+
+"anesthetization"
+( aÂá¯¡Ç¡‹¡)
+
+"aneurism"
+(•· ‚ŸA)
+
+"aneurysm"
+(•· ‚ŸA)
+
+"anfractuosity"
+(Š‰‰¢)
+
+"angary"
+(§¡¬w»·¶w)
+
+"angel"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Àå¬a)
+# angel cake (NOUN) : Äa¯aÉIœa
+# angel of death (NOUN) : º‚·q· ¬a¸a
+# angel's visit (NOUN) : ¹±Àáœñ ´ô“e ¬a¢‰
+# angel visit (NOUN) : ¹±Àáœñ ´ô“e ¬a¢‰
+# fallen angel (NOUN) : ÈaœbÐe Àå¬a
+# evil angel (NOUN) : ÈaœbÐe Àå¬a
+# Fools rush in where angels fear to tread (SENT) :  
+(DECL [Ðaž•ˆw´a»¡ ¤ñ ¢¬á¶… º‰ ¡¡Ÿa<VERB>]/”a)
+# ONE_S evil angel (NOUN) : ´b a
+# ONE_S good angel (NOUN) : ®Ñ¡¯¥
+# ONE_S guardian angel (NOUN) : ®Ñ¡¯¥
+
+"angeleno"
+% HUMAN
+(¡¯a´…¹IA¯a ¯¡£¥)
+
+"angelfish"
+% CONCRETE ANIMAL MATERIAL 
+(‹bœb´á)
+
+"angelica"
+% CONCRETE MATERIAL 
+(´e¹IŸ¡Äa)
+
+"angelolatry"
+% ART
+(Àå¬a ®—¤)
+
+"angelus"
+% ART
+(¬q¹· ‹¡•¡)
+
+"anger"
+% MATERIAL MIND
+(‘¡µa¶‘)
+# in anger (PP->ADV) : ¬÷a¬á
+# ^put A into anger (VERB) : [(OBJ A/Ÿi) (OCOMP [‘¡µa¶¡Ða<VERB>]/‰A) Ða<VERB>]/”a
+
+"angina"
+% MATERIAL 
+(Ò–µq)
+
+"angiosperm"
+% CONCRETE ANIMAL MATERIAL PLANT
+(Ï¡¸a ¯¢¢‰)
+
+"angle"
+% MATERIAL 
+(ˆb•¡)
+# ^get a new angle on A (VERB) : [(OBJ A/·i) (ADJUNCT [(AMODS [¬<ADJ>]) ‰Å¸ñ<NOUN>]/µA¬á) ¥¡<VERB>]/”a
+# ^use a new angle on A (VERB) : [(OBJ A/·i) (ADJUNCT [(AMODS [¬<ADJ>]) ‰Å¸ñ<NOUN>]/µA¬á) ¥¡<VERB>]/”a
+# take the angle (VERB) : ˆb•¡Ÿi ¸”a
+
+"angle"
+% MATERIAL 
+(c¯¡)
+# brother of the angle (NOUN) : c¯µŠ…
+
+"angle"
+% MATERIAL HUMAN
+(´—‹i¹¢ ¬aœq)
+
+"angledozer"
+(¦‰•¡¶¸á)
+
+"angler"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(c¯µŠ…)
+
+"angles"
+% HUMAN
+(´—‹i¹¢)
+
+"anglesite"
+(Ñ×¬e µe‰×)
+
+"angleworm"
+% CONCRETE ANIMAL MATERIAL 
+(»¡œ÷·¡)
+
+"anglian"
+% HUMAN
+(´—‹i ¬aœq)
+
+"anglic"
+(µw´á· Àé¸aŸi ˆœ·Ðe Š‚¹A ¥¡¹¡´á)
+
+"anglican"
+% HUMAN
+(µwŠ‚ Š‚Ša•¡)
+
+"anglicanism"
+% ART
+(µwŠ‚ ŠaÒAº·)
+
+"anglicism"
+(µwŠ‚Î—)
+
+"anglicist"
+% HUMAN
+(µw´á Ðb¸a)
+
+"angling"
+% MATERIAL 
+(c¯¡»©)
+
+"anglist"
+% HUMAN
+(µwŠ‚Ðb Ðb¸a)
+
+"anglistics"
+% ART
+(µw´áÐb)
+
+"anglo-american"
+% HUMAN
+(µwŠ‚‰ £¡Š‚·¥)
+
+"anglo-catholic"
+% HUMAN
+(µwŠ‚ ÄaÉ©Ÿ¢Ìa)
+
+"anglo-french"
+(´—‹i¡ Ïaœw¯a  i·)
+
+"anglo-indian"
+% HUMAN
+(·¥•¡µA ¬a“e µwŠ‚·¥)
+
+"anglo-saxon"
+% HUMAN
+(´—‹i¡ ¬‚¯e·¥)
+
+"anglo-saxonism"
+% MIND
+(µwŠ‚·¥ ‹¡»©)
+
+"anglomania"
+% MIND
+(µwŠ‚ ¯±Âá)
+
+"anglomaniac"
+% HUMAN
+(µwŠ‚ ¯±Âá¸a)
+
+"anglophil"
+% HUMAN
+(Ã¥µwÌa· ¬aœq)
+
+"anglophile"
+% HUMAN
+(Ã¥µwÌa· ¬aœq)
+
+"anglophobe"
+% HUMAN
+(µwŠ‚·i Ñqµ¡Ða“e ¬aœq)
+
+"anglophobia"
+% MATERIAL MIND
+(µwŠ‚ Ñqµ¡)
+
+"anglophone"
+% HUMAN
+(µw´á ¬a¶w¸a)
+
+"angola"
+% ORGAN PLACE
+(´w‰©œa)
+
+"angora"
+(´w‰¡œa)
+
+"angostura"
+(´w‰¡¯aËaœa ®Ï¡)
+
+"angstrom"
+% CONCRETE UNIT MATERIAL 
+(µ·¯aËa±)
+
+"anguish"
+% MATERIAL MIND
+(‰¡É·)
+# in anguish (ADV) : ‰¡£¥Ðaµa
+
+"angularity"
+% CONCRETE MATERIAL 
+(¡¡q)
+
+"angulation"
+% MATERIAL 
+(¡¡a‰A Ða‹¡)
+
+"anhydrid"
+(¢®¢‰)
+
+"anhydride"
+(¢®¢‰)
+
+"anhydrite"
+(¢® ¬â‰¡)
+
+"anil"
+% CONCRETE MATERIAL PLANT
+(¬á·¥•¡¬e ‰Å¡¢)
+
+"anilin"
+(´a“©Ÿ¥)
+
+"aniline"
+(´a“©Ÿ¥)
+
+"anility"
+(‘¡ w)
+
+"anima"
+(µwÑ¥)
+
+"animadversion"
+% CONCRETE MATERIAL ART
+(§¡Íw)
+
+"animal"
+% CONCRETE ANIMAL MATERIAL 
+(•·¢‰)
+# animal husbandry (NOUN) : Â‚¬e
+# animal spirits (NOUN) : Ñi‹¡
+# land animal (NOUN) : ·B¬w •·¢‰
+# wild animal (NOUN) : ´¡¬— •·¢‰
+# meat-eating animal (NOUN) : ·B¯¢ •·¢‰
+
+"animalcule"
+% CONCRETE ANIMAL MATERIAL 
+(‹b£¡ •·¢‰)
+
+"animalier"
+% HUMAN
+(•·¢‰ÑÁˆa)
+
+"animalism"
+% ART
+(®¶bº·)
+
+"animalist"
+% HUMAN
+(®¶bº·¸a)
+
+"animality"
+(•·¢‰¬÷)
+
+"animalization"
+% MATERIAL 
+(•·¢‰ÑÁ)
+
+"animation"
+% CONCRETE MATERIAL 
+(´“¡¡A·¡­e)
+# with animation (ADV) : µi¯±Ó¡
+
+"animator"
+% HUMAN
+(µA“¡¡A·¡Èá)
+
+"anime"
+% CONCRETE MATERIAL 
+(´a“¡¡A)
+
+"animist"
+% HUMAN
+(¢‰ÑÉ¥ ¯¥¥·¸a)
+
+"animosity"
+% CONCRETE MATERIAL MIND
+(´b·)
+# regional animosity (NOUN) : »¡µbˆq¸÷
+
+"animus"
+% MATERIAL MIND
+(´b·)
+
+"anion"
+% CONCRETE MATERIAL 
+(·q·¡µ¥)
+
+"anise"
+% CONCRETE MATERIAL PLANT
+(´a“¡¯a)
+
+"aniseed"
+% CONCRETE MATERIAL PLANT
+(´a“¡¯a µi )
+
+"anisette"
+% CONCRETE MATERIAL 
+(´a“¡¯a ®‰)
+
+"anker"
+(´—Äá)
+
+"ankle"
+% CONCRETE MATERIAL 
+(¤i¡¢)
+
+"anklebone"
+% CONCRETE MATERIAL ANIMAL
+(¥¢¬a©a)
+
+"anklet"
+% CONCRETE MATERIAL 
+(¤i¡¢ ¸w¯¢)
+
+"ankylosis"
+(ŠaÀb)
+
+"anna"
+(´á)
+
+"annalist"
+% HUMAN
+(µe”‹¡ Íe¸a)
+
+"annals"
+% CONCRETE MATERIAL 
+(µe”‹¡)
+
+"annamese"
+% HUMAN
+(´eq·¥)
+
+"annamite"
+% HUMAN
+(´eq·¥)
+
+"annates"
+(¬÷»¢ Âá·± Ò· ÀõÐ ®·³)
+
+"annealing"
+% MATERIAL 
+(”ee)
+
+"annex"
+% CONCRETE MATERIAL 
+(¦ˆa¢‰)
+
+"annexation"
+% MATERIAL 
+(Ðs¥w)
+
+"annexe"
+(¦ˆa¢‰)
+
+"annihilation"
+% MATERIAL 
+(¸å¡i)
+
+"annihilator"
+% HUMAN
+(¡i¹·¸a)
+
+"anniversary"
+% CONCRETE TIME MATERIAL 
+(‹¡‘q·©)
+
+"annotation"
+% CONCRETE MATERIAL 
+(º¬â)
+
+"annotator"
+% HUMAN
+(º¬â¸a)
+
+"announcement"
+% CONCRETE MATERIAL 
+(‰·‰¡)
+# press announcement (NOUN) :  ¯aÄñ ¤iÎa
+
+"announcer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´aa¶…¬á)
+
+"annoy"
+(¬÷ˆa¯±)
+
+"annoyance"
+% MATERIAL 
+(¬÷ˆa¯±)
+# put a person to annoyance (VERB) : eÀáÐa‰A Ða”a
+# to ONE_S annoyance (ADV) : eÀáÐa‰A•¡
+
+"annual"
+% CONCRETE MATERIAL PLANT
+(·©‘e¬— ¯¢¢‰)
+# hardly annual (NOUN) : µ¥¯©·¡ Ï©¶a ´ô“e ¯¢¢‰
+
+"annuitant"
+% HUMAN
+(µe‹q®w¸a)
+
+"annuity"
+% MATERIAL 
+(µe‹q)
+# annuity for life (NOUN) : ¹·¯¥µe‹q
+# annuity in possession (NOUN) : »¢¯¡¦‰µe‹q
+# annuity in reversion (NOUN) : ˆáÃ¡µe‹q
+# annuity insurance (NOUN) : µe‹q¥¡Ðñ
+
+"annulet"
+% CONCRETE MATERIAL 
+(¸b·e ‰¡Ÿ¡)
+
+"annulment"
+% MATERIAL 
+(Âá­¡)
+
+"annulus"
+% MATERIAL 
+(‰¡Ÿ¡)
+
+"annum"
+% TIME
+(Ð)
+# per annum (ADV) : Ðe ÐµA
+
+"annunciation"
+(Í¡‰¡)
+# the Annunciation (NOUN) : ¬÷ ®È ‰¡»¡· Â‚¹A·©
+
+"annunciator"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(É·‰¡¸a)
+
+"anode"
+% CONCRETE ANIMAL MATERIAL 
+(´·‹b)
+
+"anodyne"
+% CONCRETE MATERIAL
+(»¥É··)
+
+"anointment"
+% MATERIAL 
+(‹¡Ÿq·i ¤aŸa‹¡)
+
+"anomalism"
+(¥eÃ¢)
+
+"anomaly"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¥eÃ¢)
+
+"anomie"
+% CONCRETE MATERIAL STATE 
+(¬aÒA¸â ¢»©¬á)
+
+"anonym"
+% MATERIAL 
+(·¢¡w)
+
+"anonymity"
+(·¢¡w)
+
+"anonymousness"
+(·¢¡w)
+
+"anopheles"
+% ANIMAL
+(´a‘¡ÍIA¯a ¡¡‹¡)
+
+"anorak"
+% CONCRETE ANIMAL MATERIAL 
+(´a‘¡œb)
+
+"anorexia"
+% STATE
+(¯¢¶bˆqÊA)
+
+"anosmia"
+% MATERIAL STATE 
+(¢Òˆb)
+
+"anoxia"
+% MATERIAL STATE 
+(¢¬e­¡»w)
+
+"anschluss"
+(‰iÐs)
+
+"answer"
+% CONCRETE MATERIAL 
+(””s)
+# give an answer (VERB) : ””sÐa”a
+# give an answer to (VERB) : ””sÐa”a
+# in answer to A (ADV) : (ADJUNCT [(COMP A/µA) ””sÐa<VERB>]/Ðaµa)
+# know all the answers (VERB) :  áŸ¡ˆa ¹½”a
+# make an answer (VERB) : ””sÐa”a
+# make an answer to (VERB) : ””sÐa”a
+
+"answerer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ÒA”s¸a)
+
+"ant"
+% CONCRETE ANIMAL MATERIAL 
+(ˆ£¡)
+# have ants in ONE_S pants (VERB) : ¦‰´e·a¡ ´e¸é¦¸é ¡µÐa”a
+
+"antacid"
+(¬e º—ÑÁ¢‰)
+
+"antagonism"
+% CONCRETE MATERIAL MIND
+(¸âˆ¯±)
+
+"antagonist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¸â”¸a)
+
+"antalkail"
+(´iÄiŸ¡ º—ÑÁ¹A)
+
+"antarctic"
+% PLACE
+(q‹b)
+
+"antarctica"
+% PLACE
+(q‹b”ŸB)
+
+"antarctican"
+% HUMAN
+(q‹b ¬aœq)
+
+"ante"
+% MATERIAL 
+(¬¡ ÌŸi ¤h‹¡¸åµA ˆá“e •¥)
+
+"anteater"
+% ANIMAL
+(ˆ£¡Ðn‹¡)
+
+"antecedence"
+% CONCRETE MATERIAL 
+(´|¬ñ)
+
+"antecedency"
+% CONCRETE MATERIAL 
+(´|¬ñ)
+
+"antecedent"
+% CONCRETE MATERIAL HUMAN
+(¬åÐ—¸a)
+
+"antechamber"
+% CONCRETE ANIMAL MATERIAL 
+(”‹¡¯©)
+
+"antechapel"
+(µ¤”w ”‹¡¯©)
+
+"antedate"
+% TIME
+(¯©¹A¥¡”a ´|¬å i¼a)
+
+"antediluvian"
+% HUMAN
+(”Ñ·® ·¡¸å· ¬aœq)
+
+"antelope"
+% CONCRETE ANIMAL MATERIAL 
+(µw´·)
+
+"antenna"
+% CONCRETE ANIMAL MATERIAL 
+(´eÉAa)
+# antenna circuit (NOUN) : ´eÉAa ÒA¡
+# antenna mine (NOUN) : Á¢ˆb ‹¡žA
+
+"antennule"
+(¸b·e Á¢ˆb)
+
+"antependium"
+(¸w¯¢ Äá¤á)
+
+"antepennult"
+(´á£¡µA¬á ­A¤å¼ ·q¸é)
+
+"antepenultimate"
+(´á£¡µA¬á ­A¤å¼ ·q¸é)
+
+"anteriority"
+% CONCRETE MATERIAL 
+(´|¬ñ)
+
+"anteroom"
+% CONCRETE ANIMAL MATERIAL 
+(‰{¤w)
+
+"antetype"
+(¶¥Ñw)
+
+"anthelion"
+(ÑÅ·©)
+
+"anthelmintic"
+(ŠÂ—¹A)
+
+"anthem"
+% CONCRETE MATERIAL 
+(¬÷ˆa)
+# National Anthem (NOUN) : Š‚ˆa
+# national anthem (NOUN) : Š‚ˆa
+# the Royal Anthem (NOUN) : µwŠ‚ Š‚ˆa
+
+"anther"
+% CONCRETE MATERIAL 
+(´¢)
+
+"anthologist"
+% HUMAN
+(¡w¯¡¬å Íe»³¸a)
+
+"anthology"
+% CONCRETE MATERIAL ART
+(¡w¯¡¬å»³)
+
+"anthotaxy"
+(ÑÁ¬á)
+
+"anthozoa"
+% ANIMAL ART
+(ÑÁÂ—ŸA)
+
+"anthracene"
+(´eËaœa­E)
+
+"anthracite"
+% CONCRETE MATERIAL 
+(¢µeÈe)
+
+"anthrax"
+% MATERIAL 
+(§¡Èi¸á)
+# ingaled anthrax (NOUN) : Ñ¡Ós‹¡ Èe¸á¥w
+
+"anthropogenesis"
+% ART
+(·¥ŸA ¤i¬—¥)
+
+"anthropography"
+% ART
+(·¥ŸA»¡)
+
+"anthropoid"
+% CONCRETE ANIMAL MATERIAL 
+(·A·¥¶¥)
+
+"anthropologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(·¥ŸAÐb¸a)
+
+"anthropology"
+% MATERIAL ART
+(·¥ŸAÐb)
+
+"anthropometry"
+% ART
+(·¥ÁA Ãb¸÷Ðb)
+
+"anthropomorphism"
+% MATERIAL 
+(··¥ÑÁ)
+
+"anthropomorphist"
+% HUMAN
+(¯¥·¥ •·Ñw¥¸a)
+
+"anthropophagi"
+% HUMAN
+(¯¢·¥¹¢)
+
+"anthropophagy"
+(¯¢·¥· Î—¯s)
+
+"anthropotomy"
+% ART
+(·¥ÁA Ð¦Ðb)
+
+"anti"
+(¤e”¸a)
+
+"anti-art"
+% ART
+(¤eµ®‰)
+
+"anti-communism"
+% ART
+(¤e‰·)
+
+"anti-communist"
+% HUMAN
+(¤e‰·º·¸a)
+
+"anti-icer"
+(§·‰i ¤w»¡ ¸wÃ¡)
+
+"anti-imperialism"
+% ART
+(¤e¹AŠ‚º·)
+
+"anti-imperialist"
+% HUMAN
+(¤e¹AŠ‚º· ¸a)
+
+"anti-oxidant"
+(¬eÑÁ ¤w»¡¹A)
+
+"anti-roman"
+% ART
+(´wË¡¡ w)
+
+"anti-sabbatarian"
+% HUMAN
+(´e¯¢·© ¤e”¸a)
+
+"anti-semite"
+% HUMAN
+(­Q¹¢ ¤Àâ¸a)
+
+"anti-semitic"
+(·A”·¥·i ¤ÀâÐa“e)
+
+"anti-semitism"
+% ART
+(·A”·¥ ¤Àâº·)
+
+"anti-terroism"
+(¤eÉAœáº·)
+
+"antiabortion"
+(bÈ ‹q»¡)
+
+"antiabortionist"
+% HUMAN
+(bÈ ¤e”¥¸a)
+
+"antibiotic"
+% CONCRETE MATERIAL 
+(Ðw¬—¢‰»©)
+
+"antibody"
+% CONCRETE MATERIAL 
+(Ðw•¢­¡)
+
+"antic"
+% MATERIAL 
+(·¢¬i x·e ˆá•·)
+# play antics (VERB) : ·¢¬i ¦Ÿ¡”a
+
+"anticancer"
+(Ðw´q)
+
+"anticathode"
+(”·q‹b)
+
+"antichrist"
+% HUMAN
+(‹aŸ¡¯a•¡· ¸â)
+
+"antichristian"
+% HUMAN
+(‹aŸ¡¯a•¡ ¤e”¸a)
+
+"anticipant"
+% HUMAN
+(µ¬w¸a)
+
+"anticipation"
+% MATERIAL 
+(‹¡”)
+# in anticipation (PP->ADV) : £¡Ÿ¡
+# in anticipation of (PP->ADV) : (ADJUNCT [(OBJ A/Ÿi) µ‰eÐa<VERB>]/Ðaµa)
+
+"anticipator"
+% HUMAN
+(µ¬w¸a)
+
+"anticlericalism"
+% ART
+(ŠaŠ¥ ¤e” º·)
+
+"anticlimax"
+% CONCRETE MATERIAL 
+(¸ñˆw¤ó)
+
+"anticline"
+(¤¬a)
+
+"anticoagulant"
+(Ðw ·w‰¡¹A)
+
+"anticyclone"
+% MATERIAL 
+(·¡¯± ¬åÎ—)
+
+"antidepressant"
+(Ðw´â¶‰¹A)
+
+"antidiphtheritic"
+(—¡ÏaÉAŸ¡´a º¬a¹A)
+
+"antidote"
+% CONCRETE MATERIAL 
+(Ð•¢¹A)
+
+"antiestablishmentarian"
+% HUMAN
+(¤eÁA¹Aº·¸a)
+
+"antifebrile"
+(Ðµi¹A)
+
+"antifederalism"
+% ART
+(¤eµe¤wº·)
+
+"antifederalist"
+% HUMAN
+(¤eµe¤wº·¸a)
+
+"antifreeze"
+(¦•·¹A)
+
+"antifriction"
+(ˆq a¸)
+
+"antigen"
+% CONCRETE MATERIAL 
+(Ðw¶¥)
+
+"antigravity"
+(¤eº—b)
+
+"antihelix"
+(”·¡ŸE)
+
+"antihero"
+% HUMAN
+(º·¥‰·”s»¡ ´g·e º·¥‰·)
+
+"antihistamine"
+% CONCRETE MATERIAL 
+(Ðw Ó¡¯aÈa£¥¹A) 
+
+"antiknock"
+(´…Ë¡‘¢¹A)
+
+"antilogy"
+(¸a‹¡ ¡¡®…)
+
+"antimacassar"
+% CONCRETE ANIMAL MATERIAL 
+(·¸a· —w³¶ˆ)
+
+"antimask"
+( bˆe· ‰×”‘©·¡)
+
+"antimasque"
+( bˆe· ´áŸµ‰×” ·¢¬i)
+
+"antimatter"
+(¤e¢‰»©)
+
+"antimilitarism"
+% ART
+(¤e Š…Š‚º·)
+
+"antimilitarist"
+% HUMAN
+(¤e Š…Š‚º·¸a)
+
+"antimonarchist"
+% HUMAN
+(Š…º ¸÷Ã¡ ¤e”¸a)
+
+"antimonsoon"
+(¤e” ‰¸éÎ—)
+
+"antimony"
+% CONCRETE MATERIAL 
+(´eË¡¡¥)
+
+"antineuralgic"
+(¯¥‰wÉ·´¢)
+
+"antineutron"
+(¤eº—¬÷¸a)
+
+"antinomian"
+% HUMAN
+(¯¥´w »¡¬wº·¸a)
+
+"antinomy"
+(·¡·I ¤¤e)
+
+"antinovel"
+% ART
+(´wË¡¡ w)
+
+"antipasto"
+% CONCRETE MATERIAL 
+(¸åÀ)
+
+"antipathy"
+% MATERIAL 
+(¤eˆq)
+
+"antiphlogistic"
+(­¡µq¹A)
+
+"antiphlogistine"
+(­¡µq‰¡)
+
+"antiphon"
+% CONCRETE MATERIAL 
+(·w”s ­·ˆa)
+
+"antiphonal"
+% CONCRETE MATERIAL 
+(Ša­· »³)
+
+"antiphonary"
+% CONCRETE MATERIAL 
+(Ša­· »³)
+
+"antiphony"
+% CONCRETE MATERIAL 
+(·w”s ­·ˆa)
+
+"antiphrasis"
+% CONCRETE MATERIAL 
+(´á· µb¶w)
+
+"antipode"
+% CONCRETE MATERIAL 
+(¸÷¤e”· ˆõ)
+
+"antipodes"
+% CONCRETE MATERIAL 
+(”Àâ»¡)
+
+"antipole"
+(¤e”· ‹b)
+
+"antipolitics"
+% ART
+(¤e¸÷Ã¡)
+
+"antipope"
+% HUMAN
+(”Ÿ³ ŠaÑ×)
+
+"antipoverty"
+(§¥‰¥ ÊAÃ¡)
+
+"antiproton"
+(¤e´·¸a)
+
+"antipyretic"
+% CONCRETE MATERIAL 
+(Ðµi¹A)
+
+"antipyrin"
+(´eË¡Ï¡Ÿ¥)
+
+"antipyrine"
+(´eË¡Ï¡Ÿ¥)
+
+"antiquarian"
+% HUMAN
+(‰©•·Î‘ ®»³ˆa)
+
+"antiquarianism"
+(‰©•·Î‘ ®»³¥b)
+
+"antiquary"
+% HUMAN
+(‰©•·Î‘ µeŠˆa)
+
+"antique"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰¡¢‰)
+
+"antiqueness"
+(‰¡Î—)
+
+"antiquity"
+% CONCRETE MATERIAL 
+(µ¡œ–Q)
+
+"antirrhinum"
+% MATERIAL 
+(‹q´áÁ¡)
+
+"antirust"
+(‘¢ ¤w»¡¹A)
+
+"antiscorbutic"
+(ŠAÑi¥w ËbÒa´¢)
+
+"antisepsis"
+% MATERIAL 
+(¤w¦¤ó)
+
+"antiseptic"
+% CONCRETE MATERIAL 
+(¤w¦¹A)
+
+"antiserum"
+% CONCRETE MATERIAL 
+(ÐwÑiÀ÷)
+
+"antislavery"
+% ART
+(‘¡µ¹A•¡ ¤e”)
+
+"antisocialist"
+% HUMAN
+(¤e¬aÒAº·¸a)
+
+"antispasmodic"
+(»¥‰w¹A)
+
+"antistrophe"
+(”¹¡´b¸é)
+
+"antithesis"
+% CONCRETE MATERIAL 
+(”¹¡)
+
+"antitoxin"
+% CONCRETE MATERIAL 
+(Ðw•¢­¡)
+
+"antitrade"
+(µbÐwÎ—)
+
+"antitype"
+(¶¥Ñw)
+
+"antiworld"
+(¤e­A‰)
+
+"antler"
+% CONCRETE MATERIAL 
+(ˆa»¡»¥ ª‰)
+
+"antonomasia"
+(ÑÅÃ·)
+
+"antonym"
+% MATERIAL 
+(¤e” i)
+
+"antre"
+% PLACE
+(•·Š‰)
+
+"antrum"
+(‰·•·)
+
+"antu"
+(´…Ê)
+
+"anuran"
+% CONCRETE ANIMAL MATERIAL 
+(´á“Aœå)
+
+"anus"
+% CONCRETE MATERIAL ANIMAL
+(Ðw¢…)
+
+"anvil"
+% CONCRETE MATERIAL 
+(¡¡ž)
+
+"anxiety"
+% MATERIAL MIND
+(‹e¯±)
+
+"anybody"
+(’Š)
+
+"anyone"
+% HUMAN ANIMAL
+(’Š)
+
+"anything"
+(´á˜áÐe ˆõ)
+# ^get anything to do with A (VERB) : [(ADJUNCT A/µÁ) (MODS [´¢ˆe<ADV>]) (COMP [¬w‰Å<NOUN>]/·¡) ·¶<VERB>]/”a
+
+"anzac"
+(´e¸b Š…”e)
+
+"aorist"
+(¦¸÷‰Áˆá)
+
+"aorta"
+% CONCRETE MATERIAL ANIMAL
+(”•· ‚)
+
+"aoudad"
+% CONCRETE ANIMAL MATERIAL 
+(´¡¬—· ´·)
+
+"apache"
+% HUMAN
+(ŒwÌ)
+# apache dance (NOUN) : eÍ¢Ða‰A Â“e Â‘
+
+"apache"
+% HUMAN ORGAN
+(´aÌaÃ¡ ¹¢)
+
+"apanage"
+% PLACE
+(µw»¡)
+
+"aparejo"
+(‹© a)
+
+"apartheid"
+% MATERIAL ART
+(·¥¹·Àa¥i)
+
+"apartment"
+% CONCRETE MATERIAL PLACE
+(´aÌaËa)
+
+"apartotel"
+% PLACE
+(´aÌaËa¯¢ Ñ¡ÉI)
+
+"apathy"
+% CONCRETE MATERIAL MIND
+(—”q)
+# ^have an apathy to A (VERB) : [(ADJUNCT A/µA) —”qÐa<VERB>]/”a
+
+"apatite"
+% CONCRETE MATERIAL 
+(·¥ÒA¬â)
+
+"ape"
+% CONCRETE ANIMAL MATERIAL 
+(¶¥®—·¡)
+# lead apes in hell (VERB) : ·©¬— •¢¯¥·a¡ ¬i”a
+# play the ape (VERB) : ÓW”a
+# say an ape's paternoster (VERB) : Â¶¡¬á ”é”é˜é”a
+
+"apercu"
+% CONCRETE MATERIAL 
+(º‰ˆáŸ¡)
+
+"aperient"
+(Ða¹A)
+
+"aperitif"
+% CONCRETE MATERIAL 
+(¤eº)
+
+"aperture"
+% CONCRETE MATERIAL ANIMAL
+(´aˆaŸ¡)
+
+"apery"
+% MATERIAL 
+(ÓW)
+
+"apex"
+% MATERIAL 
+(¸÷¸ñ)
+
+"aphaeresis"
+(´á–·q ­¡¯©)
+
+"aphasia"
+% MATERIAL 
+(¯©´á»w)
+
+"aphasic"
+% HUMAN
+(¯©´á»w· ÑÅ¸a)
+
+"aphelion"
+(¶¥·©¸ñ)
+
+"aphesis"
+(–¡¡·q ­¡¯©)
+
+"aphis"
+% ANIMAL
+(»¥—¡)
+
+"aphonia"
+(¢¬÷·q»w)
+
+"aphony"
+(¢¬÷·q»w)
+
+"aphorism"
+% CONCRETE MATERIAL 
+(‰wŠ)
+
+"aphorist"
+(‰wŠˆa)
+
+"aphrodisiac"
+(ÂA·q¹A)
+
+"aphtha"
+(´aŠÀw)
+
+"apiarist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´·¥·ˆa)
+
+"apiary"
+(´·¥·¸w)
+
+"apices"
+(¸÷¬w—i)
+
+"apiculture"
+(´·¥·)
+
+"apiculturist"
+% HUMAN
+(´·¥·ˆa)
+
+"aplanat"
+(¢®Àa E»a)
+
+"aplane"
+(¶¥¸ab §¡Ð—‹¡)
+
+"aplomb"
+% CONCRETE MATERIAL 
+(®»¢)
+
+"apnoea"
+(Ñ¡Ós ¸÷»¡)
+
+"apocalypse"
+% MATERIAL 
+(¢‚¯¡)
+
+"apochromat"
+(¬‚®ÀaŸi ´ô´… ‰¡‹sE»a)
+
+"apocope"
+(´á£¡­¡¯©)
+
+"apodosis"
+(¹¡ˆå¢…· Šá‰i)
+
+"apogamy"
+(¢¤ ¬—¯¢)
+
+"apogee"
+% MATERIAL 
+(ÂA‰¡¸ñ)
+
+"apollyon"
+% HUMAN
+( aµ×)
+
+"apologetic"
+(¥e¡w)
+
+"apologetical"
+(¥e¡w)
+
+"apologia"
+% CONCRETE MATERIAL 
+(¥e¡w¢…)
+
+"apologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¥e¡w¸a)
+
+"apologue"
+% CONCRETE MATERIAL 
+(ŠaÒ…”q)
+
+"apology"
+% CONCRETE MATERIAL 
+(¬a‰Á)
+# in apology for A (ADV) : (ADJUNCT [(OBJ A/·i) ¬a‰ÁÐa<VERB>]/Ðaµa)
+
+"apolune"
+(¶¥¶©¸ñ)
+
+"apophthegm"
+(‰wŠ)
+
+"apophysis"
+(·W‹¡)
+
+"apoplectic"
+% HUMAN
+(¹©•¡Ði »¡‰w·¥)
+
+"apoplexy"
+% MATERIAL 
+(¹©•¡)
+
+"aposiopesis"
+% CONCRETE MATERIAL 
+(•¥¸é¤ó)
+
+"apostasy"
+% MATERIAL MIND
+(¤¯¥)
+
+"apostate"
+% HUMAN
+(¥e¸é¸a)
+
+"apostil"
+(¤wº)
+
+"apostille"
+(¤wº)
+
+"apostle"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¬a•¡)
+# The Creed (NOUN) : ¬a•¡ ¯¥‰w
+# The Apostles' Creed (NOUN) : ¬a•¡ ¯¥‰w
+# the Apostles (NOUN) : 12 ¬a•¡
+
+"apostleship"
+% HUMAN
+(¬a•¡· ¯¥¦…)
+
+"apostolate"
+% HUMAN
+(¬a•¡· »¢)
+
+"apostrophe"
+% CONCRETE MATERIAL 
+(´áÍ¡¯aËa¡Ï¡)
+
+"apothecary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´¢¹·¬w)
+
+"apothegm"
+% CONCRETE MATERIAL 
+(‰wŠ)
+
+"apothem"
+(¥e¯±ˆáŸ¡)
+
+"apotheosis"
+% ART
+(¯¥‰bÑÁ)
+
+"appanage"
+(µw»¡)
+
+"apparatchik"
+% HUMAN
+(•·¬e”w ‹¡‰Å¶¥)
+
+"apparatus"
+% CONCRETE MATERIAL 
+(‹¡Š)
+
+"apparel"
+% CONCRETE ANIMAL MATERIAL 
+(·¬w)
+
+"apparition"
+% CONCRETE MATERIAL 
+(ÑÅµw)
+
+"apparitor"
+% HUMAN
+(Ða‹s‰ÅŸ¡)
+
+"appeal"
+% CONCRETE MATERIAL 
+(Ñ¡­¡)
+# court appeal (NOUN) : Ðw­¡
+# court of appeal (NOUN) : ‰·­¡¯± ¸Ìe­¡
+# ^lodge an appeal (VERB) : ‰·­¡Ða”a
+# ^enter an appeal (VERB) : ‰·­¡Ða”a
+# ^make an appeal to A (VERB) : [(ADJUNCT A/µA) Ñ¡­¡Ða<VERB>]/”a
+# the final appeal (NOUN) : ÂAÒ ®”e
+
+"appearance"
+% MATERIAL 
+(¶A¡¡)
+# appearance of A {+PRNOUN} (NOUN) : [(POSS A/·) Â‰Ñe<NOUN>]
+# by all appearance (PP->ADV) : ´å›u ¥¡‹¡µA“e
+# by all appearances (PP->ADV) : ´å›u ¥¡‹¡µA“e
+# court appearance (NOUN) : ¤ó¸÷Â‰Ñe
+# during ONE_S appearance (PP->ADV) : (ADJUNCT [(POSS ONE/·) Â‰¬â<NOUN>]/•·´e)
+# ^enter an appearance (VERB) : aÈaa”a
+# first appearance (NOUN) : Àõ¤å¼ Â‰Ñe
+# for appearance's sake (PP->ADV) : ÁA¡e¬w
+# for the sake of appearance (PP->ADV) : ÁA¡e¬w
+# ^judge by appearances (VERB) : ¶A¡¡¡ Ìe”eÐa”a
+# ^keep up appearances (VERB) : ´éŠ‰·i £©”a
+# ^make ONE_S appearance (VERB) : ´éŠ‰·i £©”a
+# ^make a fine appearance (VERB) : ¥¡‹¡µA ¹½”a
+# ^make a good appearance (VERB) : ¥¡‹¡µA ¹½”a
+# ^make an appearance (VERB) : ´éŠ‰·i £©”a
+# ^make its first appearance (VERB) : Àõ¡¡¯s·i aÈa”a 
+# physical appearance (NOUN) : ¶A¡¡
+# ^put in ONE_S appearance (VERB) : ´éŠ‰·i £©”a
+# ^put in an appearance (VERB) : ´éŠ‰·i £©”a
+# ^put on the appearance of honesty (VERB) : ˆû e ¸÷»¢Ðe ÁA Ða”a
+# ^save appearances (VERB) : ´éŠ‰·i £©”a
+# to all appearance (PP->ADV) : ´å›u ¥¡‹¡µA“e
+# to all appearances (PP->ADV) : ´å›u ¥¡‹¡µA“e
+
+"appeasement"
+% MATERIAL 
+(¶á¡)
+
+"appellant"
+% HUMAN 
+(‰·­¡·¥)
+
+"appellation"
+% MATERIAL 
+(¡wÃ·)
+
+"appellative"
+(¡wÃ·)
+
+"appellee"
+% HUMAN 
+(Ï¡‰·­¡·¥)
+
+"appellor"
+% HUMAN 
+(‰¡­¡ ·¥)
+
+"appendage"
+% CONCRETE MATERIAL 
+(¦ˆa¢‰)
+
+"appendant"
+(¦®¢‰)
+
+"appendectomy"
+(Â—® ¸é¹A ®®‰)
+
+"appendices"
+(¦ˆa¢‰—i)
+
+"appendicitis"
+% MATERIAL 
+(Â—®µq)
+
+"appendix"
+% CONCRETE MATERIAL 
+(¦¢)
+# ruptured appendix (NOUN) : Ìaµi–E  —¸w
+
+"appentency"
+% MIND 
+(µi w)
+
+"apperception"
+(É·ˆb)
+
+"appertaining"
+(­¡­¢¢‰)
+
+"appetence"
+% MATERIAL MIND
+(µi w)
+
+"appetite"
+% MATERIAL MIND
+(¯¢¶b)
+# carnal appetite (NOUN) : ¬÷¶b
+# sexual appetite (NOUN) : ¬÷¶b
+# the appetite of sex (NOUN) : ¬÷¶b
+# ^be to ONE_S appetite (VERB) : ·³µA  x”a
+# ^have a good appetite (VERB) : ¯¢¶b·¡ ¹½”a
+# ^have a poor appetite (VERB) : ¯¢¶b·¡ a«a”a
+# ^lose ONE_S appetite (VERB) : ¯¢¶b·i ·°”a
+# ^sharpen ONE_S appetite (VERB) : ¯¢¶b·i ´è”a
+
+"appetizer"
+% CONCRETE MATERIAL 
+(¯¢¶b·i •¨Š“e ˆõ)
+
+"applause"
+% ACTION
+(ˆiÀ)
+# a round of applause (NOUN) : ·©¹AÓ¡ Ã¡“e ¤b®
+
+"apple"
+% CONCRETE MATERIAL FOOD
+(¬a‰Á)
+# Carthaginian apple (NOUN) : ¬âŸA
+# Dead Sea apple (NOUN) : ­¡•±· ¬a‰Á
+# Jew's apple (NOUN) : ˆa»¡
+# apple of love (NOUN) : •¡ a•¡
+# apple picking (NOUN) : ¬a‰Á º“‹¡
+# bitter apple (NOUN) : Å©¡¯¥—a µ¡·¡
+# the apple of Sodom (NOUN) : ­¡•±· ¬a‰Á
+# the apple of the eye (NOUN) : ’…•·¸a
+
+"applesauce"
+% CONCRETE MATERIAL FOOD
+(¬a‰Á ­¡µ¡¯a)
+
+"appliance"
+% CONCRETE ANIMAL MATERIAL 
+(‹¡Š)
+# electric appliance (NOUN) : ¸å‹¡‹¡Š
+# household appliance (NOUN) : ˆa¸÷¶w‹¡
+
+"applicability"
+% CONCRETE MATERIAL 
+(¸â·w¬÷)
+
+"applicant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(»¡¶¥¸a)
+
+"application"
+% CONCRETE MATERIAL 
+(·w¶w[»¡¶¥])
+# E-mail application (NOUN) : ¸å¸a¶Íe ·w¶w Ïa¡‹aœ‘
+# application blank (NOUN) : ¯¥À÷¶w»¡
+# application of A to B (NOUN) : [(ADJUNCT B/¡·) (POSS A/·) ¸â¶w<NOUN>]
+# application form (NOUN) : ·w¯¡ ¶¥¬á
+# client application (NOUN) : Çiœa·¡´åËa ·w¶w Ïa¡‹aœ‘
+# letter of application (NOUN) : ·w¯¡ ¶¥¬á
+# ^make an application for A (VERB) : [(OBJ A/Ÿi) ¯¥À÷Ða<VERB>]/”a
+
+"appoggiatura"
+% CONCRETE MATERIAL 
+(¸w¸åÈa·q)
+
+"appointee"
+% HUMAN
+(·±¡w ¤h·e ¬aœq)
+
+"appointer"
+% HUMAN
+(·±¡w¸a)
+
+"appointment"
+% MATERIAL 
+(´¢­¢)
+# by appointment (ADV) : ´¢­¢µA ·Ðaµa
+# cabinet appointment (NOUN) : ˆb ·±¡w
+# ^keep ONE_S appointment (VERB) : ´¢­¢·i »¡Ç¡”a
+# ^break ONE_S appointment (VERB) : ´¢­¢·i ´á‹¡”a
+# ^make an appointment with A (VERB) : [(ADJUNCT A/‰Á) ´¢­¢·i Ða<VERB>]/”a
+# ^take up an appointment (VERB) : Âá·±Ða”a
+
+"appointor"
+% HUMAN
+(·±¡w¸a)
+
+"apport"
+(ÑÅµw)
+
+"apportionment"
+% MATERIAL 
+(¦…¤)
+
+"appositeness"
+% CONCRETE MATERIAL 
+(¸â¸éÐq)
+
+"apposition"
+% CONCRETE MATERIAL 
+(¥wi)
+# in apposition to A (ADV) : (ADJUNCT [(COMP A/µÁ) •·‰b<NOUN>]/¡)
+
+"appositive"
+(•·‰b´á)
+
+"appraisal"
+% CONCRETE MATERIAL ECOLIFE
+(ˆt ‹¡‹¡)
+# appraisal of real estate (NOUN) : ¦•·¬eÍwˆa
+# appraisal standard (NOUN) : Íwˆa‹¡º…
+# appraisal surplus (NOUN) : ÍwˆaÑÅ¯wµa‹q
+
+"appraisement"
+% ECOLIFE
+(ˆt ‹¡‹¡)
+
+"appraiser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Íwˆa·¥)
+
+"appreciation"
+% CONCRETE MATERIAL ART
+(ˆq¬w)
+# in appreciation of A (ADV) : (ADJUNCT [(OBJ A/·i) (MODS [Â—¦…Ó¡<ADV>]) ´i<VERB>]/‰¡)
+
+"appreciator"
+% HUMAN
+(»¥ˆaŸi ·¡ÐÐa“e ¬aœq)
+
+"apprehensibility"
+(·¡Ð Ði ® ·¶·q)
+
+"apprehensiveness"
+% MATERIAL MIND
+(µqa)
+
+"apprehesion"
+% MIND
+(¶a)
+# ^be quick of apprehension (VERB) : ·¡Ðˆa ¨aŸa”a
+# ^be dull of apprehension (VERB) : ·¡Ðˆa ¨aŸa”a
+
+"apprentice"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(•¡¹A)
+# apprentice's school (NOUN) : •¡¹A ÐbŠa
+# ^bind a person apprentice to (VERB) : •¡¹A¡ ¥¡”a
+# ^be bound to apprentice (VERB) : •¡¹Aˆa –A”a
+
+"apprenticeship"
+(•¡¹A ¬i·¡)
+# ^serve ONE_S appreticeship (VERB) : •¡¹A µeÐe·i À¶”a
+# ^serve out ONE_S appreticeship (VERB) : •¡¹A µeÐe·i À¶”a
+
+"approach"
+% MATERIAL 
+(¸ó‹e)
+
+"approachableness"
+(ˆaŒa·¡ Ða‹¡ ®á¶‘)
+
+"approbation"
+% CONCRETE MATERIAL 
+(Àe¬÷)
+
+"appropriateness"
+% CONCRETE MATERIAL 
+(¸â”wÐq)
+
+"appropriation"
+% MATERIAL 
+(¸å¶w)
+# appropriation of profit (NOUN) : ·¡·¢· Àá¦…
+# budgetary appropriation (NOUN) : µ¬e· ¤¸÷
+
+"appropriator"
+(¸å¶w¸a)
+
+"approval"
+% CONCRETE MATERIAL 
+(¯w·¥)
+# approval sales (NOUN) : ¯¡‰·Î‘Ìe 
+# for your approval | (ADV) : ŠáÐa· ¯w·¥·i ¤aœa¡a
+# ^meet with ONE_S approval (VERB) : [(OBJ [(POSS ONE/·) Àe¬÷<NOUN>]/·i) ´è<VERB>]/”a
+# with your kind approval | (ADV) : ŠáÐa· Àe¬÷·i ´è´á¬á
+
+"approver"
+% HUMAN
+(¯¡·¥¸a)
+
+"approximation"
+% CONCRETE MATERIAL 
+(¸ó‹e)
+
+"appulse"
+(‹e¸ó)
+
+"appurtenance"
+% CONCRETE MATERIAL 
+(¦­¢Î‘)
+
+"appurtenant"
+(¦­¢¢‰)
+
+"apra"
+% ORGAN
+(ÍAž· Ñb¯¥ ¸÷”w· ·¡Ÿq)
+
+"apres-guerre"
+% TIME
+(”¸åÒ)
+
+"apricot"
+% CONCRETE MATERIAL PLANT FOOD
+(¬iŠ)
+
+"apriorism"
+% ART
+(¬åÀå¬é)
+
+"apriority"
+(¬åÀå¸â·±)
+
+"apron"
+% CONCRETE MATERIAL 
+(´|Ã¡ a)
+
+"apronful"
+(´|Ã¡ a ˆa—b)
+
+"apse"
+% CONCRETE MATERIAL 
+(Ò»¥)
+
+"apsis"
+% CONCRETE MATERIAL 
+(¸wÂ‚”e)
+
+"apteryx"
+% CONCRETE ANIMAL MATERIAL 
+(Ç¡¶á)
+
+"aptitude"
+% MATERIAL 
+(­¡»©)
+
+"aptness"
+% CONCRETE MATERIAL 
+(¸âÐs¬÷)
+
+"aqua"
+% CONCRETE MATERIAL 
+(¢‰)
+# aqua ammonia (NOUN) : ´q¡¡“¡´a®
+# aqua ammoniae (NOUN) : ´q¡¡“¡´a®
+
+"aquacade"
+(®¬w µeµ)
+
+"aquaculture"
+(´·¯¢)
+
+"aquafarm"
+(´·¯¢¸w)
+
+"aqualung"
+% CONCRETE ANIMAL MATERIAL 
+(®º— Ñ¡Ós‹¡)
+
+"aquamarine"
+% CONCRETE MATERIAL 
+(qµ¢)
+
+"aquanaut"
+% HUMAN
+(Ð¸á µaÐ—ˆa)
+
+"aquaplane"
+(®¬w ÑÉº¶w é¨e»¡)
+
+"aquarelle"
+% ART
+(®ÀÑÁ¤ó)
+
+"aquarellist"
+% HUMAN
+(®ÀÑÁˆa)
+
+"aquarium"
+% CONCRETE ANIMAL MATERIAL 
+(®¹¡)
+
+"aquatic"
+% ANIMAL
+(®¬— •·¢‰)
+
+"aquatint"
+(¯¢ˆb¶aÌe)
+
+"aqueduct"
+% CONCRETE MATERIAL 
+(®¡)
+# aqueduct bridge (NOUN) : ®¡Ša
+
+"aquiculture"
+% ART
+(®‰w¤ó)
+
+"arab"
+% HUMAN
+(´aœa§¡´a ¬aœq)
+# the Arab League (NOUN) : ´aœs µe —
+# the Arab Republic of Egypt (NOUN) : ·¡»³Ëa ‰·ÑÁŠ‚
+# Arab Republics (NOUN) : ´aœs ‰·ÑÁŠ‚ µe¤w
+# the Federation of Arab Republics (NOUN) : ´aœs ‰·ÑÁŠ‚ µe¤w
+
+"arabesque"
+% CONCRETE MATERIAL 
+(´aœa§¡´a¯¢·¸w)
+
+"arabian"
+% HUMAN
+(´aœa§¡´a ¬aœq)
+
+"arabic"
+(´aœa§¡´a´á)
+
+"arabist"
+% HUMAN
+(´aœa§¡´a Ðb¸a)
+
+"arable"
+(‰w¸b»¡)
+# arable land (NOUN) : ‰w»¡
+
+"arachnid"
+% CONCRETE ANIMAL MATERIAL 
+(ˆá£¡)
+
+"arachnoid"
+% CONCRETE ANIMAL MATERIAL 
+(ˆá£¡º‰ b)
+
+"Arab"
+(´aœs)
+
+"Arab Monetary Fund"
+(´aœsÉ·ÑÁ‹¡‹q)
+
+"Arafat"
+(´aœaÌaËa)
+
+"aramaic"
+% ANIMAL
+(´aœq  i)
+
+"araneida"
+(´œá“¡”á)
+
+"araucaria"
+% PLANT
+(q´· ¬q¡¢)
+
+"arbalest"
+(Çe ÑÉ)
+
+"arbalester"
+% HUMAN
+(Çe ÑÉ· ¬a®)
+
+"arbiter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(º—¸·¥)
+
+"arbitrage"
+% MATERIAL ECOLIFE
+(º—ˆ   )
+
+"arbitrament"
+% ACTION
+(¸‰i)
+
+"arbitrariness"
+% ACTION
+(•¢”e)
+
+"arbitration"
+% CONCRETE MATERIAL ACTION
+(º—¸)
+# arbitration of exchange (NOUN) : ÑÅ· ¸¸÷
+# arbitration in stock and shares (NOUN) : º¯¢· º—ˆ
+# court of arbitration (NOUN) : º—¸¸Ìe­¡
+# ^refer a dispute to arbitration (VERB) : ¸—·Ÿi º—¸µA ¦›·¡”a
+# ^submit a dispute to arbitration (VERB) : ¸—·Ÿi º—¸µA ¦›·¡”a
+
+"arbitrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¹¡¸÷¸a)
+
+"arbitress"
+% HUMAN 
+(µa¸a º—¸·¥)
+
+"arbor"
+% CONCRETE MATERIAL PLANT
+(®¡¢)
+# Arbor Day (NOUN) : ¯¢¡¢·©
+
+"arbor"
+% CONCRETE MATERIAL 
+(¸÷¸a)
+
+"arbor"
+% CONCRETE MATERIAL 
+(Â‚)
+
+"arborescence"
+(®¡¢¬w)
+
+"arboretum"
+% CONCRETE ANIMAL MATERIAL 
+(®¡¢¶¥)
+
+"arboriculture"
+% MATERIAL ART
+(®¡¢ ¸¤)
+
+"arboriculturist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®¡¢ ¸¤ˆa)
+
+"arborization"
+(a¢•ˆa»¡ Ñw¬w)
+
+"arborvitae"
+% PLANT
+(¬á´· Ãb¤‚a¢)
+
+"arbour"
+% CONCRETE ANIMAL MATERIAL 
+(¸÷¸a)
+
+"arbutus"
+% PLANT
+(Àé¾‚‰Á· ¬w¢ ‰Å¡¢)
+
+"arc"
+% MATERIAL 
+(Ñ¡)
+# diurnal arc (NOUN) : ·©º Ñ¡
+# nocturnal arc (NOUN) : ´¡º Ñ¡
+# arc furnace (NOUN) : ´a´aÇa¡
+
+"arcade"
+% CONCRETE MATERIAL 
+(´aÅA·¡—a)
+
+"arcadianism"
+% ART
+(¸å¶¥Âá£¡)
+
+"arcanum"
+% CONCRETE MATERIAL 
+(¯¥§¡)
+
+"arch"
+% CONCRETE MATERIAL 
+(´a´aÃ¡)
+# memorial arch (NOUN) : ‹¡‘q ¢…
+# triumphal arch (NOUN) : ˆ¬å ¢…
+# railway arch (NOUN) : ŠŸq”aŸ¡
+
+"archaeologist"
+% HUMAN
+(‰¡‰¡Ðb¸a)
+
+"archaeology"
+% MATERIAL ART
+(‰¡‰¡Ðb)
+
+"archaism"
+% ART
+(·‰¡º·)
+
+"archaist"
+% HUMAN
+(‰¡´á ¬a¶w¸a)
+
+"archangel"
+% CONCRETE MATERIAL HUMAN
+(”Àå¬a)
+
+"archbishop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(”ºŠa)
+
+"archbishopric"
+% HUMAN
+(”ºŠa· »¢)
+
+"archdeacon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¦ºŠa)
+
+"archdeaconry"
+% HUMAN
+(¦ºŠa· »¢)
+
+"archdiocese"
+% MATERIAL 
+(”ºŠa· ‰ÅŠ)
+
+"archduchess"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(”‰·§¡)
+
+"archduchy"
+% MATERIAL PLACE ORGAN
+(”‰·Š‚)
+
+"archduke"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(”‰·)
+
+"archdukedom"
+% PLACE ORGAN
+(”‰·Š‚)
+
+"archenemy"
+% HUMAN
+(”¸â)
+
+"archeologist"
+% HUMAN
+(‰¡‰¡Ðb¸a)
+
+"archeology"
+% MATERIAL ART
+(‰¡‰¡Ðb)
+
+"archer"
+% HUMAN
+(¬a®)
+
+"archeress"
+% HUMAN
+(µa¸a Š—®)
+
+"archerfish"
+% CONCRETE ANIMAL MATERIAL 
+(¬a®´á)
+
+"archery"
+% MATERIAL ART
+(Š—®‰)
+
+"archetype"
+% CONCRETE MATERIAL 
+(¶¥Ñw)
+
+"archfiend"
+% HUMAN 
+(¬aÈe)
+
+"archie"
+(‰¡¬aÍ¡)
+
+"archiepiscopacy"
+% HUMAN
+(”ºŠa· »¢)
+
+"archil"
+% CONCRETE MATERIAL 
+(¸aº§¹ µqža)
+
+"archimandrite"
+% HUMAN 
+(” ®•¡¶¥¸w)
+
+"archipelago"
+% CONCRETE MATERIAL 
+(Š…•¡)
+
+"architect"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ˆåÂ‚ˆa)
+# the Great Architect (NOUN) : ¹¡¢‰º
+
+"architectonic"
+% ART 
+(ˆåÂ‚Ðb)
+
+"architecture"
+% CONCRETE MATERIAL ART
+(´aÇ¡ÉBÁa)
+
+"architrave"
+% CONCRETE MATERIAL 
+(Íw¤w)
+
+"archive"
+% CONCRETE ANIMAL MATERIAL 
+(‹¡¢)
+
+"archives"
+% CONCRETE MATERIAL 
+(‹¡¢)
+
+"archiving"
+(‹¡¢ ¥¡‰Å)
+
+"archivist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‹¡¢ ¥¡‰Å·¥)
+
+"archivolt"
+(¸w¯¢ Ñ·µÀw•¡Ÿ¡)
+
+"archness"
+% CONCRETE MATERIAL MIND
+(ŠaÑÉÐq)
+
+"archon"
+% HUMAN
+(»³¸÷‰Å)
+
+"archonship"
+% HUMAN
+(»³¸÷‰Å· »¢)
+
+"archprelate"
+% HUMAN
+(‰¡¶á ¬÷»¢¸a)
+
+"archpriest"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(º¡¢¬a)
+
+"archtraitor"
+% HUMAN
+(” ¤eµb¸a)
+
+"archway"
+% CONCRETE MATERIAL 
+(´a´aÃ¡‹©)
+
+"arcograph"
+% HUMAN
+(¶¥Ñ¡¸a)
+
+"arctic"
+% CONCRETE ANIMAL MATERIAL 
+(¦‚‹b)
+
+"arcturus"
+(”ˆb¬÷)
+
+"ardency"
+% MIND
+(µi¯±)
+
+"ardor"
+% MATERIAL MIND
+(µi¸÷)
+# with ardor (PP) : [µi¯±Ó¡<ADV>]
+
+"ardour"
+% MIND
+(µi¸÷)
+# with ardour (ADV) : µi¯±Ó¡
+
+"area"
+% CONCRETE MATERIAL HOMONYM PLACE
+(µwµb)
+# area bell (NOUN) : »¡Ða Â‰·³Š· Á¡·¥¹·
+# area gate (NOUN) : »¡Ða Â‰·³Š· É·¶w¢…
+# area code (NOUN) : »¡µb¤åÑ¡
+# backward area (NOUN) : bÒ »¡µb
+# blighted area (NOUN) : bÒ»¡”
+# bonded area (NOUN) : ¥¡­A»¡µb
+# cultural ^area (NOUN) : ¢…ÑÁŠ¥
+# fenced area (NOUN) : ¶Ÿ¡
+# highly populated area (NOUN) : ·¥Š ‰¡£©•¡ »¡µb
+# land ^area (NOUN) : »¡µb 
+# nonsmoking area (NOUN) : ‹qµe Šµb
+
+# sleeping area (NOUN) : ®¡e»¡µb
+# subject area (NOUN) : ¹A¡¢ ¦…´¡
+
+
+"area1nn"
+% PLACE
+(»¡µb)
+
+"area2nn"
+(¡e¸â)
+
+"area3nn"
+(¦…´¡)
+
+"areaway"
+(¤ñ¶á)
+
+"areca"
+% CONCRETE PLANT MATERIAL 
+(§¥œwa¢)
+
+"arena"
+% CONCRETE MATERIAL PLACE
+(¶¥Ñw‰w‹¡¸w)
+# arena theater (NOUN) : ¶¥Ñw ‹b¸w
+
+"areometer"
+(´‚ÁA §¡º—‰)
+
+"areopagite"
+% HUMAN 
+(‰¡” ´aÉA‘A· ´aAµ¡Ìa‰¡¯a· ¸Ìe‰Å)
+
+"argal"
+% CONCRETE ANIMAL MATERIAL 
+(´·)
+
+"argala"
+(¢®Ÿ¡)
+
+"argali"
+% CONCRETE ANIMAL MATERIAL 
+(´·)
+
+"argand"
+(´aŸaˆw—w)
+
+"argent"
+(·e)
+
+"argentine"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(´aŸaÑEË¡a ¬aœq)
+# the Argentine (NOUN) : ´aŸaÑEË¡a
+
+"argentine"
+% CONCRETE ANIMAL MATERIAL 
+(·e§¹)
+
+"arghan"
+(q£¡¬e ¯¢¢‰ ¬ñ·A)
+
+"argil"
+(•¡É¡)
+
+"argillite"
+% CONCRETE MATERIAL 
+(¸ñÌe´q)
+
+"argive"
+% HUMAN
+(´aŸa‰¡¯a ¬aœq)
+
+"argol"
+(ˆáÃ¥ º¬â)
+
+"argon"
+% CONCRETE MATERIAL 
+(´aŸa‰¥)
+
+"argosy"
+% MATERIAL 
+(Çe ¬w¬å)
+
+"argot"
+% CONCRETE MATERIAL 
+(·e´á)
+
+"arguer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‘¥¸—¸a)
+
+"argument"
+% CONCRETE MATERIAL ACTION
+(‘¥¸—)
+# argument THAT_CLAUSE (NOUN) : [(SCOMP THAT_CLAUSE/Ða”a“e) ‘¥¸—<NOUN>]
+# ^have an argument with A (VERB) : [(ADJUNCT A/µÁ) ´å¸—·i Ða<VERB>]/”a
+# without argument (ADV) : ·¡· ´ô·¡
+
+"argumentation"
+% MATERIAL 
+(·³¥)
+
+"argumentativeness"
+% MIND
+(‘¥¸—Ða‹¡ ¹½´aÐq)
+
+"argyria"
+(·eº—•¢)
+
+"aria"
+% CONCRETE MATERIAL 
+(´aŸ¡´a)
+
+"aridity"
+% MATERIAL 
+(ˆå¹¡)
+
+"aridness"
+% MATERIAL 
+(ˆå¹¡Ðq)
+
+"ariel"
+% ANIMAL
+(µw´·)
+
+"aries"
+(¤‚´·Š—)
+
+"arietta"
+% CONCRETE MATERIAL 
+(´aŸ¡µAÈa)
+
+"aril"
+(ˆa¹·Ï¡)
+
+"arista"
+(Œáaœá‹¡)
+
+"aristocracy"
+% MATERIAL ART
+(Šá¹¢ ¸÷Ã¡)
+# aristocracy of labor (NOUN) : ‘¡•·
+
+"aristocrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Šá¹¢)
+
+"aristocratism"
+% ART
+(Šá¹¢ º·)
+
+"aristotelean"
+% HUMAN
+(´aŸ¡¯aÉ¡ÉIA¯a ÐbÌa· ¬aœq)
+
+"aristotelian"
+% HUMAN
+(´aŸ¡¯aÉ¡ÉIA¯a ÐbÌa· ¬aœq)
+
+"aristotelianism"
+% ART
+(´aŸ¡¯aÉ¡ÉIA¯a ÀéÐb)
+
+"arithmetic"
+% MATERIAL ART
+(¬e®)
+
+"arithmetician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¬e®ˆa)
+
+"arithmometer"
+(‰¬e‹¡)
+
+"ark"
+% CONCRETE MATERIAL 
+(¤wº)
+# the Ark of Testimony (NOUN) : ‰´¢· ŠÁ
+# the Ark of the Covenant (NOUN) : ‰´¢· ŠÁ
+
+"arkie"
+% HUMAN
+(´aÄe­¡Â‰¯¥· ›a‹¡ ‘·¦)
+
+"arles"
+(Àb®‹q)
+
+"arm"
+% CONCRETE MATERIAL ANIMAL
+(Ìi)
+# ^put ONE_S arms around A {+ANIMAL} (VERB) : [(OBJ A/Ÿi) a´e<VERB>]/”a
+# ONE_S right arm (NOUN) : µ¡ŸeÌi
+# ^appeal to arms (VERB) : ¢bµA Ñ¡­¡Ða”a
+# arm in arm (ADV) : Ìi¼w·i ¡‰¡
+# arms and the man (NOUN) : ¢‹¡µÁ ¬aœq
+# arms control (NOUN) : Š…§¡ ¹AÐe
+# ^be bred to arms (VERB) : Š…¬a Ša·B·i ¤h”a
+# ^be up in arms (VERB) : ¢‹¡Ÿi —i‰¡ ·©´á¬á”a
+# ^bear arms (VERB) : ¢¸wÐa”a
+# ^bear arms against A (VERB) : [(ADJUNCT A/‰Á) °a¶<VERB>]/”a
+# better arm | (NOUN) : µ¡Ÿe Ìi
+# by arms (ADV) : ¢b·a¡
+# ^call to arms (VERB) : •·¶¥Ða”a
+# ^carry arms (VERB) : ¢‹¡Ÿi ¸s”a
+# ^change arms (VERB) : Á··i ¤aŽ¡¡A”a
+# child in arms (NOUN) : ˆue ´a‹¡
+# deeds of arms (NOUN) : ¢Ò…
+# ^fold ONE_S arms (VERB) : Ìi¼w·i ¡”a
+# ^get under arms (VERB) : ¢¸wÐa”a
+# ^give ONE_S arms (VERB) : Ìi·i £©”a
+# ^give up ONE_S arms (VERB) : Ðw¥¢Ða”a
+# ^go to arms (VERB) : ¢bµA Ñ¡­¡Ða”a
+# ^have a child in ONE_S arms (VERB) : ´a·¡Ÿi ´e‰¡ ·¶”a
+# ^hold a person at ONE_S length (VERB) : q·i ˆaŒa·¡Ða»¡ ´g”a
+# in ONE_S arms (ADV) : Ìi´eµA
+# in arms | (ADV) : ¢¸wÐa‰¡
+# infant in arms (NOUN) : ˆue ´a‹¡
+# ^keep a person at ONE_S length (VERB) : q·i ˆaŒa·¡Ða»¡ ´g”a
+# ^lay down ONE_S arms (VERB) : ¢‹¡Ÿi ¤áŸ¡”a
+# ^lie upon ONE_S arms (VERB) : ¢¸wÐe À¡ ¸a”a
+# man at arms (NOUN) : ¸å¬a
+# ^make a long arm (VERB) : Ìi·i ¨è”a
+# ^offer ONE_S arms (VERB) : Ìi·i £©”a
+# passage at arms (NOUN) : ‘¥¸—
+# ^rise in arms (VERB) : ¢‹¡Ÿi —i‰¡ ·©´á¬á”a
+# small arms (NOUN) : ÓA” ¥w‹¡
+# suspension of arms (NOUN) : ÓA¸å
+# ^take arms (VERB) : ¢‹¡Ÿi —i”a
+# ^take the arm (VERB) : £¥ Ìi·i ¦›¸s”a
+# ^take up arms (VERB) : ¢‹¡Ÿi —i”a
+# the fore arm (NOUN) : ¸å¤b
+# the secular arm (NOUN) : ­¢Š¥
+# under ONE_S arm (ADV) : ‰a—aœw·¡µA
+# under arms | (ADJ) : [¢¸wÐa<VERB>]/”a
+# ^welcome with open arms (VERB) : – ­¥·i ¤éŸ¡‰¡ ÑÅµwÐa”a
+# with ONE_S arms folded (PP->ADV) : Ìi¼w·i ¡‰¡
+# with folded arms (ADV) : Ìi¼w·i ¡‰¡
+# within arm's reach (ADV) : ­¥·¡ £¡Ã¡“e ‰µµA
+
+"arm-twisting"
+(ˆw¶a)
+
+"arm-wrestling"
+(Ìi³¡Ÿq)
+
+"armada"
+% MATERIAL 
+(Ðq”)
+# the Armada (NOUN) : ¢¸âÐq”
+# the Invincible Armada (NOUN) : ¢¸âÐq”
+# the Spanish Armada (NOUN) : ¢¸âÐq”
+
+"armadilio"
+% ANIMAL
+(´aŸa a—©¡)
+
+"armageddon"
+% PLACE
+(”¹· i)
+
+"armament"
+% CONCRETE MATERIAL 
+(Š…§¡)
+
+"armature"
+% CONCRETE ANIMAL MATERIAL 
+(ˆsµµ)
+
+"armchair"
+% CONCRETE ANIMAL MATERIAL 
+(´eœb·¸a)
+
+"armenian"
+% HUMAN
+(´aŸa¡A“¡´a· ¬aœq)
+
+"armet"
+(Àé¡¡)
+
+"armful"
+% CONCRETE MATERIAL 
+(Ðe Ìi ˆa—b)
+
+"armhole"
+% CONCRETE MATERIAL 
+(»¥•·)
+
+"armiger"
+% HUMAN
+(‹¡¬a· ˆsµµ—i‰¡ ”a“¡“e ¬aœq)
+
+"arming"
+% MATERIAL 
+(¢¸w·i ˆxÂ‹¡)
+
+"arminian"
+% HUMAN
+(´aŸa£¡“¡¶¯a· ¯¥¸a)
+
+"armistice"
+% MATERIAL 
+(ÓA¸å)
+# Armistice Day (NOUN) : 1 Àa”¸å· ÓA¸å ‹¡‘q·©
+
+"armlet"
+% CONCRETE MATERIAL 
+(Ìi¿¡)
+
+"armload"
+(Ðe´aŸq· ¦…œ·)
+
+"armoire"
+(µµ¸w)
+
+"armor"
+% CONCRETE MATERIAL 
+(ˆsµµ)
+
+"armor"
+% CONCRETE MATERIAL 
+(ˆsµµ)
+
+"armor-bearer"
+% HUMAN
+(‹¡¬a· ˆsµµ ¯¡¹·)
+
+"armorer"
+% HUMAN
+(ˆsµµ ¹A¹¡¸a)
+
+"armorial"
+(¢…¸w»³)
+
+"armoring"
+(¢¸w)
+
+"armory"
+% CONCRETE MATERIAL ART
+(¢…¸wÐb)
+
+"armory"
+% CONCRETE MATERIAL PLACE
+(¥w‹¡‰¡)
+
+"armour"
+% CONCRETE ANIMAL MATERIAL 
+(ˆsµµ)
+
+"armourer"
+% HUMAN
+(ˆsµµ ¹A¹¡¸a)
+
+"armouring"
+(¢¸w)
+
+"armoury"
+% CONCRETE MATERIAL PLACE
+(¥w‹¡‰¡)
+
+"armpit"
+% CONCRETE MATERIAL ANIMAL
+(‰a—aœw £»)
+# up to the armpits (ADV) : µÅ¸åÓ¡
+
+"armrest"
+% CONCRETE ANIMAL MATERIAL 
+(Ìiˆé·¡)
+
+"arms"
+% CONCRETE MATERIAL 
+(¢‹¡)
+# arms control (NOUN) : Š…§¡ ¹AÐe
+# arms cut (NOUN) : Š…§¡ ˆqÂ‚
+# arms embargo (NOUN) : ¢‹¡ ®Â‰ ‹q»¡
+
+"army"
+% MATERIAL ORGAN HUMAN ANIMAL
+(Š…”)
+# Chinese army (NOUN) : º—Š‚Š…
+# ^be in the army (VERB) : ·BŠ…· Š…·¥·¡”a
+# ^enter the army (VERB) : ·BŠ…µA ·³”Ða”a
+# ^join the army (VERB) : ·BŠ…µA ·³”Ða”a
+# joint army (NOUN) : µeÐsŠ…
+# ^go into the army (VERB) : ·BŠ…µA ·³”Ða”a
+# ^raise an army (VERB) : Š…¬aŸi ·©·aÇ¡”a
+# ^serve in the army (VERB) : ¥wµbµA ¥¢¢Ða”a
+# volunteer army (NOUN) : ·¶wŠ…
+
+"arnica"
+% CONCRETE MATERIAL 
+(´aŸa“¡Äa)
+
+"aroma"
+% CONCRETE MATERIAL 
+(Ð·‹¡)
+
+"aromatic"
+(Ð·‹¡¡¶… ˆõ)
+
+"arousal"
+% MATERIAL MIND
+(ˆb¬÷)
+
+"arpeggio"
+(´aŸaÍA»¡µ¡)
+
+"arquebus"
+(ÑÁ¯wÁ·)
+
+"arrack"
+(´aœb®‰)
+
+"arraignment"
+% CONCRETE MATERIAL 
+(ºA¬w ·¥¦)
+
+"arrangement"
+% CONCRETE MATERIAL 
+(¸÷•¥)
+# buy-back arrangement (NOUN) : Š ¤eÑÅ¹¡ˆå
+# seating arrangement (NOUN) : ¹Á¬â¤Ã¡
+
+"arras"
+% CONCRETE MATERIAL 
+(´œá¯aÀå)
+
+"array"
+% CONCRETE MATERIAL 
+(¸÷i)
+# an array of (ADV) : º‚ “i´á¬å
+# ^set in array (VERB) : ¤µiÐa”a
+
+"arrayal"
+(¤µi)
+
+"arrear"
+(»¡ÁA)
+# ^fall into arrears (VERB) : »¡ÁA –A”a
+# in arrear of (ADV) : ¥¡”a “x´á¬á
+# in arrear with payment (ADV) : »¡¦‰·¡ “x´á¹a¬á
+# in arrear with work (ADV) : ·©·¡ “x´á¹a¬á
+# in arrears with payment (ADV) : »¡¦‰·¡ “x´á¹a¬á
+# in arrears with work (ADV) : ·©·¡ “x´á¹a¬á
+# ^work off arrears (VERB) : ·©Ð¬á –á»¥ ˆõ·i ÒA¥¢Ða”a
+
+"arrearage"
+(»¡ÁA)
+
+"arrest"
+% MATERIAL ACTION
+(ÁAÍ¡)
+# house arrest (NOUN) : µe‹q
+# ^make an arrest (VERB) : ÁAÍ¡Ða”a
+# under arrest (ADV) : Š‹q –A´á
+
+"arrestee"
+% HUMAN
+(Ï¡ÁAÍ¡¸a)
+
+"arrester"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(ÁAÍ¡¸a)
+
+"arrestment"
+% ACTION
+(ÁAÍ¡)
+
+"arrestor"
+% HUMAN
+(ÁAÍ¡¸a)
+
+"arriere-pensee"
+% MIND
+(­¢­Q)
+
+"arris"
+(¡¡¬áŸ¡)
+
+"arrival"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(•¡Àb)
+# arrival contracts (NOUN) : ¬å¢‰ ´¢¸÷
+# arrival sales (NOUN) : ¬å¢‰   
+# arrival list (NOUN) : •¡Àb ¯wˆ‚ ¡w¦
+# cash on arrival (NOUN) : ÀbÐa¦‰
+# new arrival (NOUN) : ¬¡ µ¥ ¬aœq
+# on arrival (ADV) : •¡ÀbÐa¸a a¸a
+# on arrival in A (PP) : (ADJUNCT [(COMP A/µA) •¡ÀbÐa<VERB>]/¸a a¸a)
+
+# upon ONE_S arrival (PP->ADV) : •¡Àb»b¯¡
+
+"arriviste"
+% HUMAN
+(´¡¯±ˆa)
+
+"arrogance"
+% CONCRETE MATERIAL MIND
+(Ša e)
+
+"arrogancy"
+% MIND
+(Ša e)
+
+"arrogation"
+% MATERIAL ACTION
+(¬aÃ·)
+
+"arrondissement"
+(º)
+
+"arrow"
+% CONCRETE MATERIAL 
+(ÑÁ¬i)
+# an arrow and a bow (NOUN) : ÑÉ‰Á ÑÁ¬i
+# arrow and bow (NOUN) : ÑÉ‰Á ÑÁ¬i
+# the broad arrow (NOUN) : ŠŠ·e ÑÁ¬iÁ¢ ¡¡´·· •¡¸w
+# the broad arrow head (NOUN) : ŠŠ·e ÑÁ¬iÁ¢ ¡¡´·· •¡¸w
+
+"arrowhead"
+% MATERIAL 
+(ÑÁ¬iÁ¢)
+# arrowheaded characters (NOUN) : ¬éÑw ¢…¸a
+
+"arrowroot"
+% PLANT
+(Ãª)
+
+"arroyo"
+% CONCRETE MATERIAL PLACE
+(¹³·e ‰©¼a‹¡)
+
+"ars"
+% ART
+(µ®‰)
+
+"arse"
+% CONCRETE MATERIAL ANIMAL
+(Š—–—·¡)
+
+"arsenal"
+% CONCRETE MATERIAL PLACE
+(¥w‹¡‰¡)
+
+"arsenate"
+(§¡¬eµq)
+
+"arsenic"
+% CONCRETE MATERIAL 
+(§¡­¡)
+
+"arsenite"
+(´a§¡¬eµq)
+
+"arsis"
+(ˆw·q¦)
+
+"arson"
+% MATERIAL 
+(¤wÑÁ)
+
+"arsonist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¤wÑÁ¤ñ)
+
+"art"
+% CONCRETE MATERIAL ART
+(µ®‰)
+# Bachelor of Arts (NOUN) : ¢…Ðb¬a
+# Chinese art (NOUN) : º—Š‚ µ®‰
+# Korean art (NOUN) : ÐeŠ‚ µ®‰
+# Japanese art (NOUN) : ·©¥¥ µ®‰
+# Master of Arts (NOUN) : ¢…Ðb ¬â¬a
+# applied art (NOUN) : ·w¶wµ®‰
+# art of PRESP (NOUN) : [(RELCL PRESP/Ða“e) ­±³¡<NOUN>]
+# art and craft (NOUN) : £¡®‰‰Á ‰·µ
+# art and literature (NOUN) : £¡®‰‰Á ¢…Ðb
+# art and part (NOUN) : ¤w¹¡ºA
+# art critic (NOUN) : £¡®‰ §¡Íwˆa
+# art director (NOUN) : £¡®‰ ˆq•¢
+# art for art's sake (NOUN) : µ®‰ »¡¬wº·
+# art for art school (NOUN) : µ®‰»¡¬wÌa
+# art for life's sake (NOUN) : ·¥¬—·i ¶áÐe µ®‰
+# art gallery (NOUN) : £¡®‰‰Å
+# art needlework (NOUN) : £¡®‰ ¸a®
+# art school (NOUN) : £¡®‰ ÐbŠa
+# art title (NOUN) : ·¸w ¸a b
+# black art (NOUN) :  a®‰
+# by art (PP) : (ADJUNCT [·¥‰·<NOUN>]/¡)
+# decorative art (NOUN) : ¸w¯¢ £¡®‰
+# fine art (NOUN) : £¡®‰
+# industrial art (NOUN) : ‰·µ
+# liberal art (NOUN) : ·¥¢…‰ÁÐb
+# the fine arts (NOUN) : £¡®‰
+# the graphic arts (NOUN) : ·¥­á £¡®‰
+# the liberal arts (NOUN) : Ša´· ‰Á¡¢
+# useful arts (NOUN) : ‰·µ
+# work of art (NOUN) : µ®‰Î‘
+
+"artefact"
+% CONCRETE MATERIAL 
+(·¥‰·¢‰)
+
+"artel"
+% ORGAN
+(‰·¬e‘¡•·¹¡Ðs)
+
+"arterialization"
+(¸÷ ‚Ñi· •· ‚ÑiÑÁ)
+
+"arteriosclerosis"
+% MATERIAL 
+(•· ‚ ‰wÑÁ»w)
+
+"arteritis"
+(•· ‚µq)
+
+"artery"
+% CONCRETE MATERIAL ANIMAL
+(•· ‚)
+
+"artfulness"
+% CONCRETE MATERIAL ACTION
+(®‰À‚·i ¦Ÿ±)
+
+"arthralgia"
+(‰Å¸éÉ·)
+
+"arthritis"
+% MATERIAL 
+(‰Å¸éµq)
+
+"arthropod"
+% CONCRETE ANIMAL MATERIAL 
+(¸é»¡ •·¢‰)
+
+"artichoke"
+% CONCRETE MATERIAL PLANT
+(´·´÷ˆ÷Æá)
+
+"article"
+% CONCRETE MATERIAL 
+(‹¡¬a)
+# articles of association (NOUN) : ¸÷‰Å
+# articles of partnership (NOUN) : ¹¡Ðs‹A´¢
+# articles of war (NOUN) : ·BÐŠ…¹¡
+# article not for sale (NOUN) : §¡ Î‘
+# ^be under articles to (VERB) : ‰´¢Ða‰¡ ‰e¯s‰· ‘¡Ÿu·i Ða”a
+# City article (NOUN) : ‰w¹A‹¡¬a
+# dangerous money (NOUN) : ¶áÐñ¢‰
+# leading article (NOUN) : ¬a¬é
+# the Thirty nine Articles (NOUN) : 39 ˆ¹¡
+
+"articulation"
+% CONCRETE MATERIAL 
+(·A¸é·q)
+
+"articulator"
+% HUMAN
+(¤i·q·¡ ™¢™¢Ðe ¬aœq)
+
+"artifact"
+% CONCRETE MATERIAL 
+(·¥‰·¢‰)
+
+"artifice"
+% MATERIAL 
+(‹¡®‰)
+
+"artificer"
+% HUMAN
+(‹¡®‰¸a)
+# the Great Artificer (NOUN) : ¹¡¢‰º
+
+"artificial"
+(·¥‰·¢‰)
+
+"artificiality"
+% CONCRETE MATERIAL 
+(·¥¶á¸â·±)
+
+"artillerist"
+% HUMAN
+(Í¡®)
+
+"artillery"
+% CONCRETE MATERIAL 
+(Í¡)
+# heavy artillery (NOUN) : º—Í¡¥w
+# field artillery (NOUN) : ´¡Í¡¥w
+
+"artilleryman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Í¡¥w)
+
+"artiness"
+% ACTION
+(£¡®‰ˆa·¥ÁA Ðq)
+
+"artiodactyl"
+% CONCRETE ANIMAL MATERIAL 
+(¶¹A•·¢‰)
+
+"artiodactyla"
+% ANIMAL
+(¶¹A•·¢‰)
+
+"artisan"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(»¢‰·)
+
+"artist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(µ®‰ˆa)
+# cubist artist (NOUN) : ·³ÁAÌa µ®‰ˆa
+
+"artiste"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(µ“w·¥)
+
+"artistry"
+% MATERIAL ART
+(µ®‰¸â ­±³¡)
+
+"artlessness"
+% CONCRETE MATERIAL 
+(­¡¤bÐq)
+
+"artmobile"
+(¸a•·Àa ÑÁœw)
+
+"artsaker"
+% HUMAN 
+(µ®‰ »¡¬wº·· §¡Íwˆa)
+
+"artwork"
+(¬sÑÁ)
+
+"arum"
+% MATERIAL 
+(´až‘)
+# arum lily (NOUN) : ¬á´· ¢‰É¡œe
+
+"asafetida"
+% CONCRETE MATERIAL 
+(´a¶á)
+
+"asbestos"
+% CONCRETE MATERIAL 
+(¬â¡e)
+
+"asbestosis"
+(¬â¡eÃ±Àb»w")
+
+"asbestus"
+(¬â¡e)
+
+"ascarid"
+% ANIMAL
+(ÒAÂ—)
+
+"ascendancy"
+% CONCRETE MATERIAL 
+(­Ab)
+
+"ascendant"
+(¶…®)
+# in the ascendant (ADV) : ­Ab·i ˆa»¡‰¡
+# the lord of the ascendant (NOUN) : ®¹Á¬÷
+
+"ascendency"
+(­Ab)
+
+"ascendent"
+(¶…®)
+# in the ascendent (ADV) : ­Ab·i ˆa»¡‰¡
+# the lord of the ascendent (NOUN) : ®¹Á¬÷
+
+"ascension"
+% MATERIAL 
+(¬w¯w)
+# the Ascension Day (NOUN) : ‹aŸ¡¯a•¡ ¯wÀå¹A
+
+"ascensiontide"
+% TIME
+(¯wÀå¸é)
+
+"ascent"
+% CONCRETE MATERIAL 
+(¬w¯w)
+
+"ascertainment"
+(ÑÂ·¥)
+
+"ascetic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‹q¶bº·¸a)
+
+"asceticism"
+% CONCRETE MATERIAL ART
+(‹q¶bº·)
+
+"ascidian"
+% CONCRETE ANIMAL MATERIAL 
+(¶œ÷®×·¡)
+
+"ascites"
+% ACTION
+(¥¢®)
+
+"ascription"
+% MATERIAL 
+(Šá­¢)
+
+"ascus"
+(¸aw)
+
+"asdic"
+% CONCRETE ANIMAL MATERIAL 
+(¸q®Ðq Èq»¡‹¡)
+
+"asepsis"
+% MATERIAL STATE
+(¢‹E¬wÈ)
+
+"aseptic"
+(¤w¦¹A)
+
+"asexuality"
+(¢¬÷¬—¯¢)
+
+"ash"
+% CONCRETE MATERIAL 
+(¸)
+# ^be burnt to ashes (VERB) : ¡·˜w Èa¤áŸ¡”a
+# ^be reduced to ashes (VERB) : ¡·˜w Èa¤áŸ¡”a
+# ^lay in ashes (VERB) : È¶¡¬á ¸Ÿi  e—i”a
+# ^bring back the ashes (VERB) : ¬é¶bÐa”a
+# ^turn to dust and ashes (VERB) : Ðá¢Ð»¡”a
+# lump of ash (NOUN) : ÍÐá
+
+"ash-gray"
+(ÒA¤‚¬‚)
+
+"ash-grey"
+(ÒA¤‚¬‚)
+
+"ashcake"
+% FOOD
+(Š¶… µ¢®® ‰Á¸a)
+
+"ashlar"
+% CONCRETE MATERIAL 
+(˜á…•©)
+
+"ashlar-work"
+% ACTION
+(­¥»©•© °}‹¡)
+
+"ashlaring"
+(ˆb¬â)
+
+"ashler"
+(˜á…•©)
+
+"ashman"
+% HUMAN
+(À÷­¡¦)
+
+"ashtray"
+% CONCRETE ANIMAL MATERIAL 
+(¸˜é·¡)
+
+"aside"
+% CONCRETE MATERIAL 
+(¤w¤‚)
+
+# aside from A (ADV) : (ADJUNCT [(NMODS A) ·¡¶A<NOUN>]/µA)
+	* (ADJUNCT [(OBJ A/Ÿi) ¹A¶AÐa<VERB>]/‰¡)
+	* A (~ {+HUMAN})
+# set aside (VERB) : ¢¯¡Ða”a
+# ^set aside A (VERB) : [(OBJ A/Ÿi) ¢¯¡Ða<VERB>]/”a
+
+"asininity"
+% MIND
+(µÅ‰¡)
+
+"asker"
+% HUMAN
+(»©¢…¸a)
+
+"asking"
+% CONCRETE MATERIAL ACTION
+(ŠÐa‹¡)
+# asking price (NOUN) : Ñ¡ˆa
+# for the asking (ADV) : ‰·¼a¡
+
+"asp"
+% CONCRETE ANIMAL MATERIAL 
+(¸b·e •¢¬a)
+
+"asp"
+% CONCRETE PLANT MATERIAL 
+(Í¡Ïiœa)
+
+"asparagus"
+% CONCRETE MATERIAL PLANT FOOD
+(´a¯aÌaœaˆá¯a)
+
+"aspect"
+% CONCRETE MATERIAL 
+(‰Å¸ñ)
+# aspect ratio (NOUN) : ¹·ÒW§¡
+# ^assume a new aspect (VERB) : ¬¡¶… Š‚¡e·i ›¡”a
+# ^take on a new aspect (VERB) : ¬¡¶… Š‚¡e·i ›¡”a
+
+"aspen"
+% CONCRETE PLANT MATERIAL 
+(Í¡Ïiœa)
+
+"asperges"
+(¬÷®¬iÍ¡¯¢)
+
+"aspergillum"
+(¬÷® ¬iÍ¡ ¶w‹¡)
+
+"asperity"
+(ˆáÃ©·q)
+
+"aspersion"
+% CONCRETE MATERIAL ACTION
+(§¡¤w)
+
+"asphalt"
+% CONCRETE MATERIAL 
+(´a¯aÌiËa)
+
+"asphaltum"
+(´a¯aÌiËa)
+
+"asphodel"
+% PLANT
+(®¬åÑÁ)?
+
+"asphyxia"
+(»©¯¢)
+
+"asphyxiation"
+% MATERIAL 
+(»©¯¢)
+
+"asphyxiator"
+(»©¯¢ ¸wÃ¡)
+
+"asphyxy"
+(»©¯¢)
+
+"aspic"
+% CONCRETE MATERIAL FOOD
+(‰¡‹¡ ¹IŸ¡)
+
+"aspic"
+% CONCRETE MATERIAL ANIMAL
+(¸b·e •¢¬a)
+
+"aspidistra"
+% PLANT
+(µ|œeÎ‰)
+
+"aspirant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(»¡ w¸a)
+
+"aspirate"
+(‹¡·q)
+
+"aspiration"
+% CONCRETE MATERIAL MIND
+(µi w)
+
+"aspirator"
+% CONCRETE ANIMAL MATERIAL 
+(ÓsÂ‰‹¡)
+
+"aspirin"
+% CONCRETE MATERIAL 
+(´a¯aÏ¡Ÿ¥)
+
+"ass"
+% CONCRETE ANIMAL MATERIAL 
+(Š—–—·¡)
+# ass backwards (ADV) : ˆáŽ¡
+# ^break ONE_S ass (VERB) : Ï©¬a¸â·a¡ ‰e—¡”a
+# ^kiss a person's ass (VERB) : Š“¯©ˆáŸ¡”a
+# on ONE_S ass (ADV) : ´÷”÷¤w´aŸi ¿½´á
+# pain in the ass (NOUN) : ¯¥‰w»©
+
+"ass"
+% CONCRETE ANIMAL MATERIAL 
+(aŠá)
+# an ass in a lion's skin (NOUN) : ¬a¸a· ˆaº‚·i ³e aŠá
+# ^make an ass of a person (VERB) : q·i ¤a¥¡Âá‹s·i Ða”a
+# ^make an ass of ONESELF  (VERB) : ¶•·qˆáŸ¡ˆa –A”a
+# ^play the ass (VERB) : ¤a¥¡ˆ{·e »µ·i Ða”a
+# the Asses' bridge (NOUN) : ”waŠá· ”aŸ¡
+
+"ass-kisser"
+% HUMAN
+(´aÀñŽ…)
+
+"assafetida"
+(´a¶á)
+
+"assafoetida"
+(´a¶á)
+
+"assagai"
+(ÊÀw)
+
+"assailant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(‰·‰b¸a)
+
+"assart"
+% ACTION
+(ˆˆe)
+
+"assassin"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´q¬i¸a)
+# the Assassins (NOUN) : ´q¬i §¡£©‰i¬a”e
+
+"assassination"
+% MATERIAL ACTION
+(´q¬i)
+
+"assassinator"
+% HUMAN
+(´q¬i¸a)
+
+"assault"
+% MATERIAL ACTION
+( —‰·‰b)
+# assault and battery (NOUN) : Í¢Ð— ŠÈa
+# ^make an assault upon A (VERB) : [(OBJ A/·i) ¯s‰bÐa<VERB>]/”a
+# ^take a fortress by assault (VERB) : ˆw¯sÐaµa ¶a¬Ÿi ¸ñwÐa”a
+
+"assaulter"
+% HUMAN
+(¯s‰b¸a)
+
+"assay"
+% MATERIAL ACTION
+(¯¡‹q)
+# ^do ONE_S assay (VERB) : Ði ® ·¶“e •AŒa»¡ Ða”a
+
+"assaying"
+% ART
+(¯¡‹q¤ó)
+
+"assegai"
+(ÊÀw)
+
+"assemblage"
+% CONCRETE MATERIAL HUMAN
+(Š…º—)
+
+"assembler"
+% CONCRETE MATERIAL HUMAN
+(¹¡Ÿ³‰·)
+
+"assembly"
+% CONCRETE MATERIAL 
+(»³ÒA)
+# assembly line (NOUN) : ¹¡Ÿ³œa·¥
+# assembly process (NOUN) : ¹¡Ÿ³‰·¸÷
+
+"assemblyman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(·¶¥)
+
+"assent"
+% CONCRETE MATERIAL ACTION
+(•··)
+# assent and consent (NOUN) : ·ÒA· •··
+# by common assent (ADV) : ¡¡– ·©Ã¡Ðaµa
+# with one assent (ADV) :  e¸w ·©Ã¡¡
+
+"assentation"
+% ACTION
+(¦ÑÁ’A•·)
+
+"assenter"
+% HUMAN
+(Àe•·¸a)
+
+"assentient"
+% HUMAN
+(•··¸a)
+
+"assentor"
+% HUMAN
+(Àe•·¸a)
+
+"assertion"
+% CONCRETE MATERIAL ACTION
+(º¸w)
+
+"assertiveness"
+% CONCRETE MATERIAL MIND
+(”eÑ¡Ðq)
+
+"assertor"
+% HUMAN
+(º¸w¸a)
+
+"assessment"
+% CONCRETE MATERIAL ACTION
+(¦‰Á)
+# assessment insurance (NOUN) : ¦‰Á¯¢ ¥¡Ðñ
+
+"assessor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(­A´‚ ¬a¸÷¸a)
+
+"assessorship"
+% HUMAN
+(­A´‚ ¬a¸÷¸a ¸a‰b)
+
+"asset"
+% CONCRETE MATERIAL ECOLIFE
+(¸¬e)
+# assets and liabilities (NOUN) : ¸a¬e‰Á ¦À
+# asset settlement (NOUN) : ¸a¬e‰i¹A
+# deffered assets (NOUN) : ·¡µe¸a¬e
+# earning assets (NOUN) : ®·¢¸a¬e
+# fixed assets (NOUN) : ‰¡¸÷¸a¬e
+# hidden assets (NOUN) : ·e“¢¸a¬e
+# human cultural asset (NOUN) : ·¥ˆe ¢…ÑÁ¸
+# liquid assets (NOUN) : ·A•·¸a¬e                             
+# pledged assets (NOUN) : ”q¥¡¸a¬e
+# quick assets (NOUN) : ”w¹Á¸a¬e                              
+# tangible assets (NOUN) : ·AÑw¸a¬e      
+# unlisted assets (NOUN) : ¸w¦· ¸a¬e
+
+"assets"
+% ECOLIFE
+(¸a¬e)
+# assets and liabilities (NOUN) : ¸a¬e‰Á ¦À
+# circulating assets (NOUN) : ·A•·¸a¬e
+# cultural assets (NOUN) : ¢…ÑÁ¸
+# personal assets (NOUN) : •·¬e
+# real assets (NOUN) : ¦•·¬e
+
+"asseveration"
+% CONCRETE MATERIAL ACTION
+(”e´å)
+
+"assiduity"
+% CONCRETE MATERIAL 
+(‹e¡e)
+# with assiduity (ADV) : µi¯±Ó¡
+
+"assiduousness"
+% CONCRETE MATERIAL 
+(¦»¡œåÐq)
+
+"assign"
+% HUMAN 
+(´·®·¥)
+
+"assignation"
+% MATERIAL 
+(»¡¸÷)
+
+"assignee"
+% HUMAN 
+(´·®·¥)
+
+"assigner"
+% HUMAN 
+(´·•¡·¥)
+
+"assignment"
+% CONCRETE MATERIAL 
+(»¡¸÷)
+# homework assignment (NOUN) : ®‚¹A
+
+"assignor"
+% HUMAN 
+(´·•¡·¥)
+
+"assimilability"
+(•·ÑÁ ˆa“w¬÷)
+
+"assimilation"
+% MATERIAL 
+(•·ÑÁ)
+
+"assimilationist"
+% HUMAN 
+(•·ÑÁ ¸÷À‚ º·¸a)
+
+"assimilator"
+% HUMAN 
+(•·ÑÁÐa“e ¬aœq)
+
+"assist"
+% MATERIAL ACTION
+(¶¥¹¡)
+
+"assistance"
+% CONCRETE MATERIAL ACTION
+(¶¥¹¡)
+# bilateral technical assistance (NOUN) : ·¡Š‚ˆe‹¡®‰Ñs¹¡
+
+"assistant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¹¡®)
+# assistant to A {+HUMAN} for B (NOUN) : [(POSS [(ADJUNCT B/µA”Ðe) A]/·) ¥¡¹Á‰Å<NOUN>]
+
+"assistant governor"
+(¦»¡¬a)
+
+"assister"
+% HUMAN 
+(¶¥¹¡¸a)
+
+"assistor"
+% HUMAN 
+(¤w¹¡¸a)
+
+"assize"
+% ACTION 
+(¯±Ÿ¡)
+# assize town (NOUN) : ®…ÒA ¸Ìe ˆ¸÷ •¡¯¡
+# the Great Assize (NOUN) : ÂAÒ· ¯±Ìe
+
+"associability"
+% STATE 
+(Šaˆq¬÷)
+
+"associate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ã¥Š)
+
+"association"
+% CONCRETE MATERIAL 
+(µeÐs)
+# association book (NOUN) : ®È‚¥¥
+# association copy (NOUN) : ®È‚¥¥
+# customer's association (NOUN) : ­¡§¡¸a¹¡Ðs
+# producer's association (NOUN) : ¬—¬e¸a¹¡Ðs
+# in association with A (ADV) : (ADJUNCT [(COMP A/µÁ) ‰·•·<NOUN>]/¡)
+
+"associationism"
+% ART
+(µe¬wº·)
+
+"associationist"
+% HUMAN
+(¹¡Ðs· ·©¶¥)
+
+"associator"
+% HUMAN
+(•·ža)
+
+"assonance"
+% CONCRETE MATERIAL 
+(·q· ·A¬a)
+
+"assortment"
+% MATERIAL 
+(¦…ŸA)
+
+"assuagement"
+% MATERIAL 
+(µÅÑÁ)
+
+"assuasive"
+(µÅÑÁ¹A)
+
+"assumpsit"
+(·¥® ­¡­·)
+
+"assumption"
+% ACTION STATE MIND 
+(ˆa¸÷)
+# on the assumption that (ADV) : ·¡œa“e ˆa¸÷´aœ
+
+"assurance"
+% CONCRETE MATERIAL ECOLIFE
+(¥¡»w)
+# ^give an assurance (VERB) : ¥¡»wÐa”a
+# ^have full assurance that (VERB) : ·¡œa“e ˆõ·i Â—¦…Ó¡ ÑÂ¯¥Ða‰¡ ·¶”a
+# ^have the assurance to do (VERB) : ¨å¨å¯aœó‰A•¡ Ða”a
+# ^make assurance doubly sure (VERB) : º·µA º·Ÿi ”áÐa”a
+# ^make assurance double sure (VERB) : º·µA º·Ÿi ”áÐa”a
+# with assurance (ADV) : ÑÂ¯¥·i ˆa»¡‰¡
+
+"assuredness"
+(ÑÂ¯©Ðq)
+
+"assurer"
+% HUMAN
+(¥¡»w¸a)
+
+"assuror"
+% HUMAN
+(¥¡»w¸a)
+
+"astaticism"
+(¢¸÷¶á)
+
+"astatine"
+% CONCRETE MATERIAL 
+(´a¯aÈaË¥)
+
+"aster"
+% CONCRETE PLANT MATERIAL 
+(ÐŠ‚)
+# the China aster (NOUN) : ‰Á¹
+
+"asterisk"
+% CONCRETE MATERIAL 
+(¥iÎa)
+
+"asterism"
+(­A ¥iÎa)
+
+"asteroid"
+% CONCRETE MATERIAL 
+(­¡·A¬÷)
+
+"asthenia"
+% MATERIAL 
+(®A´¢)
+
+"asthma"
+% MATERIAL 
+(Àå¯¢)
+
+"asthmatic"
+% HUMAN 
+(Àå¯¢ ÑÅ¸a)
+
+"astigmatism"
+% MATERIAL 
+(e¯¡)
+
+"astonishment"
+% MATERIAL MIND
+(‰w´b)
+# in astonishment (PP->ADV) : Œq¼b ‘©œa¬á
+# with astonishment (ADV) : Œq¼b ‘©œa¬á
+# to ONE_S astonishment (ADV) : ‘©œs‰A•¡
+
+"astrachan"
+(´a¯aËaœaÄe ¡¡Ï¡)
+
+"astragal"
+% CONCRETE MATERIAL 
+(Š¯i¬å)
+
+"astragalus"
+% CONCRETE MATERIAL 
+(ˆá‰©)
+
+"astrakhan"
+(´a¯aËaœaÄe ¡¡Ï¡)
+
+"astriction"
+(¹AÐe)
+
+"astrictive"
+(®q¹A)
+
+"astringency"
+% STATE
+(®q¬÷)
+
+"astringent"
+% CONCRETE MATERIAL 
+(®q¹A)
+
+"astrionics"
+(·w¶w ¸å¸a ‰·Ðb)
+
+"astro"
+% HUMAN
+(¶º§¡Ð—¬a)
+
+"astrobiology"
+% ART
+(¶º ¬—¢‰Ðb)
+
+"astrochemistry"
+% ART
+(ÀåÁA ÑÁÐb)
+
+"astrodome"
+(ÀåÁA ‰ÅÃbÀw)
+
+"astrodynamics"
+% ART
+(ÀåÁA µbÐb)
+
+"astrogation"
+(¶º µaÐ—)
+
+"astrogator"
+% HUMAN
+(¶º µaÐ—¸a)
+
+"astrograph"
+(ÀåÁA Ðw¤ó•¡)
+
+"astrolabe"
+(ÀåÁA ‰ÅÃb·)
+
+"astrologer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¸ñ¬÷ˆa)
+
+"astrology"
+% MATERIAL ART
+(¸ñ¬÷Ðb)
+
+"astrometeorology"
+% ART
+(ÀåÁA ‹¡¬wÐb)
+
+"astrometer"
+(ÀåÁA ‰×•¡ Ãb¸÷‹¡)
+
+"astrometry"
+% ART
+(ÀåÁA Ãb¸÷)
+
+"astronaut"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¶º §¡Ð—¬a)
+
+"astronautics"
+% MATERIAL ART
+(¶º Ðw¤ó)
+
+"astronautrix"
+% HUMAN
+(µaŸA ¶º §¡Ð—¬a)
+
+"astronavigation"
+% MATERIAL ART
+(Àå¢… ÐwÐ¤ó)
+
+"astronett"
+% HUMAN
+(µaŸA ¶º §¡Ð—¬a)
+
+"astronomer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Àå¢…Ðb¸a)
+
+"astronomy"
+% MATERIAL ART
+(Àå¢…Ðb)
+
+"astrophotography"
+% ART
+(ÀåÁA ¬a»¥®‰)
+
+"astrophotometer"
+(ÀåÁA ‰×•¡‰)
+
+"astrophysicist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ÀåÁA ¢‰Ÿ¡Ðb¸a)
+
+"astrophysics"
+% MATERIAL ART
+(ÀåÁA ¢‰Ÿ¡Ðb)
+
+"astuteness"
+% MATERIAL STATE
+(‹¡£¥Ðq)
+
+"asylum"
+% CONCRETE MATERIAL PLACE
+(®¶w­¡)
+# orphan asylum (NOUN) : ‰¡´a¶¥
+# foundling asylum (NOUN) : ·B´a¶¥
+
+"asymmetry"
+% CONCRETE MATERIAL STATE
+(¦‰‹EÑw)
+
+"asymptote"
+% MATERIAL 
+(¸ñ‹e¬å)
+
+"asyndeton"
+(‰Å‰”¡w¬a)
+
+"at-bat"
+(Èa¬â)
+
+"at-home"
+(ˆa¸÷¸â Á¡”ÒA)
+
+"atabrine"
+(´aÈa§aŸ¥)
+
+"ataraxia"
+% MIND
+(¢ˆq•·)
+
+"ataraxy"
+% MIND
+(¢ˆq•·)
+
+"atavism"
+% MATERIAL 
+(‰b­A ·A¸å)
+
+"ataxia"
+% MATERIAL 
+(¶…•· ¯©¹¡)
+
+"ataxy"
+(¶…•· ¯©¹¡)
+
+"atebrine"
+(´aÈa§aŸ¥)
+
+"atelier"
+% MATERIAL 
+(´aËiŸ¡µA)
+
+"athanasia"
+% STATE
+(¦‰¡i)
+
+"athanasy"
+% STATE
+(¦‰¡i)
+
+"atheism"
+% MATERIAL ART
+(¢¯¥¥)
+
+"atheist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¢¯¥¥¸a)
+
+"athermancy"
+% STATE
+(¦‰Êµi¬÷)
+
+"atherosclerosis"
+% MATERIAL 
+(•· ‚‰wÑÁ»w)
+
+"athlete"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¶…•·¬å®)
+# athlete's foot (NOUN) : ¢¹±
+# athlete's heart (NOUN) : ¯±¸w §¡”
+# professional athlete (NOUN) : Ïa¡¬å®
+# total of NUM1 athletes (NOUN) : [(POSS [(NMODS [Á·<NOUN>]) (NMODS NUM1) ¡w<NOUN>]/·) ¬å®—i<NOUN>]
+
+"athleticism"
+(¶…•· ‰w‹¡)
+
+"athletics"
+% MATERIAL 
+(¶…•· ‰w‹¡)
+
+"athodyd"
+% CONCRETE MATERIAL 
+(œ‘¹AËa)
+
+"atlantic"
+% PLACE
+(”¬á´·)
+# atlantic ocean (NOUN) : ”¬á´·
+
+"atlantis"
+% PLACE
+(q¬wº)
+
+"atlas"
+% CONCRETE MATERIAL 
+(»¡•¡À‚)
+
+"atman"
+(®‘)
+
+"atmology"
+% ART
+(®»w‹¡Ðb)
+
+"atmosphere"
+% MATERIAL 
+(”‹¡)
+# earth's atmosphere (NOUN) : »¡Š· ”‹¡Š¥
+# friendly atmosphere (NOUN) : ¶Ñ¡¸â·¥ ¦…¶á‹¡
+# hostile atmosphere (NOUN) : ¸â·· ¦…¶á‹¡
+
+"atmospherics"
+% MATERIAL 
+(‰·¸å)
+
+"atoll"
+% CONCRETE MATERIAL PLACE
+(ÑÅ¬w ¬eÑ¡•¡)
+
+"atom"
+% CONCRETE MATERIAL 
+(¶¥¸a)
+# not an atom of (ADV) : ·e ¹¡‹q•¡ ´ô”a
+
+"atom-bomb"
+(¶¥¸aÍ¢Èe)
+
+"atomics"
+% ART
+(¶¥¸aÐb)
+
+"atomism"
+% ART
+(¶¥¸a¥)
+
+"atomismist"
+% HUMAN
+(¶¥¸a¥¸a)
+
+"atomization"
+% MATERIAL 
+(¶¥¸aÑÁ)
+
+"atomizer"
+% CONCRETE ANIMAL MATERIAL 
+(¦…¢‹¡)
+
+"atomy"
+(¶¥¸a)
+
+"atonalism"
+% HUMAN
+(¢¹¡º·)
+
+"atonality"
+(¢¹¡¬÷)
+
+"atonement"
+% MATERIAL 
+(¥¡¬w)
+
+"atony"
+% MATERIAL MIND
+(¢‹¥¸w)
+
+"atrition"
+( aÀi)
+
+"atrium"
+% CONCRETE MATERIAL PLACE
+(ˆa¶…•A›i)
+
+"atrociousness"
+% CONCRETE MATERIAL MIND
+(ÓW´bÐq)
+
+"atrocity"
+% CONCRETE MATERIAL MIND
+(¸e·¥)
+
+"atrophy"
+% MATERIAL 
+(¶áÂ‚)
+
+"atropine"
+% CONCRETE MATERIAL 
+(´aËa¡Ï¥)
+
+"atropism"
+% STATE
+(´aËa¡Ï¥ º—•¢)
+
+"attache"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®Ð—¶¥)
+# commercial attche (NOUN) : ¬w¢‰Å
+# military attache (NOUN) : ”¬a‰Å ¦ ·BŠ… ¢‰Å
+# naval attache (NOUN) : ‰·¬a‰Å ¦ ÐŠ… ¢‰Å
+
+"attachment"
+% CONCRETE MATERIAL 
+(¦Àb)
+# attachment of property (NOUN) : ¸¬e· Àb¦
+# ^form an attachment for A (VERB) : [(OBJ A/·i) ¹½´aÐa‰A –A<VERB>]/”a
+# ^form an attachment to A (VERB) : [(OBJ A/·i) ¹½´aÐa‰A –A<VERB>]/”a
+
+"attack"
+% MATERIAL ACTION
+(‰·‰b)
+# attack {PLUR+} on A (NOUN) : [(ADJUNCT A/¡·) ‰·‰b<NOUN>]
+# ^advance to the attack (VERB) : »¥‰bÐa”a
+# ^deliver an attack against A (VERB) : [(OBJ A/·i) ‰·‰bÐa<VERB>]/”a
+# ^deliver an attack on A (VERB) : [(OBJ A/·i) ‰·‰bÐa<VERB>]/”a
+# grenade attack (NOUN) : ®ŸAÈe‰·‰b
+# ground attack (NOUN) : »¡¬w‰·‰b
+# heart attack (NOUN) : ¯±¸w  a§¡
+# ^make an attack against A (VERB) : [(OBJ A/·i) ‰·‰bÐa<VERB>]/”a
+# ^make an attack on A (VERB) : [(OBJ A/·i) ‰·‰bÐa<VERB>]/”a
+
+"attacker"
+% HUMAN ORGAN
+(‰·‰b¸a)
+
+"attainability"
+% MATERIAL 
+(•¡”iÐi ˆa“w¬÷)
+
+"attainder"
+% MATERIAL ACTION
+(Š¥Ÿ¡ ¤bÈi)
+
+"attainment"
+% MATERIAL ACTION
+(”i¬÷)
+
+"attar"
+(¸w£¡ ‹¡Ÿq)
+
+"attempt"
+% MATERIAL ACTION
+(¯¡•¡)
+
+
+# in an attempt TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/Ða“e) ¯¡•¡<NOUN>]/¡)
+# ^make an attempt (VERB) : ¯¡•¡Ða”a
+# ^make an attempt TO_INF (VERB) : 
+  [(OBJ [(RELCL TO_INF/Ða“e) ˆõ<NOUN>]/·i) ¯¡•¡Ða<VERB>]/”a
+
+"attendance"
+% MATERIAL ACTION
+(Â‰¬â)
+# annual attendance (NOUN) : ‘eˆe ‰¡ˆ‚®
+# attendance at A (NOUN) : [(ADJUNCT A/µA·) Â‰¬â<NOUN>]
+# ^be in attendance on a person (VERB) : q· ¯¡º—·i —i‰¡·¶”a
+# ^dance attendance on a person (VERB) : q· §¡·AŸi  xÂ”a
+# ^give good attendance (VERB) : ¸i ¬á§¡¯aÐa”a
+
+"attendant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®Ð—¶¥)
+# department store attendant (NOUN) : ¤‚ÑÁ¸ñ¶¥
+
+"attendee"
+% HUMAN 
+(Àq¬â¸a)
+
+"attender"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ˆq¯¡·¥)
+
+"attention"
+% CONCRETE MATERIAL ACTION
+(º·)
+# ^arrest attention (VERB) : º·Ÿi i”a
+# ^attract attention (VERB) : º·Ÿi i”a
+# ^draw attention (VERB) : º·Ÿi i”a
+# ^call away the attention (VERB) : º·Ÿi ˜e•A¡ •©Ÿ¡”a
+# ^call ONE_S attention (VERB) : [(OBJ [(POSS ONE/·) º·<NOUN>]/Ÿi) ÑÅ‹¡¯¡Ç¡<VERB>]/”a
+# ^come to attention (VERB) : Àa· ¸a­AŸi ÂáÐa”a
+# ^devote ONE_S attention to A (VERB) : [(ADJUNCT A/µA) ¸å‘qÐa<VERB>]/”a
+# ^direct ONE_S attention to A (VERB) : [(OBJ A/·i) µeŠÐa<VERB>]/”a
+# ^give ONE_S attention to A (VERB) : [(ADJUNCT A/µA) º·Ða<VERB>]/”a
+# ^give attention to A (VERB) : [(ADJUNCT A/µA) º¡¢Ða<VERB>]/”a
+# media attention (NOUN) : ´å¥· ‰Å¯±
+# medical attention (NOUN) : ·ža »¥Ài
+# ^pay attention to A (VERB) : [(ADJUNCT A/µA) º¡¢Ða<VERB>]/”a
+# ^pay attention to | (VERB) : º¡¢Ða”a
+# ^pay close attention to A (VERB) : [(ADJUNCT A/µA) (MODS [¡e£©Ó¡<ADV>]) 
+º¡¢Ða<VERB>]/”a
+# ^pay attention to WHAT_CLAUSE (VERB) : [(ADJUNCT [(RELCL WHAT_CLAUSE/Ðe) 
+             ˆõ<NOUN>]/µA) º¡¢Ða<VERB>]/”a
+# ^pay ONE_S attentions to A (VERB) : [(OBJ2 A/µA‰A) (MODS [¸÷º—Ó¡<ADV>]) ”Ða<VERB>]/”a
+# ^receive immediate attention (VERB) : »b¯¡ Ã¡žaŸi ¤h”a
+# ^stand at attention (VERB) : Àaa¸a­AŸi ÂáÐa”a
+# ^turn ONE_S attention to A (VERB) : [(OBJ A/·i) µeŠÐa<VERB>]/”a
+
+"attentiveness"
+% MATERIAL 
+(º· ‹¼·q)
+
+"attenuant"
+(Ó¬â¹A)
+
+"attenuation"
+% CONCRETE MATERIAL 
+(Ó¬â)
+
+"attenuator"
+(ˆq®A‹¡)
+
+"attest"
+% CONCRETE MATERIAL
+(»w¡w)
+
+"attestation"
+% CONCRETE MATERIAL 
+(»w¡w)
+
+"attester"
+(·³ÒA»w·¥)
+
+"attestor"
+(·³ÒA»w·¥)
+
+"attic"
+% CONCRETE MATERIAL PLACE
+(”aœb)
+# the attics (NOUN) : »¡¦—£»Ãw
+
+"attire"
+% CONCRETE ANIMAL MATERIAL 
+(ÀaŸ±¬)
+
+"attitude"
+% CONCRETE MATERIAL 
+(È•¡)
+# ONE_S attitude of mind (NOUN) : ¯±¸â È•¡
+# kind attitude (NOUN) : Ã¥¸éÐe È•¡
+# ^strike an attitude (VERB) : ¹EÁAÐa”a
+
+"attitudinizer"
+% HUMAN
+(¹EÁAÐa“e ¬aœq)
+
+"attorney"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¥eÑ¡¬a)
+
+# district attorney (NOUN) : »¡¤wˆñ¬a
+# circuit attorney (NOUN) : »¡¤wˆñ¬a
+# letter of attorney (NOUN) : ¶á·±¸w
+# patent attorney (NOUN) : ËbÐá¥eŸ¡¬a
+# power of attorney (NOUN) : ”Ÿ¡ ¶á·±Š¥
+
+"attorneyship"
+% HUMAN
+(”Ÿ¡·¥· »¢¶á)
+
+"attornment"
+% ACTION ECOLIFE
+(´·•¡)
+
+"attractant"
+(·A·¥ ¢‰»©)
+
+"attracter"
+% HUMAN
+( b·¶“e ¬aœq)
+
+"attraction"
+% STATE MIND 
+( b)
+
+"attractiveness"
+% CONCRETE MATERIAL 
+(i´á”w‹¡“e Ó±)
+
+"attractor"
+% HUMAN
+( b·¶“e ¬aœq)
+
+"attribute"
+% CONCRETE MATERIAL 
+(­¢¬÷)
+
+"attribution"
+% MATERIAL 
+(•©Ÿ¡‹¡)
+
+"attributive"
+(Ðe¸÷¬a)
+
+"attunement"
+(¹¡·I)
+
+"aubade"
+(¬¥b· ‘¡œ)
+
+"auberge"
+% PLACE
+(µa·¥®‚)
+
+"aubergine"
+% CONCRETE MATERIAL 
+(ˆa»¡)
+
+"aubrietia"
+% PLANT
+(¯³¸aÑÁ‰Á· ‰Å¬w ¯¢¢‰)
+
+"auburn"
+(”aˆi¬‚)
+
+"auction"
+% CONCRETE MATERIAL ECOLIFE
+(‰w )
+# Dutch auction (NOUN) : ˆt·i Ÿ¡¦Ÿa“e ‰w 
+# auction block (NOUN) : ‰w ”
+# auction bridge (NOUN) : §aŸ¡»¡ ‘©·¡
+# ^buy a thing at auction (VERB) : ‰w ¡ ¬a”a
+# ^sell a thing at auction (VERB) : ‰w ¡ Ìi”a
+# ^buy a thing by auction (VERB) : ‰w ¡ ¬a”a
+# ^sell a thing by auction (VERB) : ‰w ¡ Ìi”a
+# public auction (NOUN) : ‰· 
+# ^put up at auction (VERB) : ‰w µA ¦›·¡”a
+# ^put up to auction (VERB) : ‰w µA ¦›·¡”a
+
+"auctioneer"
+% HUMAN
+(‰w ·¥)
+# auctioneer hammer (NOUN) : ‰w · ¤w w·¡
+
+"audaciousness"
+% CONCRETE MATERIAL MIND
+(””qÐq)
+
+"audacity"
+% CONCRETE MATERIAL MIND
+(””q¢°w)
+
+"audibility"
+(ˆaÀ÷¬÷)
+
+"audibleness"
+(ˆaÀ÷)
+
+"audience"
+% CONCRETE MATERIAL HUMAN 
+(À÷º—)
+# Hispanic audience (NOUN) : ¯aÍA·¥‰ À÷º—
+# ^be received in audience (VERB) : ´iÑe·i Ðáœb¤h”a
+# ^be admitted in audience (VERB) : ´iÑe·i Ðáœb¤h”a
+# ^give audience to A (VERB) : [(OBJ A/·i) —i´áº<VERB>]/”a
+# in general audience (ADV) : ‰·‰·µeÓ¡
+# in open audience (ADV) : ‰·‰·µeÓ¡
+# in the audience of (ADV) : q·¡ —h“e•A¬á
+# in a person's audience (ADV) : q·¡ —h“e•A¬á
+
+"audio"
+% CONCRETE MATERIAL 
+(µ¡—¡µ¡)
+# audio on demand (NOUN) : º¢…Ñw µ¡—¡µ¡
+
+"audio-visual"
+(¯¡À÷ˆb Ša¸)
+
+"audiometer"
+% CONCRETE ANIMAL MATERIAL 
+(À÷b‰)
+
+"audion"
+(»¥‰·‰Å ˆñÌa‹¡)
+
+"audiophile"
+% HUMAN
+(Ða·¡Ìa·¡ ´Ñ¡ˆa)
+
+"audiospectrograph"
+(¦…·q ‹¡¢¸wÃ¡)
+
+"audiotape"
+(·q¬÷ ‘¢·q ÉA·¡Ïa)
+
+"audiotypist"
+% HUMAN
+(À÷Âá Èa·¡Ï¡¯aËa)
+
+"audiphone"
+(¥¡À÷‹¡)
+
+"audit"
+% MATERIAL ECOLIFE
+(ÒA‰ ˆq¬a)
+# audit ale (NOUN) : •¢Ðe  ‚º
+
+"auditing"
+% ECOLIFE
+(ÒA‰ ˆq¬a)
+
+"audition"
+% MATERIAL 
+(À÷b)
+
+"auditor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ÒA‰ ˆñ¬a‰Å)
+
+"auditorium"
+% CONCRETE MATERIAL PLACE
+(À÷º—¬â)
+
+"auditory"
+% HUMAN
+(À÷º—)
+
+"auditress"
+% HUMAN
+(µa¸a ¤wÀ÷·¥)
+
+"augend"
+(Ï¡ˆa¬e®)
+
+"auger"
+% CONCRETE MATERIAL 
+(a¬a ­·‰µ)
+
+"aught"
+% CONCRETE MATERIAL 
+(µw)
+
+"augite"
+(Òá¬â)
+
+"augment"
+(¸ó– ¡¡·q¸a)
+
+"augmentation"
+% MATERIAL 
+(»wˆa)
+
+"augmentative"
+(»w”¬a)
+
+"augur"
+(¥¢¸ñ‰Å)
+
+"augury"
+% CONCRETE MATERIAL 
+(¸ñ)
+
+"august"
+% TIME
+(8¶©)
+# on August NUM1 , NUM2 (PP->ADV) : (ADJUNCT [(NMODS [(NMODS NUM2) ‘e<NOUN>])
+ (NMODS [(NMODS [8<NOUN>]) ¶©<NOUN>]) (NMODS NUM1) ·©<NOUN>]/µA)
+
+"augustness"
+(¶á´ñ)
+
+"auk"
+% CONCRETE ANIMAL MATERIAL 
+(Çe ¤a”a µ¡Ÿ¡)
+
+"auklet"
+% CONCRETE ANIMAL MATERIAL 
+(¤a”a ®Aµ¡Ÿ¡)
+
+"aunt"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(®‚¡¡)
+
+"auntie"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(´aº‘ a)
+
+"aunty"
+% HUMAN
+(´aº‘ a)
+
+"aura"
+% CONCRETE MATERIAL 
+(£¡¢aÐe ¦…¶á‹¡)
+
+"aureola"
+(Ò‰×)
+
+"aureole"
+% MATERIAL 
+(Ò‰×)
+
+"aureomycin"
+(µ¡A¡  a·¡¯¥)
+
+"auricle"
+% CONCRETE MATERIAL ANIMAL
+(¶A·¡)
+
+"auriscope"
+(ˆñ·¡‰w)
+
+"aurist"
+% HUMAN
+(·¡‰Á·)
+
+"aurochs"
+% CONCRETE ANIMAL MATERIAL 
+(¬á¦ ·Aœó· —i­¡)
+
+"aurum"
+(‹q)
+
+"auscultation"
+% MATERIAL ACTION
+(À÷»¥)
+
+"auscultator"
+% HUMAN
+(À÷»¥¸a)
+
+"auspice"
+% CONCRETE MATERIAL 
+(¸å¹¡)
+# under favorable auspices (ADV) : ¹½·e »·¹¡ ­¢µA¬á
+# under favourable auspices (ADV) : ¹½·e »·¹¡ ­¢µA¬á
+
+"auspiciousness"
+% STATE
+(‰w¬a¯aœá¶‘)
+
+"austereness"
+% CONCRETE MATERIAL MIND
+(´ñ‰b)
+
+"austerity"
+% CONCRETE MATERIAL MIND
+(´ñ‰b)
+# austerity budget (NOUN) : ‹¥Â‚µ¬e
+# austerity measures (NOUN) : ‹¥Â‚¸÷À‚
+
+"austronesian"
+% HUMAN
+(µ¡¯aËa¡‘A¯¡´a ´á¹¢)
+
+"autacoid"
+% CONCRETE MATERIAL 
+(Ñ¡Ÿa¡¥)
+
+"autarchy"
+% MATERIAL ORGAN
+(•¢¸ ¸÷Ã¡)
+
+"autarky"
+% ECOLIFE
+(‰w¹A¸â ¸a‹s¸a¹¢) 
+# autarky economy (NOUN) : ‰w¹A¸â ¸a‹s¸a¹¢
+
+"authentication"
+% CONCRETE MATERIAL 
+(»w¡w)
+
+"authenticator"
+% HUMAN
+(»w¡w¸a)
+
+"authenticity"
+% CONCRETE MATERIAL 
+(ÑÂ¯©¬÷)
+
+"author"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¸á¸a)
+# the author of evil (NOUN) :  aµ×
+# the Author of our being (NOUN) : ¹¡¢‰º
+# the author of the mischief (NOUN) : ¡µ–E ¸we· ¸w¥¥·¥
+
+"authoress"
+% HUMAN
+(µaŸA ¸bˆa)
+
+"authoritarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Š¥¶á º·¸a)
+# authoritarian rule (NOUN) : •¢¸¸â »¡¤
+
+"authoritarianism"
+% MATERIAL ART
+(Š¥¶áº·)
+
+"authoritativeness"
+(Š¥¶á)
+
+"authority"
+% CONCRETE MATERIAL 
+(Š¥¶á[”wŠ‚])
+# authorities concerned (NOUN) : Ð”w‰ÅÀ÷
+# authority to pay (NOUN) : ´á·q»¡¦‰ ®Š¥¬á
+# authority to purchase (NOUN) : ´á·q ·³ ®Š¥¬á 
+# ^have no authority over A (VERB) : [(ADJUNCT [(COMP A/µA) ”Ða<VERB>]/Ðaµa) (COMP [Š¥¶á<NOUN>]/ˆa) ´ô<VERB>]/”a
+# ^have no authority with A (VERB) : [(ADJUNCT [(COMP A/µA) ”Ða<VERB>]/Ðaµa) (COMP [Š¥¶á<NOUN>]/ˆa) ´ô<VERB>]/”a
+# housing authority (NOUN) : ºÈ‚”wŠ‚
+# intelligence authority (NOUN) : ¸÷¥¡¦
+# local authority (NOUN) : »¡¤w‰ÅÀ÷
+# on ONE_S own authority (ADV) : •¢”e·a¡
+# on good authority (ADV) : ÑÂ¯©Ðe ­¡¯¢É·µA¬á
+# on the authority of A (ADV) : (ADJUNCT [(OBJ A/·i) ‹eˆá¡ Ða<VERB>]/Ðaµa)
+# ragulating authority (NOUN) : ¹¡¸÷b
+# the authority TO_INF (NOUN) : [(RELCL TO_INF/Ða“e) Š¥¶á<NOUN>]
+# the civil authorities (NOUN) : Ð—¸÷ ”wŠ‚¸a
+# the military authorities (NOUN) : Š… ”wŠ‚¸a
+# with authority (ADV) : Š¥¶á·¶‰A
+
+"authorization"
+% CONCRETE MATERIAL ACTION
+(¶á·±)
+
+"authorship"
+% MATERIAL 
+(¸á¸b¸a·±)
+
+"autism"
+% MATERIAL STATE
+(¸aÍ¬÷)
+
+"auto"
+% CONCRETE ANIMAL MATERIAL 
+(¸a•·Àa)
+
+"auto-attendant"
+(¸a•· ´e)
+
+"auto-dafe"
+(¬aÑw¬å‰¡)
+
+"auto-erotism"
+% MIND
+(¸a‹¡ ¬‚¸÷)
+
+"autobahn"
+% CONCRETE MATERIAL PLACE
+(¸a•·Àa ‰¡­¢•¡¡)
+
+"autobicycle"
+(µ¡µ¡É¡¤a·¡)
+
+"autobike"
+(µ¡É¡¤a·¡)
+
+"autobiographer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¸a¬á¸å ¸b¸a)
+
+"autobiography"
+% CONCRETE MATERIAL ART
+(¸a¬á¸å)
+
+"autoboat"
+(¤i•·‹¡¬å)
+
+"autobus"
+% CONCRETE ANIMAL MATERIAL 
+(¤á¯a)
+
+"autocade"
+(¸a•·Àa Ð—i)
+
+"autocamp"
+(¸a•·Àa µaÐ—¸a¶w Ä‘Ïa¸w)
+
+"autocar"
+(¸a•·Àa)
+
+"autochthon"
+% HUMAN
+(¶¥º£¥)
+
+"autochthonism"
+(É¡Àb)
+
+"autocide"
+% ACTION
+(¸a•·Àa ¸a¬i)
+
+"autoclave"
+% CONCRETE ANIMAL MATERIAL 
+(‰¡´s­»)
+
+"autocracy"
+% MATERIAL ORGAN
+(•¢¸ ¸÷Ã¡)
+
+"autocrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(•¢¸ Š…º)
+
+"autocycle"
+(µ¡É¡¤a·¡)
+
+"autodidact"
+% HUMAN
+(•¢Ðb¸a)
+
+"autodrome"
+% PLACE
+(¸a•·Àa ‰wº¸w)
+
+"autodyne"
+(µ¡É¡”a·¥ ®¯¥¸wÃ¡)
+
+"autogamy"
+(¸aˆa¬—¯¢)
+
+"autogenesis"
+(¸aµe ¤i¬—)
+
+"autogeny"
+(¸a‹¡ ¤i¬—)
+
+"autogiro"
+(µ¡µ¡É¡¸a·¡¡¶)
+
+"autograph"
+% CONCRETE MATERIAL 
+(¸aÏ©¬á¡w)
+
+"autography"
+(¸aÏ© ¢…¬á)
+
+"autogravure"
+% ART
+(¬a»¥Ìe ¹¡ˆb¤ó)
+
+"autohypnosis"
+(¸a‹¡ ÂA¡e)
+
+"autoinfection"
+(¸a‹¡ ˆqµq)
+
+"autoinoculation"
+(¸a‹¡¸ó¹·)
+
+"autointoxication"
+(¸aˆa º—•¢)
+
+"autoist"
+% HUMAN
+(¸a•·Àa ¬w¶w¸a)
+
+"autokinesis"
+(¸a•· ¶…•·)
+
+"autolysis"
+(¸a‹¡¦…Ð)
+
+"automaker"
+(¸a•·Àa ¹A¹¡´ó¸a)
+
+"automat"
+% CONCRETE ANIMAL MATERIAL 
+(¸a•· Ìe ‹¡)
+
+"automata"
+(¸a•·¸wÃ¡)
+
+"automatic"
+% CONCRETE MATERIAL 
+(¸a•· ‹¡‰)
+
+"automaticity"
+(¸a•·¬÷)
+
+"automaticity"
+(¸a•·¬÷)
+
+"automation"
+% MATERIAL 
+(¸a•·)
+# office automation (NOUN) : ¬a¢ ¸a•·ÑÁ
+# factory automation (NOUN) : ‰·¸w ¸a•·ÑÁ
+# home automation (NOUN) : ˆa¬a ¸a•·ÑÁ
+
+"automatism"
+(¸a•·¬÷)
+
+"automatograph"
+(¸a•· ‹¡¢‹¡)
+
+"automaton"
+% CONCRETE ANIMAL MATERIAL 
+(¸a•· ¸wÃ¡)
+
+"autome"
+% PLACE
+(·¡•· ºÈ‚)
+
+"autometer"
+(¸a•·Àa ­¢•¡‰)
+
+"automobile"
+% CONCRETE MATERIAL 
+(¸a•·Àa)
+# luxury automobile (NOUN) : ‰¡‹s ¯w¶wÀa
+
+"automobilism"
+(¸a•·Àa· ¬a¶w)
+
+"automobilist"
+% CONCRETE MATERIAL HUMAN
+(¸a•·Àa ¬w¶w¸a)
+
+"autonomist"
+% HUMAN
+(¸aÃ¡¥¸a)
+
+"autonomy"
+% MATERIAL ORGAN
+(¸aÃ¡)
+
+"autonym"
+(¥¥¡w)
+
+"autopista"
+% PLACE
+(‰¡­¢•¡¡)
+
+"autopilot"
+(¸a•·¹¡¹·‹¡) 
+
+"autoplasty"
+(¸a‹¡¹¡»¢ Ñw¬÷®‰)
+
+"autopolo"
+(¸a•·ÀaŸi Èa‰¡Ða“e Í©¡)
+
+"autopsy"
+% ACTION
+(ˆñ¯¡)
+
+"autoroute"
+% PLACE
+(‰¡­¢•¡¡)
+
+"autostrada"
+% PLACE
+(‰¡­¢•¡¡)
+
+"autotoxin"
+(¸aˆa •¢­¡)
+
+"autotoxis"
+(¸aˆa º—•¢)
+
+"autotrasformer"
+(”eŠ¥ ¥e´s‹¡)
+
+"autotruck"
+(ÑÁ¢‰ ¸a•·Àa)
+
+"autotype"
+(µ¡É¡Èa·¡Ïa)
+
+"autotypogrpahy"
+(µ¡É¡Èa·¡ÏaÌe®‰)
+
+"autovert"
+% HUMAN
+(·¡‹¡¸â·¥ ¶…¸å®)
+
+"autoxidation"
+(¸a•· ¬eÑÁ)
+
+"autumn"
+% CONCRETE TIME MATERIAL 
+(ˆa·i)
+
+"autumnation"
+(Â¬‚ÑÁ)
+
+"autunite"
+(·¥ÒA¶œa“Q‰×)
+
+"auxiliary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(¥¡¹¡¸a)
+
+"auxin"
+% CONCRETE MATERIAL 
+(µ¡µ¢¯¥)
+
+"avail"
+% CONCRETE MATERIAL ECOLIFE
+(·¡·¢)
+# ^be of avail (VERB) : ³i¡¡ˆa ·¶”a
+# ^be of no avail (VERB) : ¸åÑa ³i¡¡´ô”a
+# ^be of little avail (VERB) : ˆá· ³i¡¡´ô”a
+# to no avail (ADV) : Ðõ–A‰A
+# without avail (ADV) : Ðõ–A‰A
+
+"availability"
+% CONCRETE MATERIAL 
+(·A¶w¬÷)
+
+"availableness"
+(·A¶wÐq)
+
+"avalanche"
+% MATERIAL 
+(­á•¡)
+# avalanche blast (NOUN) : ’…¬aÈ
+
+"avant-courier"
+% HUMAN
+(¬åŠ¸a)
+
+"avant-garde"
+(¸å¶á)
+
+"avarice"
+% CONCRETE MATERIAL MIND
+(Èq¶b)
+
+"avariciousness"
+% CONCRETE MATERIAL MIND
+(Èq¶b)
+
+"avatar"
+% HUMAN
+(Š¥ÑÁ)
+
+"ave"
+(ÑÅµw ·¥¬a)
+
+"avenger"
+% HUMAN
+(¥¢®¸a)
+
+"avens"
+(´§¥»a)
+
+"aventurine"
+% MATERIAL 
+(¬a‹q¬â)
+
+"avenue"
+% CONCRETE MATERIAL PLACE
+(”¡)
+# an avenue to success (NOUN) : ¬÷‰·µA ·¡Ÿa“e ‹©
+# ^explore every avenue (VERB) : µ¥ˆx ®”e·i ”a ³a”a
+
+"average"
+% CONCRETE MATERIAL 
+(Íw‹E)
+# arithmetic average (NOUN) : ¬e®‰Íw‹E
+# general average (NOUN) : ·©¤eÍw‹E
+# harmonic average (NOUN) : ¹¡ÑÁÍw‹E
+# industrial average (NOUN) : ¬e´óÍwŠ…
+# weighted average (NOUN) : ˆaº—Íw‹E
+
+"averager"
+% HUMAN ECOLIFE
+(Ð­¥ À÷¬e·¥)
+
+"averment"
+% CONCRETE MATERIAL ACTION
+(´å¡w)
+
+"averseness"
+% MIND
+(Ñqµ¡)
+
+"aversion"
+% MATERIAL MIND
+(Ñqµ¡)
+# aversion therapy (NOUN) : Ñqµ¡ˆq ¶a¤ó
+# my pet version (NOUN) : ´aº ¯°·e ˆõ
+
+"aves"
+% ANIMAL
+(¹¡ŸA)
+
+"avesta"
+(¹E—a ´a¥A¯aÈa)
+
+"aviarist"
+% HUMAN
+(´‹qˆa)
+
+"aviary"
+% CONCRETE ANIMAL MATERIAL PLACE
+(Çe ¬¸w)
+
+"aviation"
+% MATERIAL ACTION
+(§¡Ð—)
+# aviation association (NOUN) : §¡Ð—ÑsÒA
+# aviation meet (NOUN) : §¡Ð—‰w‹¡ÒA
+# aviation badge (NOUN) : Ðw‰·‹¡¸w
+# aviation cap (NOUN) : §¡Ð—¡¡
+# aviation corps (NOUN) : Ðw‰·”
+# aviation ground (NOUN) : §¡Ð—¸w
+# aviation medicine (NOUN) : Ðw‰··Ðb
+# civil aviation (NOUN) : £¥ˆe §¡Ð—
+
+"aviator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(§¡Ð—ˆa)
+
+"aviatress"
+% HUMAN
+(µaŸA §¡Ð—ˆa)
+
+"aviatrix"
+% HUMAN
+(µaŸA §¡Ð—ˆa)
+
+"aviculture"
+(¬‹¡Ÿa‹¡)
+
+"avidity"
+% MATERIAL MIND
+(¶bŠ)
+# with avidity (ADV) : µi¯±Ó¡
+
+"aviette"
+(‹iœa·¡”á¯¢ ­¡Ñw §¡Ð—‹¡)
+
+"avifauna"
+% HUMAN
+(¹¡ŸA¬w)
+
+"avionics"
+% ART
+(Ðw‰· ¸å¸a‰·Ðb)
+
+"aviso"
+(‰·¢…¬á ¤i­·)
+
+"avitaminosis"
+(§¡Èa£¥ ‰iÏ³»w)
+
+"avocado"
+% CONCRETE MATERIAL PLANT
+(´a¥¡Äa—a a¢)
+
+"avocation"
+% MATERIAL 
+(¦´ó)
+
+"avocet"
+% CONCRETE ANIMAL MATERIAL 
+(–AªŸ¡¸w”aŸ¡¢‰™A¬)
+
+"avoidance"
+% CONCRETE MATERIAL ACTION
+(•¡Ï¡)
+
+"avoirdupois"
+% CONCRETE MATERIAL 
+(¬wÑw)
+
+"avoset"
+% ANIMAL
+(–AªŸ¡¸w”aŸ¡¢‰™A¬)
+
+"avouchment"
+% ACTION
+(”e´å)
+
+"avowal"
+% CONCRETE MATERIAL ACTION
+(‰·´å)
+
+"avulsion"
+% ACTION
+(¸s´aÀ‹¡)
+
+"awakening"
+% MATERIAL ACTION
+(Œ‹¡)
+
+"award"
+% CONCRETE MATERIAL ACTION
+(¬w)
+# the hero fund award (NOUN) : µw¶— ‹¡‹q¬w
+# award ceremony (NOUN) : ¯¡¬w¯¢
+
+"awardee"
+% HUMAN
+(®¬w¸a)
+
+"awarder"
+% HUMAN
+(¯¡¬w¸a)
+
+"awareness"
+% ACTION MIND 
+(·¥¯¢)
+
+"away"
+(¶¥¸÷¯¡Ðs)
+
+"awe"
+% MATERIAL MIND
+(–a¶‘)
+# ^be in awe of A (VERB) : [(OBJ A/·i) –a¶¡Ða<VERB>]/”a
+# ^stand in awe of A (VERB) : [(OBJ A/·i) –a¶¡Ða<VERB>]/”a
+# ^be struct with awe (VERB) : ¶á´ñµA ’‰Ÿ¡”a
+# ^keep a person in awe (VERB) : q·i “i –a¶¡Ða‰A Ða”a
+# ^with awe (ADV) : ¶á´ñµA ’‰Ÿ¡”a
+
+"awfulness"
+% MIND
+(–a¶‘)
+
+"awkwardness"
+% CONCRETE MATERIAL 
+(¥¡‹¡ÓWÐq)
+
+"awl"
+% CONCRETE ANIMAL MATERIAL 
+(­·‰µ)
+
+"awn"
+(Œaaœa‹¡)
+
+"awning"
+% CONCRETE ANIMAL MATERIAL 
+(Àa·©)
+
+"awol"
+% HUMAN
+(¢”e ‰i‹e¸a)
+
+"awolism"
+% ACTION
+(¢”e ‰i‹e)
+
+"ax"
+% CONCRETE ANIMAL MATERIAL 
+(•¡¡)
+# ^get the ax (VERB) : ¡¢·¡ ¸iŸ¡”a
+# ^hang up ONE_S ax (VERB) : ³i•A´ô“e ‰ÒB·i º—»¡Ða”a
+# ^have an ax to grind (VERB) : ˜e ­¢­Q·¡ ·¶”a
+# ^put the ax in the helve (VERB) : ´áa¶… ¢…¹AŸi Ð‰iÐa”a
+# ^give the ax (VERB) : Ð‰¡Ða”a
+
+"axe"
+% CONCRETE ANIMAL MATERIAL 
+(•¡¡)
+# ^get the axe (VERB) : ¡¢·¡ ¸iŸ¡”a
+# ^hang up ONE_S axe (VERB) : ³i•A´ô“e ‰ÒB·i º—»¡Ða”a
+# ^have an axe to grind (VERB) : ˜e ­¢­Q·¡ ·¶”a
+# ^put the axe in the helve (VERB) : ´áa¶… ¢…¹AŸi Ð‰iÐa”a
+# ^give the axe (VERB) : Ð‰¡Ða”a
+
+"axeman"
+% HUMAN
+(•¡¡Ÿi ³a“e ¬aœq)
+
+"axes"
+(•¡¡· ¥¢®Ñw)
+
+"axestone"
+(µ¢)
+
+"axgrinder"
+% HUMAN
+(·qÓWÐe ¬aœq)
+
+"axil"
+(µs´‚)
+
+"axilla"
+% CONCRETE MATERIAL ANIMAL
+(‰a—aœw·¡)
+
+"axinite"
+(µ¢)
+
+"axiom"
+% CONCRETE MATERIAL 
+(¶¥Ÿ¡)
+
+"axis"
+% CONCRETE MATERIAL 
+(Â‚)
+
+"axle"
+% CONCRETE ANIMAL MATERIAL 
+(ÀaÂ‚)
+
+"axletree"
+% CONCRETE ANIMAL MATERIAL 
+(Š‰”)
+
+"axman"
+% HUMAN
+(•¡¡Ÿi ³a“e ¬aœq)
+
+"axman"
+% HUMAN
+(•¡¡Ÿi ³a“e ¬aœq)
+
+"axolotl"
+% CONCRETE ANIMAL MATERIAL 
+(´‚­©¡Ëi)
+
+"axon"
+% CONCRETE MATERIAL 
+(Â‚¬‚)
+
+"axone"
+(Â‚¬‚)
+
+"axstone"
+(µ¢)
+
+"axstone"
+(µ¢)
+
+"ay"
+% ACTION
+(Àe¬÷)
+# the ayes and noes (NOUN) : Àe¬÷‰Á ¤e”
+
+"ayah"
+% HUMAN
+(Ða‘a)
+
+"ayatollah"
+(´a´¡É©œa)
+
+"aye"
+% ACTION
+(Àe¬÷)
+# the ayes and noes (NOUN) : Àe¬÷‰Á ¤e”
+
+"aye-aye"
+% CONCRETE ANIMAL MATERIAL 
+(”aœqºá¶¥®—·¡)
+
+"azalea"
+% CONCRETE MATERIAL PLANT
+(»¥”iœ)
+
+"azan"
+(‹¡•¡· ¹·)
+
+"azimuth"
+% MATERIAL 
+(¤w¶áˆb)
+# azimuth compass (NOUN) : ¤w¶á aÃ±·
+# azimuth stabilizer (NOUN) : ¤w¶á´e¸÷‹¡
+# azimuth circle (NOUN) : ¤w¶áŠ¥
+
+"azobenzene"
+(´a¹¡ ¥E¹E)
+
+"azobenzol"
+(´a¹¡ ¥E¹E)
+
+"azure"
+% CONCRETE MATERIAL 
+(Ða“i¬‚)
+
+"azurite"
+(q•·‰Å)
+
+"azym"
+% FOOD
+(Òa­¡Ÿi ý»¡ ´g·e ¨w)
+
+"azyme"
+% FOOD
+(Òa­¡Ÿi ý»¡ ´g·e ¨w)

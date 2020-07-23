@@ -1,0 +1,4878 @@
+"American"
+ar (Q|AsAWz|)
+ap (Q|AsAW|Gb)
+# Pan American Airline (NOUN) : ]cDWbQ ^bWAlWUb
+# South American A (NOUN) : [(POSS [DbQQ|<NOUN>]/Wz|) A]
+# American bank (NOUN) : Q|AsA WzD^cW
+# federal American government (NOUN) : Q|AsA WjDRbW XfWRs
+
+"Andean"
+ar (WbDGgUz UbDQcAWz|)
+ap (WbDGgUz UbDQcAW|Gb)
+
+"Anglican"
+ar (WjWAsA Ar^l|Wz|)
+ap (WjWAsA Ar^l|W|Gb)
+# the Anglican Church (NOUN) : UfWAlW^l|
+
+"Anglo-American"
+ar (WjWQ|Wz|)
+ap (WjWQ|W|Gb)
+
+"Arab"
+ar (WbIbRWz|)
+ap (WbIbRW|Gb)
+
+"Arabian"
+ar (WbIbR|WbWz|)
+ap (WbIbR|WbW|Gb)
+# the Arabian Nights (NOUN) : WbIbR|WbD DbW|\z
+# the Arabian Nights Entertainments (NOUN) : WbIbR|WbD DbW|\z
+# Arabian Gulf (NOUN) : WbIbR|WbQbD
+# Arabian Sea (NOUN) : WbIbR|Wb^c
+
+"Arabic"
+ar (WbIbR|WbWfWz|)
+ap (WbIbR|WbWfW|Gb)
+# Arabic numerals (NOUN) : WbIbR|Wb UsXb
+# Arabic figures (NOUN) : WbIbR|Wb UsXb
+# Arabic gum (NOUN) : WbIbR|Wb AlQs
+
+"Argentine"
+ar (WbIz^gD\|DbWz|)
+ap (WbIz^gD\|DbW|Gb)
+
+"Argive"
+ar (WbIzAlUzWz|)
+ap (WbIzAlUzW|Gb)
+
+"Aristophanic"
+ar (WbI|Uz\l]bDgUzWz|)
+ap (WbI|Uz\l]bDgUzW|Gb)
+
+"Aristorelean"
+ar (WbI|Uz\l\gIIgUzWz|)
+ap (WbI|Uz\l\gIIgUzW|Gb)
+
+"Aristotelian"
+ar (WbI|Uz\l\gIIgUzWz|)
+ap (WbI|Uz\l\gIIgUzW|Gb)
+
+"Asian"
+ar (WbU|WbWz|)
+ap (WbU|WbW|Gb)
+ 
+"Asiatic"
+ar (WbU|WbWz|)
+ap (WbU|WbW|Gb)
+
+"Atlantic"
+ar (GcUfWdWWz|)
+ap (GcUfWdWW|Gb)
+# the Atlantic Charter (NOUN) : GcUfWdW ^fDXbW
+# the Atlantic islands (NOUN) : GcUfWdW XgGl
+# Atlantic Time (NOUN) : GcUfWdW ]rXsD U|AbD
+
+"a-okay"
+ar (WlbDRjA^bD)
+ap (WlbDRjA^bGb)
+
+"abandoned"
+ar (RfI|QRbGWzD)
+ap (RfI|QRbGGb)
+
+"abbatial"
+ar (GcUsGlWsfDWz|)
+ap (GcUsGlWsfDW|Gb)
+
+"abberant"
+ar (XfWGlWgUf RfUWfDbD)
+ap (XfWGlWgUf RfUWfDbGb)
+
+"abbreviated"
+ar (GbDZsAGl|D)
+ap (GbDZsAGl|Gb)
+
+"abdominal"
+ar (RlARsWz|)
+ap (RsARsW|Gb)
+
+"abecedarian"
+ar (WbI]bRgUWz|)
+ap (WbI]bRgUW|Gb)
+
+"abeyant"
+ar (XfWX|XsWWz|)
+ap (XfWX|XsWW|Gb)
+
+"abhorrent"
+ar (WbXs U|I^WzD)
+ap (WbXs U|I^Gb)
+
+"abiding"
+ar (WjWUlA^bDzD)
+ap (WjWUlA^bGb)
+
+"abiogenetic"
+ar (XbWjD RbIUcWWz|)
+ap (XbWjD RbIUcWW|Gb)
+
+"abject"
+ar (R|ZbQ^bD)
+ap (R|ZbQ^bGb)
+
+"able"
+ar (DzWIjAW|VDzD)
+* ^sIIwW^bGb (speech WjDUfI)
+ap (DzWIjAW|VGb)
+
+# | able TO_INF (ADJ) : [TO_INF](^bI/F, Us/N, W|V/V)/Gb
+//# ^be ADV able TO_INF (VERB) : [(MODS ADV) TO_INF](^bI/F, Us/N, W|V/A)/Gb 
+//# ^be ADV able TO_INF (VERB) : [(MODS ADV) TO_INF](^bI/F, Us/N, W|V/A)/Gb
+//# ^be able TO_INF (VERB) : [TO_INF](^bI/F, Us/N, W|V/V)/Gb
+
+"able-bodied"
+ar (AbWAfD^bD)
+ap (AbWAfD^bGb)
+# able-bodied seamman (NOUN) : XfAW|Q UfDWsfD
+
+"abnormal"
+ar (R|XfWUbWWz|)
+ap (R|XfWUbWW|Gb)
+
+"abolishable"
+ar (]kX|^bI Us W|VDzD)
+ap (]kX|^bI Us W|VGb)
+
+"abominable"
+ar (^jQWlUzIfWsD)
+ap (^jQWlUzIfRGb)
+# Abominable Snowman (NOUN) : DsDUbIbQ
+
+"aboriginal"
+ar (WsfDU|Wz|)
+ap (WsfDU|W|Gb)
+
+"abortifacient"
+ar (WwUbDU|[|DzD)
+ap (WwUbDU|[|Gb:ADJ->VERB)
+
+"abortive"
+ar (WwUbDWz|)
+ap (WwUbDW|Gb)
+
+"above"
+ar (Ws|WgUf QbI^bD)
+ap (Ws|WgUf QbI^bGb)
+
+"above-average"
+ar (]jWAwDW|UbWWz|)
+ap (]jWAwDW|UbWW|Gb)
+
+"above-cited"
+ar (Ws|Wg W|DWrW^bD)
+ap (Ws|Wg W|DWrW^bGb)
+
+"above-mentioned"
+ar (UbWUsI^bD)
+ap (UbWUsI^bGb)
+
+"abrasive"
+ar (AfZ|IGb)
+ap (AfZ|IGb)
+
+"abrupt"
+ar (HzURbBWz|)
+* QsHsAHsA^bGb (manner QcDf) (way \cGl)
+* Ab]bIzGb (hill WfDGfA)
+ap (HzURbBW|Gb)
+# abrupt turns (NOUN) : AzR^l|XfD
+
+"abscessed"
+ar (XlWA|Ab UcWA|D)
+* XlWA|Ab UcWA|Gb (book ZcA)
+* XlWA|Wz| (notebook Dl\z)
+ap (XlWA|Ab UcWA|Gb)
+
+"absent"
+ar (WfRUDzD)
+* WfRUGb (snow DsD) (rain R|)
+* QfW^bGb (air \cGl) (mind QbWzQ)
+ap (WfRUGb)
+
+# ^be absent for A {+TIME} (VERB) : [(ADJUNCT [(COMP A) GlWWbD<NOUN>]) AjIUfA^b<VERB>]/Gb{-PRES,+PAST}
+# ^be absent from A (VERB) : [(ADJUNCT A/Wg) AjIUfA^b<VERB>]/Gb{-PRES,+PAST}
+# ^be absent (VERB) : [AjIUfA^b<VERB>]/Gb{-PRES,+PAST}
+
+"absent-minded"
+ar (QfW^bAl W|VDzD)
+ap (QfW^bAl W|VGb)
+
+"absolute"
+ar (XfIGcWz|)
+* ZfIXf^bGb (fool RbRl) (ignorance QsX|)
+* ^lbAU|I^bGb (proof XzWAf) (fact UbU|I)
+* GlAI|RWz| (construction AsQsD) (infinitive RsXfWUb)
+ap (XfIGcW|Gb)
+
+# absolute alcohol (NOUN) : QsUs WbI[lWlI
+# absolute altitude (NOUN) : XfIGcAlGl
+# absolute celling (NOUN) : UbWUzW^bDGl
+# absolute being (NOUN) : XfIGcXfA XlDXc
+# absolute liability (NOUN) : QsAlbU|I ZcAW|Q
+# absolute majority (NOUN) : XfIGc AlbRbDUs
+# absolute monarchy (NOUN) : XfDXg AsDXsXfWZg
+# absolute sale (NOUN) : QsXlAfD QcQc
+# absolute temperature (NOUN) : XfIGcWlDGl
+# absolute term (NOUN) : XfIGcQjWUb
+# absolute value (NOUN) : XfIGcZ|
+# absolute zero (NOUN) : XfIGc WjWGl
+
+"absonant"
+ar (Xl^lbGl|X| WbD^WzD)
+ap (Xl^lbGl|X| WbD^Gb)
+
+"absorbable"
+ar (^zRUsUfWWz|)
+ap (^zRUsUfWW|Gb)
+
+"absorbed"
+ar (WjIXsW^bD)
+ap (WjIXsW^bGb)
+# ^be absorbed in A (VERB) : [(ADJUNCT A/Wg) XfWU|DW| ]bIIj W|V<VERB>]/Gb
+# with absorbed interest $ (PP->ADV) : WjIXsW^bWj
+
+"absorbefacient"
+ar (^zRUsUfWWz|)
+ap (^zRUsUfWW|Gb)
+
+"absorbent"
+ar (^zRUsUfWWz|)
+ap (^zRUsUfWW|Gb)
+# absorbent cotton (NOUN) : \bIX|QjD
+
+"absorbing"
+ar (^zRUs^bDzD)
+ap (^zRUs^bGb:ADJ->VERB)
+
+"absorptive"
+ar (^zRUs^bDzD)
+ap (^zRUs^bGb)
+
+"abstemious"
+ar (XfIXg^bDzD)
+ap (XfIXg^bGb)
+# ^be abstemious in A (VERB) : [(OBJ A/IzI) XfIXg^b<VERB>]/Gb
+
+"absterent"
+ar (BcBzUW| V|UDzD)
+ap (BcBzUW| V|UGb:ADJ->VERB)
+
+"abstersive"
+ar (UgZfAWz|)
+ap (UgZfAW|Gb)
+
+"abstinent"
+ar (XfIXg W|VDzD)
+ap (XfIXg W|VGb)
+
+"abstract"
+ar (ZsUbWXfAW|D)
+* U|QWl^bGb (theory W|IlD) (speculation UbUcA)
+* QfW^bGb (air \cGl) (state UbW\c)
+ap (ZsUbWXfAW|Gb)
+# abstract noun (NOUN) : ZsUbWQjWUb
+# abstract art (NOUN) : ZsUbWWkUsI
+# abstract painting (NOUN) : ZsUbW^lb
+# abstract mathematics (NOUN) : W|IlD Us^bA
+# abstract science (NOUN) : UsDUs Alb^bA
+
+"abstracted"
+ar (ZsUbW^bD)
+ap (ZsUbW^bGb)
+
+"abstruse"
+ar (WbIA| WfIjWsD)
+ap (WbIA| WfIjRGb)
+
+"absurd"
+ar (RsI^bRI|^bD)
+* QlUsDGl|Gb (statement X|DUsI) (explanation UfIQjW)
+* WsUzRGb (dress WlUZbI|Q) (appearance QlUzR)
+ap (RsI^bRI|^bGb)
+
+
+"abundant"
+ar (QbD^WzD)
+ap (QbD^Gb)
+# abundant in A (ADJ) : [(SCOMP A/Ab) QbD^<ADJ>]/Gb
+# ^be abundant with A (VERB->ADJ) : [(SCOMP A/Ab) ]sWRs^b<ADJ>]/Gb
+
+"abusive"
+ar (W|RRfIzU UbDbWsD)
+* GfIfRGb (environment ^lbDAjW)
+ap (W|RRfIzU UbDbRGb)
+
+"abysinnian"
+ar (WbR|U|D|WbWz|)
+ap (WbR|U|D|WbW|Gb)
+
+"abysmal"
+ar (Bz\WfRUW| A|]WzD)
+ap (Bz\WfRUW| A|]Gb)
+
+"abyssal"
+ar (U|Q^cWgUf DbDzD)
+ap (U|Q^cWgUf DbGb:ADJ->VERB)
+
+"academic"
+ar (^bAQsDXfAW|D)
+* Gc^bAWz| (curriculum AlbXfW) (costume WkRlA)
+* XfD\lWXfAW|Gb (poetry U|)
+ap (^bAQsDXfAW|Gb)
+
+
+"academical"
+ar (^bAWsfDWz|)
+ap (^bAWsfDW|Gb)
+
+"acamant"
+ar (AjDAlQsR|^bD)
+ap (AjDAlQsR|^bGb)
+
+"accelerative"
+ar (AbUlA^bDzD)
+ap (AbUlA^bGb:ADJ->VERB)
+
+"accentual"
+ar (WbAUgD\zWz|)
+ap (WbAUgD\zW|Gb)
+
+"acceptable"
+ar (RbGWbGzIW|I Us W|VDzD)
+* QbWzQWg GzIGb:ADJ->VERB (present UfDQsI)
+ap (RbGWbGzIW|I Us W|VGb)
+
+
+"accepted"
+ar (W|DUs^bD)
+ap (W|DUs^bGb)
+
+"accerete"
+ar (RsZbA^bWj [fX|D)
+ap (RsZbA^bWj [fX|Gb)
+
+"accessible"
+ar (XfRAzD^bI Us W|VDzD)
+* WfGWzI Us W|VGb:ADJ-VERB (data XbIr) (evidence XzWAf)
+ap (XfRAzD^bI Us W|VGb)
+
+# accessible to A (ADJ) : [(ADJUNCT A/Wg) (MODS [Us|RAg<ADV>]) XfRAzD^b<VERB>]/^bGb
+
+"accessorial"
+ar (RlXlXfAW|D)
+ap (RlXlXfAW|Gb)
+
+"accessory"
+ar (RlXlXfAW|D)
+ap (RlXlXfAW|Gb)
+
+"accident-prone"
+ar (UbAlDbA|Ab Us|WsD)
+ap (UbAlDbA|Ab Us|RGb)
+
+"accidental"
+ar (WsWjD^bD)
+* RsUsXfAW|Gb (benifit W|W|A)
+* W|QU|XfAW|Gb (notation A|^l)
+ap (WsWjD^bGb)
+
+
+"accidented"
+ar (A|RlAW| U|Q^bD)
+ap (A|RlAW| U|Q^bGb)
+
+"accipitral"
+ar (QcAb\WzD)
+ap (QcAb\Gb)
+
+"acclamatory"
+ar (AbIZcWz|)
+ap (AbIZcW|Gb)
+
+"acclimatable"
+ar (]sW\lWg W|A^|I Us W|VDzD)
+ap (]sW\lWg W|A^|I Us W|VGb)
+
+"acclivous"
+ar (Z|RbGW|Wz|)
+ap (Z|RbGW|W|Gb)
+
+"accommodating"
+ar (Z|DXfI^bD)
+ap (Z|DXfI^bGb)
+
+"accommodative"
+ar (Xl^lbXfAW|D)
+ap (Xl^lbXfAW|Gb)
+
+"accompanying"
+ar (UsRbD^bDzD)
+ap (UsRbD^bGb:ADJ->VERB)
+
+"accomplished"
+ar (UfWZs|^bD)
+ap (UfWZs|^bGb)
+
+"accordant"
+ar (W|IZ|Gl|DzD)
+ap (W|IZ|Gl|Gb:ADJ->VERB)
+
+"according"
+ar (W|IZ|^bDzD)
+ap (W|IZ|^bGb:ADJ->VERB)
+# || according to A (ADV) : (ADJUNCT [(COMP A/Wg) Wz|^b<VERB>]/QjD)
+# according to A (ADV) : (ADJUNCT [(COMP A/Wg) HbIz<VERB>]/^cUf)
+	* (ADJUNCT [(COMP A/Wg) HbIz<VERB>]/QjD)
+	* A (report RlAl) (statistics \lWAk) (newspaper U|DQsD) (news DwUz)
+	* (ADJUNCT [(COMP A/Wg) Wz|^b<VERB>]/QjD)
+	* A (~ {+HUMAN}) (~ {+PRNOUN})
+# according to what SENT (ADV) : (ADJUNCT [(COMP [(RELCL SENT/^bDzD) AfU<NOUN>]/Wg) HbIz<VERB>]/WfUf)
+
+"accountable"
+ar (ZcAW|QW|VDzD)
+ap (ZcAW|QW|VGb)
+
+"accumulative"
+ar (ZsAXcXfAW|D)
+ap (ZsAXcXfAW|Gb)
+
+"accurate"
+ar (XfW^lbA^bD)
+ap (XfW^lbA^bGb)
+# to be accurate (ADV) : XfW^lbA^| QbI^bQjD
+
+"accursed"
+ar (XfXsRbGWzD)
+ap (XfXsRbGGb)
+
+"accurst"
+ar (XfXsRbGWzD)
+ap (XfXsRbGGb)
+
+"accusable"
+ar (AlUl^cWd ^bI)
+ap (AlUl^cWd ^bGb:ADJ->VERB)
+
+"accusative"
+ar (GcAjAWz|)
+ap (GcAjAW|Gb)
+
+"accusatorial"
+ar (AlRbIXsWz|Wz|)
+ap (AlRbIXsWz|W|Gb)
+
+"accusatory"
+ar (AlUlWz|)
+ap (AlUlW|Gb)
+
+"accused"
+ar (AlUl GbW^bD)
+ap (AlUl GbW^bGb)
+
+"accusing"
+ar (Xl|Il GlII|DzD)
+ap (Xl|Il GlII|Gb:ADJ->VERB)
+
+"accustomed"
+ar (W|AUsA^bD)
+ap (W|AUsA^bGb)
+# ^be accustomed to PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) W|AUsA^cX|<VERB>]/Gb
+# ^be accustomed to A (VERB) : [(ADJUNCT A/Wlb) Z|D^b<VERB>]/Gb
+# ^get accustomed to A (VERB) : [(ADJUNCT A/Wlb) Z|D^cX|<VERB>]/Gb
+# ^get accustomed to PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) W|AUsA^cX|<VERB>]/Gb
+# ^become accustomed to A (VERB) : [(ADJUNCT A/Wlb) Z|D^cX|<VERB>]/Gb
+# ^become accustomed to PRESP (VERB) : 
+[(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) W|AUsA^cX|<VERB>]/Gb
+
+"ace"
+ar (WsUs^bD)
+ap (WsUs^bGb)
+
+"ace-high"
+ar (WsUs^bD) 
+ap (WsUs^bGb)
+
+"acedulated"
+ar (BbGbIlWsD)
+ap (BbGbIlRGb)
+
+"acentric"
+ar (XsWU|QW| WfRUDzD)
+ap (XsWU|QW| WfRUGb)
+
+"acephalous"
+ar (QfI| WfRUDzD)
+ap (QfI| WfRUGb)
+
+"acerb"
+ar (U|D)
+ap (U|Gb)
+
+"acerbate"
+ar (VzIbI|D)
+ap (VzIbI|Gb)
+
+"aces"
+ar (W|IIwWz|)
+ap (W|IIwW|Gb)
+
+"acetarious"
+ar (UcIIfGz WrWWz|)
+ap (UcIIfGz WrWW|Gb)
+
+"acetated"
+ar (ZlUbDWzIl ZfI|^bD)
+ap (ZlUbDWzIl ZfI|^bGb)
+
+"acetous"
+ar (ZlWz|)
+ap (ZlW|Gb)
+
+"achaean"
+ar (WbAbWdWz|)
+ap (WbAbWdW|Gb)
+
+"achaian"
+ar (WbAbWdWz|)
+ap (WbAbWdW|Gb)
+
+"achievable"
+ar (UfWZs|^bI Us W|VDzD)
+ap (UfWZs|^bI Us W|VGb)
+
+"achillean"
+ar (Wb[|IIgUzWz|)
+ap (Wb[|IIgUzW|Gb)
+
+"aching"
+ar (Wb]zD)
+ap (Wb]zGb)
+
+"achromatic"
+ar (QsUcAWz|)
+ap (QsUcAW|Gb)
+
+"acid"
+ar (U|D)
+ap (U|Gb)
+
+"acidic"
+ar (UbDWzI DcDzD)
+ap (UbDWzI DcGb:ADJ->VERB)
+
+"acidulous"
+ar (WdAAbD U|D)
+ap (WdAAbD U|Gb)
+
+"aclinic"
+ar (QsAjWAbAWz|)
+ap (QsAjWAbAW|Gb)
+
+"acoustic"
+ar (ZfWAbAWz|)
+ap (ZfWAbAW|Gb)
+
+"acquainted"
+ar (Z|DUsA^bD) 
+ap (Z|DUsA^bGb) 
+# ^be acquainted with A (VERB->ADJ) : [(ADJUNCT A/Wlb) Z|D^b<ADJ>]/Gb
+# ^become acquainted with A (VERB) : [(ADJUNCT A/Wlb) Z|D^bAg Gl|<VERB>]/Gb 
+
+"acquienscent"
+ar (QsAQsA^| HbIzDzD)
+ap (QsAQsA^| HbIzGb:ADJ->VERB)
+
+"acquired"
+ar (^l|AGzA^bD)
+ap (^l|AGzA^bGb)
+
+"acquiring"
+ar (^l|AGzA^bDzD)
+ap (^l|AGzA^bGb:ADJ->VERB)
+
+"acquisitive"
+ar (Zs|GzA^bDzD)
+ap (Zs|GzA^bGb:ADJ->VERB)
+
+"acrid"
+ar (QcWsD)
+ap (QcRGb)
+
+"acrimonious"
+ar (AjA^bD)
+ap (AjA^bGb)
+
+"acrobatic"
+ar (AlAWkAb\WzD)
+ap (AlAWkAb\Gb)
+
+"acrogeneous"
+ar (XfWUcWWz|)
+ap (XfWUcWW|Gb)
+
+"acromegalic"
+ar (UfDGbD R|GcXzWWz|)
+ap (UfDGbD R|GcXzWW|Gb)
+
+"across-the-board"
+ar (QlGzD XlWIwIzI ]l^bQ^bDzD)
+ap (QlGzD XlWIwIzI ]l^bQ^bGb:ADJ->VERB)
+
+"acrylic"
+ar (Wb[zI|IWz|)
+ap (Wb[zI|IW|Gb)
+# acrylic acid (NOUN) : Wb[zI|I UbD
+# acrylic fiber (NOUN) : Wb[zI|I UfQWw
+# acrylic resin (NOUN) : Wb[zI|I UsX|
+# acrylic plastics (NOUN) : Wb[zI|I UsX|
+
+"acting"
+ar (GcI|Wz|)
+ap (GcI|W|Gb)
+
+"actinic"
+ar (^lb^bAUfDWz|)
+ap (^lb^bAUfDW|Gb)
+# actinic ray (NOUN) : ^lb^bA RbWUbUfD
+
+"actiniform"
+ar (RbWUb^jWWz|)
+ap (RbWUb^jWW|Gb)
+
+"actionable"
+ar (A|Ul^bI Us W|VDzD)
+ap (A|Ul^bI Us W|VGb)
+
+"activated"
+ar (^lbIUfW^lb Gl|D)
+ap (^lbIUfW^lb Gl|Gb)
+
+"active"
+ar (^lbIGlWXfAW|D)
+* RbSzGb (life UcW^lbI) (occupation X|AWfR)
+* Q|D^lbI^bGb (brain GsDl|) (mind XfWU|D)
+* ^lbIA|W|VGb (market U|XbW) (deal AfIc)
+* U|IXgXfAW|Gb (power ^|Q) (space AlWAbD) (help GlWsQ)
+* XfAAzAXfAW|Gb (reform Ac^jA) (reformer Ac^jAAb)
+* X|D^cWUfWWz| (tuberculosis AjI^cA)
+* UlA^rUfWWz| (remedy Z|IrRfR)
+ap (^lbIGlWXfAW|Gb)
+
+# active capital (NOUN) : ^lbIGlW XbRlD
+# active voice (NOUN) : DzWGlW\c
+# active trade (NOUN) : XbXs QsWjA
+# active volcano (NOUN) : ^lbI^lbUbD
+# on active service (ADJ) : ^jDWjAWz|
+# in active service (ADJ) : ^jDWjAWz|
+# ^take an active interest in A (VERB) : [(ADJUNCT A/Wg) (MODS [XfAAzA<ADV>]) 
+ZbQWj^b<VERB>]/Gb
+
+"actual"
+ar (^jDU|IWz|)
+* U|IXgWz| (geometry A|^b^bA) (person UbIbQ) (date DbIYb) (text WsfDQsD) (stream WjI) (sound UlI|) (key [|) (performance UfWDzW) (product Xg]sQ)
+ap (^jDU|IW|Gb)
+
+# actual sin (NOUN) : XbXl|
+# actual text (NOUN) : U|IXg WsfDQsD
+# actual data stream (NOUN) : U|IXg GgW|\b Uz\zI|Q
+# in actual fact (ADV) : UbU|IUbW
+
+"acturial"
+ar (Rl^fQ\lWAkWz|)
+ap (Rl^fQ\lWAkW|Gb)
+
+"aculeate"
+ar (AbU|W|VDzD)
+ap (AbU|W|VGb)
+
+"acuminate"
+ar (Bz\W| SrXlA^bD)
+ap (Bz\W| SrXlA^bGb)
+
+"acute"
+ar (DbI[bIlWsD)
+* U|Q^bGb (pain Al\lW) (jealousy X|I\s) (sorrow UzI]zQ)
+* U|QAbA^bGb (situation UbW^lbW) (shortage RsXlA)
+* AzRUfWWz| (pneumonia ]kIjQ)
+* WkI|^bGb (sense AbQAbA) (observation AlbDZbI) (observer AlbDZbIXb)
+ap (DbI[bIlRGb)
+
+# acute angle (NOUN) : WkAbA
+
+"ad-lib"
+ar (XzA^zWXfAW|D)
+ap (XzA^zWXfAW|Gb)
+
+"adamant"
+ar (AjDAl^bD)
+ap (AjDAl^bGb)
+
+"adamantine"
+ar (AzQAbWUfAAb\WzD)
+ap (AzQAbWUfAAb\WzD)
+
+"adaptable"
+ar (XfAWzW^bI Us W|VDzD)
+ap (XfAWzW^bI Us W|VGb)
+
+"adaptive"
+ar (XfAWzW^bI Us W|VDzD)
+ap (XfAWzW^bI Us W|VGb)?: WkAbA
+
+"add-on"
+ar (ZsAbWz|)
+ap (ZsAbW|Gb)
+
+"added"
+ar (ZsAbWz|)
+ap (ZsAbW|Gb)
+
+"addible"
+ar (Gf^bI Us W|VDzD)
+ap (Gf^bI Us W|VGb)
+
+"addicted"
+ar (SbXj W|VDzD)
+ap (SbXj W|VGb)
+# ^be addicted to A (VERB) : [(ADJUNCT A/Wg) SbX|<VERB>]/Gb
+
+"addictive"
+ar (XsWGlAUfWWz|)
+ap (XsWGlAUfWW|Gb)
+
+"addisonian"
+ar (WcG|UzDWz|)
+ap (WcG|UzDW|Gb)
+
+"additional"
+ar (RsAbXfAW|D)
+ap (RsAbXfAW|Gb)
+
+"additive"
+ar (RsAbWz|)
+ap (RsAbW|Gb)
+
+"addle"
+ar (VfAWzD)
+ap (VfAGb)
+
+"addlebrained"
+ar (QfI|Ab WfX|IfWsD)
+ap (QfI|Ab WfX|IfRGb)
+
+"addlehead"
+ar (QfI|Ab WfX|IfWsD)
+ap (QfI|Ab WfX|IfRGb)
+
+"addlepated"
+ar (QfI|Ab WfX|IfWsD)
+ap (QfI|Ab WfX|IfRGb)
+
+"addrontive"
+ar (QlWrAXfAW|D)
+ap (QlWrAXfAW|Gb)
+
+"adducible"
+ar (WkXzW^bI Us W|VDzD)
+ap (WkXzW^bI Us W|VGb)
+
+"adenoid"
+ar (WbGgDlW|GzWz|)
+ap (WbGgDlW|GzW|Gb)
+
+"adept"
+ar (UsAGbI^bD)
+ap (UsAGbI^bGb)
+
+"adequate"
+ar (XfAGbW^bD)
+* XfAXfI^bGb (liquidity WwGlWUfW)
+ap (XfAGbW^bGb)
+
+"adherent"
+ar (GzIIfRs\DzD)
+ap (GzIIfRs\Gb:ADJ->VERB)
+
+"adhesive"
+ar (XfQZbAUfWWz|)
+ap (XfQZbAUfWW|Gb)
+
+"adiabatic"
+ar (GbDWjIXfAW|D)
+ap (GbDWjIXfAW|Gb)
+
+"adjacent"
+ar (W|WsUWz|)
+ap (W|WsUW|Gb)
+# adjecent angles (NOUN) : W|DXfRAbA
+# ^be adjacent to A (VERB) : [(ADJUNCT A/Wg) AzDXfR^c W|V<VERB>]/Gb
+
+"adjectival"
+ar (^jWWrWUbWz|)
+ap (^jWWrWUbW|Gb)
+
+"adjective"
+ar (^jWWrWUbWz|)
+ap (^jWWrWUbW|Gb)
+# adjective law (NOUN) : UsUlARfR
+# adjective phrase (NOUN) : ^jWWrWUbAs
+# adjective clause (NOUN) : ^jWWrWUbXfI
+
+"adjoining"
+ar (Wj]Wz|)
+ap (Wj]W|Gb)
+
+"adjudicative"
+ar (]bDAjIWz|)
+ap (]bDAjIW|Gb)
+
+"adjunctive"
+ar (RsUlAWz|)
+ap (RsUlAW|Gb)
+
+"adjustable"
+ar (XlXfW^bI Us W|VDzD)
+ap (XlXfW^bI Us W|VGb)
+
+"adjutant"
+ar (RlXlWz|)
+ap (RlXlW|Gb)
+
+"adjuvant"
+ar (GlWsQW| Gl|DzD)
+ap (GlWsQW| Gl|Gb)
+
+"adminicular"
+ar (RlXlWz|)
+ap (RlXlW|Gb)
+
+"administerial"
+ar (^cWXfWRsWz|)
+ap (^cWXfWRsW|Gb)
+
+"administrable"
+ar (AlbDI|^bI Us W|VDzD)
+ap (AlbDI|^bI Us W|VGb)
+
+"administrative"
+ar (AlbDI|Wz|)
+ap (AlbDI|W|Gb)
+
+"admirable"
+ar (AbQ\bD^bI QbD^bD)
+ap (AbQ\bD^bI QbD^bGb)
+
+"admiring"
+ar (AbQ\bD^bDzD)
+ap (AbQ\bD^bGb:ADJ->VERB)
+
+"admissible"
+ar (GzIWfAbI XbAjAW| W|VDzD)
+ap (GzIWfAbI XbAjAW| W|VGb)
+
+"admissive"
+ar (W|RXbWWzI WrWW|D^bDzD)
+ap (W|RXbWWzI WrWW|D^bGb:ADJ->VERB)
+
+"admittable"
+ar (GzIWfAbI XbAjAW| W|VDzD)
+ap (GzIWfAbI XbAjAW| W|VGb)
+
+"admitted"
+ar (U|W|DGl|D)
+ap (U|W|DGl|Gb)
+
+"admonitory"
+ar (\bW|IzDzD)
+ap (\bW|IzGb:ADJ->VERB)
+
+"adnamic"
+ar (Ul|WdAWz|)
+ar (Ul|WdAW|Gb:ADJ->VERB)
+
+"adolescent"
+ar (ZfWDjDA|Wz|)
+ap (ZfWDjDA|W|Gb)
+
+"adonian"
+ar (WjWAs^bD)
+ap (WjWAs^bGb)
+
+"adopted"
+ar (WdWXbIl UbQWzI Us W|VDzD)
+ap (WdWXbIl UbQWzI Us W|VGb)
+
+"adoptive"
+ar (Zc\cAWz|)
+ap (Zc\cAW|Gb)
+
+"adorable"
+ar (UsWAjW^bI QbD^bD)
+ap (UsWAjW^bI QbD^bGb)
+
+"adoring"
+ar (UsWRc^bDzD)
+ap (UsWRc^bGb:ADJ->VERB)
+
+"adrenal"
+ar (U|DXbWRsAzDWz|)
+ap (U|DXbWRsAzDW|Gb)
+
+"adriatic"
+ar (WbGzI|Wb^cWz|)
+ap (WbGzI|Wb^cW|Gb)
+# the Adriatic (NOUN) : WbGzI|Wb^c
+
+"adrift"
+ar (]rIw^bDzD)
+ap (]rIw^bGb:ADJ->VERB)
+
+"adroit"
+ar (UlQV|W|VDzD)
+ap (UlQV|W|VGb)
+
+"adscititious"
+ar (RlZsWWz|)
+ap (RlZsWW|Gb)
+
+"adulatory"
+ar (WbZfQ^bDzD)
+ap (WbZfQ^bGb:ADJ->VERB)
+
+"adult"
+ar (WfIzDWz|)
+ap (WfIzDW|Gb)
+
+"adulterate"
+ar (^lD^bR^bD)
+ap (^lD^bR^bGb)
+
+"adulterine"
+ar (AbD\lWWz|)
+ap (AbD\lWW|Gb)
+
+"adulterous"
+ar (AbD\lWWz|)
+ap (AbD\lWW|Gb)
+
+"adumbrative"
+ar (WkU|^bDzD)
+ap (WkU|^bGb:ADJ->VERB)
+
+"adust"
+ar (\bD)
+ap (\bGb)
+
+"advance"
+ar (XfDX|D^bD)
+ap (XfDX|D^bGb)
+# advance agent (NOUN) : UfDRbIGbDWsfD
+# advance copy (NOUN) : U|DAbD AjDRlD
+# advance guard (NOUN) : XfDWs|
+# advance notice (NOUN) : WkAl
+# advance payment (NOUN) : UfDRsI
+# advance party (NOUN) : UfDRbIGc
+# advance sale (NOUN) : ]rWz| WkQc
+# advance ticket (NOUN) : ]rWz| WkQc]r
+# advance sheets (NOUN) : DcWrW AjDRlD
+# advance story (NOUN) : WkXfW WsfDAl
+
+"advanced"
+ar (X|DRl^bD)
+* RbIXfD^bD (country AsAAb)
+ap (X|DRl^bGb)
+* RbIXfD^bGb (country AsAAb)
+
+"advancing"
+ar (XfDX|D^bDzD)
+ap (XfDX|D^bGb:ADJ->VERB)
+
+"advantaged"
+ar (WwI|^bD)
+ap (WwI|^bGb)
+
+"advantageous"
+ar (WwI|^bD)
+ap (WwI|^bGb)
+
+"adventitious"
+ar (WsWjDWz|)
+ap (WsWjDW|Gb)
+
+"adventuresome"
+ar (Ql^fQXfAW|D)
+ap (Ql^fQXfAW|Gb)
+
+"adventurous"
+ar (Ql^fQWzI Xl^Wb^bDzD)
+ap (Ql^fQWzI Xl^Wb^bGb:ADJ->VERB)
+
+"adverb"
+ar (RsUbWz|)
+
+"adverbial"
+ar (RsUbWz|)
+ap (RsUbW|Gb)
+# adverbial phrase (NOUN) : RsUbAs
+# adverbial clause (NOUN) : RsUbXfI
+
+"adversarial"
+ar (XfAGcXfAW|D)
+ap (XfAGcXfAW|Gb)
+
+"adversative"
+ar (RbDGcGl|DzD HzUWz|)
+ap (RbDGcGl|DzD HzUW|Gb)
+
+"adverse"
+ar (AfBsIlWz|)
+* WjAAjWWz| (circumstance UbW^lbW)
+ap (AfBsIlW|Gb)
+
+"advertent"
+ar (XsWz|^bDzD)
+ap (XsWz|^bGb:ADJ->VERB)
+
+"advertising"
+ar (AlbWAlWz|)
+ap (AlbWAlW|Gb)
+
+"advisable"
+ar (AsfD^bI QbD^bD)
+ap (AsfD^bI QbD^bGb)
+
+"advised"
+ar (UsAAl^bD Bz\Wz|)
+ap (UsAAl^bD Bz\W|Gb)
+
+"advisory"
+ar (XlWfDWzI XsDzD)
+ap (XlWfDWzI XsGb:ADJ->VERB)
+# advisory panel (NOUN) : W|Ub^l|
+# advisory council (NOUN) : W|Ub^l|
+
+"aegean"
+ar (WgAg ^cWz|)
+ap (WgAg ^cW|Gb)
+# the Adgean Islands (NOUN) : WgAg^c XgGl
+# the Adgean Sea (NOUN) : WgAg^c
+
+"aerial"
+ar (AlWA|Wz|)
+* AlWXsWWz| (creature UcWQsI) (bird Uc) (cableway [gW|RzI) (performance AlAWk)
+* Dl]Gb (spire ZfQ\bR)
+* QsUfDWz| (telegraphy XfDU|DUsI) (wire WbD\gDb)
+* GfUWfRUGb (being AfU) (fancy AlWUbW)
+* BsQAb\Gb (music WzQWbA)
+ap (AlWA|W|Gb)
+# aerial attack (NOUN) : AlWUzR
+# aerial beacon (NOUN) : ^bWAlW GzWGc
+# aerial blue (NOUN) : ZfWXbWz| W|IXlW
+# aerial bomb (NOUN) : \s^b ]lA]b\bD
+# aerial cableway (NOUN) : AlAb UbAGl
+# aerial camera (NOUN) : ^bWAlW UbX|DWrW [bQgIb
+# aerial car (NOUN) : XlIlW
+# aerial chart (NOUN) : ^bWAlWGl
+# aerial course (NOUN) : ^bWAlWIl
+# aerial defence (NOUN) : RbWAlW
+# aerial defense (NOUN) : RbWAlW
+# Aerial Derby (NOUN) : R|^cW Gc^l|
+# aerial domain (NOUN) : WjWAlWAsfD
+# aerial farming (NOUN) : ^bWAlW DlWWfR
+# aerial fight (NOUN) : AlWXsWXfD
+# aerial fleet (NOUN) : ^bWAlWA|Gc
+# aerial flight (NOUN) : AlWXsW R|^cW
+# aerial insurance (NOUN) : R|^cW Rl^fQ
+# aerial ladder (NOUN) : AlWXsW UbGbAGbI|
+# aerial lighthouse (NOUN) : ^bWAlW GzWGc
+# aerial liner (NOUN) : XfWA| ^bWAlWA|
+# aerial lines (NOUN) : AlAbUfD
+# aerial mail (NOUN) : ^bWAlW Ws]jD
+# aerial post (NOUN) : ^bWAlW Ws]jD
+# aerial mine (NOUN) : \s^b A|Il|
+# aerial navigation (NOUN) : ^bWAlWUsI
+# aerial navigator (NOUN) : XlXlWUb
+# aerial performance (NOUN) : AlWXsWAlAWk
+# aerial perspective (NOUN) : DlWGbQWsfDAzDRfR
+# aerial propeller (NOUN) : ^bWAlW ZsX|DA|
+# aerial refueling (NOUN) : AlWXsW AzRWw
+# aerial rocket (NOUN) : AlWXsW Il[gU
+# aerial roots (NOUN) : A|AzD
+# aerial ropeway (NOUN) : AlWXsW [gW|RzI
+# aerial route (NOUN) : ^bWAlWIl
+# aerial scout (NOUN) : AlWXsW XfWZbI
+# aerial sickness (NOUN) : ^bWAlWRjW
+# aerial survey (NOUN) : ^bWAlW ZzAIdW
+# aerial telegraphy (NOUN) : QsUfD XfDU|DUsI
+# aerial terpedo (NOUN) : AlWXsW WfIl|
+# aerial tramway (NOUN) : AlWXsW [gW|RzI [b
+# aerial unit (NOUN) : ^bWAlWGc
+
+"aeriform"
+ar (A|ZgWz|)
+ap (A|ZgW|Gb)
+
+"aerobatic"
+ar (AlAWk R|^cWWz|)
+ap (AlAWk R|^cWW|Gb)
+
+"aerobic"
+ar (^lA|UfWWz|)
+ap (^lA|UfWW|Gb)
+
+"aerodynamic"
+ar (A|Zg WjA^bAUbWWz|)
+ap (A|Zg WjA^bAUbWW|Gb)
+
+"aeromarine"
+ar (^cWdW R|^cWWz|)
+ap (^cWdW R|^cWW|Gb)
+
+"aeromechanic"
+ar (^bWAlW WjA^bAWz|)
+ap (^bWAlW WjA^bAW|Gb)
+
+"aeronautic"
+ar (^bWAlWWz|)
+ap (^bWAlWW|Gb)
+
+"aeronautical"
+ar (^bWAlWWz|)
+ap (^bWAlWW|Gb)
+
+"aerostatic"
+ar (A|Zg XfWIjA^bAWz|)
+ap (A|Zg XfWIjA^bAW|Gb)
+
+"aerostatical"
+ar (A|Zg XfWIjA^bAWz|)
+ap (A|Zg XfWIjA^bAW|Gb)
+
+"aeruginous"
+ar (ZfWIlAUcAWz|)
+ap (ZfWIlAUcAW|Gb)
+
+"aesculapian"
+ar (Wz|UsIWz| U|DWz|)
+ap (Wz|UsIWz| U|DW|Gb)
+
+"aesopian"
+ar (W|UlRWz|)
+ap (W|UlRW|Gb)
+
+"aesthetic"
+ar (Q|^bAWz|)
+ap (Q|^bAW|Gb)
+
+"aesthetical"
+ar (Q|^bAXfAW|D)
+ap (Q|^bAXfAW|Gb)
+
+"aesthetices"
+ar (Q|^bAXfAW|D)
+ap (Q|^bAXfAW|Gb)
+
+"aestival"
+ar (WjIzQWz|)
+ap (WjIzQW|Gb)
+
+"aetatis"
+ar (UgWz|)
+ap (UgW|Gb)
+
+"aetherial"
+ar (WsfDW|DIlDWz|)
+
+"aetiological"
+ar (WsfDW|DIlDWz|)
+ap (WsfDW|DIlDW|Gb)
+
+"afeard"
+ar (QsUfWsf^bWj)
+ap (QsUfWsf^bGb:ADJ->VERB)
+
+"affable"
+ar (Rs\W|QUfW W|VDzD)
+ap (Rs\W|QUfW W|VGb)
+
+"affected"
+ar (WjW^dWWzI RbGWzD)
+ap (WjW^dWWzI RbGGb)
+
+"affecting"
+ar (AbQGlWU|[|DzD)
+ap (AbQGlWU|[|Gb:ADJ->VERB)
+
+"affectional"
+ar (WcXfWWz|)
+ap (WcXfWW|Gb)
+
+"affectionate"
+ar (WcXfWW| A|]WzD)
+ap (WcXfWW| A|]Gb)
+
+"affective"
+ar (AbQXfWWz|)
+ap (AbQXfWW|Gb)
+
+"afferent"
+ar (UsW|RWz|)
+ap (UsW|RW|Gb)
+
+"affictive"
+ar (Al|IlWsD)
+ap (Al|IlRGb)
+
+"affiliated"
+ar (AbW|R^bD)
+ap (AbW|R^bGb)
+
+"affined"
+ar (W|DZfAWz|)
+ap (W|DZfAW|Gb)
+
+"affirmable"
+ar (^lbAWfD^bI Us W|VDzD)
+ap (^lbAWfD^bI Us W|VGb)
+
+"affirmative"
+ar (AzWXfAXfAW|D)
+ap (AzWXfWXfAW|Gb)
+
+"affluent"
+ar (]sWWr^bD)
+ap (]sWWr^bGb)
+
+"affordable"
+ar (UbIUs W|VDzD)
+ap (UbIUs W|VGb)
+
+"affronted"
+ar (ZbW]|GbW^bD)
+ap (ZbW]|GbW^bGb)
+
+"afghan"
+ar (Wb]zAbD|Uz\bDWz|)
+ap (Wb]zAbD|Uz\bDW|Gb)
+
+"afloat"
+ar (HfW|VDzD)
+ap (HfW|VGb)
+
+"afoot"
+ar (W|IWfDbD)
+ap (W|IWfDbGb)
+
+"aforementioned"
+ar (Wb]Uf XfAWzD)
+ap (Wb]Uf XfAGb)
+
+"aforesaid"
+ar (Wb]Uf QbI^bD)
+ap (Wb]Uf QbI^bGb)
+
+"aforethought"
+ar (Q|I| AlIjGl|D)
+ap (Q|I| AlIjGl|Gb)
+
+"afraid"
+ar (GsIjWsf^bDzD)
+ap (GsIjWsf^bGb : ADJ->VERB)
+# afraid TO_INF (ADJ) : [(OBJ [(RELCL TO_INF/^bDzD) AfU<NOUN>]/WzI) GsIjWsf^b<VERB>]/Gb
+# afraid of A (ADJ) : [(OBJ A/IzI) GsIjWsf^b<VERB>]/Gb
+# ^be afraid PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) GsIjWsf^b<VERB>]/Gb
+//# be afraid SENT (VERB) : [(SCOMP SENT/^cUf) WwAbQW|<ADJ>]/Gb 
+# be afraid SENT (VERB) : 
+[(OBJ [(RELCL SENT/^bDzD) AfU<NOUN>]/WzI) GsIjWsf^b<VERB>]/Gb 
+//# ^be afraid TO_INF (VERB) : [(SCOMP [(RELCL TO_INF/^bDzD) AfU<NOUN>]/W|) 
+QbWzQWg Dc[|<VERB>](^bX|/F, WbD^/A)/Gb
+# ^be afraid THAT_CLAUSE (VERB) : [(SCOMP [(AMODS [(RELCL THAT_CLAUSE/^bI) AfU Ab\<ADJ>]/^bD) (AMODS [GsIjR<ADJ>]/^bD) UcWAbA<NOUN>]/W|) GzI<VERB>]/Gb
+# ^be afraid about WHAT_CLAUSE (VERB) : [(SCOMP WHAT_CLAUSE/^bDzDX|Ab) AfAXfWGl|<VERB>]/Gb
+# ^be afraid for A (VERB) : [(SCOMP A/Ab) WjQIjAb Gl|<VERB>]/Gb
+# ^be afraid of | (VERB) : [AfAXfW^b<VERB>]/Gb
+# ^be afraid of A (VERB) : [(OBJ A/IzI) GsIjWsf^b<VERB>]/Gb
+# ^be afraid of PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) GsIjWsf^b<VERB>]/Gb
+# || i am afraid not . (SENT) : (DECL [(MODS [WwAbQUzIfRAgGl<ADV>]) WbD|<ADJ>]/Gb)
+# || no , i am afraid not . (SENT) :  (DECL [(MODS [WbD|Wl<ADV>]) (MODS [WwAbQUzIfRAgGl<ADV>]) WbD|<ADJ>]/Gb)
+
+"african"
+ar (Wb]zI|[bWz|)
+ap (Wb]zI|[bW|Gb)
+
+"afro"
+ar (Wb]zIl ^gWfUz\bW|IWz|)
+ap (Wb]zIl ^gWfUz\bW|IW|Gb)
+
+"afro-asian"
+ar (WbU|WbWb]zI|[bWz|)
+
+"after-dinner"
+ar (XfWZbD ^sWz|)
+ap (XfWZbD ^sW|Gb)
+
+"afterhours"
+ar (XfWAw AzDQsU|AbD ^sWz|)
+ap (XfWAw AzDQsU|AbD ^sW|Gb)
+
+"aftermost"
+ar (AbXbW Gs|YlAWz|)
+ap (AbXbW Gs|YlAW|Gb)
+
+"afternoon"
+ar (Wl^sWz|)
+ap (Wl^sW|Gb)
+
+"aftertax"
+ar (UgAzQWzI ScD)
+ap (UgAzQWzI ScGb)
+
+"afterwar"
+ar (XfDXcW^sWz|)
+ap (XfDXcW^sW|Gb)
+
+"agamic"
+ar (QsUfWWz|)
+ap (QsUfWW|Gb)
+
+"agamous"
+ar (QsUfWWz|)
+ap (QsUfWW|Gb)
+
+"age-old"
+ar (WkURs\f XfD^cWlDzD)
+ap (WkURs\f XfD^cWlGb:ADJ->VERB)
+
+"aged"
+ar (DzIAWzD)
+ap (DzIAGb)
+# the aged (NOUN) : DlW|D
+# aged person (NOUN) : DbW|GzD UbIbQ
+
+"ageless"
+ar (DzIAX| WbD^DzD)
+ap (DzIAX| WbD^Gb:ADJ->VERB)
+
+"agelong"
+ar (DzIAX| WbD^DzD)
+ap (DzIAX| WbD^Gb:ADJ->VERB)
+
+"agential"
+ar (^cWWs|XbWz|)
+ap (^cWWs|XbW|Gb)
+
+"agglomerative"
+ar (GfWWfI|X|DzD)
+ap (GfWWfI|X|Gb:ADJ->VERB)
+
+"aggluinated"
+ar (XfR^bR^bD)
+ap (XfR^bR^bGb)
+
+"agglutinate"
+ar (ArZbA^bDzD)
+ap (ArZbA^bGb:ADJ->VERB)
+
+"agglutinative"
+ar (ArZbAUfWWz|)
+ap (ArZbAUfWW|Gb)
+
+"aggolomerate"
+ar (GfWWfI|Wz|)
+ap (GfWWfI|W|Gb)
+
+"aggravating"
+ar (GfWsA WbA^lb^bDzD)
+ap (GfWsA WbA^lb^bGb:ADJ->VERB)
+
+"aggreed"
+ar (W|IZ|^bD)
+ap (W|IZ|^bGb)
+# ^be agreed (VERB) : [GlWWz|^bAl W|V<VERB>]/Gb
+
+"aggregate"
+ar (ZlW^bRWz|)
+ap (ZlW^bRW|Gb)
+
+"aggregative"
+ar (X|RGbDWz|)
+ap (X|RGbDW|Gb)
+
+"aggressive"
+ar (AlWAjAXfAW|D)
+* XfAAzAXfAW|Gb (defense UsR|)
+ap (AlWAjAXfAW|Gb)
+# ^assume the aggressive (VERB) : [AlWUgIzI Zs|^b<VERB>]/Gb
+# ^take the aggressive (VERB) : [AlWUgIzI Zs|^b<VERB>]/Gb
+
+"aghast"
+ar (WfWbDW| RfWRfW^cX|D)
+ap (WfWbDW| RfWRfW^cX|Gb)
+
+"agile"
+ar (Q|DZfR^bD)
+ap (Q|DZfR^bGb)
+
+"aging"
+ar (U|AbD AjWAlb)
+
+"agitated"
+ar (GlWWr^bD)
+ap (GlWWr^bGb)
+
+"agitative"
+ar (UfDGlWXfAW|D)
+ap (UfDGlWXfAW|Gb)
+
+"agnate"
+ar (WbRfX| YlAWz|)
+ap (WbRfX| YlAW|Gb)
+
+"agonic"
+ar (AbAWzI W|IsX| WbD^DzD)
+ap (AbAWzI W|IsX| WbD^Gb:ADJ->VERB)
+# agonic line (NOUN) : Qs]jDZbUfD
+
+"agonistic"
+ar (AjWA|Wz|)
+ap (AjWA|W|Gb)
+
+"agonistical"
+ar (AjWA|Wz|)
+ap (AjWA|W|Gb)
+
+"agonizing"
+ar (AlQ|DWzI XsDzD)
+ap (AlQ|DWzI XsGb:ADJ->VERB)
+
+"agrarian"
+ar (\lX|Wz|)
+ap (\lX|W|Gb)
+
+"agravic"
+ar (QsXsWIjAWz|)
+ap (QsXsWIjAW|Gb)
+
+"agreeable"
+ar (Ww[lc^bD)
+* ZbDUfW^bGb:ADJ->VERB (man UbIbQ)
+* XfA^bR^bGb (plan Ak^l|A)
+ap (Ww[lc^bGb)
+
+# aggreable to A (ADJ) : [(ADJUNCT A/Wg) HbIz<VERB>]/Gb
+# be aggreable to A (VERB) : [(ADJUNCT A/Wg) (MODS [[lc^|<ADV>]) WzW^b<VERB>]/Gb
+# ^do the aggreable (VERB) : [(MODS [UbWDdW^bAg<ADV>]) Gc^b<VERB>]/Gb
+# ^make ONESELF aggreable (VERB) :  [(MODS [UbWDdW^bAg<ADV>]) AsI<VERB>]/Gb
+
+"agrestic"
+ar (U|AlI]sWWz|)
+ap (U|AlI]sWW|Gb)
+
+"agricultural"
+ar (DlWWfRWz|)
+ap (DlWWfRW|Gb)
+
+"agro-industrial"
+ar (DlWUbDWfRWz|)
+ap (DlWUbDWfRW|Gb)
+
+"agronomic"
+ar (DlWAjWRfRWz|)
+ap (DlWAjWRfRW|Gb)
+
+"agronomical"
+ar (DlWAjWRfRWz|)
+ap (DlWAjWRfRW|Gb)
+
+"agued"
+ar (^bAX|IWg AfII|D)
+ap (^bAX|IWg AfII|Gb)
+
+"aguish"
+ar (^bAX|IWz|)
+ap (^bAX|IW|Gb)
+
+"ailing"
+ar (WbI^DzD)
+ap (WbI^Gb:ADJ->VERB)
+# ^be ailing (VERB) : [WbI^Al W|V<VERB>]/Gb
+
+"aimless"
+ar (QlAXfAW| WfRUDzD)
+ap (QlAXfAW| WfRUGb)
+
+"air-borne"
+ar (AlWUsWz|)
+ap (AlWUsW|Gb)
+# air borne warning and control system (NOUN) : AlWXsW AjWAk AlbDXg XlX|A
+
+"air-bound"
+ar (AlWA|Ab ZbD)
+ap (AlWA|Ab ZbGb)
+
+"air-conditioned"
+ar (DcWDbDRbW XbWZ|IzI ^bD)
+ap (DcWDbDRbW XbWZ|IzI ^bGb)
+
+"air-cooled"
+ar (AlWIcWU|AWz|)
+ap (AlWIcWU|AW|Gb)
+
+"air-force"
+ar (AlWAsDWz|)
+ap (AlWAsDW|Gb)
+
+"air-line"
+ar (W|IX|AUfDWz|)
+ap (W|IX|AUfDW|Gb)
+
+"air-minded"
+ar (^bWAlW QsDXgWg WjIU|QW|D)
+ap (^bWAlW QsDXgWg WjIU|QW|Gb)
+
+"air-raid"
+ar (AlWUzRWz|)
+ap (AlWUzRW|Gb)
+
+"air-to-air"
+ar (R|^cWA|WgUf R|^cWA|IlWz|)
+ap (R|^cWA|WgUf R|^cWA|IlW|Gb)
+
+"air-to-ground"
+ar (R|^cWA|WgUf X|UbWWzIl)
+ap (R|^cWA|WgUf X|UbWWzIlW|Gb)
+
+
+"air-to-surface"
+ar (AlWXsWWgUf X|UbWWzIl)
+ap (AlWXsWWgUf X|UbWWzIlW|Gb)
+
+"air-to-underwater"
+ar (R|^cWA|WgUf XbQUs^bQWzIlWz|)
+ap (R|^cWA|WgUf XbQUs^bQWzIlW|Gb)
+
+"air-wise"
+ar (^bWAlW X|U|AW| W|VDzD)
+ap (^bWAlW X|U|AW| W|VGb)
+
+"airless"
+ar (AlWA| WfRUDzD)
+ap (AlWA|Ab WfRUGb)
+
+"airmobile"
+ar (AlWUsIl \sW|RGl|DzD)
+ap (AlWUsIl \sW|RGl|Gb:ADJ->VERB)
+
+"airproof"
+ar (AlWA|Ab \lW^bX| WbD^DzD)
+ap (AlWA|Ab \lW^bX| WbD^Gb:ADJ->VERB)
+
+"airsick"
+ar (R|^cWA| QfIQ|Ab DbD)
+ap (R|^cWA| QfIQ|Ab DbGb)
+
+"airtight"
+ar (Q|I]kGl|D)
+ap (Q|I]kGl|Gb)
+
+"airworthy"
+ar (Dc^bWUfWW| W|VDzD)
+ap (Dc^bWUfWW| W|VGb)
+
+"airy"
+ar (RbIbQW| XbI \lW^bDzD)
+ap (RbIbQW| XbI \lW^bGb:ADJ->VERB)
+
+"aisled"
+ar (ZzAIbWW| W|VDzD)
+ap (ZzAIbWW| W|VGb)
+
+"akin"
+ar (^jIXlAWz|)
+ap (^jIXlAW|Gb)
+# akin to A (ADJ) : [(ADJUNCT A/Wlb) WwUb^b<ADJ>]/Gb
+# ^be akin to A (ADV) : [(ADJUNCT A/Wlb) WwUb^b<ADJ>]/Gb
+
+"alabaster"
+ar (UfI^lbUfAAlWlb Ab\WzD)
+ap (UfI^lbUfAAlWlb Ab\Gb)
+
+"alamode"
+ar (Ww^cWWz|)
+ap (Ww^cWW|Gb)
+
+"alar"
+ar (DbIAcWz|)
+ap (DbIAcW|Gb)
+
+"alarmed"
+ar (AjWRlIzI RbGWzD)
+ap (AjWRlIzI RbGGb)
+
+"alarming"
+ar (DlIIbWsD)
+ap (DlIIbRGb)
+
+"alary"
+ar (DbIAcWz|)
+ap (DbIAcW|Gb)
+
+"alaskan"
+ar (WbIIcUz[bWz|)
+ap (WbIIcUz[bW|Gb)
+
+"alate"
+ar (DbIAcAb W|VDzD)
+ap (DbIAcAb W|VGb)
+
+"alated"
+ar (DbIAcAb W|VDzD)
+ap (DbIAcAb W|VGb)
+
+"albanian"
+ar (WbIRbD|WbWz|)
+ap (WbIRbD|WbW|Gb)
+
+"albescent"
+ar (^z|WfX|DzD)
+ap (^z|WfX|Gb:ADJ->VERB)
+
+"albuminoid"
+ar (GbDRcAX|I Ab\WzD)
+ap (GbDRcAX|I Ab\Gb)
+
+"albuminose"
+ar (GbDRcAUfWWz|)
+ap (GbDRcAUfWW|Gb)
+
+"albuminous"
+ar (GbDRcAUfWWz|)
+ap (GbDRcAUfWW|Gb)
+
+"alcaic"
+ar (AlGc AzI|W|Uz U|W|DWz|)
+ap (AlGc AzI|W|Uz U|W|DW|Gb)
+
+"alchemic"
+ar (WjDAzQUsIUbWWz|)
+ap (WjDAzQUsIUbWW|Gb)
+
+"alchemical"
+ar (WjDAzQUsIUbWWz|)
+ap (WjDAzQUsIUbWW|Gb)
+
+"alchemistic"
+ar (WjDAzQUsIUbWWz|)
+ap (WjDAzQUsIUbWW|Gb)
+
+"alchemistical"
+ar (WjDAzQUsIUbWWz|)
+ap (WjDAzQUsIUbWW|Gb)
+
+"alcoholic"
+ar (WbI[lIUfWWz|)
+ap (WbI[lIUfWW|Gb)
+
+"aldermanic"
+ar (U|Wz|^l| Wz|WsfDWz|)
+ap (U|Wz|^l| Wz|WsfDW|Gb)
+
+"aleatory"
+ar (WsWjDWg Wz|^bD)
+ap (WsWjDWg Wz|^bGb)
+
+"alert"
+ar (R|D\zQWfRUDzD)
+ap (R|D\zQWfRUGb)
+# on the alert (PP->ADV) : R|D\zQWfRUW| AjWAk^bWj
+
+"aleutian"
+ar (WfIIsWsUjD WjIGlWz|)
+ap (WfIIsWsUjD WjIGlW|Gb)
+# the Aleutian Islands (NOUN) : WjIIsWsUjD WjIGl
+
+"alexandrian"
+ar (WbIIgAUbDGzI|WbWz|)
+ap (WbIIgAUbDGzI|WbW|Gb)
+
+"alexandrine"
+ar (WbIIgAUbDGfAjAWz|)
+ap (WbIIgAUbDGfAjAW|Gb)
+
+"alexipharmic"
+ar (GlAWzI WfRUWcDzD)
+ap (GlAWzI WfRUWcGb:ADJ->VERB)
+
+"algebraic"
+ar (GcUsWz|)
+ap (GcUsW|Gb)
+
+"algebraical"
+ar (GcUsWz|)
+ap (GcUsW|Gb)
+
+"algerian"
+ar (WbIXgI|WbWz|)
+ap (WbIXgI|WbW|Gb)
+
+"algid"
+ar (WzUzIWzUzI^bD)
+ap (WzUzIWzUzI^bGb)
+
+"alhambresque"
+ar (WbI^bQRzIb AsWXfDU|AWz|)
+ap (WbI^bQRzIb AsWXfDU|AW|Gb)
+
+"alien"
+ar (Wl|AsAWz|)
+ap (Wl|AsAW|Gb)
+
+"alienable"
+ar (WdWGl^bI Us W|VDzD)
+ap (WdWGl^bI Us W|VGb)
+
+"aliform"
+ar (DbIAc QlWdWWz|)
+ap (DbIAc QlWdWW|Gb)
+
+"alight"
+ar (RsI\bDzD)
+ap (RsI\bGb:ADJ->VERB)
+
+"alike"
+ar (UfIl Ab\WzD)
+ap (R|UzU^bGb)
+
+"alimental"
+ar (WjWWdWWz|)
+ap (WjWWdWW|Gb)
+
+"alimentary"
+ar (WjWWdWWz|)
+ap (WjWWdWW| Gl|Gb:ADJ->VERB)
+
+"aliped"
+ar (W|AXlAW| W|VDzD)
+ap (W|AXlAW| W|VGb)
+
+"aliphatic"
+ar (X|RbWUfWWz|)
+ap (X|RbWUfWW|Gb)
+
+"aliquant"
+ar (DbDsI Us WfRUDzD)
+ap (DbDsI Us WfRUGb)
+
+"aliquot"
+ar (DbDsI Us W|VDzD)
+ap (DbDsI Us W|VGb)
+
+"alive"
+ar (UbIWbW|VDzD)
+ap (UbIWbW|VGb)
+
+# ^be born alive (VERB) : UbIWbUf \cWfDbGb
+# ^be alive to A (VERB->ADJ) : [(ADJUNCT A/Wg) Q|DAbQ^b<ADJ>]/Gb
+# ^be alive with A (VERB->ADJ) : [(ADJUNCT A/Il) ZsWQbD^b<ADJ>]/Gb
+	* [(ADJUNCT A/Il) RsQR|<VERB>]/Gb
+	* A (~ {+HUMAN})
+//# very much alive (ADJ) : WjXfD^| UbIWb W|VGb
+# ^catch alive $ (VERB) : [UbIlXbR<VERB>]/Gb
+
+"alkalesecnt"
+ar (WdAWbI[bII|UfWWz|)
+ap (WdAWbI[bII|UfWW|Gb)
+
+"alkalifiable"
+ar (WbI[bII|^lb ^bI Us W|VDzD)
+ap (WbI[bII|^lb ^bI Us W|VGb)
+
+"alkaline"
+ar (WbI[bII|UfWWz|)
+ap (WbI[bII|UfWW|Gb)
+
+"alkaloid"
+ar (WbI[bIIlW|GzWz|)
+ap (WbI[bIIlW|GzW|Gb)
+
+"alkaloidal"
+ar (WbI[bIIlW|GzWz|)
+ap (WbI[bIIlW|GzW|Gb)
+
+"all"
+ar (QlGzD)
+* QlGzIGb (car XbGlWZb) (building R|IG|W) (garbage VzIgA|) (member ^l|WsfD) (year DjD)
+* WdWYlAWz| (side ]jD)
+ap (QlGsW|Gb)
+
+# all the more (ADV) : ^sfIV|D
+# ^be all out_of A (VERB) : [(SUBJ A/Ab) WfRU<ADJ>]/Gb
+
+"all-Republican"
+ar (QlGzD AlW^lbGbWWz|)
+ap (QlGzD AlW^lbGbWW|Gb)
+
+"all-american"
+ar (XfD Q|AsAWz|)
+ap (XfD Q|AsAW|Gb)
+
+"all-day"
+ar (WlDXlWW|IWz|)
+ap (WlDXlWW|IW|Gb)
+
+"all-fired"
+ar (U|Q^bD)
+ap (U|Q^bGb)
+
+"all-important"
+ar (AbXbW XsWWr^bD)
+ap (AbXbW XsWWr^bGb)
+
+"all-in"
+ar (XfDRsIzI ]l^bQ^bD)
+ap (XfDRsIzI ]l^bQ^bGb)
+
+"all-inclusive"
+ar (ZlWAlbIXfAW|D)
+ap (ZlWAlbIXfAW|Gb)
+
+"all-knowing"
+ar (XfDX|Wz|)
+ap (XfDX|W|Gb)
+
+"all-night"
+ar (ZfIWdWz|)
+ap (ZfIWdW|Gb)
+
+"all-or-none"
+ar (XfDRsWbD|QjD QlGs ]lA|^bDzD)
+ap (XfDRsWbD|QjD QlGs ]lA|^bGb:ADJ->VERB)
+
+"all-or-nothing"
+ar (XfDRsWbD|QjD QlGs ]lA|^bDzD)
+ap (XfDRsWbD|QjD QlGs ]lA|^bGb:ADJ->VERB)
+
+"all-out"
+ar (WlD ^|QWzI A|WsIW|D)
+ap (WlD ^|QWzI A|WsIW|Gb)
+
+"all-overish"
+ar (A|RsDW| DbSzD)
+ap (A|RsDW| DbSzGb)
+
+"all-possessed"
+ar (^lII|D)
+ap (^lII|Gb)
+
+"all-powerful"
+ar (XfDDzWWz|)
+ap (XfDDzWW|Gb)
+
+"all-purpose"
+ar (QlGzD QlAXfAWg QbXDzD)
+ap (QlGzD QlAXfAWg QbXGb:ADJ->VERB)
+
+"all-round"
+ar (XfDRbDWg AfIZ|D)
+* QbDDzWW|Gb (writer XbAAb)
+ap (XfDRbDWg AfIZ|Gb)
+
+"all-star"
+ar (WlIUz\bWz|)
+ap (WlIUz\bW|Gb)
+
+"all-time"
+ar (XfDW|QWz|)
+ap (XfDW|QW|Gb)
+
+"all-weather"
+ar (XfDZfD^sWz|)
+ap (XfDZfD^sW|Gb)
+
+"alleged"
+ar (XsXbWGl|D)
+ap (XsXbWGl|Gb)
+
+"allegoric"
+ar (]sWWwWz|)
+ap (]sWWwW|Gb)
+
+"allegorical"
+ar (]sWWwWz|)
+ap (]sWWwW|Gb)
+
+"allergic"
+ar (WbIIgIzA|Wz|)
+ap (WbIIgIzA|W|Gb)
+
+"alleviatory"
+ar (AjWAbQ U|[|DzD)
+ap (AjWAbQ U|[|Gb:ADJ->VERB)
+
+"alliaceous"
+ar (]bUlAWz|)
+ap (]bUlAW|Gb)
+
+"allied"
+ar (GlWQcWWzI QcXWzD)
+ap (GlWQcWWzI QcXGb)
+# the Allied Forces (NOUN) : WjD^bRAsD
+# the Allied and Associated Powers (NOUN) : WjD^bRAsA
+
+"alliterative"
+ar (GsWsDWzI QbXZsD)
+ap (GsWsDWzI QbXZsGb)
+
+"allocated"
+ar (^bIGbWGl|D)
+ap (^bIGbWGl|Gb)
+
+"allodial"
+ar (XbWw RlWwX|Wz|)
+ap (XbWw RlWwX|W|Gb)
+
+"allotropic"
+ar (GlWUlZgWz|)
+ap (GlWUlZgW|Gb)
+
+"allotropical"
+ar (GlWUlZgWz|)
+ap (GlWUlZgW|Gb)
+
+"allover"
+ar (XfDQjDWg AfIZ|D)
+ap (XfDQjDWg AfIZ|Gb)
+
+"allowable"
+ar (^fWrW^bI Us W|VDzD)
+ap (^fWrW^bI Us W|VGb)
+
+"alluring"
+ar (Bl|WfDcDzD)
+ap (Bl|WfDcGb:ADJ->VERB)
+
+"allusive"
+ar (WbQU|XfAW|D)
+ap (WbQU|XfAW|Gb)
+# allusive arms (NOUN) : AbQjWWgUf HbWlD QsDXbW
+
+"alluvial"
+ar (ZsWXfAA|Wz|)
+ap (ZsWXfAA|W|Gb)
+
+"almighty"
+ar (XfDDzWWz|)
+ap (XfDDzWW|Gb)
+# Almighty God (NOUN) : XfDDzW^bU|D ^bDzD|Q
+# God Almighty (NOUN) : XfDDzW^bU|D ^bDzD|Q
+# the almighty dollar (NOUN) : QbDDzWWz| GlD
+# the almighty gold (NOUN) : QbDDzWWz| ^lbWAzQ
+
+"almond-eyed"
+ar (]jDGl QlWdWWz| DsDWzI AbX|D)
+ap (]jDGl QlWdWWz| DsDWzI AbX|Gb)
+
+"alodial"
+ar (XbWw UbWwX|Wz|)
+ap (XbWw UbWwX|W|Gb)
+
+"alone"
+ar (^lIIl)
+ap (^lDXbW|Gb)
+# all alone (ADV) : ^lDXbUf 
+//# ^leave A alone (VERB) : [(OBJ A/IzI) (MODS [^lIIl<ADV>]) DlbGs<VERB>]/Gb
+# ^let A alone (VERB) : [(OBJ A/IzI) (MODS [^lIIl<ADV>]) DlbGs<VERB>]/Gb
+# let alone A (ADV) : (MODS [(COMP [(COMPCL [(OBJ A/DzD) QbI^b<VERB>]/^bI) AfU<NOUN>]/Gl) WfRUW|<ADV>])
+
+"aloof"
+ar (DcWGbQ^bD)
+ap (DcWGbQ^bGb)
+
+"alphabetic"
+ar (WbI]bRgUWz|)
+ap (WbI]bRgUW|Gb)
+
+"alphabetical"
+ar (WbI]bRgUWz|)
+ap (WbI]bRgUW|Gb)
+# in alphabetical order (ADV) : WbI]bRgU UsDWzIl
+# alphabetical list (NOUN) : WbI]bRgU UsDUfWz| I|Uz\z
+
+"alpine"
+ar (WbI]zUz UbDWz|)
+ap (WbI]zUz UbDW|Gb)
+
+"alsatian"
+ar (WbIUbUz ^jDWz|)
+ap (WbIUbUz ^jDW|Gb)
+
+"altaic"
+ar (WbI\bW|Wz|)
+ap (WbI\bW|W|Gb)
+
+"alterable"
+ar (RjDAjW^bI Us W|VDzD)
+ap (RjDAjW^bI Us W|VGb)
+
+"alterant"
+ar (RjDAjW^bDzD)
+ap (RjDAjW^bGb:ADJ->VERB)
+
+"alterative"
+ar (RjDAjW^bDzD)
+ap (RjDAjW^bGb:ADJ->VERB)
+
+"alternant"
+ar (ArGcWz|)
+ap (ArGcW|Gb)
+
+"alternate"
+ar (RfDAbIWb ^bDzD)
+ap (RfDAbIWb ^bGb:ADJ->VERB)
+# altelrnate angles (NOUN) : ZbAAbA
+
+"alternating"
+ar (ArGcWz|)
+ap (ArGcW|Gb)
+
+"alternative"
+ar (GcZgWz|)
+ap (GcZgW|Gb)
+
+"altitudinal"
+ar (AlGlWz|)
+ap (AlGlW|Gb)
+
+"altruistic"
+ar (W|\bXfAW|D)
+ap (W|\bXfAW|Gb)
+
+"altrustic"
+ar (W|\bXfAW|D)
+ap (W|\bXfAW|Gb)
+
+"aluminous"
+ar (QjWRbDWz|)
+ap (QjWRbDW|Gb)
+
+"alveolar"
+ar (A|]lWz|)
+ap (A|]lW|Gb)
+# alveolar consonants (NOUN) : Z|AjWWzQ
+
+"alveolate"
+ar (RfIX|R QlWdWWz|)
+ap (RfIX|R QlWdWW|Gb)
+
+"alvine"
+ar (RcWz|)
+ap (RcW|Gb)
+
+"amalgamative"
+ar (^lD^bRGl|A| Us|WsD)
+ap (^lD^bRGl|A| Us|RGb)
+
+"amateurish"
+ar (WbQb\wWf GbWsD)
+ap (WbQb\wWf GbRGb)
+
+"amative"
+ar (WjDWcW|Gb)
+
+"amatorial"
+ar (WjDWcW|Gb)
+
+"amatory"
+ar (WjDWcW|Gb)
+
+"amazed"
+ar (DlIIcDzD)
+ap (DlIIbGb:ADJ->VERB)
+# ^be amazed at A (VERB) : [(ADJUNCT A/Wg) DlIIb<VERB>]/Gb
+# ^be amazed at the sight of A (VERB) : [(ADJUNCT [(OBJ A/WzI) Rl<VERB>]/Al) DlIIb<VERB>]/Gb
+# ^be amazed at the news of A (VERB) : [(ADJUNCT [(OBJ A/WzI) GzG<VERB>]/Al) DlIIb<VERB>]/Gb
+
+"amazing"
+ar (DlIIbIQbD^bD)
+ap (DlIIbIQbD^bGb)
+
+"amazonian"
+ar (WbQbXlD AbWWz|)
+ap (WbQbXlD AbWW|Gb)
+
+"ambassadorial"
+ar (GcUbWz|)
+ap (GcUbW|Gb)
+
+"ambidextrous"
+ar (WdWUlDXbRW|Wz|)
+ap (WdWUlDXbRW|W|Gb)
+
+"ambient"
+ar (]lWs|^bD)
+ap (]lWs|^bGb)
+
+"ambiguous"
+ar (WcQc^bD)
+ap (WcQc^bGb)
+
+"ambitious"
+ar (GcQbWWzI ]sQWzD)
+* GcQbWWzI ]sQGb (youth XfIQWzD UbIbQ) (man UbIbQ)
+ap (GcQbWWzI ]sQGb)
+
+# ambitious for A (ADJ) : [(OBJ A/IzI) AbIQbW^b<VERB>]/Gb
+//# ^be ambitious for A (VERB) : [(OBJ A/IzI) AbIQbW^b<VERB>]/Gb
+
+"ambivalent"
+ar (WdWQjD AbZ|Wz|)
+ap (WdWQjD AbZ|W|Gb)
+
+"ambling"
+ar (DzI|Ag AfGDzD)
+ap (DzI|Ag AfGGb:ADJ->VERB)
+
+"ambrosial"
+ar (WbXs QbU Xl^WzD)
+ap (WbXs QbU Xl^Gb)
+
+"ambulant"
+ar (W|GlW^bDzD)
+ap (W|GlW^bGb)
+
+"ambulatory"
+ar (Rl^cWWz|)
+ar (Rl^cWW|Gb)
+
+"amegrammatical"
+ar (AzIXbWz| ZfIXbIzI RbBsDzD)
+ap (AzIXbWz| ZfIXbIzI RbBsGb:ADJ->VERB)
+
+"ameliorable"
+ar (AcIdW ^bI Us W|VDzD)
+ap (AcIdW^bI Us W|VGb)
+
+"ameliorative"
+ar (AcIdWWz|)
+ap (AcIdWW|Gb)
+
+"amenable"
+ar (UsDXlW^bDzD)
+ap (UsDXlW^bGb:ADJ->VERB)
+
+"amendatory"
+ar (AcXfWWz|)
+ap (AcXfWW|Gb)
+
+"amerasian"
+ar (RfIAzQWzI Alb^bI Us W|VDzD)
+ap (RfIAzQWzI Alb^bI Us W|VGb)
+
+"american"
+ar (WbQgI|[bWz|)
+ap (WbQgI|[bW|Gb)
+# American cloth (NOUN) : W|DXl WgDbQgI AbXsA
+# American leather (NOUN) : W|DXl WgDbQgI AbXsA
+# American eagle (NOUN) : ^z|DQfI| GlAUsI|
+# American English (NOUN) : Q|AsA WjWWf
+# American Federation of Labor (NOUN) : Q|AsA DlGlW ZlW WjDQcW
+# American football (NOUN) : Q|U|A ZsAAs
+# American Indian (NOUN) : RsAQ| \lW|D
+# American leopard (NOUN) : WbQgI|[b ]rRfQ
+# American Revolution (NOUN) : Q|AsA GlAI|R XfDXcW
+# American Standards Association (NOUN) : Q|AsA AwAjA ^jR^l|
+# American Cup (NOUN) : WbQgI|[b [fR
+
+"amethystine"
+ar (XbUsXfWWz|)
+ap (XbUsXfWW|Gb)
+
+"amiable"
+ar (As|WjQUfWW|VDzD)
+*  Z|DXfI^bGb (mood QbWzQ) (manner \cGl)
+ap (As|WjQUfWW|VGb)
+
+"amicable"
+ar (Ws^lXfAW|D)
+ap (Ws^lXfAW|Gb)
+
+"amiss"
+ar (U|D\lW^bX| WbD^WzD)
+ap (U|D\lW^bX| WbD^Gb)
+
+"ammoniac"
+ar (WbQQlD|WbWz|)
+ap (WbQQlD|WbW|Gb)
+
+"ammoniacal"
+ar (WbQQlD|WbWz|)
+ap (WbQQlD|WbW|Gb)
+
+"ammoniated"
+ar (WbQQlD|WbIl ZfI|Gl|D)
+ap (WbQQlD|WbIl ZfI|Gl|Gb)
+
+"amoebean"
+ar (Gc^lbZgWz|)
+ap (Gc^lbZgW|Gb)
+
+"amoebic"
+ar (WbQgRbWz|)
+ap (WbQgRbW|Gb)
+
+"amoeboid"
+ar (WbQgRb R|UzU^bD)
+ap (WbQgRb R|UzU^bGb)
+
+"amoral"
+ar (ZlGlGfAWz|)
+ap (ZlGlGfAW|Gb)
+
+"amorous"
+ar (^lUcAXfAW|D)
+ap (^lUcAXfAW|Gb)
+# ^be amorous of A (VERB) : [(OBJ A/WzI) WjDQl^bAl W|V<VERB>]/Gb
+
+"amorphous"
+ar (XfW^jWW| WfRUDzD)
+ap (XfW^jWW| WfRUGb)
+
+"amphibian"
+ar (WdWUfIwWz|)
+ap (WdWUfIwW|Gb)
+
+"amphibious"
+ar (UsIwA WdWUfWz|)
+ap (UsIwA WdWUfW|Gb)
+
+"amphibolous"
+ar (HzUW| GsAbX|W|D)
+ap (HzUW| GsAbX|W|Gb)
+
+"amphitheatric"
+ar (WsfD^jW AjWA|XbWWz|)
+ap (WsfD^jW AjWA|XbWW|Gb)
+
+"amphitheatrical"
+ar (WsfD^jW AjWA|XbWWz|)
+ap (WsfD^jW AjWA|XbWW|Gb)
+
+"amphoric"
+ar (AlWGlWWzQWz|)
+ap (AlWGlWWzQW|Gb)
+
+"ample"
+ar (DfIRWzD)
+* ZsWRsD^bGb (supply AlWAzR) (evidence XzWAf)
+ap (DfIRGb)
+
+
+"ampullaceous"
+ar (RjWQlWdWWz|)
+ap (RjWQlWdWW|Gb)
+
+"amused"
+ar (XcQ|W|VWf ^bDzD)
+ap (XcQ|W|VWf ^bGb:ADJ->VERB)
+
+"amusing"
+ar (XcQ| W|VDzD)
+ap (XcQ| W|VGb)
+
+"amusive"
+ar (XcQ| W|VDzD)
+ap (XcQ| W|VGb)
+
+"amylaceous"
+ar (XfDRsDUfWWz|)
+ap (XfDRsDUfWW|Gb)
+
+"amyloid"
+ar (XfDRsDR|UzU^bD)
+ap (XfDRsDR|UzU^bGb)
+
+"anabalic"
+ar (GlW^lbXbAWrWWz|)
+ap (GlW^lbXbAWrWW|Gb)
+
+"anabatic"
+ar (UbWUzW^bDzD)
+ap (UbWUzW^bGb:ADJ->VERB)
+
+"anachronistic"
+ar (U|GcZbAWlWz|)
+ap (U|GcZbAWlW|Gb)
+
+"anaclastic"
+ar (AsIXfIUbWWz|)
+ap (AsIXfIUbWW|Gb)
+
+"anacreontic"
+ar (WbD|[zIgWlDZgWz|)
+ap (WbD|[zIgWlDZgW|Gb)
+
+"anadromous"
+ar (AbWWzI AfUzIIf WlIIbAbDzD)
+ap (AbWWzI AfUzIIf WlIIbAbGb:ADJ->VERB)
+
+"anaemic"
+ar (R|D^jIWz|)
+ap (R|D^jIW|Gb)
+
+"anaerobic"
+ar (^jQA|UfWWz|)
+ap (^jQA|UfWW|Gb)
+
+"anaglyphic"
+ar (W|RZgUbX|DWz|)
+ap (W|RZgUbX|DW|Gb)
+
+"anal"
+ar (^bWQsDWz|)
+ap (^bWQsDW|Gb)
+
+"analeptic"
+ar (ZgIjA ^l|RlAWz|)
+ap (ZgIjA ^l|RlAW|Gb)
+
+"analogic"
+ar (R|UzU^bD)
+ap (R|UzU^bGb)
+
+"analogical"
+ar (R|UzU^bD)
+ap (R|UzU^bGb)
+
+"analogous"
+ar (WwUb^bD)
+ap (WwUb^bGb)
+# ^be analogous to A (VERB) : [(ADJUNCT A/Alb) WwUb^b<VERB>]/Gb
+
+"analphabetic"
+ar (RcWsX| QlU^bD)
+ap (RcWsX| QlU^bGb)
+
+"analytic"
+ar (RsDUfAXfAW|D)
+ap (RsDUfAXfAW|Gb)
+
+"analytical"
+ar (RsDUfAXfAW|D)
+ap (RsDUfAXfAW|Gb)
+
+"anandrous"
+ar (UsUsIW| WfRUDzD)
+ap (UsUsIW| WfRUGb)
+
+"anapaestic"
+ar (GbDGbDXbW AjAWz|)
+ap (GbDGbDXbW AjAW|Gb)
+
+"anapestic"
+ar (GbDGbDXbW AjAWz|)
+ap (GbDGbDXbW AjAW|Gb)
+
+"anarchic"
+ar (QsXfWRsWz|)
+ap (QsXfWRsW|Gb)
+
+"anarchical"
+ar (QsXfWRsWz|)
+ap (QsXfWRsW|Gb)
+
+"anarchistic"
+ar (QsXfWRsXsWz|Wz|)
+ap (QsXfWRsXsWz|W|Gb)
+
+"anarthrous"
+ar (AlbDXfIW| WfRUDzD)
+ap (AlbDXfIW| WfRUGb)
+
+"anastatic"
+ar (ZfI]bDWz|)
+ap (ZfI]bDW|Gb)
+
+"anatomic"
+ar (^cRsWz|)
+ap (^cRsW|Gb)
+
+"anatomical"
+ar (^cRsWz|)
+ap (^cRsW|Gb)
+
+"ancestral"
+ar (XlUbWWz|)
+ap (XlUbWW|Gb)
+
+"anchretic"
+ar (WzDXbWz|)
+ap (WzDXbW|Gb)
+
+"ancient"
+ar (WkUDbIWz|)
+* AlGcWz| (civilization QsDQjW) (Roman IlQbW|D) (Greece AzI|Uz)
+* WkURs\fWz| (idea UcWAbA) (society Ub^l|)
+* DzIAGb:ADJ->VERB (tree DbQs) (mariner UsRs)
+ap (WkUDbIW|Gb)
+
+# ancient history (NOUN) : AlGcUb
+//# in ancient times (ADV) : QfD WkUDbIWg
+# ancient light (NOUN) : ZcAlbWAsfD
+# ancient times (NOUN) : WkUDbI
+
+"ancillary"
+ar (RlXlXfAW|D)
+ap (RlXlXfAW|Gb)
+
+"androcephalous"
+ar (W|DGsUsU|DWz|)
+ap (W|DGsUsU|DW|Gb)
+
+"androgynous"
+ar (WdWUfWWz|)
+ap (WdWUfWW|Gb)
+
+"anecdotal"
+ar (W|I^lbWz|)
+ap (W|I^lbW|Gb)
+
+"anecdotic"
+ar (W|I^lbAb\WzD)
+ap (W|I^lbAb\Gb)
+
+"anemic"
+ar (R|DWdA^bD)
+ap (R|DWdA^bGb)
+
+"anemometric"
+ar (]sWIjA ZzAXfWWz|)
+ap (]sWIjA ZzAXfWW|Gb)
+
+"anemophilous"
+ar (]sWQcWz|)
+ap (]sWQcW|Gb)
+
+"aneroid"
+ar (WcAZgIzI VzX| WbD^DzD)
+ap (WcAZgIzI VzX| WbD^Gb:ADJ->VERB)
+
+"anesthetic"
+ar (QsAbQAbA^bD)
+ap (QsAbQAbA^bGb)
+
+"aneurism"
+ar (GlWQcAIwWz|)
+ap (GlWQcAIwW|Gb)
+
+"aneurysm"
+ar (GlWQcAIwWz|)
+ap (GlWQcAIwW|Gb)
+
+"anfractuous"
+ar (AsIAlAW| QbD^WzD)
+ap (AsIAlAW| QbD^Gb)
+
+"angelic"
+ar (ZfDUbWz|)
+ap (ZfDUbW|Gb)
+
+"angled"
+ar (QlDbD)
+ap (QlDbGb)
+
+"anglian"
+ar (WcWAzIXlAWz|)
+ap (WcWAzIXlAW|Gb)
+
+"anglic"
+ar (WcWAzIXlAWz|)
+ap (WcWAzIXlAW|Gb)
+
+"anglo-catholic"
+ar (WjWAsA [b\lII|A]bWz|)
+ap (WjWAsA [b\lII|A]bW|Gb)
+
+"anglo-french"
+ar (WjWRsIWz|)
+ap (WjWRsIW|Gb)
+
+"anglo-indian"
+ar (WjWAsAAlb W|DGlWz|)
+ap (WjWAsAAlb W|DGlW|Gb)
+
+"anglo-saxon"
+ar (WcWAzIIl UcAUzDXlAWz|)
+ap (WcWAzIIl UcAUzDXlAW|Gb)
+
+"angry"
+ar (^lbDbD)
+* UfWDbGb (noise WbWsUfW UlI|)
+ap (^lbDbGb)
+# angry with A (ADJ) : [(OBJ2 A/WgAg) ^lbAb Db<VERB>]/Gb
+#' ^be angry | (VERB->ADJ) : [^lbAb Db<VERB>]/Gb
+# ^be angry over A (VERB->ADJ) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/Wf) ^lbAb Db W|V<VERB>]/Gb
+# ^be angry with A (VERB->ADJ) : [(ADJUNCT A/WgAg) ^lbAb Db W|V<ADJ>]/Gb
+# ^be angry THAT_CLAUSE (VERB->ADJ) : [(COMP THAT_CLAUSE/^cUf) ^lbAb Db<VERB>]/Gb
+# ^feel angry | (VERB->ADJ) : [^lbAb Db W|V<VERB>]/Gb
+# ^get angry | (VERB) : [^lbDc<VERB>]/Gb
+# ^get angry with A (VERB) : [(OBJ2 A/WgAg) ^lbIzI Dc<VERB>]/Gb
+# ^have angry words (VERB) : [QbIGb\sQWzI ^b<VERB>]/Gb
+# ^make A angry (VERB) : [(OBJ A/IzI) ^lbDbAg ^b<VERB>]/Gb
+
+"anguine"
+ar (RcQWz|)
+ap (RcQW|Gb)
+
+"angular"
+ar (QlAb W|VDzD)
+ap (QlAb W|VGb)? A IzI ^lbDbAg ^bGb
+
+"angulate"
+ar (QlAb DbD)
+ap (QlAb DbDGb)
+
+"angulated"
+ar (AbAW| W|VDzD)
+ap (AbAW| W|VGb)
+
+"anhydrous"
+ar (QsUsWz|)
+ap (QsUsW|Gb)
+
+"anile"
+ar (Dl]b Ab\WzD)
+ar (Dl]b Ab\Gb)
+
+"animal"
+ar (GlWQsIWz|)
+ap (GlWQsIW|Gb)
+# animal appetites (NOUN) : UsWrA
+# animal passion (NOUN) : UsWrA
+# animal body (NOUN) : GlWQsIZg
+# animal courage (NOUN) : QbDWrW
+# the animal kingdom (NOUN) : GlWQsIAk
+# animal matter (NOUN) : GlWQsIX|I
+# animal spirits (NOUN) : ^jIA|
+
+"animalcular"
+ar (Q|UlGlWQsIWz|)
+ap (Q|UlGlWQsIW|Gb)
+
+"animalistic"
+ar (GlWQsIXsWz|XbWz|)
+ap (GlWQsIXsWz|XbW|Gb)
+
+"animate"
+ar (UcWQjWW|VDzD)
+ap (UcWQjWW|VGb)
+# animate nature (NOUN) : UcWQsIAk
+
+"animated"
+ar (UcWA| W|VDzD)
+* ^lbIGlW^bGb (presentation RbI]r) (interface W|D\f]gW|Uz)
+ap (UcWA| W|VGb)
+# animated cartoon (NOUN) : QbD^lb WjW^lb
+# animated film (NOUN) : GlW^lb
+# animated pictures (NOUN) : ^lbIGlWUbX|D
+
+"animating"
+ar (UcWA|IzI XsDzD)
+ap (UcWA|IzI XsGb:ADJ->VERB)
+
+"animato"
+ar (WsfDA| W|VDzD)
+ap (WsfDA| W|VGb)
+
+"animistic"
+ar (QsI^lbIIlDWz|)
+ap (QsI^lbIIlDW|Gb)
+
+"annalegestic"
+ar (Wb]zQWzI QlUDzB|DzD)
+ap (Wb]zQWzI QlUDzB|Gb:ADJ->VERB)
+
+"annalistic"
+ar (WjDGcA|Wz|)
+ap (WjDGcA|W|Gb)
+
+"annoying"
+ar (As|ZbD^WzD)
+ap (As|ZbD^Gb)
+
+"annual"
+ar (1DjDXsA|Wz|)
+* WjDIkXfAW|Gb (celebration A|DjQXg) (report RlAl) (meeting QlW|Q)
+* 1DjDUcWWz| (plant U|AQsI)
+ap (1DjDWg ^bDRfDW|Gb)
+
+# annual expenditure (NOUN) : UgZsI
+# annual revenue (NOUN) : UgW|R
+# annual salary (NOUN) : WjDRlW
+# annual pension (NOUN) : WjDAzQ
+# annual rate (NOUN) : WjDW|WwI
+
+"annular"
+ar (AlI| QlWdWWz|)
+ap (AlI| QlWdWW|Gb)
+
+"annulate"
+ar (AlI|Wz|)
+ap (AlI|W|Gb)
+
+"annulated"
+ar (AlI|Wz|)
+ap (AlI|W|Gb)
+
+"annulose"
+ar (AlI| QlWdWWz|)
+ap (AlI| QlWdWW|Gb)
+
+"anodyne"
+ar (X|D\lWWz|)
+ap (X|D\lWW|Gb)
+
+"anomalistic"
+ar (RjDZ|AWz|)
+ap (RjDZ|AW|Gb)
+
+"anomalous"
+ar (RjDZ|AWz|)
+ap (RjDZ|AW|Gb)
+# anomalous verb (NOUN) : RjDZ|A GlWUb
+# anomalous water (NOUN) : XsW^bRUs
+
+"anonymous"
+ar (W|AQjWWz|)
+ap (W|AQjWW|Gb)
+
+"another"
+ar (GbIzD)
+* HlGbIzGb (year ^c)
+ap (GbIzGb)
+# another day $ (ADV NOUN) : 1) GbIzDDbIWg
+			     2) GbIzDDbI
+# another time $ (ADV NOUN) : 1) HbD HcWg
+			      2) HbD Hc
+"anserine"
+ar (AfWs|Ab\WzD)
+ap (AfWs|Ab\Gb)
+
+"answerable"
+ar (ZcAW|QW|VDzD)
+ap (ZcAW|QW|VGb)
+
+"answering"
+ar (WzWGbRWz|)
+ar (WzWGbRW|Gb)
+# answering pennant (NOUN) : WzWGbRA|
+# answering machine (NOUN) : XfD^lb XbGlW WzWGbRA|
+
+"antacid"
+ar (UbDWzI XsW^lb^bDzD)
+ap (UbDWzI XsW^lb^bGb:ADJ->VERB)
+
+"antagonistic"
+ar (RbDGcWz|)
+ap (RbDGcW|Gb)
+
+"antagonistical"
+ar (RbDGcWz|)
+ap (RbDGcW|Gb)
+
+"antarctic"
+ar (DbQAzAWz|)
+ap (DbQAzAW|Gb)
+# the Antarctic Circle (NOUN) : DbQAzAAsfD
+# the Antarctic (NOUN) : DbQAzA
+# the Antarctic Treaty (NOUN) : DbQAzA XlWdA
+# the Antarctic Zone (NOUN) : DbQAzAGc
+
+"ante-bellum"
+ar (XfDXcW XfDWz|)
+ap (XfDXcW XfDW|Gb)
+
+"ante-mortem"
+ar (XsAA|XfDWz|)
+ap (XsAA|XfDW|Gb)
+
+"antebrechial"
+ar (XfDRbAWz|)
+ap (XfDRbAW|Gb)
+
+"antecedent"
+ar (Wb]UfD)
+ap (Wb]UfGb)
+
+"antediluvian"
+ar (Gc^lWUs W|XfDWz|)
+ap (Gc^lWUs W|XfDW|Gb)
+
+"antemeridian"
+ar (WlXfDWz|)
+ap (WlXfDW|Gb)
+
+"antemundane"
+ar (UgAkZbWXl W|XfDWz|)
+ap (UgAkZbWXl W|XfDW|Gb)
+
+"antenatal"
+ar (ZsIUcWXfDWz|)
+ap (ZsIUcWXfDW|Gb)
+
+"antennal"
+ar (ZlAAbAWz|)
+ap (ZlAAbAW|Gb)
+
+"antennary"
+ar (ZlAAbAWz|)
+ap (ZlAAbAW|Gb)
+
+"antenuptial"
+ar (AjI^lDXfDWz|)
+ap (AjI^lDXfDW|Gb)
+
+"antepennult"
+ar (WfQ|WgUf UgRfDYc WzQXfIWz|)
+ap (WfQ|WgUf UgRfDYc WzQXfIW|Gb)
+
+"antepenultimate"
+ar (WfQ|WgUf UgRfDYc WzQXfIWz|)
+ap (WfQ|WgUf UgRfDYc WzQXfIW|Gb)
+
+"anteprandial"
+ar (U|AUbXfDWz|)
+ap (U|AUbXfDW|Gb)
+
+"anterior"
+ar (XfDRbWWz|)
+ap (XfDRbWW|Gb)
+
+"anthelmintic"
+ar (AsZsWWz|)
+ap (AsZsWW|Gb)
+
+"anthozoan"
+ar (^lbZsWIwWz|)
+ap (^lbZsWIwW|Gb)
+
+"anthracitic"
+ar (QsWjD\bDWz|)
+ap (QsWjD\bDW|Gb)
+
+"anthracitous"
+ar (QsWjD\bDWzI ^bQWw^bDzD)
+ap (QsWjD\bDWzI ^bQWw^bGb:ADJ->VERB)
+
+"anthrax-tainted"
+ar (\bDXfRjWWg AbQWjQGl|D)
+ap (\bDXfRjWWg AbQWjQGl|Gb)
+
+"anthropoid"
+ar (W|DAbD R|UzU^bD)
+ap (W|DAbD R|UzU^bGb)
+
+"anthropologic"
+ar (W|DIw^bAWz|)
+ap (W|DIw^bAW|Gb)
+
+"anthropological"
+ar (W|DIw^bAWz|)
+ap (W|DIw^bAW|Gb)
+
+"anthropomerphic"
+ar (U|DW|D GlW^jWWz|)
+ap (U|DW|D GlW^jWW|Gb)
+
+"anthropomorphous"
+ar (W|DAbDWz| ^jWZgIzI ^bD)
+ap (W|DAbDWz| ^jWZgIzI ^bGb)
+
+"anthropophagous"
+ar (U|AW|DWz|)
+ap (U|AW|DW|Gb)
+
+"anti"
+ar (RbDGcWz|)
+ap (RbDGcW|Gb)
+
+"anti-aircraft"
+ar (RbWAlWWz|)
+ap (RbWAlWW|Gb)
+
+"anti-american"
+ar (RbDQ|Wz|)
+ap (RbDQ|W|Gb)
+
+"anti-art"
+ar (RbDWkUsIWz|)
+ap (RbDWkUsIW|Gb)
+
+"anti-communist"
+ar (RbDAlWWz|)
+ap (RbDAlWW|Gb)
+
+"anti-dumping"
+ar (GfQ]|W RbWX|Wz|)
+ap (GfQ]|W RbWX|W|Gb)
+
+"anti-government"
+ar (RbDXfWRsXfAW|D)
+ap (RbDXfWRsXfAW|Gb)
+
+"anti-rabic"
+ar (AlbWAjDRjWWg ^rIjAW|VDzD)
+ap (AlbWAjDRjWWg ^rIjAW|VGb)
+
+"anti-sabbatarian"
+ar (WbDU|AW|I X|[|A|IzI RbDGc^bDzD)
+ap (WbDU|AW|I X|[|A|IzI RbDGc^bGb)
+
+"anti-saloon"
+ar (UsIX|RWzI WfRUWcXbDzD)
+ap (UsIX|RWzI WfRUWcXbDzD)
+
+"anti-semitic"
+ar (WwGcW|DWzI RcZfA^bDzD)
+ap (WwGcW|DWzI RcZfA^bGb:ADJ->VERB)
+
+"anti-sunburn"
+ar (Rj\Wg \bDzD AfUWzI QbADzD)
+ap (Rj\Wg \bDzD AfUWzI QbAGb:ADJ->VERB)
+
+"anti-weapon"
+ar (QsA|^wGcIzI AzQ^bDzD)
+ap (QsA|^wGcIzI AzQ^bGb:ADJ->VERB)
+
+"antiair"
+ar (RbWAlWWz|)
+ap (RbWAlWW|Gb)
+
+"antialien"
+ar (Rc\bXfAW|D)
+ap (Rc\bXfAW|Gb)
+
+"antibiotic"
+ar (^bWUcWWz|)
+ap (^bWUcWW|Gb)
+
+"antibomb"
+ar (RbW\bDWz|)
+ap (RbW\bDW|Gb)
+
+"antic"
+ar (Al|UbW^bD)
+ap (Al|UbW^bGb)
+
+"anticancer"
+ar (^bWWbQUfWWz|)
+ap (^bWWbQUfWW|Gb)
+
+"anticatholic"
+ar (RbD[b\lII|AAr XsWz|Wz|)
+ap (RbD[b\lII|AAr XsWz|W|Gb)
+
+"antichristian"
+ar (AzI|UzGlAr RbDGcWz|)
+ap (AzI|UzGlAr RbDGcW|Gb)
+
+"anticipant"
+ar (Wb]UfDzD)
+ap (Wb]UfGb:ADJ->VERB)
+
+"anticipative"
+ar (WkA|^bD)
+ap (WkA|^bGb)
+
+"anticipatory"
+ar (WkUbW^bDzD)
+ap (WkUbW^bGb:ADJ->VERB)
+# anticipatory subject (NOUN) : UfD^cW XsWf
+
+"anticlerical"
+ar (UfWX|AXbWz| UgGlIzI RbDGc^bDzD)
+ap (UfWX|AXbWz| UgGlIzI RbDGc^bGb:ADJ->VERB)
+
+"anticlimactic"
+ar (XfQAbWRfRWz|)
+ap (XfQAbWRfRW|Gb) 
+
+"anticlinal"
+ar (RcUbWz|)
+ap (RcUbW|Gb)
+
+"anticlockwise"
+ar (Wl|DYlAWzIl GlDzD)
+ap (Wl|DYlAWzIl GlIGb)
+
+"anticompatitive"
+ar (RbD^l^lbDUfWWz|)
+ap (RbD^l^lbDUfWW|Gb)
+
+"anticrime"
+ar (RbWRfQWz|)
+ap (RbWRfQW|Gb)
+
+"anticyclonic"
+ar (AlA|WbRAsfDWz|)
+ap (AlA|WbRAsfDW|Gb)
+
+"antidiphtheritic"
+ar (G|]z\gI|Wb WkRbWWz|)
+ar (G|]z\gI|Wb WkRbWW|Gb)
+
+"antidotal"
+ar (^cGlAWz|)
+ap (^cGlAW|Gb)
+
+"antiestablishment"
+ar (RbDZgXgWz|)
+ap (RbDZgXgW|Gb)
+
+"antifebrile"
+ar (^cWjIWz|)
+ap (^cWjIW|Gb)
+
+"antifederal"
+ar (WjDRbWXsWz| RbDGcWz|)
+ap (WjDRbWXsWz| RbDGcW|Gb)
+
+"antiform"
+ar (RbDXl^jWWz|)
+ap (RbDXl^jWW|Gb)
+
+"antigas"
+ar (RbWGlAWrWWz|)
+ap (RbWGlAWrWW|Gb)
+
+"antilogous"
+ar (XbA|QlUsDWz|)
+ap (XbA|QlUsDW|Gb)
+
+"antimational"
+ar (RbDAsAAbXfAW|D)
+ap (RbDAsAAbXfAW|Gb)
+
+"antimonarchic"
+ar (AsDXs XfWZ| RbDGcWz|)
+ap (AsDXs XfWZ| RbDGcW|Gb)
+
+"antimonic"
+ar (WbD\|QlDUfWWz|)
+ap (WbD\|QlDUfWW|Gb)
+
+"antimonopoly"
+ar (GlAXfQ RbDGcWz|)
+ap (GlAXfQ RbDGcW|Gb)
+
+"antineuralgic"
+ar (^bW U|DAjW\lWWz|)
+ap (^bW U|DAjW\lWW|Gb)
+
+"antinomian"
+ar (GlGfAIwI ]kA|IlDWz|)
+ap (GlGfAIwI ]kA|IlDW|Gb)
+
+"antiparty"
+ar (GbWXfWZcAWg RbDGc^bDzD)
+ap (GbWXfWZcAWg RbDGc^bGb)
+
+"antipathic"
+ar (UfIl WrWDbRZ| WbD^DzD)
+ap (UfIl WrWDbRZ| WbD^Gb)
+
+"antipersonnel"
+ar (GcW|D UbIUbWWz|)
+ap (GcW|D UbIUbWW|Gb)
+
+"antiphlogistic"
+ar (WjQXzWWg Xf^bW^bDzD)
+ap (WjQXzWWg Xf^bW^bGb:ADJ->VERB)
+
+"antiphonal"
+ar (WzWGbR UlWAbWz|)
+ap (WzWGbR UlWAbW|Gb)
+
+"antipodal"
+ar (GcZfAXfAW|D)
+ap (GcZfAXfAW|Gb)
+
+"antipodean"
+ar (GcZfAX|Wz|)
+ap (GcZfAX|W|Gb)
+
+"antipollution"
+ar (AlW^c RbDGcWz|)
+ap (AlW^c RbDGcW|Gb)
+
+"antiquarian"
+ar (AlIGlW]sQ WjDAsWz|)
+ap (AlIGlW]sQ WjDAsW|Gb)
+
+"antiquated"
+ar (DbIAWzD)
+ap (DbIAGb)
+
+"antique"
+ar (AlGcWz|)
+ap (AlGcW|Gb)
+
+"antirachitic"
+ar (AsIsRjW Z|IrWz|)
+ap (AsIsRjW Z|IrW|Gb)
+
+"antirust"
+ar (DlAUzIX| WbD^DzD)
+ap (DlAUzIX| WbD^Gb:ADJ->VERB)
+
+"antisatellite"
+ar (W|DAlWWs|UfW WrAjAWrWWz|)
+ap (W|DAlWWs|UfW WrAjAWrWW|Gb)
+
+"antiscorbutic"
+ar (Al|^jIRjW Z|IrWz|)
+ap (Al|^jIRjW Z|IrW|Gb)
+
+"antisegregation"
+ar (W|DXlW ZbRjIWg RbDGc^bDzD)
+ap (W|DXlW ZbRjIWg RbDGc^bGb:ADJ->VERB)
+
+"antiseptic"
+ar (RbWRsUfWWz|)
+ap (RbWRsUfWW|Gb)
+
+"antislavery"
+ar (DlWkXgGl RbDGcWz|)
+ap (DlWkXgGlWg RbDGcW|Gb)
+
+"antismog"
+ar (UzQlAz RbWX|Wz|)
+ap (UzQlAz RbWX|W|Gb)
+
+"antismut"
+ar (]lIzDl AzQX|Wz|)
+ap (]lIzDl AzQX|W|Gb)
+
+"antisocial"
+ar (RbDUb^l|XfAW|D)
+ap (RbDUb^l|XfAW|Gb)
+
+"antispasmodic"
+ar (AjWIjDWzI QfQZsAg ^bDzD)
+ap (AjWIjDWzI QfQZsAg ^bGb:ADJ->VERB)
+
+"antisubmarine"
+ar (GcXbQUs^bQWz|)
+ap (GcXbQUs^bQW|Gb)
+
+"antitank"
+ar (GcXfDZbWrWWz|)
+ap (GcXfDZbWrWW|Gb)
+
+"antithetic"
+ar (GcXlWz|)
+ap (GcXlW|Gb)
+
+"antithetical"
+ar (GcXlWz|)
+ap (GcXlW|Gb)
+
+"antitoxic"
+ar (^bWGlAUlWz|)
+ap (^bWGlAUlW|Gb)
+
+"antitrade"
+ar (RbDGc QsWjA]sWWz|)
+ap (RbDGc QsWjA]sWW|Gb)
+
+"antitrust"
+ar (GlAXfQRbDGcWz|)
+ap (GlAXfQRbDGcW|Gb)
+
+"antiunion"
+ar (DlGlWXl^bR RbDGcWz|)
+ap (DlGlWXl^bR RbDGcW|Gb)
+
+"antivice"
+ar (QcZsD RbDGcWz|)
+ap (QcZsD RbDGcW|Gb)
+
+"antiwar"
+ar (RbDXfDWz|)
+ap (RbDXfDW|Gb)
+
+"antlered"
+ar (AbX|X|D SsIW| W|VDzD)
+ap (AbX|X|D SsIW| W|VGb)
+
+"antomonarchical"
+ar (AsDXs XfWZ| RbDGcWz|)
+ap (AsDXs XfWZ| RbDGcW|Gb)
+
+"antomonial"
+ar (WbD\|QlDWz|)
+ap (WbD\|QlDW|Gb)
+
+"anuran"
+ar (QsQ|IwWz|)
+ap (QsQ|IwWz|)
+
+"anxious"
+ar (AfAXfW^bDzD)
+ap (AfAXfW^bGb:ADJ->VERB)
+# anxious bench (NOUN) : AsGlXbUfA
+# anxious seat (NOUN) : AsGlXbUfA
+# ^be anxious TO_INF (VERB) : [(OBJ TO_INF/^bA|IzI) WjIQbW^b<VERB>]/Gb
+# ^be anxious for A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bWj) AfAXfW^b<VERB>]/Gb
+
+"any"
+ar (WfHf^bD)
+ap (WfHf^bGb)
+* WfHf^bGb (one DsAs) (proof XzWAf)
+//# any other ^A (NOUN) : [(POSS [AzRbB<NOUN>]/Wz|) (RELCL [GbIz<ADJ>]/^bD) A]
+# any other ^A but B (NOUN) : [(POSS [(NMODS B) Wl|<NOUN>]/Wz|) (RELCL [GbIz<ADJ>]/^bD) A]
+# ^any of A (NOUN) : [(AMODS [WfHf^b<ADJ>]/Gb) A]
+//* [(POSS [(NMODS A) XsW<NOUN>]/Wz|) DsAs<NOUN>]
+	* [(ADJUNCT [(NMODS A) XsW<NOUN>]/Wz|) DsAs<NOUN>]
+	* A (~ {+HUMAN})
+# any more $ (ADV) : GfW|UbW
+# any longer $ (ADV) : GfW|UbW
+
+"aortic"
+ar (GcGlWQcAWz|)
+ap (GcGlWQcAW|Gb)
+
+"apart"
+ar (HfIWfXj W|VDzD)
+ap (HfIWfXj W|VGb)
+
+# apart from A (ADV) : 
+	* (ADJUNCT [(COMP A/WlbDzD) RjIGl<NOUN>]/Il)
+	* A (~ {-HUMAN})
+//	* (ADJUNCT A/DzD XgWl|^bAl)	 the house is too far apart from each other.
+//	* A (~ {+HUMAN})
+# ^set A apart from B (VERB) : [(OBJ A/IzI) (ADJUNCT B/IlRs\f) HgWfGs<VERB>]/Gb
+
+"aparthetic"
+ar (AbQXfWW| WfRUDzD)
+ap (AbQXfWW| WfRUGb)
+
+"aparthetical"
+ar (AbQXfWW| WfRUDzD)
+ap (AbQXfWW| WfRUGb)
+
+"apathetic"
+ar (DcWGbQ^bD)
+ap (DcWGbQ^bGb)
+
+"apennine"
+ar (Wb]gD|D UbDQcAWz|)
+ap (Wb]gD|D UbDQcAW|Gb)
+
+"aperient"
+ar (RjD\lWWg ^rIjAW| W|VDzD)
+ap (RjD\lWWg ^rIjAW| W|VGb)
+
+"apetalous"
+ar (^lb]bDW| WfRUDzD)
+ap (^lb]bDW| WfRUGb)
+
+"aphasic"
+ar (U|IWfXzWWz|)
+ap (U|IWfXzWW|Gb)
+
+"apheliotropic"
+ar (RcW|IUfWWz|)
+ap (RcW|IUfWW|Gb)
+
+"aphonic"
+ar (QsUfWWz|)
+ap (QsUfWW|Gb)
+
+"aphoristic"
+ar (AjWAsWz|)
+ap (AjWAsW|Gb)
+
+"aphrodisiac"
+ar (UfWWrAWzI W|IWz[|DzD)
+ap (UfWWrAWzI W|IWz[|Gb:ADJ->VERB)
+
+"apian"
+ar (BsIRfIWz|)
+ap (BsIRfIW|Gb)
+
+"apiarian"
+ar (BsIRfIWz|)
+ap (BsIRfIW|Gb)
+
+"apical"
+ar (XfWXfQWz|)
+ap (XfWXfQW|Gb)
+
+"apish"
+ar (WsfDUsWW| Ab\WzD)
+ap (WsfDUsWW| Ab\Gb)
+
+"aplenty"
+ar (]sWRs^bD)
+ap (]sWRs^bGb)
+
+"apocalyptic"
+ar (AkU|Wz|)
+ap (AkU|W|Gb)
+
+"apocalyptical"
+ar (AkU|Wz|)
+ap (AkU|W|Gb)
+
+"apocryphal"
+ar (AjWWl| UfWUfWz|)
+ap (AjWWl| UfWUfW|Gb)
+
+"apodal"
+ar (RbIW| WfRUDzD)
+ap (RbIW| WfRUGb)
+
+"apodeictic"
+ar (]|IWjDXfAW|D)
+ap (]|IWjDXfAW|Gb)
+
+"apodictic"
+ar (]|IWjDXfAW|D)
+ap (]|IWjDXfAW|Gb)
+
+"apogean"
+ar (WsfDX|XfQWz|)
+ap (WsfDX|XfQW|Gb)
+
+"apolaustic"
+ar (RbWXlW^bD)
+ap (RbWXlW^bGb)
+
+"apolitical"
+ar (XfWZ|Wg AlbDU|QWfRUDzD)
+ap (XfWZ|Wg AlbDU|QWfRUGb)
+
+"apologetic"
+ar (RjDQjWWz|)
+ap (RjDQjWW|Gb)
+
+"apologetical"
+ar (RjDQjWWz|)
+ap (RjDQjWW|Gb)
+
+"apoplectic"
+ar (XlIGlUfWWz|)
+ap (XlIGlUfWW|Gb)
+
+"apostolic"
+ar (UbGlWz|)
+ap (UbGlW|Gb)
+
+"apostolical"
+ar (UbGlWz|)
+ap (UbGlW|Gb)
+
+"apothegmatic"
+ar (RjDU|QAfI|)
+
+"appalling"
+ar (AbDGbQW| UfDzI^cX|DzD)
+ap (AbDGbQW| UfDzI^cX|Gb:ADJ->VERB)
+
+"apparent"
+ar (QjWRcA^bD)
+* Wl|AlbDUbWWz| (prosperity ^lAjWA|) (difficulty WfIjWsQ)
+* ]rQjDUbWWz| (reason W|Ww)
+ap (QjWRcA^bGb)
+
+"apparitional"
+ar (^lbDWjWWz|)
+ap (^lbDWjWW|Gb)
+
+"appealable"
+ar (AlWUl^bI Us W|VDzD)
+ap (AlWUl^bI Us W|VGb)
+
+"appealing"
+ar (WcWsfD^bDzD)
+ap (WcWsfD^bGb:ADJ->VERB)
+# ^be appealing for A {+HUMAN} (VERB) : [(OBJ2 A/WgAg) ^lUl^b<VERB>]/Gb
+
+"appearing"
+ar (W|D GzU^bD)
+ap (W|D GzU^bGb)
+
+"appeasable"
+ar (GbIIcI Us W|VDzD)
+ap (GbIIcI Us W|VGb)
+
+"appellant"
+ar (AlWUlWz|)
+ap (AlWUlW|Gb)
+
+"appellate"
+ar (UbWUlWz|)
+ap (UbWUlW|Gb)
+
+"appellative"
+ar (QjWZ|WWz|)
+ap (QjWZ|WW|Gb)
+
+"appendant"
+ar (RsAbWz|)
+ap (RsAbW|Gb)
+
+"apperceptive"
+ar (\lWAbAXfAW|D)
+ap (\lWAbAXfAW|Gb)
+
+"appetent"
+ar (WjIQbW^bDzD)
+ap (WjIQbW^bGb:ADJ->VERB)
+
+"appetitive"
+ar (U|AWrAW| W|VDzD)
+ap (U|AWrAW| W|VGb)
+
+"appetizing"
+ar (U|AWrAWzI GlGAsDzD)
+ap (U|AWrAWzI GlGAsGb:ADJ->VERB)
+
+"applausive"
+ar (RbAUs AbIZcWz|)
+ap (RbAUs AbIZcW|Gb)
+
+"applicable"
+ar (XfAWrW^bI Us W|VDzD)
+ap (XfAWrW^bI Us W|VGb)
+
+"applied"
+ar (XfAWrWGl|D)
+ap (XfAWrWGl|Gb)
+
+"appointed"
+ar (XfW^cX|D)
+ap (XfW^cX|Gb)
+
+"appointive"
+ar (W|QQjWWg Wz|^bD)
+ap (W|QQjWWg Wz|^bGb)
+
+"apposite"
+ar (XfAXfI^bD)
+ap (XfAXfI^bGb)
+
+"appositional"
+ar (GlWAjAWz|)
+ap (GlWAjAW|Gb)
+
+"appositive"
+ar (GlWAjAWz|)
+ap (GlWAjAW|Gb)
+
+"appraisiable"
+ar (]jWAb^bI Us W|VDzD)
+ap (]jWAb^bI Us W|VGb)
+
+"appreciable"
+ar (DsDWg RlW|I XfWGlWz|)
+ap (DsDWg RlW|I XfWGlW|Gb)
+
+"appreciative"
+ar (AbQU|AIjAW| W|VDzD)
+ap (AbQU|AIjAW| W|VGb)
+
+"appreciatory"
+ar (AbQU|AUbWWz|)
+ap (AbQU|AUbWW|Gb)
+
+"apprehensible"
+ar (W|^c^bI Us W|VDzD)
+ap (W|^c^bI Us W|VGb)
+
+"apprehensive"
+ar (WjQIj^bDzD)
+ap (WjQIj^bGb:ADJ->VERB)
+# ^be apprehensive for A (VERB) : [(OBJ A/IzI) WjQIj^b<VERB>]/Gb
+# ^be apprehensive of A (VERB) : [(OBJ A/WzI) GsIjWsf ^b<VERB>]/Gb
+# ^be apprehensive THAT_CLAUSE (VERB) : (ADJUNCT THAT_CLAUSE(^bX|Db/F, WbD^/V)/^bIBb) 
+WjQIj^b<VERB>]/Gb
+
+"approachable"
+ar (AbBbW| ^bA| Us|WsD)
+ap (AbBbW| ^bA| Us|RGb)
+
+"approbatory"
+ar (U|W|D^bDzD)
+ap (U|W|D^bGb:ADJ->VERB)
+
+"appropriable"
+ar (XfDWrW^bI Us W|VDzD)
+ap (XfDWrW^bI Us W|VGb)
+
+"appropriate"
+ar (XfAXfI^bD)
+ap (XfAXfI^bGb)
+# as appropriate (ADV) : XfAXfI^bAg
+# ^be appropriate for A (VERB) : [(ADJUNCT A/Wg) XfAXfI^b<VERB>]/Gb
+# appropriate for A (ADJ) : [(ADJUNCT A/Wg) XfAXfI^b<ADJ>]/Gb
+
+"appropriative"
+ar (XfDWwWz|)
+ap (XfDWw^bGb:ADJ->VERB)
+
+"approvable"
+ar (U|W|D^bI Us W|VDzD)
+ap (U|W|D^bI Us W|VGb)
+
+"approved"
+ar (UzWW|DGl|D)
+ap (UzWW|DGl|Gb)
+# approved school (NOUN) : W|DAb^bAAr
+# approved tenderer (NOUN) : X|XfW W|RZbIXb
+
+"approving"
+ar (ZbDUfWWz|)
+ap (ZbDUfWW|Gb)
+
+"approximate"
+ar (R|UzU^bD)
+ap (R|UzU^bGb)
+
+"approximative"
+ar (GcIdAWz|)
+ap (GcIdAW|Gb)
+
+"appurtenant"
+ar (RsUlAWz|)
+ap (RsUlAW|Gb)
+
+"aproned"
+ar (WgW|]zIfDWzI GbD)
+ap (WgW|]zIfDWzI GbIGb)
+
+"apropos"
+ar (XfAXfI^bD)
+ap (XfAXfI^bGb)
+
+"apt"
+ar (XfAGbW^bD)
+* WjWI|^bGb (man UbIbQ) (pupil ^bAUcW) (child WfI|DW|)
+ap (XfAGbW^bGb)
+
+# apt TO_INF (ADJ) : [(OBJ [(RELCL TO_INF/^bDzD) AfU<NOUN>]/WzI) ^bIAfUAb\<ADJ>]/Gb
+# ^be apt at A (VERB->ADJ) : [(ADJUNCT A/Wg) XcDzWW| W|V<VERB>]/Gb
+//# ^be apt TO_INF (VERB->ADJ) : [(SCOMP TO_INF/^bA|) Us|R<ADJ>]/Gb
+# ^be apt for A (VERB->ADJ) : [(ADJUNCT A/Wg) XfA^bR^b<VERB>]/Gb
+# ^be apt TO_INF (VERB->ADJ) : [TO_INF](^bI/F, AfU/N, Ab\/A)/Gb
+
+"apteral"
+ar (DbIAcAb WfRUDzD)
+ap (DbIAcAb WfRUGb)
+
+"apterous"
+ar (DbIAcAb WfRUDzD)
+ap (DbIAcAb WfRUGb)
+
+"aquatic"
+ar (QsIWz|)
+ap (QsIW|Gb)
+
+"aqueous"
+ar (QsIWz|)
+
+"aquiline"
+ar (GlAUsI|Wz|)
+ap (GlAUsI|W|Gb)
+
+"arable"
+ar (AjWXbAWg WbIQbXDzD)
+ap (AjWXbAWg WbIQbXGb)
+
+"arachnoid"
+ar (AfQ|X|R QlWdWWz|)
+ap (AfQ|X|R QlWdWW|Gb)
+
+"aramaic"
+ar (WbIbQWz|)
+ap (WbIbQW|Gb)
+
+"arbitral"
+ar (XsWXcWz|)
+ap (XsWXcW|Gb)
+
+"arbitrary"
+ar (QfUGcIlWz|)
+* W|QWz|Wz| (number UsUXb) (order UsDUf)
+* GlAGbDXfAW|Gb (decision AjIXfW) (rule X|Rc)
+ap (QfUGcIlW|Gb)
+
+
+"arboraceous"
+ar (DbQs Ab\WzD)
+ap (DbQs Ab\Gb)
+
+"arboreal"
+ar (UsQlAWz|)
+ap (UsQlAW|Gb)
+
+"arborescent"
+ar (UsQlAQlWdWWz|)
+ap (UsQlAQlWdWW|Gb)
+
+"arboricultural"
+ar (UsQlA XcRcWz|)
+ap (UsQlA XcRcW|Gb)
+
+"arcaded"
+ar (WbWb[gW|GzIzI U|UfI^bD)
+ap (WbWb[gW|GzIzI U|UfI^bGb)
+
+"arcadian"
+ar (WbIz[bG|WbWz|)
+ap (WbIz[bG|WbW|Gb)
+
+"arcane"
+ar (R|Q|IWz|)
+ap (R|Q|IW|Gb)
+
+"arch"
+ar (XsWr^bD)
+ap (XsWr^bGb)
+
+"archaic"
+ar (AlGcWz|)
+ap (AlGcW|Gb)
+# the archaic (NOUN) : AlGc
+
+"archaism"
+ar (Al]sWWz|)
+ap (Al]sWW|Gb)
+
+"archangelic"
+ar (GcZfDUbWz|)
+ap (GcZfDUbW|Gb)
+
+"archducal"
+ar (GcAlWWz|)
+ap (GcAlWW|Gb)
+
+"arched"
+ar (WbWbZ|^jWWz|)
+ap (WbWbZ|^jWW|Gb)
+
+"archeolitic"
+ar (AsUfAA| U|GcWz|)
+ap (AsUfAA| U|GcW|Gb)
+
+"archeological"
+ar (AlAl^bAWz|)
+ap (AlAl^bAW|Gb)
+
+"archidiaconal"
+ar (RsXsArWz|)
+ap (RsXsArW|Gb)
+
+"archiepiscopal"
+ar (RsXsArWz|)
+ap (RsXsArW|Gb)
+
+"archimedean"
+ar (WbIz[|QgGgUzWz|)
+ap (WbIz[|QgGgUzW|Gb)
+# Archimedes screw (NOUN) : WbIz[|QgGgUzWz| DbUfDU|A WdWUsA|
+
+"architectonic"
+ar (AfDZsAUsIWz|)
+ap (AfDZsAUsIW|Gb)
+
+"architectural"
+ar (AsXlXfAW|D)
+ap (AsXlXfAW|Gb)
+
+"archival"
+ar (A|IlAWz|)
+ap (A|IlAW|Gb)
+
+"arciform"
+ar (^lbI QlWdWWz|)
+ap (^lbI QlWdWW|Gb)
+
+"arctic"
+ar (RsAAzAWz|)
+ap (RsAAzAW|Gb)
+# the Arctic (NOUN) : RsAAzA X|RbW
+# the Arctic Regions (NOUN) : RsAAzA X|RbW
+# the Arctic Circle (NOUN) : RsAAzAAsfD
+# the Arctic Zone (NOUN) : RsAAzAGc
+# the Arctic Ocean (NOUN) : RsAR|WWdW
+# arctic seal (NOUN) : QlXl RbGb]rRfQ AbXsA
+
+"arcuate"
+ar (^lbI QlWdWWz|)
+ap (^lbI QlWdWW|Gb)
+
+"arcuated"
+ar (^lbI QlWdWWz|)
+ap (^lbI QlWdWW|Gb)
+
+"ardent"
+ar (RsI\bDzD)
+* QcWIjI^bGb (bull AbWUg)
+* WjIIjI^bGb (pacifist ]jW^lbXsWz|Xb) (campaign [cQ]gW|D)
+ap (RsI\bGb)
+# ardent spirits (NOUN) : GlA^bD UsI
+
+"arduous"
+ar (AlDIbD^bD)
+ap (AlDIbD^bGb)
+
+"arenaceous"
+ar (QlIcWz|)
+ap (QlIcW|Gb)
+
+"argentiferous"
+ar (WzDW| DbDzD)
+ap (WzDW| DbGb:ADJ->VERB)
+
+"argentine"
+ar (WzDWz|)
+ap (WzDW|Gb)
+
+"argentinean"
+ar (WbIz^gD\|DbWz|)
+ap (WbIz^gD\|DbW|Gb)
+
+"argentous"
+ar (WzDWz|)
+ap (WzDW|Gb)
+
+"arguable"
+ar (DlD^bI Us W|VDzD)
+ap (DlD^bI Us W|VGb)
+
+"argumentative"
+ar (DlDXcWXfAW|D)
+ap (DlDXcWXfAW|Gb)
+
+"argus-eyed"
+ar (AbQU|Ab WfQXsW^bD)
+ap (AbQU|Ab WfQXsW^bGb)
+
+"argute"
+ar (DbI[bIlWsD)
+ap (DbI[bIlRGb)
+
+"arid"
+ar (AfDXl^bD)
+ap (AfDXl^bGb)
+
+"arillate"
+ar (AbXlW]|Ab W|VDzD)
+ap (AbXlW]|Ab W|VGb)
+
+"aristocratic"
+ar (As|XlAWz|)
+ap (As|XlAW|Gb)
+
+
+"arithmetic"
+ar (UbDUsIWz|)
+ap (UbDUsIW|Gb)
+
+"arithmetical"
+ar (UbDUsIWz|)
+ap (UbDUsIW|Gb)
+
+"armchair"
+ar (W|IlDSsDW|D)
+ap (W|IlDSsDW|Gb)
+
+"armed"
+ar (QsXbW^bD)
+ap (QsXbW^bGb)
+
+"armenian"
+ar (WbIzQgD|WbWz|)
+ap (WbIzQgD|WbW|Gb)
+
+"armilary"
+ar (]bIY|Wz|)
+ap (]bIY|W|Gb)
+
+"armless"
+ar (]bIW| WfRUDzD)
+ap (]bIW| WfRUGb)
+
+"armor-clad"
+ar (AbRWlUWzI W|RWzD)
+ap (AbRWlUWzI W|RGb)
+# armor bearer ship (NOUN) : XbWAbR^bQ
+
+"armor-plated"
+ar (XbWAbR^bD)
+ap (XbWAbR^bGb)
+
+"armored"
+ar (XbWAbRWz|)
+ap (XbWAbRW|Gb)
+
+"armorial"
+ar (QsDXbWWz|)
+ap (QsDXbWW|Gb)
+
+"aromatic"
+ar (RbW^dWWz|)
+ap (RbW^dWW|Gb)
+
+"around-the-clock"
+ar (U|AbD DcDcWz|)
+ap (U|AbD DcDcW|Gb)
+
+"arrant"
+ar (WbAQjW Dl]WzD)
+ap (WbAQjW Dl]Gb)
+
+"arrect"
+ar (As|IzI A|WsIW|Al W|VDzD)
+ap (As|IzI A|WsIW|Al W|VGb)
+
+"arresting"
+ar (DbQWz| DsDWzI BzDzD)
+ap (DbQWz| DsDWzI BzIGb:ADJ->VERB)
+# arresting gear (NOUN) : XgGlW XbWZ|
+
+"arrogant"
+ar (AfQbD^bD)
+ap (AfQbD^bGb)
+
+"arrowy"
+ar (^lbUbIWz|)
+ap (^lbUbIW|Gb)
+
+"arsenic"
+ar (R|UlWz|)
+ap (R|UlW|Gb)
+
+"arsenical"
+ar (R|UlWz|)
+ap (R|UlW|Gb)
+
+"arsenious"
+ar (R|UlWz|)
+ap (R|UlW|Gb)
+
+"arterial"
+ar (GlWQcAWz|)
+ap (GlWQcAW|Gb)
+
+"artful"
+ar (A|ArIzI RsI|DzD)
+ap (A|ArIzI RsI|Gb:ADJ->VERB)
+
+"arthroscopic"
+ar (AlbDXfIAjWWz|)
+ap (AlbDXfIAjWW|Gb)
+
+"arthurian"
+ar (WbWbGfWlbWWz|)
+ap (WbWbGfWlbWW|Gb)
+
+"articled"
+ar (WjDA| AkWdAWz|)
+ap (WjDA| AkWdAW|Gb)
+
+"articular"
+ar (AlbDXfIWz|)
+ap (AlbDXfIW|Gb)
+
+"articulate"
+ar (RsDQjW^bD)
+ap (RsDQjW^bGb)
+
+"articulatory"
+ar (RsDXfI^lbWz|)
+ap (RsDXfI^lbW|Gb)
+
+"artificial"
+ar (W|DAlWXfAW|D)
+* W|DXlWz| (flower BlZ) (foot RbI) (ice WfIWzQ) (respirection ^l^zR) (leather ]|^jA) (teeth Z|Wb)
+* WfUcA^bGb (attitude \cGl) (smile WsUWzQ) (tear DsDQsI)
+ap (W|DAlWXfAW|Gb)
+
+"artistic"
+ar (WkUsIXfAW|D)
+ap (WkUsIXfAW|Gb)
+
+"artistical"
+ar (WkUsIXfAW|D)
+ap (WkUsIXfAW|Gb)
+
+"artitrable"
+ar (XsWXc^bI Us W|VDzD)
+ap (XsWXc^bI Us W|VGb)
+
+"artless"
+ar (BsQ|X| WbD^WzD)
+ap (BsQ|X| WbD^Gb)
+
+"arty"
+ar (WkUsIAbW|D Zg ^bDzD)
+ap (WkUsIAbW|D Zg ^bGb:ADJ->VERB)
+
+"arty-crafty"
+ar (WkUsIXfAW|QjDUf U|IWrWUfWW| WfRUDzD)
+ap (WkUsIXfAW|QjDUf U|IWrWUfWW| WfRUGb)
+
+"aryan"
+ar (WbI|WbDWfXlAWz|)
+ap (WbI|WbDWfXlAW|Gb)
+
+"asbestine"
+ar (UfAQjDWz|)
+ap (UfAQjDW|Gb)
+
+"ascendant"
+ar (UbWUzW^bDzD)
+* XzWAb^bGb:ADJ->VERB (power ZbUs) (number UsUXb)
+* AsfDWs|W|VGb (person UbIbQ)
+* HfWlIzGb:ADJ->VERB (sun \cWdW) (star RjI)
+ap (UbWUzW^bGb:ADJ->VERB)
+
+"ascending"
+ar (WlIIbAbDzD)
+ap (WlIIbAbGb:ADJ->VERB)
+# ascending powers (NOUN) : UbWUzWIjA
+# ascending scale (NOUN) : UbWUzW WzQAk
+
+"ascensional"
+ar (UbWUzWWz|)
+ap (UbWUzWW|Gb)
+
+"ascensive"
+ar (UbWUzWXfAW|D)
+ap (UbWUzWXfAW|Gb)
+
+"ascertain"
+ar (^lbAW|D^bI Us W|VDzD)
+ap (^lbAW|D^bI Us W|VGb)
+
+"ascidian"
+ar (^cZlIwWz|)
+ap (^cZlIwW|Gb)
+
+"ascribable"
+ar (GlII|I Us W|VDzD)
+ar (GlII|I Us W|VGb)
+
+"ase-inspiring"
+ar (GsIjWsQWzI ]sQAg ^bDzD)
+ap (GsIjWsQWzI ]sQAg ^bGb:ADJ->VERB)
+
+"aseismatic"
+ar (DcX|DWz|)
+ap (DcX|DW|Gb)
+
+"aseptic"
+ar (QsAwDWz|)
+ap (QsAwDW|Gb)
+
+"asexual"
+ar (UfWRjIW| WfRUDzD)
+ap (UfWRjIW| WfRUGb)
+
+"ash-colored"
+ar (^l|RcAUcAWz|)
+ap (^l|RcAUcAW|Gb)
+
+"ash-pale"
+ar (^l|RcAUcAWz|)
+ap (^l|RcAUcAW|Gb)
+
+"ashamed"
+ar (RsBzIfWsf ^bDzD)
+ap (RsBzIfWsf ^bGb:ADJ->VERB)
+# ^be ashamed of A (VERB) : [(OBJ A/IzI) RsBzIfWsf ^b<VERB>]/Gb
+# ^be ashamed of PRESP (VERB) : [(OBJ [(RELCL PRESP/^bD) AfU<NOUN>]/WzI) 
+RsBzIfWsf ^b<VERB>]/Gb
+
+"ashen"
+ar (XcUR|ZWz|)
+ap (XcUR|ZW|Gb)
+
+"ashy"
+ar (XcWz|)
+ap (XcW|Gb)
+
+"asinine"
+ap (DbAs|Wz|)
+ap (DbAs|W|Gb)
+
+"asleep"
+ar (XbQGzIWf)
+ap (XbQGzIWf W|VGb)
+# ^be fast asleep (VERB) : SbII| XbQW| GzIGb
+# ^lie fast asleep (VERB) : []sA XbQGzIWf W|V<VERB>]/Gb
+# ^fall asleep (VERB) : [XbQGzI<VERB>]/Gb
+
+"aspen"
+ar (]l]zIIbWz|)
+ap (]l]zIIbW|Gb)
+
+"asphaltic"
+ar (WbUz]bI\z Ab\WzD)
+ap (WbUz]bI\z Ab\Gb)
+
+"aspirant"
+ar ([zD HzUWzI ]sQWzD)
+ap ([zD HzUWzI ]sQGb)
+
+"aspirated"
+ar (A|WzQWz|)
+ap (A|WzQW|Gb)
+
+"aspiratory"
+ar (^zRA|Wz|)
+ap (^zRA|W|Gb)
+
+"aspiring"
+ar (^dWUbWU|QWg RsI\bDzD)
+ap (^dWUbWU|QWg RsI\bGb)
+
+"assailable"
+ar (AlWAjA^bI Us W|VDzD)
+ap (AlWAjA^bI Us W|VGb)
+
+"assailant"
+ar (AlWAjA^bDzD)
+ap (AlWAjA^bGb:ADJ->VERB)
+
+"assentient"
+ar (GlWWz|^bDzD)
+ap (GlWWz|^bGb:ADJ->VERB)
+
+"assertive"
+ar (GbDXfWXfAW|D)
+ap (GbDXfWXfAW|Gb)
+# assertive sentence (NOUN) : UfUsIQsD
+
+"assessable"
+ar (AlbUg^bI Us W|VDzD)
+ap (AlbUg^bI Us W|VGb)
+
+"assiduous"
+ar (RsX|IfD^bD)
+ap (RsX|IfD^bGb)
+
+"assignable"
+ar (X|XfW^bI Us W|VDzD)
+ap (X|XfW^bI Us W|VGb)
+
+"assigned"
+ar (^bIGbWRbGWzD)
+ap (^bIGbWRbGGb)
+
+"assimilable"
+ar (GlW^lb^bI Us W|VDzD)
+ap (GlW^lb^bI Us W|VGb)
+
+"assimilative"
+ar (GlW^lbIjAW| W|VDzD)
+ap (GlW^lbIjAW| W|VGb)
+
+"assimilatory"
+ar (GlW^lbIjAW| W|VDzD)
+ap (GlW^lbIjAW| W|VGb)
+
+"assistant"
+ar (RlXlWz|)
+ap (RlXlW|Gb)
+
+"associable"
+ar (WjDUbW^bI Us W|VDzD)
+ap (WjDUbW^bI Us W|VGb)
+
+"associate"
+ar (WjD^bR^bD)
+ap (WjD^bR^bGb)
+
+"associated"
+ar (WjD^bR^bD)
+ap (WjD^bR^bGb)
+# associated bank (NOUN) : Xl^bR WzD^cW
+# associated parameter (NOUN) : AlbDIjDGl|D QcAcRjDUs
+# associated press (NOUN) : WjD^bR \lWU|DUb
+
+"associational"
+ar (^jR^l|Wz|)
+ap (^jR^l|W|Gb)
+
+"associative"
+ar (Xl^bRWz|)
+ap (Xl^bRW|Gb)
+
+"assonant"
+ar (WwWsDWz|)
+ap (WwWsDW|Gb)
+
+"assorted"
+ar (WwRjI^bD)
+ap (WwRjI^bGb)
+
+"assuasive"
+ar (WlbD^lbU|[|DzD)
+ap (WlbD^lbU|[|Gb:ADJ->VERB)
+
+"assumable"
+ar (AbXfW^bI Us W|VDzD)
+ap (AbXfW^bI Us W|VGb)
+
+"assumed"
+ar (AbXbW^bD)
+* AbYbWz| (name W|IzQ)
+* BsQ|Gb (voice QlAUlI|)
+* W|DUs^bGb (bond UbZc)
+ap (AbXbW^bGb)
+
+"assuming"
+ar (XsXgDfQWzD)
+ap (XsXgDfQGb)
+
+"assumptive"
+ar (AbXfW^bD)
+ap (AbXfW^bGb)
+
+"assurable"
+ar (RlXzW^bI Us W|VDzD)
+ap (RlXzW^bI Us W|VGb)
+
+"assured"
+ar (RlXzWGl|D)
+* ^lbAU|I^bGb (success UfWAlW) (plan Ak^l|A)
+* XbU|D W|VGb (manner \cGl)
+ap (RlXzWGl|Gb)
+# assured destruction (NOUN) : ^lbAU|I^bD ]bAl|IjA
+# ^feel assured of A  (VERB) : [(OBJ A/IzI) ^lbAU|D^b<VERB>]/Gb
+# ^rest assured of A  (VERB) : [(ADJUNCT A/Wg) ^lbAU|D^b<VERB>]/Gb
+
+"assuring"
+ar (^lbAW|D^bDzD)
+ap (^lbAW|D^bGb:ADJ->VERB)
+
+"assyrian"
+ar (WbUU|I|WbWz|)
+ap (WbUU|I|WbW|Gb)
+
+"astatic"
+ar (RsIWbDXfW^bD)
+ap (RsIWbDXfW^bGb)
+
+"asteroid"
+ar (RjI QlWdWWz|)
+ap (RjI QlWdWW|Gb)
+
+"asteroidal"
+ar (Ul^lAUfW QlWdWWz|)
+ap (Ul^lAUfW QlWdWW|Gb)
+
+"asthenic"
+ar (^fWdA^bD)
+ap (^fWdA^bGb)
+
+"asthmatic"
+ar (ZfDU|AWz|)
+ap (ZfDU|AW|Gb)
+
+"astigmatic"
+ar (DbDU|Wz|)
+ap (DbDU|W|Gb)
+
+"astonished"
+ar (DlIIbUf WfI|GsWXfI^bD)
+ap (DlIIbUf WfI|GsWXfI^bGb)
+
+"astonishing"
+ar (DlIIbIQbD^bD)
+ap (DlIIbIQbD^bGb)
+
+"astounding"
+ar (BbQYbA DlIIbIQbD^bD)
+ap (BbQYbA DlIIbIQbD^bGb)
+
+"astral"
+ar (RjI Ab\WzD)
+ap (RjI Ab\Gb)
+# astral body (NOUN) : UfWA|Zg
+# astral hatch (NOUN) : ZfDZsAXbW
+# astral lamp (NOUN) : UfAWw IcQ]z
+
+"astray"
+ar (A|IWzI W|I^WzD)
+ap (A|IWzI W|I^Gb)
+# ^go astray (VERB) : [A|IWzI W|I^<VERB>]/Gb
+
+"astrictive"
+ar (UsIjQUfWWz|)
+ap (UsIjQUfWW|Gb)
+
+"astringent"
+ar (UsIjQUfWWz|)
+ap (UsIjQUfWW|Gb)
+
+"astrologic"
+ar (XfQUfWUsIWz|)
+ap (XfQUfWUsIW|Gb)
+
+"astrological"
+ar (XfQUfWUsIWz|)
+ap (XfQUfWUsIW|Gb)
+
+"astronautic"
+ar (WsXs R|^cWWz|)
+ap (WsXs R|^cWW|Gb)
+
+"astronautical"
+ar (WsXs R|^cWWz|)
+ap (WsXs R|^cWW|Gb)
+
+"astronomic"
+ar (ZfDQsDWz|)
+ap (ZfDQsDW|Gb)
+# astronomic observation (NOUN) : ZfDZg AlbDZzA
+# astronomic abservatory (NOUN) : ZfDQsDGc
+# astronomic photography (NOUN) : ZfDZg UbX|DUsI
+# astronomic telescope (NOUN) : ZfDZg QbWWsfDAjW
+# astronomic time (NOUN) : ZfDQsDU|
+# astronomic unit (NOUN) : ZfDQsD GbDWs|
+
+"astronomical"
+ar (ZfDQsDWz|)
+ap (ZfDQsDW|Gb)
+# astronomic observation (NOUN) : ZfDZg AlbDZzA
+# astronomic abservatory (NOUN) : ZfDQsDGc
+# astronomic photography (NOUN) : ZfDZg UbX|DUsI
+# astronomic telescope (NOUN) : ZfDZg QbWWsfDAjW
+# astronomic time (NOUN) : ZfDQsDU|
+# astronomic unit (NOUN) : ZfDQsD GbDWs|
+
+"astrophysical"
+ar (ZfDZg QsII|^bAWz|)
+ap (ZfDZg QsII|^bAW|Gb)
+
+"astute"
+ar (A|Q|D^bD)
+ap (A|Q|D^bGb)
+
+"asunder"
+ar (UbDUbDW| ^z\WfX|D)
+ap (UbDUbDW| ^z\WfX|Gb)
+# ^come asunder (VERB) : [UbDUbDW| ^z\WfX|<VERB>]/Gb
+# ^put asunder (VERB) : [HgWfDl^<VERB>]/Gb
+
+"asymmetric"
+ar (R| GcZ|WUfWWz|)
+ap (R| GcZ|WUfWW|Gb)
+
+"asymmetrical"
+ar (R| GcZ|WUfWWz|)
+ap (R| GcZ|WUfWW|Gb)
+
+"asymptomatic"
+ar (XzWUbWW| WfRUDzD)
+ap (XzWUbWW| WfRUGb)
+
+"asymptotic"
+ar (XfQAzDXfAW|D)
+ap (XfQAzDXfAW|Gb)
+
+"asymptotical"
+ar (XfQAzDXfAW|D)
+ap (XfQAzDXfAW|Gb)
+
+"asynchronous"
+ar (R| GlWU|UfWWz|)
+ap (R| GlWU|UfWW|Gb)
+
+"asyndetic"
+ar (XfRUlAUbIzI UcWIdA^bD)
+ap (XfRUlAUbIzI UcWIdA^bGb)
+
+"asyntactic"
+ar (AsQsDWg HbIzX| WbD^WzD)
+ap (AsQsDWg HbIzX| WbD^Gb)
+
+"atavistic"
+ar (AjAUg WwXfD^bDzD)
+ap (AjAUg WwXfD^bGb:ADJ->VERB)
+
+"ataxic"
+ar (WsDGlW U|IXlWz|)
+ap (WsDGlW U|IXlW|Gb)
+
+"athanasian"
+ar (Wb\bDbU|WsUzWz|)
+ap (Wb\bDbU|WsUzW|Gb)
+
+"atheistic"
+ar (QsU|DIlDWz|)
+ap (QsU|DIlDW|Gb)
+
+"atheistical"
+ar (QsU|DIlDWz|)
+ap (QsU|DIlDW|Gb)
+
+"athletic"
+ar (AjWA|Wz|)
+ap (AjWA|W|Gb)
+* WsfDA| WlbWUfW^bGb (~ {+HUMAN})
+# athletic meet (NOUN) : AjWA|^l|
+# athletic sports (NOUN) : WsDGlW AjWA|
+
+"atmospheric"
+ar (GcA|Wz|)
+ap (GcA|W|Gb)
+
+# atmospheric science (NOUN) : GcA| Alb^bA
+
+"atmospherical"
+ar (GcA|Wz|)
+ap (GcA|W|Gb)
+
+"atom-free"
+ar (^cAQsXbW AzQX|Wz|)
+ap (^cAQsXbW AzQX|W|Gb)
+
+"atomic"
+ar (WsfDXbWz|)
+ap (WsfDXbW|Gb)
+# Atomic Age (NOUN) : WsfDXbIjA U|Gc
+# atomic plane (NOUN) : WsfDXbIjA R|^cWA|
+# atomic bomb (NOUN) : WsfDXb]lA\bD
+# atomic carrier (NOUN) : WsfDXbIjA ^bWAlW Ql^bQ
+# atomic clock (NOUN) : WsfDXb U|Ak
+# atomic club (NOUN) : WsfDXb\bD RlWwAsA QsI|
+# atomic cocktail (NOUN) : Wz|WdAWrW RbWUbUfW QsIX|I
+# atomic diplomacy (NOUN) : WsfDXb Wl|Ar
+# atomic disease (NOUN) : WsfDXbRjW
+# atomic disintergration (NOUN) : WsfDXb RsWAl|
+# atomic energy (NOUN) : WsfDXbIjA
+# the Atomic Energy Authority (NOUN) : WsfDXbIjA AlWUb
+# the Atomic Emerty Commission (NOUN) : WsfDXbIjA Ws|WsfD^l|
+# atomic fission (NOUN) : WsfDXb^cA RsDWjI
+# atomic formula (NOUN) : WsfDXbU|A
+# atomic furnace (NOUN) : WsfDXbIl
+# atomic fusion (NOUN) : WsfDXb^cA WwW^bR
+# atomic generation (NOUN) : WsfDXbIjA RbIXfD
+# atomic gun (NOUN) : WsfDXb]l
+# atomic mass (NOUN) : WsfDXb X|IIdW
+# atomic nucleus (NOUN) : WsfDXb^cA
+# atomic number (NOUN) : WsfDXb RfD^l
+# atomic pile (NOUN) : WsfDXbIl
+# atomic power plant (NOUN) : WsfDXbIjA RbIXfDUl
+# atomic power station (NOUN) : WsfDXbIjA RbIXfDUl
+# atomic propulsion (NOUN) : WsfDXbIjA ZsX|D
+# atomic ship (NOUN) : WsfDXbIjAUfD
+# atomic structure (NOUN) : WsfDXbAsXl
+# atomic submarine (NOUN) : WsfDXbIjA XbQUs^bQ
+# atomic test (NOUN) : WsfDXb\bD U|I^fQ
+# atomic theory (NOUN) : WsfDXbIlD
+# atomic valance (NOUN) : WsfDXbAb
+# atomic value (NOUN) : WsfDXbAb
+# atomic warfare (NOUN) : WsfD]lAXfD
+# atomic warhead (NOUN) : ^cA\bDGs
+# atomic weapon (NOUN) : WsfDXbIjA QsA|
+# atomic weight (NOUN) : WsfDXbIdW
+
+"atomic-proof"
+ar (WsfD]lAWzI QbADzD)
+ap (WsfD]lAWzI QbAGb)
+
+"atomical"
+ar (WsfDXbWz|)
+ap (WsfDXbW|Gb)
+
+"atomistic"
+ar (WsfDXbWz|)
+ap (WsfDXbW|Gb)
+
+"atoms-forpeace"
+ar (WsfDXbIjA ]jW^lbW|WrWWz|)
+ap (WsfDXbIjA ]jW^lbW|WrWW|Gb)
+
+"atonable"
+ar (Ab]WzI Us W|VDzD)
+ap (Ab]WzI Us W|VGb)
+
+"atonal"
+ar (QsXlWz|)
+ap (QsXlW|Gb)
+
+"atonic"
+ar (WfAWdWW| WfRUDzD)
+ap (WfAWdWW| WfRUGb)
+
+"atop"
+ar (XfWUbWWz|)
+
+"atrabilious"
+ar (WsWsIXzWWg AfII|D)
+ap (WsWsIXzWWg AfII|Gb)
+
+"atrocious"
+ar (^wWWbA^bD)
+ap (^wWWbA^bGb)
+
+"atrophic"
+ar (Ws|ZsAUfWWz|)
+ap (Ws|ZsAUfWW|Gb)
+
+"attachable"
+ar (Rs\W|I Us W|VDzD)
+ap (Rs\W|I Us W|VGb)
+
+"attainable"
+ar (GlGbI^bI Us W|VDzD)
+ap (GlGbI^bI Us W|VGb)
+
+"attempted"
+ar (U|Gl^bD)
+ap (U|Gl^bGb)
+
+"attendant"
+ar (HbIbGbD|DzD)
+* Us^cWWz| (nurse AbD^lWsfD) (secretary R|Uf)
+* UsRbD^bGb:ADJ->VERB (vice RsI^cW) (circumstance UbW^lbW)
+* ZbQUfA^bGb:ADJ->VERB (person UbIbQ) (crowd AsDXsW)
+ap (HbIbGbD|Gb)
+
+"attention-getting"
+ar (XsWz|IzI BzDzD)
+ap (XsWz|IzI BzIGb:ADJ->VERB)
+
+"attentive"
+ar (XsWz| A|]WzD)
+* XfWXsW^bGb (request Rs\bA) (manner \cGl)
+ap (XsWz| A|]Gb)
+
+
+"attenuant"
+ar (^z|RbA^bAg ^bDzD)
+ap (^z|RbA^bAg ^bGb)
+
+"attenuate"
+ar (AbDzD)
+ap (AbDzIGb)
+
+"attic"
+ar (Wb\|[bWz|)
+ap (Wb\|[bW|Gb)
+# Attic faith (NOUN) : AsGWzD U|DWz|
+# Attic order (NOUN) : Wb\|[bU|A
+# Attic salt (NOUN) : WsWb^bD XcZ|
+# Attic wit (NOUN) : WsWb^bD XcZ|
+
+"attorney-client"
+ar (GcI|W|D-AlAcAWz|)
+ap (GcI|W|D-AlAcAW|Gb)
+
+"attractive"
+ar (QcIjAW|VDzD)
+* Qc^lAXfAW|Gb (lady UsADj) (appearance Wl|Ql) (girl UlDj)
+* BzIWfGbWA|Gb:ADJ->VERB (power ^|Q)
+ap (QcIjAW|VGb)
+
+
+"attributable"
+ar (GlII|I Us W|VDzD)
+ap (GlII|I Us W|VGb)
+
+"attributive"
+ar (UlAUfWWz|)
+ap (UlAUfWW|Gb)
+
+"attrite"
+ar (GbI^WbRfI|D)
+ap (GbI^WbRfI|Gb)
+
+"attrited"
+ar (GbI^WbRfI|D)
+ap (GbI^WbRfI|Gb)
+
+"atypical"
+ar (XfW^jWWg WbDQbXDzD)
+ap (XfW^jWWg WbDQbXGb)
+
+"auburn"
+ar (XfAAbIUcAWz|)
+ap (XfAAbIUcAW|Gb)
+
+"audacious"
+ar (GcGbQ^bD)
+ap (GcGbQ^bGb)
+
+"audible"
+ar (GzII|DzD)
+ap (GzII|Gb:ADJ->VERB)
+# audible picture (NOUN) : RbIUfW WjW^lb
+# audible film (NOUN) : RbIUfW WjW^lb
+# audible limit (NOUN) : AbZfW ^bDAk
+
+"audio"
+ar (AbZfW Xs]bWz|)
+ap (AbZfW Xs]bW|Gb)
+# audio fan (NOUN) : ^bW|]bW| Wc^lAb
+
+"audio-visual"
+ar (U|ZfWAbAWz|)
+ap (U|ZfWAbAW|Gb)
+# audio visual aids (NOUN) : U|ZfWAbA ArWwAA|As
+# audio visual education (NOUN) : U|ZfWAbA ArWwA
+
+"auditive"
+ar (ZfWAbAWz|)
+ap (ZfWAbAW|Gb)
+
+"auditorial"
+ar (GzGDzD UbIbQWz|)
+ap (GzGDzD UbIbQW|Gb)
+
+"auditory"
+ar (As|Wz|)
+ap (As|W|Gb)
+
+"augmentative"
+ar (XzWAbXfAW|D)
+ap (XzWAbXfAW|Gb)
+
+"augural"
+ar (XfQXbWW|Wz|)
+ap (XfQXbWW|W|Gb)
+
+"august"
+ar (Ws|WfQ W|VDzD)
+ap (Ws|WfQ W|VGb)
+
+"aural"
+ar (As|Wz|)
+ap (As|W|Gb)
+
+"aureate"
+ar (AzQR|ZWz|)
+ap (AzQR|ZW|Gb)
+
+"auric"
+ar (AzQWz|)
+ap (AzQW|Gb)
+
+"auriferous"
+ar (AzQW| DbDzD)
+ap (AzQW| DbGb)
+
+"auriform"
+ar (As|QlWdWWz|)
+ap (As|QlWdWW|Gb)
+
+"auroral"
+ar (WjQjWWz|)
+ap (WjQjWW|Gb)
+
+"aurous"
+ar (AzQWz|)
+ap (AzQW|Gb)
+
+"auscultatory"
+ar (ZfWX|DWz|)
+ap (ZfWX|DW|Gb)
+
+"auspicious"
+ar (AjWUbUzIfWsD)
+ap (AjWUbUzIfRGb)
+
+"austere"
+ar (WfQ^bD)
+ap (WfQ^bGb)
+
+"austral"
+ar (DbQYlAWz|)
+ap (DbQYlAW|Gb)
+
+"australasian"
+ar (DbQWdWXsWz|)
+ap (DbQWdWXsW|Gb)
+
+"australian"
+ar (WlUz\zIgW|II|WbWz|)
+ap (WlUz\zIgW|II|WbW|Gb)
+
+"austrian"
+ar (WlUz\zI|WbWz|)
+ap (WlUz\zI|WbW|Gb)
+
+"austronesian"
+ar (WlUz\zIlDgU|WbWz|)
+ap (WlUz\zIlDgU|WbW|Gb)
+
+"autarchic"
+ar (GlAXcWz|)
+ap (GlAXcW|Gb)
+
+"autarchical"
+ar (GlAXcWz|)
+ap (GlAXcW|Gb)
+
+"autarkic"
+ar (XbAzRXbXlAWz|)
+ap (XbAzRXbXlAW|Gb)
+
+"autarkical"
+ar (XbAzRXbXlAWz|)
+ap (XbAzRXbXlAW|Gb)
+
+"authentic"
+ar (U|DIl|^bI QbD^bD)
+ap (U|DIl|^bI QbD^bGb)
+
+"authentical"
+ar (Q|GWzIQbD^bD)
+ap (Q|GWzIQbD^bGb)
+
+"authorial"
+ar (XfXbWz|)
+ap (XfXbW|Gb)
+
+"authoritarian"
+ar (AsfDWs|XsWz|Wz|)
+ap (AsfDWs|XsWz|W|Gb)
+# authoritarian rule (NOUN) : GlAXcXlA X|Rc
+
+"authoritative"
+ar (AsfDWs|W|VDzD)
+ap (AsfDWs|W|VGb)
+# authoritative sources (NOUN) : AlbDRjD UlU|A\lW
+
+"authorized"
+ar (^fAbGl|D)
+ap (^fAbGl|Gb)
+# the Authorized Version (NOUN) : ^zQXfWWjA UfWUf
+
+"autio-ligual"
+ar (As|Wlb W|RWzI UbWrW^bDzD)
+ap (As|Wlb W|RWzI UbWrW^bGb:ADJ->VERB)
+
+"autistic"
+ar (Xb]kUfWWz|)
+ap (Xb]kUfWW|Gb)
+
+"autobiographic"
+ar (XbUfXfDWz|)
+ap (XbUfXfDW|Gb)
+
+"autobiographical"
+ar (XbUfXfDWz|)
+ap (XbUfXfDW|Gb)
+
+"autocephalous"
+ar (XbXsXfAW|D)
+ap (XbXsXfAW|Gb)
+
+"autochthonal"
+ar (\lZbAWz|)
+ap (\lZbAW|Gb)
+
+"autochthonous"
+ar (\lZbAWz|)
+ap (\lZbAW|Gb)
+
+"autocratic"
+ar (GlAXcWz|)
+ap (GlAXcW|Gb)
+
+"autocratical"
+ar (GlAXcWz|)
+ap (GlAXcW|Gb)
+
+"autoerotic"
+ar (XbA| UcAXfWXfAW|D)
+ap (XbA| UcAXfWXfAW|Gb)
+
+"autogamous"
+ar (XbAb UcWU|AWz|)
+ap (XbAb UcWU|AW|Gb)
+
+"autogenous"
+ar (XbUcWWz|)
+ap (XbUcWW|Gb)
+
+"autograph"
+ar (Xb]|IWz|)
+ap (Xb]|IW|Gb)
+
+"autographic"
+ar (Xb]|IWz|)
+ap (Xb]|IW|Gb)
+
+"autogrpahical"
+ar (Xb]|IWz|)
+ap (Xb]|IW|Gb)
+
+"autokinetic"
+ar (XbGlWXfAW|D)
+ap (XbGlWXfAW|Gb)
+
+"automatic"
+ar (XbGlWXfAW|D)
+ap (XbGlWXfAW|Gb)
+# automatic calling (NOUN) : XbGlW ^lZsI
+# automatic data processing (NOUN) : XbGlW XfWRlZfI|
+# automatic door (NOUN) : XbGlWU|A QsD
+# automatic elelvator (NOUN) : XbGlWU|A UzWAbWA|
+# automatic gear (NOUN) : XbGlW XlXfWXbWZ|
+# automatic interplanetary station (NOUN) : XbGlW ^lAUfWAbD XfWAfXbW
+# automatic operation (NOUN) : XbGlW XlXbA
+# automatyic pilot (NOUN) : XbGlW XlXfWXbWZ|
+# automatic pistol (NOUN) : XbGlW AsfDZlW
+# automatic rifle (NOUN) : XbGlW UlZlW
+# automatic telephone (NOUN) : XbGlW XfD^lb
+# automatic trasmission (NOUN) : XbGlWRjDUlA XbWZ|
+# automatic drive (NOUN) : XbGlWRjDUlA XbWZ|
+
+"automatical"
+ar (XbGlWXfAW|D)
+ap (XbGlWXfAW|Gb)
+
+"automatous"
+ar (XbGlWXfAW|D)
+ap (XbGlWXfAW|Gb)
+
+"automotive"
+ar (XbGlW ZsX|DWz|)
+ap (XbGlW ZsX|DW|Gb)
+
+"autonomic"
+ar (XbZ|XfAW|D)
+ap (XbZ|XfAW|Gb)
+# autonomic nervous system (NOUN) : XbWwI U|DAjWAk
+
+"autonomous"
+ar (XbZ|AsfDW| W|VDzD)
+ap (XbZ|AsfDW| W|VGb)
+# autonomoous republid (NOUN) : XbZ| AlW^lbAsA
+
+"autoptic"
+ar (U|IX| AfQXzWWz|)
+ap (U|IX| AfQXzWW|Gb)
+
+"autoptical"
+ar (U|IX| AfQXzWWz|)
+ap (U|IX| AfQXzWW|Gb)
+
+"autotoxic"
+ar (XbAb XsWGlAWz|)
+ap (XbAb XsWGlAW|Gb)
+
+"autumnal"
+ar (AbWzIWz|)
+ap (AbWzIW|Gb)
+# autumnal equinox (NOUN) : ZsRsD
+# autumnal tints (NOUN) : AbWzIR|Z GbD]sW
+
+"auxiliary"
+ar (RlXlWz|)
+ap (RlXlW|Gb)
+# auxiliary coins (NOUN) : RlXl ^lb]k
+# auxiliary language (NOUN) : RlXl WfDWf
+# auxiliary troops (NOUN) : AsWsfDRsGc
+# auxiliary verb (NOUN) : XlGlWUb
+
+"available"
+ar (UbWrWAbDzW^bD)
+* R|Gb (seat XlbUfA)
+* Ww^r^bGb (energy WgDfX|) (ticket Zb]r)
+* WwIjA^bGb (candidate ^sRlXb)
+ap (UbWrWAbDzW^bGb)
+
+# ^be available for A (VERB) : [(ADJUNCT A/Wg) GlWsQW| Gl|<ADJ>]/Gb
+
+"avaricious"
+ar (WrAU|Q QbD^WzD)
+ap (WrAU|Q QbD^Gb)
+
+"avenging"
+ar (WsfDUsIzI Ab]DzD)
+ap (WsfDUsIzI Ab]Gb:ADJ->VERB)
+
+"average"
+ar (]jWAwDWz|)
+ap (]jWAwDW|Gb)
+
+"averse"
+ar (U|I^Wf^bDzD)
+ap (U|I^Wf^bGb:ADJ->VERB)
+
+"avertible"
+ar (]|^bI Us W|VDzD)
+ap (]|^bI Us W|VGb)
+
+"avian"
+ar (XlIwWz|)
+ap (XlIwW|Gb)
+
+"avid"
+ar (\bQWrA^bD)
+ap (\bQWrAXfAW|Gb)
+
+"avionic"
+ar (^bWAlW XfDXbAlW^bAWz|)
+ap (^bWAlW XfDXbAlW^bAW|Gb)
+
+"avoidable"
+ar (]|^bI Us W|VDzD)
+ap (]|^bI Us W|VGb)
+
+"avowable"
+ar (AlWWfD^bI Us W|VDzD)
+ap (AlWWfD^bI Us W|VGb)
+
+"avowed"
+ar (UzUzIl UzWW|D^bD)
+ap (UzUzIl UzWW|D^bGb)
+
+"avuncular"
+ar (WbXfV|Wz|)
+ap (WbXfV|W|Gb)
+
+"awake"
+ar (BcWfW|VDzD)
+ap (BcWfW|VGb)
+# ^be awake to A (VERB) : [(OBJ A/IzI) WbIWbZc<VERB>]/Gb
+# ^be wide awake (VERB) : [WlbDXfD^| XbQWzI Bc<VERB>]/Gb
+# ^keep awake (VERB) : [XbX| WbD^Al W|V<VERB>]/Gb
+
+"awakening"
+ar (AbAUfW^bDzD)
+ap (AbAUfW^bGb:ADJ->VERB)
+
+"award-winning"
+ar (UbWWzI UsUbW^bD)
+ap (UbWWzI UsUbW^bGb)
+
+"aware"
+ar (WbDzD)
+ap (WbIGb:ADJ->VERB)
+# ^be aware of A (VERB) : [(OBJ A/IzI) WbI<VERB>]/Gb
+# ^be aware of PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) WbI<VERB>]/Gb
+# ^be aware of SENT (VERB) : [(OBJ [(RELCL SENT/^bGbDzD) AfU<NOUN>]/WzI) WbI<VERB>]/Gb
+# ^become aware of A (VERB) : [(OBJ A/IzI) WbIAg Gl|<VERB>]/Gb
+# ^become aware of PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) 
+WbIAg Gl|<VERB>]/Gb
+# ^be made aware of A (VERB) : [(OBJ A/IzI) WbIAg Gl|<VERB>]/Gb
+# ^be made aware of PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) 
+WbIAg Gl|<VERB>]/Gb
+# ^be aware THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/^bGbDzD) AfU<NOUN>]/WzI) WbI<VERB>]/Gb
+# ^be aware SENT (VERB) : [(OBJ [(RELCL SENT/^bGbDzD) AfU<NOUN>]/WzI) WbI<VERB>]/Gb
+
+"away"
+ar (HfIWfX|D)
+ap (HfIWfX|Gb)
+
+"awe-stricken"
+ar (Ws|WfQWg DsII|D)
+ap (Ws|WfQWg DsII|Gb)
+
+"awe-struck"
+ar (Ws|WfQWg DsII|D)
+ap (Ws|WfQWg DsII|Gb)
+
+"aweary"
+ar (]|Il^bD)
+ap (]|Il^bGb)
+
+"aweless"
+ar (Ws|WfQWfRUDzD)
+ap (Ws|WfQWfRUGb)
+
+"awesome"
+ar (QsUfWsD)
+ap (QsUfRGb)
+
+"awful"
+ar (QsUfWsD)
+* U|Q^bGb (error XbIQlU)
+* XbWWfQ^bGb (majesty UsWAlUfW)
+ap (QsUfRGb)
+
+"awkward"
+ar (Uf\sIzD)
+* GbIsA| WfIjRGb (tool GlAs) (instrument A|As) (handle UlDXbRW|) (customer AlAcA)
+* WfUcA^bGb (gesture QlQX|U)
+* DbDZf^bGb (state UbW\c) (situation UbW^lbW)
+ap (Uf\sIGb)
+
+# the awkward age (NOUN) : UbZsDA|
+# awkward customer (NOUN) : UfWAbU|D DlQ
+# ^feel awkward $ (VERB) : [DbDZf^b<ADJ>]/Gb
+# awkward squad (NOUN) : U|DRjWRbD
+# ^be awkward at A (VERB) : [(SCOMP A/Ab) UfGRsIz<VERB>]/Gb
+
+"awless"
+ar (Ws|WfQWfRUDzD)
+ap (Ws|WfQWfRUGb)
+
+"awned"
+ar (BbBzIbA|Ab W|VDzD)
+ap (BbBzIbA|Ab W|VGb)
+
+"awol"
+ar (QsGbD AjIAzDWz|)
+ap (QsGbD AjIAzDW|Gb)
+
+"axial"
+ar (ZsAWz|)
+ap (ZsAW|Gb)
+
+"axile"
+ar (ZsAWz|)
+ap (ZsAW|Gb)
+
+"axiomatic"
+ar (AlWI|Wz|)
+ap (AlWI|W|Gb)
+
+"axiomatical"
+ar (AlWI|Wz|)
+ap (AlWI|W|Gb)
+
+"azimuthal"
+ar (RbWWs|AbAWz|)
+ap (RbWWs|AbAW|Gb)
+
+"azoic"
+ar (QsUcWQsI U|GcWz|)
+ap (QsUcWQsI U|GcW|Gb)
+
+"azotic"
+ar (X|IUlWz|)
+ap (X|IUlW|Gb)
+
+"aztec"
+ar (WbXz\gA UbIbQWz|)
+ap (WbXz\gA UbIbQW|Gb)
+
+"azure"
+ar (^bDzIR|ZWz|)
+ap (^bDzIR|ZW|Gb)
+# azure stone (NOUN) : ZfWAzQUfA
+
+"azygous"
+ar (VbWWzI W|IsX| WbD^DzD)
+ap (VbWWzI W|IsX| WbD^Gb)

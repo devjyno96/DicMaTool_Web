@@ -1,0 +1,677 @@
+"all"
+(XfDRs)
+
+# ^be all ADJ $ (VERB) : [(MODS [QlGs<ADV>]) ADJ]/^bGb
+# all but (ADV) : GbDX|
+# all the more $ (ADV) : GfWsA
+# all the better $ (ADV) : GfWsA
+# above all $ (ADV) : \zA^|
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+# ^all of A (NOUN) : [(NMODS A) XfDRs<NOUN>] 
+* [(NMODS A) QlGs<NOUN>] 
+* A (~ {+HUMAN})
+# after all $ (ADV) : AjIAsA
+# all along $ (ADV) : XzA
+# all and sundry (NOUN) : AbAXb XfDRs
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+# all around A (PP) : (ADJUNCT [(POSS A/Wz|) UbRbW<NOUN>]/Wg)
+# all around the world (PP) : XfDUgAkXfAWzIl
+# all at once (ADV) : QlGs GlWU|Wg
+//# all but ^A (NOUN) : [(ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/^bAl) QlGs<NOUN>]
+//# all but $ (ADV) : AfWz|
+# all in all $ (ADV) : GcZgIl QbI^cUf
+# all of ^us (NOUN) : [(NMODS [WsI|<NOUN>]) QlGs<NOUN>]
+# all of whom (NOUN) : [(NMODS [AzGzI<NOUN>]) QlGs<NOUN>]
+# all one (ADJ) : Qc^bDAbX|Wz|
+# all over $ (ADV) : DfII|
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+# all over the shop (ADV) : ^lDIbD^bWj
+//# all round (NOUN) : R|W ^bD Rb[s|
+//# all the A (NOUN) : [(NMODS [QlGzD<NOUN>]) A]
+# all the further (NOUN) : AzAIjA
+# all the rage $ (ADV) : [zAg Ww^cW^bWj
+# all the same (ADJ) : QlGs Ab\Gb {+PREDIC}
+# all the time (ADV) : AzUbW| XsA
+# all the way (ADV) : XsIAlG 
+# all together (ADV) : QlGs ^bQBg
+#' all told (NOUN) : ZlWAk
+#' all up (ADV) : RlIXbW GbRlWb
+#' at all $ (ADV) : XfD^j
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+# last of all (ADV) : AjIAsA
+# most of all $ (ADV) : QsWfURlGbGl
+# || that is all ? (SENT) :  (QUES [(SUBJ [AzAfU<PRON>]/W|) QlGsW|<ADJ>]/Gb)
+# not at all $ (ADV) : XfD^j
+# nothing ADJ (NOUN) : [(AMODS ADJ/^bD) AfU<NOUN>]
+# once for all $ (ADV) : W|RfDQbD
+# the ADJ {+SUPER} of all (ADJ) : [(ADJUNCT [DsAs<PRON>]/RlGbGl) ADJ]/^bGb
+# the ADJ {+SUPER} of A (ADJ) : [(ADJUNCT [(NMODS A) XsW<NOUN>]/WgUf) ADJ]/^bGb
+//# ^PRON {+SUBJP} all (NOUN) : [(NMODS PRON) QlGs<NOUN>]
+# || worst of all | (ADV) : QsWfURlGb DbSzD AfUWzD
+
+"another"
+(GbIzD AfU)
+# in another moment (ADV) : GbWzQ UsDAbDWg
+# one after another (ADV) : Gs|W|Wf
+# one behind another (ADV) : UgIl XsIX|Wf
+# one way or other (ADV) : WfHf^AgGzD ^cUf
+
+"any"
+(WfHf^bD AfU)
+
+"anybody"
+% HUMAN ANIMAL
+(DsAs)
+
+"anyone"
+% HUMAN ANIMAL
+(DsAs)
+# anyone else (PRON) : GbIzD DsAs
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+"anything"
+(WfDzAfU)
+# anything but A (NOUN) : [(MODS [AjI[l<ADV>]) A]{+NEG}
+# anything else (PRON) : GbIzD WfHfD AfU
+# anything like A (NOUN) : [(ADJUNCT [(COMP A) Ab\<ADJ>]/^bD) WfHfD AfU<NOUN>]
+# anything more (NOUN) : XlQGf QsWfDAb
+# || anything will do | (SENT) : (DECL [WbQsAfUW|Db AlcDZbD^<ADJ>]/Gb)
+# anything worth PRESP (NOUN) : [(RELCL [(SUBJ [(RELCL PRESP/^bIQbD^bD) AbZ|<NOUN>]/Ab) W|V<ADJ>]/^bDzD) AfU<NOUN>]
+# ^be anything but A (VERB) : [(MODS [AjI[l<ADV>]) (SCOMP A/Ab) WbD|<ADJ>]/Gb
+# ^have anything to do with A (VERB) : [(ADJUNCT A/Wlb) AlbDAkAb W|V<ADJ>]/Gb
+# ^have anything to do with ONE_S PRESP (VERB) : 
+   [(ADJUNCT [(RELCL [(SUBJ ONE/W|) PRESP ^b<VERB>]/DzD) AfU<NOUN>]/Alb) AlbDAkAb W|V<ADJ>]/Gb
+# | if anything | (ADV) : AzIf^A|DzD[fDjW
+# more than anything | (ADV) : QsWfURlGbGl
+
+"aught"
+% CONCRETE MATERIAL 
+(WfHfD W|I)
+
+"both"
+(WdWYlA QlGs)
+# have it both ways (VERB) : WdWGbI| AfIZ|Gb
+# both of A (NOUN) : [(NMODS A) WdWYlA QlGs<NOUN>]
+	* [(NMODS A) GsI Gb<NOUN>]
+	* A (~ {+HUMAN})
+
+"certain"
+(WfIQb)
+
+"each"
+(AbAXb)
+# each and all (NOUN) : AbAXb QlGs
+# each of A  (NOUN) : [(NMODS [AbAAbA<NOUN>]/Wz|) A]
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+# with each other (PP) : UfIl
+
+"eight"
+% CONCRETE MATERIAL 
+(WjGfIRAc)
+
+"eighteen"
+% CONCRETE MATERIAL 
+(WjIWjGfIRAc)
+
+"eighty"
+% CONCRETE MATERIAL 
+(WjGzDAc)
+
+"either"
+(WfDz ^bD YlA)
+# either of the two (NOUN) : GsIXsWWg ^bDb
+
+"eleven"
+% CONCRETE MATERIAL 
+(WjI ^bDAc)
+
+"enough"
+(ZsWRsD^bD AfU)
+
+"everybody"
+(QlGs)
+
+"everyone"
+% HUMAN ANIMAL
+(QlGzD UbIbQ)
+
+"everything"
+(QlGzD AfU)
+# || how is everything with you ? (SENT) : (QUES [(SUBJ [GbWU|D<PRON>]/WzD) WfHf^<ADJ>]/Gb)
+# everything else (NOUN) : DbQfX| QlGzD AfU
+# like everything (ADV) : XfDIjAWzIl
+
+"few"
+(QjZQjZ)
+
+"five"
+% CONCRETE MATERIAL 
+(GbUfUAc)
+
+"forty"
+% CONCRETE MATERIAL 
+(Qb^zDAc)
+
+"four"
+% CONCRETE MATERIAL 
+(DgAc)
+
+"fourteen"
+% CONCRETE MATERIAL 
+(WjIDgAc)
+
+"he"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Az)
+# he himself (PRON) : Az XbU|D 
+
+"hers"
+(AzDjWz| AfU)
+
+"herself"
+% HUMAN ANIMAL
+(AzDj XbU|D)
+
+"himself"
+% HUMAN ANIMAL
+(Az XbU|D)
+
+"his"
+(AzWz| AfU)
+# he and his | (NOUN) : AzWlb AzWz| AbXlA
+
+"i"
+% HUMAN ANIMAL MATERIAL 
+(Db)
+# | i am what i am || (SENT) : DbDzD DbW|Gb
+# i myself (NOUN) : Db XbU|D
+# || no , i have not || (SENT) : (DECL [WbD|Wl<ADV>])
+
+"it"
+% CONCRETE MATERIAL 
+(AzAfU)
+# || it ^be || (SENT) : AzIf^Gb
+# it ^were for A (SENT) : [(SUBJ A/Ab) W|V<ADJ>]/Gb
+# it ^had been for A (SENT) : [(SUBJ A/Ab) W|V<ADJ>]/Gb
+# || it ^should || (SENT) : AzIcWd ^bGb
+# it ^stop raining (SENT) : R|Ab QfQZsGb
+# it ^start raining (SENT) : R|Ab WlA| U|XbA^bGb
+# it ^keep on raining (SENT) : AkUlA^cUf R|AbWlGb
+# || it ^be AJP $ (SENT) : [AJP]/^bGb
+//# it ^be AJP (SENT) : [(SCOMP AJP/
+# || it ^be NUM1 after NUM2 (SENT) : 
+[(COMP [(NMODS [(NMODS NUM2) U|<NOUN>]) (NMODS NUM1) RsD<NOUN>]) _<ADJ>]<W|>/Gb
+//# || it ^be ADJ {+COMPR} TO_INF than TO_INF1 (VERB) : 
+//    [(SUBJ [(COMPCL [(ADJUNCT [(COMPCL TO_INF1/^bDzD) AfU<NOUN>]/RlGb) TO_INF]/^bDzD) AfU<NOUN>]/W|) AJP]/^bGb
+// processed by pattern
+# || it ^be PP where SENT (SENT) : 
+[(SUBJ [(RELCL SENT/^bD) AfU<NOUN>]/DzD) (COMP PP) _<ADJ>]<W|>/Gb
+# || it ^be not long before SENT (SENT) : 
+    [(MODS [WlIcX| WbD^Wb<ADV>]) SENT]
+# || it ^be not until THAT_CLAUSE (SENT) : 
+    [(MODS [AzHcUfWd R|IlUf<ADV>]) THAT_CLAUSE]
+# || it ^be not until then THAT_CLAUSE (SENT) : 
+    [(MODS [AzHcUfWd R|IlUf<ADV>]) THAT_CLAUSE]
+# || it must be THAT_CLAUSE (SENT) :
+    [(SUBJ THAT_CLAUSE/^bQW|) \zII|QWfRU<ADJ>]/Gb
+# || it will not be long before SENT (SENT) : 
+    [(MODS [QfX|WbD^Wb<ADV>]) SENT](^bI/F, AfUW|/A)/Gb 
+# || it ^come time || (SENT) : [U|AbDW| Gl|<VERB>]/Gb
+
+"itself"
+(AzAfU XbU|D)
+#' in itself $ (PP) : RlDX|IXfAWzIl
+
+"many"
+(GbUs)
+
+"me"
+(Db)
+
+"mine"
+% CONCRETE MATERIAL 
+(DbWz| AfU)
+
+"myself"
+% HUMAN ANIMAL
+(Db XbU|D)
+
+"neither"
+(WfDzYlA)
+
+"next"
+(GbWzQ)
+
+"nine"
+% CONCRETE MATERIAL 
+(Wb^lRAc)
+
+"nineteen"
+% CONCRETE MATERIAL 
+(WjIWb^lRAc)
+
+"ninety"
+% CONCRETE MATERIAL 
+(Wb^zDAc)
+
+"nobody"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbQs)
+
+"none"
+(WbQs)
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+"noone"
+(WbQs)
+
+"nothing"
+% CONCRETE MATERIAL 
+(WfHf^bD AfU)
+//# ^VP nothing better than A (VERB) : [(OBJ A/IzI) (MODS [AbXbW<ADV>]) VP]
+//# ^VP nothing better than PRESP (VERB) : PRESP ^bA|IzI AbXbW VP ^bGb
+//# ^VP nothing better than TO_INF (VERB) : TO_INF ^bA|IzI AbXbW VP ^bGb
+//# ^be nothing better than A (VERB) : [(ADJUNCT A/RlGb) Xl^WzD AfUWzD WfRU<ADJ>]/Gb
+//# nothing ADJ {+COMPR} than A (NOUN) : 
+//    [(ADJUNCT A/RlGb) Xl^WzD AfU {+NEG} ]
+# Nothing comes from nothing (SENT) : (DECL [QsWgUf WwDzD UcWA|X| WbD^<VERB>]/Gb)
+# Nothing venture nothing have (VERB) : (DECL [RfQAsIWg GzIWfAbWd RfQWzI XbR<VERB>]/Gb)
+# all to nothing | (ADV) : ZsWRsD^|
+# be for nothing in A (VERB) : [(ADJUNCT A/Wg) (OBJ [WjW^dW<NOUN>]/WzI) 
+    Q|Z|X| WbD^<VERB>]/Gb
+# be nothing but A (VERB) : [(ADJUNCT A/Wg) X|DbX| WbD^<VERB>]/Gb
+# be nothing like A (VERB) : [(ADJUNCT A/Wlb) (MODS [XfD^j<ADV>]) GbIz<ADJ>]/Gb
+# be nothing to A (VERB) : [(ADJUNCT A/WgAgDzD) WbQsAfUGl WbD|<ADJ>]/Gb
+//# ^be nothing worse than A (VERB) : [(ADJUNCT A/RlGb) DbSzD AfUWzD WfRU<VERB>]/Gb
+//# ^be nothing worse than PRESP (VERB) : 
+//      [(SUBJ [(RELCL [(ADJUNCT [(COMPCL PRESP/^bDzD) AfU<NOUN>]/RlGb) DbSz<ADJ>]/^bD) AfU<NOUN>]/WzD) WfRU<VERB>]/Gb
+# ^come to nothing (VERB) : ^fUUsAlIl AzZ|Gb
+# ^cry for nothing (VERB) : BbGbIAWfRUW| WsIGb
+# ^do nothing but BARE_INF (VERB) : [BARE_INF](^bA|QbD/F, ^b/V)/Gb
+# ^do nothing but PRESP (VERB) : [PRESP](^bA|QbD/F, ^b/V)/Gb
+# for nothing (ADV) : VzI Gg WfRUW|
+# ^be good for nothing (VERB) : WbQs VzIQlAb WfRUGb
+# ^have nothing for A but B (VERB) : 
+[(ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf) (OBJ B/QbDWzI) AbX|<VERB>]/Gb
+# ^have nothing in A {+ANIMAL} (VERB) : 
+    [(ADJUNCT A/WgAgDzD) WbQs UlWrWGl WfRU<ADJ>]/Gb
+# ^have nothing of A {+ANIMAL} (VERB) : 
+    [(OBJ A/WzI) UbWGc^bX| WbD^<VERB>]/Gb
+# ^have nothing to do but BARE_INF (VERB) : [(ADVCL BARE_INF(^bA|QbD/F, ^b/V)/QjD) Gl|<VERB>]/Gb
+# ^have nothing to do except BARE_INF (VERB) : [(ADVCL BARE_INF(^bA|QbD/F, ^b/V)/QjD) Gl|<VERB>]/Gb
+# ^have nothing to do with A (VERB) : 
+    [(ADJUNCT A/WlbDzD) AlbDAkAb WfRU<VERB>]/Gb
+# ^hear nothing of A (VERB) : [(ADJUNCT A/IlRs\fDzD) WbQs UlU|AW| WfRU<VERB>]/Gb
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+# in nothing flat (ADV) : Gl|GlIlA SbII|
+# like nothing on earth (ADV) : QlRU|
+# like nothing on in the world (ADV) : QlRU|
+# ^make nothing of A (VERB) : [(OBJ A/WzI) W|^c^bI Us WfRU<VERB>]/Gb
+# no nothing (VERB) : XfD^j WfRUGb
+# nothing ADJ {-COMPR,-SUPER} (NOUN) : [(AMODS ADJ/^bD) WfHfD AfU<NOUN>] {+NEG}
+# with nothing but A (PP) : (ADJUNCT [(OBJ A/QbDWzI) AbX|<VERB>]/Al)
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+//# nothing but ^A (NOUN) : (ADJUNCT A/QbD)
+//# nothing but ^PRESP (NOUN) : (ADJUNCT A/QbD)
+# nothing else than A (NOUN) : [(MODS [GbDX|<ADV>]) A]/QbD
+# nothing other than A  (NOUN) : [(MODS [GbDX|<ADV>]) A]/QbD
+# || nothing will do | (SENT) : (DECL [WbQsAfUGl ZsWRsDZ| WbD^<ADJ>]/Gb)
+# || there ^be nothing more ADJ than A (SENT) : 
+(DECL  [(SUBJ [(RELCL [(ADJUNCT A/RlGb) (MODS [Gf<ADV>]) ADJ]/^bD) AfU<NOUN>]/DzD) WfRU<ADJ>]/Gb )
+# think nothing of A (VERB) : [(OBJ A/WzI) (MODS [GcUsIlRX| WbD^Ag<ADV>]) WjA|<VERB>]/Gb
+# to nothing (ADV) : ^zDXfAGl WfRUW|
+# to say nothing of A (ADV) : (MODS [(COMP [(RELCL [(OBJ A/WzD) QbI^b<VERB>]/^bI) DbWs|<NOUN>]/Gl) WfRUW|<ADV>])
+
+"one"
+% CONCRETE MATERIAL 
+(^bDb)
+//* UbIbQ (~ {HUMAN})
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+# ^one from A (NOUN) : [(ADJUNCT [(ADJUNCT A/WgUf) DbWl<VERB>]/^bD) AfU<NOUN>]
+
+"oneself"
+% HUMAN ANIMAL
+(XbA| XbU|D)
+# ^be ONESELF $ (VERB) : ]jWUbWU|Wlb GbIzQWfRUGb
+# ^be out_of ONESELF $ (VERB) : XbA|IzI W|XGb
+# beside ONESELF $ (ADJ) : [(OBJ [XfWU|D<NOUN>]/WzI) W|I^<VERB>]/Gb
+#' by ONESELF $ (ADV) : XbA| ^lDXbUf
+# ^carry ONESELF $ (VERB) : ^cWGlW^bGb
+# ^come to ONESELF $ (VERB) : Wz|U|AWzI ^l|RlA^bGb
+# ^exert ONESELF $ (VERB) : DlIjA^bGb
+# for ONESELF (ADV) : XbA|IzI Ws|^bWj
+# ^have A to ONESELF $ (VERB) : [(OBJ A/WzI) GlAXfQ^b<VERB>]/Gb
+# in spite of ONESELF (ADV) : XbA|Gl QlIzAg
+# ^keep ONESELF $ (VERB) : Xb^lbI^bGb
+#' of ONESELF $ (ADV) : XfXfIIl
+# ^read ONESELF to sleep (VERB) : W|IAGbAb XbQGzIGb
+# ^speak to ONESELF $ (VERB) : ^lDXbUQbIWzI ^bGb
+# ^take upon ONESELF $ (VERB) : XsXgDfQAg DbUfGb
+# ^teach ONESELF $ (VERB) : GlA^bA^bGb
+#' to ONESELF $ (ADV) : XbA| XbU|DWgAg
+
+"other"
+(GbIzD QjZQjZ) 
+# any other | (NOUN) : WfHf^bD GbIzD AfU
+//# from each other (PP->ADV) : UfIlAbDWg
+# other than A (ADV) : (ADJUNCT A/Wl|Wg)
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+"others"
+(GbIzD QjZQjZ)
+* GbIzD UbIbQGzI (~ {+HUMAN})
+# the others (NOUN) : GbIzD UbIbQGzI
+#' NUM1 others (NOUN) : [(AMODS [GbIz<ADJ>]/^bD) NUM1]{+HALNUM}
+
+"ours"
+(WsI|Wz| AfU)
+#' of ours (ADJ) : WsI|GzIWz|
+
+"ourself"
+(WsI| XbU|D)
+
+"ourselves"
+(WsI|GzI XbU|D)
+#' by ourselves (ADV) : WsI| ^|QQbDWzIl
+
+"own"
+(XbU|DWz| AfU)
+
+"same"
+(Ab\WzD AfU)
+
+"she"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AzDj)
+# she herself (NOUN) : AzDj XbU|D
+# | she ^be | (SENT) : AzIf^bGb
+
+"sixteen"
+% CONCRETE MATERIAL 
+(WjIWjUfUAc)
+
+"sixty"
+% CONCRETE MATERIAL 
+(WwAU|RAc)
+
+"so-and-so"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbQsAc)
+
+"some"
+(QjZQjZ)
+* WfHfD UbIbQ (~ {+HUMAN})
+
+"somebody"
+(WfHfD UbIbQ)
+# somebody else (NOUN) : AzRbBWz| GbIzD UbIbQ
+
+"someone"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WfHfD UbIbQ)
+# someone close to A {+HUMAN} (NOUN) : [(RELCL [(COMP A/Wlb) AbBbR<ADJ>]/^bD) UbIbQ<NOUN>]
+# someone else (NOUN) : AzRbBWz| GbIzD UbIbQ
+
+"someplace"
+(WfHfD XbWUl)
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+"something"
+% MATERIAL 
+(WfHfD AfU)
+# something ADJ {-RESTRIC} (NOUN) :  
+  [(MODS [QsWfDAb<ADV>]) (AMODS ADJ/^bD) AfU<NOUN>]
+	* [(MODS [QsWfDAb<ADV>]) (AMODS ADJ/^bD) AfU<NOUN>]
+	* ADJ (wrong XbIQlUGl|Gb)
+# something TO_INF (NOUN) :  [(RELCL TO_INF/^bI) AfU<NOUN>]
+# something about A (NOUN) : [(RELCL [(COMP A/Wg) AlbD^b<ADJ>]/^bD) AfU<NOUN>]
+# something like NUM1 A {+HUMAN} (NOUN) :
+  [(MODS [WdA<ADV>]) (POSS [(NMODS NUM1) QjW<NOUN>]/Wz|) A]
+# something like PRESP (NOUN) : 
+[(RELCL [(COMP [(RELCL PRESP/^bDzD) AfU<NOUN>]/Alb) Ab\<ADJ>]/^bD) AfU<NOUN>]
+# something more than A (NOUN) : [(POSS [(NMODS A) W|UbW<NOUN>]/Wz|) AfU<NOUN>]
+
+"somewhat"
+(WfDzXfWGl)
+
+"ten"
+% CONCRETE MATERIAL 
+(WjI Ac)
+
+"that"
+(AzAfU)
+# || That is all right || (SENT) : (DECL [AlcDZbD^<ADJ>]/Gb)
+# || is that so ? (SENT) : (QUES [AzIf^<ADJ>]/Gb)
+# | that be all there be | (SENT) : (DECL [AzAfUW| XfDRsW|<ADJ>]/Gb)
+# || that be it | (SENT) : (DECL [RbIl AzAfUW|<ADJ>]/Gb)
+# || that is || (ADV) : XzA 
+# || that is why SENT (SENT) : (DECL [(SUBJ [AzAfU<NOUN>]/WzD) 
+(COMP [(RELCL SENT/^bDzD) W|Ww<NOUN>]) _<ADJ>]<W|>/Gb)
+# those who VP (NOUN) : [(RELCL VP/^bDzD) UbIbQGzI<NOUN>]
+
+"thee"
+(AzGcIzI)
+
+"theirs"
+(AzGzIWz| AfU)
+# of theirs (ADJ) : AzGzIWz|
+
+"them"
+(AzGzI)
+
+"themselves"
+% HUMAN ANIMAL
+(AzGzI XbU|D)
+
+"there"
+(AfA|)
+
+"they"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AzGzI)
+* AzAfUGzI (~ {-HUMAN})
+* AzGzI (poor selfish glad happy)
+
+# they themselves (NOUN) : AzGzI XbU|D
+
+"thine"
+(AzGcWz| AfU)
+
+"this"
+(W|AfU)
+* W| UbIbQ (~ {+HUMAN})
+//* W| UbIbQ (~ {+PRNOUN})
+
+# || This is A speaking || (SENT) : 
+[(MODS [Wk<ADV>]) (SUBJ [Db<PRON>]/Ab) (COMP A) _<ADJ>]<W|>/Gb
+# those associated with A (NOUN) : [(AMODS [(ADJUNCT A/Wlb) WjDAjIGl|<VERB>]/Gb) AfUGzI<NOUN>]
+
+"those"
+(AzAfUGzI)
+# those in their advanced years (NOUN) : WjDIl^bD UbIbQGzI
+
+"thou"
+% CONCRETE MATERIAL 
+(AzGc)
+
+"three"
+% CONCRETE MATERIAL 
+(UgAc)
+
+"thyself"
+(AzGc XbU|D)
+
+"tother"
+(Hl ^bDb)
+
+"twelve"
+% CONCRETE MATERIAL 
+(WjIGsAc)
+
+"twenty"
+% CONCRETE MATERIAL 
+(UzQsAc)
+
+"two"
+% CONCRETE MATERIAL 
+(Gs Ac)
+
+"us"
+(WsI|GzI)
+
+"we"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsI|)
+# we ourselves (NOUN) : WsI| XbU|D
+# we ^NOUN {+PRNOUN,+PLUR} (NOUN) : [(NMODS [WsI|<NOUN>]) NOUN]
+# we ^NOUN {+HUMAN,+PLUR} (NOUN) : [(NMODS [WsI|<NOUN>]) NOUN]
+# we all (NOUN) : [(NMODS [WsI|<NOUN>]) QlGs<NOUN>]{+HUMAN}
+
+"what"
+% CONCRETE MATERIAL 
+(QsWfU)
+* WfIQb (price AbAjA)
+
+//# what NOUN {-HUMAN} is | (NOUN) : [(RELCL [(SUBJ NOUN/W|) QsWfUW|<VERB>]/Gb) X|<NOUN>]
+//# what NOUN {-HUMAN} are | (NOUN) : [(RELCL [(SUBJ NOUN/W|) QsWfUW|<VERB>]/Gb) X|<NOUN>]
+# and what not | (NOUN) : A|\b WjIf AbX|
+# or what not | (NOUN) : A|\b WjIf AbX|
+# | so what ? | (SENT) : AzIcUf
+# what ONE used to be | (NOUN) : [(POSS [AlbAf<NOUN>]/Wz|) ONE]
+# what PRON {+HUMAN} are | (NOUN) : [(POSS [X|AzQ<NOUN>]/Wz|) PRON]
+# what PRON {+HUMAN} is | (NOUN) : [(POSS [X|AzQ<NOUN>]/Wz|) PRON]
+# what PRON {+HUMAN} think VP (NOUN) : 
+    [(RELCL [(ADVCL [(SUBJ PRON/W|) UcWAbA^b<VERB>]/A|Wg) VP]/^bD) AfU<NOUN>]
+# what PRON {+HUMAN} was | (NOUN) : [(POSS [WkXfD<NOUN>]/Wz|) PRON]
+# what PRON {+HUMAN} were | (NOUN) : [(POSS [WkXfD<NOUN>]/Wz|) PRON]
+# what TO_INF (NOUN) : 
+  [(RELCL [(OBJ [QsWfU<NOUN>]/WzI) TO_INF](^cWd/F, ^b/V)/^bDzD) X|<NOUN>]
+# what NOUN TO_INF (NOUN) : [(RELCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) 
+   TO_INF](^cWd/F, ^b/V)/^bDzD) X|<NOUN>]
+# || what a A (SENT) : (EXCL [(MODS [XfWQbIIl<ADV>]) (COMP [(AMODS [Xl^<ADJ>]/Gb) A]) _<ADJ>]<W|>/Gb)
+# || what about A (SENT) : (QUES [(SUBJ A/DzD) WfHf^<ADJ>]/Gb)
+# || what about PRESP (SENT) : (QUES [(SUBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzD) WfHf^<ADJ>]/Gb)
+# | what be called | (ADV) : UlWs|
+# || what be the good of PRESP (SENT) : [(SCOMP [(RELCL PRESP/^bDzD) AfU<NOUN>]/W|) (MODS [QsUzD<ADV>]) UlWrWW|V<ADJ>]/Gb
+# || what be the use of PRESP (SENT) : [(SCOMP [(RELCL PRESP/^bDzD) AfU<NOUN>]/W|) (MODS [QsUzD<ADV>]) UlWrWW|V<ADJ>]/Gb
+# what be more | (ADV) : AgGbAb
+# || what do you say to PRESP (SENT) : (MAND PRESP/^bGb)
+# what else (NOUN) : GbIzD WfHfDAfU {+QUESFLAG}
+# || what for | (SENT) : (QUES [(COMP [QsWfU<PRON>]) HcQsD<NOUN>]/Wg)
+# what good be A (SENT) : (QUES [(SCOMP A/Ab) QsUzD UlWrWW|<ADJ>]/Gb)
+# what if SENT (SENT) : (QUES [(SUBCL SENT/^bQjD) (MODS [WfHf^Ag<ADV>]) ^b<VERB>]/Gb)
+# what is there TO_INF in A ? (SENT) : [(SUBJ [(RELCL [(ADJUNCT A/WgUf) TO_INF]/^bI) AfU<NOUN>]/WzD) QsWfUW|<ADJ>]/Gb
+# | what of it | (SENT) : (QUES [(SUBJ [AzAfU<NOUN>]/W|) QsUzDUbWAlbDW|<ADJ>]/Gb)
+# what they were then (ADV) : AzHc AzGcIl
+
+"whatever"
+(QsWfU)
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+# whatever ^NOUN PASTP (NOUN): [(RELCL PASTP/^bD) (AMODS [QlGzD<DET>]) NOUN]
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+# whatever be the matter with A ? (SENT) : 
+(QUES [(COMP [GlGcZg WfHf^Ag Gl|D W|I<NOUN>]) _<ADJ>]<W|>/Gb)
+
+"when"
+(WfDXg)
+
+"where"
+(WfG|)
+
+"wherever"
+(WfDzAlU)
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+"wherewith"
+(AzAfUWzIl ^bDzD AfU)
+
+"whether"
+(GsI XsWWz| ^bDb)
+# || whether or not SENT (SUBCL->ADV) : 
+(ADVCL [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|)
+
+"which"
+(WfDz AfU)
+# which of A {+HUMAN} (PRON) : [(COMP [(NMODS A) XsW<NOUN>]) DsAs<NOUN>]
+# which of A {-HUMAN} (PRON) : [(ADJUNCT [(NMODS A) XsW<NOUN>]) WfDz AfU<NOUN>]
+//# which NOUN TO_INF (NOUN) : [(RELCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) TO_INF](^cWd/F, ^b/V)/^bDzD) X|<NOUN>]
+
+"whichever"
+(WfDz YlA W|GzDX|)
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+    2) [(RELCL [(ADJUNCT [QsWfUW|GzD<ADV>]) SENT]/^bDzD) AfU<NOUN>]
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+"whichsoever"
+(WfDzYlAW|GzDX|)
+
+"who"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DsAs)
+# no matter who VP (ADV) : (ADJUNCT [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+
+"whoever"
+(DsAsGzDX|)
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+"whom"
+(DsAs)
+
+"whomever"
+(DsAsDb)
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+"whose"
+(DsAs)
+//# the A whose NOUN SENT (NOUN) : [(RELCL [(OBJ [(POSS A/Wz|) NOUN]/IzI) SENT]/^bD) A]
+//# a A whose NOUN SENT (NOUN) : [(RELCL [(OBJ [(POSS A/Wz|) NOUN]/IzI) SENT]/^bD) A]
+//# an A whose NOUN SENT (NOUN) : [(RELCL [(OBJ [(POSS A/Wz|) NOUN]/IzI) SENT]/^bD) A]
+
+"whosever"
+(QlGs)
+# whosever NOUN VP (NOUN) : 
+[(RELCL [(ADJUNCT [(POSS [DsAs<PRON>]/Wz|) NOUN]/W|GzD) VP]/^bDzD) AfU<NOUN>]
+
+"why"
+(W|Ww)
+
+"ye"
+(AzGcGzI)
+
+"you"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GbWU|D)
+# every one of you (NOUN) : GbWU|DGzI QlGs
+# you yourself (NOUN) : GbWU|D XbU|D
+
+"yours"
+(GbWU|DWz| AfU)
+# of yours (ADJ) :  GbWU|DWz|
+
+"yourself"
+% HUMAN ANIMAL
+(GbWU|D XbU|D)
+
+"yourselves"
+% HUMAN ANIMAL
+(GbWU|DGzI XbU|D)
+

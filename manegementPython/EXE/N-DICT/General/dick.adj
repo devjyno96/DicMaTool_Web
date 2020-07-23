@@ -1,0 +1,324 @@
+"Korean"
+ar (^bDAsAWz|)
+ap (^bDAsAW|Gb)
+# Korean Folk Village (NOUN) : ^bDAsA Q|DUlAZlD
+# Korean alphabet (NOUN) : ^bDAsAWf XbQl
+# Korean study (NOUN) : ^bDAsA^bA
+# North Korean (ADJ NOUN) : 1) RsA^bDWz|
+			    2) RsA^bD UbIbQ
+# South Korean (ADJ NOUN) : 1) DbQ^bDWz|
+			    2) DbQ^bD UbIbQ
+# inter- Korean (ADJ) : ^bDAsADcW|Gb
+# north Korean (ADJ NOUN) : 1) RsA^bDWz|
+			    2) RsA^bD UbIbQ
+
+"Korean-made"
+ar (^bDAsAUbDWz|)
+ap (^bDAsAUbDW|Gb)
+
+"kaleidoscopicical"
+ar (QbD^lbAjW Ab\WzD)
+ap (QbD^lbAjW Ab\Gb)
+
+"kansan"
+ar ([cDUbUzXsWz|)
+ap ([cDUbUzXsW|Gb)
+
+"kantian"
+ar ([bD\zWz|)
+ap ([bD\zW|Gb)
+
+"kaput"
+ar (Bz\XbWW| DbD)
+ap (Bz\XbWW| DbGb)
+
+"katabatic"
+ar (^bAbW^bDzD)
+ap (^bAbW^bGb:ADJ->VERB)
+
+"katangese"
+ar ([b\bWAbWz|)
+ap ([b\bWAbW|Gb)
+
+"keelless"
+ar (WrWAlIW| WfRUDzD)
+ap (WrWAlIW| WfRUGb)
+
+"keen"
+ar (DbI[bIlWsD)
+* QcUfRGb (chill ZsWs|) (wind RbIbQ)
+* U|DIbI^bGb (speech QbI) (criticism R|]bD)
+* AbWIjI^bGb (feeling AbQXfW) (desire WrAQbW) (smell DcQUc)
+* AjAIjI^bGb (completion AjWXcW) (arguement DlDXcW) (delight A|SzQ) (sorrow UzI]zQ)
+ap (DbI[bIlRGb)
+
+# keen of A (ADJ) : [(ADJUNCT A/Wg) Q|DAbQ^b<ADJ>]/Gb
+# keen about A (ADJ) : [(ADJUNCT A/Wg) WjIXsWW|<ADJ>]/Gb
+# keen for A (ADJ) : [(ADJUNCT A/Wg) WjIXsWW|<ADJ>]/Gb
+# a keen golfer (NOUN) : WjIU|QW|D AlI]f
+# ^be as keen as mustard (VERB) : QlRU| AbIQbW^bAl W|VGb
+# a keen kid (NOUN) : QfUX|D WbW|
+
+"keen-edged"
+ar (DbIW| DbI[bIlWsD)
+ap (DbIW| DbI[bIlRGb)
+
+"keen-eyed"
+ar (DsDW| DbI[bIlWsD)
+ap (DsDW| DbI[bIlRGb)
+
+"keen-set"
+ar (RcAl]zD)
+ap (RcAl]zGb)
+
+"keepsake"
+ar (UfDQsIWrWWzIl BsQ|D ZcA Ab\WzD)
+ap (UfDQsIWrWWzIl BsQ|D ZcA Ab\Gb)
+
+"kentish"
+ar ([gD\zXsWz|)
+ap ([gD\zXsW|Gb)
+
+"kentuckian"
+ar ([gD\f[|XsWz|)
+ap ([gD\f[|XsW|Gb)
+
+"kept"
+ar (AzQXfDUbWWz| GlWsQWzI RbGAl W|VDzD)
+ap (AzQXfDUbWWz| GlWsQWzI RbGAl W|VGb)
+
+"key"
+ar (XsWWr^bD)
+* ^cAU|QXfAW|Gb (member QgQRf)
+ap (XsWWr^bGb)
+
+"keyed"
+ar ([| W|RIjAGl|D)
+ap ([| W|RIjAGl|Gb)
+
+"keyless"
+ar (WjIUl|Ab WfRUDzD)
+ap (WjIUl|Ab WfRUGb)
+
+"keynesian"
+ar ([gW|DXzWz|)
+ap ([gW|DXzW|Gb)
+
+"khaki"
+ar ([b[|UcAWz|)
+ap ([b[|UcAW|Gb)
+
+"kid"
+ar ([|Gz AbXsAWzIl QbDGzD)
+ap ([|Gz AbXsAWzIl QbDGzIGb)
+
+"kid-glove"
+ar ([|GzAbXsA XbWAbRWzI B|D)
+ap ([|GzAbXsA XbWAbRWzI B|Gb)
+
+"kidneyshaped"
+ar (U|DXbW QlWdWWz|)
+ap (U|DXbW QlWdWW|Gb)
+
+"killing"
+ar (Z|QjWXfAW|D)
+ap (Z|QjWXfAW|Gb)
+# in a killing hurry (PP->ADV) : XsAXbUbXb UfGsIIfUf
+# a killing play (NOUN) : ]lRlAXfIGl[g ^bDzD WjDAzA
+# killing beauty (NOUN) : DfAUW| DbAbIXfWGlWz| Q|W|D
+
+"killtime"
+ar (U|QU|Q]sIW|Wz|)
+ap (U|QU|Q]sIW|W|Gb)
+
+"kin"
+ar (^jIXlAWz|)
+ap (^jIXlAW|Gb)
+
+"kind"
+ar (Z|DXfI^bD)
+* GbIsA| Us|RGb (tool GlAs)
+* RsGzIfRGb (looks ]rXfW)
+* WlD^lb^bGb (climate A|^s) (weather DbIV|)
+* Z|DXfI^bGb (word QbI)
+ap (Z|DXfI^bGb)
+
+# ^be kind about A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/WfUf) (MODS [Z|DXfI^bAg<ADV>]) Gc^b<VERB>]/Gb
+# ^be kind of ADJ (VERB->ADJ) : [(MODS [WdAAbD<ADV>]) ADJ]/^bGb
+# kind enough TO_INF (ADJ) : [(MODS [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) Z|DXfI^b<ADJ>]/Gb
+# || it be very kind of you || (SENT) : (DECL [(MODS [DfQs<ADV>]) AlQbR<ADJ>]/Gb)
+# ^take a kind view of A (VERB) : 
+  [(OBJ A/WzI) (MODS [AlbDGc^bAg<ADV>]) Rl<VERB>]/Gb
+# || that be very kind of you || (SENT) : (DECL [(SUBJ [GbWU|D<PRON>]/WzD) Z|DXfI^b<ADJ>]/Gb)
+
+"kindhearted"
+ar (Z|DXfI^bD)
+ap (Z|DXfI^bGb)
+
+"kindly"
+ar (Z|DXfI^bD)
+ap (Z|DXfI^bGb)
+
+"kindred"
+ar (^jIXlAWz|)
+ap (^jIXlAW|Gb)
+
+"kinematic"
+ar (WsDGlW^bAXfAW|D)
+ap (WsDGlW^bAXfAW|Gb)
+
+"kinematical"
+ar (WsDGlW^bAXfAW|D)
+ap (WsDGlW^bAXfAW|Gb)
+
+"kinesthetic"
+ar (AzDWwA WsDGlW X|AbAWz|)
+ap (AzDWwA WsDGlW X|AbAW|Gb)
+
+"kinetic"
+ar (WsDGlWWz|)
+ap (WsDGlWXfAW|Gb)
+
+"king-size"
+ar (\zARjI^| [zD)
+ap (\zARjI^| [zGb)
+
+"kingless"
+ar (WlbWW| WfRUDzD)
+ap (WlbWW| WfRUGb)
+
+"kinglike"
+ar (AsAWlbW Ab\WzD)
+ap (AsAWlbW Ab\Gb)
+
+"kingly"
+ar (WlbWWz|)
+ap (WlbWGbRGb)
+
+"kinky"
+ar (RcRc BlW|D)
+ap (RcRc BlW|Gb)
+
+"kinless"
+ar (Z|DZfAW| WfRUDzD)
+ap (Z|DZfAW| WfRUGb)
+
+"kissing"
+ar ([|Uz^bDzD)
+ap ([|Uz^bGb:ADJ->VERB)
+
+"kitschy"
+ar (XfUlA^bD)
+ap (XfUlA^bGb)
+
+"kittenish"
+ar (AlWdWW| UcB| Ab\WzD)
+ap (AlWdWW| UcB| Ab\Gb)
+
+"kittle"
+ar (AbDX|IfWsD)
+ap (AbDX|IfRGb)
+
+"knacky"
+ar (WrIjWWzI \fGzA^bD)
+ap (WrIjWWzI \fGzA^bGb)
+
+"knavish"
+ar (WbA^bD Ab\WzD)
+ap (WbA^bD Ab\Gb)
+
+"knee-high"
+ar (QsIz]BbX| WlDzD)
+ap (QsIz]BbX| WlGb:ADJ->VERB)
+
+"kneedeep"
+ar (QsIz]BbX| Gb^DzD A|]W|Wz|)
+ap (QsIz]BbX| Gb^DzD A|]W|W|Gb)
+
+"knife-edged"
+ar ([bIDbI Ab\WzD DbIW| W|VDzD)
+ap ([bIDbI Ab\WzD DbIW| W|VGb)
+
+"knightly"
+ar (A|UbWz|)
+ap (A|UbXfAW|Gb)
+
+"knock-about"
+ar (DbD\b^bDzD)
+ap (DbD\b^bGb:ADJ->VERB)
+
+"knock-kneed"
+ar (WbDYbWGbI|Wz|)
+ap (WbDYbWGbI|W|Gb)
+
+"knockdown"
+ar (HcIjDsR^|DzD)
+ap (HcIjDsR^|Gb:ADJ->VERB)
+
+"knocked-down"
+ar (RsRsD]sQWzI ^cZg^bD)
+ap (RsRsD]sQWzI ^cZg^bGb)
+
+"knockout"
+ar (QcWIjI^bD)
+ap (QcWIjI^bGb)
+
+"knok-on"
+ar (ZsWGlIIl W|D^c RbWZsIGl|DzD)
+ap (ZsWGlIIl W|D^c RbWZsIGl|Gb:ADJ->VERB)
+
+"knotted"
+ar (QbG|X|D)
+ap (QbG| X|Gb)
+
+"knotty"
+ar (QcGzRWz|)
+ap (QcGzRW|Gb)
+
+"know-it-all"
+ar (WbDzD Zg ^bDzD)
+ap (WbDzD Zg ^bGb:ADJ->VERB)
+
+"know-nothing"
+ar (WbQsAfUGl QlIzDzD)
+ap (WbQsAfUGl QlIzGb:ADJ->VERB)
+
+"knowable"
+ar (WbI Us W|VDzD)
+ap (WbI Us W|VGb)
+
+"knowing"
+ar (WbDzD)
+ap (WbIGb:ADJ->VERB)
+
+"knowledgeable"
+ar (X|IjAW| W|VDzD)
+ap (X|IjAW| W|VGb)
+
+"known"
+ar (DfII| WbIIjXj W|VDzD)
+ap (DfII| WbIIjXj W|VGb)
+
+//# ^be known as A (VERB) : [(SCOMP A/Il) WbIIjXj W|V<VERB>]/Gb
+//# ^be well known as A (VERB->ADJ) : [(SCOMP A/Il) (MODS [XbI<ADV>]) WbIIjXj W|V<VERB>]/Gb
+# ^be well known $ (VERB->ADJ) : XbI WbIIjXj W|VGb
+
+"knurly"
+ar (QbG|Ab QbD^WzD)
+ap (QbG|Ab QbD^Gb)
+
+"kookie"
+ar (Al|YbWz|)
+ap (Al|YbW|Gb)
+
+"kooky"
+ar (Al|YbWz|)
+ap (Al|YbW|Gb)
+
+"koranic"
+ar ([lIbDWz|)
+ap ([lIbDW|Gb)
+
+"kosher"
+ar (XfARfRWz|)
+ap (XfARfRW|Gb)

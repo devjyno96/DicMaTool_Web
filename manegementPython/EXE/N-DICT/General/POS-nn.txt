@@ -1,0 +1,3681 @@
+# in the year NUM1 A.D (PP->ADV) : (ADJUNCT [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+# in the year NUM1 A.D. (PP->ADV) : (ADJUNCT [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+# after ten years' absence (PP->ADV) : 10 DjDQbDWg
+
+# during ONE_S absence (PP->ADV) : RsXcXsWWg
+
+# in ONE_S absence (PP->ADV) : RsXcXsWWg
+
+# in the absence of A (PP->ADV) : (ADJUNCT [(RELCL [(SUBJ A/Ab) WfRU<ADJ>]/^bI) Hc<NOUN>]/Wg)
+
+# with an air of abstraction (PP->ADV) : QfW^bD|
+
+# at any account $ (PP->ADV) : WfHf^bD AjWWsWgGl
+
+# ^gain aquaintance with A (VERB->ADJ) : [(OBJ A/WzI) WbI<VERB>]/Gb
+
+# ^have a slight acquaintance with A (VERB->ADJ) : [(OBJ A/WzI) (MODS [XlQ<ADV>])
+
+# ^have an intimate acquaintance with A (VERB->ADJ) : [(OBJ A/WzI) (MODS [XbI<ADV>]) WbIAl W|V<VERB>]/Gb
+
+# have a wide acquaintance (VERB->ADJ) : ArXgAb DfIRGb
+
+# have a wide circle of acquaintances (VERB->ADJ) : ArXgAb DfIRGb
+
+# ^make the acquaintance of A (VERB->ADJ) : [(OBJ A/IzI) WbIAg Gl|<VERB>]/Gb
+
+# make ONE_S acquaintance (VERB->ADJ) : [(ADJUNCT [DbQ<NOUN>]/Alb) WbI<VERB>](Ag/F, Gl|/V)/Gb
+
+# seek the acquaintance of a person (VERB->ADJ) : [(ADJUNCT [DbQ<NOUN>]/Alb) WbI<VERB>](Ag/F, Gl|/V)/Gb
+
+# seek ONE_S acquaintance (VERB->ADJ) : [(ADJUNCT [DbQ<NOUN>]/Alb) WbI<VERB>](Ag/F, Gl|/V)/Gb
+
+# strike up an acquaintance (VERB->ADJ) : WbIAgGl|Gb
+
+# in action (PP->ADV PP->ADJ) : 1) ^lbIGlW^bWj
+2) [^lbIGlWXsWWg W|V<VERB>]/Gb
+
+# in addition to A (PP->ADV) : (ADJUNCT [(COMP A) W|Wl|Wg<ADV>])
+
+# in addition to PRESP (PP->ADV) : (ADJUNCT [(COMP [(COMPCL PRESP/^bI) SsD<NOUN>]/QbD) WbD|<ADJ>]/Ib)
+
+# in advance before SENT (SUBCL->ADV) : [(ADJUNCT SENT/^bA|Wg) Wb]Uf<ADV>]
+
+# in advance of A (ADV ADJ) : 1) (ADJUNCT [(ADJUNCT A/RlGb) Wb]Uf<VERB>]/^bWjUf) 
+                              2) [(ADJUNCT A/RlGb) Wb]Uf<VERB>]/Gb
+
+# in the afternoon (PP->ADV) : Wl^sWg
+
+# at the age of NUM1 (PP->ADV) : (ADJUNCT [(NMODS NUM1 {+DGTNUM}) Ug<NOUN>]/Wg)
+
+# ^be about ONE_S age $ (VERB->ADJ) : [(POSS ONE/Wz|) DbW|W|<ADJ>]/Gb
+
+# for ONE_S age (PP->ADV) : (ADJUNCT [(COMP [(POSS ONE/Wz|) DbW|<NOUN>]/Wg) R|^b<VERB>]/WfUf)
+
+# for ages (PP->ADV) : QjZDjDAbD
+
+# by agreement (PP->ADV) : ^bRWz|Il
+
+# by mutual agreement (PP->ADV) : ^bRWz|Il
+
+# in agreement with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) W|IZ|^b<VERB>]/^bWj)
+
+# in good agreement with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) (MODS [XbI<ADV>]) W|IZ|^b<VERB>]/^bWj)
+
+#' by air | (PP->ADV) : R|^cWA|Il
+
+#' in the air $ (PP->ADV) : AlWXsWWgUf
+
+# in the open air $ (PP->ADV) : WlAWl|Wg
+
+#' off the air (PP->ADV) : RbWUlW Gl|X| WbD^DzD
+
+#' on air (PP->ADV) : Wz|A| WdWWdW^bWj
+
+#' on the air (PP->ADV) : RbWUlWXsW
+
+# up in the air $ (PP->ADV) : AlWXsWWg
+
+# with an air $ (PP->ADV) : XbU|DW|VAg
+
+# with a sad air $ (PP->ADV) : ]zIW| XsAWf
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+# in large amount $ (PP->ADV) : GbIdWWzIl
+
+# in tiny amount $ (PP->ADV) : UlIdWWzIl
+
+# in anger (PP->ADV) : UfWDbUf
+
+# in anticipation (PP->ADV) : Q|I|
+
+# in anticipation of (PP->ADV) : (ADJUNCT [(OBJ A/IzI) WkAjD^b<VERB>]/^bWj)
+
+# by all appearance (PP->ADV) : WfDHzU RlA|WgDzD
+
+# by all appearances (PP->ADV) : WfDHzU RlA|WgDzD
+
+# during ONE_S appearance (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) ZsIUfA<NOUN>]/GlWWbD)
+
+# for appearance's sake (PP->ADV) : ZgQjDUbW
+
+# for the sake of appearance (PP->ADV) : ZgQjDUbW
+
+# to all appearance (PP->ADV) : WfDHzU RlA|WgDzD
+
+# to all appearances (PP->ADV) : WfDHzU RlA|WgDzD
+
+# with ONE_S arms folded (PP->ADV) : ]bIYbWWzI B|Al
+
+# upon ONE_S arrival (PP->ADV) : GlZbAXzAU|
+
+# in astonishment (PP->ADV) : BbQYbA DlIIbUf
+
+# in an attempt TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bDzD) U|Gl<NOUN>]/Il)
+
+# on August NUM1 , NUM2 (PP->ADV) : (ADJUNCT [(NMODS [(NMODS NUM2) DjD<NOUN>])
+
+# as early as NUM1 B.C (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [A|WsfDXfD<NOUN>]) 
+
+# in the year NUM1 B.C (PP->ADV) : (ADJUNCT [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+# as early as NUM1 B.C. (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [A|WsfDXfD<NOUN>]) 
+
+# in the year NUM1 B.C. (PP->ADV) : (ADJUNCT [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+# from the beginning | (PP->ADV) : ZfWzQRs\f
+
+# homeward bound (PP->ADV) : As|^bWWz|
+
+# on the bows (PP->ADV) : W|QsIXfAWzIl
+
+# on the bows on (PP->ADV) : AlGXbW
+
+# in bad bread (PP->ADV) : RsI^cW^bAg UbIWb
+
+# in good bread (PP->ADV) : ^cWRlA^bAg UbIWb
+
+# after breakfast (PP->ADV) : WbZ|QU|AUb ^sWg
+
+# in bud | (PP->ADV PP->ADJ) : 1) VbA\fUf
+2) [VbAW| \z<VERB>]/Gb
+
+# on business $ (PP->ADV) : UbWfRUbW
+
+# in the cards (PP->ADV) : WbQbGl
+
+# on the cards (PP->ADV) : WbQbGl
+
+# in ONE_S care (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) Rl^l^b<NOUN>]/Wg)
+
+# under the care of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) UlD<NOUN>]/Wg)
+
+# with ADJ care (PP->ADV) : (ADJUNCT [(MODS ADJ/^bAg) XsWz|^b<VERB>]/^bWj)
+
+# with care (PP->ADV) : XsWz|^bWj
+
+# with great care (PP->ADV) : [zAg XsWz|^bWj
+
+# in the cart (PP->ADV) : ^lDW| DbUf
+
+# as is often the case | (PP->ADV) : XlWXlW AzIf^GzUW|
+
+# as is the case | (PP->ADV) : DzI AzIf^GzUW|
+
+# as is now the case | (PP->ADV) : X|AzQ AzIf^GzUW|
+
+# out_of cash (PP->ADV) : ^jDAzQWfRUW|
+
+# in the cause of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+
+# for caution's sake (PP->ADV) : QbDW|IWzI Ws|^bWj
+
+# by way of caution (PP->ADV) : QbDW|IWzI Ws|^bWj
+
+# without cease (PP->ADV) : BzD^W|QWfRUW|
+
+# in celebration of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsA^b^b<VERB>]/^bWj)
+
+# from cellar to attic (PP->ADV) : X|RWbDWz| AsUfAAsUfA
+
+# over the centuries (PP->ADV) : UsUgA|GlWWbD
+
+# with ceremony (PP->ADV) : AjAU|AWzI ZbI|Al
+
+# without ceremony (PP->ADV) : AjAU|AWzI ZbI|X| WbD^Al
+
+# for a certainty (PP->ADV) : ^lbAU|I^|
+
+# to a certainty (PP->ADV) : ^lbAU|I^|
+
+# of a certainty (PP->ADV) : ^lbAU|I^|
+
+# with certainty (PP->ADV) : ^lbAU|I^|
+
+# by a long chalk (PP->ADV) : ^sfIV|D
+
+# by long chalks by chalks (PP->ADV) : ^sfIV|D
+
+# by any chance (PP->ADV) : QbDW|IWgIbGl
+
+# by chance (PP->ADV) : WsWjD^|
+
+# by some chance (PP->ADV) : WfYfGbAb
+
+# by the merest chance (PP->ADV) : GbDX| WsWjD^|
+
+# to the end of the chapter (PP->ADV) : Bz\BbX|
+
+# till the end of the chapter (PP->ADV) : Bz\BbX|
+
+# in charge of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RsGbQ<NOUN>]/Il)
+
+# on the cheap $ (PP->ADV) : VbAg
+
+# chest deep (NOUN ADJ) : 1) AbUzQ A|]W| 
+                          2) AbUzQA|]W|Wz|
+
+# || when a child | (SUBCL->ADV) : WfI|IHc
+
+# ^have no choice (VERB->ADJ) : UfD\cAWz| WjX|Ab WfRUGb
+
+# of ONE_S own choice (PP->ADV) : XgAb Xl^WbUf
+
+# in a circle (PP->ADV) : WsfD^jWWzIl
+
+# under the cloak of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) AsU|I<NOUN>]) WbIc<NOUN>])
+
+# in a cluster (PP->ADV) : UlWW|IzI W|IsWf
+
+# at full cock (PP->ADV) : AjAZ|QWzI WlbDXfD^| GbWA|Al
+
+# on full cock (PP->ADV) : AjAZ|QWzI RbDYzQ GbWA|Al
+
+# against the collar (PP->ADV) : WfIjWsQWzI QsIzRVzAl
+
+# in comfort | (PP->ADV) : ]jDWbD^bAg
+
+# without comment (PP->ADV) : QbI WfRUW|
+
+# in common with A (PP->ADV) : (ADJUNCT [(COMP A/Alb) Ab\<ADJ>]/Ag)
+
+# in small compass (PP->ADV) : A|DQ|I^|
+
+# within compass of a lifetime (PP->ADV) : W|IUcW XsWWg
+
+# with concern | (PP->ADV) : QlRU| AzDU|Q^bWj
+
+# without concern | (PP->ADV) : QsAlbDU|Q^bAg
+
+# in conclusion (PP->ADV) : QbX|QbAWzIl
+
+# in the concrete (PP->ADV) : AsZgXfAWzIl
+
+# in condition (PP->ADV) : AfDAbW^bWj
+
+# in bad condition (PP->ADV) : DbSzD UbW\cIl
+
+# in good condition (PP->ADV) : Xl^WzD UbW\cIl
+
+# in poor condition (PP->ADV) : DbSzD UbW\cIl
+
+# on this condition (PP->ADV) : W| XlAfDWzIl
+
+# on this condition (PP->ADV) : W| XlAfDWzIl
+
+# on that condition (PP->ADV) : Az XlAfDWzIl
+
+# on what condition (PP->ADV) : QsUzD XlAfDWzIl
+
+# on condition of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wz|) XlAfDWz<NOUN>]/WzIl) 
+
+# out_of condition (PP->ADV) : RsIAfDAbW^bWj
+
+# in conformity with A (PP->ADV) : (ADJUNCT [(COMP A/Wg) HbIz<VERB>]/WfUf)
+
+# in conformity to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) HbIz<VERB>]/WfUf)
+
+# in confusion (PP->ADV) : GbW^lbW^bWj
+
+# in the confusion of the moment (PP->ADV) : ^lDIbDWzI \zQ\bUf
+
+# in the confusion of the occasion (PP->ADV) : ^lDIbDWzI \zQ\bUf
+
+# in Congress (PP->ADV) : AsA^l| Ac^l|XsW
+
+# in conjunction with A (PP->ADV) : (ADJUNCT [(COMP A/Alb) ^bQBg<ADV>])
+
+# at this conjuncture (PP->ADV) : W| Hc
+
+# in this conjuncture (PP->ADV) : W| Hc
+
+# in connection with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) WjDAlbD^b<VERB>]/Wj)
+
+# in this connection (PP->ADV) : W| XfQWg W|VWfUf
+
+# in this connection (PP->ADV) : W| XfQWg W|VWfUf
+
+# in this connection (PP->ADV) : W| XfQWg W|VWfUf
+
+# for a consideration (PP->ADV) : RlUsIlUf
+
+# in consideration of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZbQXbA^b<VERB>]/^bWj)
+
+# on no consideration (PP->ADV) : AjI[l WbD^DzD
+
+# out_of consideration for A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZbQXbA^b<VERB>]/^bWj)
+
+# on consignment (PP->ADV) : Ws|\bA ]bDQcIl
+
+# by constitution (PP->ADV) : UfDZfDXfAWzIl
+
+# under construction (PP->ADV) : AfDUfIXsW
+
+# in course of construction (PP->ADV) : AfDUfIXsW
+
+# in contempt of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) AjWQjI^b<VERB>]/^bWj)
+
+# in the supposed contingency (PP->ADV) : QbDW|I AzIfDW|IW| W|IWfDbI AjWWsWg
+
+# in contradiction to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) XfWRbDGc<NOUN>]/Il)
+
+# in contradistinction to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) 
+
+# in contradistinction from A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) GcR|^b<VERB>]/^bWj)
+
+# in contraposition to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) GcZ|^b<VERB>]/^bWj)
+
+# in contraposition with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) GcZ|^b<VERB>]/^bWj)
+
+# by contraries (PP->ADV) : XfWRbDGcIl
+
+# on the contrary (PP->ADV) : W|Wlb RbDGcIl
+
+# to the contrary (PP->ADV) : AzWlb RbDGcIl
+
+# || by contrast | (PP->ADV) : RbDGcIl
+
+# || by contrast with A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) RbDGc<NOUN>]/Il)
+
+# in contrast to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) GcXl^b<VERB>]/^bWj)
+
+# in contrast with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) GcXl^b<VERB>]/^bWj)
+
+# in contravention of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) Ws|RbD^b<VERB>]/^bWj)
+
+# ^get out_of control (VERB->ADJ) : XgWf RsIAbDzW^bGb
+
+# under control (PP->ADV) : AlbDI|XsW
+
+# without control (PP->ADV) : XgQfUGcIl
+
+# beyond controversy (PP->ADV) : DlDXcWWz| WjX| WfRUDzD
+
+# without controversy (PP->ADV) : DlDXcWWz| WjX| WfRUDzD
+
+# as a matter of convenience (PP->ADV) : ]jDWz|UbW
+
+# at ONE_S convenience (PP->ADV) : ^jW]jD Gb^DzD GcIl
+
+# at your earliest convenience (PP->ADV) : ^jW]jD Gb^DzD GcIl SbII|
+
+# for convenience sake (PP->ADV) : ]jDWz|UbW
+
+# ^be in conversation (VERB->ADJ) : Gc^lb XsWW|Gb
+
+# ^be in deep conversation (VERB->ADJ) : A|]WzD Gc^lb XsWW|Gb
+
+# on the coop (PP->ADV) : UlR|Xl^bRXsWz|Wg Wz|^bWj
+
+# in cooperation with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) ^jRIjA^b<VERB>]/^bWj)
+
+# in coordination with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) 
+
+# in copyhold (PP->ADV) : GzWRlD RlWwAsfDWg Wz|^bWj
+
+# like a cork (PP->ADV) : ^lbIRbI^|
+
+# within the four corners of A (PP->ADV) : (ADJUNCT [(ADJUNCT [(POSS A/Wz|) WbD<NOUN>]/Wg) GsIIfVb<VERB>]/^bWj)
+
+# in corroboration of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ^lbAXzW^bA| Ws|^b<VERB>]/^bWj)
+
+# at the cost of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) ^z|UcW^b<VERB>]/^bWjUf)
+
+# at the cost of PRESP (PP->ADV) : (ADJUNCT [(OBJ [(RELCL PRESP/^bDzD) GcUAb<NOUN>]/WzI) Z|Is<VERB>]/^bWjUf)
+
+# at the cost of ONE_S own (PP->ADV) : (ADJUNCT [(OBJ [(NMODS ONE) 
+
+# at the cost of ONE_S own life (PP->ADV) : (ADJUNCT [(OBJ [(NMODS ONE) XbU|D<NOUN>]/WzI) ^z|UcW^b<VERB>]/^bWjUf)
+
+# free of cost (PP->ADV) : QsIrIl
+
+# by the count of NUM1 (PP->ADV) : (ADJUNCT [(RELCL [(OBJ NUM1/WzI) Ug<VERB>]/Gb) Hc<NOUN>]/BbX|)
+
+# with a good countenance (PP->ADV) : Z|QZbA^bAg
+
+# under the counter $ (PP->ADV) : QlIIc
+
+# across the country (PP->ADV) : XfDAsAXfAWzIl
+
+# from country to country (PP->ADV) : DbIbQbGb
+
+# in the country (PP->ADV) : DbIbWgUf
+
+# by course of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) UsUlA<NOUN>]/WzI) RbIR<VERB>]/^bAl)
+
+# in due course (PP->ADV) : W|IW| UsDXlIlRAg Gl|Wf
+
+# in mid course (PP->ADV) : GlXsW WgUf
+
+# in the course of this year (PP->ADV) : AzQDjD XsWWg
+
+# in the ordinary course of events (PP->ADV) : XbWjD^|
+
+# in the ordinary course of things (PP->ADV) : XbWjD^|
+
+# in the course of A (PP->ADV) : (ADJUNCT [(NMODS A) GlWWbD<NOUN>]/Wg)
+
+# by courtesy (PP->ADV) : AlbDIkUbW
+
+# by the courtesy of A (PP->ADV) : (ADJUNCT [(COMP [(POSS A/Wz|) ^lWz|<NOUN>]/Wg) Wz|^b<VERB>]/^bWj)
+
+# through the courtesy of A (PP->ADV) : (ADJUNCT [(COMP [(POSS A/Wz|) XgAlW<NOUN>]/Wg) Wz|^b<VERB>]/^bWj)
+
+# from cover to cover $ (PP->ADV) : ]rX|WgUf ]rX|BbX|
+
+# from the cradle to the grave (PP->ADV) : WrIbQWgUf QsGfQBbX|
+
+# in the cradle (PP->ADV) : WrIbQA|Wg W|UWfUf
+
+# on the crest of the wave (PP->ADV) : QsIQbIsIsI \bAl
+
+# by hook or by crook (PP->ADV) : WfHf^Ag ^cUfIbGl
+
+# on the crook (PP->ADV) : WlI^X| QlU^bD X|UWzI ^bWj
+
+# on the cross (PP->ADV) : WfAzUDbAg
+
+# as the crow flies (PP->ADV) : W|IX|AUfDWzIl
+
+# in a crow line (PP->ADV) : W|IX|AUfDWzIl
+
+# in crowds (PP->ADV) : WjIfUW|
+
+# within cry of A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT [(ADJUNCT A/WgUf) 
+
+# off the cuff (PP->ADV) : XsAUfAWgUf
+
+# in ONE_S cups (PP->ADV) : AfDb^cUf
+
+# ^be in danger | (VERB->ADJ) : Ws|^fQ UbW\cWg Dl^Wj W|VGb
+
+# ^be in danger of life (VERB->ADJ) : UcWQjWWz| Ws|^fQW| W|VGb
+
+# ^be in danger of being fired (VERB->ADJ) : ^cAlWz| Ws|^fQW| W|VGb
+
+# ^be in danger of PRESP (VERB->ADJ) : [(COMPCL PRESP/^bI) (ADJUNCT [Ws|^fQ<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+# ^be in ADJ danger (VERB->ADJ) : [(ADJUNCT [(AMODS ADJ/^bD) Ws|^fQ<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+# ^be out_of danger | (VERB->ADJ) : Ws|^fQWzI RfUWfDb W|VGb
+
+# dating ahead (PP->ADV) : UfDW|IRsWz|
+
+# dating backward (PP->ADV) : ^sW|IRsWz|
+
+# dating forward (PP->ADV) : UfDW|IRsWz|
+
+# at dawn (PP->ADV) : GlW\zIDj[Wg
+
+# before dawn (PP->ADV) : DbIW| UcA| XfDWg
+
+# from dawn till dusk (PP->ADV) : UcRjARs\f ^cX|I HcBbX|
+
+# NUM1 {-ORDNUM} day and night (NOUN ADV) : 
+   1)  [(ADJUNCT [(NMODS [(NMODS NUM1) W|I<NOUN>]{+UNIT}) RbQ<NOUN>]/Alb) DbX<NOUN>] 
+
+# NUM1 {-ORDNUM} hours a day (NOUN ADV) : 
+   1) [(NMODS [^bIs<NOUN>]) (NMODS NUM1) U|AbD<NOUN>] 
+
+# a day (NOUN ADV) : 1) ^bIs  
+                     2) ^bIsGbW
+
+# day and night (NOUN ADV) : 1) RbQAlb DbX 
+                             2) RbQDbX
+
+# each day (NOUN ADV) : 1) QcW|I 
+                        2) QcW|I
+
+# every NUM1 {-ORDNUM} day (NOUN ADV) : 1) [(NMODS NUM1) W|I<NOUN>]{+UNIT} 
+                           2) (ADJUNCT [(NMODS NUM1) W|I<NOUN>]/QbGb{+UNIT})
+
+# for a NUM1{+ORDNUM} straight day (PP->ADV) : 
+
+# for a second straight day (PP->ADV) : WjDW|\zIAbD
+
+# | for days $ (PP->ADV) : WjIfDbIGlWWbD
+
+# for only a few days (PP->ADV) : GbDX| QjZ|IAbD
+
+#' ^how many days (ADV NOUN) : 1) QjZ|I GlWWbD {+QUESFLAG} 
+                               2) QjZ|I
+
+# in those days (PP->ADV) : Az GbWU|
+
+# in these days (PP->ADV) : WrXzWzQ
+
+# next day (NOUN ADV) : 1) GbWzQDbI
+                        2) GbWzQDbI
+
+# night and day (NOUN ADV) : 1) RbQAlb DbX 
+                             2) RbQDbX
+
+# one business day (NOUN ADV) : 1) ^bD UbWfRW|I
+ 								2) ^bD UbWfRW|I
+
+# one {-SUPER, -ORDNUM} day (ADV NOUN) : 1) WfDzDbI 
+                       		    2) ^bIs {+RESTRIC}
+
+# one {-SUPER} summer day (ADV NOUN) : 1) WfDz WjIzQDbI 
+                              2) WfDz WjIzQDbI
+
+# that day (NOUN ADV) : 1) Az DbI
+		                2) Az DbIWg
+
+# the day after tomorrow (ADV NOUN) : QlIg
+# the day before | (ADV NOUN) : 1) XfDDbIWg 
+
+# the next day (NOUN ADV) : 1) Az GbWzQDbI 
+                            2) Az GbWzQDbIWg
+
+# the other day (NOUN ADV) : 1) WrXfDDbI 
+                             2) WrXfDDbIWg
+
+# these days (NOUN ADV) : 1) WrXzWzQ {+INDEF} 
+                          2) WrXzWzQ
+
+# in the daytime (PP->ADV) : DbXWg
+
+# a great deal $ (NOUN ADV) : 1) QbD^WzD AfU
+                              2) QbD^W|
+
+# a good deal $ (NOUN ADV) : 1) QbD^WzD AfU
+                             2) QbD^W|
+
+# to ONE_S delight (PP->ADV) : (ADVCL [(SUBJ ONE/Ab) A|Sz<ADJ>]/AgGl)
+
+# ^be in demand (VERB->ADV) : UsWrAb W|VGb
+
+# ^be in ADJ demand (VERB->ADV) : [(SCOMP [(AMODS ADJ/^bD) UsWr<NOUN>]/Ab) W|V<VERB>]/Gb
+
+# beyond description (PP->ADV) : ^jWWrW^bI Us WfRUWzI QbD[zQ
+
+# ^be between the devil and the deep (VERB->ADJ) : X|D\l| WdWDbDWg SbXj W|VGb
+
+# ^be between the devil and the deep sea (VERB->ADJ) : X|D\l| WdWDbDWg SbXj W|VGb
+
+# ^be between the devil and the blue sea (VERB->ADJ) : X|D\l| WdWDbDWg SbXj W|VGb
+
+# under discussion (PP->ADV) : AfQ\lXsW
+
+# at ONE_S ^disposal (ADJ ADV) : 1) [QbWzQGcIl UbWrW^bI Us W|V<ADJ>]/Gb
+                                 2) QbWzQGcIl UbWrW^bI Us W|VAg
+
+# at a distance (PP->ADV) : XlQ HfIWfXjUf
+
+# at a distance of NUM1 {-ORDNUM} A {+UNIT} (PP->ADV) : 
+
+# next door (NOUN ADV ADJ) : 1) W|WsUX|R 
+                             2) W|WsUX|RWg  
+                             3) W|WsUX|RWz|
+
+# next door but one $ (NOUN ADV ADJ) : 1) ^bDb AfDDfX|R
+									   2) ^bDb AfDDfX|RWg
+									   3) ^bDb AfDDfX|RWz|
+
+# ^be no doubt about A (VERB->ADJ) : [(SCOMP [(RELCL [(OBJ A/IzI) Wz|U|Q^b<VERB>]/^bI) WjX|<NOUN>]/Ab) WfRU<ADJ>]/Gb
+
+# || no doubt . (SENT->ADJ) : Wz|U|Q^bI RbAb WfRUGb
+
+# there ^be no doubt THAT_CLAUSE (SENT->ADJ) : [(SUBJ [(RELCL THAT_CLAUSE/^bGbDzD) AfU<NOUN>]/WzD) (SCOMP [(RELCL [Wz|U|Q^b<VERB>]/^bI) WjX|<NOUN>]/Ab) WfRU<ADJ>]/Gb
+
+# there ^be no doubt of PRESP (SENT->ADJ) : [(SUBJ [(RELCL PRESP/^bGbDzD) AfU<NOUN>]/WzD) (SCOMP [(RELCL [Wz|U|Q^b<VERB>]/^bI) WjX|<NOUN>]/Ab) WfRU<ADJ>]/Gb
+
+# at ease (ADV ADJ) : 1) QbWzQDl^Al 
+2) QbWzQW| ]jD^bGb
+
+# ^be at ease (VERB->ADJ) : QbWzQW| ]jD^bGb
+
+# ^be in effect | (VERB->ADJ) : ^rAlbAb W|VGb
+
+# in an effort TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bDzD) DlIjA<NOUN>]/WzIl)
+
+# as your equal $ (PP->ADV) : GbWU|DAlb GlWGzW^bAg
+
+# before late in the evening (PP->ADV) : DzXWzD XfDjA XfDWg
+
+# at all events (PP->ADV) : Wj^b\zD 
+
+# in any event | (PP->ADV) : WfYcVGzD
+
+# in either event (PP->ADV) : Wj^b\zD AbDWg
+
+# in that event | (PP->ADV) : AzIfD AjWWsWgDzD
+
+# in the event | (PP->ADV) : AjIAsA
+
+# in the event of A (PP->ADV) : (ADJUNCT [(ADJUNCT [QbDW|I<ADV>]) (POSS A/Wz|) 
+
+# in event of A (PP->ADV) : (ADJUNCT [(ADJUNCT [QbDW|I<ADV>]) (POSS A/Wz|) AjWWs<NOUN>]/WgDzD)
+
+# everytime SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) QcRfD <NOUN>]
+			      2) (ADVCL [(COMPCL SENT/^bI) Hc<NOUN>]/QbGb)
+
+# in exchange for A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) Ar^lbDXl<NOUN>]/Il)
+
+# beyond expression (PP->ADV) : ]r^jDWzI ZlWs|I^cUf
+
+# in extenuation of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) XfWUbW<NOUN>]/WzI) 
+
+# with ONE_S face white (PP->ADV) : WfIAsIW| ZbWRcA^bWj
+
+# without fail (PP->ADV) : WfA|QWfRUW|
+
+# after a fashion (PP->ADV) : WfDz XfWGl
+
+# ^be all the fashion (VERB->ADJ) : GcGbD^bD W|DA|Gb
+
+# ^go out_of fashion (VERB->ADJ) : Ww^cWWbD^Ag Gl|Gb
+
+# in a fashion (PP->ADV) : WfDz XfWGl
+
+# out_of fashion (ADV ADJ) : 1) Ww^cWW| X|Db 
+2) [Ww^cWW| X|Db<VERB>]/Gb{-PRES, +PAST}
+
+# at fault (PP->ADV PP->ADJ) : 1) XbIQlU^bWj 
+                               2) XbIQlUW|Gb
+
+# in fear of PRESP (PP->ADV) : 
+
+# at one feed (PP->ADV) : ^bDB|Wg
+
+# quite a few | (NOUN ADV) : 1) UbWGbWUs
+                             2) UbWGbWUs
+
+# in the field of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wz|) RsDWd<NOUN>]/WgUf)
+
+# during a fire $ (PP->ADV) : ^lbXcGlWWbD
+
+# ^be in ONE_S flower (VERB->ADJ) : ^bDZbWW|Gb
+
+# ^be as follows (VERB->ADJ) : GbWzQAlb Ab\Gb
+
+# with food in ONE_S mouth $ (PP->ADV) : WzQU|AWzI W|RWg AbGzA Df^Al
+
+# NUM1 feet long (NOUN ADJ): 1) [(NMODS [(NMODS NUM1 {+DGTNUM}) ]|\z<NOUN>]) 
+A|IW|<NOUN>] {+UNIT}
+
+# a foot long (NOUN ADJ) : 1) 1 ]|\z A|IW|
+		2) [(ADJUNCT [(NMODS [1 ]|\z<ADV>]) XfWGl<NOUN>]/Il) A|I<ADJ>]/Gb
+
+# | at a foot's face (PP->ADV) : Rl^cW UlAGlIl
+
+# | at ONE_S feet (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) RbIQ|\<NOUN>]/Wg)
+
+# | at a foot (PP->ADV) : A|UzIAWg
+
+# ^be NUM1 {-ORDNUM} feet tall (VERB->ADJ) : [(NMODS NUM1) ]|\z<NOUN>]/W|Gb
+
+# on foot (PP->ADV) : AfIWfUf 
+
+# one foot in front of A (ADV NOUN) : 
+    1) (ADJUNCT [(POSS A/Wz|) 1]|\z Wb]<NOUN>]/Wg)
+
+# under feet (PP->ADV) : RbIQ|\Wg
+
+# in due form (PP->ADV) : XfWU|AWzIl
+
+# in the form (PP->ADV) : Az WdWU|AWgUf
+
+# in the ^form of A (PP->ADV PP->ADJ) : 1) [(POSS A/Wz|) ^jW\c<NOUN>]/Il 
+			       		2) [(COMP [(NMODS A) ^jW\c<NOUN>]) _<ADJ>]<W|>/Gb
+
+# in a fraction of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) (NMODS [(POSS [QjZRsD<NOUN>]/Wz|) 1<NOUN>]) QbD<NOUN>]/Wg)
+
+# be friend with A (VERB->ADJ) : [(ADJUNCT A/Wlb) Z|DAsW|<ADJ>]/Gb
+
+# in front of A (PP->ADV ADJ) : 1) [(POSS A/Wz|) Wb]<NOUN>]/WgUf
+				2) [(ADJUNCT [(POSS A/Wz|) Wb]<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+# in a fury $ (PP->ADV) : AjARsD^bWj
+
+# to ONE_S grief (PP->ADV) : (ADJUNCT [(SUBJ ONE/W|) UzI]z<ADJ>]/^bAgGl)
+
+# on ground of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+#' on ONE_S hands (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) ZcAW|Q<NOUN>]/WzIl)
+
+# with ONE_S hand off the handlebar $ (PP->ADV) : UlDXbRW|IzI Dl^Al
+
+# with ONE_S handcuff off $ (PP->ADV) : UsAbRWzI ]sIAl
+
+# to ONE_S happiness (PP->ADV) : 
+
+# with ONE_S head bowed (PP->ADV) : QfI|IzI UsAW|DZc
+
+# in perfect health (PP->ADJ) : AfDAbWW| WbXs Xl^Gb 
+
+# deep in my heart (PP->ADV) : Dc QbWzQUlA A|]W|
+
+# ^have a heart | (VERB->ADJ) : W|DXfWW| QbD^Gb
+
+# ^lie deep in ONE_S heart (VERB->ADJ) : [(ADJUNCT [(POSS ONE/Wz|) QbWzQ<NOUN>])
+
+# ^set ONE_S heart against A (VERB->ADJ) : [(ADJUNCT A/Wg) (MODS [XfIGc<ADV>]) 
+
+# ^set ONE_S heart at rest (VERB->ADJ) : WbDU|Q^bGb
+
+# with all ONE_S heart $ (PP->ADV) : XfDIjAWzI Gb^bWj
+
+# around here $ (ADV ADJ) : 1) W| AzDRbWWg
+                            2) W| AzDRbWWz|
+
+#' in here $ (PP->ADV) : W| WbDWg 
+
+# ^be at home (VERB->ADJ) : X|RWg W|VGb
+
+# ^be at home in bed (VERB->ADJ) : Z|QGcWg DsWsfW|VGb
+
+# ^be very much at home (VERB->ADJ) : QcWs W|AUsA^bGb
+
+# ^feel at home (VERB->ADJ) : ]jDWbD^bAg DzB|Gb
+
+# in honor of A {+HUMAN} (PP->ADV) : (ADJUNCT [(OBJ2 A/WgAg) AjWWz|IzI ]r^b<VERB>]/^bWj)
+
+# in honor of A {+PRNOUN} (PP->ADV) : (ADJUNCT [(OBJ2 A/WgAg) AjWWz|IzI ]r^b<VERB>]/^bWj)
+
+# in hospital (PP->ADV) : W|RWsfD^bWj
+
+# NUM1 {-ORDNUM} ^A {+UNIT} an hour (NOUN ADV) : 1) [(ADJUNCT [U|AbDGbW<NOUN>]) 
+(NMODS NUM1) A] 
+
+# NUM1 {-ORDNUM} hour or NUM2 {-ORDNEM} / (NOUN ADV) : 1) [(NMODS [(CMODS NUM1) (MODS [HlDzD<ADV>]) (CMODS NUM2) _<NOUN>]) U|AbD<NOUN>]
+# NUM1 {-ORDNUM} hour or more (NOUN) : [(NMODS [(NMODS NUM1) U|AbD<NOUN>]) W|UbW<NOUN>]
+
+# an hour (NOUN ADV) : 1) ^bDU|AbD 
+		       2) ^bDU|AbD GlWWbD
+
+# an hour later (ADV ADJ) : 1) ^bDU|AbD ^sWg 
+			    2) ^bDU|AbD ^sWz|
+
+# an hour or so (NOUN ADV) : 1) ^bDU|AbD AbIdW
+                             2) ^bDU|AbD AbIdW
+
+# an hour or two (NOUN ADV) : 1) ^bDGs U|AbD 
+			      2) ^bDGs U|AbD GlWWbD
+
+# half an hour (NOUN ADV) : 1) RbDU|AbD 
+			    2) RbDU|AbD GlWWbD
+
+# in an hour or so (PP->ADV) : ^bDU|AbDYzQ Gs|Wg
+
+# in just over an hour (PP->ADV) : BlA ^bDU|AbD DbQX|U
+
+# on the hour (PP->ADV) : XfWAbAWg
+
+# ^be in a hurry (VERB->ADJ) : RbSzGb
+
+# ^be in such a hurry (VERB->ADJ) : QcWs RbSzGb
+
+# ^be in such a hurry THAT_CLAUSE (VERB->ADJ) : [(ADJUNCT [(RELCL THAT_CLAUSE/^bI) XfWGl<NOUN>]/Il) RbSz<ADJ>]/Gb
+
+# in a hurry | (PP->ADV PP->ADJ) : 1) UfGsIIf
+                                   2) UfGsIzGb
+
+# in such a hurry (ADJ ADV) : 1) QcWs RbSzGb
+			      2) QcWs RbSzAg
+
+# ^have no idea about A (VERB->ADJ) : [(SCOMP [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bD) 
+
+# ^have the idea of A (VERB->ADJ) : [(OBJ [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bD) UcWAbA<NOUN>]/WzI) 
+
+# ^have the idea of WHAT_CLAUSE (VERB->ADJ) : [(OBJ [(ADJUNCT [(COMP [(RELCL 
+
+# under the influence of A (PP->ADV) : 
+
+# with no serious injuries (PP->ADV) : [zD RsUbWWfRUW|
+
+# in an instance (PP->ADV) : ^bD UsDAbDWg
+
+# at the instigation to A (PP->ADV) : ([(ADJUNCT A/WgAg) UbXsGl|<VERB>]/^bWj)
+
+# by the instigation to A (PP->ADV) : ([(ADJUNCT A/WgAg) UbXsGl|<VERB>]/^bWj)
+
+# by instinct (PP->ADV) : RlDDzWXfAWzIl
+
+# with the intention of PRESP (PP->ADV) : (ADJUNCT PRESP/^bIjAl)
+
+# ^be of interest to A (VERB->ADJ) : [(OBJ2 A/WgAg) ^zWQ|Ab W|V<VERB>]/Gb
+
+# from job to job (PP->ADV) : W| X|AWfRWgUf Xf X|AWfRWzIl
+
+# ^have full knowledge of A (VERB->ADJ) : [(OBJ A/IzI) (MODS [XbI<ADV>]) WbIAl W|V<VERB>]/Gb
+
+# ^have knowledge of A (VERB->ADJ) : [(OBJ A/IzI) WbIAl W|V<VERB>]/Gb
+
+# in Latin | (PP->ADV) : Ib\|DWfIl
+
+# in ONE_S lap (PP->ADV) : QsIz] Ws|Wg
+
+# last of all (NOUN ADV) : 1) QbX|QbA
+                           2) QbX|QbAWzIl
+
+# in Latin | (PP->ADV) : Ib\|DWfIl
+
+# from left to right (PP->ADV) : Wl|DYlAWgUf WlIzDYlAWzIl
+
+# on the left of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Wl|DYlA<NOUN>]/Wg)
+
+# to the left of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Wl|DYlA<NOUN>]/Wg)
+
+# with ONE_S legs crossed (PP->ADV) : GbI|IzI BlAlUf
+
+# at some length (PP->ADV) : UbWGbW^| XbUbW^bAg
+
+# in a letter to A (PP->ADV) : 
+
+# all ONE_S life (NOUN ADV) : 1) ^bD ]jWUcW {+RESTRIC} 
+			      2) ]jWUcWGlWWbD
+
+# before the light falls (PP->ADV) : XfQsIA| XfDWg
+
+# between the lights (PP->ADV) : ^cX|I QsIjRWg
+
+# between two lights (PP->ADV) : RbQWg
+
+# for long | (PP->ADV) : WlIcUGlWWbD
+
+# Monday through Friday (NOUN ADV) : 1) WsfIWrW|IWgUf AzQWrW|I
+                                     2) WsfIWrW|IWgUf AzQWrW|IBbX|
+
+# down to the Moon (PP->ADV) : GbI WbIcYlAWzIl
+
+# ^be a master at A (VERB->ADJ) : [(ADJUNCT A/WgUf) (COMP [GcAb<NOUN>]) _<ADJ>]<W|>/Gb
+
+# as a matter of fact (PP->ADV) : UbU|IUbW
+
+# as near as no matter (PP->ADV) : ^bQb\fQjD
+
+# no matter how ADJ it may be (SUBCL->ADV) :
+
+# no matter how ADJ SENT (SUBCL->ADV) : 
+
+# no matter how SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) SENT]/^bGfIbGl)
+
+# no matter how many times SENT (SUBCL->ADV) : (ADVCL [(MODS [QcWs QbD^W|<ADV>]) 
+
+# no matter what NOUN SENT (SUBCL->ADV) : (ADVCL [(OBJ [(NMODS [WfHfD<NOUN>]) 
+
+# no matter what NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMPCL [(SUBJ A/Ab) (OBJ [(NMODS [WfHfD<NOUN>]) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# no matter what SENT (SUBCL->ADV) :
+
+# no matter what VP (SUBCL->ADV) : (ADJUNCT [(MODS [R|IlA<ADV>]) 
+
+# no matter where SENT (SUBCL->ADV) : (ADJUNCT [(MODS [R|IlA<ADV>]) (MODS [WfG|Wg<ADV>]) (RELCL SENT/^bI) X|<NOUN>]/IbGl)
+
+# no matter which NOUN A may VP (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) (OBJ [(NMODS [WfHfD<NOUN>]) NOUN]/WzI) (RELCL VP/^bGzDX|) AbD<NOUN>]/Wg)
+
+# no matter which NOUN SENT (SUBCL->ADV) : (ADJUNCT [(OBJ [(NMODS [WfHfD<NOUN>]) 
+
+# no matter which SENT (SUBCL->ADV) : (ADJUNCT [(OBJ [WfDz AfU<NOUN>]/WzI) 
+
+# by means of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) Wz|^b<VERB>]/Wf)
+
+# by no means (PP->ADV) : AjI[l {+NEG}
+
+# above measure (PP->ADV) : WfQZfWDbAg
+
+# beyond measure (PP->ADV) : WfQZfWDbAg
+
+# by measure (PP->ADV) : Z|UsIzI XcWf
+
+# for good measure (PP->ADV) : RsDIdWWzI DfADfA^bAg
+
+# in a great measure (PP->ADV) : UbWGbW^|
+
+# in a large measure (PP->ADV) : UbWGbW^|
+
+# in a measure (PP->ADV) : GbUl
+
+# in some measure (PP->ADV) : GbUl
+
+# out_of measure (PP->ADV) : WfQZfWDbAg
+
+# ^practice medicine (VERB->ADJ) : AcWfR^bGb
+
+# ^practise medicine (VERB->ADJ) : AcWfR^bGb
+
+# at any mention of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wz|) W|WdA|QbD DbWl<VERB>]/^bQjD)
+
+# at the mention of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) WfDAzR^b<VERB>]/^bXb)
+
+# at the mercy of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) XlbWsGl|<VERB>]/Wf)
+
+# ^be at the mercy of A (VERB->ADJ) : [(ADJUNCT A/Wg) XlbWsGl|<VERB>]/Gb
+
+# without mercy (PP->ADV) : QsXbR|^bAg
+
+# on ONE_S own merits (PP->ADV) : U|IIjAWzIl
+
+# on the merits of the case (PP->ADV) : UbAfDWz| U|R| AlAX|AWg HbIb
+
+# at mess (PP->ADV) : ^l|U|A^bWj
+
+# in a mess (PP->ADV) : ^lDIbD^bWj
+
+# NUM1 meters across (ADJ NOUN) : 1) (POSS [(NMODS [(NMODS [X|AAjW<NOUN>]) NUM1]) Q|\f<NOUN>]/Wz|) 
+			          2) [(NMODS [(NMODS [X|AAjW<NOUN>]) NUM1]) Q|\f<NOUN>]
+
+# in the middle of the day (PP->ADV) : GcDbXWg
+
+# in the middle of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XsWAbD<NOUN>]/Wg)
+
+# around midnight (PP->ADV) : ^bDRbQXsWWg
+
+# from the midst of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbWsDGg<NOUN>]/IlRs\f)
+
+# out_of the midst of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbWsDGg<NOUN>]/IlRs\f)
+
+# in the midst of us (PP->ADV) : WsI|GzI AbWsDGgWg
+
+# in our midst (PP->ADV) : WsI|GzI AbWsDGgWg
+
+# in the midst of you (PP->ADV) : Df^z|GzI AbWsDGgWg
+
+# in our midst (PP->ADV) : Df^z|GzI AbWsDGgWg
+
+# in the midst of them (PP->ADV) : AzGzI AbWsDGgWg
+
+# in our midst (PP->ADV) : AzGzI AbWsDGgWg
+
+# in the midst of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbWsDGg<NOUN>]/Wg)
+
+# NUM1 miles an hour (ADV NOUN) : 1) (ADJUNCT [(NMODS [(NMODS [U|AbDGbW<NOUN>]) NUM1]) QbW|I<NOUN>]/Il)
+                                  2) [(NMODS [(NMODS [U|AbDGbW<NOUN>]) NUM1]) 
+
+#' NUM1 miles away (ADJ ADV) : 1) [(MODS [(NMODS NUM1) QbW|I<NOUN>]) (MODS [HfIWfXj<ADV>]) W|V<ADJ>]/Gb
+		        2) [(MODS [(NMODS NUM1) QbW|I<NOUN>]) HfIWfXjUf<ADV>]
+
+#' mile away (ADJ ADV) : 1) QjZQbW|I HfIWfXj W|VGb
+		        2) QjZQbW|I HfIWfXjUf
+
+# after ONE_S mind (PP->ADV) : QbWzQWg QbXDzD
+
+# in mind $ (PP->ADV) : WjQGs^c GsAl
+
+# off ONE_S mind (PP->ADV) : WjQGsIzI HfDb
+
+# on ONE_S mind (PP->ADV) : QbWzQWg AfIIjUf
+
+# at the last minute $ (PP->ADV) : QbX|QbA UsDAbDWg
+
+# for a minute (PP->ADV) : XbQU|GlWWbD
+
+# in a minute or two (PP->ADV) : W|IW|RsD^sWg
+
+# in just a few minute (PP->ADV) : RsIAlb QjZRsD^sWg
+
+# in minutes (PP->ADV) : UsRsDWbDWg
+
+# in a mode $ (PP->ADV) : WfHfD ^jWU|AWg
+
+# after the model of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) QlGgIIl ^b<VERB>]/^bWj)
+
+# on the model of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) QlGgIIl ^b<VERB>]/^bWj)
+
+# at this moment (PP->ADV) : W|UsDAbDWgGl
+
+# at this very moment (PP->ADV) : W|UsDAbDWgGl
+
+# for a few moment (PP->ADV) : XbQU|GlWWbD
+
+# in a moment (PP->ADV) : XbQU|^s
+
+#' the moment SENT (NOUN SUBCL) : 1) [(AMODS SENT/^bD) UsDAbD<NOUN>]
+				 2) (ADJUNCT [(RELCL SENT/^bD) UsDAbD<NOUN>]/Wg)
+
+# money down (NOUN ADV) : 1) ^jDAzQ
+                          2) ^jDAzQWzIl
+
+# out_of the money $ (PP->ADV) : W|RUbW^bX| QlU^bAl
+
+# in a month of Sundays (PP->ADV) : QcWs WlIcUGlWWbD
+
+# in recent month (PP->ADV) : Zl|AzD QjZGbIGlWWbD
+
+# ^be in the mood for A (VERB->ADJ) : 
+
+# ^be in the mood for PRESP (VERB->ADJ) : [(SCOMP [(RELCL [PRESP](^bAl/F, U|]/A)/^bD)
+
+# more than A (NOUN ADV) : 1) [(NMODS A) W|UbW<NOUN>]
+	2) [(NMODS A) W|UbW<ADV>]
+
+# no more than A (NOUN ADV) : 1) [(NMODS A) XfWGl<NOUN>]
+	2) [(NMODS A) XfWGl<ADV>]
+
+# at morn (PP->ADV) : WbZ|QWg
+
+# of ONE_S own motive (PP->ADV) : XbX|D^bWj
+
+# from ONE_S own motive (PP->ADV) : XbX|D^bWj
+
+# in the mouth of A (PP->ADV) : (ADJUNCT [(ADJUNCT [(POSS A/Wz|) QbI<NOUN>]/Wg) 
+
+# with a French mouth (PP->ADV) : ]zIbWUzWfU|A RbIWzQWzIl
+
+# with a cigarette in ONE_S mouth (PP->ADV) : W|RWg GbQRcIzI QsIAl
+
+# with a smile at the corner of ONE_S mouth (PP->ADV) : W|RAbWg Q|UlIzI Hz|Al
+
+# with one mouth (PP->ADV) : W|AsGlWUfWWzIl
+
+# as dead as mutton (PP->ADV) : WlbDXfD^| XsAWf
+
+# to return to our muttons (PP->ADV) : AzIfQ W|WdA|Wz| RlDIlDWzIl GlIWbAbUf
+
+# to get to our muttons (PP->ADV) : AzIfQ W|WdA|Wz| RlDIlDWzIl GlIWbAbUf
+
+# under the name of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) W|IzQ^b<NOUN>]/Wg)
+
+# against nature | (ADJ PP->ADV) : 1) RsXbWjDUzIfRGb
+			           2) RsXbWjDUzIfRAg
+
+# by nature | (PP->ADV) : UfDZfDXfAWzIl
+
+# in the course of nature (PP->ADV) : XbWjDWz| UsDI|GcIl
+
+# in the nature of things (PP->ADV) : XbWjDWz| UsDI|GcIl
+
+# in the state of nature (PP->ADV) : XbWjDGcIlWz| UbW\cIl
+
+# in the neighborhood of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AzDZf<NOUN>]/Wg)
+
+# last night (NOUN ADV) : 1) WfXgURbQ {-OBJP}
+			  2) WfXgURbQ
+
+# on deep into the night $ (PP->ADV) : RbQ DzXAgBbX|
+
+# north of A (NOUN PP) : 1) [(POSS A/Wz|) RsAYlA<NOUN>] 
+			 2) (RELCL [(ADJUNCT [(POSS A/Wz|) RsAYlA<NOUN>]/Wg) W|V<VERB>]/^bD)
+
+# on NUM1 days' notice (PP->ADV) : (ADJUNCT [(POSS [(NMODS [(NMODS NUM1) W|I<NOUN>]) XfD<NOUN>]/Wz|) WkAl<NOUN>]/Il)
+
+# for now $ (PP->ADV) : GbWRsDAbD
+
+# a number of times (NOUN ADV) : 1) WjIfRfD
+	2) WjIfRfD
+
+# in obedience to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) RlAXlW^b<VERB>]/^bWj)
+
+# in honor of the occasion (PP->ADV) : ZsA^bWz| HzUWzI ]r^bA| Ws|^bWj
+
+# in honour of the occasion (PP->ADV) : ZsA^bWz| HzUWzI ]r^bA| Ws|^bWj
+
+# on another occasion (PP->ADV) : GbIzD A|^l|Wg
+
+# on occasion (PP->ADV) : HcHcIl
+
+# on one occasion (PP->ADV) : W|IY|A|
+
+# on several occasions (PP->ADV) : QjZRfDW|Al
+
+# on the rare occasion (PP->ADV) : GzQsD W|IW|X|QbD
+
+# on the first occasion (PP->ADV) : A|^l|W|VDzD GcIl
+
+# on the occasion of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) XzWzQ^b<VERB>]/^bWj)
+
+# by the good offices of A {+HUMAN} (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ^lWz|<NOUN>]/Il)
+
+# through the good offices of A {+HUMAN} (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XsUfD<NOUN>]/WzIl)
+
+# ^be of good omen (VERB->ADJ) : A|IXlGb
+
+# ^be of bad omen (VERB->ADJ) : ^wWXlGb
+
+# ^be of evil omen (VERB->ADJ) : ^wWXlGb
+
+# ^be of ill omen (VERB->ADJ) : ^wWXlGb
+
+# for the first $ (PP->ADV) : ZfWzQWzIl
+
+# in the opinion of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) UcWAbA<NOUN>]/WzIlDzD)
+
+#' in ONE_S opinion (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) Wz|AjD<NOUN>]/WzIlDzD)
+
+# at ONE_S  option (PP->ADV) : QbWzQGcIl
+
+# at buyer's option (PP->ADV) : UbDzD UbIbQ W|QWz|Il
+
+# at seller's option (PP->ADV) : ]bDzD UbIbQ W|QWz|Il
+
+# by order (PP->ADV) : QjWIjWWg Wz|^bWj
+
+# in order as SENT (PP->ADV) : (ADJUNCT [(RELCL SENT/^bD) UsD<NOUN>]/WzIl)
+
+# in order of age (PP->ADV) : WjDIjW UsDWzIl
+
+# in order of merit (PP->ADV) : UfWXfA UsDWzIl
+
+# in the order (PP->ADV) : UsDUfIl
+
+# in the wrong ^order (PP->ADV) : ZbIkAb \zII|Ag
+
+# at a foot's pace (PP->ADV) : Rl\lWAfIWzQWzIl
+
+# at a good pace (PP->ADV) : UbWGbW^bD UlAGlIl
+
+# for ONE_S pains (PP->ADV) : UsAl^bD AbRUWzIl
+
+# on pain of death (PP->ADV) : Ws|RbD^bQjD Ub^jWWg Zf^bDGbDzD XlAfDWzIl
+
+# under pain of death (PP->ADV) : Ws|RbD^bQjD Ub^jWWg Zf^bDGbDzD XlAfDWzIl
+
+# upon pain of death (PP->ADV) : Ws|RbD^bQjD Ub^jWWg Zf^bDGbDzD XlAfDWzIl
+
+# with the pain gone (PP->ADV) : Al\lWW| UbIbXjUf
+
+# within the pale of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>]) 
+
+# out_of the pale of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>]) 
+
+# outside the pale of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>]) 
+
+# beyond the pale of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RfQWs|<NOUN>]) RbB<NOUN>]/Wg)
+
+# on the pan (PP->ADV) : ^lA]jWWzI RbGWb
+
+# at par (PP->ADV) : WcAQjD AbAjAWzIl
+
+# below par $ (PP->ADV) : WcAQjDW|^bIl
+
+# on parade (PP->ADV) : ZlWZsIWjD^bWj
+
+# in parallel (PP->ADV) : RjW^cW^bWj
+
+# in parallel with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) RjW^cW^b<VERB>]/^bWj)
+
+# by parcels (PP->ADV) : XlAzQV|A
+
+# by way of parenthesis (PP->ADV) : W|WdA|Ab DbVWzD| QbIW|X|
+
+# in parentheses (PP->ADV) : AlbI^lWbDWg Df^WfUf
+
+# on parole (PP->ADV) : UfDUf UfARbWGl|Wf
+
+# as part of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RsRsD<NOUN>]/WzIl)
+
+# for my part (PP->ADV) : DbIlUfDzD
+
+# for the most part (PP->ADV) : GcRsRsD
+
+#' on the part of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) GcU|D^b<VERB>]/Wf)
+
+# on ONE_S part (PP->ADV) : (ADJUNCT [(ADJUNCT ONE/Wg) GcU|D^b<VERB>]/^bWj)
+
+# in every particular (PP->ADV) : QlGzD XfQWgUf
+
+# in particular (PP->ADV) : \zA^|
+
+# on parting (PP->ADV) : XbARjIWg XzWzQ^bWj
+
+# in partnership with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) ^bRQjW<NOUN>]/WzIl)
+
+# at a fine pass (PP->ADV) : W|IW| DbDZf^bAg Gl|Wf
+
+# with the passage of time (PP->ADV) : U|AbDW| AjWAlb^bQWg HbIb
+
+# in a passion (PP->ADV) : RsIBzD ^lbAb DbUf
+
+# out_of patience (PP->ADV) : XfWW| HfIWfXj
+
+# with patience (PP->ADV) : ZbQWzIUfW W|VAg
+
+# in pause (PP->ADV) : XsWX|^bWj
+
+# in the pay of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) AlWrWGl|<VERB>]/^bWj)
+
+# in payment for A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RlUs<NOUN>]/IlUf)
+
+# at peace (PP->ADV) : ]jW^lbIlRAg
+
+# in peace (PP->ADV) : ]jW^lbIlRAg
+
+# as proud as a peacock (PP->ADV) : QlRU| SlQDcQj
+
+# in peal (PP->ADV) : AbIbAWzI QbXZsWfUf
+
+# in a pelter (PP->ADV) : AjARsD^bWj
+
+# on penalty of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) GcUAb<NOUN>]/Il)
+
+# under penalty of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) GcUAb<NOUN>]/Il)
+
+# during the pendency of A (PP->ADV) : (ADJUNCT [(SUBJ A/W|) (AMODS [Q|XfW<NOUN>]/W|D) GlWWbD<NOUN>]/Wg)
+
+# ^be NUM1 percent faster $ (VERB->ADJ) : 
+
+# beyond peradventure (PP->ADV) : \zII|QWfRUW|
+
+# without peradventure (PP->ADV) : \zII|QWfRUW|
+
+# to perfection (PP->ADV) : WlbDXfD^|
+
+# at the peril of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) AfI<VERB>]/^bAl)
+
+# at ONE_S peril (PP->ADV) : QlAUsQWzI AfIAl
+
+# in peril of A (PP->ADV) : (ADJUNCT [(ADJUNCT [(POSS A/Wz|) Ws|^fQ<NOUN>]/Wg) 
+
+# at stated periods (PP->ADV) : XfWA|Wg
+
+# for a period of time (PP->ADV) : ^bDGlWWbD
+
+# in perpetuity (PP->ADV) : WjWAs^|
+
+# to perpetuity (PP->ADV) : WjWAs^|
+
+# for perpetuity (PP->ADV) : WjWAs^|
+
+# in perplexity (PP->ADV) : GbW^lbW^bWj
+
+# in person $ (PP->ADV) : W|D]jDWzIl
+
+# during the picture (PP->ADV) : WjW^lbAb UbWWjWGl|DzD GlWWbD
+
+# all to pieces (PP->ADV) : ZsWRsD^|
+
+# by the piece (PP->ADV) : W|I^bD RsDIdWWg HbIb
+
+# of a piece with A (PP->ADJ) : (POSS [(RELCL [(ADJUNCT A/Alb) Ab\<ADJ>]/^bD) XlWIw<NOUN>]/Wz|)
+
+# piece after piece (ADV NOUN) : 1) ^bDXlAbA, ^bDXlAbAV|A 
+				 2) ^bDXlAbA, ^bDXlAbA
+
+# to pieces (PP->ADV) : XlAbAXlAbAWzIl
+
+# in pieces (PP->ADV) : XlAbAXlAbAWzIl
+
+# at a pinch (PP->ADV) : Ws|A|Wg Zf^bWj
+
+# in a pinch (PP->ADV) : Ws|A|Wg Zf^bWj
+
+# on a pinch (PP->ADV) : Ws|A|Wg Zf^bWj
+
+# upon a pinch (PP->ADV) : Ws|A|Wg Zf^bWj
+
+# with a pinch of salt (PP->ADV) : WgDsI|^bWj
+
+# in the pink (PP->ADV) : WsfDA| WlbWUfW^bWj
+
+# on pitch (PP->ADV) : AbXbW Xl^WzD UbW\cIl
+
+# to the highest pitch (PP->ADV) : Zl|Al ^bDGlBbX|
+
+# at our place (PP->ADV) : WsI|X|RWgUf
+
+# ^be out_of place (VERB->ADJ) : XfAXfI^bX| WbD^Gb
+
+# ^be ADV out_of place (VERB->ADJ) : [(MODS ADV) XfAXfI^bX| WbD^<VERB>]/Gb
+
+# ^be in ONE_S place (VERB->ADJ) : [(COMP [(POSS ONE/Wz|) W|RXbW<NOUN>]) _<ADJ>]<W|>/Gb
+
+# from place to place (PP->ADV) : WjA|XfA|Il
+
+# in place of A (PP->ADV): (ADJUNCT [(NMODS A) GcU|D<NOUN>]/Wg)
+
+# in the last place (PP->ADV) : QbX|QbAWzIl
+
+# in the first place (PP->ADV) : ZfWzQWg
+
+# in the second place (PP->ADV) : GsIYcIl
+
+#' out_of place (ADV ADJ) : 1) XbIQlU Dl^Wj 
+2) XfAXfI^bX| WbD^Gb
+
+# according to plan (PP->ADV) : Ak^l|AGcIl
+
+# by plane (PP->ADV) : R|^cWA|Il
+
+# in a plane (PP->ADV) : R|^cWA|Il
+
+# on a plane (PP->ADV) : R|^cWA|Il
+
+# in full play (PP->ADV) : ^bDZbW ^lbIGlW^bWj
+
+# on the plea of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ]|WAk<NOUN>]/Il)
+
+# under the plea of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ]|WAk<NOUN>]/Il)
+
+# at ONE_S pleasure (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) HzU<NOUN>]/GcIl)
+
+# at pleasure (PP->ADV) : HzUGcIl
+
+# during ONE_S pleasure (PP->ADV) : QbWzQW| Dc[|DzD GlWWbD
+
+#' for pleasure (PP->ADV) : XcQ|Il
+
+# with pleasure (PP->ADV) : A|BfW|
+
+# in plenty (PP->ADV) : QbD^W|
+
+# in a miserable plight (PP->ADV) : ZbQb RlI Us WfRUDzD ZbQUbWWg
+
+# in a piteous plight (PP->ADV) : ZbQb RlI Us WfRUDzD ZbQUbWWg
+
+# in a woeful plight (PP->ADV) : ZbQb RlI Us WfRUDzD ZbQUbWWg
+
+# at all point (PP->ADV) : QlGzD XfQWgUf
+
+# at the point of PRESP (PP->ADV) : (ADJUNCT [(RELCL PRESP/^bIjDzD) 
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+# from A point of view (PP->ADV) : (ADJUNCT [(NMODS A) AlbDXfQ<NOUN>]/WzIlDzD)
+
+# from point to point (PP->ADV) : ^bDb^bDb ZbIkIl
+
+# in point of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/Wf)
+
+# by the holy poker (PP->ADV) : QcWUg[l
+
+# from pole to pole (PP->ADV) : UgAkWz| GlZfWgUf
+
+# under bare poles (PP->ADV) : GlZWzI WlII|X| WbD^Al
+
+# up the pole (PP->ADV) : Q|ZjUf
+
+# at the head of the poll (PP->ADV) : Zl|Al GzA]rIl
+
+# in full pontificals (PP->ADV) : UbArWz| XfWXbWWzIl
+
+# in my position (PP->ADV) : DbWz| W|RXbWWzIlDzD
+
+# in possession of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) UlX|^bAl W|V<VERB>]/^bWj)
+
+# in the possession of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) 
+
+# by any possibility (PP->ADV) : QbDW|IWg
+
+# by some possibility (PP->ADV) : WfYfQjD
+
+# by post (PP->ADV) : Ws]jDWzIl
+
+# by return of post (PP->ADV) : Ws]jDRcGbIWz| RlRbI]jDWg
+
+# at ONE_S post (PP->ADV) : W|QX|WgUf
+
+# in a sitting posture (PP->ADV) : WbDXWzD XbUgIl
+
+# in a standing posture (PP->ADV) : UfD XbUgIl
+
+# in the present posture of public affairs (PP->ADV) : ^jDXcWz| Ub^l| UbW^lbWWgUf
+
+# in ONE_S pot (PP->ADV) : UsIZs|^bWj
+
+# on the pounce (PP->ADV) : AzQRbWW|IbGl GfQRjGzI GzUW|
+
+# by the pound (PP->ADV) : 1 ]bWsDGz GbDWs|Il
+
+# beyond ONE_S power (PP->ADJ) : ^|QW| Q|Z|X| QlU^bGb
+
+# beyond ONE_S powers (PP->ADJ) : ^|QW| Q|Z|X| QlU^bGb
+
+# in ONE_S power (PP->ADV) : UlDWbAs|Wg
+
+# out_of ONE_S power (PP->ADJ) : ^|QW| Q|Z|X| QlU^bGb
+
+# out_of ONE_S powers (PP->ADJ) : ^|QW| Q|Z|X| QlU^bGb
+
+# to the best of ONE_S power (PP->ADV) : ^|QXbIbDzD ^bD
+
+# in practice (PP->ADV): U|IXgIl
+
+# in praise of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) Z|WZbD^b<VERB>]/^bWj)
+
+# without precedent (PP->ADV) : XfDIkAb WfRUDzD
+
+# in prejudice of A (PP->ADV) : (ADJUNCT [(SCOMP [(POSS A/Wz|) Z|Q^c<NOUN>]/Ab) 
+
+# to the prejudice of A (PP->ADV) : (ADJUNCT [(SCOMP [(POSS A/Wz|) Z|Q^c<NOUN>]/Ab) Gl|<VERB>]/^bGlIlA)
+
+# without prejudice (PP->ADV) : A|GzAAsfDWzI Z|Q^c^bX| WbD^Al
+
+# without preliminaries (PP->ADV) : GbDGlX|AW|RXfAWzIl
+
+# in preparation for A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) GcR|^b<VERB>]/^bWjUf)
+
+# in the presence of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) QjDXfD<NOUN>]/WgUf)
+
+# at present $ (PP->ADV) : ^jDXc
+
+# by these presents (PP->ADV) : W| UfIwWg Wz|^bWj
+
+# up to the present (PP->ADV) : [X|AzQWg W|IzA|BbX|<ADV>]
+
+# out_of press (PP->ADV) : XfI]bDGl|Wf
+
+# on the slightest pretence (PP->ADV) : UbUl^bD W|WwIzI ]|WAkIl
+
+# under the pretence of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# under pretence of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# on the pretence of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# on pretence of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# under the pretense of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# under pretense of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# on the pretense of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# on pretense of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]|WAk<NOUN>]/Il)
+
+# on the pretext of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ]|WAk UbQ<VERB>]/^bWj)
+
+# under the pretext of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ]|WAk UbQ<VERB>]/^bWj)
+
+# at any price (PP->ADV) : WfHf^bD GcUAbIzI Z|IzGfIbGl
+
+# at the price of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ^z|UcW^b<VERB>]/^bAl)
+
+# as a matter of principle (PP->ADV) : XsWz|IlUf
+
+# on principle (PP->ADV) : XsWz|IlUf
+
+# by principle (PP->ADV) : XsWz|IlUf
+
+# in principle (PP->ADV) : WsfDZ|AWzIlUf
+
+# on principle (PP->ADV) : XsWz|Wg HbIbUf
+
+# in cold print (PP->ADV) : ^lbIXbIl W|DUlc^bWj
+
+# in print (PP->ADV) : W|DUlcGl|Wf
+
+# in large print (PP->ADV) : AsIAWzD AzIXbIl W|DUlcGl|Wf
+
+# in small print (PP->ADV) : AbDzD AzIXbIl W|DUlcGl|Wf
+
+# out_of print (PP->ADV) : XfI]bDGl|Wf
+
+# according to priority (PP->ADV) : UsDRfDWzIl
+
+# on probation (PP->ADV) : X|R^cWWwWkWg
+
+# ^be in the process of PRESP (VERB->ADJ) : [(COMP [(RELCL PRESP(^bAl/F, W|V/V)/^bD) XsW<VERB>]) _<ADJ>]<W|>/Gb
+
+# in process of time (PP->ADV) : U|AbDW| AjWAlb^bQWg HbIb
+
+# in procession (PP->ADV) : ^cWIjIWzI X|Wf
+
+# in profusion (PP->ADV) : ]sWRs^bAg QbD^W|
+
+# ^be in progress (VERB->ADJ) : X|D^cWXsWW|Gb
+
+# in progress of time (PP->ADV) : U|AbDW| X|DbQWg HbIb
+
+# for the promotion of a new company (PP->ADV) : Uc ^l|UbWz| RbIA|IzI Ws|^c
+
+# in proof of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/Il)
+
+# in proportion as SENT (PP->ADV) : (ADJUNCT [(RELCL SENT/^bDzD) R|WwI<NOUN>]/Il)
+
+# in proportion to his success (PP->ADV) : AzWz| UfWAlWWg R|Ik^bWj
+
+# in proportion to A (ADV ADJ) : 1) (ADJUNCT [(COMP A/Wg) R|Ik^b<VERB>]/^bWj)
+			         2) [(COMP A/Wg) R|Ik^b<VERB>]/Gb
+
+# in the proportion of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) R|WwI<NOUN>]/Il)
+
+# in prospect of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) RbIb<VERB>]/^bAl)
+
+# under protest (PP->ADV) : \sGfIAfI|Qj
+
+# by divine providence (PP->ADV) : U|DWz| UfRI|Il
+
+# in the province of A (PP->ADV) : (ADJUNCT [(NMODS A) RsDWd<NOUN>]/WgUf)
+
+# with proviso (PP->ADV) : XlAfDRsIl
+
+# in close proximity (PP->ADV) : WbXs XfRAzD^bWj
+
+# in the proximity of A (PP->ADV) : (ADJUNCT [(NMODS A) AbBbW|<NOUN>]/Wg)
+
+# by proxy (PP->ADV) : GcI|W|DWzIlUf
+
+# per proxy (PP->ADV) : GcI|W|DWzIlUf
+
+# in common prudence (PP->ADV) : GbWWjD^bD XlU|QWzIl
+
+# in a pucker (PP->ADV) : WbDXfIRsXfI QlU^bWj
+
+# in puckers (PP->ADV) : XsIzQ XjUf
+
+# ^have the pull over A (VERB->ADJ) : [(ADJUNCT A/RlGb) DbU<ADJ>]/Gb
+
+# for that purpose (PP->ADV) : AzAfU HcQsDWg
+
+# for the purpose of PRESP (PP->ADV) : (ADJUNCT [(COMP PRESP/^bA|) Ws|^b<VERB>]/^bWj)
+
+# with the purpose of PRESP (PP->ADV) : (ADJUNCT [(COMP PRESP/^bA|) Ws|^b<VERB>]/^bWj)
+
+# of set purpose (PP->ADV) : HsIjU^bD QlAXfAWzIl Ak^l|AXfAWzIl
+
+# on purpose (PP->ADV) : AlWz|Il
+
+# on purpose TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) XbAXfW<NOUN>]/WzIl)
+
+# to little purpose (PP->ADV) : ^fUGl|W|
+
+# to no purpose (PP->ADV) : XfD^j ^fUGl|W|
+
+# to some purpose (PP->ADV) : Blc UfWAlW^bWj
+
+# to good purpose (PP->ADV) : ^sIIwW^|
+
+# to the purpose (PP->ADV) : XfAXfI^|
+
+# for peace purpose (PP->ADV) : ]jW^lbIzI Ws|^cUf
+
+# to this purpose (PP->ADV) : W|IfD Wz|Q|WgUf
+
+# with ONE_S purse empty (PP->ADV) : R|D X|AbRWzIl
+
+# in pursuit of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsAs^b<VERB>]/^bWj)
+
+# within the purview of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>]) WbD<NOUN>]/Wg)
+
+# outside the purview of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>]) RbB<NOUN>]/Wg)
+
+# at a push (PP->ADV) : Ws|AzRWg Zf^bWj
+
+# at one push (PP->ADV) : ^bDRfD Q|IWfUf
+
+# at the first push (PP->ADV) : ZfUYcIl
+
+# in quantities (PP->ADV) : QbD^W|
+
+# in quantity (PP->ADV) : QbD^W|
+
+# in large quantities (PP->ADV) : GcIdWWzIl
+
+# in small quantities (PP->ADV) : UlIdWWzIl
+
+# at close quarters (PP->ADV) : QbXGb^WzI QbD[zQ AbBbW|
+
+# for a quarter the price (PP->ADV) : 4 RsDWz| 1 Wz| AbRUWzIl
+
+# for quarter the price (PP->ADV) : 4 RsDWz| 1 Wz| AbRUWzIl
+
+# from a good quarter (PP->ADV) : XfW\lW^bD UlU|A\lWWgUf
+
+# from a reliable quarter (PP->ADV) : Q|GWzI QbD^bD UlU|A\lWWgUf
+
+# from every all quarters (PP->ADV) : UbQjD ]bIRbWWgUf
+
+# from every quarters (PP->ADV) : UbQjD ]bIRbWWgUf
+
+# on the quarter (PP->ADV) : AlQsI YlAWzIl
+
+# in quest of A (PP->ADV): (ADJUNCT [(OBJ A/WzI) ZbX<VERB>]/^bWj)
+
+# beyond question (PP->ADV) : Wz|U|Q^bI WjX|WfRUW|
+
+# without question (PP->ADV) : \zII|QWfRUW|
+
+# in a queue (PP->ADV) : XsIX|Wf
+
+# to the quick (PP->ADV) : UcWUbIBbX|
+
+# at quiet | (PP->ADV) : ]jWWlD^bAg
+
+# in quiet | (PP->ADV) : XlWrW^|
+
+# on the quiet | (PP->ADV) : QlIIc
+
+# in quires (PP->ADV) : XgRlD^bX| WbD^Al
+
+# above quota $ (PP->ADV) : ^bIGbWIdW W|UbWWzIl
+
+# with a strong race (PP->ADV) : AzRIwIzI W|IsWf
+
+# over the radio (PP->ADV) : IbG|WlIl
+
+# in rags (PP->ADV) : DsGfA| WlUWzI W|RAl
+
+# to rags (PP->ADV) : ^cWfXjUf DfGfIDfGfI^bI HcBbX|
+
+# by rail (PP->ADV) : ZfIGlIl
+
+# off the rails (PP->ADV) : \bIUfD^bWj
+
+# in case of rain (PP->ADV) : WsZfDW|I AjWWsWgDzD
+
+# in the rain | (PP->ADV) : WsXsWWg
+
+# on the ramble (PP->ADV) : WfUzIIfW WfUzIIfW AfD|IQj
+
+# at the ranch (PP->ADV) : AbZsA DlWXbWWgUf
+
+# on the ranch (PP->ADV) : AbZsA DlWXbWWgUf
+
+# at random $ (PP->ADV) : Gl|DzD GcIl
+
+# at long range (PP->ADV) : WsfDAfI|WgUf
+
+# at short range (PP->ADV) : AzDAfI|WgUf
+
+# in range with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) DbIbD^|<ADV>])
+
+# in the range NUM1  to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT [(NMODS [RfQWs|<NOUN>]) NUM1]/WgUfRs\f) NUM2]/Wg)
+
+# in the rage of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>]) Dc<NOUN>]/Wg)
+
+# out_of range (PP->ADV) : UbXfW AfI| RbBWg
+
+# within the range of A (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [(POSS A/Wz|) UbXfW<NOUN>]) AfI|<NOUN>]) Dc<NOUN>]/Wg)
+
+# with rapidity (PP->ADV) : U|DUlA^|
+
+# with rapture (PP->ADV) : ^lbW^lI^bWj
+
+# as wet as a drowned rat (PP->ADV) : QsIWg SbX|D UcWXs|Ab\W| ^bQSbA XfXWf
+
+# like a drowned rat (PP->ADV) : QsIWg SbX|D UcWXs|Ab\W| ^bQSbA XfXWf
+
+# as sure as rate (PP->ADV) : ^lbAU|I^|
+
+# at a frightening rate (PP->ADV) : DlIIbWsD UlAGlIl
+
+# at a high rate (PP->ADV) : R|VbAg
+
+# at an ever-increasing rate (PP->ADV) : BsXsD^| XzWAb^bDzD UlAGlIl
+
+# at a low rate (PP->ADV) : VbAg
+
+# at all rates (PP->ADV) : WfHf^Ag ^cUfGzDX|
+
+# at an easy rate (PP->ADV) : VbD AbRUWzIl
+
+# at any rate (PP->ADV) : WfYcVGzD
+
+# at that rate (PP->ADV) : AzIf^GbQjD
+
+# at the rate of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) R|WwI<NOUN>]/Il)
+
+# at the rate of A an hour (PP->ADV) : (ADJUNCT [(MODS [U|AbDGbW<ADV>]) (POSS A/Wz|) UlAIjA<NOUN>]/WzIl)
+
+# at the rate of A a minute (PP->ADV) : (ADJUNCT [(MODS [RsDGbW<ADV>]) (POSS A/Wz|) UlAIjA<NOUN>]/WzIl)
+
+# at the rate of A a second (PP->ADV) : (ADJUNCT [(MODS [ZlGbW<ADV>]) (POSS A/Wz|) UlAIjA<NOUN>]/WzIl)
+
+# at this rate | (PP->ADV) : W|IfD ^jW]jDWzIlDzD
+
+# within reach of A (PP->ADV) : (ADJUNCT [(RELCL [(SUBJ [(POSS A/Wz|) UlD<NOUN>]/W|) Gb^<VERB>]/^bD) AlU<NOUN>]/Wg)
+
+# in reaction to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) RbDWzW^b<VERB>]/Wj)
+
+# in readiness (PP->ADV) : XsDR|Ab Gl|Wf
+
+# with readiness (PP->ADV) : A|BfW|
+
+# for real (PP->ADV) : XfWQbIIl
+
+# in reality (PP->ADV) : ^jDU|IWgUf
+
+# at the rear of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Rc^s<NOUN>]/Wg)
+
+# in the rear of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Rc^s<NOUN>]/Wg)
+
+# in the rearward (PP->ADV) : ^sRsWg
+
+# at the rearward (PP->ADV) : ^sWs|Wg
+
+# for certain reason (PP->ADV) : WfHfD W|WwIl
+
+# for several reasons (PP->ADV) : WjIf W|WwIl
+
+# || for this reason (PP->ADV) : W|IfD W|WwIl
+
+# || for some reason (PP->ADV) : WfHfD W|WwWgUf W|DX|
+
+# as reason was (PP->ADV) : W|UfWW| QjW^bDzD GcIl
+
+# by reason of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) W|Ww<NOUN>]/Il)
+
+# out_of reason (PP->ADV) : XlI|Wg Gb^X| WbD^DzD
+
+# with reason (PP->ADV) : W|WwAb W|VWfUf
+
+# within reason (PP->ADV) : W|Z|Wg QbXDzD
+
+# without any reason at all (PP->ADV) : GbWWjD^|
+
+# without rebuke (PP->ADV) : [zD U|IUsWfRUW|
+
+# at recess (PP->ADV) : ^wU|A U|AbDWg
+
+# in the inmost recesses of A (PP->ADV) : (ADJUNCT [(AMODS [(POSS A/Wz|) A|]UsA^b<ADJ>]/^bD) AlU<NOUN>]/Wg)
+
+# in recompense for A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RlUbW<NOUN>]/WzIlUf)
+
+# in record time (PP->ADV) : A|IlAXfAWzIl SbII|
+
+# without recourse to A (PP->ADV) : (ADJUNCT [(COMP [(ADJUNCT A/Wg) Wz|X|^bQ<NOUN>]/W|) WfRUW|<ADV>])
+
+# at the recover (PP->ADV) : RbWWf XbUgIl GlIWbAbUf
+
+# off the reel (PP->ADV) : RbIl ]sIIj
+
+# without a reel or a stagger (PP->ADV) : R|\zIAfI|X| WbD^Al
+
+# in reference to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) AlbD^b<VERB>]/^bWj)
+
+# with reference to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) AlbD^b<VERB>]/^bWj)
+
+# without reference to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) AlbDAk<NOUN>]/WfRUW|)
+
+# on reflection (PP->ADV) : UsAAl^bD Bz\Wg
+
+# upon reflection (PP->ADV) : UsAAl^bD Bz\Wg
+
+# without reflection (PP->ADV) : AjWUlI^bAg
+
+# on reflexion (PP->ADV) : UsAAl^bD Bz\Wg
+
+# upon reflexion (PP->ADV) : UsAAl^bD Bz\Wg
+
+# without reflexion (PP->ADV) : AjWUlI^bAg
+
+# in his regard (PP->ADV) : AzWgAg AlbD^cUfDzD
+
+# in regard of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/Wf)
+
+# in regard to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/Wf)
+
+# in this regard (PP->ADV) : W| W|IWg AlbD^cUfDzD
+
+# in that regard (PP->ADV) : Az W|IWg AlbD^cUfDzD
+
+# with regard to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/Wf)
+
+# without regard to A (PP->ADV) : (MODS [(COMP A/Wg) AlbDAkWfRUW|<ADV>])
+
+# regardless of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbDAkWfRUW|<ADV>])
+
+# in the region of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AzDZf<NOUN>]/Wg)
+
+# to ONE_S regret (PP->ADV) : WwAbQUzIfRAgGl
+
+# to my regret (PP->ADV) : WwAbQUzIfWsDb
+
+# under the reign of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) \lWZ| ^b<NOUN>]/Wg)
+
+# in the reign of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) \lWZ| ^b<NOUN>]/Wg)
+
+# in rejoinder (PP->ADV) : GcGbRWzIl
+
+# in relation to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/Wf)
+
+# with relation to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/Wf)
+
+# to his relief | (PP->ADV) : AzAb WbDU|Q^bAgGl
+
+# to her relief | (PP->ADV) : AzDjAb WbDU|Q^bAgGl
+
+# to my relief | (PP->ADV) : DcAb WbDU|Q^bAgGl
+
+# to your relief | (PP->ADV) : GbWU|DW| WbDU|Q^bAgGl
+
+# with relish (PP->ADV) : QbUW|VAg
+
+# with reluctane (PP->ADV) : QbX|QlU^c
+
+# without reluctance (PP->ADV) : A|BfW|
+
+# in remembrance of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) A|DjQ<NOUN>]/WzIl)
+
+# without remorse (PP->ADV) : AbZbWfRUW|
+
+# in remorse for A (PP->ADV) : [(OBJ A/WzI) ^s^l|^b<VERB>]/^bWj)
+
+# at many removes from A (PP->ADV) : (ADJUNCT [(ADJUNCT A/WgUf) (MODS [QfII|<ADV>]) HfIWfX|<VERB>]/^bWj)
+
+# beyond repair (PP->ADJ) : UsUfDW| RsIAbDzW^bI XfWGlWz|
+
+# in good repair (PP->ADJ) : [UlDX|IW| XbIGl|<VERB>]/Gb{-PRES, +PAST}
+
+# in repair (PP->ADJ) : [UlDX|IW| XbIGl|<VERB>]/Gb{-PRES, +PAST}
+
+# in bad repair (PP->ADJ) : [UlDX|IW| WbDGl|<VERB>]/Gb{-PRES, +PAST}
+
+# in repair (PP->ADJ) : [UlDX|IW| XbIGl|<VERB>]/Gb{-PRES, +PAST}
+
+# out_of repair (PP->ADJ) : [UlDX|IW| WbDGl|<VERB>]/Gb{-PRES, +PAST}
+
+# under repair (PP->ADV) : UsI|XsW
+
+# under repairs (PP->ADV) : UsI|XsW
+
+# to repletion (PP->ADV) : AbGzA^|
+
+# in reply (PP->ADV) : GcGbRWzIl
+
+# through good and evil report (PP->ADV) : ]jW]bDW| Xl^GzD DbSzGzDAbDWg
+
+# in reproof of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) R|DbD^b<VERB>]/^bWj)
+
+# by repute (PP->ADV) : Ug]jWWzIl
+
+# ^through good and ill repute (PP->ADV) : Ug]jWWzI AcWz|Z| WbD^Al
+
+# at a person's request (PP->ADV) : DbQWz| Rs\bAWzIl
+
+# at the request of a person (PP->ADV) : DbQWz| Rs\bAWzIl
+
+# by request (PP->ADV) : ZfWWg Wz|^bWj
+
+# in requital of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RlGbR<NOUN>]/WzIl)
+
+# in requital for A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RlGbR<NOUN>]/WzIl)
+
+# off the reservation (PP->ADV) : A|DXbWWgUf ^cRbWGl|Wf
+
+# with reservation (PP->ADV) : XlAfDRsIl
+
+# without reservation (PP->ADV) : UsQA|QWfRUW|
+
+# in reserve (PP->ADV) : DbQAjGsD
+
+# with reserve (PP->ADV) : XlAfDRsIl
+
+# without reserve (PP->ADV) : UsQA|QWfRUW|
+
+# in residence (PP->ADV) : A|UsA^bWj
+
+# for the residue (PP->ADV) : Az RbBWz| AfUWg Gc^cUfDzD
+
+# in the last resort (PP->ADV) : Zl|^sWz| UsGbDWzIl
+
+# without resort to A (PP->ADV): (ADJUNCT [(ADJUNCT A/Wg) Wz|X|^bX| WbD^<VERB>]/^bAl)
+
+# at the end of ONE_S  resources (PP->ADV) : WlDAbX UsGbDW| ^fUGl|Wf
+
+# in all respects (PP->ADV) : QlGzD XfQWgUf
+
+# in many respects (PP->ADV) : QbD^WzD XfQWgUf
+
+# in one respect | (PP->ADV) : WfHfD XfQWgUf
+
+# in some respects (PP->ADV) : WfHfD XfQWgUf
+
+# in every respect (PP->ADV) : QlGzD XfQWgUf
+
+# in respect of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<ADJ>]/WfUf)
+
+# in respect to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<ADJ>]/WfUf)
+
+# in respect THAT_CLAUSE (PP->ADV) : (ADJUNCT [(OBJ THAT_CLAUSE/^bGbDzD) AfU<NOUN>]/WzI) UcWAbA^b<VERB>]/^bQjD)
+
+# in this respect (PP->ADV) : W| XfQWgUf
+
+# in that respect (PP->ADV) : Az XfQWgUf
+
+# with all respect for your opinion (PP->ADV): X|GbW^bD QbIVzQW|WlDb
+
+# with respect to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<ADJ>]/WfUf)
+
+# without respect to A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) AlIj^bX| WbD^<VERB>]/^bAl)
+
+# in response to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) WzWGbR^b<VERB>]/^bWj)
+
+# among the rest (PP->ADV) : Az UlAWg B|Wf
+
+# at rest (PP->ADV) : ^wU|A^bWj
+
+# for the rest of A (PP->ADV) :
+
+# without restraint (PP->ADV) : XbWwIlW|
+
+# as a result (PP->ADV) : AjIAlbXfAWzIl
+
+# as the result (PP->ADV) : AjIAlbXfAWzIl
+
+# as a result of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjIAlb<NOUN>]/Il)
+
+# as the result of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjIAlb<NOUN>]/IlUf)
+
+# in result (PP->ADV) : AjIAlbXfAWzIl
+
+# in the result (PP->ADV) : AjIAsA
+
+# without result (PP->ADV) : ^fUGl|W|
+
+# at retard (PP->ADV) : DzXWfXjUf
+
+# in retard (PP->ADV) : DzXWfUf
+
+# beyond retrieval (PP->ADV) : GlIW|[|I Us WfRUDzD
+
+# past retrieval (PP->ADV) : GlIW|[|I Us WfRUDzD
+
+# beyond retrieve (PP->ADV) : ^l|RlAWz| AbQbWW| WfRUDzD
+
+# in retrospect (PP->ADV) : GlIW|[j RlAfDGc
+
+# by return | (PP->ADV) : X|AzR ^l|U|DWzIl
+
+# || in return (PP->ADV) : Az GcU|DWg
+
+# in return | (PP->ADV) : GbRIkIl
+
+# in return for A (PP->ADV) : (ADJUNCT [(AMODS [(COMP A/Wg) Gc^b<VERB>]/^bD) GcUAb<NOUN>]/Il)
+
+# in return to A (PP->ADV) : (ADJUNCT [(AMODS [(COMP A/Wg) Gc^b<VERB>]/^bD) GcUAb<NOUN>]/Il)
+
+# without return (PP->ADV) : W|W|A WfRUW|
+
+# in revenge for A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RlRlA<NOUN>]/WzIl)
+
+# in revenge of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RlRlA<NOUN>]/WzIl)
+
+# in reverse (PP->ADV) : ^sQ|Wg
+
+# on the reverse (PP->ADV) : WjA^cW^bWj
+
+# beyond revoke (PP->ADV) : Zs|Ul^bI Us WfRUDzD
+
+# in revolt (PP->ADV) : RbD^bW^bWj
+
+# in reward for A (PP->ADV) : (ADJUNCT [(AMODS [(COMP A/Wg) Gc^b<VERB>]/^bD) UbW<NOUN>]/WzIl)
+
+# without rhyme or reason (PP->ADV) : BbGbIA QlIzI
+
+# at right angles with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) X|AAbA<NOUN>]/WzIl)
+
+# at the right of A (PP->ADV) : [(ADJUNCT A/Wz|) WlIzDYlAWg<ADV>]
+
+# on the right (PP->ADV) : WlIzDYlAWg
+
+#' to the right (PP->ADV) : WlIzDYlAWzIl
+
+# without rime or reason (PP->ADV) : BbGbIA QlIzI
+
+# at rise of sun (PP->ADV) : ^cGlGW|Wg
+
+# at rise of day (PP->ADV) : ^cGlGW|Wg
+
+# at ONE_S own risk (PP->ADV) : XbA|Ab ZcAW|QX|Al
+
+# at ONE_S risk (PP->ADV) : Ws|^fQWzI QsIzRVzAl
+
+# at all risks (PP->ADV) : WfHfD Ws|^fQWzI QsIzRVzAlIbGl
+
+# at any risk (PP->ADV) : WfHfD Ws|^fQWzI QsIzRVzAlIbGl
+
+# at the risk of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) Ws|^fQ<NOUN>]/WzI) 
+
+# at the risk of ONE_S life (PP->ADV) : QlAUsQWzI AfIAl
+
+# at the risk of PRESP (PP->ADV) : (ADJUNCT [(ADJUNCT [(RELCL PRESP/^bDzD) Ws|^fQ<NOUN>]/WgGl) RsIAs^b<VERB>]/^bAl)
+
+# at whatever risk (PP->ADV) : WfHfD Ws|^fQWzI QsIzRVzAlIbGl
+
+# without a rival (PP->ADV) : QsXfAWzIl
+
+# for the road (PP->ADV) : XbARjIWz| ]rXfAWzIl
+
+# on the road to recovery (PP->ADV) : ^l|RlAWz| GlXsWWg
+
+# on the road to success (PP->ADV) : UfWAlWWz| GlXsWWg
+
+# by the roadside (PP->ADV) : A|IAbWg
+
+# on the roadside (PP->ADV) : A|IAbWg
+
+# at the roadside (PP->ADV) : A|IAbWg
+
+# in a roar (PP->ADV) : WlbAXb^bAg
+
+# off ONE_S  rocker (PP->ADV) : Q|ZjUf
+
+# by the Rood (PP->ADV) : U|RXbAbWg QcWUg[l
+
+# by the holy Rood (PP->ADV) : U|RXbAbWg QcWUg[l
+
+# at root (PP->ADV) : AzDRlDWg W|VWf
+
+# by the root (PP->ADV) : SsI|Yc
+
+# on the rope (PP->ADV) : UfIl RbUXsIWzI QlQWg QcAl
+
+# on the ropes (PP->ADV) : XsIWzI Rs\XbRAl
+
+# in the high ropes (PP->ADV) : WzUzGcDzD
+
+# in rotation (PP->ADV) : ZbIkIl
+
+# by rotation (PP->ADV) : ZbIkIl
+
+# by rote (PP->ADV) : A|AkXfAWzIl
+
+# over rough and smooth $ (PP->ADV) : GlZfWg
+
+# at rovers (PP->ADV) : ^bQRsIl WbQsIf^AgDb
+
+# at the end of ONE_S  row (PP->ADV) : AsWX|Wg QlIIj
+
+# in a row (PP->ADV) : ^bDXsIIl
+
+# in row $ (PP->ADV) : WjDUlA^bWj
+
+# in rows (PP->ADV) : XsIX|Wf
+
+# in the front row (PP->ADV) : QcDWb]XsIWg
+
+# as a rule (PP->ADV) : GcZgIl
+
+# ^be under the rule of A (VERB->ADJ) : [(ADJUNCT [(POSS A/Wz|) X|Rc^b<VERB>]/Wg) W|V<ADJ>]/Gb
+
+# by rule (PP->ADV) : AwXfWGcIl
+
+# under the rule of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) X|Rc^b<NOUN>]/Wg)
+
+# in the long run (PP->ADV) : AjIAsA
+
+# out_of the running (PP->ADV) : AjWXsWg ZbQAb^bX| WbD^DzD
+
+# with a rush (PP->ADV) : GlIAjA^bWj
+
+# on Sundays (PP->ADV) : W|IWrW|IQbGb
+
+# in sackcloth and ashes (PP->ADV) : UzI]zQWg XbQAj A|]W| Ds|WsZj
+
+# at the sacrifice of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ^z|UcWWzIl ^b<VERB>]/^bWj)
+
+# in the saddle (PP->ADV) : QbIWzI \bAl
+
+# to ONE_S sadness (PP->ADV) : UzI]zAgGl
+
+# in safe (PP->ADV) : WbDXfD \lW^cWAsfDWzI AbX|Al
+
+# with safe (PP->ADV) : WbDXfD \lW^cWAsfDWzI AbX|Al
+
+# under safe (PP->ADV) : WbDXfD \lW^cWAsfDWzI AbX|Al
+
+# upon safe (PP->ADV) : WbDXfD \lW^cWAsfDWzI AbX|Al
+
+# in safety (PP->ADV) : QsUb^bAg
+
+# with safety (PP->ADV) : QsUb^|
+
+# in full sail (PP->ADV) : GlZWzI XfDRs WlII|Al
+
+# in sail (PP->ADV) : GlZWzI WlII|Al
+
+# under sail  (PP->ADV) : GlZWzI WlII|Al
+
+# for God's sake (PP->ADV) : XgRbI
+
+# for the ONE_S sake (PP->ADV) : (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+
+# for ONE_S sake (PP->ADV) :  (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+
+# for ONE_S own sake (PP->ADV) : (ADJUNCT [(COMP [(NMODS ONE) XbU|D<NOUN>]/WzI) Ws|^b<VERB>]/^bWj)
+
+# for all our sake (PP->ADV) : QlGsIzI Ws|^bWj
+
+# for any sake (PP->ADV) : ^bWj\zD
+
+# for both our sake (PP->ADV) : ]|ZbIzI Ws|^bWj
+
+# for brevity's sake (PP->ADV) : AbDAjIWzI Ws|^bWj
+
+# for charity's sake (PP->ADV) : XbUfDWzI Ws|^bWj
+
+# for convenience' sake (PP->ADV) : ]jDWz|UbW
+
+# for heaven's sake (PP->ADV) : XgRbI
+
+# for goodness's mercy's pity's sake (PP->ADV) : XgRbI
+
+# for old sake (PP->ADV) : WkUXfWWzI UcWAbA^cUf
+
+# for shortness's sake (PP->ADV) : AbDAjIWzI Ws|^bWj
+
+# for the sake of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+
+# ^be on sale | (VERB->ADJ) : ]bDQcXsWW|Gb
+
+# ^be on sale for A {-ANIMAL} (VERB->ADJ) : [(ADJUNCT A/Il) ]bDQcXsWW|<VERB>]/Gb
+
+# with a grain of salt (PP->ADV) : AbAbQ^bWj
+
+# with a pinch of salt (PP->ADV) : WgDsI|^bWj
+
+# ^be the same as A (VERB->ADJ) : [(ADJUNCT A/Wlb) Ab\<ADJ>]/Gb
+
+# ^be the same as PRESP (VERB->ADJ) : [(ADJUNCT [(RELCL PRESP/^bDzD) AfU<NOUN>]/Alb) Ab\<ADJ>]/Gb
+
+# ^be the same in A (VERB->ADJ) : [(ADJUNCT A/WgUf) Ab\<ADJ>]/Gb
+
+# in sarcasm (PP->ADV) : R|BlWbUf
+
+# to satiety (PP->ADV) : U|I^XzWDbI QbD[zQ
+
+# in satisfaction of (PP->ADV) : RcUbWWzIl
+
+# to ONE_S  satisfaction (PP->ADV) : QbDXlA^bI QbD[zQ
+
+# to entire satisfaction (PP->ADV) : QbDXlA^bI QbD[zQ
+
+# to the satisfaction of A (PP->ADV) : (ADJUNCT [(SUBJ A/W|) QbDXlA^b<VERB>]/^bGlIlA)
+
+# out for scalps (PP->ADV) : GlXfDXfAWzIl
+
+# without scathe (PP->ADV) : ]|^cIzI W|RX|WbD^Al
+
+# on the scene (PP->ADV) : ^jDXbWWgUf
+
+# according to schedule (PP->ADV) : WkXfWGcIl
+
+# ahead of schedule (PP->ADV) : WkXfWRlGb W|IY|A
+
+# behind schedule (PP->ADV) : WkXfWRlGb DzXAg
+
+# on schedule (PP->ADV) : WkXfWGcIl
+
+# at one scoop (PP->ADV) : ^bDRfDWg
+
+# beyond ONE_S  scope (PP->ADV) : XbA| DzWIjAW| Q|Z|X| WbD^DzD AlUWgUf
+
+# within ONE_S  scope (PP->ADV) : XbA| DzWIjAW| Q|Z|X| Q|Z|DzD AlUWgUf
+
+# within the scope of A (PP->ADV) : (ADJUNCT [(NMODS [(POSS A/Wz|) RfQWs|<NOUN>])
+
+# on the score of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+
+# by a scratch of the pen (PP->ADV) : W|I]|IIl
+
+# from scratch (PP->ADV) : ZsIRbIXfQWzIl Rs\f
+
+# at scratch (PP->ADV) : ZsIRbIXfQWzIl Rs\f
+
+# on scratch (PP->ADV) : ZsIRbIXfQWzIl Rs\f
+
+# under the screen of night (PP->ADV) : WfGsQWzI \bAl
+
+# under the scrutiny of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) (AMODS [WfQ^b<ADJ>]/^bD) AbQU|<NOUN>]/IzI) RbG<VERB>]/^bAl)
+
+# in a sea way (PP->ADV) : AjAIbWWg U|GbII|Wf
+
+# under seal of silence (PP->ADV) : Z|QQsAWz| ^lbAWdAWbIc
+
+# in ONE_S search for/of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZbX<VERB>]/^bWjUf)
+
+# in search for/of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZbX<VERB>]/^bWjUf)
+
+# at all seasons (PP->ADV) : W|IDjD DcDc
+
+# in good season (PP->ADV) : HcQbZ|Q
+
+# in a few second (PP->ADV) : QjZZlQbDWg
+
+# || in a second | (PP->ADV) : UsDU|AAbDWg
+
+# in a second | (PP->ADV) : UsDU|AAbDWg
+
+# in a single second (PP->ADV) : GbD W|IZlQbDWg
+
+# in seconds | (PP->ADV) : QjZZlDcIl
+
+# in secret $ (PP->ADV) : R|Q|IIl
+
+# in security (PP->ADV) : QsUb^|
+
+# in seed (PP->ADV) : V|Ab Gl|Wf
+
+# beside ONE_S self (PP->ADV) : XfWU|DW| DbAb 
+
+# in semblance (PP->ADV) : Af\RlA|DzD
+
+# to the semblance of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Alb) R|UzU^b<ADJ>]/^bAg)
+
+# in a sense (PP->ADV) : WfHfD Wz|Q|IlDzD
+
+# in all senses (PP->ADV) : WfHfD XfQWgUfGzD
+
+# in every senses (PP->ADV) : QlGzD Wz|Q|WgUf
+
+# in no sense (PP->ADV) : AjI[l WbD|D
+
+# ^make ADJ sense | (VERB->ADJ) : [W|Z|Wg QbX<VERB>]/Gb 
+
+# ^make sense to A {+HUMAN} (VERB->ADJ) : [(OBJ2 A/WgAg) W|Z|Wg QbX<VERB>]/Gb 
+
+# ^make sense $ (VERB->ADJ) : [W|Z|Wg QbX<VERB>]/Gb 
+
+# to common sense (PP->ADV) : UbWU|AWg QbXAg
+
+# on September NUM1 , NUM2 (PP->ADV) : (ADJUNCT [(NMODS [(NMODS NUM2) DjD<NOUN>]) (NMODS [9 WsfI<NOUN>]) (NMODS NUM1) W|I<NOUN>]/Wg)
+
+# in the sequel (PP->ADV) : AjIAsA
+
+# in sequence (PP->ADV) : UsDUfGcIl
+
+# in series (PP->ADV) : WjDUlA^bWj
+
+# in all seriousness (PP->ADV) : X|DX|^bAg
+
+# at sermon (PP->ADV) : Ar^l|Wg AbUf
+
+# for the service done $ (PP->ADV) : UsAl^c XsDAfUWg Gc^c
+
+# in full session (PP->ADV) : ZlW^l|WgUf
+
+# at the first setout (PP->ADV) : U|ZlWg
+
+# without distinction of age or sex (PP->ADV) : DbQDjDlUlIzI RsIQsD^bAl
+
+# under the cool shade of a tree (PP->ADV) : U|WsfD^bD DbQs AzDzIWgUf
+
+# in shadow (PP->ADV) : AzI|QXb XjUf
+
+# within the shadow of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) (NMODS [RbIl<NOUN>])
+
+# under the shadow of the Almighty (PP->ADV) : U|DWz| Ab^l WbIc
+
+# without shame (ADJ PP->ADV) :  1) [RsBzIfWsD XsI QlIz<VERB>]/Gb
+			    2) RsBzIfWsD XsI QlIzAl
+
+# to the shame of A (PP->ADV) : (ADJUNCT [(OBJ2 A/WgAg) QbWU|DGl|<VERB>]/^bAg)
+
+# in shame (PP->ADV) : RsBzIfWsfUf
+
+# in the shank of the evening (PP->ADV) : HbWAfQ|X|I QsIjRWg
+
+# ^be in the shape of A (VERB->ADJ) : [(MODS [(POSS A/Wz|) ^jW\c<NOUN>]/Il) W|V<ADJ>]/Gb
+
+# in the shape of A (ADV ADJ) : 1) (ADJUNCT [(NMODS A/Wz|) ^jW\cIl<ADV>]) 
+			         2) [(NMODS A/Wz|) ^jW\cW|<ADJ>]/Gb
+
+# in shatters (PP->ADV) : UbDUbDXlAbAW| DbUf
+
+# in sheets (PP->ADV) : X|\Ag
+
+# sheet after sheet (PP->ADV NOUN) : 1) ^bDXbW ^bDXbWV|A 
+				     2) ^bDXbW ^bDXbW
+
+# on shipboard (PP->ADV) : Rc WbDWg
+
+# forward shipment (PP->ADJ) : UfDXfAWz|
+
+# in shivers (PP->ADV) : UbDUbDXlAbAW| DbUf
+
+# with ONE_S shoes off (PP->ADV) : (ADJUNCT [(OBJ [(POSS ONE/Wz|) U|D<NOUN>]/WzI) RfU<VERB>]/^bAl)
+
+# on a shoestring (PP->ADV) : XfAWzD XbRlDWzIl
+
+# in shore (PP->ADV) : QsIAbWg
+
+# off shore (PP->ADV) : ^cWbDWzI HfDb
+
+# on shore (PP->ADV) : WwAX|Wg
+
+# out_of shot (PP->ADV) : UbXfWAsfD RbBWg
+
+# within shot (PP->ADV) : UbXfWAsfD W|DcWg
+
+# by show of hands (PP->ADV) : AfUsIl
+
+# for show (PP->ADV) : XbIbWWzIl
+
+# in dumb show (PP->ADV) : UlDX|UWzIl
+
+# in show (PP->ADV) : Af\RlA|WgDzD
+
+# on show (PP->ADV) : X|DWjIGl|Wf
+
+# with a shrug of shoulders (PP->ADV) : WfBcIzI WsQZzIj
+
+# by ONE_S side $ (PP->ADV) : Aj\Wg
+
+# by ONE_S  side A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Aj\<NOUN>]/Wg)
+
+# by its side A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Aj\<NOUN>]/Wg)
+
+# by the side of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) Aj\<NOUN>]/Wg)
+
+# from all sides (PP->ADV) : AbA RjWQjDWgUf
+
+# from every side (PP->ADV) : AbA RjWQjDWgUf
+
+# from side to side (PP->ADV) : XlbWsIl
+
+# on all sides  (PP->ADV): UbQjD]bIRbWWg
+
+# on my father's side (PP->ADV) : WbRfX| YlAWzIl
+
+# on my mother's side (PP->ADV) : WfQfD| YlAWzIl
+
+# on the side  (PP->ADV): WjRsDWzIl
+
+# on the side of A {+HUMAN} (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) ]jDGzI<VERB>]/^bWj)
+
+# on the maternal side (PP->ADV) : WfQfD| YlAWzIl
+
+# on the mountain side (PP->ADV) : UbD^fI|Wg
+
+# on the paternal side (PP->ADV) : WbRfX| YlAWzIl
+
+# on this side (PP->ADV) : W| YlAWg
+
+# with a sigh $ (PP->ADV) : ^bDUsQWzI Us|QjDUf
+
+# at first sight (PP->ADV) : ZfUDsDWg
+
+# at sight (PP->ADV) : RlXbQbXb
+
+# at sight of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) Rl<VERB>]/^bXb)
+
+# at the first sight (PP->ADV) : ZfUDsDWg
+
+# at the sight of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) Rl<VERB>]/^bXb)
+
+# in a ONE_S sight (PP->ADV) : (ADJUNCT [(NMODS [(POSS ONE/Wz|) DsD<NOUN>]) Wb]<NOUN>]/WgUf)
+
+# in a person's sight (PP->ADV) : DbQWz| DsD Wb]WgUf
+
+# in sight (PP->ADV) : U|WdWg 
+
+# in sight of A (PP->ADV) : (ADJUNCT [(RELCL [(SUBJ A/Ab) RlW|<VERB>]/^bDzD) AlU<NOUN>]/Wg)
+
+# on sight (PP->ADV) : RlXbQbXb
+
+# out_of sight (ADV ADJ) : 1) RlW|X| WbD^DzD AlUWg 
+2) RlW|X| WbD^Gb
+
+# within sight (PP->ADV) : RlW|DzD AlUWg
+
+# at the sign of A (PP->ADV) : (ADJUNCT [(POSS [(AMODS A/IbDzD) AbD]bD<NOUN>]/Wz|)
+
+# in sign (PP->ADV) : ]rXfAWzIlUf
+
+# in sign of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]rXfA<NOUN>]/WzIlUf)
+
+# in sign that A (PP->ADV) : (ADJUNCT [(AMODS A/IbDzD) ]rXfA<NOUN>]/WzIlUf)
+
+# in silence (PP->ADV) : XlWrW^|
+
+# in silhouette (PP->ADV) : U|IIsWgUWzIl
+
+# at a simmer (PP->ADV) : RsAzIRsAzI BzI^A| U|XbA^bWj
+
+# on the simmer (PP->ADV) : RsAzIRsAzI BzI^A| U|XbA^bWj
+
+# like sin (PP->ADV) : XfWUcA^bWj
+
+# at a sitting (PP->ADV) : ^bDRfDWg
+
+# at one sitting (PP->ADV) : ^bDRfDWg
+
+# in the situation you are in $ (PP->ADV) : GbWU|DWz| W|RXbWWgUf
+
+# by the skin of ONE_S teeth (PP->ADV) : AbBbUzIl
+
+# with the skin of ONE_S  teeth (PP->ADV) : AbBbUzIl
+
+# in a whole skin (PP->ADV) : QsUb^|
+
+# with a whole skin (PP->ADV) : QsUb^|
+
+# under the skin (PP->ADV) : ^bD Bf]sI RfUA|QjD
+
+# under the open sky (PP->ADV) : WdWl|WgUf
+
+# with a slam (PP->ADV) : ZfIVfA^bAl
+
+# on the slant (PP->ADV) : AjWUbXjUf
+
+# in ONE_S sleep (PP->ADV ADJ) : 1) XbQjDUf 
+2) [XbAl W|V<VERB>]/Gb
+
+# in short sleeve $ (PP->ADV) : YbIRWzD UlQcIzI W|RAl
+
+# with a smile (PP->ADV) : WsUDzD DbZWzIl
+
+# at a snail's gallop (PP->ADV) : DzI|UDzI|U
+
+# at ONE_S  snail's gallop (PP->ADV) : DzI|UDzI|U
+
+# many snows ago (PP->ADV) : WjIf ^c XfDWg
+
+# it looks like snow (SENT->ADJ) : DsDW| WlI AfU Ab\Gb
+
+# it looks like much snow (SENT->ADJ) : DsDW| QbD^W| WlI AfU Ab\Gb
+
+# up to snuff (PP->ADV) : R|D\zQWfRUDzD
+
+# under the sod (PP->ADV) : HbWWg QsG^|Wf
+
+# in solitude (PP->ADV) : ^lDXbUf
+
+# somewhere else (NOUN ADV) : 1) WfG|DAb GbIzDAlU
+                              2) WfG|DAb GbIzDAlUWg
+
+# for sooth (PP->ADV) : ZbQWzIl
+
+# in sooth (PP->ADV) : UbU|I
+
+# || to ONE_S sorrow (PP->ADV) : 
+
+# in some sort (PP->ADV) : WfDzXfWGl
+
+# for the soul of me (PP->ADV) : WbQsI| ^cGl
+
+# to save my soul (PP->ADV) : WbQsI| ^cGl
+
+# in my soul of souls (PP->ADV) : QbWzQUlA A|]W|
+
+# upon my soul (PP->ADV) : QcWUg[l
+
+# on my soul (PP->ADV) : QcWUg[l
+
+# pon my soul (PP->ADV) : QcWUg[l
+
+# by my soul (PP->ADV) : QcWUg[l
+
+# with ONE_S  heart and soul (PP->ADV) : U|Q^jIWzI A|WsIWjUf
+
+# within sound of A (PP->ADV) : (ADJUNCT [(RELCL [(SUBJ A/W|) GzII|<VERB>]/^bDzD) AlU<NOUN>]/Wg)
+
+# in soundings (PP->ADV) : ZzAWjDW| Gb^DzD AlUWg
+
+# off soundings (PP->ADV) : ZzAWjDW| Gb^X| WbD^DzD AlUWg
+
+# on soundings (PP->ADV) : ZzAWjDW| Gb^DzD AlUWg
+
+# out_of soundings (PP->ADV) : ZzAWjDW| Gb^X| WbD^DzD AlUWg
+
+# in the soup (PP->ADV) : DbDZf^bD
+
+# for a space (PP->ADV) : XbQU| GlWWbD
+
+# in spades (PP->ADV) : GbDWjD[l
+
+# on speculation (PP->ADV) : \sA|Il
+
+# at full speed (PP->ADV) : XfDUlAIjAWzIl
+
+# at top speed (PP->ADV) : XfDUlAIjAWzIl
+
+# with all speed (PP->ADV) : ^lbWAzR^|
+
+# out_of spite (PP->ADV) : ^lb]sIW|Il
+
+# in spite of A (PP->ADV) : (ADJUNCT [(COMP A/WgGl) RsIAs^b<VERB>]/Al)
+
+# in spite of ONESELF  (PP->ADV) : XfGl QlIzAg
+
+# with a splash (PP->ADV) : \fQRfW^bAl
+
+# in splendour (PP->ADV) : ZbDIbD^bAg ^lbIj^bAg
+
+# in splendour (PP->ADV) : ZbDIbD^bAg ^lbIj^bAg
+
+# in a spot (PP->ADV) : AlDAjWWg SbXj
+
+# in spots (PP->ADV) : HcHcIl
+
+# on the spot (PP->ADV) : XzAUfAWgUf
+
+# upon the spot (PP->ADV) : XzAUfAWgUf
+
+# up the spout (PP->ADV) : XfGbWXbR^j
+
+# in spring (PP->ADV) : RlQWg
+
+# next spring (NOUN ADV) : 1) GbWzQ RlQ 
+			   2) GbWzQ RlQWg
+
+# with a spring (PP->ADV) : ^sGbGbA
+
+# on the spur (PP->ADV) : RbAZbIzI Ab^bWj
+
+# upon the spur (PP->ADV) : RbAZbIzI Ab^bWj
+
+# on the spur of the moment (PP->ADV) : AbRXbA|
+
+# upon the spur of the moment (PP->ADV) : AbRXbA|
+
+# with whip and spur (PP->ADV) : AlG
+
+# with spur and yard (PP->ADV) : AlG
+
+# by the square (PP->ADV) : XfWQ|I^bAg
+
+# on the square (PP->ADV) : BlQBlQ^bAg
+
+# at a squeeze (PP->ADV) : Ws|A|Wg W|Q^bWj
+
+# upon a squeeze (PP->ADV) : Ws|A|Wg W|Q^bWj
+
+# ^be on the staff (VERB->ADJ) : Uz\cRW|Gb
+
+# at an early stage (PP->ADV) : ZlA|Wg
+
+# in stages $ (PP->ADV) : GbDAkXfAWzIl
+
+# stage by stage (PP->ADV) : GbDAkXfAWzIl
+
+# below stairs (PP->ADV) : X|^bU|IWgUf
+
+# up stairs (PP->ADV) : Ws|ZzWWgUf
+
+# up to the standard (PP->ADV) : ]rXsDWg GbI^bWj
+
+# from an educational standpoint (PP->ADV) : ArWwAXfAW|D AlbDXfQWgUf
+
+# at the start (PP->ADV) : U|ZlWgDzD
+
+# from start to finish (PP->ADV) : U|XlWW|IAlbD
+
+# as a starter (PP->ADV) : AcU|Il
+
+# for starters (PP->ADV) : AcU|Il
+
+# for a starter (PP->ADV) : AcU|Il
+
+# at startup (PP->ADV) : U|XbA^bI Hc
+
+# in easy state (PP->ADV) : ^fQsIWfRUDzD \cGlIl
+
+# in great state (PP->ADV) : Ws|WfQ W|VDzD \cGlIl
+
+# in quite a state (PP->ADV) : WbXs ^zWRsD^bWj
+
+# in a person's stead (PP->ADV) : DbQWz| GcU|DWzIl
+
+# in stead of A (PP->ADV) : (ADJUNCT [(NMODS A) GcU|D<NOUN>]/Wg)
+
+# in the stead of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) GcU|D<NOUN>]/Wg)
+
+# by stealth (PP->ADV) : QlIIc
+
+# at full steam (PP->ADV) : XfDUlAIjAWzIl
+
+# by steam (PP->ADV) : A|UfDWzIl
+
+# under steam (PP->ADV) : XzWA|Wz| ^|QWzIl
+
+# from stem to stern (PP->ADV) : W|QsIWgUf AlQsIBbX|
+
+# a step further (PP->ADV) : XlQ Gf
+
+# in step (PP->ADV) : RlXlIzI QbXZsWf
+
+# out_of step (PP->ADV) : RlXlIzI ^z\HzIj
+
+# down by the stern (PP->ADV) : AlQsIW| DcIjAbUf
+
+# stern formost (PP->ADV) : AlQsIWzI Wb]WzIl
+
+# stern on (PP->ADV) : AlQsIWzI GlII|Al
+
+# in a stew (PP->ADV) : XlRbU|Q^bWj
+
+# in a stick (PP->ADV) : AlDAjWWg SbXjUf
+
+# on stilts (PP->ADV) : GcQbIWzI \bAl
+
+# like stink (PP->ADV) : Al|WXbW^bD UlAIjAWzIl
+
+# without stint (PP->ADV) : QsXg^bDWzIl
+
+# with no stint (PP->ADV) : QsXg^bDWzIl
+
+# on a full stomach (PP->ADV) : RcRsIzI HcWg
+
+# on a an empty stomach (PP->ADV) : RcAl]zI HcWg
+
+# without a stop (PP->ADV) : AkUlA
+
+# on the straight (PP->ADV) : HlARbIl
+
+# at full strain (PP->ADV) : A|DXbW^bWj
+
+# on the strain (PP->ADV) : A|DXbW^bWj
+
+# under the strain (PP->ADV) : A|DXbW^bWj
+
+# as a last straw (PP->ADV) : W|UHbIzD RsI^cW Bz\Wg
+
+# out_of straw (PP->ADV) : ^cUbD^bAl
+
+# like a streak (PP->ADV) : RfDAcZfIfQ
+
+# in a stream (PP->ADV) : WjDGbIWb
+
+# in a streams (PP->ADV) : WjDGbIWb
+
+# with the stream (PP->ADV) : ^zIzQWzI HbIb
+
+# up ONE_S  street (PP->ADV) : XbA|Wz| Zs|Q|Wg QbXWb
+
+# for a long stretch of time (PP->ADV) : XbWU|AbDWg AfIZjUf
+
+# on the stretch (PP->ADV) : A|DXbW^bWj
+
+# at a stretch (PP->ADV) : GbDUsQWg
+
+# on strike (PP->ADV) :]bWfRXsW
+
+# by the string rather than the bow (PP->ADV) : GbDGlX|AW|RXfAWzIl
+
+# at a stroke (PP->ADV) : W|IAfWg
+
+# in style | (PP->ADV) : QfUWzI RsI|DZcIl
+
+# under the style of A (PP->ADV) : (ADJUNCT [(NMODS A) Ww^jW<NOUN>]/WzIl)
+
+# in subjection to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) RlAXlW^b<VERB>]/^bWj)
+
+# in substance (PP->ADV) : U|IX|IXfAWzIlDzD
+
+# with good success (PP->ADV) : UfWAlWI|Wg
+
+# by succession (PP->ADV) : UgUzRWg Wz|^bWj
+
+# in succession to A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) AkUzW^b<VERB>]/^bWj)
+
+# in succession to A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) AkUzW^b<VERB>]/^bWj)
+
+# in the suds (PP->ADV) : DbDZf^bWj
+
+# on sufferance (PP->ADV) : QsAW|D WbIc
+
+# out_of suit (PP->ADV) : UbW|Ab \zIWfXjUf
+
+# in the suite of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) Us^cW^b<VERB>]/^bWj)
+
+# in the sulks (PP->ADV) : U|IYsA^bQj
+
+# in sum (PP->ADV) : Wr[fDGc
+
+# every summer (NOUN ADV) : 1) QcDjD WjIzQ 
+			    2) QcDjD WjIzQ
+
+# last summer (NOUN ADV) : 1) X|DbD WjIzQ 
+			   2) X|DbD WjIzQ
+
+# next summer (NOUN ADV) : 1) DcDjD WjIzQ 
+			   2) DcDjD WjIzQ
+
+# this summer (NOUN ADV) : 1) W|RfD WjIzQ 
+			   2) W|RfD WjIzQ
+
+# against the sun (PP->ADV) : WlIzDYlAWgUf Wl|DYlAWzIl
+
+# from sun to sun (PP->ADV) : ^cAb HfUf X|I HcBbX|
+
+# in the sun (PP->ADV) : WdWX|YlAWg
+
+# every Sunday (ADV NOUN) : 1) QcXs W|IWrW|IQbGb 
+			    2) QcXs W|IWrW|I
+
+# on Sunday last (PP->ADV) : X|DbD Xs W|IWrW|I
+
+# on Sunday next (PP->ADV) : GbWzQ Xs W|IWrW|I
+
+# in sunder (PP->ADV) : HbIlHbIl
+
+# at sunrise $ (PP->ADV) : ^cHzIHc
+
+# at sunset (PP->ADV) : ^cAb X|IHc 
+
+# under the superintendence of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbQGlA^b<NOUN>]/Wg)
+
+# in suppliance for A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) \bDWsfD^b<VERB>]/^bWj)
+
+# in short supply (PP->ADV) : RsXlA^bWj
+
+# on the supposition THAT_CLAUSE (PP->ADV) : (ADJUNCT [(SCOMP THAT_CLAUSE/^bGbAl) AbXfW^b<VERB>]/^bAl)
+
+# of a surety (PP->ADV) : ^lbAU|I^|
+
+# for a surety (PP->ADV) : ^lbAU|I^|
+
+# by surprise (PP->ADV) : RsIU|Wg
+
+# in surprise | (PP->ADV) : DlIIbUf
+
+# to ONE_S surprise (PP->ADV) : DlIIbRAgGl 
+
+# to everyone's surprise (PP->ADV) : QlGsAb DlIIbRAgGl
+
+# under surveillance (PP->ADV) : AbQUb^bWg
+
+# under suspicion (PP->ADV) : ^jQWz|IzI RbGAl
+
+# under the sway of A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) X|RcGl|<VERB>]/^bWj)
+
+# in a sweat (PP->ADV) : HbQWg XfXWf
+
+# within the sweep of the eye (PP->ADV) : U|WdWz| RfQWs| WbDWg
+
+# beyond the sweep of the eye (PP->ADV) : U|WdWz| RfQWs| RbBWg
+
+# at one sweep (PP->ADV) : W|IAfWg
+
+# with a swoop (PP->ADV) : W|IAjAWzIl
+
+# at one fell swoop (PP->ADV) : GbDRfDWg
+
+# at a single swoop (PP->ADV) : GbDRfDWg
+
+# at the point of the sword (PP->ADV) : QsIjAWzIl
+
+# in sympathy with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) GlWXfW^b<VERB>]/^bWj)
+
+# out_of sympathy with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) GlWXl^bX| WbD^<VERB>]/^bAl)
+
+# in tabloid form (PP->ADV) : WrWdAGl|Wf
+
+# at the tail of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) QcD BlWQsD|<NOUN>]/Wg)
+
+# with the tail of the eye (PP->ADV) : Aj\DsDX|IIl
+
+# out_of the tail of the eye (PP->ADV) : Aj\DsDX|IIl
+
+# with the tail between the legs (PP->ADV) : AfRW| DbUf
+
+# with ONE_S tail between the legs (PP->ADV) : AfRW| DbUf
+
+# by the tally (PP->ADV) : ^bD GbRbIWg WfIQbIl
+
+# in a tangle (PP->ADV) : Gs|WfIA^|Wf
+
+# to ONE_S taste (PP->ADV) : QbWzQWg GzIWf
+
+# to taste (PP->ADV) : A|^lWg HbIb
+
+# to the king's taste (PP->ADV) : WlbDXfD^|
+
+# to the queen's taste (PP->ADV) : WlbDXfD^|
+
+# in tears (PP->ADV) : DsDQsIWzI ^zII|Qj
+
+# with tears in ONE_S eyes (PP->ADV) : DsDQsIWzI QfAzQAl
+
+# with tears in ONE_S voice (PP->ADV) : DsDQsI WfI|D QlAUlI|Il
+
+# by telephone (PP->ADV) : XfD^lbIl
+
+# in a fit of temper (PP->ADV) : ^lbUA|QWg
+
+# in a temper (PP->ADV) : RsIBzD ^lbIzI DcWf
+
+# during ONE_S tenure of office (PP->ADV) : XcX|A A|AbDXsW
+
+# in any term (PP->ADV) : WfYcVGzD
+
+# in money terms (PP->ADV) : XbQjWWzIl
+
+# in nominal terms (PP->ADV) : XbQjWWzIl
+
+# in plain terms (PP->ADV) : Us|RAg QbI^bQjD
+
+# in red ink (PP->ADJ) : ^zAXbWz|
+
+# in terms (PP->ADV) : QjW^lbA^|
+
+# in terms of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) QjD<NOUN>]/WgUf)
+
+# in terms of PRESP (PP->ADV) : (ADJUNCT [(POSS [(RELCL PRESP/^bDzD) AfU<NOUN>]/Wz|) AlbDXfQ<NOUN>]/WgUf)
+
+# in transit (PP->ADV) : XbAWfRXsW
+
+# in value terms (PP->ADV) : AzQWcAWzIl
+
+# in volume terms (PP->ADV) : WdWXfAWzIl
+
+# in terror (PP->ADV) : GcAjWU|IUcA^bWj
+
+# in testimony of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/Il)
+
+# at the end of ONE_S tether (PP->ADV) : RbWZcAW| Gb^bWj
+
+# before then (PP->ADV) : Az W|XfDWg
+
+# by then (PP->ADV) : AzHcBbX|
+
+# since then (PP->ADV) : AzHcRs\f
+
+# from then onward (PP->ADV) : AzHcRs\f
+
+# till then (PP->ADV) : AzHcBbX|
+
+# in theory $ (PP->ADV) : W|IlDXfAWzIl
+
+# in the thick of it (PP->ADV) : ^bDZbW Z|WjI^bI HcWg
+
+# through thick and thin (PP->ADV) : QbDDbDWzI QsIzRVzAl
+
+# for another thing (PP->ADV) : GsIYcIl
+
+# for one thing (PP->ADV) : ZfUYcIl
+
+# one more thing (ADV NOUN) : 1) ^bDb Gf
+                              2) ^bDb Gf
+
+# the next thing (ADV NOUN) : 1) GsIYcIl 
+			      2) GbWzQ AfU
+
+# to my thinking (PP->ADV) : Dc UcWAbAWzIlDzD
+
+# after much thought (PP->ADV) : AlQAlQW| UcWAbA^bD Gs|Wg
+
+# after serious thought (PP->ADV) : AlQAlQW| UcWAbA^bD Gs|Wg
+
+# at a thought (PP->ADV) : GbDUsQWg
+
+# like a thought (PP->ADV) : GbDUsQWg
+
+# on second thought (PP->ADV) : GbU| UcWAbA^bWj
+
+# upon a thought (PP->ADV) : GbWXbWWg
+
+# with a thought (PP->ADV) : GbWXbWWg
+
+# with the thought of A (PP->ADV) : (ADJUNCT [(RELCL A/^bI) UcWAbA<NOUN>]/WzIl)
+
+# without a moment's thought (PP->ADV) : XzAUfAWgUf
+
+# by thousands (PP->ADV) : QsUs^|
+
+# thousands of years ago/before $ (ADV NOUN) : 1) UsZfDDjD XfDWg
+											 2) UsZfDDjD XfD
+
+# thousands of years ago/before A (ADV NOUN) : 
+1) [(NMODS [(AMODS A/W|XfDWz|) UsZfDDjD<NOUN>]) XfD<NOUN>]/Wg
+
+# many thousands of years ago/before (ADV NOUN) : 1) UsZfDDjD XfDWg
+											 	  2) UsZfDDjD XfD
+
+# in thrall to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) QcW|<VERB>]/^bWjUf)
+
+# in thrall (PP->ADV) : DlWkWz| QlQWzIl
+
+# under the threat of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) Ws|^jR<NOUN>]/WzI) RbG<VERB>]/^bAl)
+
+# in three D (PP->ADV) : W|RZgIl
+
+# at the threshold of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) U|Zl<NOUN>]/Wg)
+
+# on the threshold of A (PP->ADV) : (ADJUNCT [(RELCL [(MODS [QbA<ADV>]) A]/^bIjDzD) ZbQ<NOUN>]/Wg)
+
+# at the threshold of PRESP (PP->ADV) : (ADJUNCT [(RELCL [(MODS [QbA<ADV>]) 
+
+# at the top of ONE_S throat (PP->ADV) : QlAW| \fX|GlIlA
+
+# in the throes of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AlR|<NOUN>]/Wg)
+
+# at full throttle (PP->ADV) : XfDUlAIjAWzIl
+
+# with the throttle against the stop (PP->ADV) : XfDUlAIjAWzIl
+
+# with a thud (PP->ADV) : [sW ^bAl
+
+# by rule of thumb (PP->ADV) : XsQfAAsAsIl
+
+# under a person's thumb (PP->ADV) : DbQWgAg XlbX|WsX| GbW^bWj
+
+# with a thump (PP->ADV) : HbA ^bAl
+
+# by thunder (PP->ADV) : R|IWfQfAWzI
+
+# to the tick (PP->ADV) : WbXs XfW^lbA^bAg
+
+# on the tick (PP->ADV) : WbXs XfW^lbA^bAg
+
+# with ties to A (PP->ADV PP->ADJ) :
+  1) (MODS [(ADJUNCT A/Wlb) WjDAjIGl|<VERB>]/Wf)
+
+# in tiers (PP->ADV) : ZzWZzWWzIl
+
+# on the tilt (PP->ADV) : A|WsIWfXjUf
+
+# NUM1 {+ORDNUM} time (ADJ NOUN) : 1) (ADJUNCT [(NMODS NUM1 {+DGTNUM}) RfDYc<NOUN>]/W|Gb) {-TIME}
+                                   2) [(NMODS NUM1 {+DGTNUM}) RfDYc<NOUN>] {-TIME}
+
+# NUM1 {-ORDNUM} time (ADV NOUN) : 1) [(NMODS NUM1 {+DGTNUM}) RfD<NOUN>] {-TIME}
+								   2) [(NMODS NUM1 {+DGTNUM}) RfD<NOUN>] {-TIME}
+
+# against time (PP->ADV) : XfW^bD U|AbDWg GcIjAl
+
+# any time (CONJ ADV) : 1) ^bI HcDzD WfDXgDb
+			2) WfDXgGzD
+
+# before the times (PP->ADV) : U|GcWg Wb]UfUf
+
+# behind the times (PP->ADV) : U|GcWg Gs|XjUf
+
+# between times (PP->ADV) : HcHcIl
+
+# both time (NOUN ADV) : 1) GsRfD
+                         2) GsRfD
+
+# || by the time SENT (PP->ADV) : (ADJUNCT [(RELCL SENT/^bI) Hc<NOUN>]/BbX|)
+
+# by this time (PP->ADV) : W|HcBbX|
+
+# each/every time (CONJ NOUN ADV) : 1) ^bI HcQbGb
+			      	    2) QcU|AbD	
+			      	    3) QcU|AbD	
+
+# for a time (PP->ADV) : XbQU|GlWWbD
+
+# for a long time (PP->ADV) : WlIcUGlWWbD
+
+# for some time (PP->ADV) : WfIQbGlWWbD
+
+# for the first time $ (PP->ADV) : ZfWzQWzIl
+
+# for the first time in A (PP->ADV) : (ADJUNCT [(ADJUNCT A/WgUf) ZfWzQ<NOUN>]/Il)
+
+# for the last time (PP->ADV) : Zl|^sIl
+
+# for the second time (PP->ADV) : GsRfDYcIl
+
+# for the time being (PP->ADV) : GbWRsDAbD
+
+# for the time of the year (PP->ADV) : WjDXsWU|A|Il
+
+# from ancient times (PP->ADV) : QfD WkUDbIRs\f
+
+# from time to time (PP->ADV) : HcHcIl
+
+# ^have time & (VERB->ADJ) : U|AbDW| W|VGb
+
+# hundreds of times (NOUN ADV) : 1) UsRcARc
+                                 2) UsRcARc
+
+# in ONE_S own good time (PP->ADV) : ^jW]jDW| Xl^WzD HcWg
+
+# in ONE_S own time (PP->ADV) : WjAbWg
+
+# in ONE_S time (PP->ADV) : W|IUcWWg
+
+# in almost no time at all | (PP->ADV) : AfWz| XzAAbAXfAWzIl
+
+# in no time (PP->ADV) : XzAU|
+
+# in slow time (PP->ADV) : DzI|D RbAXbIl
+
+# in so short a time (PP->ADV) : YbIRWzD U|AbDWg
+
+# || in time (PP->ADV) : AlG
+
+# in time for A (PP->ADV) : (ADJUNCT A/U|AbDWg)
+
+# in time of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) U|AbD<NOUN>]/Wg)
+
+# in time to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) QbXZs<VERB>]/Wf)
+
+# in true time (PP->ADV) : RbIzD RbAXbIl
+
+# just in time (PP->ADV) : RbIl XgU|AbDWg
+
+# most of the time (PP->ADV) : GcRsRsDWz| U|AbDWg
+
+#' next time | (NOUN ADV) : 1) GbWzQRfD 
+			   2) GbWzQRfDWg
+
+# of all time (PP->ADV) : AlAzQWzI \lW^bWj
+
+# on time (PP->ADV) : XgU|AbDWg 
+
+# out_of time (PP->ADV) : Gs|DzXAg
+
+# several time (NOUN ADV) : 1) QjZZbIk 2) QjZZbIk
+# short a space of time (NOUN) : YbIRWzD U|AbD
+
+# the very first time (NOUN ADV) : 1) ZfWzQ
+                                   2) ZfWzQWzIl
+
+# this time (NOUN ADV) : 1) W|RfD 2) W|RfDWg
+# this time of year (NOUN) : W| AkXfI
+
+# this time tomorrow (ADV NOUN) : 1) DcW|I W|QbQHc
+                                  2) DcW|I W|QbQHc
+
+# what time (NOUN ADV) : 1) QjZU| {+QUESFLAG}
+			 2) QjZU|Wg {+QUESFLAG}
+
+# from tip to tip (PP->ADV) : Bz\WgUf Bz\BbX|
+
+# from tip to toe (PP->ADV) : Bz\WgUf Bz\WgBbX|
+
+# on tiptoe (PP->ADV) : RbIBz\WzIl
+
+# at the tiptop of ONE_S profession (PP->ADV) : XfDUfWA|IzI QbXW|^bWj
+
+# for the title of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XgQlA<NOUN>]/WzIl)
+
+# to a tittle (PP->ADV) : BlA
+
+# on ONE_S toes (PP->ADV) : XsDR|\cUgIzI AbXZsD
+
+# by token (PP->ADV) : AgGbAb
+
+# by this token (PP->ADV) : AgGbAb
+
+# by that token (PP->ADV) : AgGbAb
+
+# in token of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]rU|<NOUN>]/Il)
+
+# as a token of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/Il)
+
+# more by token (PP->ADV) : GfWsAGf
+
+# late tomorrow (NOUN ADV) : 1) DcW|I DzXAg
+                             2) DcW|I DzXAg
+
+# tomorrow (ADV NOUN) : DcW|I
+
+
+# in the ton || (PP->ADV) : Ww^cW^bWj
+
+# in an angry tone (PP->ADV) : ^lbDbD WfXlIl
+
+# in an excited tone (PP->ADV) : AjA^bD WfXlIl
+
+# on the tongue of men (PP->ADV) : UlQsDWg WlIIb
+
+# tonight (NOUN ADV) : 1) WlDzIRbQ {+INDEF} 
+		       2) WlDzIRbQWg
+
+# at the top of ONE_S voice (PP->ADV) : QlAZfWBfU
+
+# at the top of ONE_S speed (PP->ADV) : XfDUlAIjAWzIl
+
+# at the top of the tree (PP->ADV) : Zl|AlWz| X|Ws|IzI ZbX|^bWj
+
+# at the top of the ladder (PP->ADV) : Zl|AlWz| X|Ws|IzI ZbX|^bWj
+
+# from top to bottom (PP->ADV) : QfI| Bz\WgUf RbI Bz\BbX|
+
+# from top to toe (PP->ADV) : QfI| Bz\WgUf RbI Bz\BbX|
+
+# from top to tail (PP->ADV) : WlbDXfD^|
+
+# to the bottom of ONE_S bent (PP->ADV) : AzAIjAWzIl
+
+# in torture (PP->ADV) : Al\lWWg U|GbIIj
+
+# in total (PP->ADV) : \lW\zIWfUf
+
+# at a touch (PP->ADV) : WdAAbD Gb^A|QbD ^cGl
+
+# in touch of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbBbW|<NOUN>]/Wg)
+
+# in touch with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) XfRZlA^b<VERB>]/^bWj)
+
+# within touch of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbBbW|<NOUN>]/Wg)
+
+# as near as a toucher (PP->ADV) : AfWz|
+
+# on ONE_S tour of A (PP->ADV) : 
+
+# in tow (PP->ADV) : BzIIjUf
+
+# from town to town (PP->ADV) : QbWzIQbGb
+
+# on the traces of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsXfA^b<VERB>]/^bWj)
+
+# in the track of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) XbZs|<NOUN>]/IzI) HbIz<VERB>]/^bWj)
+
+# on ONE_S track (PP->ADV) : (ADJUNCT [(OBJ [(POSS ONE/Wz|) Gs|<NOUN>]/IzI) YlZ<VERB>]/^bAl)
+
+# on the track of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsXfA^b<VERB>]/^bWj)
+
+# by tram (PP->ADV) : XfDZbIl
+
+# in transports of joy (PP->ADV) : A|SzQWg Zs|^bWj
+
+# in a transport of rage (PP->ADV) : Q|Z|IGzUW| UfWW| DbUf
+
+# in the dry tree (PP->ADV) : WjAAjWWg Zf^bWj
+
+# all of a trembel (PP->ADV) : QlRU| AfRDcQjDUf
+
+# on the tremble (PP->ADV) : QlRU| AfRDcQjDUf
+
+# all of a trembel (PP->ADV) : QlRU| AfRDcQjDUf
+
+# upon the tremble (PP->ADV) : QlRU| AfRDcQjDUf
+
+# in a trice (PP->ADV) : UsDU|AAbDWg
+
+# in the drawing of a trigger (PP->ADV) : AlG
+
+# in trim (PP->ADV) : XbI XfWR|Gl|Wf
+
+# into trim (PP->ADV) : XfAXfI^bD UbW\cIl
+
+# out_of trim (PP->ADV) : XfWGlD WbDGl|Wf
+
+# on the trot (PP->ADV) : Us|IUcWfRUW| WsQX|AW|Qj
+
+# at a trot (PP->ADV) : ZlWZlW AfIWzQWzIl
+
+# ^be in trouble $ (VERB->ADJ) : AlDIbDWg Zf^c W|VGb
+
+# ^be in trouble with A (VERB->ADJ) : [(ADJUNCT [(POSS A/AlbWz|) UbW|<NOUN>]/Wg)
+
+# ^have a trouble with A (VERB->ADJ) : [(ADJUNCT [(POSS A/AlbWz|) UbW|<NOUN>]/Wg) (SCOMP [QbIVfW<NOUN>]/W|) Db W|V<VERB>]/Gb
+
+# in trust (PP->ADV) : RlAlbD^bWj
+
+# on trust (PP->ADV) : Wl|UbWWzIl
+
+# upon trust (PP->ADV) : Wl|UbWWzIl
+
+# || in truth (PP->ADV) : UbU|IWzD
+
+# in tune with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) Xl^lbGl|<VERB>]/Wf)
+
+# in of tune with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) (SCOMP [AlAXl<NOUN>]/Ab) QbX<VERB>]/^bWj)
+
+# out_of tune with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) (SCOMP [AlAXl<NOUN>]/Ab) \zII|<VERB>]/^bWj)
+
+# at every turn (PP->ADV) : AsRW| QbGb
+
+# by turns (PP->ADV) : RfDAbIWb
+
+# in ONE_S turn (PP->ADV) : XbA| ZbIkAb Gl|Wf
+
+# in the turn of a hand (PP->ADV) : UlDRbGbA Gs|X|RGzUW|
+
+# in turn (PP->ADV) : ZbIkIl 
+
+# || in turn (PP->ADV) : RbDGcIl
+
+# on the turn (PP->ADV) : RbBs|DzD AlR|WgUf
+
+# out_of ONE_S turn (PP->ADV) : UsDRfDW| Gs|RbBs|Wf
+
+# out_of turn (PP->ADV) : UsDUf WfRUW|
+
+# to a turn (PP->ADV) : WbXs WbIQbXAg
+
+# in a twinkle (PP->ADV) : DsD BbQYbA^bI UbW|Wg
+
+# in the twinkle of an eye (PP->ADV) : DsDBbQXbA^bI UbW|Wg
+
+# in a twinkling (PP->ADV) : DsD BbQYbA^bI UbW|Wg
+
+# in the twinkling of an eye (PP->ADV) : DsD BbQYbA^bI UbW|Wg
+
+# at a twitch (PP->ADV) : UsDU|AAbDWg
+
+# in a twitter (PP->ADV) : WbDXfIRsXfI QlU^bWj
+
+# in type (PP->ADV) : ^lbIXbIl YbWjXj
+
+#' in uniform (PP->ADV) : WwD|]lQWzI W|RAl
+
+#' out_of uniform (PP->ADV) : ]jWRlAWzIl
+
+# ^be no use | (VERB->ADJ) : UlWrWWfRUGb
+
+# ^be of little use (VERB->ADJ) : UbWrWAbZ|Ab XfAGb
+
+# in use of A (PP->ADV) : (ADJUNCT [(COMP [(POSS A/Wz|) UbWrW<NOUN>]/Wg) W|V<ADJ>]/WfUf)
+
+# at utmost (PP->ADV) : A|BfU ^cWd
+
+# to the utmost (PP->ADV) : AzAGlIl
+
+# to the utmost of ONE_S power (PP->ADV) : ^|Q Gb^DzD ^bD
+
+# to the utterance (PP->ADV) : XsAWzI HcBbX|
+
+# to the uttermost of ONE_S power (PP->ADV) : ^|Q XbIbDzD GgBbX|
+
+# to the uttermost of ONE_S capacity (PP->ADV) : ^|Q XbIbDzD GgBbX|
+
+# ^be on vacation (VERB->ADJ) : ^wAbXsWW|Gb
+
+# beyond thd veil (PP->ADV) : XfUzWWg
+
+# under ter veil of A (PP->ADV) : (ADJUNCT [(AMODS A/IbDzD) Q|QjW WbIc<NOUN>])
+
+# in the giving vein (PP->ADV) : UfDU|Q VzDzD A|RsDWzIl
+
+# with a vengeance (PP->ADV) : U|Q^bAg
+
+# at a venture (PP->ADV) : Ql^fQXfAWzIl
+
+# without a vestige of clothing (PP->ADV) : U|IWlIbA| ^bDb AfIZ|X| WbD^Al
+
+# to my vexation (PP->ADV) : RsD^bAgGl
+
+# in vexation of spirit (PP->ADV) : UlAW| UbW^bWj
+
+# in vexation of mind (PP->ADV) : UlAW| UbW^bWj
+
+# in the vicinity of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RsAzD<NOUN>]/Wg)
+
+# || in ONE_S view (PP->ADV) : (ADJUNCT [(AMODS ONE_S) AjD^c<NOUN>]/IlDzD)
+
+# with vigor (PP->ADV) : XfWIjAXfAWzIl 
+
+# with vigour (PP->ADV) : A|WsDZbAg
+
+# under ONE_S  vine and fig tree (PP->ADV) : XgX|RWgUf ]jDWbD^|
+
+# under ONE_S  own vine and fig tree (PP->ADV) : XgX|RWgUf ]jDWbD^|
+
+# in violation of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) Ws|RbD^b<VERB>]/^bWj)
+
+# with great violence (PP->ADV) : WfQZfWDbAg 
+
+# with violence (PP->ADV) : DbD]lA^bAg
+
+# by virtue of A (PP->ADV) : (ADJUNCT [(COMP A/Wg) Wz|^b<VERB>]/Wf)
+
+# in virtue of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ^|Q<NOUN>]/WzIl)
+
+# in vogue (PP->ADV) : Ww^cW^bWj
+
+# of ONE_S  own volition (PP->ADV) : XbA|Wz| XbWw Wz|UbIl
+
+# with volubility (PP->ADV) : WwZbW^bAg
+
+# under a vow (PP->ADV) : QcWUg^bWj
+
+# at a wage of a week (PP->ADV) : XsAzR 30 GbIIfIl
+
+# at the wages of a week (PP->ADV) : XsAzR 30 GbIIfIl
+
+# waist deep (NOUN ADV) : 1) ^fI| A|]W| 
+		          2) ^fI| A|]W|Wg
+
+# in waiting (PP->ADV) : QlU|Al
+
+# in the wake of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) XbAsA<NOUN>]/WzI) HbIz<VERB>]/WfUf)
+
+# || on ONE_S walk back home (PP->ADV) : 
+
+# on ONE_S walk back home | (PP->ADV) : 
+
+# within for walls (PP->ADV) : RbWWbDWgUf
+
+# on the wane (PP->ADV) : W|X|IfX|A| U|XbA^bWj
+
+# in the wane (PP->ADV) : W|X|IfX|A| U|XbA^bWj
+
+# ^be at war (VERB->ADJ) : XfDXcWXsWW|Gb
+
+# ^be at war with A (VERB->ADJ) : [(ADJUNCT A/Wlb) XfDXcWXsWW|<ADJ>]/Gb
+
+# with warmth (PP->ADV) : ^zWRsD^bWj 
+
+# without warning (PP->ADV) : WkAlWfRUW|
+
+# on the warpath warpath (PP->ADV) : VbWsIjAl
+
+# with the warrant of a good conscience (PP->ADV) : WdWU|QWg AfI|B|DzD Rb WfRUW| XfWXfWGbWGbW^bAg
+
+# without a warrant (PP->ADV) : XfWGbW^bD W|WwWfRUW|
+
+# on the watch for A (PP->ADV) : [(OBJ A/WzI) (MODS [WfQ^|<ADV>]) AjWAk^b<VERB>]/^bWj)
+
+#' in waves (PP->ADV) : ]bGlZfIfQ
+
+# with a wave of ONE_S  hand (PP->ADV) : UlDWzI ^zDGzIWf
+
+# that way (NOUN ADV) : 1) XfA|I
+			2) AzIfD U|AWzIl
+
+# a long way ahead (PP->ADV) : XfDRbWWzIl QfII|
+
+# a long way off (NOUN ADV) : 1) QfD AlU
+                              2) QfDAlUWg
+
+# a short way (NOUN ADV) : 1) YbIRWzD A|I 
+			   2) XbQBbD
+
+# ^be ONE_S way out (VERB->ADJ) : UbIbXj AbAl W|VGb
+
+# ^be in a bad ways (VERB->ADJ) : AfDAbWW| U|D\lWZ| WbD^Gb
+
+# ^be in a great way (VERB->ADJ) : QlRU| ^zWRsD^c W|VGb
+
+# ^be in a way (VERB->ADJ) : ^zWRsD^c W|VGb
+
+# ^be on ONE_S way $ (VERB->ADJ) : [(ADJUNCT [A|I<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+# ^be on ONE_S way home $ (VERB->ADJ) : X|RWg AbDzD XsWW|Gb
+
+# ^be the way out $ (VERB->ADJ) : DbAbDzD XsWW|Gb
+
+# ^be under way $ (VERB->ADJ) : X|D^cWXsWW|Gb
+
+# by the way (PP->ADV) : AzIfDGg
+
+# in a way (PP->ADV) : WfHfD QjDWgUf
+
+# in any broad way (PP->ADV) : WfHfD DfIRWzD Wz|Q|WgUfGl
+
+# in many ways (PP->ADV) : WjIf QjDWgUf
+
+# in other ways (PP->ADV) : GbIzD QjDWgUf
+
+# in some ways (PP->ADV) : WfHfD QjDWgUf
+
+# in that way (PP->ADV) : AzIfDU|AWzIl
+
+# in the same way (PP->ADV) : Ab\WzD RbWU|AWzIl
+
+#' on ONE_S way $ (PP->ADV) : A|IWg
+
+# on ONE_S way back $ (PP->ADV) : GlIWbWlDzD A|IWg
+
+# on ONE_S way back A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) GlIWbAb<VERB>]/DzD) A|I<NOUN>]/Wg)
+
+# on ONE_S way back to A (PP->ADV) : 
+
+# on ONE_S way from A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/WgUf) 
+
+# on ONE_S way home $ (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT [(POSS ONE/Wz|) X|R<NOUN>]/Wg) Ab<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+
+# on ONE_S way home from A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT [(POSS ONE/Wz|) X|R<NOUN>]/Wg) Ab<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+
+# on ONE_S way to A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/^bDzD) GlXsW<NOUN>]/Wg)
+
+# ^be on ONE_S way to A (VERB->ADJ) : [(COMP [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/^bDzD) GlXsW<NOUN>]) _<ADJ>]<W|>/Gb
+
+# on the way | (PP->ADV) : A|IWgUf
+
+# || on the way back (PP->ADV) : GlIWbWlDzD A|IWg
+
+# on the way back to A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) GlIWbWl<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+
+# on the way home | (PP->ADV) : X|RWg AbDzD A|IWg
+
+# on the way to A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/DzD) A|I<NOUN>]/Wg)
+
+# this way (NOUN ADV) : 1) W| RbWRfR
+                        2) W| RbWRfRWzIl
+
+# for the general weal (PP->ADV) : W|IRbDWz| RlAI|IzI Ws|^bWj
+
+# for the public weal (PP->ADV) : AlWAlWWz| RlAI|IzI Ws|^bWj
+
+# in weal and woe (PP->ADV) : ^cWRlAWgDb XcDbDWgDb
+
+# in weal or woe (PP->ADV) : ^cWRlAWgDb XcDbDWgDb
+
+# in all weathers (PP->ADV) : WfHfD DbIV|WgGl
+
+# under stress of weather (PP->ADV) : ]lA]sWWs HcQsDWg
+
+# under the weather (PP->ADV ADJ) : 1) QlQW| RsI]jD^bWj 
+2) QlQW| RsI]jD^bGb
+
+# a week (NOUN ADV) : 1) W|IXs 
+		      2) XsGbW
+
+# a week (NOUN ADV) : 1) W|IXsW|I 
+		      2) W|IXsW|IWg
+
+# at week end (PP->ADV) : XsQbIWg
+
+# by the week (PP->ADV) : XsGbW
+
+# for weeks $ (PP->ADV) : WjIfXs GlWWbD
+
+# in recent weeks (PP->ADV) : X|DbD QjZXsAbD
+
+# into next week (PP->ADV) : ^lGl|Ag
+
+# at the next turn of the wheel (PP->ADV) : W|RfDWg WsDW| \zW|QjD
+
+# a while (NOUN ADV) : 1) XbQU|
+                       2) XbQU|GlWWbD
+
+# after a while (PP->ADV) : XbQU|^s
+
+# all the while (PP->ADV) : AzGlWWbD
+
+# at whiles (PP->ADV) : W|HbAzQ
+
+# between whiles (PP->ADV) : AbBzQ
+
+# for a while (PP->ADV) : XbQU|GlWWbD
+
+# for a long while (PP->ADV) : WlIcUGlWWbD
+
+# for a good while (PP->ADV) : WlIcUGlWWbD
+
+# for one while (PP->ADV) : XbQU|GlWWbD
+
+# for while (PP->ADV) : XbQU|GlWWbD
+
+# in a while (PP->ADV) : W|WzAAl
+
+# while in A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) W|VDzD GlWWbD<NOUN>]/Wg)
+
+# in a whirl (PP->ADV) : R|WAzI R|WAzI GlIWbUf
+
+# in a whisper (PP->ADV) : DbXWzD UlI|Il
+
+# in whispers (PP->ADV) : DbXWzD UlI|Il
+
+# in whole | (PP->ADV) : XfDRs
+
+# as a whole $ (ADV ADJ) : 1) XfDZgXfAWzIl
+						   2) XfDZgXfAW|Gb
+
+# by wholesale (PP->ADV) : GlQcIl
+
+# at wholesale (PP->ADV) : GlQcIl
+
+# at ONE_S will (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) HzU<NOUN>]/GcIl)
+
+# at ONE_S own sweet will (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) HzU<NOUN>]/GcIl)
+
+# of ONE_S  own free will (PP->ADV) : XbWwWz|UbIl
+
+# with a will (PP->ADV) : UfWWz|BfU
+
+# against the wind (PP->ADV) : RbIbQWzI AfUzIIf
+
+# before the wind (PP->ADV) : RbIbQWzI HbIbUf
+
+# between wind and water (PP->ADV) : UsUfDRsWg
+
+# by the wind (PP->ADV) : Gl|GlIlA RbIbQWzI AfUzIIf
+
+# from the four winds (PP->ADV) : UbQjD ]bIRbWWgUf
+
+# in the eye of the wind (PP->ADV) : RbIbQWzI AfUzIIf
+
+# in the teeth of the wind (PP->ADV) : RbIbQWzI AfUzIIf
+
+# in the wind (PP->ADV) : RbIbQWg
+
+# in the wind's eye (PP->ADV) : RbIbQWzI AfUzIIf
+
+# into the wind (PP->ADV) : RbIbQ RsIWfWlDzD YlAWzIl
+
+# like the wind (PP->ADV) : SbII|
+
+# near the wind (PP->ADV) : AfWz| XfWQjDWzIl RbIbQWzI AfUzIIf
+
+# off the wind (PP->ADV) : UsD]sWWzI RbGAl
+
+# on the wind (PP->ADV) : RbIbQWzI AfUzIIf
+
+# to the wind (PP->ADV) : RbIbQ RsIWfWlDzD YlAWzI ^dW^bWj
+
+# under the wind (PP->ADV) : RbIbQ AbDzD YlAWzIl
+
+# up the wind (PP->ADV) : RbIbQWzI WbDAl
+
+# upon the wind (PP->ADV) : RbIbQWzI AfUzIIf
+
+# with the wind (PP->ADV) : RbIbQAlb ^bQBg
+
+# in wine (PP->ADV) : UsIWg Zs|^bWj
+
+# on the wings of the wind (PP->ADV) : GcGbD^| SbII|
+
+# on wings (PP->ADV) : RbIAfIWzQGl AbRjRAg
+
+# under the wing of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) Rl^l<NOUN>]/IzI) 
+
+# by wire (PP->ADV) : XfDU|DWzIl
+
+# in like wise (PP->ADV) : QbZbDAbX|Il
+
+# in some wise (PP->ADV) : WfDz XfWGl
+
+# on this wise (PP->ADV) : W|If^Ag
+
+# to ONE_S wish (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) UlWsfD<NOUN>]/GcIl)
+
+# at ONE_S  wit's end (PP->ADV) : WfY|^bI RbIzI QlIIb
+
+# at ONE_S  wits' end (PP->ADV) : WfY|^bI RbIzI QlIIb
+
+# in ONE_S  wits (PP->ADV) : Xg XfWU|DWzIl
+
+# out_of ONE_S  wits (PP->ADV) : Xg XfWU|DWzI W|I^Al
+
+# in witness of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/IlUf)
+
+# with a witness (PP->ADV) : QjWRcA^|
+
+# in weal and woe (PP->ADV) : ^cW RsI^cW AbDWg
+
+# for a wonder (PP->ADV) : W|UbW^bAgGl
+
+# in the name of wonder (PP->ADV) : GlGcZg
+
+# in wonder (PP->ADV) : DlIIbUf
+
+# no wonder . (SENT->ADJ) : W|UbW^bI AfU WfRUGb
+
+# to a wonder (PP->ADV) : DlIIbIQbD[zQ
+
+# with wonder (PP->ADV) : AjWW|IlRAg
+
+# out_of the wood (PP->ADV) : Us]UlAWgUf DbWlbUf
+
+# out_of the woods (PP->ADV) : Us]UlAWgUf DbWlbUf
+
+# against the wool (PP->ADV) : \fIWzI UgWsfUf 
+
+# at a word (PP->ADV) : W|IWfDX|^bWg
+
+# at one word (PP->ADV) : W|IWfDX|^bWg
+
+# beyond words (PP->ADV) : QsWfIb QbI^bI Us WfRUWzI QbD[zQ
+
+# by word of mouth (PP->ADV) : AsGsIl
+
+# in a word (PP->ADV) : ^bD QbG|Il QbI^bQjD
+
+# in one word (PP->ADV) : ^bD QbG|Il QbI^bQjD
+
+# in other words (PP->ADV) : RbBsWf QbI^bQjD
+
+# in so many words (PP->ADV) : AzIXb AzGcIl
+
+# in these words (PP->ADV) : W|If^Ag
+
+# on the word (PP->ADV) : QbI^bA|Ab QsUfRAg
+
+# upon ONE_S word (PP->ADV) : QcWUg[l
+
+# without a word (PP->ADV) : WbQs QbIWfRUW|
+
+# word to the wise (VERB->ADJ) : ^jDW|DWgAgDzD ^bD QbG|Il XlA^bGb
+
+# after all their work | (PP->ADV) : AzGzIWz| DlAlWgGl RsIAs^bAl
+
+# out_of work (PP->ADV) : U|IX|A^bWj
+
+# after the world (PP->ADV) : UgUlAWzI HbIb
+
+# against the world (PP->ADV) : XfDUgAkIzI UbWGcIl ^bWj
+
+# all over the world (ADJ PP->ADV) : 1) XfDUgAkWz| 
+				 2) XfDUgAkWg
+
+# all through the world (PP->ADV) : XfDUgAkIzI AfIZjUf
+
+# for all the world like (PP->ADV) : BlA GbIQWbUf
+
+# for the world $ (PP->ADV) : XfIGcIl
+
+# from all over the world (PP->ADV) : XfDUgAkIlRs\f
+
+# from around the world (PP->ADJ) : UgAk AbAAsAWgUf WlGb 
+
+# on top of the world $ (PP->ADV) : UgUbWWzI WfGWzD GzUW|
+
+# to the world's end (PP->ADV) : W| UgUbW Bz\BbX|
+
+# for the worse (PP->ADV) : GfWsA DbSzAg
+
+# at worst (PP->ADV) : Zl|WbAWz| AjWWsWg
+
+# ^be worth A (VERB->ADJ) : [(SCOMP [(AMODS A/Wz|) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb 
+
+# ^be in the wrong | (VERB->ADJ) : XbIQlUGl|Gb
+
+# with a yawn (PP->ADV) : ^b]sQ^bQjDUf
+
+# NUM1 {-ORDNUM} years from now (NOUN ADV) : 1) [(MODS [X|AzQRs\f<ADV>]) (NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) ^s<NOUN>] 
+					     2) (ADJUNCT [(MODS [X|AzQRs\f<ADV>]) (NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) ^s<NOUN>]/Wg)
+
+# a year (NOUN ADV) : 1) 1 DjD 
+		      2) DjDGbW
+
+# a year from now $ (NOUN ADV) : 1) X|AzQRs\f 1DjD^s
+                                 2) X|AzQRs\f 1DjD^s
+
+# ^be NUM1 {-ORDNUM} year of age (VERB->ADJ) : [(COMP [(NMODS NUM1 {+DGTNUM}) UbI<NOUN>]) _<ADJ>]<W|>/Gb
+
+# ^be in ONE_S NUM1 {+ORDNUM} year of school (VERB->ADJ) : [(ADJUNCT [^bAAr<NOUN>]/WgUf) (COMP [(NMODS NUM1 {+DGTNUM}) ^bADjD<NOUN>]) _<ADJ>]<W|>/Gb
+
+# by the year NUM1 (PP->ADV) : 
+
+# during the past year (PP->ADV) : AlbAfWg
+
+# for NUM1 {-ORDNUM} years straight $ (PP->ADV) :
+
+# for a number of years (PP->ADV) : QjZDjDGlWWbD
+
+# for over NUM1 years (PP->ADV) : (ADJUNCT [(COMP [(NMODS NUM1) DjDWj<NOUN>]) GlWWbD<NOUN>])
+
+# over NUM1 years (NOUN ADV) : 
+1) (ADJUNCT [(NMODS [(NMODS NUM1) DjDWj<NOUN>]) W|UbW<NOUN>])
+
+# for years $ (PP->ADV) : WjIf^c GlWWbD
+
+# from year to year (PP->ADV) : ^cQbGb
+
+# in a year's time (PP->ADV) : 1 DjD X|DbQjD
+
+# in coming years | (PP->ADV) : Wb]WzIl
+
+# in recent years | (PP->ADV) : Wb]WzIl
+
+# in the NUM1 {-ORDNUM} years of ONE_S rule (PP->ADV) : (ADJUNCT [(COMP [(POSS [(NMODS NUM1) DjDAbD<NOUN>]/Wz|) (POSS ONE/Wz|) X|Rc<NOUN>]) GlWWbD<NOUN>])
+
+# in the year one (PP->ADV) : UfA| 1 DjDWg
+
+# in the years ahead (PP->ADV) : WjIf^c Wb]Uf
+
+# in those years | (PP->ADV) : Az QsIjRWg
+
+# in years | (PP->ADV) : DbW|IzI QfAWf
+
+# next full year (ADV NOUN) : 1) GbWzQ^c DcDc 
+			      2) GbWzQ^c XfDRs
+
+# over NUM1 {-ORDNUM} years before | (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) W|UbW<NOUN>]) XfD<NOUN>]/Wg)
+
+# over the years (PP->ADV) : UsDjDGlWWbD
+
+# past NUM1 years (NOUN ADV) : 1) [(NMODS [X|DbD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]
+   2) (ADJUNCT [(COMP [(MODS [X|DbD<ADV>]) (NMODS NUM1) DjD<NOUN>]) GlWWbD<NOUN>])
+
+# the next year (NOUN ) : Az W|GzQ^c
+# the following year (NOUN ADV) : Az W|GzQ^c
+
+# the year before last (NOUN ADV) : XcXbADjD
+# the year of grace (NOUN) : UfIjA
+
+# these years (ADV NOUN) : 1) Zl|AzDWg
+			   2) W|GzI ^c
+
+# in ONE_S youth (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|)  (NMODS [XfIQWzD U|XfI<NOUN>]) Hc<NOUN>]/DzD)
+
+# at the zenith of A (PP->ADV) : (ADJUNCT [(ADJUNCT [(POSS A/Wz|) XfIXfW<NOUN>]/Wg) GbI^b<VERB>]/^bWj)
+
+# above zero (PP->ADJ PP->ADV NOUN) : 1) WjWUbWW|Gb
+                                      2) WjWUbWWzIl
+                                      3) WjWUbW
+
+# below zero (PP->ADJ PP->ADV NOUN) : 1) WjW^bW|Gb
+                                      2) WjW^bIl
+                                      3) WjWUbW
+

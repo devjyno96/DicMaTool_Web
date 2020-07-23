@@ -1,0 +1,430 @@
+
+"tabularly"
+(\gW|RzI QlWdWWzIl)
+
+"tacitly"
+(QsAQsA^| WbQWbQI|Wg)
+
+"tactically"
+(XfDUsIXfAWzIl)
+
+"tactually"
+(ZlAAbQWzIl)
+
+"takingly"
+(UbWDdW^bAg)
+
+"tall"
+(\fQsD|WfRUW|)
+
+"tamely"
+(A|IGzIWfUf)
+
+"tandem"
+(UgIl DbIbD^| UfUf)
+
+"tangentially"
+(XfRUfD XfAWzIl)
+
+"tantalizingly"
+(Wc\cWsGzUW|)
+
+"taperingly"
+(XfQXfQ AbDzIAg ZbZb XsIWjUf)
+
+"tardily"
+(AsQHzAg)
+
+"tartly"
+(U|[zQ^bAg)
+
+"tastily"
+(]sWQ|W|VAg)
+
+"taunt"
+(Wz|XbWWzI QlGs AbXZsAl)
+
+"tauntingly"
+(^|IZcA^bWj)
+
+"tearing"
+(QsUfRAg)
+
+"teasingly"
+(UfWAbU|Ag)
+
+"technically"
+(A|UsIXfAWzIl)
+
+"technologically"
+(A|UsIXfAWzIl)
+
+"tediously"
+(X|Is^bAg)
+
+"teetotally"
+(XfIGc AzQXsXfAWzIl)
+
+"telegraphically"
+(XfDU|D WzIl)
+
+"tellingly"
+(Ww^r^bAg)
+
+"temperately"
+(WlD^lb^bAg)
+
+"temporally"
+(W|IU|XfAWzIl)
+
+"temporarily"
+(W|IU|XfAWzIl)
+
+"tenderly"
+(UbWDdW^bAg)
+
+"tenthly"
+(WjIRfDYcWg)
+
+"termagantly"
+(W|RU|Q UbDbRAg)
+
+"terminally"
+(XlWQbIWg)
+
+"terrestrially"
+(X|AsUbWWzIl)
+
+"terribly"
+(QlRU|)
+
+"textually"
+(WsfDQsD AzGcIl)
+
+"thankfully"
+(AbQUb^bWj)
+
+"that"
+(AzQbD[zQ)
+
+"that_is"
+(AzIfQzIl)
+
+"thatis"
+(AzIlQzIl)
+
+"the"
+(Az QbD[zQ)
+
+"themselves"
+(AzGzI UzUzIl)
+
+"then"
+(AzI|Al DbUf)
+//* AzIfQjD (~ {+SBEGIN})
+* AzIfQjD (~ {+FRONTADV})
+# just then (ADV) : RbIl Az Hc
+
+"thence"
+(AfA|UfRs\f)
+
+"thenceforth"
+(AzHcRs\f)
+
+"theologically"
+(U|D^bAUbWWzIl)
+
+"theoretically"
+(W|IlDXfAWzIl)
+# | there used ^TO_INF (SENT->ADJ) : [(MODS [XfDWg<ADV>]) TO_INF]/^bGb
+# | there ^be A (SENT->ADJ) : [(SUBJ A/Ab) W|V<ADJ>]/Gb
+# | there must ^be A (SENT->ADJ) : [(COMP [(SUBJ A/Ab) W|V<ADJ>]/^bQWg) \zII|QWfRU<ADJ>]/Gb
+
+"there"
+(AfA|WgUf)
+* AfA|Wg (come go arrive live bury sit visit W|VGb)
+// be IzI ScUWzQ : there I am a student.
+
+//# || SENT {+NEG} , be there ? (SENT) :  (QUES [(DECL SENT) AzIf^X| WbD^<ADJ>]/Gb)
+//# || SENT {-NEG} , be not there ? (SENT) : (QUES [(DECL SENT) AzIf^X| WbD^<ADJ>]/Gb)
+# || down there | (ADV) : AfA|Uf
+# || from there (PP->ADV) : AfA|Il Rs\f
+# out there (ADV) : AfA|Wg
+# over ^there (ADJ ADV) : 1) (ADJUNCT [(ADJUNCT [Xf]jD<NOUN>]/Wg) W|V<VERB>]/^bD)
+		         2) Xf]jDWg
+# || there ^be no PRESP (SENT->ADJ) : 
+[(SUBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/DzD) RsIAbDzW^b<ADJ>]/Gb
+# || there ^be no one but VP (SENT) : 
+[(SUBJ [(RELCL VP(^bX|/F, WbD^/V)/^bDzD) UbIbQ<NOUN>]/DzD) WfRU<ADJ>]/Gb
+# || there ^be no use PRESP (SENT->ADJ) : [(ADJUNCT PRESP/^cGl) UlWrWWfRU<ADJ>]/Gb
+
+"thereabout"
+(Az AzDZfWg)
+
+"thereafter"
+(Az Gs|IlDzD)
+
+"thereat"
+(AfA|Uf)
+
+"thereby"
+(HbIbUf)
+
+"therefor"
+(Az HcQsDWg)
+
+"therefore"
+(AzIfQzIl)
+
+"therefrom"
+(AfA|UfRs\f)
+
+"therein"
+(Az UlAWg)
+
+"thereinafter"
+(^sQsDWg)
+
+"thereinbefore"
+(XfDQsDWg)
+
+"thereinto"
+(AzAlUWzIl)
+
+"thereof"
+(AzAfUWzI)
+
+"thereon"
+(Az Ws|Wg)
+
+"thereout"
+(AzAfUWzIlRs\f)
+
+"thereto"
+(AfA|Wg)
+
+"theretofore"
+(AzRlGb QfDXf)
+
+"thereunder"
+(Az WbIcWg)
+
+"thereupon"
+(Az ^s)
+
+"therewith"
+(AzAfUAlb ^bQBg)
+
+"thermostatically"
+(WlDGl XlXfIXbWZ|Wg Wz|^bWj)
+
+"thickly"
+(GsBfRAg)
+
+"thieveryly"
+(UbIAzQUbIAzQ)
+
+"thinly"
+(WdIRAg)
+
+"third"
+(UgYcIl)
+
+"third-hand"
+(Gs UbIbQWzI AfZj)
+
+"thirstily"
+(QlAQbIzAg)
+
+"this"
+(W|QbD[zQ)
+
+"thither"
+(XfA|Wg)
+
+"thoroughly"
+(ZfIXf^bAg)
+
+"though"
+(R|IlA)
+
+"thrice"
+(UgRfD)
+
+"throttlehold"
+(\lW^bWj)
+
+"through"
+(\lW^bWj)
+# ^be through $ (VERB) : [QbZ|<VERB>]/Gb
+# ^be through with A (VERB) : [(OBJ A/IzI) Bz\QbZ|<VERB>]/Gb
+	* [(OBJ A/IzI) Gb Rl<VERB>]/Gb
+	* A (newspaper U|DQsD)
+"throughout"
+(QlXlI|)
+
+"thumping"
+(QcWIjI^|)
+
+"thundering"
+(ZfDGsW ZfIfQ)
+
+"thus"
+(AzIcUf)
+
+"thwart"
+(AbIlX|IIf)
+
+"thwartingly"
+(RbDGc^bWj)
+
+"ticktack"
+(HlAHbAHlAHbA^bQj)
+
+"tidily"
+(GbDXfW^bAg)
+
+"tight"
+(GbDGbD^|)
+
+"tightly"
+(BlA)
+* GbDGbD^| (secure)
+
+"tiptop"
+(Gf^bI DbWs| WfRUW|)
+
+"today"
+(WlDzI)
+
+"together"
+(^bQBg)
+# || birds of a feather flock together | (SENT) : (DECL [WwWwUbWXlW<NOUN>])
+# ^get things together (VERB) : ^bQBg^bGb
+# together with A (ADV) : (ADJUNCT [(COMP A/Wlb) ^bQBg<ADV>])
+
+"tolerably"
+(WrWW|D^bI Us W|VWzI QbD[zQ)
+
+"tomorrow"
+(DcW|I)
+
+"tonight"
+(WlDzIRbQ)
+
+"too"
+(QcWs)
+//* Hl^bD (~ {-NEG})
+* Hl^bD (~ {+FRONTADV})
+* Hl^bD (~ {+COMMOD})
+* Hl^bD (know)
+* DfQs (~ {+NEG})
+* QcWs (~ {+ADJ})
+//* QcWs (heavy deep high far)
+//* QcWs (hard long many small big good confident expensive)
+
+//# SENT , too (SENT) : (DECL [(MODS [Hl^bD<ADV>]) SENT]/^bGb)
+# ^be too ADJ for A | (VERB) : [(ADJUNCT [(COMP A/Wg) R|^b<VERB>]/Wf) (MODS [DfQs<ADV>]) ADJ]/^bGb
+# ^be too ADJ for A TO_INF (VERB) : [(ADJUNCT [(MODS [DfQs<ADV>]) ADJ]/^cUf) (COMP A/Ab) TO_INF] (^bI/F, Us/N, WfRU/V)/Gb
+# ^be too ADJ TO_INF (VERB) : [(ADVCL [(MODS [DfQs<ADV>]) ADJ]/^cUf) TO_INF] (^bI/F, Us/N, WfRU/V)/Gb
+# ^be too AJP TO_INF (VERB) : [(ADVCL [(MODS [DfQs<ADV>]) AJP]/^cUf) TO_INF] (^bI/F, Us/N, WfRU/V)/Gb
+# ^be never too ADJ TO_INF (VERB) : [(SUBJ [(COMPCL [(ADJUNCT [(RELCL TO_INF(^bX|/F, QlU^b/V)/^bI) XfWGl<NOUN>]/Il) ADJ]/^bD) AfU<NOUN>]/WzD) WbD|<ADJ>]/Gb
+# ^VP too ADV for A TO_INF (VERB) : [(ADJUNCT [(MODS [DfQs<ADV>]) (MODS ADV) VP]/^cUf) (SUBJ A/Ab) TO_INF] (^bI/F, Us/N, WfRU/V)/Gb
+# ^VP too ADV TO_INF (VERB) : [(ADJUNCT [(MODS [DfQs<ADV>]) (MODS ADV) VP]/^cUf) TO_INF] (^bI/F, Us/N, WfRU/V)/Gb
+# || me , too  | (SENT) : (DECL [(SUBJ [Db<PRON>]/Gl) AzIf^<ADJ>]/Gb)
+# || me too | (SENT) : (DECL [(SUBJ [Db<PRON>]/Gl) AzIf^<ADJ>]/Gb)
+# much too (ADV) : WbXs
+# || that is too bad | (SENT) : (DECL [WbDGl|<ADJ>]/^bAsDWr{+PAST})
+# too ADJ A TO_INF (NOUN) : [(AMODS [(ADJUNCT TO_INF/^bA|WgDzD) (MODS [DfQs<ADV>]) ADJ]/^bD) A]
+# too ADJ TO_INF (ADJ) : [(ADVCL [(MODS [DfQs<ADV>]) ADJ]/^cUf) TO_INF] (^bI/F, Us/N, WfRU/V)/Gb
+# too ADJ for A TO_INF (ADJ ADV) : 1) [(ADJUNCT [(SUBJ A/Ab) TO_INF]/^bA|Wg) (MODS [DfQs<ADV>]) ADJ]/^bGb 
+			           2) (ADJUNCT [(ADJUNCT [(SUBJ A/Ab) TO_INF]/^bA|Wg) (MODS [QcWs<ADV>]) ADJ]/^bAg)
+# too ADJ A for B TO_INF (NOUN) : [(AMODS [(ADJUNCT [(SUBJ B/Ab) TO_INF]/^bA|Wg) (MODS [DfQs<ADV>]) ADJ]/^bD) A]
+
+"too-too"
+(AzAGbDWzIl)
+# too ADJ ^A (NOUN) : [(AMODS [(MODS [QcWs<ADV>]) ADJ]/^bD) A]
+
+"topsy-turvy"
+(AfBsIl)
+
+"totally"
+(WlbDXfD^|)
+
+"touchingly"
+(ZzAWzD^bAg)
+
+"toweringly"
+(GlWWz|Wf)
+
+"traditionally"
+(XfD\lWXfAWzIl)
+
+"transitively"
+(\bGlWXfAWzIl)
+
+"transparently"
+(\sQjW^bAg)
+
+"tremendous"
+(Al|WXbW^|)
+
+"tremendously"
+(Al|WXbW^|)
+
+"trickily"
+(UlAWjUf)
+
+"trimly"
+(XfWGlDGl|Wf)
+
+"triply"
+(Ug AjRWzIl)
+
+"trippingly"
+(XcSbII| AjW[lc^bAg)
+
+"troppo"
+(DfQs)
+
+"true"
+(X|DU|I^bAg)
+
+"truly"
+(X|DU|IIl)
+
+"trustily"
+(ZsWU|I^bAg)
+
+"trustingly"
+(U|DWrW ^bWj)
+
+"truthfully"
+(XfWX|A^bAg)
+
+"twelvefold"
+(RcIl)
+
+"twice"
+(GsRfD)
+* GsRc (be)
+
+# more than twice ^A (NOUN) : [(POSS A/Wz|) GsRc W|UbW<NOUN>]
+// [(POSS [(NMODS [GsRc<NOUN>]) W|UbW<NOUN>]/Wz|) A]
+# twice NUM1 (NOUN) : [(POSS NUM1/Wz|) GsRc<NOUN>])
+# twice a A (ADV) : (MODS [(COMP A/Wg) GsRfD<ADV>])
+	* (ADJUNCT [(ADJUNCT A/Wg) (NMODS NUM1) RfD<NOUN>])
+	* A (hour ^bD U|AbD) (day ^bIs) (month ^bD GbI) (year W|IDjD) (~ {+TIME})
+# twice a day (ADV) : ^bIsWg GsRfD
+# twice as ^A as B (NOUN ADV) : 1) [(POSS [(POSS B/Wz|) GsRc<NOUN>]/Wz|) A]
+				2) [(POSS [(POSS B/Wz|) GsRc<NOUN>]/Wz|) A]
+# twice as ADV | (ADV) : (ADJUNCT [(MODS [GsRc<ADV>]) ADV])
+# twice as ADV as A (ADV) : [(ADJUNCT A/RlGb) (MODS [GsRc<ADV>]) ADV]
+# twice as ADJ ^A as SENT (NOUN ADV) : [(AMODS [(ADJUNCT [(RELCL SENT/^bD) AfU<NOUN>]/RlGb) (MODS [GsRc<ADV>]) ADJ]/^bD) A]
+# twice as AJP as A (ADJ) : [(ADJUNCT A/RlGb) (MODS GsRc<ADV>]) AJP]/^bGb
+
+"typically"
+(W|IRbDXfAWzIl)
+
+"typographical"
+(]l^bA^bAg)

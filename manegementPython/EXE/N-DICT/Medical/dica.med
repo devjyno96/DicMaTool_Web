@@ -1,0 +1,1064 @@
+
+"A"
+# vitamin A (NOUN) : R|\bQ|DA
+# coenzyme A (NOUN) : RlXl^rUlA
+# acetyl Co A (NOUN) : WbUg\|I Co A
+# Co- A (NOUN) : Co A
+
+"absorb"
+# absorb (NOUN) : ^zRUs
+
+"absorbance"
+# absorbance (NOUN) : ^zRAlbWGl
+
+"absorptiometry"
+# absorptiometry (NOUN) : ^zRAlbWAlbWGlRfR
+
+"absorption"
+# percutaneous absorption (NOUN) : AjW]|^zRUs
+# ultraviolet absorption (NOUN) : XbWl|UfD^zRUs
+# infrared absorption (NOUN) : XfAWl|^zRUs
+# absorption (NOUN) : ^zRUs
+
+"abuse"
+# drug abuse (NOUN) : WdAQsIDbQWrW
+
+"acacia"
+# powdered acacia (NOUN) : Wb[bU|WbRsDQbI
+# acacia (NOUN) : Wb[bU|Wb
+
+"accelerator"
+# accelerator (NOUN) : AbUlAA|
+
+"acceptor"
+# electron acceptor (NOUN) : XfDXbUsWrWZg
+
+"acetal"
+# acetal (NOUN) : WbUg\bI
+
+"acetaminophen"
+# acetaminophen (NOUN) : WbUg\zWbQ|Dl]gD
+
+"acetate"
+# retinol acetate (NOUN) : R|\bQ|DAZlUbD
+# acetate (NOUN) : WbUg\gW|\z
+# phenylmercuric acetate (NOUN) : ZlUbD]gD|IUsWzD
+# hydrocortisone acetate (NOUN) : ZlUbD^bW|GzIl[lIz\|UlD
+# hydroxocobalamin acetate (NOUN) : ZlUbD^bW|GzIl[lRbIWbQ|D
+# isoamyl acetate (NOUN) : ZlUbDW|UlWbQ|I
+# lead acetate (NOUN) : ZlUbDDbR
+# cortisone acetate (NOUN) : ZlUbD[lIz\|UlD
+# polyvinyl acetate (NOUN) : ZlUbDR|D|IUsX|
+# prednisolone acetate (NOUN) : ZlUbD]zIgGzD|UlIIlD
+# retinol acetate (NOUN) : ZlUbDIg\|DlI
+# sodium acetate (NOUN) : ZlUbDDb\zIwQ
+# acetate (NOUN) : WbUg\gW|\z
+
+"acetazolamide"
+# acetazolamide (NOUN) : WbUg\bXlIWbQ|Gz
+
+"acetoacetyl"
+# acetoacetyl (NOUN) : WbUg\lWbUg\|I
+
+"acetohexamide"
+# acetohexamide (NOUN) : WbUg\l^gAUbQ|Gz
+
+"acetone"
+# acetone (NOUN) : WbUg\lD
+
+"acetonide"
+# fluocinolone acetonide (NOUN) : ]zIIsWsU|DlIIlWbUg\lDbW|Gz
+# triamcinolone acetonide (NOUN) : \zI|WbQU|DlIIlDWbUg\lDbW|Gz
+# acetonide (NOUN) : WbUg\lDbW|Gz
+
+"acetyl"
+# acetyl (NOUN) : WbUg\|I
+
+"acetylcholine"
+# acetylcholine (NOUN) : WbUg\|I[lII|D
+
+"acetylkitasamycin"
+# acetylkitasamycin (NOUN) : WbUg\|I[|\bQbW|U|D
+
+"acetylleuco"
+# acetylleuco (NOUN) : 
+
+"acetylspiramycin"
+# acetylspiramycin (NOUN) : WbUg\|IUz]|IbQbW|U|D
+
+"acid"
+# phthalic acid (NOUN) : ]z\bIUbD
+# chondroitin sulfuric acid (NOUN) : [lDGzIlW|\|D^lbWUbD
+# gluconic acid (NOUN) : AzIIs[lDUbD
+# glutamic acid (NOUN) : AzIIs\bQUbD
+# oxaloacetic acid (NOUN) : WlAUbIIlZlUbD
+# pyruvic acid (NOUN) : ]|IsRzUbD
+# ketogenic amino acid (NOUN) : [g\lDUcWUfWWbQ|DlUbD
+# sulfuric acid (NOUN) : ^lbWUbD
+# pyrophosphoric acid (NOUN) : ]|IlW|DUbD
+# bile acid (NOUN) : GbQXzRUbD
+# carboxylic acid (NOUN) : [bIzRlAU|UbD
+# cobaltic acid (NOUN) : [lRbI\zUbD
+# kainic acid (NOUN) : [bW|DUbD
+# boric acid (NOUN) : RsWUbD
+# propionic acid (NOUN) : ]zIl]|WlDUbD
+# aminoacetic acid (NOUN) : WbQ|DlWbUg\zUbD
+# oleic acid (NOUN) : WlIIgUbD
+# cromoglycic acid (NOUN) : [zIlQlAzIIbW|U|DUbD
+# C-terminal amino acid (NOUN) : C-QbIGbD WbQ|DlUbD
+# unsaturated fatty acid (NOUN) : RsI]l^lbX|RbWUbD
+# oxycholic acid (NOUN) : 
+# trichloroacetic acid (NOUN) : \zI|[zIIlIlZlUbD
+# N-terminal amino acid (NOUN) : N-QbIGbD WbQ|DlUbD
+# palmitic acid (NOUN) : ]bIQ|\zUbD
+# pantothenic acid (NOUN) : ]bD\l\gDUbD
+# purified dehydrocholic acid (NOUN) : XfWXgG|^bW|GzIl[lII|DUbD
+# parahydroxybenzoic acid (NOUN) : ]bIb^bW|GzIlAU|WbDU|A^dWUbD
+# maleic acid (NOUN) : QbIIgUbD
+# nicotinic acid (NOUN) : D|[l\|DUbD
+# prussic acid (NOUN) : ZfWUbD
+# nalidixic acid (NOUN) : DbII|G|AUzUbD
+# elaidic acid (NOUN) : WgIIbW|G|UbD
+# mefenamic acid (NOUN) : Qg]gDbQUbD
+# messenger ribonucleic acid (NOUN) : QgU|DXf RNA
+# gallic acid (NOUN) : QlIU|AXbUbD
+# cyclamic acid (NOUN) : UbW|[zIIbQUbD
+# para-aminosalicylic acid (NOUN) : ]bIbWbQ|DlUbII|U|IUbD
+# acetic acid (NOUN) : ZlUbD
+# amidotrizonic acid (NOUN) : 
+# mevalonic acid (NOUN) : QgRbIIlDUbD
+# dehydrocholic acid (NOUN) : Gg^bW|GzIl[lIUbD
+# iodinated oleic acid (NOUN) : WrWlGz^lbWlIIgUbD
+# iodine salicylic acid (NOUN) : WrWlGz UbII|U|IUbD
+# radio-iodinated oleic acid (NOUN) : RbWUbUfWWrWlGzWlIIgW|DUbD
+# radiochromic acid (NOUN) : RbWUbUfW[zIlQUbD
+# organic acid (NOUN) : WwA|UbD
+# amino acid (NOUN) : WbQ|DlUbD
+# iodohippuric acid (NOUN) : WrWlGz^lb^|]sIzUbD
+# linoleic acid (NOUN) : I|DlIIgUbD
+# linolenic acid (NOUN) : I|DlIIgUbD
+# molybdic acid (NOUN) : 
+# monophosphoric acid (NOUN) : QlDlW|DUbD
+# nitric acid (NOUN) : X|IUbD
+# monostearic acid (NOUN) : QlDlUz\gWbIzUbD
+# inosinic acid (NOUN) : W|DlU|DUbD
+# non-essential amino acid (NOUN) : R|]|IUsWbQ|DlUbD
+# tranexamic acid (NOUN) : 
+# phosphoric acid (NOUN) : W|DUbD
+# glacial acetic acid (NOUN) : R|WZlUbD
+# ribonucleic acid (NOUN) : I|Rl^cAUbD
+# essential fatty acid (NOUN) : ]|IUsX|RbWUbD
+# essential amino acid (NOUN) : ]|IUsWbQ|DlUbD
+# arsenious acid (NOUN) : WbR|UbD
+# benzoic acid (NOUN) : WbDU|A^dWUbD
+# stearic acid (NOUN) : Uz\gWbIzUbD
+# aminoacetic acid (NOUN) : WbQ|DlZlUbD
+# aminobenzoic acid (NOUN) : WbQ|DlWbDU|A^dWUbD
+# aminosalicylic acid (NOUN) : WbQ|DlUbII|U|IUbD
+# anhydrous citric acid (NOUN) : QsUsU|\zIzUbD
+# succinic acid (NOUN) : UsAU|DUbD
+# higher fatty acid (NOUN) : AlAzRX|RbWUbD
+# citric acid (NOUN) : U|\zIzUbD
+# ester of nitrous acid (NOUN) : WbUlUbDWgUz\gIz
+# cyclamic acid (NOUN) : UbW|[zIIbQUbD
+# lactic acid (NOUN) : WwUbD
+# aspartic acid (NOUN) : WbUz]bIz\zUbDWjQ
+# tartaric acid (NOUN) : XsUfAUbD
+# nitrous acid (NOUN) : WbZlUbD
+# salicylic acid (NOUN) : UbII|U|IUbD
+# glycogenic amino acid (NOUN) : GbWWsfDUfWWbQ|DlUbD
+# salicylic acid (NOUN) : UbII|U|IUbD
+# dehydroacetic acid (NOUN) : Gg^bW|GzIlWbUg\zUbD
+# deoxyribonucleic acid (NOUN) : GgWlAU|I|Rl^cAUbD
+# folic acid (NOUN) : WjRUbD
+# ascorbic acid (NOUN) : WbUz[lIzRzUbD
+# permanganic acid (NOUN) : AlbQbWAbDUbD
+# hydrobromic acid (NOUN) : Zs|^lbUsUlUbD
+# light anhydrous silicic acid (NOUN) : AjWX|IQsUsAwUbD
+# diluted hydrochloric acid (NOUN) : ^z|UfAWjQUbD
+# chromic acid (NOUN) : [zIlQUbD
+# mixed acid (NOUN) : ^lDUbD
+# synthetic silicic acid (NOUN) : ^bRUfWAwUbD
+# sulfonic acid (NOUN) : UsI]lDUbD
+# acid (NOUN) : UbDUfW
+# basic amino acid (NOUN) : WjQA|UfWWbQ|DlUbD
+# acid (NOUN) : UbDUfW
+# hydrochloric acid (NOUN) : WjQUbD
+# free fatty acid (NOUN) : WwI|X|RbWUbD
+# nucleic acid (NOUN) : ^cAUbD
+# sesquioleic acid (NOUN) : 
+# tannic acid (NOUN) : \bDD|DUbD
+# enanthic acid (NOUN) : WgDbD\zUbD
+# ionization constant of acid (NOUN) : UbDXfDI|XfWUs
+# pertechnetic acid (NOUN) : 
+# phenolated water with hydrochloric acid (NOUN) : 
+# uridylic acid (NOUN) : 
+# uronic acid (NOUN) : WsIlDUbD
+# transfer ribonucleic acid (NOUN) : XfDW|RNA
+# p-aminobenzoic acid (NOUN) : p-WbQ|DlWbDU|A^dWUbD
+# uric acid (NOUN) : WrUbD
+# tannic acid (NOUN) : \bDD|DUbD
+# ursodesoxy cholic acid (NOUN) : 
+# iotalamic acid (NOUN) : W|Wl\bIIbQUbD
+# acetylsalicylic acid (NOUN) : WbUg\|IUbII|U|IUbD
+# saturated fatty acid (NOUN) : ]l^lbX|RbWUbD
+# iopanoic acid (NOUN) : W|Wl]bDlUbD
+# fatty acid (NOUN) : X|RbWUbD
+# terminal amino acid (NOUN) : QbIGbDGbDRcAX|I
+# thiocyanic acid (NOUN) : \|WlU|WbDUbD
+
+"acidity"
+# total acidity (NOUN) : ZlWUbDGl
+# acidity (NOUN) : UbDUfW
+# acidity (NOUN) : UbDGl
+
+"acidosis"
+# acidosis (NOUN) : UbDAlbGbXzW
+
+"aconitase"
+# aconitase (NOUN) : Wb[lD|\bXg
+
+"aconitate"
+# aconitate (NOUN) : Wb[lD|\|UbDWjQ
+
+"acrinol"
+# acrinol (NOUN) : Wb[zI|DlI
+
+"act"
+# act (NOUN) : XbAWrW
+
+"ACTH"
+# ACTH (NOUN) : WbGzIgDl[lIz\|[l\zIl]|A ^lIzQlDWz| WdAXb
+
+"actinomycin"
+# actinomycin (NOUN) : WcA\|DlQbW|U|D
+
+"action"
+# principal action (NOUN) : XsXbAWrW
+# specific action (NOUN) : \zAW|XfAXbAWrW
+# action (NOUN) : XbAWrW
+# anticoagulant action (NOUN) : ^bWWzWAlXbAWrW
+# central action (NOUN) : XsWZsXbAWrW
+# stimulant action (NOUN) : XbAzAXbAWrW
+# bactericidal action (NOUN) : UbIAwDXbAWrW
+# muscarinic action (NOUN) : QsUz[bI|DUfW XbAWrW
+# immediate action (NOUN) : UlA^rUfWXbAWrW
+# temporary action (NOUN) : W|IU|XfAXbAWrW
+# remote action (NOUN) : WsfDAjAXbAWrW
+# local action (NOUN) : AsAUlXbAWrW
+# primary action (NOUN) : W|IZbXbAWrW
+# nicotinic action (NOUN) : D|[l\|DWdWXbAWrW
+# law of mass action (NOUN) : X|IIdWXbAWrWWz| RfRZ|A
+# proinflammatory action (NOUN) : Zl|GbQXbAWrW
+# general action (NOUN) : W|IRbDXbAWrW
+# direct action (NOUN) : X|AXfRXbAWrW
+# secondary action (NOUN) : W|ZbXbAWrW
+# peripheral action (NOUN) : QbIZlXbAWrW
+# indirect action (NOUN) : AbDXfRXbAWrW
+# delayed action (NOUN) : X|^rUfWXbAWrW
+# pharmacological action (NOUN) : WdAI|XbAWrW
+# bacteriostatic action (NOUN) : XfWAwDXbAWrW
+# selective action (NOUN) : UfD\cAXfAXbAWrW
+# site of action (NOUN) : XbAWrWXfQ
+# systemic action (NOUN) : XfDU|DXbAWrW
+
+"actively"
+# transport actively (NOUN) : DzWGlWUsUlW
+
+"activity"
+# surface activity (NOUN) : AkQjD^lbIUfW
+# optical activity (NOUN) : AlbW^bA^lbIUfW
+
+"acyl"
+# acyl (NOUN) : WbU|I
+
+"acylate"
+# acylate (NOUN) : WbU|I^lb
+
+"acylation"
+# acylation (NOUN) : WbU|I^lb
+
+"add"
+# add (NOUN) : UbWAbXbAWrW
+
+"addition"
+# addition (NOUN) : UbWAbXbAWrW
+
+"additive"
+# food additive (NOUN) : U|A]sQZfQAbQsI
+
+"adenine"
+# adenine (NOUN) : WbGgD|D
+
+"adenosine"
+# adenosine (NOUN) : WbGgDlU|D
+
+"adipate"
+# piperazine adipate (NOUN) : WbG|]zUbD]|]gIbX|D
+
+"adipiodone"
+# adipiodone (NOUN) : WbG|]|WlGlD
+
+"adjust"
+# adjust (NOUN) : XlXfW
+
+"adjustment"
+# adjustment (NOUN) : XlXfW
+
+"adjuvant"
+# adjuvant (NOUN) : XlbXg
+
+"ADME"
+# ADME (NOUN) : ^zRUs RsD]l GcUb RcUfI 
+
+"administer"
+# administer (NOUN) : \sWj
+# administer (NOUN) : XfAWrW
+
+"administration"
+# intraperitoneal administration (NOUN) : RlAAbWDcXsUb
+# administration (NOUN) : XfAWrW
+# oral administration (NOUN) : AjWAs\sWj
+# Food and Drug Administration (NOUN) : Q|AsAU|A]sQWz|WdA]sQRs
+# parenteral administration (NOUN) : R|AjWAsXfAWrW
+# administration (NOUN) : \sWj
+
+"administrator"
+# narcotic administrator (NOUN) : QbWdAAlbDI|Xb
+
+"adrenaline"
+# adrenaline (NOUN) : WbGzIgDbII|D
+
+"adrenergic"
+# adrenergic (NOUN) : WbGzIgDbII|D ^rDzWUfW
+
+"adrenochrome"
+# adrenochrome (NOUN) : 
+
+"adsorb"
+# adsorb (NOUN) : ^zRZbA
+
+"adsorbent"
+# adsorbent (NOUN) : ^zRZbAXg
+
+"adsorption"
+# heat of adsorption (NOUN) : ^zRZbAWjI
+# adsorption (NOUN) : ^zRZbA
+
+"adulterant"
+# adulterant (NOUN) : Ws|^lbQsI
+
+"adversely"
+# react adversely (NOUN) : Ww^cRbDWzW
+
+"aerate"
+# aerate (NOUN) : ]lAA|
+
+"aeration"
+# aeration (NOUN) : ]lAA|RfR
+
+"aerobe"
+# strict aerobe (NOUN) : ^lA|UfWAwD
+
+"aerosol"
+# aerosol (NOUN) : WgWfIlUlI, WjDQsXg
+# aerosol (NOUN) : WgWfIlUlI
+
+"affinity"
+# electron affinity (NOUN) : XfDXbZ|D^lbIjA
+
+"aflatoxin"
+# aflatoxin (NOUN) : Wb]zIIb\lAU|D
+
+"agar"
+# agar (NOUN) : ^bDZfD, WsQs
+
+"agent"
+# reducing agent (NOUN) : ^lbDWsfDXg
+# adrenergic blocking agent (NOUN) : WbGzIgDbII|D ^rDzW ZbGbDWdA
+# solubilizing agent (NOUN) : AbWrW^lbXg
+# dehydrating agent (NOUN) : \bIUsXg
+# sweetening agent (NOUN) : AbQQ|Xg
+# drying agent (NOUN) : AfDXlXg
+# reducing bleaching agent (NOUN) : ^lbDWsfD]rRcAXg
+# adrenergic agent (NOUN) : WbGzIgDbII|D XbAWrWWdA
+# solubilizing agent (NOUN) : WrW^cRlXlXg
+# carcinogenic agent (NOUN) : RbIWbQUfWQsIX|I
+# teratogenic agent (NOUN) : Zl|A|^jWUfWQsIX|I
+# hypotensive agent (NOUN) : ^bWAl^jIWbRWdA
+# antiarrhythmic agent (NOUN) : RsXfWQcAZ|IrWdA
+# antiallergic agent (NOUN) : ^bWWbIIgIzA|WdA
+# oxidizing agent (NOUN) : UbD^lbXg
+# sour agent (NOUN) : UbDQ|Ir
+# suspending agent (NOUN) : ^jD\bA^lbXg
+# carcinostatic agent (NOUN) : XgWbQWdA
+# adrenergic blocking agent (NOUN) : ^bWWbGzIgDbII|DWdA
+# cleaning agent (NOUN) : UlU|AXg
+# chemotherapeutic agent (NOUN) : ^lb^bAWrRfRWdA
+# blolking agent (NOUN) : ^rAlbZbGbDWdA
+# bleaching agent (NOUN) : ]rRcAIr
+# anti-inflammatory agent (NOUN) : ^bWWjQXzWWdA
+# basic coloring agent (NOUN) : WjQA|UfWZbAUcAIr
+# levigating agent (NOUN) : WjD^lbXg
+# hypertensive agent (NOUN) : ^jIWbRAbW^bWdA
+# dispersing agent (NOUN) : RsDUbDXg
+# ganglion blocking agent (NOUN) : XbWwIU|DAjWAzDZbGbDWdA
+# agent (NOUN) : WwI|WdA
+# soothing agent (NOUN) : Qs\lW^lbWdA
+
+"agglutination"
+# agglutination (NOUN) : WzWX|RRbDWzW
+
+"agglutinin"
+# agglutinin (NOUN) : WzWX|RUl
+
+"agitate"
+# agitate (NOUN) : ArRbD
+
+"agitation"
+# agitation (NOUN) : ArRbD,^zWRsD, XfWU|DRsIWbD
+
+"aglycone"
+# aglycone (NOUN) : WcAzII|[lWsD
+
+"agonist"
+# agonist (NOUN) : XbAGlWWdA
+
+"ajmaline"
+# ajmaline (NOUN) : WcXzQfII|D
+
+"alanine"
+# alanine (NOUN) : WbIIbD|D
+
+"albumen"
+# albumen (NOUN) : WbIRsQ|D
+
+"albumin"
+# albumin (NOUN) : WbIRsQ|D
+
+"albuminuria"
+# albuminuria (NOUN) : GbDRcADr
+
+"alcohol"
+# stearyl alcohol (NOUN) : Uz\gWbI|IWbI[lWlI
+# sugar alcohol (NOUN) : GbWWbI[lWlI
+# isopropyl alcohol (NOUN) : W|Ul]zIl]|I WbI[lWlI
+# unsaturated alcohol (NOUN) : RsI]l^lbWbI[lI
+# alcohol (NOUN) : WbI[lWlI
+# methyl alcohol (NOUN) : Qg\|IWbI[lWlI
+# benzyl alcohol (NOUN) : RgDX|IWbI[lWlI
+
+"alcoholism"
+# alcoholism (NOUN) : WbI[lWlIXsWGlA
+
+"alcoholysis"
+# alcoholysis (NOUN) : WbI[lWlIRsD^c
+
+"aldehyde"
+# aldehyde (NOUN) : WbIGg^|Gz
+
+"aldohexose"
+# aldohexose (NOUN) : WbIGl^gAUlWlUz
+
+"aldolase"
+# aldolase (NOUN) : WbIGlIIbWbXg
+
+"aldose"
+# aldose (NOUN) : WbIGlWlUz
+
+"aldosterone"
+# aldosterone (NOUN) : WbIGlUz\gIlD
+
+"alga"
+# red alga (NOUN) : ^lWXlIw
+
+"alizarin"
+# alizarin (NOUN) : WbII|XbI|D
+
+"alkali"
+# alkali (NOUN) : WjQA|
+
+"alkaline"
+# alkaline (NOUN) : WjQA|UfW
+# alkaline (NOUN) : WjQA|UfW
+
+"alkalinity"
+# acidity or alkalinity (NOUN) : WcAUfW
+# alkalinity (NOUN) : WjQA|Gl
+# alkalinity (NOUN) : WjQA|UfW
+# phenolphthalein alkalinity (NOUN) : ]gDlI]z\bIIgW|DWjQA|Gl
+
+"alkaloid"
+# ergot alkaloid (NOUN) : QcAAbAWbI[bIIlW|Gz
+# indole alkaloid (NOUN) : W|DGlIAkWbI[bIIlW|Gz
+# opium alkaloid (NOUN) : 
+# alkaloid (NOUN) : WbI[bIIlW|Gz
+# rauwolfia alkaloid (NOUN) : 
+# cinchona alkaloid (NOUN) : U|D[lDb WbI[bIIlW|Gb
+
+"alkalosis"
+# alkalosis (NOUN) : WbI[bII|UfW^jIWcAXzW
+
+"alkane"
+# alkane (NOUN) : WbI[bD
+
+"alkene"
+# alkene (NOUN) : WbI[gD
+
+"alkine"
+# alkine (NOUN) : 
+
+"alkyl"
+# alkyl (NOUN) : WbI[|I 
+
+"alkylate"
+# alkylate (NOUN) : WbI[|I^lb
+
+"alkylation"
+# alkylation (NOUN) : WbI[|I^lb
+
+"alkylbenzene"
+# alkylbenzene (NOUN) : WbI[|IRgDXgD
+
+"allergen"
+# allergen (NOUN) : WbIIgIzAgD
+
+"allergy"
+# allergy (NOUN) : WbIIgIzA|
+# immediate type allergy (NOUN) : XzAU|^jWWbIIgIzA|
+
+"allobarbital"
+# allobarbital (NOUN) : WbIIlRbR|\bI
+
+"allopurinol"
+# allopurinol (NOUN) : WbIIl]wI|DlI
+
+"allotrope"
+# allotrope (NOUN) : GlWUlZg
+
+"aloe"
+# aloe (NOUN) : WrWUfIIbD(WbIIlWg)
+# powdered aloe (NOUN) : WbIIlWgRsDQbI
+
+"alpha"
+# alpha (NOUN) : WbI]b
+
+"alpha-blocker"
+# alpha-blocker (NOUN) : WbI]b-A|I^bWWdA
+
+"alpha-decay"
+# alpha-decay (NOUN) : WbI]b-RsWAl|
+
+"alpha-disintegration"
+# alpha-disintegration (NOUN) : WbI]b-Al|RjD
+
+"alpha-helix"
+# alpha-helix (NOUN) : WbI]b^gII|AUz
+
+"alpha-naphthylamine"
+# alpha-naphthylamine (NOUN) : WbI]b-Db]z\|IWbQ|D
+
+"alpha-particle"
+# alpha-particle (NOUN) : WbI]bW|RXb
+
+"alpha-ray"
+# alpha-ray (NOUN) : WbI]bUfD
+
+"alpha-receptor"
+# alpha-receptor (NOUN) : WbI]bUsWrWZg
+
+"alumina"
+# alumina (NOUN) : WbIIsQ|Db
+
+"aluminum"
+# aspirin aluminum (NOUN) : WbUz]|I|DWbIIsQ|DwQ
+# aluminum (NOUN) : WbIIsQ|DwQ
+# aluminum (NOUN) : WbIIsQ|DwQ
+# aspirin aluminum (NOUN) : WbUz]|I|DWbIIsQ|DwQ
+
+"amebacide"
+# amebacide (NOUN) : ^bWWbQgRbWdA
+
+"amine"
+# amine (NOUN) : WbQ|D
+# wake amine (NOUN) : 
+
+"amino"
+# amino (NOUN) : WbQ|Dl
+
+"aminoacetophenone"
+# aminoacetophenone (NOUN) : WbQ|DlWbUg\l]gDlD
+
+"aminobenzoate"
+# ethyl aminobenzoate (NOUN) : WbQ|DlRgDXlUbDWg\|I
+# ethyl aminobenzoate (NOUN) : WbQ|DlWbDU|A^dWUbDWg\|I
+# aminobenzoate (NOUN) : WbQ|DlWbDU|A^dWUbDWjQ
+
+"aminobenzyl"
+# anhydrous aminobenzyl (NOUN) : QsUsWbQ|DlRgDX|I
+
+"aminopeptidade"
+# aminopeptidade (NOUN) : 
+
+"aminophylline"
+# aminophylline (NOUN) : WbQ|Dl]|II|D
+
+"aminopyrine"
+# aminopyrine (NOUN) : WbQ|Dl]|I|D
+
+"aminotransferase"
+# aminotransferase (NOUN) : WbQ|DlA|XfDW|^rUl
+
+"ammonia"
+# ammonia (NOUN) : WbQQlD|Wb
+
+"ammonium"
+# ammonium (NOUN) : WbQQlDwQ
+
+"ammonolysis"
+# ammonolysis (NOUN) : AbWbQQlD|WbRsD^c
+
+"amobarbital"
+# amobarbital (NOUN) : WbQ|DlRbR|\bI
+
+"amorphism"
+# amorphism (NOUN) : QsXfW^jW
+
+"amorphous"
+# amorphous (NOUN) : QsXfW^jW
+# amorphous (NOUN) : QsXfWUfW
+# amorphous (NOUN) : QsXfW^jW
+
+"amorphously"
+# amorphously (NOUN) : QsXfW^jW
+
+"amount"
+# total amount (NOUN) : ZlWIdW
+
+"amoxicillin"
+# amoxicillin (NOUN) : WbQlAU|U|II|D
+
+"AMP"
+# cyclic AMP (NOUN) : AlI|QlWdW AMP, UbW|[zII|A AMP
+# AMP (NOUN) : WbGgDlU|DQlDl]lUz]gW|\z
+
+"amperometrically"
+# titrate amperometrically (NOUN) : XfDIwXfAXfW
+
+"amphethamine"
+# amphethamine (NOUN) : WbQ]g\bQ|D
+
+"ampholyte"
+# ampholyte (NOUN) : WdWUfWXfD^cX|I
+
+"amphotericin"
+# amphotericin (NOUN) : WbQ]l\gI|U|D
+
+"ampicillin"
+# anhydrous ampicillin (NOUN) : QsUsWbQ]|U|II|D
+# ampicillin (NOUN) : WbQ]|U|II|D
+# anhydrous ampicillin (NOUN) : QsUsWbQ]|U|II|D
+
+"ampule"
+# leak test for ampule (NOUN) : WcQ]sWsI DsZsIU|^fQ
+# ampule (NOUN) : WcQ]sWsI
+
+"amylase"
+# amylase (NOUN) : WbQ|IIbWbXg
+
+"amylopectin"
+# amylopectin (NOUN) : WbQ|IIl]gA\|D
+
+"amylose"
+# amylose (NOUN) : WbQ|IIlWlUz
+
+"anabolism"
+# anabolism (NOUN) : GlW^lb
+# anabolism (NOUN) : GlW^lbXbAWrW
+
+"anaerobe"
+# facultative anaerobe (NOUN) : \lWUfW^jQA|UfWAwD
+
+"analeptic"
+# analeptic (NOUN) : AbWXbWWdA
+
+"analgesic"
+# narcotic analgesic (NOUN) : QbWdAUfWX|D\lWWdA
+# analgesic (NOUN) : X|D\lWWdA
+# antipyretics analgesic (NOUN) : ^cWjIX|D\lWXg
+
+"analysis"
+# radiometric analysis (NOUN) : RbWUbRsDUfA
+# radio activation analysis (NOUN) : RbWUb^lbRsDUfA
+# X-rays analysis (NOUN) : XUfD ^cUfA
+# differential thermal analysis (NOUN) : U|ZbWjIRsDUfA
+# elementary analysis (NOUN) : WsfDUlRsDUfA
+# spectroscopic analysis (NOUN) : RsDAlbWRsDUfA
+# volumetric analysis (NOUN) : WrWIdWRsDUfARfR
+# gravimetric analysis (NOUN) : XsWIdWRsDUfARfR
+# qualitative analysis (NOUN) : XfWUfWRsDUfA
+# analysis (NOUN) : ^cUfA
+# quantitaive analysis (NOUN) : XfWIdWRsDUfA
+
+"analyze"
+# analyze (NOUN) : ^cUfA
+
+"anaphylaxis"
+# passive anaphylaxis (NOUN) : UsGlWXfAWbDb]|IIbAU|Uz
+# anaphylaxis (NOUN) : WbDb]|IIbAU|Uz
+
+"anemia"
+# aplastic anemia (NOUN) : XcUcWRsIIdWUfWR|D^jI
+# hemolytic anemia (NOUN) : WrW^jIUfWR|D^jI
+# pernicious anemia (NOUN) : WbAUfWR|D^jI
+# anemia (NOUN) : R|D^jI
+# sickle-cell anemia (NOUN) : U|[zIUg]lR|D^jIXzW
+
+"anesthesia"
+# spinal anesthesia (NOUN) : ZfAUsQbZs|
+# infiltration anesthesia (NOUN) : Z|QWwDQbZs|
+# surface anesthesia (NOUN) : ]r]|QbZs|
+# epidural anesthesia (NOUN) : AjWQbAWl|QbZs|
+# subarachnoideal anesthesia (NOUN) : 
+
+"anesthetic"
+# intravenous anesthetic (NOUN) : XfWQcAQbZs|Xg
+# anesthetic (NOUN) : QbZs|WdA
+# inhalational anesthetic (NOUN) : ^zRW|RQbZs|WdA
+# basal anesthetic (NOUN) : A|ZlQbZs|Xg
+# general anesthetic (NOUN) : XfDU|DQbZs|WdA
+# local anesthetic (NOUN) : AsAUlQbZs|WdA
+# volatile anesthetic (NOUN) : ^s|RbIUfWQbZs|WdA
+
+"angiotensin"
+# angiotensin (NOUN) : WcDX|Wl\gDU|D
+
+"angle"
+# repose angle (NOUN) : WbDU|AAbA
+# contact angle (NOUN) : XfRZlAAbA
+
+"anhydrate"
+# anhydrate (NOUN) : QsUsQsI
+
+"anhydride"
+# acid anhydride (NOUN) : UbDQsUsQsI
+
+"anisotropy"
+# magnetic anisotropy (NOUN) : XbA|W|RbWUfW
+
+"anomer"
+# anomer (NOUN) : WbDlQf
+
+"ANS"
+# ANS (NOUN) : XbWwIU|DAjWAk
+
+"antacid"
+# antacid (NOUN) : XgUbDWdA
+
+"antagonism"
+# noncompetitive antagonism (NOUN) : R|AjWXcWXfAA|I^bW
+# antagonism (NOUN) : A|I^bWXbAWrW
+# competitive antagonism (NOUN) : AjWXcWXfAA|I^bW
+
+"antagonist"
+# narcotic antagonist (NOUN) : QbWdAUfWA|I^bWWdA
+# antagonist (NOUN) : A|I^bWQsIX|I
+# calcium antagonist (NOUN) : [bIUwQ A|I^bWWdA
+# aldosterone antagonist (NOUN) : ^bWWbIGlUz\gIlDWdA
+# aldosterone antagonist (NOUN) : WbIGlUz\gIlD A|I^bWWdA
+
+"antagonize"
+# antagonize (NOUN) : A|I^bWXbAWrW
+
+"anthelmintic"
+# anthelmintic (NOUN) : AsZsWWdA
+
+"anthocyanin"
+# anthocyanin (NOUN) : WbD\lU|WbD|D
+
+"antibiotic"
+# antibiotic (NOUN) : ^bWUcWQsIX|I
+# antibiotic (NOUN) : ^bWUcWQsIX|I
+# aminoglycoside antibiotic (NOUN) : WbQ|DlRcGbWZg ^bWUcWQsIX|I
+
+"antibody"
+# antibody (NOUN) : ^bWZg
+# immune antibody (NOUN) : QjDWjA^bWZg
+
+"anticholinesterase"
+# anticholinesterase (NOUN) : ^bW[lII|DWgUz\gIbXgWdA
+
+"anticholinesterate"
+# anticholinesterate (NOUN) : ^bW[lII|DWgUz\gIbXg
+
+"anticoagulant"
+# anticoagulant (NOUN) : ^bWWzWAlWdA
+# anticoagulant (NOUN) : ^jIWcAWzWAlXfX|WdA
+# anticoagulant (NOUN) : ^jIWcAWzWAlWfAXgWdA
+
+"antidepressant"
+# antidepressant (NOUN) : ^bWX|DXfWWdA
+
+"antidote"
+# antidote (NOUN) : ^cGlAWdA
+
+"antiemetic"
+# antiemetic (NOUN) : X|D\lWdA
+
+"antiepileptic"
+# antiepileptic (NOUN) : ^bWAbDX|IWdA
+# antiepileptic (NOUN) : ^bWAbDX|IWdA
+
+"antifoaming"
+# antifoaming (NOUN) : Ul]lXg
+
+"antiformin"
+# dental antiformin (NOUN) : Z|AlbWrWZbWbWjQUlUbDWbD\|]lQ|DWcA
+# dental antiformin (NOUN) : Z|AlbWrWWbD\|]lQ|D
+
+"antigen"
+# antigen (NOUN) : ^bWWsfD
+# artificial antigen (NOUN) : W|DAlW^bWWsfD
+# complete antigen (NOUN) : WlbDXfD^bWWsfD
+# F antigen (NOUN) : F ^bWWsfD
+
+"antigenic"
+# antigenic (NOUN) : ^bWWsfDUfW
+# antigenic (NOUN) : ^bWWsfDUfW
+
+"antigenicity"
+# antigenicity (NOUN) : ^bWWsfDUfW
+
+"antihistamine"
+# antihistamine (NOUN) : ^bW^|Uz\bQ|DWdA
+
+"antimetabolism"
+# antimetabolism (NOUN) : GcUbA|I^bW
+
+"antimetabolite"
+# antimetabolite (NOUN) : GcUbA|I^bWQsIX|I
+
+"antimetabolize"
+# antimetabolize (NOUN) : GcUbA|I^bW
+
+"antioxidant"
+# antioxidant (NOUN) : UbD^lbRbWX|Xg
+# antioxidant (NOUN) : ^bWUbD^lbXg
+
+"antiphlogistic"
+# antiphlogistic (NOUN) : UlGbQWdA
+
+"antiplasmin"
+# antiplasmin (NOUN) : ^bW]zIIbXzQ|DWdA
+
+"antipyretic"
+# antipyretic (NOUN) : ^cWjIWdA
+
+"antipyrine"
+# antipyrine (NOUN) : WbD\|]|I|D
+
+"antiseptic"
+# urinary tract antiseptic (NOUN) : WrIlRbWRsWdA
+# antiseptic (NOUN) : RbWRsXg
+
+"antisyphilitic"
+# antisyphilitic (NOUN) : AsQcWdA
+
+"antitoxin"
+# dried tetanus antitoxin (NOUN) : AfDXl]bUbW]sW^bWGlAUl
+# dried botulism antitoxin (NOUN) : AfDXlRl\sII|DsUz^bWGlAUl
+# gas gangrene antitoxin (NOUN) : AbUz Al|XfGlAUl
+# dried gas gangrene antitoxin (NOUN) : AfDXlAbUzAl|Xf^bWGlAUl
+# dried diphtheria antitoxin (NOUN) : AfDXlG|]z\gI|Wb^bWGlAUl
+# antitoxin (NOUN) : ^bWGlAUl
+
+"antitussive"
+# centrally acting antitussive (NOUN) : XsWZsUfWX|D^cWdA
+
+"antivenom"
+# dried agkistrodon halys antivenom (NOUN) : 
+# dried trimeresurus flavovirids antivenom (NOUN) : AfDXl^bRs^bWGlAUl
+
+"anxiety"
+# anxiety (NOUN) : RsIWbD
+
+"aphrodisiac"
+# aphrodisiac (NOUN) : Zl|WzQWdA
+
+"apoenzyme"
+# apoenzyme (NOUN) : Wb]l^rUl
+
+"apoplexy"
+# cerebral apoplexy (NOUN) : Dl|XlIXsW
+
+"apparatus"
+# plaster spreading apparatus (NOUN) : AjWAlXfD]lA|
+# Kipp's apparatus (NOUN) : 
+
+"appetizer"
+# appetizer (NOUN) : U|AWrAXzWX|DWdA
+
+"application"
+# new drug application (NOUN) : U|DWdAU|DZfW
+
+"applicator"
+# applicator (NOUN) : Gl]lA|
+
+"approval"
+# manufacturing approval (NOUN) : XgXlUzWW|D
+
+"area"
+# peak area (NOUN) : ]|[zQjDXfA
+
+"areca"
+# areca (NOUN) : R|DIbW
+
+"arginase"
+# arginase (NOUN) : WbIzA|DbWbXg
+
+"arginine"
+# arginine (NOUN) : WbIzA|D|D
+
+"aromatization"
+# aromatization (NOUN) : RbW^dWXlA^lb
+
+"aromatize"
+# aromatize (NOUN) : RbW^dWXlA^lb
+
+"arrhythmia"
+# arrhythmia (NOUN) : RsXfWQcA
+
+"arsenic"
+# limit test for arsenic (NOUN) : R|UlU|^fQRfR
+
+"arteriosclerosis"
+# arteriosclerosis (NOUN) : GlWQcAAjW^lbXzW
+
+"ascorbate"
+# sodium ascorbate (NOUN) : WbUz[lIzRzUbD Db\zIwQ
+
+"ase"
+# ATP ase (NOUN) : 
+
+"aseptically"
+# manipulate aseptically (NOUN) : QsAwDXlXbA
+
+"asparagine"
+# asparagine (NOUN) : WbUz]bIbX|D
+
+"aspartate"
+# aspartate (NOUN) : WbUz]bIz\zUbDWjQ
+
+"aspirator"
+# aspirator (NOUN) : WcUz]|IgW|\f
+
+"aspirin"
+# aspirin (NOUN) : WbUz]|I|D
+
+"assay"
+# vitamin A assay (NOUN) : R|\bQ|DAXfWIdW
+# assay (NOUN) : AfQXfW
+# assay (NOUN) : AfQXfW
+# microbial assay (NOUN) : Q|UcWQsI^bAXfAXfWIdW
+# assay (NOUN) : XfWIdWRfR
+
+"assimilate"
+# assimilate (NOUN) : GlW^lb
+
+"associate"
+# associate (NOUN) : ^l|^bR
+# associate (NOUN) : ^l|^bR
+
+"Association"
+# Pharmaceutical Manufacturers Association (NOUN) : Q|AsAXgWdAAlWWfR^jR^l|
+# Japan Pharmaceutical Manufacturers Association (NOUN) : W|IRlDXgWdAAlWWfR^jR^l|
+# Japan Pharmaceutical Manufacturers Association (NOUN) : XgWdA^jR
+# association (NOUN) : ^l|^bR
+# Japan Pharmaceutical Association (NOUN) : W|IRlDWdAXgUb^l|
+# International Federation of Pharmaceutical Manufacturers Association (NOUN) : AsAXgXgWdAWfRZgWjD^bR^l|
+
+"assurance"
+# quality assurance (NOUN) : ]sQX|IRlXzW
+# medical care assurance (NOUN) : Wz|IrRlXbW
+
+"asthma"
+# bronchial asthma (NOUN) : A|AlbDX|ZfDU|A
+
+"astringency"
+# astringency (NOUN) : UsIjQ
+
+"astringent"
+# astringent (NOUN) : UsIjQWdA
+# astringent (NOUN) : UsIjQ
+
+"astringently"
+# astringently (NOUN) : UsIjQ
+
+"ataraxic"
+# ataraxic (NOUN) : XfWU|DWbDXfWXg
+
+"atherosclerosis"
+# atherosclerosis (NOUN) : GlWQcAAjW^lbXzW
+
+"atom"
+# asymmetric carbon atom (NOUN) : RsXg\bDUlWsfDXb
+
+"ATP"
+# ATP (NOUN) : WbGgDlU|D\zI|]lUz]gW|\z
+
+"atractylodes"
+# powdered atractylodes (NOUN) : ZbWZsIRsDQbI
+
+"atropine"
+# atropine (NOUN) : Wb\zIl]|D
+
+"auramine"
+# auramine (NOUN) : WlWlIfQ|D
+
+"auto-immunity"
+# auto-immunity (NOUN) : XbA|QjDWjA
+
+"autoclave"
+# autoclave (NOUN) : Wl\l[zIIgW|Rz
+
+"autoradiogram"
+# autoradiogram (NOUN) : Wl\lIbG|WlAzIcQ
+
+"autoradiography"
+# autoradiography (NOUN) : Wl\lIbG|WlAzIc]|, RbWUbUfDUbX|DRfR
+
+"autoxidation"
+# autoxidation (NOUN) : XbGlWUbD^lb
+
+"autoxidize"
+# autoxidize (NOUN) : XbGlWUbD^lb
+# autoxidize (NOUN) : XbGlWUbD^lb
+
+"auxin"
+# auxin (NOUN) : WlWlAU|D
+
+"auxochrome"
+# auxochrome (NOUN) : XlUcAGbD
+
+"availability"
+# availability (NOUN) : 
+# availability (NOUN) : 
+
+"avidin"
+# avidin (NOUN) : WcR|G|D
+
+"axially"
+# bond axially (NOUN) : ZsARbW^dWAjI^bR
+
+"azathiopurine"
+# azathiopurine (NOUN) : WbXb\|Wl]wI|D
+
+"azo-dye"
+# azo-dye (NOUN) : WbXlUcAUl
+
+"azotometry"
+# azotometry (NOUN) : 
+
+"azulactone"
+# azulactone (NOUN) : 
+

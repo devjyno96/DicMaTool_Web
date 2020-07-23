@@ -1,0 +1,3790 @@
+"Muslem"
+ar (이슬람교의)
+ap (이슬람교이다)
+
+"Muslim"
+ar (이슬람교의)
+ap (이슬람교이다)
+
+"macabre"
+ar (무시무시한)
+ap (무시무시하다)
+
+"macaronic"
+ar (여러가지가 섞인)
+ap (여러가지가 섞이다)
+
+"macedonian"
+ar (마케도니아의)
+ap (마케도니아이다)
+
+"machiavelian"
+ar (마키아벨리 식의)
+ap (마키아벨리 식이다)
+
+"machine-made"
+ar (기계로 만든)
+ap (기계로 만들다)
+
+"machine-readable"
+ar (기계판독이 가능한)
+ap (기계판독이 가능하다)
+
+"machine-sewed"
+ar (재봉틀로 박은)
+ap (재봉틀로 박다)
+
+"machinelike"
+ar (기계 같은)
+ap (기계 같다)
+
+"macho"
+ar (씩씩한)
+ap (씩씩하다)
+
+"macrobiotic"
+ar (장수식의)
+ap (장수식이다)
+
+"macrocephalic"
+ar (대두증의)
+ap (대두증이다)
+
+"macrocosmic"
+ar (대우주의)
+ap (대우주이다)
+
+"macroscopic"
+ar (거시적인)
+ap (거시적이다)
+
+"macular"
+ar (점이 있는)
+ap (점이 있다)
+
+"maculate"
+ar (반점이 있는)
+ap (반점이 있다)
+
+"mad"
+ar (미친)
+ap (미치다)
+# A ^go mad  (VERB) : [(SUBJ A/가) 미치<VERB>]/다
+# a mad scheme  (NOUN) : 무모한 계획
+# ^be mad as a hatter  (VERB) : 정신이 완전히 돌다
+# ^be mad as a hare  (VERB) : 정신이 완전히 돌다
+# ^be mad with A (VERB) : [(ADJUNCT A/로) 미치<VERB>]/다
+# like mad   (ADV) : 미친 듯이
+# mad as hell  (ADV) : 노발대발하여
+# mad as a hornet  (ADV) : 노발대발하여
+# mad as a wet hen  (ADV) : 노발대발하여
+
+"madagascan"
+ar (마다가스카르의)
+ap (마다가스카르이다)
+
+"madcap"
+ar (무모한)
+ap (무모하다)
+
+"maddening"
+ar (미칠 듯 한)
+ap (미칠 듯 하다)
+
+"madding"
+ar (미친)
+ap (미치다)
+
+"made"
+ar (만든)
+ap (만들다)
+# home made goods  (NOUN) : 국산품
+# made ground  (NOUN) : 매립지
+# ^be made to order (VERB) : 안성맞춤이다
+# ^be made up of A (VERB) : [(OBJ A/로) 구성되<VERB>]/다
+# ^have it made  (VERB) : 잘 되리라고 생각하다
+# ^got it made  (VERB) : 잘 되리라고 생각하다
+
+"made-to-order"
+ar (주문하여 만든)
+ap (주문하여 만들다)
+
+"made-up"
+ar (만든)
+* 지어내다 (excuse 변명)
+* 화장하다 (lady 숙녀)
+* 완성하다 (task 작업)
+ap (만들다)
+
+"maestoso"
+ar (장엄한)
+ap (장엄하다)
+
+"magdalenian"
+ar (막달레니안기의)
+ap (막달레니안기이다)
+
+"maggoty"
+ar (구더기가 들끓는)
+* 변덕스럽다 (fellow 사람)
+* 구더기가 들끓다:ADJ->VERB (food 음식)
+ap (구더기가 들끓다:ADJ->VERB)
+
+"magian"
+ar (마기족의)
+ap (마기족이다)
+
+"magic"
+ar (마법의)
+ap (마법이다)
+
+"magical"
+ar (마술적인)
+ap (마술적이다)
+
+"magisterial"
+ar (권위있는)
+ap (권위있다)
+
+"magistral"
+ar (의사 처방의)
+ap (의사 처방이다)
+# magistral staff  (NOUN) : 교직원
+
+"magnanimous"
+ar (도량이 넓은)
+ap (도량이 넓다)
+
+"magnetic"
+ar (자석의)
+ap (자석이다)
+
+"magneto-optical"
+ar (광자기의)
+ap (광자기이다)
+
+"magnetoelectric"
+ar (자석전기의)
+ap (자석전기이다)
+
+"magnifiable"
+ar (확대할 수 있는)
+ap (확대할 수 있다)
+
+"magnificent"
+ar (장대한)
+ap (장대하다)
+
+"magniloquent"
+ar (호언장담하는)
+ap (호언장담하다:ADJ->VERB)
+
+"mahometan"
+ar (회교의)
+ap (회교이다)
+
+"maiden"
+ar (처녀의)
+* 소녀의 (innocent 천진난만한)
+* 처녀:ADJ->NOUN (voyage 항해) (flight 비행)
+ap (처녀이다)
+
+
+"maidenish"
+ar (처녀인 체 하는)
+ap (처녀인 체 하다:ADJ->VERB)
+
+"maidenlike"
+ar (처녀다운)
+ap (처녀답다)
+
+"maidenly"
+ar (소녀의)
+ap (소녀이다)
+
+"maidish"
+ar (처녀인 체 하는)
+ap (처녀인 체 하다)
+
+"maieutic"
+ar (소크라테스식 문답법의)
+ap (소크라테스식 문답법이다)
+
+"mail"
+ar (우편의)
+ap (우편이다)
+
+"mail-order"
+ar (통신 판매제의)
+ap (통신 판매제이다)
+
+"mailable"
+ar (우송할 수 있는)
+ap (우송할 수 있다)
+
+"mailclad"
+ar (쇠사슬 갑옷을 입은)
+ap (쇠사슬 갑옷을 입다)
+
+"mailed"
+ar (갑옷을 입은)
+ap (갑옷을 입다)
+# the mailed fist  (NOUN) : 완력
+
+"maimed"
+ar (불구의)
+ap (불구이다)
+
+"main"
+ar (주된)
+ap (주가 되다)
+# ^have an eye to the main chance (VERB) : 자기의 이익을 꾀하다
+
+"mainline"
+ar (중요한)
+ap (중요하다)
+
+"maintainable"
+ar (유지할 수 있는)
+ap (유지할 수 있다)
+
+"majestic"
+ar (위엄있는)
+ap (위엄이 있다)
+
+"major"
+ar (중요한)
+* 주요하다 (country 국가) (route 통로) (sport 스포츠) (river 강)
+ap (중요하다)
+# major cycle (NOUN) : 주순환
+# major industries (NOUN) : 주요산업
+# major international oil company (NOUN) : 국제석유자본
+# major interval  (NOUN) : 장음정
+# major peak (NOUN) : 절항
+# major product (NOUN) : 주요제품
+# major key  (NOUN) : 장조
+# the major premise  (NOUN) : 대전제
+# the major premiss  (NOUN) : 대전제
+# the major scale  (NOUN) : 장음계
+# major portion (NOUN) : 대부분
+# the major term  (NOUN) : 대명사
+
+"make-believe"
+ar (거짓의)
+ap (거짓이다)
+
+"make-or-break"
+ar (성패 양단간의)
+ap (성패 양단간이다)
+
+"makeshift"
+ar (임시 변통의)
+ap (임시 변통이다)
+
+"maladjusted"
+ar (잘못 조절된)
+ap (잘못 조절되다)
+
+"maladroit"
+ar (서투른)
+ap (서투르다)
+
+"malagasy"
+ar (마다가스카르의)
+ap (마다가스카르이다)
+
+"malapert"
+ar (뻔뻔스러운)
+ap (뻔뻔스럽다)
+
+"malapropian"
+ar (말을 우스꽝스럽게 쓰는)
+ap (말을 우스꽝스럽게 쓰다:ADJ->VERB)
+
+"malarial"
+ar (말라리아의)
+ap (말라리아이다)
+# malarial fever  (NOUN) : 말라리아 열
+
+"malay"
+ar (말레이 사람의)
+ap (말레이 사람이다)
+
+"malayan"
+ar (말레이의)
+ap (말레이이다)
+# Malayan whip  (NOUN) : 위장 장애물
+
+"malaysian"
+ar (말레이의)
+ap (말레이이다)
+
+"malcontent"
+ar (불만이 있는)
+ap (불만이 있다)
+
+"male"
+ar (남자의)
+ap (남자이다)
+# male chauvinism  (NOUN) : 남성 우월주의
+# male chauvinist pig  (NOUN) : 여성 해방에 반대하는 남성
+# male screw  (NOUN) : 수나사
+# male tank  (NOUN) : 중전차
+
+"maledictory"
+ar (저주의)
+ap (저주이다)
+
+"malefic"
+ar (해를 끼치는)
+ap (해를 끼치다:ADJ->VERB)
+
+"maleficent"
+ar (유해한)
+ap (유해하다)
+
+"malevolent"
+ar (악의 있는)
+ap (악의 있다)
+
+"malfeasant"
+ar (나쁜 짓을 하는)
+ap (나쁜 짓을 하다:ADJ->VERB)
+
+"malformed"
+ar (보기 흉한)
+ap (보기 흉하다)
+
+"malicious"
+ar (악의가 있는)
+* 해롭다 (code 코드)
+ap (악의가 있다)
+
+"malign"
+ar (유해한)
+ap (유해하다)
+
+"malignant"
+ar (악의가 있는)
+ap (악의가 있다)
+
+"malleable"
+ar (펼 수 있는)
+ap (펼 수 있다)
+
+"malnourished"
+ar (영양 불량의)
+ap (영양 불량이다)
+
+"malodorant"
+ar (악취를 풍기는)
+ap (악취를 풍기다:ADJ->VERB)
+
+"malodorous"
+ar (악취를 풍기는)
+ap (악취를 풍기다:ADJ->VERB)
+
+"malpighian"
+ar (말피기의)
+ap (말피기이다)
+# Malpighian body  (NOUN) : 말피기 소체
+# Malpighian corpuscle  (NOUN) : 말피기 소체
+# Malpighian tube  (NOUN) : 말피기 관
+
+"malt"
+ar (엿기름의)
+ap (엿기름이다)
+# malt liquor  (NOUN) : 맥아주
+# malt sugar  (NOUN) : 맥아당
+
+"maltese"
+ar (몰타의)
+ap (몰타이다)
+# Maltese dog  (NOUN) : 몰타 개
+
+"malthusian"
+ar (맬더스의)
+ap (맬더스이다)
+
+"malty"
+ar (엿기름의)
+ap (엿기름이다)
+
+"malvaceous"
+ar (아욱과의)
+ap (아욱과이다)
+
+"mammary"
+ar (유방의)
+ap (유방이다)
+
+"mammiferous"
+ar (유방이 있는)
+ap (유방이 있다)
+
+"mammiform"
+ar (유방 모양의)
+ap (유방 모양이다)
+
+"mammoth"
+ar (거대한)
+ap (거대하다)
+
+"man-sized"
+ar (어른 형의)
+ap (어른 형이다)
+
+"manageable"
+ar (다루기 쉬운)
+ap (다루기 쉽다)
+
+"managerial"
+ar (경영상의)
+ap (경영상이다)
+# managerial technique (NOUN) : 관리기술
+
+"managing"
+ar (관리하는)
+ap (관리하다:ADJ->VERB)
+# managing director  (NOUN) : 전무이사
+# managing editor  (NOUN) : 편집국장
+# managing expenses (NOUN) : 경영비
+
+"mancunian"
+ar (맨체스터의)
+ap (맨체스터이다)
+
+"mandatory"
+ar (강제적인)
+ap (강제적이다)
+# mandatory administration  (NOUN) : 위임 통치
+# mandatory control (NOUN) : 법적규제
+# mandatory power  (NOUN) : 위임 통치국
+# mandatory rule  (NOUN) : 위임 통치
+
+"mandibular"
+ar (아래턱의)
+ap (아래턱이다)
+
+"maned"
+ar (갈기가 있는)
+ap (갈기가 있다)
+
+"maney"
+ar (갈기같은)
+ap (갈기같다)
+
+"manful"
+ar (남자다운)
+ap (남자답다)
+
+"manganic"
+ar (망간의)
+ap (망간이다)
+
+"mangy"
+ar (옴이 오른)
+* 옴이 오르다 (horse 말)
+* 털이 빠지다 (carpet 융단)
+* 초라하다 (house 집)
+ap (옴이 오르다)
+
+
+"maniac"
+ar (광란의)
+ap (광란적이다)
+
+"maniacal"
+ar (열광적인)
+ap (열광적이다)
+
+"manic"
+ar (조양적인)
+ap (조양적이다)
+
+"manic-depressive"
+ar (조울병의)
+ap (조울병이다)
+
+"manifest"
+ar (명백한)
+ap (명백하다)
+# it ^is manifest at a glance  (VERB) : 일목 요연하다
+
+"manifestative"
+ar (표명하는)
+ap (표명하다:ADJ->VERB)
+
+"manifold"
+ar (다수의)
+ap (다수이다)
+# manifold paper  (NOUN) : 복사지
+# manifold writer  (NOUN) : 복사기
+
+"manlike"
+ar (사람 같은)
+ap (사람 같다)
+
+"manly"
+ar (남자다운)
+ap (남자답다)
+
+"manmade"
+ar (인조의)
+ap (인조이다)
+
+"manned"
+ar (사람을 실은)
+ap (사람을 싣다)
+# manned space flight  (NOUN) : 유인 우주비행
+# manned spaceship (NOUN) : 유인 우주선
+
+"mannered"
+ar (버릇이 있는)
+ap (버릇이 있다)
+
+"mannerless"
+ar (예절을 모르는)
+ap (예절을 모르다:ADJ->VERB)
+
+"mannish"
+ar (남자 같은)
+ap (남자 같다)
+
+"manoeuverable"
+ar (조종할 수 있는)
+ap (조종할 수 있다)
+
+"manoeuvrable"
+ar (조종할 수 있는)
+ap (조종할 수 있다)
+
+"manometric"
+ar (압력계로 잰)
+ap (압력계로 재다)
+
+"manontroppo"
+ar (그러나 지나치지 않도록)
+
+"manotial"
+ar (영지의)
+ap (영지이다)
+
+"mantled"
+ar (망토를 입은)
+ap (망토를 입다)
+
+"mantoman"
+ar (직접 대면한)
+ap (직접 대면하다)
+
+"manual"
+ar (손의)
+ap (손으로 하다:ADJ->VERB)
+# manual alphabet  (NOUN) : 지화문자
+# manual exercise  (NOUN) : 집총 교련
+# manual fire engine  (NOUN) : 수동 소화펌프
+# manual industry  (NOUN) : 수공업
+# manual labor  (NOUN) : 손일
+# manual work  (NOUN) : 수작업
+# manual training  (NOUN) : 수공공작
+# manual worker  (NOUN) : 육체 노동자
+
+"manufacturable"
+ar (제조할 수 있는)
+ap (제조할 수 있다)
+
+"manufactural"
+ar (제조의)
+ap (제조이다)
+
+"manufacturing"
+ar (제조의)
+ap (제조이다)
+
+"manumotive"
+ar (수동의)
+ap (수동이다)
+
+"manuplalatory"
+ar (손으로 다루는)
+ap (손으로 다루다:ADJ->VERB)
+
+"manuplative"
+ar (손으로 다루는)
+ap (손으로 다루다:ADJ->VERB)
+
+"manuscript"
+ar (손으로 쓴)
+ap (손으로 쓰다)
+
+"many"
+ar (많은)
+* 더 많다 (more 것)
+* 많다 (field 분야) (slide 슬라이드) (spring 스프링)
+* 여러:ADJ->DET (year 해)
+ap (많다)
+# a good many (ADJ) : 꽤 많다
+# a great many (ADJ) : 퍽 많다
+# as many again (ADJ) : 갑절의
+# as many as about NUM1 {-ORDNUM} ^A (NOUN) : [(POSS [(NMODS [(MODS [대략<ADV>]) NUM1]) 만큼<NOUN>]/의) A]
+# as so many (ADJ) : 같은 수의
+# how many of A (NOUN) : [(RELCL [(MODS [얼마나<ADV>]) 많<ADJ>]/한) A]
+# like so many (ADJ) : 같은 수의
+# many a time (ADV) : 몇번이고
+# many a time and often (ADV) : 몇번이고
+# many more (NOUN ADV ADJ) : 1) 더 많은 것 
+			 2) 더더욱
+                         3) 더 많다
+# many of (ADJ) : 많다
+# many of A (NOUN) :
+//[(RELCL [많<ADJ>]/한) A]
+	* [(ADJUNCT [(NMODS A) 중<NOUN>]) (RELCL [많<ADJ>]/한) 사람<NOUN>]
+	* A (you 당신네)
+# many times (ADV) : 여러번
+# many time (ADV) : 여러번
+
+"manyheaded"
+ar (여러 개의 머리를 가진)
+ap (여러 개의 머리를 가지다)
+
+"manyminded"
+ar (변덕스러운)
+ap (변덕스럽다)
+
+"manysided"
+ar (다방면의)
+ap (다방면이다)
+
+"maoismist"
+ar (모택동주의의)
+ap (모택동주의이다)
+
+"maori"
+ar (마오리 사람의)
+ap (마오리 사람이다)
+
+"marble"
+ar (대리석의)
+ap (대리석이다)
+
+"marbled"
+ar (대리석 무늬의)
+ap (대리석 무늬이다)
+
+"marbleedged"
+ar (가장자리 면에 대리석을 댄)
+ap (가장자리 면에 대리석을 대다)
+
+"marblehearted"
+ar (무정한)
+ap (무정하다)
+
+"marbly"
+ar (대리석의)
+ap (대리석이다)
+
+"marcan"
+ar (성 마가의)
+ap (성 마가이다)
+
+"marcando"
+ar (먕료한)
+ap (먕료하다)
+
+"marginal"
+ar (한계의)
+* 가장 자리의 (space 여백)
+* 난 외의 (note 주)
+* 한계 수익점의 (chip 칩)
+* 한계의 (ability 능력)
+ap (한계이다)
+
+# marginal cost (NOUN) : 한계비용
+# marginal cost of acquisition (NOUN) : 한계취득비용
+# marginal cost of production (NOUN) : 한계생산비
+# marginal customer (NOUN) : 한계소비자
+# marginal demand price (NOUN) : 한계수요가격
+# marginal disutility of labor (NOUN) : 노동의 한계비 효용
+# marginal dose (NOUN) : 한계출비
+# marginal efficiency of capital (NOUN) : 자본의 한계효율
+# marginal entrepreneur (NOUN) : 한계기업가
+# marginal factor cost (NOUN) : 한계요소비용
+# marginal firm (NOUN) : 한계비용
+# marginal income (NOUN) : 한계소득
+# marginal producer (NOUN) : 한계생산자
+# marginal productivity of labor (NOUN) : 노동의 한계생산성
+# marginal productivity of theory of interest (NOUN) : 이자의 한계생산력설
+# marginal productivity of theory of wages (NOUN) : 임금의 한계생산력설
+# marginal profits  (NOUN) : 작은 이익
+# marginal propensity to consume  (NOUN) : 한계 소비 성향
+# marginal propensity to import  (NOUN) : 한계 수입 성향
+# marginal propensity to save  (NOUN) : 한계 저축 성향
+# marginal purchase (NOUN) : 한계매입
+# marginal rate of substitution (NOUN) : 한계대차율
+# marginal returns (NOUN) : 한계수익
+# marginal revenue (NOUN) : 한계수입
+# marginal revolution (NOUN) : 한계혁명
+# marginal supply price (NOUN) : 한계공급가격
+# marginal utility  (NOUN) : 한계 효용
+# marginal utility of income (NOUN) : 소득의 한계효용
+# marginal value product (NOUN) : 한계가치생산물
+# marginal worker (NOUN) : 한계노동자
+
+"marginate"
+ar (가장자리를 댄)
+ap (가장자리를 대다)
+
+"marian"
+ar (성모 마리아의)
+ap (성모 마리아이다)
+
+"marine"
+ar (바다의)
+* 바다의 (animal 동물)
+* 해군의 (power 힘)
+ap (바다이다)
+
+# marine cable  (NOUN) : 해저전선
+# Marine Corps  (NOUN) : 해병대
+# marine court  (NOUN) : 해사 재판소
+# marine force  (NOUN) : 해병대
+# marine insurance  (NOUN) : 해상 보험
+# marine products  (NOUN) : 해산물
+# marine soap  (NOUN) : 선박용 비누
+# marine stores  (NOUN) : 중고품 선구류
+# marine transportation  (NOUN) : 해운 운송
+
+"marital"
+ar (부부의)
+ap (부부이다)
+
+"maritime"
+ar (바다의)
+ap (바다이다)
+# Maritime Alps  (NOUN) : 연해 알프스
+# Maritime Provinces  (NOUN) : 연해주
+# Maritime Territory  (NOUN) : 연해주
+# maritime law (NOUN) : 해사법
+# maritime power (NOUN) : 해운국
+
+"marked"
+ar (표가 있는)
+* 두드러지다:ADJ->VERB (difference 차이)
+* 표가 있다 (card 카드)
+ar (표가 있다)
+
+# marked man  (NOUN) : 요주의 인물
+
+"market-leading"
+ar (시장 선도적인)
+ap (시장 선도적이다)
+
+"marketable"
+ar (시장 판매에 알맞는)
+ap (시장 판매에 알맞다:ADJ->VERB)
+# marketable price (NOUN) : 시장가격
+# marketable securities (NOUN) : 시장성 있는 증권
+
+"marlaceous"
+ar (이회질의)
+ap (이회질이다)
+
+"marly"
+ar (이회암으로 된)
+ap (이회암으로 되다)
+
+"marmorean"
+ar (대리석의)
+ap (대리석이다)
+
+"marriageable"
+ar (혼기에 달한)
+ap (혼기에 달하다)
+
+"married"
+ar (결혼한)
+ap (결혼하다)
+
+"marrowless"
+ar (골수가 없는)
+ap (골수가 없다)
+
+"marrowy"
+ar (골수가 있는)
+ap (골수가 있다)
+
+"marshy"
+ar (늪의)
+ap (늪이다)
+
+"marsupial"
+ar (육아낭의)
+ap (육아낭이다)
+
+"martial"
+ar (군인의)
+ap (군인이다)
+# martial spirit  (NOUN) : 군인 정신
+
+"martian"
+ar (화성인의)
+ap (화성인이다)
+
+"marvelous"
+ar (놀랄 만한)
+ap (놀랄 만하다)
+
+"marvellous"
+ar (놀랄 만한)
+ap (놀랄 만하다)
+
+"marxian"
+ar (마르크스의)
+ap (마르크스이다)
+
+"masculine"
+ar (사내다운)
+ap (사내답다)
+
+"mashy"
+ar (짓이긴)
+ap (짓이기다)
+
+"masked"
+ar (가면을 쓴)
+ap (가면을 쓰다)
+
+"masonic"
+ar (비밀 공제 조합의)
+ap (비밀 공제 조합이다)
+
+"mass"
+ar (대량의)
+ap (대량이다)
+
+"massive"
+ar (크고 무거운)
+* 크고 무겁다 (volume 책)
+* 훌륭하다 (intellegence 지성)
+ap (크고 무겁다)
+
+"massy"
+ar (크고 무거운)
+ap (크고 무겁다)
+
+"master"
+ar (지배자의)
+ap (지배자이다)
+
+"masterful"
+ar (건방진)
+* 건방지다 (person 사람)
+* 훌륭하다 (address 연설)
+ap (건방지다)
+
+"masterly"
+ar (명인 다운)
+ap (명인 답다)
+
+"masticable"
+ar (씹을 수 있는)
+ap (씹을 수 있다)
+
+"masticatory"
+ar (저작의)
+ap (저작이다)
+
+"mastoid"
+ar (젖꼭지 모양의)
+ap (젖꼭지 모양이다)
+
+"mat"
+ar (둔한)
+ap (둔하다)
+
+"matchable"
+ar (필적하는)
+ap (필적하다:ADJ->VERB)
+
+"matching"
+ar (동일한)
+ap (동일하다)
+
+"matchless"
+ar (비길 데 없는)
+ap (비길 데 없다)
+
+"material"
+ar (물질의)
+ap (물질이다)
+# ^be material to A (VERB->ADJ) : [(OBJ2 A/에게) 중요하<ADJ>]/다
+# material cause  (NOUN) : 자료인
+# material civilization  (NOUN) : 물질 문명
+# material element  (NOUN) : 물질 요소
+# material evidence  (NOUN) : 물적 증거
+# material noun  (NOUN) : 물질 명사
+# material oriented industries (NOUN) : 원료시장지향적산업
+# material revolution (NOUN) : 재료혁명
+# materials purchased (NOUN) : 구입재료
+# the material theory of heat  (NOUN) : 열의 물질설
+
+"materialistic"
+ar (유물론적인)
+ap (유물론적이다)
+
+"maternal"
+ar (어머니의)
+ap (어머니이다)
+
+"matey"
+ar (상냥한)
+ap (상냥하다)
+
+"mathematic"
+ar (수학의)
+ap (수학이다)
+
+"mathematical"
+ar (수학적인)
+ap (수학적이다)
+# mathmatical economics (NOUN) : 수리경제학
+# mathmatical statistics (NOUN) : 수리통계학
+
+"matinal"
+ar (아침의)
+ap (아침이다)
+
+"matriarchal"
+ar (여가장제의)
+ap (여가장제이다)
+
+"matricidal"
+ar (모친을 살해한)
+ap (모친을 살해하다)
+
+"matrilineal"
+ar (모계의)
+ap (모계이다)
+
+"matrimonial"
+ar (결혼의)
+ap (결혼이다)
+
+"matronal"
+ar (기혼부인의)
+ap (기혼부인이다)
+---------------------------
+"matronly"
+ar (기혼 부인다운)
+ap (기혼 부인답다)
+
+"matted"
+ar (광택을 없애는)
+ap (광택을 없애다:ADJ->VERB)
+
+"matted"
+ar (돗자리 를 깐)
+ap (돗자리 를 깔다)
+
+"matter-of-course"
+ar (당연한)
+ap (당연하다)
+
+"matter-of-fact"
+ar (사실의)
+ap (사실이다)
+
+"mattery"
+ar (고름이 나는)
+ap (고름이 나다:ADJ->VERB)
+
+"mature"
+ar (성숙한)
+* 잘익다 (fruit 과일)
+* 신중하다 (thinking 생각)
+* 성숙하다 (person 사람)
+ap (성숙하다)
+
+# ^have a mature appearance  (VERB) : 어른다와 보이다
+# mature company (NOUN) : 성숙된 경제
+# mature economy (NOUN) : 성숙된 경제
+# mature phase (NOUN) : 성숙기
+
+"matutinal"
+ar (아침의)
+ap (아침이다)
+
+"maty"
+ar (사교적인)
+ap (사교적이다)
+
+"maudlin"
+ar (눈물이 헤픈)
+ap (눈물이 헤프다)
+
+"mawkish"
+ar (메스꺼운)
+ap (메스껍다)
+
+"maxillary"
+ar (턱의)
+ap (턱이다)
+
+"maximum"
+ar (최대의)
+ap (최대이다)
+# maximum size of A (NOUN) : [(POSS [(NMODS [최대<NOUN>]) A]/의) 크기<NOUN>]
+
+"mayan"
+ar (마야족의)
+ap (마야족이다)
+
+"mayoral"
+ar (시장의)
+ap (시장이다)
+
+"mazy"
+ar (복잡한)
+ap (복잡하다)
+
+"me-too"
+ar (모방하는)
+ap (모방하다:ADJ->VERB)
+
+"meadowy"
+ar (목초지의)
+ap (목초지이다)
+
+"meager"
+ar (마른)
+ap (마르다)
+
+"meagre"
+ar (마른)
+ap (마르다)
+
+"mealy"
+ar (가루 모양의)
+ap (가루 모양이다)
+
+"mealy-mouthed"
+ar (완곡하게 말하는)
+ap (완곡하게 말하다:ADJ->VERB)
+
+"mean"
+ar (비천한)
+* 초라하다 (appearance 차림새)
+* 평범하다 (talent 재능)
+* 인색하다 (personality 성품)
+* 언짢다 (feeling 기분)
+* 중간의 (time 시간) (place 위치) (order 순서)
+* 평균의 (rainfall 강우) (warmup 온도)
+ap (비천하다)
+# for the mean time  (PP->ADV) : 그동안에
+# in the mean time  (PP->ADV) : 그동안에
+# in the mean while  (PP->ADV) : 그동안에
+# mean distance  (NOUN) : 평균거리
+
+"mean-spirited"
+ar (비열한)
+ap (비열하다)
+
+"meandrous"
+ar (굽이쳐 흐르는)
+ap (굽이쳐 흐르다:ADJ->VERB)
+
+"meaning"
+ar (의미심장한)
+ap (의미심장하다)
+
+"meaningful"
+ar (의미심장한)
+ap (의미심장하다)
+
+"meaningless"
+ar (의미 없는)
+ap (의미 없다)
+
+"measled"
+ar (홍역에 걸린)
+ap (홍역에 걸리다)
+
+"measly"
+ar (홍역의)
+ap (홍역이다)
+
+"measurable"
+ar (잴 수 있는)
+ap (잴 수 있다)
+# ^come within a measurable distance of A (VERB) : [(ADJUNCT A/에) (MODS [가까이<ADV>]) 가<VERB>]/다
+
+"measured"
+ar (정확히 잰)
+ap (정확히 재다)
+
+"measureless"
+ar (무한의)
+ap (무한이다)
+
+"meat-and-potatoes"
+ar (기본적인)
+ap (기본적이다)
+
+"meatless"
+ar (고기가 없는)
+ap (고기가 없다)
+
+"meaty"
+ar (고기의)
+* 고기의 (dinner 만찬)
+* 내용이 충실하다 (volume 책)
+ap (고기이다)
+
+"mechanical"
+ar (기계적인)
+ap (기계적이다)
+
+"mechanistic"
+ar (유물론의)
+ap (유물론적이다)
+
+"medaled"
+ar (메달을 탄)
+ap (메달을 타다)
+
+"meddlesome"
+ar (참견하기 좋아하는)
+ap (참견하기 좋아하다:ADJ->VERB)
+
+"mediaeval"
+ar (중세의)
+ap (중세이다)
+
+"medial"
+ar (중간에 있는)
+ap (중간에 있다)
+
+"median"
+ar (중앙의)
+* 평균적이다 (return 수익)
+ap (중앙이다)
+# median strip  (NOUN) : 중간 경계지
+
+"mediate"
+ar (중개의)
+ap (중개이다)
+
+"mediatorial"
+ar (중재인의)
+ap (중재인이다)
+
+"mediatory"
+ar (중재의)
+ap (중재이다)
+
+"medical"
+ar (의학의)
+* 의학적이다 (record 기록)
+ap (의학이다)
+# medical advertisement  (NOUN) : 약광고
+# medical book (NOUN) : 의학 서적
+# medical certificate  (NOUN) : 진단서
+# medical checkup  (NOUN) : 종합 건강진단
+# medical compound  (NOUN) : 약제
+# medical course (NOUN) : 의학 과정
+# medical examination  (NOUN) : 건강 진단
+# medical geography  (NOUN) : 병리 지리학
+# medical industry (NOUN) : 의료산업
+# medical jurisprudence  (NOUN) : 법의학
+# medical man  (NOUN) : 의사
+# medical practitioner  (NOUN) : 의사
+# medical recore  (NOUN) : 진료기록
+# medical science  (NOUN) : 의학
+# medical ward  (NOUN) : 내과 병동
+# the medical art  (NOUN) : 의술
+# the medical corps  (NOUN) : 군의부
+# under medical treatment  (NOUN) : 치료
+
+"medicative"
+ar (의약적 효능이 있는)
+ap (의약적 효능이 있다)
+
+"medicean"
+ar (메디치가의)
+ap (메디치가이다)
+
+"medicinal"
+ar (약의)
+ap (약이다)
+
+"medicobotanical"
+ar (약용 식물학의)
+ap (약용 식물학이다)
+
+"medicogalvanic"
+ar (전기요법의)
+ap (전기요법이다)
+
+"medicolegal"
+ar (법의학의)
+ap (법의학이다)
+
+"medieval"
+ar (중세의)
+ap (중세이다)
+
+"mediocre"
+ar (평범한)
+ap (평범하다)
+
+"meditative"
+ar (명상적인)
+ap (명상적이다)
+
+"mediterranean"
+ar (지중해의)
+ap (지중해이다)
+
+"medium"
+ar (중위의)
+ap (중위이다)
+# medium frequency  (NOUN) : 중주파
+# medium range ballistic missile  (NOUN) : 중거리 탄도탄
+# medium wave  (NOUN) : 중파
+# a medium boiled egg  (NOUN) : 반숙란
+# medium and small businesses  (NOUN) : 중소기업
+
+"medium-distance"
+ar (중거리의)
+ap (중거리이다)
+
+"medium-sized"
+ar (중형의)
+ap (중형이다)
+
+"mediumistic"
+ar (강신술의)
+ap (강신술이다)
+
+"medley"
+ar (주워 모은)
+ap (주워 모으다)
+# medley race  (NOUN) : 메들리 경주
+# medley relay  (NOUN) : 혼성계영
+
+"medullary"
+ar (골수의)
+ap (골수이다)
+
+"meek"
+ar (용기가 없는)
+ap (용기가 없다)
+
+"meet"
+ar (적당한)
+ap (적당하다)
+
+"megacephalic"
+ar (머리가 큰)
+ap (머리가 크다)
+
+"megalithic"
+ar (거석의)
+ap (거석이다)
+
+"megalopolitan"
+ar (대도시의)
+ap (대도시이다)
+
+"megascopic"
+ar (확대된)
+ap (확대되다)
+
+"meiotic"
+ar (감수분열의)
+ap (감수분열이다)
+
+"melancholy"
+ar (우울한)
+ap (우울하다)
+
+"melioristic"
+ar (세계 개선론의)
+ap (세계 개선론이다)
+
+"melliferous"
+ar (꿀이 나는)
+ap (꿀이 나다:ADJ->VERB)
+
+"mellifluous"
+ar (달콤하게 흐르는)
+ap (달콤하게 흐르다:ADJ->VERB)
+
+"mellow"
+ar (부드러운)
+* 익다:ADJ->VERB (fruit 과일)
+* 온화하다 (charactor 성품)
+ap (부드럽다)
+
+"melodic"
+ar (선율의)
+ap (선율이다)
+
+"melodious"
+ar (선율이 아름다운)
+ap (선율이 아름답다)
+
+"melodramatic"
+ar (멜로드라마의)
+ap (멜로드라마이다)
+
+"melted"
+ar (녹은)
+ap (녹다)
+
+"melting"
+ar (녹는)
+ap (녹다:ADJ->VERB)
+
+"membraneous"
+ar (막의)
+ap (막이다)
+
+"memorable"
+ar (기억할 만한)
+ap (기억할 만하다)
+
+"memorial"
+ar (기념의)
+ap (기념이다)
+
+"mendable"
+ar (고칠 수 있는)
+ap (고칠 수 있다)
+
+"mendacious"
+ar (허위의)
+ap (허위이다)
+
+"mendicant"
+ar (구걸하는)
+ap (구걸하다:ADJ->VERB)
+
+"menial"
+ar (천한)
+ap (천하다)
+
+"mensal"
+ar (달마다의)
+ap (달마다이다)
+
+"mensal"
+ar (식탁의)
+ap (식탁이다)
+
+"menstrual"
+ar (월경의)
+ap (월경이다)
+
+"menstruous"
+ar (월경의)
+ap (월경이다)
+
+"mensurable"
+ar (측정할 수 있는)
+ap (측정할 수 있다)
+
+"mensural"
+ar (도량에 관한)
+ap (도량에 관하다)
+
+"mental"
+ar (마음의)
+* 정신적이다 (strain 압력)
+ap (마음이다)
+# mental deficiency  (NOUN) : 지적결함
+# mental retardation  (NOUN) : 지적결함
+# mental disease  (NOUN) : 정신병
+# mental illness  (NOUN) : 정신병
+# ^make a mental note of A (VERB) : [(OBJ A/을) 기억해두<VERB>]/다
+# mental health  (NOUN) : 정신 위생
+# mental home  (NOUN) : 정신병자 보호 수용소
+# mental hospotal  (NOUN) : 정신병자 보호 수용소
+# mental reservation  (NOUN) : 의중 유보
+# mental test  (NOUN) : 지능 측정
+# mental power  (NOUN) : 지능
+# a mental weakness  (NOUN) : 정신 허약
+# a mental defective  (NOUN) : 정신 박약아
+# mental strife  (NOUN) : 갈등
+# a mental specialist  (NOUN) : 정신과 의사
+
+"mental"
+ar (마음의)
+ap (정신적이다)
+
+"mentalistic"
+ar (유심론의)
+ap (유심론적이다)
+
+"mentholated"
+ar (박하뇌를 함유한)
+ap (박하뇌를 함유하다)
+
+"mephistophelian"
+ar (메피스토페레스의)
+ap (메피스토페레스이다)
+
+"mephitic"
+ar (악취가 나는)
+ap (악취가 나다:ADJ->VERB)
+
+"mercantile"
+ar (상업의)
+ap (상업적이다)
+# mercantile agency (NOUN) : 상업신용조사소
+# mercantile bill (NOUN) : 상업어음
+# mercantile credit (NOUN) : 외상판매
+# mercantile law  (NOUN) : 상법
+# mercantile marine (NOUN) : 상선대
+# mercantile nation  (NOUN) : 상업국
+# mercantile paper  (NOUN) : 상업어음
+# mercantile society (NOUN) : 상업주의적사회
+# mercantile system (NOUN) : 중상주의
+
+"mercenary"
+ar (돈만 바라는)
+ap (돈만 바라다:ADJ->VERB)
+
+"merchantable"
+ar (장사에 알맞는)
+ap (장사에 알맞다:ADJ->VERB)
+
+"mercian"
+ar (머시아의)
+ap (머시아이다)
+
+"merciful"
+ar (자비로운)
+ap (자비롭다)
+
+"merciless"
+ar (무자비한)
+ap (무자비하다)
+
+"mercurial"
+ar (수은의)
+ap (수은이다)
+# mercurial barometer  (NOUN) : 수은 기압계
+# mercurial gauge  (NOUN) : 수은 압력계
+# mercurial ointment  (NOUN) : 수은 연고
+
+"mercurian"
+ar (수성의)
+ap (수성이다)
+
+"mercuric"
+ar (수은의)
+ap (수은이다)
+
+"mercurous"
+ar (수은의)
+ap (수은이다)
+
+"mere"
+ar (단순한)
+ap (단순하다)
+
+"merged"
+ar (합병된)
+ap (합병되다)
+
+"meridian"
+ar (메리노양털로 만든)
+ap (메리노양털로 만들다)
+
+"meridian"
+ar (자오선의)
+ap (자오선이다)
+
+"merited"
+ar (가치있는)
+ap (가치있다)
+
+"meritorious"
+ar (가치 있는)
+ap (가치 있다)
+
+"merovingian"
+ar (메로빙 왕조의)
+ap (메로빙 왕조이다)
+
+"merry"
+ar (명랑한)
+ap (명랑하다)
+# merry as a cricket  (ADV) : 매우 명랑하게
+# merry as a a grig  (ADV) : 매우 명랑하게
+# merry as a a lark  (ADV) : 매우 명랑하게
+# make merry  (VERB) : 흥청거리다
+# ^make merry over A (VERB) : [(OBJ A/을) 놀려대<VERB>]/다
+
+"mesial"
+ar (중앙의)
+ap (중앙이다)
+
+"mesmeric"
+ar (최면술의)
+ap (최면술이다)
+
+"mesne"
+ar (중간의)
+ap (중간이다)
+
+"mesolithic"
+ar (중석기 시대의)
+ap (중석기 시대이다)
+
+"messianic"
+ar (구세주의)
+ap (구세주이다)
+
+"messy"
+ar (어질러 놓은)
+ap (어질러 놓다)
+
+"metabolic"
+ar (신진대사의)
+ap (신진대사이다)
+
+"metacentric"
+ar (경심의)
+ap (경심이다)
+
+"metagenetic"
+ar (순정 세대 교번의)
+ap (순정 세대 교번이다)
+
+"metalic"
+ar (금속성의)
+ap (금속성이다)
+# metalic currency  (NOUN) : 경화
+# a metalic ring  (NOUN) : 금속성 반향
+# a metalic sound  (NOUN) : 금속성 소리
+
+"metallic"
+ar (금속성의)
+ap (금속성이다)
+# a metallic ring  (NOUN) : 금속성 반향
+# a metallic sound  (NOUN) : 금속성 소리
+# metallic currency  (NOUN) : 경화
+# metallic money (NOUN) : 금속화폐
+# metallic standard (NOUN) : 금속본위제
+
+"metalline"
+ar (금속의)
+ap (금속이다)
+
+"metalloid"
+ar (비금속의)
+ap (비금속이다)
+
+"metallurgic"
+ar (야금의)
+ap (야금이다)
+
+"metameric"
+ar (이성질체의)
+ap (이성질체이다)
+
+"metamorphous"
+ar (변성의)
+ap (변성이다)
+
+"metaphorical"
+ar (은유적인)
+ap (은유적이다)
+
+"metaphrastic"
+ar (직역적인)
+ap (직역적이다)
+
+"metaphysical"
+ar (형이상학의)
+ap (형이상학적이다)
+
+"metaplasmic"
+ar (후형질의)
+ap (후형질이다)
+
+"metapsychic"
+ar (심령 현상 연구의)
+ap (심령 현상 연구이다)
+
+"metempirical"
+ar (경험을 초월한)
+ap (경험을 초월하다)
+
+"meteoric"
+ar (유성의)
+ap (유성이다)
+
+"meteorologic"
+ar (기상의)
+ap (기상이다)
+# meteorologic report (NOUN) : 일기예보
+
+"methodic"
+ar (방식에 따른)
+ap (방식에 따르다)
+
+"methodical"
+ar (정연한)
+ap (정연하다)
+
+"methodist"
+ar (메더디스트 파의)
+ap (메더디스트 파이다)
+
+"methodistic"
+ar (메더디스트 파의)
+ap (메더디스트 파이다)
+
+"methodological"
+ar (방법론적인)
+ap (방법론적이다)
+
+"meticulous"
+ar (지나치게 소심한)
+ap (지나치게 소심하다)
+
+"metonymic"
+ar (환유적인)
+ap (환유적이다)
+
+"metooistic"
+ar (모방주의의)
+ap (모방주의적이다)
+
+"metric"
+ar (미터법의)
+ap (미터법이다)
+
+"metro"
+ar (대도시권의)
+ap (대도시권이다)
+
+"metronomic"
+ar (메트로놈의)
+ap (메트로놈이다)
+
+"metronymic"
+ar (모계에 유래하는)
+ap (모계에 유래하다:ADJ->VERB)
+
+"metropolitan"
+ar (대도시의)
+ap (대도시이다)
+
+"metropolitan-scale"
+ar (대도시 규모의)
+ap (대도시 규모이다)
+
+"mettled"
+ar (기운찬)
+ap (기운차다)
+
+"mettlesome"
+ar (원기 있는)
+ap (원기 있다)
+
+"mexican"
+ar (멕시코의)
+ap (멕시코이다)
+
+"miasmal"
+ar (독기의)
+ap (독기에 의해 생기다:ADJ->VERB)
+
+"mickey"
+ar (감상적인)
+ap (감상적이다)
+
+"mickle"
+ar (큰)
+ap (크다)
+
+"micro"
+ar (미세한)
+ap (미세하다)
+
+"microbial"
+ar (미생물의)
+ap (미생물이다)
+
+"microcephalous"
+ar (소두의)
+ap (소두이다)
+
+"microcosmic"
+ar (소우주의)
+ap (소우주이다)
+# microcosmic salt  (NOUN) : 인염
+
+"microcosmical"
+ar (소우주의)
+ap (소우주이다)
+# microcosmic salt  (NOUN) : 인염
+
+"microcrystalline"
+ar (미정질의)
+ap (미정질이다)
+
+"microeconomic"
+ar (미시 경제학의)
+ap (미시 경제학이다)
+
+"microminiature"
+ar (극소형의)
+ap (극소형이다)
+
+"micron"
+ar (현미경의)
+ap (현미경이다)
+
+"microscopic"
+ar (현미경의)
+ap (현미경이다)
+
+"microscopical"
+ar (현미경의)
+ap (현미경이다)
+
+"microseical"
+ar (맥동의)
+ap (맥동이다)
+
+"microseismic"
+ar (맥동의)
+ap (맥동이다)
+
+"mid"
+ar (중앙의)
+ap (중앙이다)
+# in mid air  (PP->ADV) : 공중에
+# in the mid NUM1 (PP->ADV) : (ADJUNCT [(POSS NUM1/의) 중반<NOUN>]/에)
+
+"mid-european"
+ar (중부 유럽의)
+ap (중부 유럽이다)
+
+"mid-victorian"
+ar (빅토리아 왕조 중기의)
+ap (빅토리아 왕조 중기이다)
+
+"midday"
+ar (정오의)
+ap (정오이다)
+
+"middle"
+ar (한가운데의)
+ap (한가운데이다)
+# middle school (NOUN) : 중학교
+# middle age (NOUN) : 중년
+
+"middle-aged"
+ar (중년의)
+ap (중년이다)
+
+"middle-class"
+ar (중류 계급의)
+ap (중류 계급이다)
+
+"middle-income"
+ar (중류 계급의)
+ap (중류 계급이다)
+
+"middle-of-the-road"
+ar (중용의)
+ap (중용이다)
+
+"middle-sized"
+ar (중간 크기의)
+ap (중간 크기이다)
+
+"middlemost"
+ar (한복판의)
+ap (한복판이다)
+
+"middling"
+ar (중간급의)
+ap (중간급이다)
+
+"mideastern"
+ar (중동의)
+ap (중동이다)
+
+"midi"
+ar (미디의)
+ap (미디이다)
+
+"midmost"
+ar (한가운데의)
+ap (한가운데이다)
+
+"midnight"
+ar (자정의)
+ap (자정이다)
+
+"midterm"
+ar (중반기의)
+ap (중반기이다)
+
+"midway"
+ar (중도의)
+ap (중도적이다)
+
+"midweek"
+ar (주중의)
+ap (주중이다)
+
+"midwestern"
+ar (미국 중부의)
+ap (미국 중부이다)
+
+"midwinter"
+ar (한겨울의)
+ap (한겨울이다)
+
+"midyear"
+ar (학년 중간의)
+ap (학년 중간이다)
+
+"mighty"
+ar (강한)
+ap (강하다)
+# ^make a mighty bother  (VERB) : 대단히 귀찮은 일을 저지르다
+# mighty hit  (NOUN) : 큰 성공
+# mighty wind  (NOUN) : 강풍
+# mighty works  (NOUN) : 기적
+
+"mignon"
+ar (작고 아름다운)
+ap (작고 아름답다)
+
+"migrant"
+ar (이주하는)
+ap (이주하다:ADJ->VERB)
+
+"migrating"
+ar (이주하는)
+ap (이주하다:ADJ->VERB)
+
+"migratory"
+ar (이주하는)
+ap (이주하다:ADJ->VERB)
+# migratory movement (NOUN) : 인구이동
+# migratory worker (NOUN) : 계절노동자
+
+"milanese"
+ar (밀라노의)
+ap (밀라노이다)
+
+"milch"
+ar (젖이 나는)
+ap (젖이 나다:ADJ->VERB)
+
+"mild"
+ar (온화한)
+* 온화하다 (personality 성품)
+* 화창하다 (weather 날씨)
+* 독하지 않다 (taste 맛)
+* 가볍다 (disease 병) (symptoms 증세)
+* 약하다 (virus 바이러스)
+ap (온화하다)
+
+# mile steel  (NOUN) : 연강
+# ^draw it mild  (VERB) : 조심성 있게 말하다
+
+"mild-spoken"
+ar (말씨가 부드러운)
+ap (말씨가 부드럽다)
+
+"mildewy"
+ar (곰팡이가 생긴)
+ap (곰팡이가 생기다)
+
+"milesian"
+ar (미레토스의)
+ap (미레토스이다)
+
+"miliary"
+ar (좁쌀 모양의)
+ap (좁쌀 모양이다)
+
+"militant"
+ar (호전적인)
+ap (호전적이다)
+
+"military"
+ar (군대의)
+ap (군대이다)
+# military academy  (NOUN) : 육군사관학교
+# military affairs  (NOUN) : 군사
+# military age  (NOUN) : 징병 적령
+# Military Armistice Commission  (NOUN) : 군사 정전위원회
+# Military Assistance Advisory Group  (NOUN) : 군사고문단
+# military attache  (NOUN) : 대사관 부 무관
+# military band  (NOUN) : 군악대
+# military correspondent  (NOUN) : 종군기자
+# military coup  (NOUN) : 군사혁명
+# military demonstration line  (NOUN) : 군사 분계선
+# military exercise (NOUN) : 군사 훈련
+# military forces  (NOUN) : 군대
+# military government  (NOUN) : 군사 정부
+# military governor  (NOUN) : 군정 장관
+# military hospital  (NOUN) : 육군 병원
+# military intelligence  (NOUN) : 군사 정보
+# military intervention  (NOUN) : 무력개입
+# military junta  (NOUN) : 군사혁명정부
+# military law  (NOUN) : 군법
+# military loan (NOUN) : 군사공채
+# military man  (NOUN) : 군인
+# military note  (NOUN) : 군표
+# military polices  (NOUN) : 헌병
+# military powers  (NOUN) : 병력
+# military prestige  (NOUN) : 무위
+# military regime  (NOUN) : 군사정권
+# military riview  (NOUN) : 열병식
+# military science  (NOUN) : 군사학
+# military service  (NOUN) : 병력의무
+# military takeover  (NOUN) : 군사혁명
+# military top  (NOUN) : 전투 장루
+# military training  (NOUN) : 군대 교육
+
+"milk-and-water"
+ar (맥 빠진)
+ap (맥 빠지다)
+
+"milk-livered"
+ar (겁 많은)
+ap (겁이 많다)
+
+"milk-toast"
+ar (대가 약한)
+ap (대가 약하다)
+
+"milk-white"
+ar (유백색의)
+ap (유백색이다)
+
+"milky"
+ar (젖같은)
+* 젖의 (liquid 액체)
+* 우유를 많이 내다:ADJ->VERB (cow 소)
+* 유액을 분비하다:ADJ->VERB (plant 식물)
+* 젖으로 이루어지다:ADJ->VERB (food 음식)
+* 온순하다 (person 사람)
+* 부드럽다 (music 음악)
+ap (젖같다)
+
+"mill-run"
+ar (보통의)
+ap (보통이다)
+
+"millenary"
+ar (천개의)
+ap (천개이다)
+
+"millennial"
+ar (천년의)
+ap (천년이다)
+
+"million"
+ar (백만의)
+ap (백만이다)
+
+"millionfold"
+ar (백만배의)
+ap (백만배이다)
+
+"milt"
+ar (산란기의)
+ap (산란기이다)
+
+"miltonian"
+ar (밀턴의)
+ap (밀턴이다)
+
+"mimetic"
+ar (모방의)
+ap (모방이다)
+
+"mimic"
+ar (흉내내는)
+ap (흉내내다:ADJ->VERB)
+
+"miminy-piminy"
+ar (점잔빼는)
+ap (점잔빼다:ADJ->VERB)
+
+"minacious"
+ar (위협적인)
+ap (위협적이다)
+
+"minatory"
+ar (협박적인)
+ap (협박적이다)
+
+"mincing"
+ar (뽐내는)
+ap (뽐내다)
+
+"mind-bending"
+ar (환각을 일으키는)
+ap (환각을 일으키다:ADJ->VERB)
+
+"mind-blowing"
+ar (환각작용을 하는)
+ap (환각작용을 하다:ADJ->VERB)
+
+"mindexpanding"
+ar (환각을 일으키는)
+ap (환각을 일으키다:ADJ->VERB)
+
+"mindful"
+ar (유의하는)
+ap (유의하다:ADJ->VERB)
+# mindful THAT_CLAUSE (ADJ) : [(OBJ [(RELCL THAT_CLAUSE/하는) 것<NOUN>]/을) 유의하<VERB>]/다
+
+"mindless"
+ar (지각없는)
+ap (지각이 없다)
+
+"mine"
+ar (나의)
+ap (나의것이다)
+
+"mineral"
+ar (광물의)
+ap (광물이다)
+
+"mineralogical"
+ar (광물학의)
+ap (광물학이다)
+
+"mingy"
+ar (인색한)
+ap (인색하다)
+
+"mini"
+ar (미니의)
+ap (미니이다)
+
+"miniature"
+ar (소형의)
+ap (소형이다)
+
+"minikin"
+ar (작은)
+ap (작다)
+
+"minimal"
+ar (최소의)
+ap (최소이다)
+
+"minimum"
+ar (최소의)
+ap (최소이다)
+
+"minimus"
+ar (가장 어린)
+ap (가장 어리다)
+
+"miniscule"
+ar (아주 작은)
+ap (아주 작다)
+
+"ministerial"
+ar (성직의)
+* 성직자의 (manner 태도)
+* 내각의 (benches 석)
+* 행정상의 (operation 시행)
+ap (성직이다)
+
+# the ministerial benches  (NOUN) : 하원의 여당
+# the Ministerial Council  (NOUN) : 각료 이사회
+
+"ministrant"
+ar (봉사하는)
+ap (봉사하다:ADJ->VERB)
+
+"minoan"
+ar (크레타 문명의)
+ap (크레타 문명이다)
+
+"minor"
+ar (중요하지 않은)
+ap (중요하지 않다)
+# G minor  (NOUN) : 사 단조
+# in a minor key  (PP->ADV) : 단조로
+# minor confinement  (NOUN) : 경금고
+# minor coin (NOUN) : 소액화폐
+# minor fine  (NOUN) : 과료
+# minor industries (NOUN) : 중소산업
+# minor league  (NOUN) : 마이너 리그 
+# minor orders  (NOUN) : 부조제 이하의 성직자
+# minor premise  (NOUN) : 소 전제
+# minor suit  (NOUN) : 다이아몬드만 모은 패
+# minor term  (NOUN) : 소 명사
+# the Minor Prophets  (NOUN) : 소 예언자
+
+"minus"
+ar (마이너스의)
+ap (마이너스이다)
+# minus charge  (NOUN) : 마이너스 전하
+# minus electricity  (NOUN) : 음전기
+
+"minuscule"
+ar (아주 작은)
+* 소문자의 (letter 문자)
+* 아주 작다 (object 물체)
+ap (아주 작다)
+
+"minute"
+ar (미소한)
+* 미소하다 (change 변화)
+* 상세하다 (explanation 설명) (report 보고)
+* 급히 만들다:ADJ->VERB (food 음식)
+ap (미소하다)
+
+"minutely"
+ar (1분마다의)
+ap (1분마다이다)
+
+"miraculous"
+ar (기적적인)
+ap (기적적이다)
+
+"mirthful"
+ar (유쾌한)
+ap (유쾌하다)
+
+"mirthless"
+ar (즐겁지 않은)
+ap (즐겁지 않다)
+
+"miry"
+ar (진창의)
+* 늪지이다 (country 지방)
+* 더럽다 (shirts 셔츠)
+ap (진창이다)
+
+
+"misaimed"
+ar (잘못 겨눈)
+ap (잘못 겨누다)
+
+"misanthropic"
+ar (사람을 싫어하는)
+ap (사람을 싫어하다:ADJ->VERB)
+
+"misapplied"
+ar (오용된)
+ap (오용되다)
+
+"misapprehensive"
+ar (오해하기 쉬운)
+ap (오해하기 쉽다)
+
+"misbecoming"
+ar (어울리지 않는)
+ap (어울리지 않다)
+
+"misbegotten"
+ar (서출의)
+ap (서출이다)
+
+"misbehaved"
+ar (버릇없는)
+ap (버릇없다)
+
+"misbelieving"
+ar (이단의)
+ap (이단이다)
+
+"miscellaneous"
+ar (잡다한)
+ap (잡다하다)
+
+"mischievous"
+ar (해를 끼치는)
+* 해를 끼치다:ADJ->VERB (rumor 소문)
+* 장난치기 좋아하다:ADJ->VERB (boy 소년)
+ap (해를 끼치다:ADJ->VERB)
+
+"miscible"
+ar (혼합할 수 있는)
+ap (혼합할 수 있다)
+
+"miscreant"
+ar (사악한)
+ap (사악하다)
+
+"miscreated"
+ar (잘못 만들어진)
+ap (잘못 만들어지다)
+
+"miserable"
+ar (비참한)
+* 부족하다 (goods 상품)
+* 형편없다 (dinner 식사)
+* 서투르다 (act 연기)
+* 극빈하다 (family 가정)
+* 비열하다 (charactor 성격)
+* 심하다 (weather 날씨)
+ap (비참하다)
+
+"miserly"
+ar (인색한)
+ap (인색하다)
+
+"misguided"
+ar (잘못 인도된)
+* 잘못 인도되다 (boy 소년)
+* 엉뚱하다 (opinion 의견)
+ap (잘못 인도되다)
+
+
+"misleading"
+ar (잘못 인도하는)
+ap (잘못 인도하다:ADJ->VERB)
+
+"misshapen"
+ar (모양이 흉한)
+ap (모양이 흉하다)
+
+"missile"
+ar (던질 수 있는)
+ap (던질 수 있다)
+# a missile base  (NOUN) : 미사일 기지
+# a missile killer  (NOUN) : 미사일 요격용 미사일
+
+"missing"
+ar (행방불명의)
+ap (행방불명이다)
+# a missing page  (NOUN) : 빠진 페이지
+# a missing person  (NOUN) : 행방불명된 사람
+# a missing child  (NOUN) : 미아
+
+"missionary"
+ar (전도의)
+ap (전도이다)
+
+"missish"
+ar (얌전 빼는)
+ap (얌전을 빼다:ADJ->VERB)
+
+"missive"
+ar (보내진)
+ap (보내지다)
+
+"mistakable"
+ar (틀리기 쉬운)
+ap (틀리기 쉽다)
+
+"mistaken"
+ar (잘못된)
+ap (잘못되다)
+
+"mistaught"
+ar (잘못 가르쳐진)
+ap (잘못 가르쳐지다)
+
+"mistful"
+ar (안개 짙은)
+ap (안개가 짙다)
+
+"mistimed"
+ar (시기를 잃은)
+ap (시기를 잃다)
+
+"mistrustful"
+ar (의심 많은)
+ap (의심이 많다)
+
+"misty"
+ar (안개 짙은)
+* 안개 짙다 (morning 아침)
+* 안개 모양의 (steam 수증기)
+* 눈물로 흐릿흐릿하다 (eye 눈)
+* 어렴풋하다 (thought 생각) (remembrance 추억)
+ap (안개가 짙다)
+
+"misty-eyed"
+ar (쉽게 눈물을 글썽거리는)
+ap (쉽게 눈물을 글썽거리다:ADJ->VERB)
+
+"mitered"
+ar (주교관 모양의)
+ap (주교관 모양이다)
+
+"mitigative"
+ar (완화시키는)
+ap (완화시키다:ADJ->VERB)
+
+"mitral"
+ar (사교관의)
+ap (사교관이다)
+
+"mitred"
+ar (사교관을 쓴)
+ap (사교관을 쓰다)
+
+"mixed"
+ar (혼합된)
+ap (혼합되다)
+# a man of mixed blood  (NOUN) : 혼혈인
+# have mixed feelings  (VERB) : 마음이 착잡하다
+# mixed audience  (NOUN) : 잡다한 청중
+# mixed brigade  (NOUN) : 혼성 여단
+# mixed candies  (NOUN) : 여러가지 사탕
+# mixed chorus  (NOUN) : 혼성 합창
+# mixed doubles  (NOUN) : 남녀 혼합 복식
+# mixed drink  (NOUN) : 합성주
+# mixed economy  (NOUN) : 혼합 경제
+# mixed farming  (NOUN) : 혼합 농업
+# mixed fertilizer  (NOUN) : 배합 비료
+# mixed marriage  (NOUN) : 잡혼
+# mixed motives  (NOUN) : 불순한 동기
+# mixed number  (NOUN) : 대분수
+# mixed residence  (NOUN) : 잡거
+# mixed school  (NOUN) : 남녀 공학 학교
+# mixed train  (NOUN) : 혼합 열차
+
+"mixed-up"
+ar (혼란된)
+ap (혼란되다)
+
+"mnemonic"
+ar (기억의)
+ap (기억이다)
+
+"moanful"
+ar (슬픈 듯이 신음하는)
+ap (슬픈 듯이 신음하다:ADJ->VERB)
+
+"mobbish"
+ar (폭도 같은)
+ap (폭도 같다)
+
+"mobile"
+ar (이동하기 쉬운)
+* 잘 변하다:ADJ->VERB (figure 표정)
+* 변덕스럽다 (thought 생각) (intention 의도) (mind 마음)
+* 능동적이다 (will 정신)
+* 유동적이다 (liquid 액체) (water 물) (milk 우유)
+ap (이동하기 쉽다)
+
+"mocha"
+ar (커피로 맛들인)
+ap (커피로 맛들이다)
+
+"mock"
+ar (가짜의)
+ap (가짜이다)
+
+"mock-heroic"
+ar (영웅티를 흉내낸)
+ap (영웅티를 흉내내다)
+
+"mocking"
+ar (조롱하는 듯한)
+ap (조롱하는 듯하다)
+
+"modal"
+ar (양식의)
+ap (양식이다)
+
+"model"
+ar (모형의)
+ap (모형이 되다:ADJ->VERB)
+
+"moderate"
+ar (절제 있는)
+* 절제 있다 (person 사람) (personality 인격)
+* 적당하다 (quantity 양) (degree 정도) (quality 질)
+* 온화하다 (weather 날씨)
+ap (절제 있다)
+# moderate demand (NOUN) : 수요감퇴
+# moderate price (NOUN) : 적절한 가격
+# moderate to vigorous A (NOUN) : [(AMODS [온건하거나 힘있는<ADJ>]) A]
+
+"modern"
+ar (현대의)
+* 현대적이다 (city 도시)
+ap (현대적이다)
+
+# modern city life  (NOUN) : 현대의 도시생활
+# modern economics (NOUN) : 근대경제학
+# modern fashion  (NOUN) : 최신 유행형
+# modern history  (NOUN) : 근대사
+# modern languages  (NOUN) : 근대어
+# modern pentathlon  (NOUN) : 근대 5종 경기
+# modern school  (NOUN) : 근대 학교
+# modern side  (NOUN) : 근대 어학부
+# modern times  (NOUN) : 현대
+
+"modernistic"
+ar (근대적인)
+ap (근대적이다)
+
+"modest"
+ar (겸손한)
+* 겸손하다 (person 사람)
+* 적당하다 (inflation 인플레) (reduction 축소) (gain 획득) (quantity 양) (quality 질) 
+* 적당하다 (increase 증가) (value 가치) (degree 정도)
+* 정숙하다 (behavior 행동) (address 언행) (clothe 복장)
+* 품위있다 (bill 법안)
+ap (겸손하다)
+
+
+"modifiable"
+ar (변경할 수 있는)
+ap (변경할 수 있다)
+
+"modificatory"
+ar (한정하는)
+ap (한정하다:ADJ->VERB)
+
+"modified"
+ar (변경된)
+ap (변경되다)
+
+"modish"
+ar (유행을 따르는)
+ap (유행을 따르다:ADJ->VERB)
+
+"modular"
+ar (모듈식의)
+ap (모듈식이다)
+
+"mohammedan"
+ar (마호멧의)
+ap (마호멧이다)
+
+"moist"
+ar (습기가 있는)
+* 젖다:ADJ->VERB (eye 눈)
+ap (습기가 있다)
+
+"moisture-proof"
+ar (방습의)
+ap (방습이다)
+
+"moistureless"
+ar (습기없는)
+ap (습기가 없다)
+
+"molar"
+ar (갈아 부수는)
+ap (갈아 부수다:ADJ->VERB)
+
+"molar"
+ar (질량의)
+ap (질량이다)
+
+"moldy"
+ar (곰팡이 슨)
+ap (곰팡이가 슬다)
+
+"molecular"
+ar (분자의)
+ap (분자이다)
+# molecular attraction  (NOUN) : 분자 인력
+# molecular force  (NOUN) : 분자력
+# molecular fomula  (NOUN) : 분자식
+# molecular weight  (NOUN) : 분자량
+
+"molluscoid"
+ar (연체동물을 닮은)
+ap (연체동물을 닮다)
+
+"molluscous"
+ar (연체동물에 속하는)
+ap (연체동물에 속하다:ADJ->VERB)
+
+"molten"
+ar (녹은)
+ap (녹다)
+
+"moment"
+ar (순식간의)
+ap (순식간이다)
+
+"momentary"
+ar (순간의)
+ap (순간이다)
+
+"momentous"
+ar (중대한)
+ap (중대하다)
+
+"monachal"
+ar (수도사의)
+ap (수도사이다)
+
+"monacid"
+ar (일산의)
+ap (일산이다)
+
+"monadelphous"
+ar (단체인)
+ap (단체이다)
+
+"monandrous"
+ar (홑수술의)
+ap (홑수술이다)
+
+"monarchal"
+ar (제왕의)
+ap (제왕이다)
+
+"monarchial"
+ar (군주의)
+ap (군주이다)
+
+"monarchic"
+ar (군주국의)
+ap (군주국이다)
+
+"monarchistic"
+ar (군주제주의적인)
+ap (군주제주의적이다)
+
+"monasterial"
+ar (수도원의)
+ap (수도원이다)
+
+"monastic"
+ar (수도원의)
+ap (수도원이다)
+
+"monastical"
+ar (수도원의)
+ap (수도원이다)
+
+"monaural"
+ar (단청의)
+ap (단청이다)
+
+"mondayish"
+ar (월요일 기분의)
+ap (월요일 기분이다)
+
+"monetary"
+ar (화폐의)
+ap (화폐이다)
+# the monetary system  (NOUN) : 화폐제도
+# a monetary unit  (NOUN) : 화폐 단위
+# in monetary difficulties  (PP->ADV) : 재정 곤란으로
+# monetary adjustment (NOUN) : 금융조절
+# monetary aggregates (NOUN) : 금융총량
+# monetary agreements (NOUN) : 통화협정
+# monetary analysis (NOUN) : 통화분석
+# monetary and financial policy (NOUN) : 재정, 금융정책
+# monetary assets (NOUN) : 통화자산
+# monetary authorities (NOUN) : 통화당국
+# monetary base (NOUN) : 머니터리 베이스
+# moentary deposits (NOUN) : 통화성예금
+# monetary discipline (NOUN) : 금융절차
+# monetary ease (NOUN) : 금융완화
+# monetary economy (NOUN) : 금융경제
+# monetary effect (NOUN) : 화폐적효과
+# monetary equilibrium (NOUN) : 화폐적균형
+# monetary gold (NOUN) : 화폐용금
+# monetary income (NOUN) : 화폐소득
+# monetary instability (NOUN) : 통화불안
+# monetary instrument (NOUN) : 금융조절수단
+# monetary policy  (NOUN) : 금융 정책
+# monetary policy instrument (NOUN) : 금융정책수단
+# monetary rate of interest (NOUN) : 화폐이자율
+# monetary restraint (NOUN) : 금융긴축
+# monetary reward  (NOUN) : 금전적 보수
+# monetary reform  (NOUN) : 화폐개혁
+# monetary regulatory measures (NOUN) : 금융조절수단
+# monetary sovereignty (NOUN) : 금융자주권
+# monetary survey (NOUN) : 머니터리 서베이
+# monetary system (NOUN) : 통화제도
+# monetary theorist (NOUN) : 통화주의자
+# monetary theory of trade cycle (NOUN) : 화폐적경기이론
+# monetary uncertainty (NOUN) : 통화불안
+# monetary union (NOUN) : 화폐동맹
+# monetary unit (NOUN) : 화폐단위
+# monetary unrest (NOUN) : 통화불안
+# the world-wide monetary crisis  (NOUN) : 세계적 통화 위기
+
+"moneyed"
+ar (돈 있는)
+ap (돈이 있다)
+
+"moneygrubbing"
+ar (악착스럽게 돈을 모으는)
+ap (악착스럽게 돈을 모으다:ADJ->VERB)
+
+"moneyless"
+ar (돈없는)
+ap (돈이 없다)
+
+"mongrel"
+ar (잡종의)
+ap (잡종이다)
+
+"monied"
+ar (돈많은)
+ap (돈이 많다)
+
+"monistic"
+ar (일원론의)
+ap (일원론이다)
+
+"monitorial"
+ar (권고의)
+ap (권고이다)
+
+"monitory"
+ar (권고의)
+ap (권고이다)
+
+"monkey-faced"
+ar (원숭이 같은 얼굴을 한)
+ap (원숭이 같은 얼굴을 하다)
+
+"monkeyish"
+ar (원숭이 같은)
+ap (원숭이 같다)
+
+"monkish"
+ar (수도사의)
+ap (수도사이다)
+
+"monochromatic"
+ar (단색의)
+ap (단색이다)
+
+"monochrome"
+ar (단체의)
+ap (단체이다)
+
+"monoclinal"
+ar (단일 경사의)
+ap (단일 경사이다)
+
+"monoclinic"
+ar (단사경계의)
+ap (단사경계이다)
+
+"monoclinous"
+ar (자웅동화의)
+ap (자웅동화이다)
+
+"monocratic"
+ar (독재정치의)
+ap (독재정치이다)
+
+"monocular"
+ar (단안의)
+ap (단안이다)
+
+"monoecious"
+ar (암수한몸의)
+ap (암수한몸이다)
+
+"monogamous"
+ar (일부 일처의)
+ap (일부 일처이다)
+
+"monoglot"
+ar (한나라 말만 쓰는)
+ap (한나라 말만 쓰다:ADJ->VERB)
+
+"monogrammatic"
+ar (결합 글자의)
+ap (결합 글자이다)
+
+"monographic"
+ar (전공 논문의)
+ap (전공 논문이다)
+
+"monogynous"
+ar (일처주의의)
+ap (일처주의이다)
+
+"monolingual"
+ar (1개 국어를 사용하는)
+ap (1개 국어를 사용하다:ADJ->VERB)
+
+"monolithic"
+ar (단일 구조의)
+ap (단일 구조이다)
+
+"monomaniacal"
+ar (편집광적인)
+ap (편집광적이다)
+
+"monometallic"
+ar (단본위의)
+ap (단본위이다)
+
+"monomial"
+ar (단항의)
+ap (단항이다)
+
+"monophonic"
+ar (단선율의)
+ap (단선율이다)
+
+"monophthongal"
+ar (단모음의)
+ap (단모음이다)
+
+"monopolistic"
+ar (독점적인)
+ap (독점적이다)
+# monopolistic capitalism (NOUN) : 독점자본주의
+# monopolistic competition (NOUN) : 독점적경쟁
+# monopolistic price (NOUN) : 독점가격
+
+"monosyllabic"
+ar (단음절의)
+ap (단음절이다)
+
+"monotheistic"
+ar (일신교의)
+ap (일신교이다)
+
+"monotonous"
+ar (단조로운)
+ap (단조롭다)
+
+"monotypic"
+ar (단형의)
+ap (단형이다)
+
+"monovalent"
+ar (1가의)
+ap (1가이다)
+
+"monovular"
+ar (일란성의)
+ap (일란성이다)
+
+"monster"
+ar (거대한)
+ap (거대하다)
+
+"monstrous"
+ar (괴상한)
+ap (괴상하다)
+
+"montane"
+ar (산의)
+ap (산이다)
+
+"montenegrin"
+ar (몬테네그로의)
+ap (몬테네그로이다)
+
+"monthlong"
+ar (한달간의)
+ap (한달간이다)
+
+"monthly"
+ar (매달의)
+ap (매달이다)
+# monthly average of daily figures (NOUN) : 월중평균
+# monthly instalment (NOUN) : 월부
+# monthly statement of account (NOUN) : 월계표
+
+"monumental"
+ar (기념비적인)
+* 엄청나다 (achievement 업적) (failure 실패)
+ap (기념비적이다)
+
+"moody"
+ar (변덕스러운)
+* 침울하다 (weather 날씨)
+ap (변덕스럽다)
+
+"moon-blind"
+ar (밤눈이 어두운)
+ap (밤눈이 어둡다)
+
+"moon-eyed"
+ar (밤눈이 어두운)
+ap (밤눈이 어둡다)
+
+"moon-faced"
+ar (얼굴이 둥근)
+ap (얼굴이 둥글다)
+
+"moonish"
+ar (달 같은)
+ap (달 같다)
+
+"moonless"
+ar (달 없는)
+ap (달이 없다)
+
+"moonlit"
+ar (달밝은)
+ap (달이 밝다)
+
+"moonshine"
+ar (달빛의)
+ap (달빛이다)
+
+"moonshiny"
+ar (달빛을 받은)
+* 달빛을 받다:ADJ->VERB (scene 경치)
+* 비현실적이다 (enterprise 기획)
+ap (달빛을 받다)
+
+"moonstruck"
+ar (미친)
+ap (미치다)
+
+"moony"
+ar (달의)
+* 달의 (weather 기후)
+* 달 모양의 (cake 케이크)
+* 달 밝다 (midnight 자정)
+* 공상에 잠기다:ADJ->VERB (schola 학자)
+ap (달이다)
+
+
+"moorish"
+ar (무어 사람의)
+ap (무어 사람이다)
+
+"moot"
+ar (논의할 여지가 있는)
+ap (논의할 여지가 있다)
+# a moot point  (NOUN) : 논점
+
+"mopish"
+ar (침울한)
+ap (침울하다)
+
+"moral"
+ar (도덕의)
+* 도덕적이다 (life  생활) (person 사람) (story 이야기) (teaching 교육) (stand 태도)
+* 정신적이다 (weakness 약함) (support 지원)
+* 도덕적이다 (standard 기준) (value 가치) (science 과학)
+ap (도덕적이다)
+
+# high moral character  (NOUN) : 높은 덕성
+# low moral character  (NOUN) : 낮은 덕성
+# moral agent  (NOUN) : 도덕적인 행위자
+# moral being  (NOUN) : 도덕적인 행위자
+# moral certainly  (NOUN) : 십중팔구 틀림없는 일
+# moral code  (NOUN) : 도덕률
+# moral courage  (NOUN) : 정신적 용기
+# moral culture  (NOUN) : 덕육
+# moral defeat  (NOUN) : 정신적 패배
+# moral victory  (NOUN) : 정신적 승리
+# moral obligation  (NOUN) : 도의적 책임
+# moral principles  (NOUN) : 도의
+# moral science  (NOUN) : 정신 과학
+# moral suasion (NOUN) : 도의적설득
+# moral support  (NOUN) : 정신적 지원
+# moral tone  (NOUN) : 기품
+# moral virtues  (NOUN) : 덕
+
+"moralistic"
+ar (교훈적인)
+ap (교훈적이다)
+
+"morassy"
+ar (늪의)
+ap (늪이다)
+
+"moratory"
+ar (지불유예의)
+ap (지불유예이다)
+
+"moravian"
+ar (모라비아의)
+ap (모라비아이다)
+
+"morbid"
+ar (병적인)
+* 병적이다 (spirit 정신) (fear 공포)
+* 병에 걸리다:ADJ->VERB (organ 기관)
+* 무시무시하다 (event 사건)
+ap (병적이다)
+
+# morbid anatomy  (NOUN) : 병리해부학
+
+"morbific"
+ar (병원이 되는)
+ap (병원이 되다:ADJ->VERB)
+
+"morbifical"
+ar (병을 일으키는)
+ap (병을 일으키다:ADJ->VERB)
+
+"mordacious"
+ar (신랄한)
+* 물다:ADJ->VERB (animal 짐승) (tool 도구)
+* 신랄하다 (attitude 태도) (style 문체)
+ap (신랄하다)
+
+
+"mordant"
+ar (신랄한)
+* 신랄하다 (witt 기지)
+* 부식성의 (thing 사물)
+* 얼얼하다 (pain 통증)
+ar (신랄하다)
+
+
+"more"
+ar (더 많은)
+ap (더 많다)
+# NUM1 more A (NOUN) : [(POSS [(NMODS NUM1) 이상<NOUN>]/의) A]
+# a little more (ADV) : 조금더
+//# more than ^A {-UNIT, -KNUM} (NOUN ADV) : 1) [(NMODS A) 이상<NOUN>] 
+//		2) (ADJUNCT [(NMODS A) 이상<NOUN>]/으로) 
+//# more ADJ than A (ADJ) : [(ADJUNCT A/보다) (MODS [더<NOUN>]) ADJ]/하다
+# more than ^NUM1 $ (NOUN ADJ) : 1) [(NMODS NUM1) 이상<NOUN>] 
+                               2) (POSS [(NMODS NUM1) 이상<NOUN>]/의)
+# more than NUM1 {-ORDNUM} ^year (NOUN) : 
+  [(NMODS [(NMODS NUM1) 년<NOUN>]) 이상<NOUN>]
+// -TIME : more than a week
+# more than ^half of A (NOUN ADV) : 1) [(NMODS A) 절반 이상<NOUN>] 
+                                  2) (ADJUNCT [(NMODS A) 절반 이상<NOUN>]/으로) 
+# more than ADJ {-KNUM} (ADJ) : [(MODS [(AMODS ADJ/한) 것<NOUN>]) 이상이<ADJ>]/다
+# ^be no more $ (VERB->ADJ) : 더이상 없다
+# A ^be no more B than C be (SENT) : [(ADJUNCT [(RELCL [(SUBJ C/가) (SCOMP B/가) 아니<ADJ>]/한) 것<NOUN>]/처럼) (SUBJ A/는) (SCOMP B/가) 아니<ADJ>]/다
+# A be no more ADJ than B (SENT) : [(ADJUNCT [(RELCL [(SUBJ B/가) ADJ](하지/F, 않/V)/한) 것<NOUN>]/처럼) 
+(SUBJ A/도) ADJ](하지/F, 않/A)/다
+#' A be no more B than SENT (SENT) : [(SUBJ [(RELCL [(SUBJ A/가) (SCOMP B/가) 
+아니<ADJ>]/한) 것<NOUN>]/은) (ADJUNCT [(RELCL SENT(하지/F, 않/V)/한) 것<NOUN>]/과) 같<ADJ>]/다
+# A ^be not B any more than C be (SENT) :
+[(SUBJ A/는) (ADJUNCT [(SUBJ C/가) 아니<ADJ>]/하듯) (SCOMP B/가) 아니<ADJ>]/다
+# NUM1 or more (ADJ) : [(COMP [(NMODS NUM1) 이상<NOUN>]) _<ADJ>]<이>/다
+# ^do more than BARE_INF (VERB) : [(OBJ [(NMODS [(RELCL BARE_INF/하는) 것<NOUN>]) 이상<NOUN>]/을) 하<VERB>]/다
+//# even more (ADJ ADV) : 1) 더 많다
+//			2) 훨씬 더
+//# even more than ^A (NOUN ADV) : 1) [(NMODS A) 이상<NOUN>]
+//				2) (MODS [(COMP A/보다) 더더욱<ADV>])
+# far more (ADJ ADV) : 1) 더 많다
+		       2) 훨씬
+# far more than ^A (NOUN ADV) : 1) [(NMODS A) 이상<NOUN>] 
+				2) (MODS [(COMP A/보다) 더더욱<ADV>])
+# more of ^A (NOUN) : [(AMODS [(MODS [보다<ADV>]) 많<ADJ>]/한) A]
+//# more than NUM1 ^A (NOUN) : [(POSS [(NMODS NUM1) 이상<NOUN>]/의) A]
+# more than PRESP (NOUN) : [(COMP [(COMPCL PRESP/하는) 것<NOUN>]) 이상<NOUN>]
+//#' more than SENT (NOUN ADV) : 
+//    1) [(COMP [(COMPCL SENT/하는) 것<NOUN>]) 이상<NOUN>]
+//    2) (ADJUNCT [(COMP [(COMPCL SENT/하는) 것<NOUN>]) 이상<NOUN>]/로)
+# more than one ^A (NOUN) : [(POSS [(NMODS [하나<NOUN>]) 이상<NOUN>]/의) A]
+# much more than ^A (NOUN ADV) : 1) [(NMODS A) 이상<NOUN>] 
+				2) (MODS [(COMP A/보다) 더더욱<ADV>])
+# one more ^A (NOUN) : [(POSS [또 하나<NOUN>]/의) A]
+# still more (ADJ ADV) : 1) 더 많다
+			 2) 훨씬
+# still more than ^A (NOUN ADV) : 1) [(NMODS A) 이상<NOUN>] 
+				2) (MODS [(COMP A/보다) 더더욱<ADV>])
+# more or less (ADV) : 다소간
+# no ^more $ (ADV) : [더이상<ADV>] {+NEG}
+# no more ^A (NOUN) : [(POSS [더이상<NOUN>]/의) A] {+NEG}
+# no more than ^A (NOUN) : [(NMODS A) 정도<NOUN>]
+# no more than NUM1 ^NOUN {+UNIT} (NOUN ADV) : 
+  1) [(NMODS [(NMODS NUM1) NOUN]) 정도<NOUN>]
+  2) [(NMODS [(NMODS NUM1) NOUN]) 정도<NOUN>]
+# no more than NUM1 ^NOUN {+TIME} (NOUN ADV) : 
+   1) [(NMODS [(NMODS NUM1) NOUN]) 정도<NOUN>]
+   2) [(NMODS [(NMODS NUM1) NOUN]) 정도<NOUN>]
+# no more than NUM1 ^NOUN {-UNIT , +HUMAN} (NOUN) : [(POSS [(NMODS [(NMODS NUM1) 명<NOUN>]) 이상<NOUN>]/의) NOUN]
+# no more than NUM1 ^NOUN {-UNIT , -HUMAN, -TIME} (NOUN) : [(POSS [(NMODS [(NMODS NUM1) 개<NOUN>]) 이상<NOUN>]/의) NOUN]
+# not more than A (NOUN) : [(MODS [많아야<ADV>]) A]
+#' || much more (CONJ) : much more
+# ^do more than VP (VERB) : [(ADJUNCT [(RELCL VP/하는) 것<NOUN>]/보다) (OBJ [(AMODS [많<ADJ>]/한) 것<NOUN>]/을) 하<VERB>]/다
+//#' some more | (NOUN) : 좀 더 많은 것 
+# some more ^A (NOUN) : [(AMODS [(MODS [좀 더<ADV>]) 많<ADJ>]/한) A]
+# || the more , the better | (SENT) : (DECL [(SCOMP [많<ADJ>]/할수록) (MODS [더<ADV>]) 좋<ADJ>]/다)
+# the more SENT the more SENT1 (SENT) : 
+[(ADJUNCT SENT/할수록) (MODS [(MODS [그만큼<ADV>]) 더<ADV>]) SENT1]/하다
+# the more NOUN SENT the more NOUN1 SENT1 (SENT) : 
+[(ADJUNCT SENT/할수록) (MODS [(MODS [그만큼<ADV>]) 더<ADV>]) SENT1]/하다
+# the more SENT , the more SENT1 (SENT) : 
+[(ADJUNCT SENT/할수록) (MODS [(MODS [그만큼<ADV>]) 더<ADV>]) SENT1]/하다
+# || what be more | (ADV) : 더구나
+
+"more-consistent"
+ar (더 일치하는)
+ap (더 일치하다)
+
+"moresque"
+ar (무어인의)
+ap (무어인이다)
+
+"morgifical"
+ar (병원이 되는)
+ap (병원이 되다)
+
+"moribund"
+ar (빈사상태의)
+ap (빈사상태이다)
+
+"morisco"
+ar (무어인의)
+ap (무어인이다)
+
+"morning"
+ar (아침의)
+ap (아침이다)
+# morning fixing (NOUN) : 오전시세로 결정
+# morning session (NOUN) : 전장
+
+"moroccan"
+ar (모로코의)
+ap (모로코이다)
+
+"moronic"
+ar (바보같은)
+ap (바보같다)
+
+"morose"
+ar (까다로운)
+ap (까다롭다)
+
+"morphemic"
+ar (형태소의)
+ap (형태소이다)
+
+"morphological"
+ar (형태학의)
+ap (형태학이다)
+
+"morphophonemic"
+ar (형태음소의)
+ap (형태음소이다)
+
+"morpose"
+ar (까다로운)
+ap (까다롭다)
+
+"mortal"
+ar (죽음의)
+* 죽을 운명의 (man 인간)
+* 인간의 (power 힘) (ken 이해)
+* 죽음의 (illness 병)
+* 필사적이다 (struggle 투쟁)
+* 심하다 (fear 공포) (shame 망신)
+ap (죽음을 면할수 없다) 
+
+# the mortal day  (NOUN) : 사기
+# mortal agony  (NOUN) : 단말마의 고통
+# a mortal weapon  (NOUN) : 흉기
+# a mortal crime  (NOUN) : 대죄
+# mortal hatred  (NOUN) : 격렬한 증오
+# for three mortal days  (PP->ADV) : 지루하게 3일간이나
+# every mortal thing  (NOUN) : 온갖 것
+
+"mortifying"
+ar (약오르는)
+ap (약오르다:ADJ->VERB)
+
+"mortuary"
+ar (죽음의)
+ap (죽음이다)
+
+"mosaic"
+ar (모세의)
+ap (모세이다)
+
+"mosaic"
+ar (모자이크의)
+ap (모자이크이다)
+
+"moslem"
+ar (회교도의)
+ap (회교도이다)
+
+"moss-grown"
+ar (이끼 낀)
+ap (이끼가 끼다)
+
+"mossy"
+ar (이끼 낀)
+ap (이끼가 끼다)
+
+"most"
+ar (대부분의)
+* 최대의 (quantity 양) (cost 비용) (scale 규모) (degree 정도)
+* 대부분의 (group 집단)
+* 주요하다 (cause 원인) (evalution 평가)
+ap (대부분이다)
+
+# most of ^NOUN {-POSSESIVE} (NOUN) : [(AMODS [대부분<NOUN>]/의) NOUN]
+//# most of ^A {+HUMAN} (NOUN) : [(NMODS A) 대부분<NOUN>] 
+//# most of ^A {-HUMAN} (NOUN) : [(POSS [대부분<NOUN>]/의) A]
+# most of ^all | (ADV) : 무엇보다
+# the most ADJ of all (NOUN) : [(MODS [가장<ADV>]) (AMODS ADJ/한) 것<NOUN>]
+
+"moth-eaten"
+ar (좀먹은)
+* 좀먹다 (dress 옷)
+ap (좀먹다)
+
+"mother"
+ar (어머니의)
+ap (어머니이다)
+
+"motherless"
+ar (어머니가 없는)
+ap (어머니가 없다)
+
+"motherly"
+ar (어머니의)
+ap (어머니이다)
+
+"mothery"
+ar (초모성의)
+ap (초모성이다)
+
+"motile"
+ar (운동성의)
+ap (운동성이다)
+
+"motional"
+ar (운동의)
+ap (운동이다)
+
+"motionless"
+ar (움직이지 않는)
+ap (움직이지 않다)
+
+"motivational"
+ar (동기를 부여하는)
+ap (동기를 부여하다:ADJ->VERB)
+
+"motive"
+ar (기동의)
+ap (기동이다)
+# motive force (NOUN) : 원동력
+# motive power (NOUN) : 원동력
+
+"motley"
+ar (잡색의)
+ap (잡색이다)
+
+"motor"
+ar (움직이는)
+ap (움직이다:ADJ->VERB)
+
+"motor-driven"
+ar (모우터로 움직이는)
+ap (모우터로 움직이다)
+
+"motored"
+ar (모우터가 있는)
+ap (모우터가 있다)
+
+"motorial"
+ar (운동의)
+ap (운동이다)
+
+"motory"
+ar (운동의)
+ap (운동이다)
+
+"mottled"
+ar (얼룩덜룩한)
+ap (얼룩덜룩하다)
+
+"mouldy"
+ar (곰팡이 슨)
+ap (곰팡이가 슬다)
+
+"mountain-high"
+ar (산더미같은)
+ap (산더미같다)
+
+"mountainous"
+ar (산지의)
+ap (산지이다)
+
+"mountainy"
+ar (산지의)
+ap (산지이다)
+
+"mounted"
+ar (말에 탄)
+ap (말에 타다)
+
+"mournful"
+ar (슬픔에 잠긴)
+ap (슬픔에 잠기다)
+
+"mourning"
+ar (애도의 뜻을 나타내는)
+ap (애도의 뜻을 나타내다:ADJ->VERB)
+
+"mousterian"
+ar (무수테리안기의)
+ap (무수테리안기이다)
+
+"mousy"
+ar (쥐가 많은)
+ap (쥐가 많다)
+
+"mouth-filling"
+ar (허풍떠는)
+ap (허풍떨다:ADJ->VERB)
+
+"mouth-to-mouth"
+ar (입으로 하는)
+ap (입으로 하다:ADJ->VERB)
+
+"mouthed"
+ar (입이 있는)
+ap (입이 있다)
+
+"mouthwatering"
+ar (군침이 도는)
+ap (군침이 돌다:ADJ->VERB)
+
+"mouthy"
+ar (호언장담하는)
+ap (호언장담하다:ADJ->VERB)
+
+"movable"
+ar (움직일 수 있는)
+ap (움직일 수 있다)
+
+"moving"
+ar (움직이는)
+ap (움직이다:ADJ->VERB)
+
+"mown"
+ar (벤)
+ap (베다)
+
+"much"
+ar (많은)
+* 크다 (sense 뜻)
+ap (많다)
+
+# much less (ADJ ADV) : 1) 훨씬 적다
+						2) 하물며 {+NEG}
+# ^be not so much A as B (VERB) : [(SCOMP [(ADJUNCT A/이고) B]) 이<ADJ>]/다
+# ^can not so much as VP (VERB->ADJ) : [(SCOMP VP/하지도) 못하<VERB>]/다 {-NEG}
+# ^cannot so much as VP (VERB) : [(SCOMP VP/하지도) 못하<VERB>]/다 {-NEG}
+# how much A ^be ? (SENT) : (QUES [(SUBJ A/는) 얼마이<ADJ>]/다)
+# how much of A (NOUN) : [(MODS [얼마나<ADV>]) 많<ADJ>]/한) A]
+# much of A (NOUN) : [(AMODS [많<ADJ>]/한) A]
+# not so much A ^as B (NOUN) : [(ADJUNCT A/라기보다는) B]
+# not so much PP ^as PP1 (PP->ADV) : (ADJUNCT [(ADJUNCT PP/라기보다는) PP1])
+# || very much . (SENT) : (DECL [매우 많이<ADV>])
+
+"mucilaginous"
+ar (점액질의)
+ap (점액질이다)
+
+"muckle"
+ar (큰)
+ap (크다)
+
+"mucky"
+ar (거름의)
+ap (거름이다)
+
+"mucous"
+ar (점액을 분비하는)
+ap (점액을 분비하다:ADJ->VERB)
+
+"muddleheaded"
+ar (얼빠진)
+ap (얼빠지다)
+
+"muddy"
+ar (진흙이 많은)
+* 질척질척하다 (mud 진흙)
+* 흐리다:ADJ->VERB (light 빛) (sound 소리) (water 물)
+* 흐리멍텅하다 (head 머리)
+ap (진흙이 많다)
+
+# muddy up to the eyes (ADJ) : 온 몸이 진흙 투성이다
+
+"muggy"
+ar (찌는 듯이 더운)
+ap (찌는 듯이 덥다)
+
+"muhammadan"
+ar (마호매트의)
+ap (마호매트이다)
+
+"mulatto"
+ar (황갈색의)
+ap (황갈색이다)
+
+"mulish"
+ar (노새 같은)
+* 노새같다 (animal 동물)
+* 고집이 세다 (person 사람)
+ap (노새 같다)
+
+
+"mullioned"
+ar (중간 문설주가 있는)
+ap (중간 문설주가 있다)
+
+"mulitangular"
+ar (다각의)
+ap (다각이다)
+
+"multi"
+ar (다중의)
+ap (다중이다)
+
+"multi-colored"
+ar (여러 가지 빛깔의)
+ap (여러 가지 빛깔이다)
+
+"multi-coloured"
+ar (여러 가지 빛깔의)
+ap (여러 가지 빛깔이다)
+
+"multi-platform"
+ar (다중 플렛폼의)
+ap (다중 프렛폼이다)
+
+"multicellular"
+ar (다세포의)
+ap (다세포이다)
+
+"multicolored"
+ar (여러 가지 빛깔의)
+ap (여러 가지 빛깔이다)
+
+"multicoloured"
+ar (여러 가지 빛깔의)
+ap (여러 가지 빛깔이다)
+
+"multicultured"
+ar (여러 가지 문화의)
+ap (여러 가지 문화이다)
+
+"multidisciplinary"
+ar (여러 분야 협력의)
+ap (여러 분야 협력이다)
+
+"multifarious"
+ar (갖가지의)
+ap (갖가지이다)
+
+"multiform"
+ar (여러 가지 모양의)
+ap (여러 가지 모양이다)
+
+"multilateral"
+ar (다변의)
+ap (다변이다)
+# multilateral agreement  (NOUN) : 다변적 협정
+# multilateral international clearing (NOUN) : 다각적국제청산
+# multilateral nuclear force  (NOUN) : 혼성핵군
+# multilateral price compensation scheme (NOUN) : 다각가격보상제도
+# multilateral settlement system (NOUN) : 다각결제방식
+# multilateral surveillance (NOUN) : 다각적사찰
+# multilateral trade  (NOUN) : 다변 무역
+# multilateral trade nogotiation (NOUN) : 다각적 통화교섭
+
+"multilineal"
+ar (다선의)
+ap (다선이다)
+
+"multilingual"
+ar (여러 나라 말을 하는)
+ap (여러 나라 말을 하다:ADJ->VERB)
+
+"multiman"
+ar (여러 사람의)
+ap (여러 사람이다)
+
+"multimegaton"
+ar (여러 메가톤 급의)
+ap (여러 메가톤 급이다)
+
+"multinational"
+ar (다국적의)
+ap (다국적이다)
+
+"multinomial"
+ar (다항의)
+ap (다항이다)
+
+"multinominal"
+ar (이름이 많은)
+ap (이름이 많다)
+
+"multinuclear"
+ar (다핵의)
+ap (다핵이다)
+
+"multioquent"
+ar (수다스러운)
+ap (수다스럽다)
+
+"multiparous"
+ar (다산의)
+ap (다산이다)
+
+"multipartite"
+ar (많은 부분으로 갈라진)
+ap (많은 부분으로 갈라지다>ADJ->VERB)
+
+"multiphase"
+ar (다상의)
+ap (다상이다)
+
+"multiphasic"
+ar (다상의)
+ap (다상이다)
+
+"multiplane"
+ar (다엽식의)
+ap (다엽식이다)
+
+"multiplatform"
+ar (다중 플렛폼의)
+ap (다중 플렛폼이다)
+
+"multiple"
+ar (다중의)
+ap (다중이다)
+# multiple deposit constraction (NOUN) : 승수적 예금수축
+# multiple deposit creation (NOUN) : 승수적 예금창조
+# multiple exchange reates (NOUN) : 복수환레이트
+# multiple operation (NOUN) : 다각경영
+# multiple rates of exchange system (NOUN) : 복수환제도
+# multiple shop (NOUN) : 연쇄점
+# multiple tax  (NOUN) : 복합세
+# a multiple number  (NOUN) : 배수
+
+"multiple-choice"
+ar (다항식 선택의)
+ap (다항식 선택이다)
+
+"multiplex"
+ar (다중의)
+ap (다중이다)
+
+"multipliable"
+ar (증가할 수 있는)
+ap (증가할 수 있다)
+
+"multiplicative"
+ar (증가하는)
+ap (증가하다:ADJ->VERB)
+
+"multipolar"
+ar (다극의)
+ap (다극이다)
+# multipolar world (NOUN) : 다극화세계
+
+"multipurpose"
+ar (많은 목적에 쓰이는)
+ap (많은 목적에 쓰이다:ADJ->VERB)
+
+"multiracial"
+ar (다민족의)
+ap (다민족이다)
+
+"multishift"
+ar (여러번 교대되는)
+ap (여러번 교대되다:ADJ->VERB)
+
+"multistory"
+ar (다층의)
+ap (다층적이다)
+
+"multitubular"
+ar (다관의)
+ap (다관이다)
+
+"multitudinous"
+ar (다수의)
+ap (다수이다)
+
+"multivalent"
+ar (다원자가의)
+ap (다원자가이다)
+
+"multivitamin"
+ar (여러 비타민 성분을 함유하는)
+ap (여러 비타민 성분을 함유하다:ADJ->VERB)
+
+"multivocal"
+ar (여러가지 뜻을 지니는)
+ap (여러가지 뜻을 지니다:ADJ->VERB)
+
+"multivolume"
+ar (다중 볼륨의)
+ap (다중 볼륨이다)
+
+"multocular"
+ar (눈이 많은)
+ap (눈이 많다)
+
+"mum"
+ar (말을 하지 않는)
+ap (말을 하지 않다)
+
+"mummied"
+ar (미이라가 된)
+ap (미이라가 되다)
+
+"mumpish"
+ar (시무룩한)
+ap (시무룩하다)
+
+"mundane"
+ar (현세의)
+ap (현세적이다)
+
+"municipal"
+ar (자치도시의)
+ap (자치도시이다)
+# a municipal office  (NOUN) : 시청
+# a municipal university  (NOUN) : 시립대학
+# a municipal corperation  (NOUN) : 지방 자치제
+# municipal authorities  (NOUN) : 시당국
+# municipal bonds (NOUN) : 지방채
+# municipal elections  (NOUN) : 시의회 의원 선거
+# municipal enterprise (NOUN) : 지방공영기업
+# municipal property tax (NOUN) : 고정자산세
+# municipal tax (NOUN) : 시세
+# municipal inhabitant's tax (NOUN) : 시세
+# municipal low  (NOUN) : 국내법
+
+"munificent"
+ar (아낌없이 주는)
+ap (아낌없이 주다:ADJ->VERB)
+
+"mural"
+ar (벽의)
+ap (벽이다)
+
+"murderous"
+ar (살인의)
+ap (살인이다)
+
+"murky"
+ar (어두운)
+ap (어둡다)
+
+"murmurous"
+ar (살랑거리는)
+ap (살랑거리다:ADJ->VERB)
+
+"murrine"
+ar (형석의)
+ap (형석이다)
+
+"muscle-bound"
+ar (근육이 탄력을 잃은)
+ap (근육이 탄력을 잃다)
+
+"muscled"
+ar (근육이 있는)
+ap (근육이 있다)
+
+"muscleless"
+ar (근육이 없는)
+ap (근육이 없다)
+
+"muscovite"
+ar (모스크바의)
+ap (모스크바이다)
+
+"muscular"
+ar (근육의)
+ap (근육이다)
+
+"mushroom"
+ar (버섯의)
+ap (버섯이다)
+
+"mushy"
+ar (흐물흐물한)
+ap (흐물흐물하다)
+
+"musical"
+ar (음악의)
+* 음악적이다 (note 소리)
+ap (음악이다)
+# a musical performance  (NOUN) : 연주
+# a musical instrument  (NOUN) : 악기
+# musical scales  (NOUN) : 음계
+# a musical score  (NOUN) : 악보
+# musical training  (NOUN) : 음악 교육
+# ^have a musical ear  (VERB) : 음악을 이해하다
+
+"musicianly"
+ar (음악가다운)
+ap (음악가답다)
+
+"musky"
+ar (사향의)
+ap (사향이다)
+
+"mussulman"
+ar (회교도의)
+ap (회교도이다)
+
+"mussy"
+ar (난잡한)
+ap (난잡하다)
+
+"must"
+ar (발정한)
+* 발정하다 (animal 동물)
+* 요긴하다 (book 책) (clothing 옷)
+ap (발정하다)
+
+"must-have"
+ar (필수적인)
+ap (필수적이다)
+
+"musty"
+ar (곰팡내 나는)
+ap (곰팡내 나다)
+
+"mutable"
+ar (변하기 쉬운)
+ap (변하기 쉽다)
+
+"mute"
+ar (벙어리의)
+* 무언의 (protest 항의)
+* 벙어리의 (girl 소녀) (guy 사내)
+* 묵음의 (letter 문자)
+ap (소리가 없다)
+
+# ^stand mute of malice  (VERB) : 고의로 묵비권을 행사하다
+# mute consonants  (NOUN) : 폐쇄 자음
+
+"mutinous"
+ar (반항적인)
+ap (반항적이다)
+
+"muttonheaded"
+ar (어리석은)
+ap (어리석다)
+
+"muttony"
+ar (양고기 같은)
+ap (양고기 같다)
+
+"mutual"
+ar (상호간의)
+ap (상호간이다)
+# our mutual friend  (NOUN) : 우리의 공통의 벗
+# by mutual consent  (PP->ADV) : 합의에 따라
+# mutual acceptance (NOUN) : 상호인수
+# mutual admiration society  (NOUN) : 서로 칭찬하는 축들
+# mutual agreement (NOUN) : 상호인수
+# mutual aid  (NOUN) : 상호 부조
+# mutual benefit agreement (NOUN) : 공제조합
+# mutual fund (NOUN) : 뮤츄얼펀드
+# mutual induction  (NOUN) : 상호 감응
+# mutual installment loan contract (NOUN) : 상호보증금계약
+# mutual insurance company (NOUN) : 상호보험회사
+# mutual insurance  (NOUN) : 상호 보험
+# mutual loans and savings bank (NOUN) : 상호은행
+# mutual nondiscrimination (NOUN) : 상호무차별
+# mutual preferential buties (NOUN) : 상호특혜관세
+# mutual savings bank  (NOUN) : 상호저축은행
+# mutual society  (NOUN) : 공제 조합
+# mutual understang  (NOUN) : 상호 이해
+
+"muzzleloading"
+ar (전장의)
+ap (전장이다)
+
+"muzzy"
+ar (멍한)
+ap (멍하다)
+
+"my"
+ar (나의)
+* 나의 (time 시대) (turn 차례) (life 일생) (plane 비행기) (speech 연설)
+ap (나이다)
+//# my ^PRESP (VERB) : 내가 PRESP 하다
+
+"mycenean"
+ar (미케네의)
+ap (미케네이다)
+
+"myocardial"
+ar (심근의)
+ap (심근이다)
+
+"myopic"
+ar (근시의)
+ap (근시이다)
+
+"myotic"
+ar (동공 축소의)
+ap (동공 축소이다)
+
+"myriad"
+ar (무수한)
+ap (무수하다)
+
+"myriad-minded"
+ar (재간이 무궁무진한)
+ap (재간이 무궁무진하다)
+
+"myrrhic"
+ar (몰약의)
+ap (몰약이다)
+
+"myrrhy"
+ar (몰약 냄새가 나는)
+ap (몰약 냄새가 나다)
+
+"mystagogic"
+ar (비법전수의)
+ap (비법전수이다)
+
+"mysterious"
+ar (신비로운)
+ap (신비롭다)
+
+"mystic"
+ar (비법의)
+ap (비법이다)
+
+"mystical"
+ar (정신적 의지가 있는)
+ap (정신적 의지가 있다)
+
+"mythic"
+ar (신화의)
+ap (신화적이다)
+
+"mythical"
+ar (신화의)
+ap (신화적이다)
+
+"mythologic"
+ar (신화의)
+ap (신화적이다)
+
+"mythopoeic"
+ar (신화를 만드는)
+ap (신화를 만들다:ADJ->VERB)

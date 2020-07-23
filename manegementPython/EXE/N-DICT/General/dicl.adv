@@ -1,0 +1,233 @@
+
+"labouringly"
+(WcVfUf)
+
+"lamentably"
+(UzI]zAg)
+
+"langsyne"
+(WkUDbI)
+
+"large"
+([zAg)
+
+"largely"
+(GcRsRsD)
+
+"last"
+(Zl|^sWg)
+
+"lastly"
+(QbX|QbAWzIl)
+
+"late"
+(DzXAg)
+//# late A {+TIME} (ADV) : A /DzXAg
+// a few years later someone : a few years later I
+# until later | (ADV) : DzXAgBbX|
+
+
+"lately"
+(WrUbW|)
+
+"later"
+(^sWg)
+//# NUM1 {-ORDNUM} NOUN {+TIME} later (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1{+DGTNUM}) NOUN]) ^s<NOUN>]/Wg)
+# || later in the day $ (PP->ADV) : AzDbI DzXAg 
+# until later | (ADV) : DzXAgBbX|
+
+"latest"
+(QcD DbXsWWg)
+
+"latterly"
+(Zl|AzDWg)
+
+"lavishly"
+(WbB|QWfRUW|)
+
+"lazily"
+(AgWzIzAg)
+
+"learnedly"
+(^bAXbGbRAg)
+
+"least"
+(AbXbW XfAAg)
+
+"leeward"
+(RbIbQ RsIWfAbDzD YlAWg)
+
+"left"
+(Wl|D]jDWg)
+
+"leftward"
+(Wl|DYlAWzIl)
+
+"legally"
+(RfRXfAWzIl)
+
+"legato"
+(RsGzIfRAg)
+
+"legibily"
+(W|IAA| Us|RAg)
+
+"legitimatedly"
+(XfWGbW^bAg)
+
+"leisurely"
+(ZfDZfD^|)
+
+"lengthily"
+(XbW^lbW^bAg)
+
+"lengthwise"
+(A|IAg)
+
+"less"
+(GfI)
+//# less ADJ than ADJ1 (ADJ) : 
+//  [(ADJUNCT ADJ/^bX| WbD^WbVX|QbD) (MODS [[zAg<ADV>]) ADJ1]/^bGb
+# less and less (ADV) : XfQXfQ Gf XfAAg
+
+"liberally"
+(XbWwIlW|)
+
+"lief"
+(A|BfW|)
+
+"lifelessly"
+(XsAWf)
+
+"light"
+(AbRjRAg)
+
+"lightly"
+(RsIUfWU|I^bAg)
+
+"likely"
+(WbQb)
+
+//# as likely as not | (PP->ADV) : WbQbGl
+//# it be likely THAT_CLAUSE (SENT->ADJ) : [THAT_CLAUSE](^bI/F, AfU/N, Ab\/A)/Gb
+# less likely (ADV) : AbDzWUfWW| XfAAg
+# || most likely | (ADV) : WbQb
+
+"likemindedly"
+(Ab\WzD HzUWzIl)
+
+"likewise"
+(HlAAb\W|)
+
+"limitedly"
+(Xg^bDXfAWzIl)
+
+"lingually"
+(WfDWfIlUf)
+
+"literally"
+(QsDXb AzGcIl) 
+
+"literarily"
+(QsD^bAUbWWzIl)
+
+"literati"
+(DbAzDDbAzD^bD)
+
+"literati"
+(DbAzDDbAzD^bD)
+
+"little"
+(XlAzQ)
+* XlAzQGl (~ {+NEG})
+# only just a little (NOUN) : XlAzQQbD
+
+"littorally"
+(WjD^cWg)
+
+"liturgically"
+(WkRcU|A Wg HbIb)
+
+"live"
+(UcWRbWUlWWzIl)
+
+"lively"
+(^lbIRbI^bAg)
+
+"loathly"
+(U|I^Wf^bQjDUf)
+
+"locally"
+(Ws|Z|UbWWzIl)
+
+"loftily"
+(QcWs Dl]Ag)
+
+"logically"
+(DlDI|XfAWzIl)
+
+"loiteringly"
+(R|DGzIR|DGzI)
+
+"long"
+(WlIc)
+* A|IAg (grow)
+
+# as long as NUM1 year (ADV) : (MODS [(ADJUNCT [(NMODS NUM1) DjD<NOUN>]/QbD[zQ) A|IAg<ADV>])
+# as long as SENT (ADV) : (MODS [(RELCL SENT/^bDzD) ^bD<NOUN>])
+# enough long (ADV) : ZsWRsD^| WlIc 
+# no longer (ADV) : Gf W|UbW {+NEG}
+
+"loose"
+(DzUzD^bAg)
+
+"loosely"
+(DzUzD^bAg)
+
+"lordly"
+(GbWGbW^bAg)
+
+"loud"
+([zDUlI|Il)
+
+"loudly"
+([zDUlI|Il)
+
+"lovelily"
+(UbIbWUzIfRAg)
+
+"lovingly"
+(UbIbW^bWj)
+
+"low"
+(DbXAg)
+
+"loweringly"
+(A|RsDW| WfDYbD^WbUf)
+
+"lowly"
+(ZfD^bAg)
+
+"loyally"
+(ZsWUfWUzIfRAg)
+
+"luckily"
+(WsDXl^Ag)
+
+"lurkingly"
+(UsQWfUf)
+
+"lustily"
+(A|WsDXl^Ag)
+
+"lustrously"
+(R|ZDbAg)
+
+"luxuriously"
+(^lbIj^bAg)
+
+"lyingly"
+(AfX|UQbIIl)
+
+"lyrically"
+(UfXfWU|XfAWzIl)

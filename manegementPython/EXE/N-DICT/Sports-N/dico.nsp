@@ -1,0 +1,69 @@
+"Ohio State"
+# Ohio State (NOUN) : Wl^bW|Wl Uz\gW|\z
+
+"Oklahoma State"
+# Oklahoma State (NOUN) : Wl[zIIb^lQb XsI|RGc
+
+"Olajuwon"
+# Olajuwon (NOUN) : WlIIbXsWsfD
+
+"Olympiakos"
+# Olympiakos (NOUN) : WlII|Q]|Wb[sUz
+
+"Olympic"
+# Olympic (NOUN) : WlII|Q]|A
+
+"Orlando"
+# Orlando (NOUN) : WlIIbDGl
+
+"Orlando Hernandez"
+# Orlando Hernandez (NOUN) : WlIIbDGl WgIzDbDGgUz
+
+"offense"
+# offense (NOUN) : AlWAjA
+
+"officer"
+# chief operating officer (NOUN) : X|R^cWWs|WsfDXbW
+
+"official"
+# league official (NOUN) : I|Az AlbDI|
+# official (NOUN) : AlbDI|[U|Q]bD]
+
+"one"
+# number one (NOUN) : DfQRfWsfD
+
+"opener"
+# opener (NOUN) : U|XbA
+
+"opening"
+# opening (NOUN) : R|DXbI|
+
+"operation"
+# operation (NOUN) : WsDWjW
+
+"opportunity"
+# save opportunity (NOUN) : UgW|Rz A|^l|
+
+"option"
+# option (NOUN) : WlRUjD
+
+"out"
+# NUM1 out (NOUN) : [(NMODS NUM1) WbWsU<NOUN>]
+# infield out (NOUN) : DcWdHbWRlI WbWsU
+# out (NOUN) : WbWsU
+# with NUM1 {-ORDNUM} out $ (PP->ADV) : (ADJUNCT [(NMODS NUM1) WbWsU<NOUN>]/Wg)
+
+"outfielder"
+# outfielder (NOUN) : Wl|WdUs
+
+"outing"
+# outing (NOUN) : WbWsUXbRA|
+
+"outside"
+# outside (NOUN) : WbWsUUbW|Gz
+
+"overtime"
+# overtime (NOUN) : WjDXbWXfD
+
+"owner"
+# owner (NOUN) : AsGbDXs

@@ -1,0 +1,58 @@
+"back"
+vt (X|X|^bGb)
+
+"backfire"
+vi (QbXRsIWzI Dl^Gb)
+
+"bad-mouth"
+vt (WrA^bGb)
+
+"ban"
+vt (AzQX|^bGb)
+
+"bankroll"
+vt (WwWXb^bGb)
+
+"bargain"
+vi (AbRUWzI BbBGb)
+
+"barter"
+vt (QsIQsIAr^lbD^bGb)
+
+"be"
+vi (W|VGb)
+# be NUM1 from NUM2 (VERB->ADJ) : [(ADJUNCT NUM2/WgUf) (COMP NUM1) W|<ADJ>]/Gb
+# be down $ (VERB) : DcI|Gb
+# be up $ (VERB) : WlIzGb
+# be up NUM1 (VERB) : [(MODS NUM1) WlIz<VERB>]/Gb
+# be up about NUM1 (VERB) : [(MODS [WdA<ADV>]) (MODS NUM1) WlIz<VERB>]/Gb
+# be profitable $ (VERB) : W|W|AWzI DcGb
+
+"bear"
+vi (W|XbIzI QsIGb)
+
+"beleaguer"
+vt (]lWs|^bGb)
+
+"bid"
+vt (RsIzGb)
+
+"bluff"
+vi (^fUgIzI RsI|Gb)
+
+"bomb"
+vi (GcU|I]c^bGb)
+vt (GcU|I]c^bGb)
+
+"book"
+vt (WkWdA^bGb)
+vi (WkWdA^bGb)
+
+"bottom"
+vi (RbGbAWg Gb^Gb)
+
+"bring"
+# bring in (VERB) : UbDZsI^bGb
+
+"buy"
+# buy up (VERB) : QcXfQ^bGb

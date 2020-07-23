@@ -1,0 +1,701 @@
+"H"
+# H exchange format (NOUN) : H Ar^lbD ^jWU|A
+# H specification (NOUN) : H Uz]gA
+
+"Home Essentials"
+# Home Essentials 98 (NOUN) : ^lQ WgUgDUjI 98
+
+"Home Mouse"
+# Home Mouse v1.0 (NOUN) : ^lQ QbWsUz 1.0
+
+"Host Data Replicator"
+# Host Data Replicator (NOUN) : ^lUz\z GgW|\f RlAXgA|
+
+"Hypercard"
+# Hypercard (NOUN) : ^bW|]f [bGz
+
+"h-shield"
+# H-shield (NOUN) : H ^jW Us|IGz
+
+"half"
+# half band width (NOUN) : RbD GcWjA ]lA
+# half duplex (NOUN) : R|GlWU| WdWRbW^dW XfDUlW
+# half duplex channel (NOUN) : R|GlWU| WdWRbW^dW ZcDfI
+# half duplex circuit (NOUN) : R|GlWU| WdWRbW^dW XfDUlW ^l|UfD
+# half duplex contention mode (NOUN) : R|GlWU| WdWRbW^dW XfDUlW AjW^bR QlGz
+# Half Duplex DCE Attachment (NOUN) : R|GlWU| WdWRbW^dW DCE XfRUlAA|As
+# half duplex flip-flop mode (NOUN) : R|GlWU| WdWRbW^dW XfDUlW ]zII|R ]zIIlR QlGz
+# half duplex protocol (NOUN) : R|GlWU| WdWRbW^dW XfDUlW AwWdA
+# half duplex transmission (NOUN) : R|GlWU| WdWRbW^dW XfDUlW
+# half index down (NOUN) : RbD[bD DcI|Q W|DUlc
+# half index up (NOUN) : RbD[bD WlII|Q W|DUlc
+# half justify (NOUN) : XsWAbD XfWIjI
+# half path (NOUN) : RbD AjWIl
+# half session (NOUN) : RbD UgUjD
+# half speed (NOUN) : RbD UlAGl
+# half word (NOUN) : RbD GbDWf
+# half word binary (NOUN) : 2X|D RbDGbDWf
+
+"half-adder"
+# half-adder (NOUN) : RbD AbUbDA|
+
+"half-adjust"
+# half-adjust (NOUN) : RbD WlII|Q
+
+"half-byte"
+# half-byte (NOUN) : RbD RbW|\z
+
+"half-duplex"
+# half-duplex (NOUN) : R|GlWU| WdWRbW^dW XfDUlW
+
+"half-index"
+# half-index down (NOUN) : RbD[bD DcI|Q W|DUlc
+# half-index up (NOUN) : RbD[bD WlII|Q W|DUlc
+
+"half-justify"
+# half-justify (NOUN) : XsWAbD XfWIjI
+
+"half-session"
+# half-session (NOUN) : RbD UgUjD
+
+"halftime"
+# halftime emitter (NOUN) : RbDGbDAk WgQ|\f
+
+"halftone"
+# halftone image (NOUN) : XsWAbDUcA WjWUbW
+
+"halfword"
+# halfword binary (NOUN) : 2X|D RbDGbDWf
+
+"halt"
+# halt (NOUN) : XfWX|
+# halt indicator (NOUN) : XfWX| ]rU|XbWZ|
+# halt instruction (NOUN) : XfWX| QjWIjW
+# halt number (NOUN) : XfWX| RfD^l
+
+"halt-subtracter"
+# halt-subtracter (NOUN) : RbD AbQUbDA|
+
+"hamming"
+# hamming code (NOUN) : ^cQ|W [lGz
+# hamming distance (NOUN) : ^cQ|W AfI|
+
+"hammock"
+# hammock (NOUN) : ^cQfA
+
+"handle"
+# handle (NOUN) : ^cDGzI
+
+"handled"
+# handled (NOUN) : ZfI|Gl|D
+
+"handler"
+# handler (NOUN) : Zs|AzRXb
+
+"handling"
+# handling function (NOUN) : ZfI| A|DzW
+
+"hands-on"
+# Hands-On Network Environment (NOUN) : ^cDGz WlD Dg\zWsf[z ^lbDAjW
+
+"handset"
+# handset (NOUN) : UlWUs^lbA|
+
+"handshaking"
+# handshaking (NOUN) : ZlA| XfRUlA U|D^l
+# handshaking feature (NOUN) : ZlA|XfRUlA U|D^l A|DzW
+
+"handy"
+# handy card (NOUN) : ^wGcWrW [bGz
+
+"hang-up"
+# hang-up (NOUN) : XfWX|
+
+"hangeul"
+# hangeul (NOUN) : ^bDAzI
+
+"hanja"
+# hanja (NOUN) : ^bDXb
+
+"hard"
+# hard copy (NOUN) : ^bGz [b]|
+# hard copy support (NOUN) : ^bGz [b]| X|WsfD
+# hard disk (NOUN) : ^bGz G|Uz[z
+# hard error (NOUN) : AzDRlDXfA WlIw
+# hard machine check interruption (NOUN) : ^bGzWsgWf W|UbW XfQAfQ AbIlZcA|
+# hard stop (NOUN) : ^bGz XfWX|
+# hard wait (NOUN) : WjWAs GcA|
+# hard wait state (NOUN) : ^bGzWsgWf GcA| UbW\c
+
+"hard-copy"
+# hard-copy reference (NOUN) : ^bGz[b]| ZbQXl
+# Hard-Copy Task (NOUN) : ^bGz[b]| \bUz[z
+
+"hardcopy"
+# hardcopy document (NOUN) : ^bGz[b]| QsDUf
+# hardcopy log (NOUN) : W|DUlc ZsIIjA A|IlARs
+# hardcopy mail (NOUN) : ^bGz[b]| Ws]jD
+
+"hardware"
+# hardware (NOUN) : ^bGzWsgWf
+# hardware attributes (NOUN) : ^bGzWsgWf UlAUfW
+# hardware cell (NOUN) : ^bGzWsgWf UgI
+# hardware character (NOUN) : ^bGzWsgWf QsDXb
+# hardware check (NOUN) : ^bGzWsgWf W|UbW XfQAfQ
+# hardware error recovery management system (NOUN) : ^bGzWsgWf WlIw ^l|RlA AlbDI| U|Uz\gQ
+# hardware floating point instruction (NOUN) : ^bGzWsgWf WwGlW UlUsXfQ QjWIjW
+# hardware frame (NOUN) : ^bGzWsgWf ]zIgW|Q
+# hardware partition (NOUN) : ^bGzWsgWf As^l|A
+# hardware symbol (NOUN) : ^bGzWsgWf QsDXb
+# Hardware System Area (NOUN) : ^bGzWsgWf U|Uz\gQ WjWWjA
+
+"harmonic"
+# harmonic distortion (NOUN) : AlXl]b WlcAlA
+# harmonic telephone ringer (NOUN) : GlWXl XfD^lb RgI
+
+"hartley"
+# hartley (NOUN) : ^b\zI|
+
+"hash"
+# hash (NOUN) : ^cUs|
+# hash table (NOUN) : ^cUs|]r
+# hash total (NOUN) : ^cUs|^bR
+
+"hasp"
+# HASP (NOUN) : HASP A|As
+
+"hcf"
+# HCF (NOUN) : ^lUz\z QjWIjW A|As
+
+"hcp"
+# HCP emulation (NOUN) : HCP WgQwIIgW|UjD
+# HCP (NOUN) : ^lUz\z QjWIjW ZfI|A|
+# HCP (NOUN) : ^lUz\z QjWIjW ZfI| ]zIlAzIcQ
+
+"hct"
+# HCT (NOUN) : ^bGz[b]| \bUz[z
+
+"hd"
+# HD (NOUN) : R|GlWU| WdWRbW^dW XfDUlW
+
+"hdam"
+# HDAM (NOUN) : AkZzW X|AXfR XfRAzD RbWU|A
+
+"hdr"
+# HDR (NOUN) : ^gGf
+
+"hdx"
+# HDX (NOUN) : R|GlWU| WdWRbW^dW XfDUlW
+
+"head"
+# head (NOUN) : ^gGz
+# head crash (NOUN) : ^gGz UlDUbW
+# head disk assembly (NOUN) : ^gGz G|Uz[z WfUgQRzII|
+# head slot (NOUN) : ^gGz UzIIlU
+
+"header"
+# header (NOUN) : ^gGf
+# header buffer (NOUN) : ^gGf Rf]f
+# header card (NOUN) : ^gGf [bGz
+# header control (NOUN) : ^gGf XgWfA|
+# header entry (NOUN) : ^gGf ^bWQlA
+# header label (NOUN) : ^gGf IgW|RzI
+# header label sequence no. (NOUN) : ^gGf IgW|RzI W|IIjD RfD^l
+# header line (NOUN) : ^gGf ^cW
+# header lines (NOUN) : ^gGf ^cW
+# header record (NOUN) : ^gGf Ig[lGz
+# header segment (NOUN) : ^gGf UgAzQgD\z
+# header table (NOUN) : ^gGf ]r
+
+"header/footer"
+# header/footer instruction (NOUN) : ZfUXsI/Bz\XsI X|U|Wf
+
+"heading"
+# heading (NOUN) : ]rXg
+# heading character (NOUN) : ]rXg QsDXb
+# heading information (NOUN) : ]rXg XfWRl
+# heading level (NOUN) : ]rXg UsXsD
+# heading line (NOUN) : ]rXg^cW
+# heading record (NOUN) : ]rXg Ig[lGz
+
+"heap"
+# heap (NOUN) : ^|]z
+
+"heavy"
+# heavy duty printing requirements (NOUN) : GbIdW W|DUlc WrAs
+# heavy weight line (NOUN) : AsIAWzDUfD
+
+"hedged"
+# hedged inventory (NOUN) : GcR| XcAl
+
+"height"
+# height (NOUN) : Dl]W|
+# height multiplier (NOUN) : Dl]W| UzWUs
+
+"held"
+# held requirement (NOUN) : A|XlD UlWrIdW
+# held terminal (NOUN) : RlWw GbDQbIA|
+
+"hello"
+# hello message (NOUN) : ^lZsI QgUgX|
+# hello time (NOUN) : ^lZsI U|AbD
+
+"help"
+# help (NOUN) : GlWsQQbI
+# help contents (NOUN) : GlWsQQbI DcWrW
+# help definition specification (NOUN) : GlWsQQbI XfWWz| Uz]gA
+# help desk (NOUN) : GlWsQ ZbWAs
+# help facility (NOUN) : GlWsQQbI A|DzW
+# Help file (NOUN) : GlWsQQbI ]bW|I
+# help for help (NOUN) : GlWsQQbIWg AlbD^bD GlWsQQbI
+# help format (NOUN) : GlWsQQbI WdWU|A
+# help format file (NOUN) : GlWsQQbI WdWU|A ]bW|I
+# help function (NOUN) : GlWsQ A|DzW
+# help index (NOUN) : GlWsQQbI UcAW|D
+# help key (NOUN) : GlWsQQbI [|
+# help level specifications (NOUN) : GlWsQQbI UsXsD Uz]gA
+# help map name (NOUN) : GlWsQQbI ^lbQjDQjW
+# help on administrator (NOUN) : WsDWjW ]zIlAzIcQWg Gc^bD GlWsQQbI
+# help on keys (NOUN) : [| GlWsQQbI
+# help option (NOUN) : GlWsQQbI UfD\cA^bWQlA
+# help panel (NOUN) : GlWsQQbI ]cDfI
+# help pf key (NOUN) : GlWsQQbI A|DzW [|
+# help pull-down (NOUN) : GlWsQQbI ^lbAXbW QgDw
+# help screen (NOUN) : GlWsQQbI ^lbQjD
+# help support (NOUN) : GlWsQQbI X|WsfD
+# help text (NOUN) : GlWsQQbI
+# help window (NOUN) : GlWsQQbI ZbW
+
+"helping"
+# helping users (NOUN) : UbWrWXb GlWsQ
+
+# hermitian matrix (NOUN) : Hermitian ^cWIjI
+
+"hertz"
+# hertz (NOUN) : ^gIZz
+
+"heterogeneous"
+# heterogeneous hetwork (NOUN) : W|XlW Dg\zWsf[z
+
+"heuristic"
+# heuristic (NOUN) : RbIAjDXfA
+
+"hex"
+# hex (NOUN) : 16X|D
+
+"hexadecimal"
+# hexadecimal (NOUN) : 16X|D
+# hexadecimal address (NOUN) : 16X|D XsUl
+# hexadecimal character representation (NOUN) : 16X|DUs QsDXb ]rU|
+# hexadecimal constant (NOUN) : 16X|D UbWUs
+# hexadecimal digit (NOUN) : 16X|DUs
+# hexadecimal number (NOUN) : 16X|DUs
+# hexadecimal number system (NOUN) : 16X|DRfR
+# hexadecimal string (NOUN) : 16X|D QsDXbWjI
+
+"hexagon"
+# hexagon (NOUN) : 6AbA^jW
+
+"hexstring"
+# hexstring (NOUN) : 16X|DUs WjI
+
+"hidam"
+# HIDAM index (NOUN) : HIDAM UcAW|D
+# HIDAM (NOUN) : AkZzW UcAW|D X|AXfR XfRAzD RbWU|A
+
+"hidden"
+# hidden (NOUN) : WzDD|A
+# hidden field (NOUN) : AbQZsWfX|D ]|IGz
+# hidden files (NOUN) : WzDD|A ]bW|I
+# hidden line (NOUN) : AbQZsWfX|D UfD
+# hidden line removal (NOUN) : AbQZsWfX|D ^cW XgAf
+
+"hide"
+# hide emulation (NOUN) : WgQwIIgW|UjD WzDD|A
+
+"hierarchic"
+# Hierarchic File Support Feature (NOUN) : AkZzW ]bW|I X|WsfD A|DzW
+# hierarchic path (NOUN) : AkZzW AjWIl
+# hierarchic sequence (NOUN) : AkZzW UsDUf
+# hierarchic structure (NOUN) : AkZzW AsXl
+
+"hierarchical"
+# hierarchical data base (NOUN) : AkZzW AsXl GgW|\b RgW|Uz
+# hierarchical data base structures (NOUN) : AkZzW GgW|\b RgW|Uz AsXl
+# Hierarchical Direct Access Method (NOUN) : AkZzW X|AXfR XfRAzD RbWU|A
+# hierarchical direct organization (NOUN) : AkZzW X|AXfR ]jDUfW
+# hierarchical file system (NOUN) : AkZzW ]bW|I U|Uz\gQ
+# Hierarchical Indexed Direct Access Method (NOUN) : AkZzW UcAW|D X|AXfR XfRAzD RbWU|A
+# Hierarchical Indexed Sequential Access Method (NOUN) : AkZzW UcAW|D UsDZb XfRAzD RbWU|A
+# hierarchical network (NOUN) : AkZzW Dg\zWsf[z
+# hierarchical relationship (NOUN) : AkZzW AlbDAk
+# hierarchical sequential (NOUN) : AkZzW UsDZb
+# Hierarchical Sequential Access Method (NOUN) : AkZzW UsDZb XfRAzD RbWU|A
+# hierarchical sequential organization (NOUN) : AkZzW UsDZb ]jDUfW
+# Hierarchical Storage (NOUN) : AkZzW A|WfAWjWWjA AlbDI| ]zIlAzIcQ
+# hierarchical structure (NOUN) : AkZzW AsXl
+# hierarchical tree structure (NOUN) : AkZzWU|A DbQs AsXl
+
+"hierarchy"
+# hierarchy (NOUN) : AkZzW
+# hierarchy of operation (NOUN) : WjDUbD UsDWs|
+
+"high"
+# high intensity (NOUN) : AbW^bD RbIAA|
+# high key range (NOUN) : UbWWs|[| RfQWs|
+# high level (NOUN) : UbWWs| UsXsD
+# High Level Data Link Control (NOUN) : AlAzR XbIr WjDAjI XgWf
+# High Level Language (NOUN) : AlAzR WfDWf
+# high level message (NOUN) : UbWWs| UsXsD QgUgX|
+# high level of use (NOUN) : UbWrW R|DGlAb Dl]WzD
+# high level only attachment (NOUN) : AlUsXsD XfDWrW XzW]lAA|
+# High Level Programming Interface (NOUN) : UbWWs| UsXsD ]zIlAzIcQ|W W|D\f]gW|Uz
+# high level trace (NOUN) : AlUsXsDWz| ZsXfA
+# high limit (NOUN) : UbW^bD
+# High Limit Address (NOUN) : UbW^bD XsUl
+# high order (NOUN) : UbWWs|UsD
+# high order position (NOUN) : UbWWs| XbI|Us
+# High Order Zero and Blank Selection (NOUN) : UbWWs|UsD 0 Q|Z AlWRcA UfD\cA A|As
+# High Performance Communication Adapter (NOUN) : AlUfWDzW \lWU|D XfRUlAA|
+# High Performance Direct Connect Asynch. LA (NOUN) : AlUfWDzW X|AXfR XfRUlA R|GlWA| ^l|UfD LA
+# High Performance Full Modem Asynch. LA (NOUN) : AlUfWDzW RjDRlAXl XbWZ| R|GlWA| ^l|UfD LA
+# High Performance Full Modem Synch. LA (NOUN) : AlUfWDzW RjDRlAXl XbWZ| GlWA| ^l|UfD LA
+# high range (NOUN) : UbW^bDAbRU
+# high resolution (NOUN) : Al^cUbWGl
+# High Resolution Interval Timer (NOUN) : Al^cUbWGl AbDAjA AkU|A|
+# High Speed Block (NOUN) : AlUlA RzIIlA QfI\|]zIIgAUf ZcDfI
+# High Speed Direct Access Storage Priority (NOUN) : AlUlA X|AXfR XfRAzD A|WfAXbWZ| WsUfD A|As
+# High Speed General Register (NOUN) : AlUlA RfQWrW IgX|Uz\f
+# high speed I/O channel (NOUN) : AlUlA I/O ZcDfI
+# high speed line (NOUN) : AlUlA XfDUlW ^l|UfD
+# High Speed Modem Adapter (NOUN) : AlUlA RjDRlAXlXbWZ| XfRUlAA|
+# High Speed Multiplexer Channel (NOUN) : AlUlA QfI\|]zIIgAUf ZcDfI ZsAb
+# High Speed Multiply (NOUN) : AlUlA UzWUbD A|As
+# High Speed Processor (NOUN) : XsWWbW WjDUbD ZfI| XbWZ|
+# high speed skip (NOUN) : AlUlA AfDDfHs|A|
+
+"high-end"
+# high-end data (NOUN) : Zl|UbW XbIr
+
+"high-level"
+# high-level data link control (NOUN) : AlAzR GgW|\b I|W[z XgWf
+# high-level language (NOUN) : AlAzR WfDWf
+# high-level language pointer (NOUN) : AlAzR WfDWf X|U|Xb
+# high-level qualifier (NOUN) : UbWWs| UsXsD ^bDXfWXb
+# high-level structured query language (NOUN) : UbWWs| UsXsD AsXl Xl^l| WfDWf
+
+"high-order"
+# high-order (NOUN) : UbWWs|
+# high-order bit (NOUN) : Zl|UbWWs| R|\z
+# high-order byte (NOUN) : UbWWs| RbW|\z
+# high-order position (NOUN) : UbWWs| XbI|
+
+"high-performance"
+# high-performance option (NOUN) : AlUfWDzW WlRUjD
+
+"high-priority"
+# high-priority record queue (NOUN) : WsUfDUsDWs| Ig[lGz GcA|^cWIjI
+
+"high-resolution"
+# high-resolution display (NOUN) : Al^cUbWGl ^lbQjD
+# high-resolution printer (NOUN) : Al^cUbWGl W|DUlc XbWZ|
+
+"high-speed"
+# high-speed carry (NOUN) : AlUlA XbI| WlII|QUs
+# high-speed scanner (NOUN) : AlUlA XsUbXbWZ|
+# high-speed storage buffer (NOUN) : AlUlA Rf]f A|WfAXbWZ|
+
+"high-water"
+# high-water mark (NOUN) : Zl|Al UsXsDXfQ
+
+"higher"
+# higher level (NOUN) : UbWWs| GbDAk
+# higher level language (NOUN) : AlAzR WfDWf
+# Higher Performance Disk Attachment (NOUN) : AlUfWDzW G|Uz[z XfRUlAA|As
+
+"highest"
+# highest level index (NOUN) : Zl|UbWWs| UcAW|D
+# highest MSL (NOUN) : Zl|UfD^cW MSL
+# highest scheduling priority (NOUN) : Zl|WsUfD W|IXfW UsDWs|
+
+"highey"
+# highey shared machine (NOUN) : AbW^bAg AlWWwGl|D A|Ak AlGlIl AlWWwGl|D A|Ak
+
+"highlevel"
+# Highlevel Data Link Control (NOUN) : AlAzR XbIr WjDAjI XgWf
+
+"highlight"
+# highlight (NOUN) : AbWXl ]rU|
+
+"highlight-select"
+# highlight-select (NOUN) : AbWXl ]rU| UfD\cA
+
+"highlighted"
+# highlighted reference phrases (NOUN) : AbWXl ]rU|Gl|D ZbQXl QsDAs
+
+"highlighting"
+# highlighting (NOUN) : AbWXl ]rU|
+
+"highlights"
+# highlights (NOUN) : XsWr A|DzW
+
+"hilite"
+# hilite (NOUN) : AbWXl
+
+"hipo"
+# HIPO (NOUN) : AkZzWXfA W|RIjA ZfI| Q|Z ZsIIjA UfUsI RbWU|A
+
+"hiragana"
+# hiragana (NOUN) : ^|IbAbDb
+
+"hisam"
+# HISAM (NOUN) : AkZzW UcAW|D UsDZb XfRAzD RbWU|A
+
+"histogram"
+# histogram (NOUN) : QbAGc AzIc]z
+
+"historical"
+# historical quotes (NOUN) : XlWXfD U|Ug
+# historical standard cost (NOUN) : A|IlA ]rXsD WsfDAb
+
+"history"
+# history (NOUN) : A|IlA
+# history data set (NOUN) : A|IlA XbIr Ug\z
+# history file (NOUN) : A|IlA ]bW|I
+# history log (NOUN) : ^lbIGlW A|IlA
+
+"hit"
+# hit (NOUN) : ^|\z
+# hit ratio (NOUN) : ^|\z WwI
+# hit testing (NOUN) : W|RIjA AfQUb
+
+"hit-on-the-fly"
+# hit-on-the-fly printer (NOUN) : ^|\z WlD Gf ]zIIbW|U|A W|DUlcXbWZ|
+
+"hits"
+# hits (NOUN) : UsDAbD XbWWc
+
+"hll"
+# HLL pointer (NOUN) : HLL X|U|Xb
+# HLL source (NOUN) : AlAzR WfDWf WsfDU| XbIr
+# HLL (NOUN) : AlAzRWfDWf
+
+"hlpi"
+# HLPI (NOUN) : UbWWs| UsXsD ]zIlAzIcQ|W W|D\f]gW|Uz
+
+"holding"
+# holding (NOUN) : RlWw
+# holding register (NOUN) : RlIw IgX|Uz\f
+# holding screen status (NOUN) : RlIw ^lbQjD UbW\c
+
+"hole"
+# hole badge (NOUN) : ZfDAlW RcUX|
+# hole pattern (NOUN) : ZfDAlW WdWU|A
+
+"holiday"
+# holiday (NOUN) : AlW^wW|I
+
+"hollerith"
+# Hollerith (NOUN) : ^lIIfI|Uz
+
+"home"
+# home address (NOUN) : ^lQ XsUl
+# Home Component Recognition (NOUN) : ^lQ WrUl W|DU|AA|As
+# Home Correction (NOUN) : ^lQ UsXfWA|As
+# home directory (NOUN) : ^lQ GzWIlARs
+# home environment (NOUN) : ^lQ ^lbDAjW
+# home fileset (NOUN) : ^lQ ]bW|I Ug\z
+# home host (NOUN) : ^lQ ^lUz\z
+# home key (NOUN) : ^lQ [|
+# home loop (NOUN) : ^lQ Is]z
+# home loop input component interlock (NOUN) : ^lQ Is]z W|RIjA XbGlW XfWX|A|As
+# home loop operation (NOUN) : ^lQ Is]z XlXbA
+# home mode (NOUN) : ^lQ QlGz
+# home panel (NOUN) : ^lQ]cDfI
+# home position (NOUN) : WsfDWs|Z|
+# home record (NOUN) : ^lQ Ig[lGz
+# home tab key (NOUN) : ^lQ \cR [|
+
+"homogeneous"
+# homogeneous array (NOUN) : GlWX|I RcWjI
+# homogeneous network (NOUN) : GlWX|I Dg\zWsf[z
+
+"homologation"
+# homologation (NOUN) : \lWU|D WrAfD GlWXl
+
+"hook"
+# hook (NOUN) : ^s[z
+# hook chain (NOUN) : ^s[z ZgW|D
+# hook mark (NOUN) : ^s[z A|^l
+
+"hop"
+# hop (NOUN) : ^lR
+# Hop count limit (NOUN) : Zl|Gc \lWAlb RzI|UX| Us
+
+"hopper"
+# hopper (NOUN) : ^l]f
+
+"horizon"
+# horizon end date (NOUN) : A|AbD QbAbQW|I
+# horizon start date (NOUN) : A|AbD AcU|W|I
+# horizon value (NOUN) : A|AbD AbRU
+
+"horizontal"
+# horizontal (NOUN) : Us]jW
+# horizontal array (NOUN) : Us]jW RcWjI
+# horizontal bars (NOUN) : AbIlUfD
+# horizontal cursor speed (NOUN) : [fUf Us]jW W|GlW UlAGl
+# horizontal displayed record (NOUN) : Us]jW ]rU| RlAUs Ig[lGz
+# horizontal feed (NOUN) : Us]jW W|UlW
+# horizontal growth (NOUN) : Us]jW ^lbAXbWUfW
+# Horizontal Parity Check (NOUN) : Us]jW ]cI|\| XfQAfQ
+# horizontal pointer (NOUN) : Us]jW X|U|Xb
+# Horizontal Redundancy Check (NOUN) : Us]jW WjRsD QsDXb XfQAfQ
+# horizontal scroll values (NOUN) : Us]jW W|GlWZ|
+# horizontal tab position (NOUN) : Us]jW \cR Ws|Z|
+# horizontal tab table (NOUN) : Us]jW \cR ]r
+# horizontal tabulation (NOUN) : Us]jW Gl]r^lb
+
+"horizontally"
+# horizontally displayed record (NOUN) : Us]jW ]rU| RlAUs Ig[lGz
+
+"host"
+# host (NOUN) : ^lUz\z
+# host access (NOUN) : ^lUz\z XfRAzD
+# host acknowledgment (NOUN) : ^lUz\z AzWXfWWzWGbR
+# host application program (NOUN) : ^lUz\z XfAWrWWfRQs ]zIlAzIcQ
+# host assembler (NOUN) : ^lUz\z WfUgQRzIIf
+# host attachment (NOUN) : ^lUz\z WjDUbD ZfI| XbWZ| XfRUlAA|As
+# host code page (NOUN) : ^lUz\z [lGz ]gW|X|
+# host column code (NOUN) : ^lUz\z WjI [lGz
+# host column name (NOUN) : ^lUz\z WjIQjW
+# host command facility (NOUN) : ^lUz\z QjWIjW A|DzW
+# host command facility (NOUN) : ^lUz\z QjWIjW A|As
+# host command line (NOUN) : ^lUz\z QjWIjW ^cW
+# host command processor (NOUN) : ^lUz\z QjWIjW ZfI|A|
+# host command processor emulation (NOUN) : ^lUz\z QjWIjW ZfI|A| WgQwIIgW|UjD
+# host command processor (NOUN) : ^lUz\z QjWIjW ZfI|A|
+# Host Communications Feature (NOUN) : ^lUz\z \lWU|D A|As
+# host computer (NOUN) : ^lUz\z [fQ]w\f
+# host connection batch files (NOUN) : ^lUz\z WjDAjI W|IAlbIZfI| ]bW|I
+# host CPU (NOUN) : ^lUz\z CPU
+# Host Dependent Transaction Processing (NOUN) : ^lUz\z XlWUlA AfIc ZfI|
+# host environment (NOUN) : ^lUz\z ^lbDAjW
+# host file name (NOUN) : ^lUz\z ]bW|IQjW
+# host function keys (NOUN) : ^lUz\z A|DzW [|
+# host graphics support (NOUN) : ^lUz\z AzIc]|A X|WsfD
+# Host Independent Transaction Processing (NOUN) : ^lUz\z GlAI|R AfIc ZfI|
+# host language (NOUN) : ]zIlAzIcQ|W WfDWf
+# host LU (NOUN) : ^lUz\z LU
+# host master key (NOUN) : ^lUz\z QbUz\f [|
+# host master key variant (NOUN) : ^lUz\z QbUz\f [| RjD^jW
+# host mode (NOUN) : ^lUz\z QlGz
+# host MSL (NOUN) : ^lUz\z MSL
+# host node (NOUN) : ^lUz\z DlGz
+# host password (NOUN) : ^lUz\z WbQ^l
+# host persist (NOUN) : ^lUz\z X|UlA
+# host prep (NOUN) : ^lUz\z XsDR| ]zIlAzIcQ
+# host preparation facility (NOUN) : ^lUz\z XsDR| A|DzW
+# host processor (NOUN) : ^lUz\z ZfI|A|
+# host program (NOUN) : ^lUz\z ]zIlAzIcQ
+# host programming language (NOUN) : ^lUz\z ]zIlAzIcQ|W WfDWf
+# host prompt character pacing (NOUN) : ^lUz\z ]zIlQ\z QsDXb XfDUlW AwWdA
+# host RTM (NOUN) : ^lUz\z RTM
+# host structure (NOUN) : ^lUz\z AsXl
+# host subsystem (NOUN) : ^lUz\z RsUlAU|Uz\gQ
+# host support (NOUN) : ^lUz\z X|WsfD
+# host system (NOUN) : ^lUz\z U|Uz\gQ
+# host tape (NOUN) : ^lUz\z \gW|]z
+# host to host (NOUN) : ^lUz\zAbD
+# Host Transaction Facility (NOUN) : ^lUz\z AfIc A|DzW
+# host variable (NOUN) : ^lUz\z RjDUs
+
+"host-connection"
+# host-connection batch file (NOUN) : ^lUz\z WjDAjI W|IAlbIZfI| ]bW|I
+
+"host-initiated"
+# host-initiated program (NOUN) : ^lUz\z AcU| ]zIlAzIcQ
+
+"host/pws"
+# host/PWS userid association (NOUN) : ^lUz\z/PWS UbWrWXb ID WjDAlbD
+
+"hot"
+# hot key (NOUN) : ^bU [|
+# hot key sequence (NOUN) : ^bU [| UsDUf
+# hot list (NOUN) : A|DAzR XbXc W|IIbQ]r
+# Hot Pluggability (NOUN) : UbWU| Ar^lbD AbDzWUfW
+# hot spot (NOUN) : ^bU Ws|Z|
+
+"hour"
+# hour (NOUN) : U|AbD
+
+"hour/lot(hours"
+# hour/lot(hours per) (NOUN) : U|AbD/IlU\z
+
+"hour/unit"
+# hour/unit (NOUN) : U|AbD/GbDWs|
+
+"hourglass"
+# hourglass pointer (NOUN) : QlIcU|Ak
+
+"hours"
+# hours per unit (NOUN) : GbDWs|GbW U|AbD Us
+# hours remaining (NOUN) : XbDWj U|AbD
+# hours remaining ratio (NOUN) : XbDWj U|AbDWwI
+
+"housekeeping"
+# housekeeping (NOUN) : RlXl AlbDI|
+# housekeeping option (NOUN) : AlbDI| UfD\cA^bWQlA
+
+"houston"
+# Houston Automatic Spooling Program (NOUN) : ^wUz\lD XbGlW Uz]sII|W ]zIlAzIcQ
+
+"hs"
+# HS (NOUN) : AkZzW UsDZb
+
+"hsam"
+# HSAM (NOUN) : AkZzW UsDZb XfRAzD RbWU|A
+
+"ht"
+# HT (NOUN) : Us]jW Gl]r^lb
+
+"hub"
+# hub (NOUN) : ^fRz
+# hub go-ahead (NOUN) : ^fRz X|D^cW
+# active hub (NOUN) : WcA\|Rz ^fRz
+# passive hub (NOUN) : UsGlWXfA ^fRz
+
+"hue"
+# hue (NOUN) : UcAUbW
+
+"human"
+# human oriented language (NOUN) : W|DAbD XsWU|Q WfDWf
+
+"humidity"
+# humidity (NOUN) : UzRGl
+
+"hunt"
+# hunt (NOUN) : WjRcA UfD\cA
+
+"hybrid"
+# hybrid coil (NOUN) : ^bW|RzI|Gz [lW|I
+# hybrid computer (NOUN) : ^bW|RzI|Gz [fQ]w\f
+# hybrid integrated circuit (NOUN) : ^bW|RzI|Gz X|RXfA ^l|Il
+
+"hypercard"
+# hypercard (NOUN) : ^bW|]f [bGz
+
+"hypertape"
+# hypertape control (NOUN) : AlUlA XbA| \gW|]z XgWfXbWZ|
+
+"hypertape"
+# Hypertape Drive (NOUN) : AlUlA XbA| \gW|]z XbWZ|
+
+"hyphen"
+# hyphen (NOUN) : ^bW|]zD
+
+"hysteresis"
+# hysteresis loop (NOUN) : XbA|W|IjA Is]z
+
+"hz"
+# hz (NOUN) : hertz

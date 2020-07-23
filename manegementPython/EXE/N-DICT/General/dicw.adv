@@ -1,0 +1,265 @@
+"wanton"
+(XlU|Q ^bWj)
+
+"warmly"
+(HbHzU^bAg)
+
+"waufaringways"
+(Ws|Z|)
+
+"weakly"
+(WdA^bAg)
+
+"wealthily"
+(RsWw^bAg)
+
+"wearily"
+(X|ZjUf)
+
+"wedgewise"
+(VlcA|ZfIfQ)
+
+"weedlingly"
+(AbQWfDW|UfIIl)
+
+"weekdays"
+(]jWW|IWg)
+
+"weekends"
+(XsQbIQbGb)
+
+"weekly"
+(QcXsQbGb)
+
+"weightily"
+(QsAfRAg)
+
+"well"
+(XbI)
+* A|RsDW| Xl^Ag (feel)
+* AzIVg (~ {+SBEGIN})
+* QbD^W| (like)
+# as well $ (ADV) : Hl^bD
+//# be well | (VERB->ADJ) : XbI W|VGb
+# ^be not well at all (VERB->ADJ) : XfD^j XbI W|VX| WbD^Gb {-NEG}
+# very well (ADV) :  QcWs XbI
+# || well | (SENT) : AzIVg
+# well over NUM1 (NOUN) : [(NMODS [(MODS [^sfIV|D<ADV>]) NUM1]) W|UbW<NOUN>]
+# well over NUM1 A {+MATERIAL} (NOUN) : 
+  (RELCL [(OBJ NUM1/WzI) (MODS [^sfIV|D<ADV>]) ZlAlb^b<VERB>]/DzD) A
+
+"wellnigh"
+(AfWz|)
+
+"west"
+(UfYlAWzIl)
+
+"westerly"
+(UfYlAWzIl)
+
+"westward"
+(UfYlAWzIl)
+
+"westwards"
+(UfYlAWzIl)
+
+"whacking"
+(Al|WXbW^|)
+
+"what"
+( )
+# what about A (SENT) : (DECL [(SUBJ A/DzD) WfHf^<ADJ>]/Gb)
+
+"when"
+(WfDXg)
+# || by when (ADV) : WfDXgBbX|
+# || when and where ? (SENT) : (QUES [WfDXg WfG|Uf<ADV>])
+# when or where (NOUN ADV) : 1) HcDb XbWUl
+                              2) WfDXg HlDzD WfG|Uf
+# when and where (NOUN ADV) : 1) HcWlb XbWUl
+                              2) WfDXg WfG|Uf
+
+"whence"
+(WfG|IlRs\f)
+
+"whencesoever"
+(WfG|Uf ^bWjGl)
+
+"whenever"
+(WfDXgGzDX|)
+
+"whensoever"
+(WfDXgGzDX|)
+
+"where"
+(WfG|WgUf)
+* WfG|Il (go carry send)
+* WfG|Wg (WbDXGb W|VGb sit invite)
+
+# || where are you from || (SENT) : GbWU|DWzD WfG|Uf WlGb
+# where you are ? (SENT) : (QUES [(SUBJ [GbWU|D<PRON>]/WzD) (MODS [WfG|<ADV>]) W|V<ADJ>]/Gb)
+# where you are from ? (SENT) : (QUES [(SUBJ [GbWU|D<PRON>]/WzD) (MODS [WfG|<ADV>]) ZsIU|DW|<ADJ>]/Gb)
+# where you do come from ? (SENT) : (QUES [(SUBJ [GbWU|D<PRON>]/WzD) (MODS [WfG|<ADV>]) ZsIU|DW|<ADJ>]/Gb)
+//# the place where SENT (NOUN) : [(RELCL SENT/^bDzD) XbWUl<NOUN>]
+# where TO_INF (NOUN) : [(RELCL TO_INF/^bI) AlU<NOUN>]
+
+"whereabout"
+(WfG|YzQ)
+
+"whereat"
+(WfG|YzQWg)
+
+"wherein"
+(WfDz XfQWgUf)
+
+"whereinto"
+(WfDz AlUWzIl)
+
+"whereof"
+(QsUzD)
+
+"whereon"
+(QsWfU Ws|Wg)
+
+"wheresoever"
+(WfG|WgUf GzDX|)
+
+"whereto"
+(WfG|BbX|)
+
+"whereunder"
+(Az Q|\WgUf)
+
+"wherever"
+(WfG|GzDX|)
+
+"wherewith"
+(QsWfUWzIl)
+
+"while"
+(RbDQjDWg)
+
+"whither"
+(WfG|Il)
+
+"whithersoever"
+(WfG|Al)
+
+"wholesale"
+(GlQcIl)
+
+"wholesomely"
+(GlWWz|Wf)
+
+"wholly"
+(XfD^j)
+
+"whopping"
+(\fQsD| WfRUW|)
+
+"why"
+(Wlc)
+# reason why SENT (NOUN) : [(RELCL SENT/^bDzD) W|Ww<NOUN>]
+# || why ? (SENT) : (QUES [Wlc<ADV>])
+# why do {+PRES} not PRON BARE_INF (SENT) : 
+(QUES [(SCOMP [(COMPCL BARE_INF/^bDzD) AfU<NOUN>]/W|) WfHf^<ADJ>](AgV/P)/Gb)
+# || why not || (SENT) : (DECL [Xl^<ADJ>]/Gb{-QUESFLAG})
+
+"wickedly"
+(GcGbD^|)
+
+"wicker"
+(XbAWzD AbX|Il QbDGzD)
+
+"wide"
+(DfIRAg)
+
+"widely"
+(DfIRAg)
+* DfII| (consider)
+
+"wildly"
+(UbDbRAg)
+
+"wilfully"
+(Ak^l|AXfAWzIl)
+
+"wilily"
+(Ar^lbI^bAg)
+
+"willfully"
+(Ak^l|AXfAWzIl)
+
+"willingly"
+(A|BfW|)
+
+"willy-nilly"
+(^bI Us WfRUW|)
+
+"willynilly"
+(^bI Us WfRUW|)
+
+"windup"
+(AbQWb WlII|DzD)
+
+"windward"
+(RbIbQRsIWfWlDzD YlAWzIl)
+
+"wirily"
+(ZfIUb QlWdWWzIl)
+
+"wisely"
+(^jDQjW^bAg)
+
+"withal"
+(AzWs|Wg)
+
+"within"
+(WbD Wg)
+
+"without"
+(RbBWzD)
+
+"wittily"
+(XcZ|W|VAg)
+
+"woefully"
+(R|ZbQ^bAg)
+
+"wonderfully"
+(^sIIwW^bAg)
+
+"wordily"
+(QbI QbD^Ag)
+
+"workly"
+(X|AAlWGbRAg)
+
+"workmanlike"
+(X|AAlWGbRAg)
+
+"worldwide"
+(XfDUgAkXfAWzIl)
+
+"worse"
+(GfWsA DbSzAg)
+
+"worst"
+(AbXbW DbSzAg)
+
+"worthily"
+(^sIIwW^bAg)
+
+"wrathfully"
+(AjARsD^bWj)
+
+"wretchedly"
+(R|ZbQ^bAg)
+
+"wrongfully"
+(DbSzAg)
+* WlbDAbW^bAg (refuse)
+
+"wrongly"
+(XbIQlU)
+

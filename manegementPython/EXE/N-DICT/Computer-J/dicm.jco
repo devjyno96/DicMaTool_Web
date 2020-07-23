@@ -1,0 +1,357 @@
+
+"magnetic"
+# magnetic badge  :  XbA| RcUX|
+# magnetic card  :  XbA| [bGz
+# magnetic cell  :  XbA| UlXb
+# magnetic character reader  :  XbA| QsDXb W|IAA|XbWZ|
+# magnetic core  :  XbA| [lWf
+# magnetic core storage  :  XbA| [lWf A|WfAXbWZ|
+# magnetic delay line  :  XbA| X|WjDUfD
+# magnetic disk  :  XbA| G|Uz[z
+# magnetic disk storage  :  XbA| G|Uz[z A|WfAXbWZ|
+# magnetic disk unit  :  XbA| G|Uz[z XbWZ|
+# magnetic drum  :  XbA| GzIfQ
+# magnetic drum storage  :  XbA| GzIfQ A|WfAXbWZ|
+# magnetic drum unit  :  XbA| GzIfQ XbWZ|
+# magnetic hand scanner  :  XbA| UsGlWU|A XsUb ^cGlAXbWZ|
+# magnetic head  :  XbA| ^gGz
+# magnetic ink  :  XbUfW W|W[z
+# Magnetic Ink Character Recognition  :  XbUfW W|W[z QsDXb W|DX|
+# magnetic recording  :  XbA| A|IlA
+# magnetic slot reader  :  XbA| UzIIlU W|IAA|XbWZ|
+# magnetic storage  :  XbA| A|WfAXbWZ|
+# magnetic stripe  :  XbA| UfD
+# magnetic stripe reader  :  XbA|UfD W|IAA| XbWZ|
+# magnetic stripe reading device  :  XbA| H| W|IAA| XbWZ|
+# magnetic tape  :  XbA| \gW|]z
+# magnetic tape adapter  :  XbA| \gW|]z XfRUlAA|
+# magnetic tape attachment  :  XbA| \gW|]z XfRUlAA|As
+# magnetic tape cartridge  :  XbA| \gW|]z [b\zI|X|
+# magnetic tape cassette  :  XbA| \gW|]z [bUg\z
+# magnetic tape cassette unit  :  XbA| \gW|]z [bUg\z XbWZ|
+# magnetic tape deck  :  XbA| \gW|]z Gg[z
+# magnetic tape drive  :  XbA| \gW|]z AsGlWXbWZ|
+# magnetic tape leader  :  XbA| \gW|]z UfDGs
+# magnetic tape storage  :  XbA| \gW|]z A|WfAXbWZ|
+# magnetic tape trailer  :  XbA| \gW|]z ^sQ|
+# magnetic tape transport  :  XbA| \gW|]z W|UlW
+# magnetic tape unit  :  XbA| \gW|]z XbWZ|
+# magnetic thin film  :  XbA| RbA]jD
+# magnetic thin film storage  :  XbA| RbA]jD A|WfAXbWZ|
+
+"main"
+# main  :  XsWr
+# main application  :  Xs XfAWrWWfRQs
+# main batch  :  Xs W|IAlbIZfI|
+# Main Distributing Frame  :  Xs RcUfD]bD
+# main frame  :  RlDZg
+# main function  :  Xs A|DzW
+# main loop cabling  :  Xs Is]z XfRUlA
+# main memory  :  Xs A|WfA XbWZ|
+# main menu  :  Xs QgDw
+# main network address  :  Xs Dg\zWsf[z XsUl
+# main page pool  :  Xs ]gW|X| XfXbWUl
+# main panel  :  Xs ]cDfI
+# main processes  :  Xs ZfI|
+# main processor  :  Xs ZfI| XbWZ|
+# main program  :  Xs ]zIlAzIcQ
+# main routine  :  Xs Is\|D
+# main storage  :  Xs A|WfA XbWZ|
+# Main Storage Control  :  Xs A|WfA XbWZ| XgWfA|
+# Main Storage Data Base  :  Xs A|WfA WjWWjA GgW|\b RgW|Uz
+# main storage dump space  :  Xs A|WfA WjWWjA GfQ]z AlWAbD
+# main storage dump space  :  Xs A|WfAXbWZ| GfQ]z AlWAbD
+# main storage file segment  :  Xs A|WfA XbWZ| ]bW|I UgAzQgD\z
+# main storage hierarchy support  :  Xs A|WfA XbWZ| AkZzW X|WsfD
+# main storage occupancy routine  :  Xs A|WfA XbWZ| XfQWw Is\|D
+# main storage partition  :  Xs A|WfA XbWZ| As^l|A
+# main storage pool  :  Xs A|WfAXbWZ| XfXbWUl
+# main storage processor  :  Xs A|WfA XbWZ| ZfI|A|
+# main storage region  :  Xs A|WfA WjWWjA
+# main task  :  Xs \bUz[z
+# main transaction  :  Xs AfIc
+# main window  :  A|RlD ZbW
+
+"major"
+# major  :  Xs
+# major class field  :  Xs [zIIcUz ]|IGz
+# major control field  :  Xs XgWf ]|IGz
+# major error  :  XsWGc^bD WlIw
+# major event code  :  Xs W|RgD\z [lGz
+# major node  :  Xs DlGz
+# major structure  :  Xs AsXl
+# major task  :  Xs \bUz[z
+# major tick  :  Xs DsDAzQ
+# major time slice  :  Xs U|AbD GbD]jD
+# major total  :  ZlW ^bRAk
+
+"mandatory"
+# mandatory  :  ]|IUs
+# mandatory check  :  ]|IUs AfQUb
+# mandatory cryptographic session  :  ]|IUs WbQ^l UgUjD
+# mandatory entry field  :  ]|IUs W|RIjA ]|IGz
+# mandatory fill  :  ]|IUs ZcWsQ
+# mandatory fill field  :  ]|IUs ZcWsQ ]|IGz
+# mandatory segment  :  ]|IUs UgAzQgD\z
+
+"manual"
+# manual  :  X|Z|QUf
+# manual answer  :  UsGlW WzWGbR
+# manual binary input  :  UsGlW 2X|D W|RIjA
+# manual call  :  UsGlW ^lZsI
+# manual connection  :  UsGlW WjDAjI
+# manual control box  :  UsGlW XgWf UbWXb
+# manual decimal input  :  UsGlW 10X|D W|RIjA
+# manual device backup  :  UsGlW XbWZ| RcAWfR
+# manual dial  :  UsGlW GbW|WfI
+# manual entry  :  UsGlW W|RIjA
+# manual exchange  :  UsGlW Ar^lbD
+# manual I/O  :  UsGlW I/O XbWZ|
+# manual indicator  :  UsGlW ]rU| XbWZ|
+# manual input  :  UsGlW W|RIjA
+# manual operation  :  UsGlW XlXbA
+# manual problem analysis  :  UsGlW QsDXgXfQ RsDUfA
+# manual slot  :  UsGlW UzIIlU
+# manual switch  :  UsGlW UzWs|Z|
+
+"marginal"
+# marginal check  :  ^bDAk AfQUb
+
+"master"
+# master address  :  Xs XsUl
+# master address file  :  Xs XsUl ]bW|I
+# master address space  :  Xs XsUl WjWWjA
+# master card  :  A|RlD [bGz
+# master catalog  :  Xs [b\bIIlAz
+# master clock  :  A|RlD U|Ak
+# master configuration record  :  Xs AsUfW Ig[lGz
+# master console  :  Xs [lDUlI
+# master control code  :  Xs XgWf [lGz
+# master cryptgraphy key  :  Xs WbQ^l [|
+# master directory  :  Xs GzWIlARs
+# master disk  :  Xs G|Uz[z
+# master environment  :  Xs ^lbDAjW
+# master file  :  Xs ]bW|I
+# master file control record  :  Xs ]bW|I XgWf Ig[lGz
+# master file directory  :  Xs ]bW|I GzWIlARs
+# master file directory block  :  Xs ]bW|I GzWIlARs RzIIlA
+# master file report  :  QbUz\f ]bW|I RlAlUf
+# Master Gate Control Block  :  Xs AgW|\z XgWf RzIIlA
+# Master I/O Control Block  :  Xs I/O XgWf RzIIlA
+# master index  :  Xs UcAW|D
+# Master Index Table  :  Xs UcAW|D]r
+# master items  :  Zl|XlW]sQ
+# master key  :  QbUz\f  [|
+# master key concept  :  Xs [| AcDjQ
+# Master Key variant key Data Set  :  Xs [| ]jDZb[| XbIr Ug\z
+# master level  :  Zl|XlW GbDAk
+# master level item  :  A|XsD UcWUbD Ak^l|A ]sQQlA
+# master level item code  :  Zl|XlW GbDAk ]sQQlA [lGz
+# master level item planning run-change  :  Zl|XlW GbDAk ]sQQlA UcWUbD Ak^l|A  Us^cW-RjDAjW
+# master level item planning run-generation  :  Zl|XlW GbDAk ]sQQlA UcWUbD Ak^l|A  Us^cW-UcWUfW
+# master level item scheduling  :  Zl|XlW GbDAk ]sQQlA Uz[gXwII|W
+# Master Level Item  :  Zl|XlW GbDAk ]sQQlA
+# master list printer  :  Xs W|IIbQ]r W|DUlcA|
+# master mark  :  Xs ]rU|
+# master mask  :  Xs QbUz[z
+# master mode  :  Xs QlGz
+# master MSL  :  QbUz\f MSL
+# master planning schedule  :  Zl|XlW Ak^l|A W|IXfW
+# master production planning  :  A|XsD UcWUbD Ak^l|A
+# master production schedule  :  A|XsD UcWUbD W|IXfW
+# master production schedule planning  : A|XsD UcWUbD W|IXfW Ak^l|A
+# master profile  : Xs ]zIl]bW|I
+# master profile routine  : Xs ]zIl]bW|I Is\|D
+# master record  :  QbUz\f Ig[lGz
+# master routing  :  A|XsD AlWXfW
+# master schedule item  :  A|XsD W|IXfW Ak^l|A ]sQQlA
+# Master Schedule Planning  :  A|XsD W|IXfW Ak^l|A
+# master scheduler  :  Xs Uz[gXwIIf
+# master scheduler task  :  Xs Uz[gXwIIf \bUz[z
+# master security officer  :  Xs RlWbD GbQGbWXb
+# master segment  :  Xs UgAzQgD\z
+# master sort table  :  QbUz\f RsDIw \gW|RzI
+# master station  :  Xs XfDUlWX|AsA
+# master terminal  :  Xs GbDQbIA|
+# master terminal command  :  Xs GbDQbIA| QjWIjW
+# master terminal formatting options  :  Xs GbDQbIA| ^jWU|A UfIXfW WlRUjD
+# master terminal operator  :  Xs GbDQbIA| XlXbAWsfD
+# Master Timer Control Block  :  Xs U|Ak XgWf RzIIlA
+# master trace  :  Xs ZsXfA
+
+"mathematical"
+# mathematical  :  UsI|XfA
+# mathematical and functional subroutine library  :  UsI| Q|Z A|DzWXfA RsUlA Is\|D IbW|RzIfI|
+# mathematical check  :  UsI|XfA AfQUb
+# mathematical induction  :  UsI|XfA As|DbRRfR
+# mathematical logic  :  UsI|XfA DlDI|
+# mathematical model  :  UsI|XfA QlGgI
+# mathematical problem solver library  :  UsI|XfA AkUbD IbW|RzIfI|
+# mathematical programming  :  UsI| ]zIlAzIcQ|W
+# Mathematical Programming System Extended/370  :  ^lbAXbW UsI| ]zIlAzIcQ|W U|Uz\gQ/370
+# Mathematical Programming System  :  UsI| ]zIlAzIcQ|W U|Uz\gQ
+
+"mechanical"
+# mechanical  :  A|AkWz|
+# mechanical translation  :  A|Ak RfDWjA
+
+"medical"
+# Medical Information System Program  :  Wz|Ir XfWRl U|Uz\gQ ]zIlAzIcQ
+
+"menu-driven"
+# menu-driven  :  QgDw ZfI| RbWU|A
+# menu-driven program  :  QgDw RbWU|A ]zIlAzIcQ
+
+"minor"
+# minor  :  UlUsWz|
+# minor class field  :  Rs [zIIcUz ]|IGz
+# minor code information  :  Rs [lGz XfWRl
+# minor code trace information  :  Rs [lGz ZsXfA XfWRl
+# minor control field  :  Ul XgWf ]|IGz
+# minor error  :  UbUl^bD WlIw
+# minor node  :  Ul QbG|
+# minor structure  :  Ul AsXl
+# minor tick  :  UlDsDAzQ
+# minor tick mark  :  Ul DsDAzQ ]rU|
+# minor time slice  :  Ul U|AbD GbD]jD
+# minor total  :  Ul ^bRAk
+
+"miscellaneous"
+# miscellaneous  :  A|\b ^bWQlA
+# miscellaneous description  :  A|\b UfIQjW
+# miscellaneous issues  :  A|\b RsIZsI
+
+"missing"
+# missing  :  DsIbA
+# Missing Interruption Checker  :  DsIbA AbIlZcA| AfQUbA|
+# missing page interruption  :  ]gW|X| RsXc XsWGbD
+# missing printer  :  W|DUlcXbWZ| DsIbA
+# missing value  :  DsIbAAbRU
+
+"mixed-case"
+# mixed-case letter  : GcUl^lDWrW QsDXb
+
+"mixed-type"
+# mixed-type field  : ^lD^bR ^jW\c ]|IGz
+
+"mnemonic"
+# mnemonic  :  WjDUbW
+# mnemonic code  :  WjDUbW [lGz
+# mnemonic error code  :  RjIZ|W WlIw [lGz
+# mnemonic name  :  WjDUbW A|WfAQjW
+# mnemonic operation code  :  WjDUbW WjDUbD [lGz
+# mnemonic symbol  :  WjDUbW A|^l
+
+"modifiable"
+# modifiable alternate program communication block  :  UsXfW AbDzW GcZg ]zIlAzIcQ \lWU|D RzIIlA
+# modifiable fields  :  UsXfW AbDzW ]|IGz
+
+"modular"
+# modular (ADJ) : QlGwIU|A
+# modular approach  :  QlGwI^lb XfRAzD
+# modular bills  :  QlGwI Rs]sQ]r
+# modular program design  :  QlGwI^lb ]zIlAzIcQ UfIAk
+# modular structure  :  QlGwI^lb AsXl
+# modular system program  :  QlGwI^lb U|Uz\gQ ]zIlAzIcQ
+
+"monolithic"
+# monolithic integrated circuit  :  GbDW|IZg X|RXfA ^l|Il
+
+"movable"
+# movable heads  :  W|GlW ^gGz
+# movable volume  :  WwGlW RlIIwQ
+
+"multi"
+# multi byte  :  GbXsW RbW|\z
+# MULTI copy data instruction  :  RlAUs RlAUb XbIr QjWIjWWf
+# multi drop  :  RsDUbD RsDA| ^l|UfD
+# multi extent  :  GbXsW RfQWs|
+# Multi leaving Remote Job Entry  :  GbXsW XfDUlW WsfDAjA XbAWfR W|RIjA
+# Multi leaving Telecommunication Access Method  :  GbXsW XfDUlW WsfDAjA \lWU|D XfRAzD RbWU|A
+# multi panel  :  GbXsW ]cDfI
+# multi point  :  RsDA| XfRUlA RbWU|A
+# multi record  :  RlAUs Ig[lGz
+# multi record file  :  RlAUs Ig[lGz ]bW|I
+# multi reel  :  RlAUs I|I
+# multi reel file  :  RlAUs I|I ]bW|I
+# multi region operation  :  RlAUs WjWWjA XlXbA
+# multi step  :  RlAUs GbDAk
+# Multi System Networking Facility  :  GbXsW U|Uz\gQ Dg[zWsf[|W A|DzW
+# multi track  :  RlAUs \zIcA
+# multi volume  :  RlAUs RlIIwQ
+
+"multilingual"
+# multilingual  :  GbAsAWf
+# multilingual code page  :  AlW\lW [lGz ]gW|X|
+
+"multinational"
+# multinational character set  :  GbAsAXfA QsDXb Ug\z
+
+"multiple"
+# multiple address instruction  :  RlAUs XsUl QjWIjW
+# multiple address message  :  RlAUs XsUl QgUgX|
+# multiple address space  :  RlAUs XsUl AlWAbD
+# multiple application  :  RlAUs XfAWrWWfRQs
+# multiple axis chart  :  GbXsW ZsA Gl]r
+# multiple bar chart  :  GbXsW QbAGc Gl]r
+# multiple bridge  :  GbXsW RzI|UX|
+# multiple channel  :  GbXsW ZcDfI
+# multiple chart  :  GbXsW Gl]r
+# Multiple Choice screen  :  GbXsW UfD\cA ^lbQjD
+# multiple column editing  :  RlAUs WjI ]jDX|R
+# multiple connector  :  GbXsW WjDAjIXb
+# multiple console  :  RlAUs [lDUlI
+# Multiple Console Support  :  RlAUs [lDUlI X|WsfD
+# multiple data set groups  :  RlAUs XbIr Ug\z AzIsR
+# multiple declaration  :  GbXsW UfDWfD
+# multiple development  :  GbXsW AcRbI
+# multiple device file  :  RlAUs XbWZ| ]bW|I
+# multiple devices  :  RlAUs XbWZ|
+# multiple distributed environments  :  RlAUsIl RcRsDGl|D ^lbDAjW
+# multiple job processing  :  GbXsW XbAWfR ZfI|
+# multiple letters merge  :  RlAUs QsDXb RjW^bR
+# multiple line  :  RlAUs ^cW
+# multiple line report  :  RlAUs ^cW RlAlUf
+# multiple lock  :  GbXsW XbQAzQ
+# multiple occurrence data structure  :  RlAUs RbIUcW XbIr AsXl
+# multiple operations  :  RlAUs XlXbA
+# multiple order  :  RlAUs WlGf
+# multiple panel  :  GbXsW ]cDfI
+# multiple part  :  RlAUs RsRsD
+# Multiple Partition Support  :  RlAUs As^l|A X|WsfD
+# Multiple Port Sharing  :  RlAUs WjDAjIRs AlWWw
+# multiple positioning  :  RlAUs Ws|Z| W|GlW
+# multiple punch  :  RlAUs ZfDAlW
+# multiple punching  :  RlAUs ZfDAlW
+# multiple quantity  :  RcUs UsIdW
+# multiple records  :  RlAUs Ig[lGz
+# multiple release status for BOM  :  BOM RlAUs RbIXs UbW\c
+# multiple repeat/insert commands  :  RlAUs RbDRlA/UbRW|R QjWIjW
+# multiple requester terminal procedure  :  RlAUs UbWrWXb GbDQbIA| ]zIlU|GwWf
+# multiple requester terminal program  :  RlAUs UbWrWXb GbDQbIA| ]zIlAzIcQ
+# Multiple Requester Terminal program  :  GbXsW UbWrWXb \fQ|DfI ]zIlAzIcQ
+# multiple requesting  :  RlAUs WrAs
+# multiple requesting capability  :  RlAUs WrAs ZfI|A|DzW
+# multiple routing  :  GbXsW AjWIl X|XfW
+# multiple screen format  :  GbXsW ^lbQjD WdWU|A
+# multiple session remote job entry  :  RlAUs UgUjD WsfDAjA XbAWfR W|RIjA
+# multiple SSA  :  RlAUs SSA
+# multiple SSA array  :  RlAUs SSA RcWjI
+# multiple step function  :  RlAUs GbDAk A|DzW
+# multiple systems coupling feature  :  RlAUs U|Uz\gQ AjI^bR A|DzW
+# multiple task management  :  GbXsW \bUz[z AlbDI|
+# multiple terminal manager  :  RlAUs GbDQbIA| AlbDI| ]zIlAzIcQ
+# multiple text columns  :  RlAUs WsfDQsD WjI
+# multiple track error  :  RlAUs \zIcA WlIw
+# multiple transaction  :  GbXsW ZfI|
+# multiple units  :  GbXsW GbDWs|
+# multiple utility  :  GbXsW Ww\|II|\|
+# Multiple Virtual Storage  :  GbXsW AbUbW A|WfAXbWZ|
+# Multiple Virtual Storage/eXtended Architecture  :  GbXsW AbUbW A|WfAXbWZ|/^lbAXbW AsXl
+# Multiple Virtual Storage/370  :  MVS/370
+
+"multiplex"
+# multiplex  :  GbXsW
+# multiplex link  :  GbXsW WjDAjI
+# multiplex mode  :  GbXsW QlGz
+# multiplex operation  :  GbXsW XlXbA

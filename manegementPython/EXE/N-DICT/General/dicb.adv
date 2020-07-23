@@ -1,0 +1,325 @@
+"back"
+(Gs|Il)
+# back and forth (ADV) : Wb]Gs|Il
+# back in A {-ANIMAL,-TIME,-UNIT} (ADV) : (MODS [(ADJUNCT A/Il) GlIWbWlbUf<ADV>])
+# back to A (ADV) : (MODS [(ADJUNCT A/Il) GlIWbAb<VERB>]/Uf)
+# ^be back $ (VERB) : GlIWbWlGb
+# ^be right back $ (VERB) : XzAU| GlIWbWlGb
+# back in the day when SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bDzD) U|XfI<NOUN>]/Wg)
+# ^go back $ (VERB) : GlIWbAbGb
+# ^go back to A (VERB) : [(ADJUNCT A/Il) GlIWbAb<VERB>]/Gb
+# ^go back from A (VERB) : [(OBJ A/IzI) Zs|Ul^b<VERB>]/Gb
+# ^go back of A (VERB) : [(OBJ A/WzI) XlUb^b<VERB>]/Gb
+# ^go back on A (VERB) : [(OBJ A/IzI) Zs|Ul^b<VERB>]/Gb
+    * [(OBJ A/IzI) Zs|Ul^b<VERB>]/Gb
+    * A (word QbI) (promise WdAUlA)
+    * [(OBJ A/IzI) RcRbD^b<VERB>]/Gb
+    * A (~ {+HUMAN})
+# ^go back upon A (VERB) : [(OBJ A/IzI) Zs|Ul^b<VERB>]/Gb
+# ^take back (VERB) : Gl|ZbXGb
+
+"backstage"
+(QsGc Gs| Wg)
+
+"backward"
+(Gs|YlAWzIl)
+
+"backwardly"
+(QbX| QlU^bWj)
+
+"badly"
+(U|Q^bAg)
+
+* U|Q^bAg (pollute)
+
+"baldly"
+(DlAlIXfAWzIl)
+
+"balmily"
+(^dWA|IlRAg)
+
+"banally"
+(X|DRs^bAg)
+
+"banteringly"
+(DlWGbQ UfBWf)
+
+"barbarically"
+(WdQbDXfAWzIl)
+
+"barebacked"
+(WbDXbWWfRUW|)
+
+"barefacedly"
+(SfDSfDUzIfRAg)
+
+"barely"
+(AjWs)
+
+"baresark"
+(QsXbW^bX| WbD^Al)
+
+"barometrically"
+(A|WbRUbW)
+
+"basely"
+(ZfD^bAg)
+
+"bashfully"
+(UsXsRAg)
+
+"basically"
+(AzDRlDXfAWzIl)
+
+"bawdily"
+(Wl|UfIUzIfRAg)
+
+"beamingly"
+(RbIAAg)
+
+"beastly"
+(QlRU|)
+
+"beatifically"
+(A|SzDGzUW|)
+
+"beautifully"
+(WbIzQGbRAg)
+
+"bedward"
+(Z|QGcYlAWzIf)
+
+"before"
+(XfDWg)
+# as before | (PP->ADV) : XfDZfIfQ 
+# as never before $ (PP->ADV) : XfDAlbDzD WbXs GbIzAg
+# than before $ (PP->ADV) : W|XfDRlGb
+# two days before $ (ADV) : W|\zI XfDWg
+# days before $ (ADV) : QjZ|I XfD
+
+"beforehand"
+(W|XfDWg)
+
+"beforetime"
+(W|XfDWgDzD)
+
+"beggarly"
+(R|WjI^bD \cGlIl)
+
+"begrudgingly"
+(QbX|QlU^c)
+
+"behind"
+(Gs|Wg)
+
+"belatedly"
+(Gs|DzXAg)
+
+"believingly"
+(^lbAU|D^bDzD \cGlIl)
+
+"below"
+(Q|\Wg)
+
+"beneath"
+(WbIcWg)
+
+"benevolently"
+(XbWcIlRAg)
+
+"beseechingly"
+(AbDZfW ^bGzUW|)
+
+"beside"
+(Wj]Wg)
+
+"besides"
+(AgGbAb)
+
+"betimes"
+(Xl^WzD HcWg)
+
+"between"
+(UbW|Wg)
+
+"betweenwhiles"
+(UbW|UbW|Wg)
+
+"bewilderingly"
+(GbW^lbW^bWj)
+
+"beyond"
+(XfQfII|Wg)
+
+"bigly"
+(XbIDbDZg ^bQj)
+
+"bindingly"
+(AsUlAXfAWzIl)
+
+"bis"
+(GsRfD)
+
+"bitter"
+(QlRU|)
+
+"bitterly"
+(Al\lWUzIfRAg)
+
+"bittingly"
+(Y|IzDzD GzUW| U|DIbI^bAg)
+
+"biyearly"
+(DjDWg ^bDRfD DjDWg GsRfD)
+
+"blackly"
+(AfQAg)
+
+"blamed"
+(R|IWfQfAAg)
+
+"blamelessly"
+(R|DbDWz| WjX|WfRUW|)
+
+"blandly"
+(RsGzIfRAg)
+
+"blankly"
+(QfWZfW^bAg)
+
+"bleakly"
+(^lbWIdW^bAg)
+
+"blessedly"
+(Gb^cW^|Gl)
+
+"blindly"
+(QcWQlAXfAWzIl)
+
+"blissfully"
+(GfWfRUW| ^cWRlA^bAg)
+
+"blodly"
+(GcGbQ^bAg)
+
+"bloodily"
+(]|\sUfWW|Ab Gl|Wf)
+
+"bloody"
+(X|GlA^bAg)
+
+"bluffly"
+(\sWQjWUzIfRAg)
+
+"bluntly"
+(QsG|Ag)
+
+"blushingly"
+(WfIAsIWzI RsIA^|Al)
+
+"boastingly"
+(XbIbWUzIfRAg)
+
+"bodily"
+(WwAZg AzGcIl)
+
+"boiling"
+(BzI^WfWlIzI QbD[zQ)
+
+"boisterously"
+(AfZ|IAg)
+
+"boldly"
+(GcGbQ^bAg)
+
+"botanically"
+(U|AQsI^bAUbW)
+
+"both"
+(GsI Gb)
+
+"bounce"
+(DbDzDGzUW|)
+
+"brassily"
+(SfDSfDUzIfRAg)
+
+"bravely"
+(WrWAbQ^bAg)
+
+"brazenly"
+(SfDSfDUzIfRAg)
+
+"breast-deep"
+(AbUzQBbX|)
+
+"breast-high"
+(AbUzQ Dl]W|Wz|)
+
+"breathlessly"
+(UsQZbAg)
+
+"briefly"
+(AbDGbD^|)
+
+"brightly"
+(RbIAAg)
+
+"brilliantly"
+(RbDYbARbDXbA)
+
+"briskly"
+(^lbIRbI^bAg)
+
+"broadcast"
+(^z\SsIj)
+
+"broadly"
+(DfII|)
+
+"broadside"
+(RcUXfDWzI GlII|Al)
+
+"broiling"
+(GzQsDGzQsD)
+
+"brozenly"
+(SfDSfDUzIfRAg)
+
+"brusquely"
+(\sWQjWUzIfRAg)
+
+"brutally"
+(WdQbDUzIfRAg)
+
+"brutish"
+([sW ^bAl)
+
+"bulky"
+(WfQZfWDbAg [zD)
+
+"bumpily"
+(GlWWr^bWj)
+
+"buoyantly"
+(HfUf)
+
+"bureaucraticly"
+(AlbDIrXfAWzIl)
+
+"burly"
+(GfQRsIZfIfQ)
+
+"busily"
+(RsDXs^|)
+
+"but"
+(AzIfDb)
+# but one A (NOUN) : [(RELCL [WwW|I^b<ADJ>]/^bD) A]
+
+"by"
+(Wj]Wg)
+# by far (ADV)  :  GfWsAW|
+
+"byfar"
+(GfWsAW|)

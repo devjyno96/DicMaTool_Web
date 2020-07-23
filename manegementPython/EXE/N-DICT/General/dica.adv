@@ -1,0 +1,1026 @@
+
+"abaft"
+(^sRbDRsWg)
+
+"abashedly"
+(RsBzIfWsfUf)
+
+"abask"
+(Yl|WfUf)
+
+"abeam"
+(XfWWs^jDWzIl)
+
+"abed"
+(XbQXbI|Wg)
+# sick abed (ADJ) : QlQXj DsRGb
+
+"abidingly"
+(WjWAs^|)
+
+"abiogenetically"
+(XbWjDRbIUcWXfAWzIl)
+
+"ablaze"
+(\bWlIIbUf)
+
+"abloom"
+(BlZW| ]|Wf)
+
+"ablush"
+(WfIAsIWzI RsIA^j)
+
+"ably"
+(WwDzW^bAg)
+
+"abnormally"
+(R|XfWUbWXfAWzIl)
+
+"aboard"
+(A|Zb[Rc,R|^cWA|]Il)
+* RcWgUf (kill)
+# all aboard  (NOUN) : UzWZb
+
+"aboil"
+(BzI^WfUf)
+
+"abominably"
+(U|Q^|)
+
+"aborning"
+(\bDUcW^bGbAb)
+
+"aboroginally"
+(WsfDU|XfAWzIl)
+
+"abortively"
+(U|I]c^bWj)
+
+"about"
+(GcIdA)
+//# about NUM1 ^NOUN {-HUMAN -UNIT -TIME} (NOUN) : WdA NUM1 AcWz| NOUN
+# about NUM1 ^NOUN {+HUMAN -UNIT -TIME} (NOUN) : [(POSS [(MODS [WdA<ADV>]) (NMODS NUM1) QjW<NOUN>]/Wz|) NOUN]
+# about NUM1 ^NOUN {-HUMAN +UNIT} (NOUN ADV) : 1) [(MODS [WdA<ADV>]) (NMODS NUM1) NOUN] 
+                                               2) (ADJUNCT [(MODS [WdA<ADV>]) (NMODS [(NMODS NUM1) NOUN]) XfWGl<NOUN>]/Il)
+# about NUM1 ^NOUN {-HUMAN +TIME} (NOUN ADV) : 1) [(MODS [WdA<ADV>]) (NMODS NUM1) NOUN]
+					       2) [(MODS [WdA<ADV>]) (NMODS NUM1) NOUN]
+# about NUM1 ^NOUN {-HUMAN +UNIT} of A (NOUN) : [(POSS [(NMODS [(MODS [WdA<ADV>]) NUM1]) NOUN]/Wz|) A]
+# about NUM1 ^o'clock (NOUN) :  [(MODS [WdA<ADV>]) (NMODS NUM1) U|<NOUN>]
+# about NUM1 ^o'clock direction (NOUN) :  [(MODS [WdA<ADV>]) (NMODS [(NMODS NUM1) U|<NOUN>]) RbW^dW<NOUN>]
+# about NUM1 of A {+HUMAN} (NOUN) : [(POSS [(MODS [WdA<ADV>]) (NMODS NUM1) QjW<NOUN>]/Wz|) A]
+# about NUM1 of A {-HUMAN, +ANIMAL} (NOUN) : [(POSS [(MODS [WdA<ADV>]) (NMODS NUM1) QbI|<NOUN>]/Wz|) A]
+# about NUM1 of A {-HUMAN, -ANIMAL} (NOUN) : [(POSS [(MODS [WdA<ADV>]) (NMODS NUM1) Ac<NOUN>]/Wz|) A]
+# ^be about TO_INF (VERB) : [(MODS [QbA<ADV>]) TO_INF](^bIj/F, ^b/V)/Gb
+# ^be about size of A (VERB) : 
+[(COMP [(NMODS [(NMODS [(MODS [WdA<DET>]) A]) [zA|<NOUN>]) XfWGl<NOUN>]) _<ADJ>]<W|>/Gb
+
+"above"
+(Ws|Il)
+
+"aboveboard"
+(AlWQjWXfWGc ^bAg)
+
+"abovedeck"
+(AbR]bDWs|WgUf)
+
+"aboveground"
+(QcXbWGl|X| WbD^WzD ZcIl)
+
+"abovestairs"
+(Ws|ZzWWg)
+
+"abreast"
+(DbIbD^|)
+# abreast of the sheriff (ADV) : AjWs ]bUbD^bX| WbD^Al
+# ^keep abreast of A (VERB) : [(ADJUNCT [(COMP A/Wg) Gs|X|<VERB>](X|/F, WbD^/V)/Al) HbIbAb<VERB>]/Gb
+# ^keep abreast with A (VERB) : [(ADJUNCT [(COMP A/Wg) Gs|X|<VERB>](X|/F, WbD^/V)/Al) HbIbAb<VERB>]/Gb
+
+"abroach"
+(AsQfWWzI HsI^Wf)
+
+"abroad"
+(Wl|AsAWzIl)
+* Wl|AsAWgUf (work study)
+# from abroad (PP->ADV PP->ADJ) : 1) ^cWl|IlRs\f
+2) [^cWl|WgUf Wl<VERB>]/Gb
+
+"abruptly"
+(AbRXbA|)
+
+"absently"
+(QfW^bD|)
+
+"absentminedly"
+(RbWU|Q^bWj)
+
+"absolutely"
+(XfIGcXfAWzIl)
+# || absolutely not | (SENT) : XfIGcIl WbD|Gb
+
+"absorbedly"
+(WjIXsW^bWj)
+
+"abstemiously"
+(XfIXg W|VAg)
+
+"abstinently"
+(XfIXg^bWj)
+
+"abstractedly"
+(ZsUbWXfAWzIl)
+
+"abstractly"
+(ZsUbWXfAWzIl)
+
+"abstrusely"
+(DbD^c^bAg)
+
+"absurdly"
+(RsXlI|^bAg)
+
+"abundantly"
+(]sWRs^bAg)
+
+"academically"
+(W|IlDXfAWzIl)
+
+"acceptably"
+(RbGWbGzIW|IUs W|VGlIlA)
+
+"accessorily"
+(RlXl XfAWzIl)
+
+"accidentally"
+(WsWjD^|)
+
+"accidentally-on-purpose"
+(WsWjDWzI AbXbW^bWj)
+
+"accommodatingly"
+(Z|DXfI^|)
+
+"accordingly"
+(HbIbUf)
+
+"accountably"
+(ZcAW|QX|GlIlA)
+
+"accurately"
+(XfW^lbA^bAg)
+
+"accusatively"
+(GcAjAWzIl)
+
+"accusingly"
+(R|DbD ^bWj)
+
+"acidly"
+(U|DIbI^bAg)
+
+"acoustically"
+(ZfWAbAXfAWzIl)
+
+"acquisitively"
+(\bQWzI DcWf)
+
+"across"
+(AfDDfUf)
+
+"actively"
+(^lbIRbI^|)
+
+"actually"
+(U|IXgIl)
+
+"acutely"
+(DbI[bIlRAg)
+
+"adamantly"
+(AjDAl^bAg)
+
+"adaptively"
+(XfAWzW^bGlIlA AcXbA^bWj)
+
+"additionally"
+(ZsAbXfAWzIl)
+
+"adequately"
+(XfAGbW^|)
+
+"adherencely"
+(AlX|R^bWj)
+
+"adhesively"
+(BzDXfABzDXfA^bWj)
+
+"adjectivally"
+(^jWWrWUbIlUf)
+
+"adlib"
+(XzA^zWXfAWzIl)
+
+"administratively"
+(AlbDI|UbW ^cWXfWUbW)
+
+"admirablbly"
+(^sIIwW^|)
+
+"admiringly"
+(AbQ\bD^bWj)
+
+"admissibly"
+(^fWrW^bIQbD^bAg)
+
+"admittedly"
+(Wz|U|Q^bI WjX| WfRUW|)
+
+"adorably"
+(UsWRc^bIQbD^bAg)
+
+"adrift"
+(HfGlIWb)
+
+"adroitly"
+(ArQr^bAg)
+
+"adultly"
+(WfIzDGbRAg)
+
+"advantageously"
+(WwI|^bAg)
+
+"adventitiously"
+(WsWjD^|)
+
+"adventurously"
+(Ql^fQXfAWzIl)
+
+"adverbially"
+(RsUbXfAWzIl)
+
+"adversely"
+(AfBsIl)
+
+"advisably"
+(^bRGbW^bAg)
+
+"advisedly"
+(U|QUbUsAAl^bD Bz\Wg)
+
+"aesthetically"
+(U|QQ|XfAWzIl)
+
+"afar"
+(QfII|)
+# from afar (PP->ADV) : QfII|Uf
+
+"affably"
+(UbWDdW^bAg)
+
+"affectedly"
+(XgDZg^bQj)
+
+"affectionately"
+(XbWcUzIfRAg)
+
+"affettuoso"
+(AbQXfWWzI Df^WfUf)
+
+"affirmatively"
+(AzWXfWXfAWzIl)
+
+"afflictively"
+(Al|IlRAgGl)
+
+"affluently"
+(]sWRs^bAg)
+
+"afield"
+(GzIIl)
+
+"afire"
+(RsI\bWlIIb)
+
+"aflame"
+(RsI\bWlIIb)
+
+"afloat"
+(RbGb Ws|Wg)
+* RsIWbDXfW^bAg (stay)
+
+"aflutter"
+(]fIIfWAfIj)
+
+"afoot"
+(AfIWfUf)
+
+"afore"
+(XfDRbWWg)
+
+"aforetime"
+(W|XfDWg)
+
+"afoul"
+(WfIA^|Wf)
+
+"afresh"
+(GbU|)
+
+"aft"
+(AlQsIWg)
+
+"after"
+(Gs|Wg)
+# soon after $ (ADV) : Az^s AlG
+
+"afterall"
+(AjIAsA)
+
+"afternoons"
+(Wl^sWg ^zD^|)
+
+"afterward"
+(^sWg)
+
+# ^right afterward of A (ADJ) : [(POSS A/Wz|) RbIl Gs|Wg W|V<ADJ>]/Gb
+
+"afterwards"
+(DbXsWWg)
+
+"again"
+(GbU|)
+# again and again (ADV) : QjZRfDW|Al
+# all over again (ADV) : XfDRs GbU|
+
+"against"
+(RsII|^bWj)
+
+"agape"
+(W|RWzI RfII|Al)
+
+"agaze"
+(WzWU|^bWj)
+
+"aggravatingly"
+(AbXsWXfAWzIl)
+
+"aggressively"
+(AlWAjAXfAWzIl)
+
+"agilely"
+(XcSbII|)
+
+"agiltter"
+(RfDYfA RfDYfA R|ZDbUf)
+
+"agitatedly"
+(GlWWr ^bWj)
+
+"agleam"
+(R|ZDbUf)
+
+"agley"
+(R|UzGzQ^|)
+
+"aglow"
+(R|ZDbUf)
+
+"ago"
+(XfDWg)
+# a few ^years ago (NOUN) : QjZDjDXfD
+# a week ago (ADV) : 1Xs XfDWg
+# a month ago (ADV) : 1GbI XfDWg
+# a year ago (ADV) : 1DjD XfDWg
+# NUM1 {-ORDNUM} days ago (ADV ADJ NOUN) : 
+   1) (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) W|I<NOUN>]{+UNIT}) XfD<NOUN>]/Wg)
+   2) (POSS [(COMP [(NMODS [(NMODS NUM1 {+DGTNUM}) W|I<NOUN>]{+UNIT}) XfD<NOUN>]) _<ADJ>]<W|>/Gb)
+   3) [(NMODS [(NMODS NUM1 {+DGTNUM}) W|I<NOUN>]{+UNIT}) XfD<NOUN>]
+# NUM1 {-ORDNUM} months ago (ADV ADJ NOUN) : 
+   1) (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) AcWsfI<NOUN>]{+UNIT}) XfD<NOUN>]/Wg)
+   2) (POSS [(COMP [(NMODS [(NMODS NUM1 {+DGTNUM}) AcWsfI<NOUN>]{+UNIT}) XfD<NOUN>]) _<ADJ>]<W|>/Gb)
+   3) [(NMODS [(NMODS NUM1 {+DGTNUM}) AcWsfI<NOUN>]{+UNIT}) XfD<NOUN>]
+# NUM1 of ^year ago (ADV NOUN) : 1) (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wg)
+   2) [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>] 
+# NUM1 week ago (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) Xs<NOUN>]) XfD<NOUN>]/Wg)
+# NUM1 weeks ago (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) XsW|I<NOUN>]) XfD<NOUN>]/Wg)
+# NUM1 {-ORDNUM} years ago (ADJ NOUN ADV) : 
+    1) (POSS [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wz|) {+RESTRIC}
+    2) [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]
+	3) (ADJUNCT [(NMODS [(NMODS NUM1) DjD<NOUN>]) XfD<NOUN>]/Wg)
+# a few months ago (ADV) : QjZGbI XfDWg
+# a long time ago (ADV) : WlIcXfDWg
+# a week ago today (NOUN) : XfDXsWz| WlDzI
+# a while ago (ADV) : XlAzQXfDWg
+# long ago (ADV NOUN) : 1) WlIcXfDWg
+			2) WlIc XfD
+# || long ago (ADV) : WlIcXfDWg
+# long time ago (ADV) : WkUDbIWg
+# more than NUM1 years ago (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1) WjDjD<NOUN>]) XfD<NOUN>]/Wg)
+# not long ago (ADV) : WfIQbXfDWg
+# over NUM1 ^year ago (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [(NMODS NUM1) DjD<NOUN>]) W|UbW<NOUN>]) W|XfD<NOUN>]/Wg)
+# several NUM1 years ago (ADV) : (ADJUNCT [(NMODS [(NMODS [(AMODS [QjZ<DET>]) NUM1]) DjD<NOUN>]) XfD<NOUN>]/Wg)
+# some years ago (ADV) : QjZDjDXfDWg
+//# NOUN {+TIME,+PLUR} ago (ADV) : (ADJUNCT [(NMODS NOUN) XfD<NOUN>]/Wg)
+//# NOUN {+TIME,+INDEF} ago (ADV) : (ADJUNCT [(NMODS NOUN) XfD<NOUN>]/Wg) 
+# years ago (NOUN) : QjZDjD XfD
+
+"agog"
+(WdGbD RfRUfAW| DbUf)
+
+"agoing"
+(WsQX|AWj)
+
+"agonizingly"
+(AlQ|D^bWj)
+
+"agreeably"
+(A|RsDXl^Ag)
+
+"ahead"
+(XfDRbWWg)
+* Q|I| (forecast)
+//# A {+TIME} ahead (ADV) : (ADJUNCT [(NMODS A) XfD<NOUN>]/Wg)
+//# several days ahead (ADV) : QjZ|I XfDWg
+# ahead by years (ADV) : QjZDjD Wb]WzIl
+# ahead of A (ADV ADJ) : 1) (ADJUNCT [(NMODS A) Wb]<NOUN>]/Wg)
+                         2) (AMODS [(NMODS A) Wb]<NOUN>]/Wz|)
+# ^be ahead for A (VERB) : [(ADJUNCT A/Wg) Wb]Uf<VERB>]/Gb
+
+"ahorse"
+(QbIWzI \bAl)
+
+"aimlessly"
+(QlAXfAWfRUW|)
+
+"airily"
+(AjW[lc^bAg)
+
+"ajar"
+(RsI^lbWz| UbW\cIl)
+
+"alarmingly"
+(DlIIbI QbD[zQ)
+
+"alee"
+(RbIbQ RsIWf AbDzD YlAWzIl)
+
+"alfresco"
+(WdWl|WgUf)
+
+"alias"
+(W|IQjW)
+
+"alight"
+(RsI\bUf)
+
+"alike"
+(HlAAb\W|)
+
+"all"
+(QlGs)
+# || not at all | (SENT) : (DECL [XfD^j<ADV>])
+# | not at all (ADV) : XfD^j {+NEG}
+
+"all-out"
+(XfDIjAWzI Gb^bWj)
+
+"allegedly"
+(X|DUsIWg Wz|^bQjD)
+
+"allegorically"
+(R|WwXfAWzIl)
+
+"allegretto"
+(XlAzQ SbIzAg)
+
+"allegro"
+(SbIzAg)
+
+"allowably"
+(XfWGbW^bAg)
+
+"allowedlly"
+(^fWrWGl|Wf)
+
+"allusively"
+(WbQU|XfAWzIl)
+
+"almighty"
+(QsZfA)
+
+"almost"
+(AfWz|)
+
+"aloft"
+(Ws|Il)
+
+"alone"
+(^lIIl)
+# all alone (ADV) : WlbDXfD^| ^lDXbUf
+
+"along"
+(HbIbUf)
+
+"alongshore"
+(RbGbUAbIzI HbIb)
+
+"alongside"
+(Wj]WzIl GcAl)
+
+"aloof"
+(HfIWfXj)
+
+"aloud"
+(UlI|IzI DcWf)
+
+"alow"
+(DbXWzD YlAWzIl)
+
+"alphabetically"
+(WbI]bRgU UsDUfIl)
+
+"already"
+(W|Q|)
+
+"also"
+(Hl^bD)
+
+"alternately"
+(RfDAbIWb)
+
+"alternatively"
+(GcU|D^bWj)
+
+"altogether"
+(QlGs)
+
+"always"
+(^bWUbW)
+# || but not always | (SENT) : [^bWUbW AzIf^X|DzD WbD^<ADJ>]/Gb
+# but not always | (ADV) : ^bWUbW AzIf^X|DzD WbD^X|QbD
+
+"amain"
+(^|QBfU)
+
+"amazedly"
+(BbQYbA DlIIb)
+
+"amazingly"
+(DlIIbRAg)
+
+"ambigously"
+(Ql^l^bAg)
+
+"ambitiously"
+(WdU|QW|VAg)
+
+"amenably"
+(WwUsD^bAg)
+
+"amiably"
+(UbWDdW^bAg)
+
+"amicably"
+(]jW^lbXfAWzIl)
+
+"amidship"
+(Rc XsWWbWWg)
+
+"amiss"
+(DbSzAg)
+
+"amorously"
+(WrWjQ^bAg)
+
+"amply"
+(DfADfA^|)
+
+"amuck"
+(Q|Zj DbIHs|Wf)
+
+"amuseing"
+(XcQ|W|VAg)
+
+"amusingly"
+(XcQ|W|VAg)
+
+"analogically"
+(WwZsIl)
+
+"analogously"
+(WwUb^bAg)
+
+"analytically"
+(RsD^cXfAWzIl)
+
+"anarchically"
+(QsXfWRsXfAWzIl)
+
+"anatomically"
+(^cRs^bAXfAWzIl)
+
+"anciently"
+(WkUDbIWg)
+
+"and"
+(AzI|Al)
+
+"anew"
+(UcIl)
+
+"angelically"
+(ZfDUbZfIfQ)
+
+"anglice"
+(WjWWfIl)
+
+"angrily"
+(UfWDbUf)
+
+"angularly"
+(WfUcA^bAg)
+
+"animally"
+(WwAZgXfAWzIl)
+
+"animatedly"
+(^lbIRbI^bAg)
+
+"ankle-deep"
+(RbIQlABbX|)
+
+"annually"
+(QcDjD)
+
+"anon"
+(AlG)
+
+"anonymously"
+(W|AQjWWzIl)
+
+"anticly"
+(RbWRsXgIl)
+
+"anxiously"
+(AfAXfWUzIfRAg)
+
+"any"
+(XlAzQGl)
+
+"anyhow"
+(WfHf^Ag ^cUfIbGl)
+
+"anymore"
+(GfW|UbW)
+
+"anything"
+(WfDzXfWGl)
+
+"anytime"
+(WfDXgGzDX|)
+
+"anyway"
+(WfYcVGzD)
+
+"anywhere"
+(WbQsGgGl)
+# anywhere else | (NOUN) : GbIzD WfDzAlU
+# anywhere from A to B (ADV) : [(ADJUNCT A/WgUf) (ADJUNCT B/BbX|) WfG|UfDb<ADV>]
+# anywhere in the world | (ADV) : UgAk WfG|UfDb
+# anywhere in A {-ANIMAL,-UNIT} (NOUN) : [(POSS A/Wz|) WfDzAlU<NOUN>]
+# anywhere on A (ADV) : [(MODS A) WfG|UfDb<ADV>]
+
+"anywise"
+(WfHf^Ag GzDX|)
+
+"apace"
+(SbII|)
+
+"apart"
+(HfIWfXj)
+
+"apeak"
+(AlGZs UgWsAl)
+
+"apiece"
+(AbAAbA)
+
+"aplenty"
+(]sWRs^|)
+
+"apocalyptically"
+(ZfDAkXfAWzIl)
+
+"apologetically"
+(RjDQjWWzIl)
+
+"aport"
+(Xlb^jDWzIl)
+
+"apparently"
+(Af\RlA|IlDzD)
+
+"appealingly"
+(WcWsfD^bGzUW|)
+
+"appellatively"
+(ZlWZ|WXfAWzIl)
+
+"appetizingly"
+(QbUW|VAg)
+
+"applausively"
+(AbIZc^bWj)
+
+"applicably"
+(XfAGbW^bAg)
+
+"appreciably"
+(WbIWbRlI XfWGlIl)
+
+"apprehensively"
+(WjQIj^bWj)
+
+"approbately"
+(XfAGbW^|)
+
+"appropriately"
+(XfA^bR^bAg)
+
+"approvingly"
+(QbDXlA^bD GzUW|)
+
+"approximately"
+(GcIdA)
+# approximately NUM1 (NOUN) :  [(MODS [GcIdA<ADV>]) NUM1]
+
+"apriori"
+(WjDWjAXfAWzIl)
+
+"apropos"
+(XfAXfI^|)
+
+"arbitrarily"
+(XgQfUGcIl)
+
+"archaically"
+(Al]sWWzIl)
+
+"archly"
+(Ar^lbI^bAg)
+
+"archwise"
+(WbWbZ| QlWdWWzIl)
+
+"ardently"
+(WjIIjI^|)
+
+"arduously"
+(BsXsD^|)
+
+"arduously"
+(BsXsD^|)
+
+"aright"
+(RbIzAg)
+
+"aristocratically"
+(As|XlAXfAWzIl)
+
+"arithmetically"
+(UbDUsIl)
+
+"arm-in-arm"
+(UlDXbRAl)
+
+"arogantly"
+(AfQbD^bAg)
+
+"around"
+(WjA|XfA|Wg)
+* GsIs (show)
+# | around and up | (ADV) : Ws|Il GsIIfUf
+
+"artfully"
+(Ar^lbI^bAg)
+
+"articulately"
+(WzQXfIWzI DbDsWf)
+
+"artificially"
+(W|DWs|XfAWzIl)
+
+"artily"
+(WkUsIAbW|DZg^bWj)
+
+"artistically"
+(WkUsIXfAWzIl)
+
+"asbsently"
+(WfISbXjUf)
+
+"asfollows"
+(GbWzQAlb Ab\W|)
+
+"ashamedly"
+(RsBzIfWsfUf)
+
+"ashore"
+(^cRjDWg)
+
+"aside"
+(Aj\WzIl)
+# aside from A (PP->ADV) : (ADJUNCT [(NMODS A) W|Wl|<NOUN>]/Wg)
+# aside from PRESP (PP->ADV) : (ADJUNCT [(NMODS [(RELCL PRESP/^bDzD) AfU<NOUN>]) W|Wl|<NOUN>]/Wg)
+
+"askance"
+(R|UzGzQ^|)
+
+"askant"
+(R|UzGzQ^|)
+
+"askew"
+(R|UzGzQ^|)
+
+"aslant"
+(AjWUbXj)
+
+"aslope"
+(R|\bIXjUf)
+
+"asquint"
+(Ub]bIDsDWzIl Aj\DsDWzIl)
+
+"assai"
+(AzA^|)
+
+"assertively"
+(GbD^l^bAg)
+
+"assumably"
+(WbQb)
+
+"assumedly"
+(AbXfWXfAWzIl)
+
+"assuredly"
+(^lbAU|I^|)
+
+"assuringly"
+(GbX|Q^bWj)
+
+"astern"
+(AlQsIWg)
+
+"astigmatically"
+(DbDU|XfAWzIl)
+
+"astir"
+(WsQX|AWj)
+
+"astoundingly"
+(DlIIbRAgGl)
+
+"astride"
+(AfI\fWbDXWb)
+
+"astronomically"
+(ZfDQsD^bAXfAWzIl)
+
+"astrut"
+(XfQXbD ScQj)
+
+"astylar"
+(QsXsU|AWz|)
+
+"asunder"
+(HfIWfXjUf)
+
+"aswell"
+(Hl^bD)
+
+"asynchronously"
+(R|GlWA|XfAWzIl)
+
+"at_least"
+(XfAWfGl)
+
+"at_that_time"
+(Az U|XfQWgUf)
+
+"athatime"
+(Az U|XfQWgUf)
+
+"athletically"
+(WsDGlWUfDUs GbRAg)
+
+"athwart"
+(R|UzGzQ^|)
+
+"athwartships"
+(UfDZgIzI AbIlX|IIf)
+
+"atilt"
+(ZbWWzI BlDbXbRAl)
+
+"atlast"
+(GzG|Wf)
+
+"atleast"
+(XfAWfGl)
+
+"atmospherically"
+(^lbDAjWXfAWzIl)
+
+"atomically"
+(WsfDXbXfAWzIl)
+
+"atop"
+(BlAGcA|Wg)
+
+"atthattime"
+(Az U|XfQWgUf)
+
+"attractively"
+(Qc^lAXfAWzIl)
+
+"aught"
+(WbQsIcGl)
+
+"auraled"
+(As|Il)
+
+"auriclely"
+(AbIl R|Q|I^|)
+
+"authentically"
+(GlWWz|Wf U|IXg)
+
+"authoritatively"
+(AsfDIjAXfAWzIl)
+
+"automatically"
+(XbGlWXfAWzIl)
+
+"availably"
+(WwWrW^bAg)
+
+"avidly"
+(AgAfIUzIfRAg WjIU|Q^|)
+
+"avowedly"
+(AlWAlWWjD^|)
+
+"away"
+(HfIWfXj)
+* QfII| (send carry)
+# NUM1 block away | (ADJ ADV) : 1) [(COMP [(NMODS NUM1) RzIIlA<NOUN>]) HfIWfX|<ADJ>]/Gb
+                                2) (ADJUNCT [(COMP [(NMODS NUM1) RzIIlA<NOUN>]) HfIWfX|<VERB>]/^bWjUf)
+# NUM1 feet away (ADJ ADV) : 1) [(COMP [(NMODS NUM1) ]|\z<NOUN>]) HfIWfX|<ADJ>]/Gb
+                             2) (ADJUNCT [(COMP [(NMODS NUM1) ]|\z<NOUN>]) 
+HfIWfX|<VERB>]/^bWjUf)
+# away from A (ADJ ADV) :  1) [(ADJUNCT A/IlRs\f) HfIWfXj W|V<VERB>]/Gb
+                           2) (ADJUNCT [(ADJUNCT A/IlRs\f) (MODS [QfII|<ADV>]) 
+HfIWfX|<VERB>]/^bWjUf)
+//	* A Wg WfRUDzD
+//	* A (home X|R) (house X|R)
+// They must be free to spend a lot of time away from home.
+# far away (ADJ ADV) : 1) QfII| HfIWfXj W|VGb
+                       2) QfII| HfIWfXjUf
+# not far away (ADJ ADV) : 1) QfII| HfIWfX|X| WbD^Gb 
+                           2) QfII| HfIWfX|X| WbD^WzD AlUWg
+# right away | (ADV) : [RbIl<ADV>]
+# some distance away $ (ADV) : XlAzQ HfIWfXjUf
+
+"aweather"
+(RbIbQ RsIWfWlDzD YlAWzIl)
+
+"aweigh"
+(GbZWzI AbQWb WlII|Al)
+
+"awful"
+(QlRU|)
+
+"awfully"
+(QsUfRAg)
+
+"awheel"
+(XbXfDAfIl)
+
+"awhile"
+(XbQBbD)
+
+"awkwardly"
+(Uf\sIzAg)
+
+"awry"
+(AsRsIfXj)
+
+"axially"
+(ZsAWz| RbW^dWWzIl)
+
+"ay"
+(^bWUbW)
+
+"aye"
+(^bWUbW)

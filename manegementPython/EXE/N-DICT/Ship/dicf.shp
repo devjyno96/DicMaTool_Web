@@ -1,0 +1,937 @@
+
+"fabric"
+# fabric (NOUN) : X|AQsI
+# balloon fabric (NOUN) : As]|
+
+"fabrication"
+# block fabrication (NOUN) : RsD^bI XgXbA
+
+"face"
+# blade face (NOUN) : DbIAcA|U QjD
+# guide face (NOUN) : WbDDcQjD
+# propeller face (NOUN) : ]zIl]gIIf XfDX|DQjD
+# suction face (NOUN) : ^zRW|RQjD(DbIAcGs|UQjD)
+# slide valve face (NOUN) : UzIIbW|Gz RcIRzQjD
+# root face (NOUN) : IsWs\z QjD
+# acting face (NOUN) : WbRIjAQjD
+# face (NOUN) : QjD
+
+"face-bend"
+# face-bend (NOUN) : ]rQjD AsR^|Q
+
+"facility"
+# elevation facility (NOUN) : AlXfWwGlXbWZ|
+# azimuth facility (NOUN) : RbWWs| UsGlXbWZ|
+# spin test facility (NOUN) : Uz]|D U|^fQUfIR|
+
+"facing"
+# hard facing (NOUN) : ]rQjDAjW^lb
+# facing (NOUN) : GbDQjDXfIUbA
+# facing (NOUN) : ]r]|
+
+"facing-up"
+# facing-up (NOUN) : QbXR|R|Q QbXZsQ
+
+"factor"
+# gust alleviation factor (NOUN) : GlI]sW AbQUl| W|DXb
+# scale factor (NOUN) : DsDAzQ RcWwI
+# structural factor (NOUN) : AsXl WrUl
+# diagram factor (NOUN) : UfDGl AkUs
+# applied load factor (NOUN) : WsDWrW^bXsWRcUs
+# load factor (NOUN) : Rs^b WwI
+# limit maneuvering load factor (NOUN) : Xg^bD WsD^bW ^bXsW RcUs
+# acceleration factor (NOUN) : AbUlAGlRcUs
+# slip factor (NOUN) : Q|BzIfQ AkUs
+# stowage factor (NOUN) : XfA^bWwI
+# power factor (NOUN) : ZsIIjA AkUs
+# recovery factor (NOUN) : ^l|UsWwI
+# manoeuvering load factor (NOUN) : WsDGlW^bXsWRcUs
+# diameter factor (NOUN) : X|IzQ AkUs
+# tip loss factor (NOUN) : A|UBz\ UlDU|I AkUs
+# flight load factor (NOUN) : R|^cW RbXsW W|DXb
+# limit load factor (NOUN) : Xg^bD ^bXsW RcUs
+# pressure recovery factor (NOUN) : WbRIjA ^l|RlA AkUs
+# scale factor (NOUN) : DsDAzQ RcWwI
+# gust load factor (NOUN) : GlI]sW^bXsW W|DXb
+# activity factor (NOUN) : XbAGlWAkUs
+# range factor (NOUN) : ^bWUlA AkUs
+# form factor (NOUN) : ]b^jWWwI
+# load factor (NOUN) : ^bXsWAkUs
+# turbulence factor (NOUN) : DbDIw AkUs
+# fitting factor (NOUN) : ]|\|W W|DUs
+# flexibility factor (NOUN) : WwWjDAkUs
+# flexibility factor (NOUN) : WwWjDAkUs
+# growth factor (NOUN) : XzWGc AkUs
+# Q factor (NOUN) : QW|DXb
+# bearing factor (NOUN) : QjDWbR AkUs
+# stress intensity factor (NOUN) : WzWIjA(Gl)AkUs
+# stress concentration factor (NOUN) : WzWIjAX|RXsWAkUs
+# reheat factor (NOUN) : XcWjI AkUs
+# evaporative factor (NOUN) : XzWRbI AkUs
+# crest factor (NOUN) : ]bAlWwI
+# gauge factor (NOUN) : AgW|X| AkUs
+# damping factor (NOUN) : AbQUl|WwI
+# power factor (NOUN) : ZsIIjAAkUs
+# load factor (NOUN) : ^bXsW RcUs
+
+"failure"
+# secondary failure (NOUN) : W|Zb U|I]c
+# local failure (NOUN) : AsARs ]bAl|
+
+"failures"
+# mean time between failures (NOUN) : ]jWAwD AlXbW U|AbD AbDAjA
+# mean time between failures (NOUN) : ]jWAwD AlXbW U|AbD AbDAjA
+# mean time between failures (NOUN) : ]jWAwD AlXbW AbDAjA
+
+"fair"
+# fair (NOUN) : XfW^jW
+# fair (NOUN) : XfW^jW
+
+"fair-leader"
+# fair-leader (NOUN) : ]gWf I|W|Gf
+
+"fairing"
+# fairing (NOUN) : ]gWfI|W
+# fairing (NOUN) : ]gWfI|W
+# nose fairing (NOUN) : A|Us ]gWfI|W
+# fairing (NOUN) : XfW^jW]bD
+
+"fall"
+# cargo fall (NOUN) : ^bWjAXsI
+# boat fall (NOUN) : GbDXfW WdW^bXsI
+
+"fan"
+# exhaust ventilating fan (NOUN) : RcA| \lW]sW ]cD
+# supply ventilating fan (NOUN) : \lW]sW AlWAzR ]cD
+# wall type propeller fan (NOUN) : RjA \bW|R ]zIl]gIIf ]cD
+# stopping engine room ventilation fan (NOUN) : A|AlbDU|IWrW \lW]sWA| XfWX|
+# unducted fan (NOUN) : GfA\zWfRUDzD ]cD
+# ceiling fan (NOUN) :  ZfDXfWUfD]sWA|
+# centrifugal fan (NOUN) : WsfDU|QUlW]sWA|
+# gland exhaust fan (NOUN) : AzIIcDGz RsDZsI ]cD
+# axial supply fan (NOUN) : ^lbDA|WrW ZsA WwGlW ]cD
+# stopping accommodation ventilation fan (NOUN) : AfXsAs \lW]sWAs XfWX|
+# ducted fan (NOUN) : GfA\z ]cD
+# central stopping of all ventilation fan (NOUN) : XfD \lW]sWA| X|RXsW XfWX|
+# fan (NOUN) : ]cD
+# stopping cargo hold ventilation fan (NOUN) : ^lbQsIWrW \lW]sWA| XfWX|
+# multi-stage centrifugal fan (NOUN) : GbGbD WsfDU|Q UlW]sWA|
+# prop fan (NOUN) : ]zIlR ]cD
+# forced draft fan (NOUN) : AbWXg \lW]sW ]cD
+# propeller fan (NOUN) : ]zIl]gIIf ]cD
+# inert gas fan (NOUN) : RsI^lbIUfW AbUz UlW]sWA|
+# axial fan (NOUN) : ZsAIwUfD]sWA|
+# motor fan (NOUN) : XfDGlWUlW]sWA|
+# axial exhaust fan (NOUN) : RcA|WrW ZsA Ww\lWA|
+# electric fan (NOUN) : UfD]sWA|
+# centrifugal exhaust fan (NOUN) : RcA|WrW WsfDU|Q ]cD
+
+"fasten"
+# fasten (NOUN) : AlZbA
+
+"fastener"
+# fastener (NOUN) : Xl|QUl|
+# panel fastener (NOUN) : ]cDfI XlW|Ac
+
+"fastening"
+# single fastening (NOUN) : GbDW|I
+# fastening (NOUN) : AlZbA
+# zigzag fastening (NOUN) : X|AzXcAz XlW|Q
+
+"fatigue"
+# fatigue (NOUN) : ]|Il
+# sonic fatigue (NOUN) : WzQ]b]|Il
+# fatigue (NOUN) : ]|Il
+# stress fatigue (NOUN) : WzWIjA]|Il
+# thermal fatigue (NOUN) : WjI ]|Il
+# fatigue (NOUN) : ]|Il
+# corrosion fatigue (NOUN) : RsU|A ]|Il
+# low-cycle fatigue (NOUN) : Xf UbW|[zI ]|Il
+
+"fatigued"
+# fatigued (NOUN) : ]|Il
+
+"FBW"
+# pseudo-- FBW (NOUN) : Wz|Ub Wg]z.R|W|.GfRzIWw.
+
+"feather"
+# feather (NOUN) : ]gGf
+# feather (NOUN) : ]gGf
+
+"feed"
+# supplementary feed (NOUN) : Rl^bRUs
+# feed (NOUN) : AzRUs
+# feed (NOUN) : AzRUs
+# reserve feed (NOUN) : WkR| AzRUs
+
+"feedback"
+# unity feedback (NOUN) : X|AAjIU|A ]|GzRcA
+# primary feedback (NOUN) : Xs Gl|QfAW|Q
+# negative feedback (NOUN) : QbW|DfUz Gl|QfAW|Q
+
+"feeder"
+# feeder (NOUN) : RcXfDUfD
+# oil feeder (NOUN) : AzRWwA|
+# feeder (NOUN) : AlWAzRA|
+
+"fence"
+# boundary-layer fence (NOUN) : AjWAkZzW XgWf]bD
+# boundary-layer fence (NOUN) : AjWAkZzW ]bD
+
+"fender"
+# wooden fender (NOUN) : QlAXg RbW^jDXc
+# fender (NOUN) : RbW^jDXc
+# ice fender (NOUN) : GcR|W RbW^jDXg
+
+"ferrite"
+# ferrite (NOUN) : ]gIbW|\z
+
+"ferrule"
+# ferrule (NOUN) : ]gIsWsI
+# wooden ferrule (NOUN) : QlAXg ]gIsWsI
+# condenser tube ferrule (NOUN) : RlAUsA|AlbD ]gIIsI
+
+"ferry"
+# car ferry (NOUN) : ZbIdWGlUfD
+
+"fiber"
+# fly by fiber (NOUN) : UfQWw U|D^l XlXlW
+# glass fiber (NOUN) : WwI| UfQWw
+# carbon fiber (NOUN) : \bDUl UfQWw
+# carbon fiber (NOUN) : \bDUlUfQWw
+# optical fiber (NOUN) : AlbW^bA UfQWw
+# fiber (NOUN) : UfQWw
+# aramid fiber (NOUN) : WbIbQ|Gz UfQWw
+
+"fid"
+# fid (NOUN) : ]|Gz
+
+"fiddle"
+# fiddle (NOUN) : \gGsI|\zI
+
+"field"
+# shear field (NOUN) : XfDGbDXbW
+# revolving field (NOUN) : ^l|XfD U|Ak
+
+"fighter"
+# all-weather fighter (NOUN) : XfDZfD^s XfD\sA|
+
+"filament"
+# vortex filament (NOUN) : UfDWlbIw
+# filament (NOUN) : ]|IIbQgD\z
+
+"filler"
+# propeller filler (NOUN) : ]zIl]gIIf ZsWXfDA|
+
+"fillet"
+# oblique fillet (NOUN) : AjWUb]|II|U
+# fillet (NOUN) : ]|II|U
+# fillet (NOUN) : ]|II|U
+
+"filter"
+# filter (NOUN) : ]|I\f
+# water filter (NOUN) : QsI AfIzAc
+# line type filter (NOUN) : UfDIlWrW ]|I\f
+# oil filter (NOUN) : WlW|I ]|I\f
+# cold filter (NOUN) : UbWWlDAfIzAc
+# air filter (NOUN) : AlWA|AfIzAc
+# fuel oil filter (NOUN) : WjDIr Ww ]|I\f
+# low pressure fuel filter (NOUN) : XfWbR WjDIr ]|I\f
+# fuel filter (NOUN) : WjDIr ]|I\f
+# vent type filter (NOUN) : \lWA|^jW ]|I\f
+# filter (NOUN) : AfIzAc
+# oil filter (NOUN) : WlW|I]|I\f
+# high pressure fuel filter (NOUN) : AlWbRWjDIrWjAlbA|
+# can filter (NOUN) : \lW ]|I\f
+# feed filter (NOUN) : AzRUs ]|I\f
+# wet type filter (NOUN) : UzRU|A ]|I\f
+# filter (NOUN) : ]|I\f
+# sea water filter (NOUN) : ^cUs]|I\f
+# lubricating oil filter (NOUN) : WwD^lbIWw ]|I\f
+# air filter (NOUN) : AlWA| ]|I\f
+# reservoir type filter (NOUN) : XfUsU|A ]|I\f
+# pressure filter (NOUN) : WbRIjA ]|I\f
+# simplex filter (NOUN) : GbDUsD ]|I\f
+# lubricating oil filter (NOUN) : WwD^lbIWw ]|I\f
+# hot filter (NOUN) : AlWlD]|I\f
+
+"fin"
+# folding fin (NOUN) : XfRDzD ]|D
+# dorsal fin (NOUN) : GzW X|DzIfQ|
+# ventral fin (NOUN) : RcX|DzIfQ|
+# cooling fin (NOUN) : DcWAbA ]|D
+# fin (NOUN) : WbDXfW]bD
+
+"fin-stabilizer"
+# fin-stabilizer (NOUN) : UsX|AWbDXfW]bD
+
+"finder"
+# direction finder (NOUN) : RbW^dW \bQUcAA|
+# cathode-ray direction finder (NOUN) : WzQAzAUfDAlbD RbWWs| ZzAXfWA|
+# wireless direction finder (NOUN) : QsUfD RbWWs| ZzAXfWA|
+# range finder (NOUN) : AfI|Ak
+# automatic direction finder (NOUN) : XbGlWRbW^dW\bQX|A|
+# fish finder (NOUN) : WfAsD \bQX|A|
+# automatic direction finder (NOUN) : XbGlW RbW^dW \bQX|A|
+# direction finder (NOUN) : RbW^dW ZzAXfWA|
+# direction finder (NOUN) : RbWWs| ZzAXfWA|
+
+"finding"
+# radio direction finding (NOUN) : QsUfD RbW^dW \bQX|
+
+"fine"
+# national extra fine (NOUN) : 
+# unified fine (NOUN) : WwD|]bW| AbDzD DbUb
+
+"fineness"
+# coefficient of fineness (NOUN) : R|ZfA AkUs
+
+"finish"
+# machine finish (NOUN) : A|AkGbGzQX|I
+
+"fire"
+# banking fire (NOUN) : RsIV|
+# extinguish fire (NOUN) : Ul^lb
+# back fire (NOUN) : WjA^lb
+# cleaning fire (NOUN) : RsIAbIWzQ
+
+"fire-extinguisher"
+# portable fire-extinguisher (NOUN) : W|GlWU|A Ul^lbA|
+
+"firebox"
+# firebox (NOUN) : ^lbU|I
+
+"fireproof"
+# fireproof (NOUN) : Dc^lb
+# fireproof (NOUN) : Dc^lb
+
+"firing"
+# mixed firing (NOUN) : ^lD^bR WjDUl
+
+"fishplate"
+# fishplate (NOUN) : GfUGcQ]bD
+
+"fishtail"
+# fishtail (NOUN) : BlI|Z|A| ^lbIAlW
+
+"fishtailing"
+# fishtailing (NOUN) : BlI|Z|A| ^lbIAlW
+
+"fit"
+# fit (NOUN) : B|WfQbXZsQ
+# shrinkage fit (NOUN) : UsZsAB|WsfQbXZsQ
+# fit (NOUN) : B|WsfQbXZsQ
+# fit (NOUN) : B|WfQbXZsQ
+# fit (NOUN) : QbXZsQ
+# clearance fit (NOUN) : ^fIAfWsD B|Wsf QbXZsQ
+# force fit (NOUN) : WbRIjA QbXZsQ
+# fit (NOUN) : B|WfQbXZsQ
+
+"fitness"
+# flying fitness (NOUN) : ^bWAlWWz|Ub
+
+"fitting"
+# machinery fitting (NOUN) : A|AlbD XlI|R
+# fitting (NOUN) : B|WsfQbXZsQ
+# fitting (NOUN) : XlI|R
+# machinery fitting (NOUN) : A|AlbD XlI|R]sQ
+# ship's fitting (NOUN) : UfDRbA UlAAs
+# engine fitting (NOUN) : A|AlbDRsZbAQsI
+# electric fitting (NOUN) : XfDA|RlW^bR
+# hull fitting (NOUN) : UfDZg Wz|XbW
+# boiler fitting (NOUN) : RlW|IIf Rs]sQ
+# swivel fitting (NOUN) : 
+# fitting (NOUN) : Wz|XbW]sQ
+# deck fitting (NOUN) : AbR]bD RsUlAQsI
+# fitting (NOUN) : XlI|R
+# swaged fitting (NOUN) : \cR AlWAs
+# fitting (NOUN) : B|Wsf QbXZsQ
+# underwater fitting (NOUN) : UsQjD^b Rs]sQ
+# hinge fitting (NOUN) : ^|DX| B|Wsf QbXZsQ
+
+"fix"
+# radio fix (NOUN) : QsUfD Ws|Z|
+# fix (NOUN) : Ws|Z|AlXfW
+# fix (NOUN) : Ws|Z|AlXfW
+# fix (NOUN) : XfWXfQ
+# fix (NOUN) : AlXfW
+
+"fixing"
+# fixing (NOUN) : Ws|Z|AlXfW
+
+"fixture"
+# fixture (NOUN) : AlXfWAs
+
+"flag"
+# flag (NOUN) : A|URbI
+
+"flake"
+# flake (NOUN) : RcA XfQ
+
+"flame"
+# carbonizing flame (NOUN) : \bD^lb RsIBlZ
+# neutral flame (NOUN) : XsWUfW RsIBlZ
+# cutting flame (NOUN) : XfIGbD RsIBlZ
+# reducing flame (NOUN) : ^lbDWsfDUfW RsIBlZ
+# oxidizing flame (NOUN) : UbD^lb RsIBlZ
+# welding flame (NOUN) : WrWXfR RsIBlZ
+# heating flame (NOUN) : AbWjIRsIBlZ
+
+"flame-out"
+# flame-out (NOUN) : WjDUl XfWX|
+
+"flange"
+# slip-on welding flange (NOUN) : 
+# spectacle flange (NOUN) : WbDAjWBlI ]zIIcDX|
+# bulkhead flange (NOUN) : AjARjA]zIIcDX|
+# shell flange (NOUN) : Wl|]bDRs\W| ]zIIcDX|
+# screwed flange (NOUN) : DbUb ]zIIcDX|
+# spectacle-blank flange (NOUN) : WbDAjWBlI QbAWzQ ]zIIcDX|
+# coupling flange (NOUN) : [f]zII|W ]zIIcDX|
+# pipe flange (NOUN) : AlbD]zIIcDX|
+# slip-on brazing flange (NOUN) : 
+# spar flange (NOUN) : WsfDXs ]zIIcDX|
+# composite flange (NOUN) : RlA^bR ]zIIcDX|
+# welding neck flange (NOUN) : WrWXfR QlA ]zIIgDX|
+# faying flange (NOUN) : ]gW|W ]zIIcDX|
+# blank flange (NOUN) : Bz\QbAc
+# flange (NOUN) : ]zIIcDX|
+
+"flap"
+# slotted flap (NOUN) : UzIIlU ]zIIcR
+# fowler flap (NOUN) : ]bWsIIf ]zIIcR
+# flap (NOUN) : ]zIIcR
+# split flap (NOUN) : AbII|Q ]zIIcR
+# Kruger flap (NOUN) : [zIsAf ]zIIcR
+# internal flow blown flap (NOUN) : DcRs WwGlW ]zIIcR
+# non-return flap (NOUN) : R|RlAAs| ]zIIcR
+# external-flow blown flap (NOUN) : Wl|RsIw Zs|ZsI ]zIIcR
+# flap (NOUN) : ]zIIcR
+# leading-edge flap (NOUN) : Wb]XfD ]zIIcR
+# port flap (NOUN) : RcUs ]zIIcR
+# ventilating flap (NOUN) : \lW]sW ]zIIcR
+# jet flap (NOUN) : Xg\z ]zIIcR
+# double-slotted flap (NOUN) : W|XsW UzIIlU ]zIIcR
+# recovery flap (NOUN) : AzRAbW^b ^l|RlA ]zIIcR
+# trailing-edge flap (NOUN) : Gs|UXfD ]zIIcR
+# dive flap (NOUN) : AzRAbW^b ]zIIcR
+# blown flap (NOUN) : RsDZsI]zIIcR
+# drip flap (NOUN) : GzI|R ]zIIcR
+# zap flap (NOUN) : Xc]z ]zIIcR 
+# simple flap (NOUN) : GbDUsD ]zIIgR
+
+"flapping"
+# flapping (NOUN) : ]zIIc]|W
+
+"flare"
+# flare (NOUN) : ]zIIgWf
+# flare (NOUN) : RbI^lb U|D^l
+# life buoy flare (NOUN) : AsQjW RsIBlZ
+# parachute flare (NOUN) : DbA^bUbD XlQjW\bD
+
+"flare-out"
+# flare-out (NOUN) : ]zIIgWf WbWsU
+
+"flash"
+# flash (NOUN) : UfQAlbW
+
+"flat"
+# watertight flat (NOUN) : UsQ|I UbW]bD
+# watertight flat (NOUN) : UsQ|I AbR]bD
+
+"fleon"
+# fleon (NOUN) : ]zIIgWlD AbUz
+
+"flexibility"
+# flexibility (NOUN) : WwWjDUfW
+# torsional flexibility (NOUN) : R|\zII|Q WwWjDUfW
+
+"flexible"
+# flexible (NOUN) : WwWjDUfW
+# flexible (NOUN) : WwWjDUfW
+
+"flight"
+# terrestrial-reference flight (NOUN) : X|As A|XsD R|^cW
+# instrument flight rules flight (NOUN) : 
+# inverted flight (NOUN) : RcQjD R|^cW
+# meteorological information for aircraft in flight (NOUN) : ^bWAlWA| A|UbW\lWRl
+# symmetrical flight (NOUN) : GcZ|W R|^cW
+# level flight (NOUN) : Us]jW R|^cW
+# hovering flight (NOUN) : XgXbI|R|^cW
+# aero-tow flight (NOUN) : AlWXsW WkW|D R|^cW
+# formation flight (NOUN) : ]jDGc R|^cW
+# night flight (NOUN) : WdAbD R|^cW
+# flight (NOUN) : R|^cW
+# unsymmetrical flight (NOUN) : R|GcZ|W R|^cW
+# test flight (NOUN) : U|^fQR|^cW
+# visible flight (NOUN) : AbU| R|^cW
+# instrument flight (NOUN) : AkA| R|^cW
+# griding flight (NOUN) : ^lbIAlWR|^cW
+# hovering flight (NOUN) : AlWXsW XfWX| R|^cW
+# manned space flight (NOUN) : WwW|D WsXs R|^cW
+# space flight (NOUN) : WsXsR|^cW
+
+"flip-flop"
+# flip-flop (NOUN) : ]zII|R]zIIlR
+
+"float"
+# single float (NOUN) : GbDW|I HzAg
+# float (NOUN) : Rs]r
+# tail float (NOUN) : BlI| HzAg
+# paddle wheel float (NOUN) : Wl|IwDDbIAc
+# side float (NOUN) : ZzAQjD ]zIIl\z
+# stabilizing float (NOUN) : WbDXfW HzAc
+# twin float (NOUN) : VbWRs]r
+# wing tip float (NOUN) : DbIAcBz\ HzAc
+# main float (NOUN) : QgW|D ]zIIlWs\z
+# bag type float (NOUN) : AbRbW \bW|R RsZg
+
+"floatation"
+# center of floatation (NOUN) : RsQjDU|Q
+
+"flood"
+# flood (NOUN) : QbDXl
+# flood (NOUN) : Z|QUs
+# flood (NOUN) : Z|QUs
+# flood (NOUN) : Z|QUs
+
+"floodlight"
+# floodlight (NOUN) : \sAlbWXlQjW
+# floodlight (NOUN) : \sAlbWXlQjW
+
+"floor"
+# solid floor (NOUN) : Gf]^|D RbGbA
+# rise of floor (NOUN) : UfDXf A|WsIA|
+# watertight floor (NOUN) : UsQ|I DzA]bD 
+# deep floor (NOUN) : U|QDzA]bD
+# long and short armed floor (NOUN) : XbWGbDXc DzA]bD
+# bracket floor (NOUN) : XlI|R DzA]bD
+# rise of floor (NOUN) : UfDXf A|WsIA|
+# floor (NOUN) : RbGbA
+# engine floor (NOUN) : A|AlbDU|I Gc
+
+"flow"
+# slip flow (NOUN) : Q|BzIfQ ^zIzQ
+# blade vortex flow (NOUN) : DbIAcA|U WlbIw^zIzQ
+# intake air flow (NOUN) : ^zRW|R AlWA| WwIdW
+# laminar flow (NOUN) : ZzWIw
+# free reverse flow (NOUN) : XbWw ^zIzQ WjAIw
+# bleed air flow (NOUN) : RzII|W|Gz WgWf
+# calibrated flow (NOUN) : RlXfW WwIdW
+# free flow (NOUN) : XbWw^zIzQ
+# full flow (NOUN) : XfDWwIdW
+# clearance flow (NOUN) : \zQUc ^zIzQ
+# metered flow (NOUN) : AkIdW ^zIzQ
+# nozzle choking flow (NOUN) : DlXzI ZlWl[z WwIdW
+# potential flow (NOUN) : ]l\gDUjI WwGlW
+# irrotational flow (NOUN) : R|^l|XfDWwGlW
+# metered flow (NOUN) : ZzAXfWWwGlW
+# rated flow (NOUN) : XfWAjA WwIdW
+# free-molecular flow (NOUN) : XbWwRsDXb^zIzQ
+# flow (NOUN) : WwIdW
+# conical flow (NOUN) : WsfDSsI WwGlW
+# Poiseuille flow (NOUN) : ]lWbXzW|Ww WwGlW
+# turbulent flow (NOUN) : DbDIw WwGlW
+# controlled flow (NOUN) : XgWf WwGlW
+# air flow (NOUN) : A|Iw
+# streamline flow (NOUN) : ZzWIw
+# corrected intake air flow (NOUN) : UsXfW ^zRW|R AlWA| WwIdW
+# secondary flow (NOUN) : W|Zb WwGlW
+# flow (NOUN) : WwGlW
+# supersonic flow (NOUN) : ZlWzQUlA WwGlW
+# flow (NOUN) : ^zIzQ
+# molecular flow (NOUN) : RsDXbIw
+# corrected mass flow (NOUN) : UsXfWWwIdW
+
+"flowmeter"
+# totaling fuel flowmeter (NOUN) : XfAUbD WjDIr WwIdWAk
+
+"fluctuation"
+# coefficient of fluctuation (NOUN) : RjDGlWWwI
+
+"flue"
+# flue (NOUN) : WjDGl
+
+"fluid"
+# inviscid fluid (NOUN) : R|XfQUfW WwGlW
+# perfect fluid (NOUN) : WlbDXfD WwZg
+# compressible fluid (NOUN) : WbRZsAUfW WwZg
+# ethyl fluid (NOUN) : Wg\|IWcA
+# fluid (NOUN) : WwZg
+# inflammable fluid (NOUN) : W|D^lbUfW WwZg
+# anti-icer fluid (NOUN) : RbWR|WWcA
+# viscous fluid (NOUN) : XfQUfW WwZg
+# Newton fluid (NOUN) : Dw\zD WwZg
+# hydraulic fluid (NOUN) : XbAGlWWwZg
+# incompressible fluid (NOUN) : R| WbRZsAUfW WwGlW
+
+"fluidity"
+# fluidity (NOUN) : WwGlWUfW
+
+"fluke"
+# anchor fluke (NOUN) : GbZ^j
+
+"flush"
+# flush (NOUN) : ]jWGs
+
+"flushing"
+# flushing (NOUN) : UgZfA
+
+"flutter"
+# coupled flutter (NOUN) : WjDUfW ]zIIf\f
+# flutter (NOUN) : ]zIIf\f
+# stall flutter (NOUN) : U|IUlA]zIIf\f
+# symmetrical flutter (NOUN) : GcZ|W ]zIIf\f
+# panel flutter (NOUN) : ]bD ]zIIf\f
+
+"flux"
+# flux (NOUN) : ]zIIfAUz
+
+"fly"
+# fly (NOUN) : R|^cW
+# fly (NOUN) : R|^cW
+# fly (NOUN) : R|^cW
+
+"fly-by-light"
+# fly-by-light (NOUN) : 
+
+"fly-by-wire"
+# fly-by-wire (NOUN) : 
+
+"flying"
+# great circle flying (NOUN) : GcAsfD R|^cW
+# requirement on flying (NOUN) : R|^cWUfW A|XsD
+
+"flywheel"
+# flywheel (NOUN) : ]zIIbW|^s|I
+
+"foam"
+# fire foam (NOUN) : Ul^lb Af]sQ
+
+"foe"
+# identification friend or foe (NOUN) : XfA WbAsD U|ARjIXbWZ|
+
+"fog"
+# fog (NOUN) : WbDAc
+
+"fogbell"
+# fogbell (NOUN) : WbDAc XlW
+
+"foghorn"
+# foghorn (NOUN) : WbDAc AjWXfA
+
+"follower"
+# cam follower (NOUN) : [cQAlWW|
+
+"food"
+# space food (NOUN) : WsXsU|A
+
+"foot"
+# crows foot (NOUN) : AjW^bWAlWA| GbI|
+
+"footstep"
+# footstep (NOUN) : RbI]bD
+
+"Force"
+# Royal Air Force (NOUN) : WjWAsAAlWAsD
+# Japan Ground Self Defense Force (NOUN) : W|IRlD WwAUbW XbWs|Gc
+# propeller fitting force (NOUN) : ]zIl]gIIf XlI|RIjA
+# Royal Air Force (NOUN) : WjWAsAAlWAsD
+# suction force (NOUN) : ^zRW|RIjA
+# control force (NOUN) : XlXlWIjA
+# aerodynamic force (NOUN) : AlWIjA
+# United States Air Force (NOUN) : Q|AlWAsD
+# Japan Maritime Self Defense Force (NOUN) : ^cUbWXbWs|Gc
+# resultant force (NOUN) : ^bRIjA
+# aerostatic force (NOUN) : AlWA| XfWWjA^bAXfA ^|Q
+# damping force (NOUN) : AbQUl|IjA
+# brake force (NOUN) : XgGlWIjA
+# normal force (NOUN) : RfRUfDIjA
+# control force (NOUN) : XlXfWIjA
+# lateral force (NOUN) : AbIlRbW^dW ^|Q
+# inertia force (NOUN) : AlbDUfWIjA
+# impulsive force (NOUN) : ZsWAjAIjA
+# tangential force (NOUN) : XfRUfDIjA
+# centripetal force (NOUN) : AsU|QIjA
+# break-out force (NOUN) : \bIXsIjA
+# turning force (NOUN) : ^l|XfDIjA
+# gyroscopic force (NOUN) : XbW|Il ^|Q
+# wind force (NOUN) : ]sWIjA
+# centrifugal force (NOUN) : WsfDU|QIjA
+# cross-wind force (NOUN) : Wj]RbIbQ ^|Q
+# moment of force (NOUN) : ^|QWz| QlQgD\z
+# aerodynamic force (NOUN) : AlWA|IjA
+# shearing force (NOUN) : XfDGbDIjA
+# direct force (NOUN) : X|AXfRIjA
+# Japan Air Self Defense Force (NOUN) : W|IRlD ^bWAlWXbWs|Gc
+
+"forecast"
+# route forecast (NOUN) : ^bWIl WkRl
+# flight forecast (NOUN) : R|^cW WkRl
+# aerodrome forecast (NOUN) : R|^cWXbW WkRl
+# weather forecast (NOUN) :  W|IA|WkRl
+# area forecast (NOUN) : AlWWjA WkRl
+# en-route forecast (NOUN) : ^bWIlIlWkRl
+# forecast (NOUN) : WkRl
+# abbreviated aerodrome forecast (NOUN) : R|^cWXbW WkRl WdAWf
+# forecast (NOUN) : WkRl
+
+"forecastle"
+# long forecastle (NOUN) : XbWUfD UsIs
+# forecastle (NOUN) : UfDUsIs
+
+"forefoot"
+# forefoot (NOUN) : WrWAlI XfDGbD WjAXc
+
+"forelock"
+# forelock (NOUN) : ]lWfIlA
+
+"foremast"
+# foremast (NOUN) : Wb] QbUz\z
+
+"forge"
+# portable forge (NOUN) : W|GlWU|A GbDXl GlAs
+# rivet forge (NOUN) : I|RgU AbWjIIl
+# forge (NOUN) : GbDXl
+
+"forging"
+# forging (NOUN) : GbDXl]sQ
+# forging (NOUN) : GbDXl
+# drop forging (NOUN) : DbA^b GbDXl
+# heavy forging (NOUN) : Gc^jW GbDXl]sQ
+# die forging (NOUN) : ^jW GbDXl
+
+"form"
+# airframe form (NOUN) : A|Zg ^jWUbW
+
+"former"
+# former (NOUN) : UfW^jWA|
+# former (NOUN) : UfW^jWA|
+
+"forming"
+# super plasticity forming (NOUN) : ZlUlUfW AbAlW
+# hot forming (NOUN) : AbWjIUfW^jW
+
+"forward"
+# sheer forward (NOUN) : UfDUs ^jD^l
+
+"foul"
+# foul (NOUN) : WlWjQ
+
+"foundation"
+# foundation (NOUN) : A|Zl
+
+"foundry"
+# foundry (NOUN) : XsXlXbW
+# iron foundry (NOUN) : XsXlAlWXbW
+
+"foward"
+# feed foward (NOUN) : ]|Gz ]lWsfGz
+
+"fractography"
+# fractography (NOUN) : ]bQjD^cUfA
+
+"fracture"
+# fracture (NOUN) : ]bQjD
+# brittle fracture (NOUN) : QgX|QUfW ]bGbD
+# ductile fracture (NOUN) : WjDUfW]bAl|
+# shear fracture (NOUN) : XfDGbD]bGbD
+
+"frame"
+# built-up frame (NOUN) : XlI|R DzAAlI
+# single frame (NOUN) : GbDXc DzAAlI
+# spar frame (NOUN) : WsfDXs ]zIgW|Q
+# ring frame (NOUN) : I|W XfWRbWA|
+# hold frame (NOUN) : ZbWDc DzAAlI
+# rigid frame (NOUN) : AbWUfW ]zIgW|Q
+# spectacle frame (NOUN) : WbDAjWBlI UfDQ|AlIXc
+# stern frame (NOUN) : UfDQ| AlIXc
+# engine frame (NOUN) : A|AlbD]zIgW|Q
+# intermediate transverse frame (NOUN) : XsWWbW AbIlRl
+# double frame (NOUN) : W|XsW ^lbWjQ
+# deep frame (NOUN) : U|QDzAAlI
+# bent frame (NOUN) : ^s|D DzAAlI
+# bossed frame (NOUN) : RlUz DzAAlI
+# beveling frame (NOUN) : RgRgI DzAAlI
+# midship frame (NOUN) : XsWAbDRs DzAAlI
+# bottom frame (NOUN) : UfDXf DzAAlI
+# sliding frame (NOUN) : Q|BzIfQ\zI
+# reverse frame (NOUN) : WjA AsXl
+# long-floor frame (NOUN) : XbWDzA]bD DzAAlI
+# frame (NOUN) : DzAAlI
+# transverse frame (NOUN) : AbIl]zIgW|Q
+# side frame (NOUN) : UfDZzA DzAAlI
+# web frame (NOUN) : \zAUfI DzAAlI
+# long and short armed frame (NOUN) : XbWGbDXc DzAAlI
+
+"framing"
+# stern framing (NOUN) : UfDQ| AlIXl
+# arch framing (NOUN) : WbWbZ|U|A DzAAlIAsXl
+
+"freeboard"
+# lumber freeboard (NOUN) : QlAXc AfD^jD
+# strength freeboard (NOUN) : AbWGl AfD^jD
+# winter North Atlantic freeboard (NOUN) : GlWA| RsAGcUfWdW AfD^jD
+# freeboard (NOUN) : AfD^jD
+# minimum freeboard (NOUN) : Zl|UlAfD^jD
+# vessel with freeboard (NOUN) : ^sIUs Xg^bDUfD
+# tropical freeboard (NOUN) : WjIGcUfW AfD^jD
+
+"freedom"
+# degree of freedom (NOUN) : XbWwGl
+
+"freely"
+# oscillate freely (NOUN) : XbWwX|DGlW
+# oscillate freely (NOUN) : XbWwX|DGlW
+# vibrate freely (NOUN) : XbWwX|DGlW
+# vibrate freely (NOUN) : XbWwX|DGlW
+
+"freezer"
+# freezer (NOUN) : GlWAjIA|
+# sharp freezer (NOUN) : AzRUlA GlWAjIA|
+
+"freezing"
+# quick freezing (NOUN) : AzRUlA GlWAjIRfR
+
+"frequency"
+# low frequency (NOUN) : XbW]b
+# resonance frequency (NOUN) : AlWX|D X|DGlWUs
+# angular frequency (NOUN) : AbA X|DGlWUs
+# beat frequency (NOUN) : QcADlIW| X|DGlWUs 
+# dominant frequency (NOUN) : X|Rc Xs]bUs
+# critical frequency (NOUN) : W|QAkXs]bUs
+# very high frequency (NOUN) : ZlGbD]b
+# frequency (NOUN) : X|DGlWUs
+# frequency (NOUN) : Xs]bUs
+# antiresonance frequency (NOUN) : RbD AlWX|D X|DGlWUs
+# undamped natural frequency (NOUN) : RsIAbQUl| AlWw X|DGlWUs
+# frequency (NOUN) : Xs]bUs
+# fundamental frequency (NOUN) : A|RlD Xs]bUs
+# natural frequency (NOUN) : AlWw X|DGlWUs
+# damped natural frequency (NOUN) : AbQUl| AlWw X|DGlWUs
+# nondimentional frequency (NOUN) : QsZbWsfD X|DGlWUs
+# crossover frequency (NOUN) : ArZb X|DGlWUs
+# angular frequency (NOUN) : AbAX|DGlWUs
+# high frequency (NOUN) : GbD]b
+
+"friction"
+# friction (NOUN) : QbZbI
+# skin friction (NOUN) : ]rQjDQbZbI
+# coefficient of friction (NOUN) : QbZbI AkUs
+# dry friction (NOUN) : AfDXl QbZbI
+# coefficient of local friction (NOUN) : AsAUl QbZbI AkUs
+# fluid friction (NOUN) : WwZg QbZbI
+
+"front"
+# wave front (NOUN) : ]b UfD
+# flame front (NOUN) : ^lbWjQXfDQjD
+# forced draft front (NOUN) : AbWXg\lW]sW WbAsWW|
+# cold front (NOUN) : ^bDDcWXfDUfD
+# forced draft front (NOUN) : AbWXg \lW]sW XfDRbW
+# warm front (NOUN) : WlDDbDXfDUfD
+# front (NOUN) : Wb]QjD
+# shock wave front (NOUN) : ZsWAjA]bUfD
+
+"froth"
+# froth (NOUN) : Af]sQ
+# froth (NOUN) : Af]sQ
+# froth (NOUN) : Af]sQ
+
+"frothing"
+# frothing (NOUN) : Af]sQ
+
+"fruit"
+# fruit (NOUN) : UfWAlb
+
+"fuel"
+# liquid fuel (NOUN) : WcAZgWjDIr
+# alternate fuel (NOUN) : GcZg WjDIr
+# additive for jet fuel (NOUN) : Xg\z WjDIr ZfQAbXg
+# safety fuel (NOUN) : WbDXfDWjDIr
+# colloidal fuel (NOUN) : [lIIlW|Gz WjDIr
+# high octane fuel (NOUN) : AlWlA\bD WjDIr
+# fuel (NOUN) : WjDIr
+# reference fuel (NOUN) : ]rXsD WjDIr
+# diesel fuel (NOUN) : G|XgI WjDIr
+# reserve fuel (NOUN) : WkR| WjDIr
+# burn-out fuel (NOUN) : UlR|WjDIr
+# solid fuel (NOUN) : AlZg WjDIr
+# jet fuel (NOUN) : Xg\z WjDIr
+
+"full-size"
+# full-size (NOUN) : U|IZ|Us
+# full-size (NOUN) : U|IZ|Us
+
+"fully"
+# load fully (NOUN) : QbDXc
+
+"fumigate"
+# fumigate (NOUN) : ^sDXzW^bGb
+
+"fumigation"
+# fumigation (NOUN) : ^sDXzWRfR
+
+"function"
+# Kronecker's delta function (NOUN) : [zIlDg[f GgI\b ^bQUs
+# Theodorsen function (NOUN) : \gWlGlUgD ^bQUs
+# closed-loop transfer function (NOUN) : ]k Is]z XfDGbI ^bQUs
+# feedfoward transfer function (NOUN) : ]|Gz ]lWsfGz XfDGbI ^bQUs
+# response function (NOUN) : WzWGbR^bQUs
+# stream function (NOUN) : WwIdW ^bQUs
+# error function (NOUN) : ]jDZb ^bQUs
+# open-loop transfer function (NOUN) : AcRbWIs]z XfDGbI^bQUs
+# probability density function (NOUN) : ^lbAIwIQ|IGl^bQUs
+# cross-correlation function (NOUN) : UbW^l UbWAlbD ^bQUs
+# transfer function (NOUN) :  XfD^lbD^bQUs
+# auto-correlation function (NOUN) : XbA|UbWAlbD^bQUs
+# closed-loop transfer function (NOUN) : ]k Is]z XfDGbI ^bQUs
+
+"fundamental"
+# fundamental (NOUN) : A|RlD]b
+
+"funnel"
+# dummy funnel (NOUN) : Ab AsIHsA
+# funnel (NOUN) : BbIHcA|, AsIHsA
+
+"furnace"
+# crucible furnace (NOUN) : GlAbD|Il
+# furnace (NOUN) : Dl
+# corrugated furnace (NOUN) : XsIzQX|D Il
+# plain furnace (NOUN) : ]jW^jW Il
+# center furnace (NOUN) : XsWWbWDl
+# annealing furnace (NOUN) : WfD|II|WIl
+# furnace (NOUN) : Dl
+# blast furnace (NOUN) : WrWAlbWIl
+# wing furnace (NOUN) : ZzAIl
+# electric furnace (NOUN) : XfDA|Il
+
+"furniture"
+# wooden furniture (NOUN) : QlAXg AbAs
+
+"furol"
+# Saybolt furol (NOUN) : UgW|RlI\z ]wIfI
+
+"furring"
+# furring (NOUN) : ]fWfI|W
+
+"fuse"
+# fuse (NOUN) : Gl^lbUfD
+# fuse (NOUN) : ]wWsXz
+# fuse (NOUN) : U|DAlbD
+# variable-time fuse (NOUN) : AzDXfR U|DAlbD
+# variable time fuse (NOUN) : 
+# base fuse (NOUN) : RbGbA U|DAlbD
+# return flow fuse (NOUN) : XfWR| ]wWsXz
+# quantity measuring fuse (NOUN) : XfDIdW ZzAXfW ]wWsXz
+
+"fuselage"
+# fuselage (NOUN) : GlWZg
+# double bubble fuselage (NOUN) : VbWA|]l GlWZg
+# steel tube fuselage (NOUN) : AbWAlbD GlWZg
+# intermediate fuselage (NOUN) : XsWAbD GlWZg
+# forward fuselage (NOUN) : XfDRbW GlWZg
+# welded steel tube fuselage (NOUN) : WrWXfRAbW GlWZg
+
+"fusion"
+# depth of fusion (NOUN) : WrW^cGl
+

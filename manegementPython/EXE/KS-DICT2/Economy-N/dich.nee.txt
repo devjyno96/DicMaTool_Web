@@ -1,0 +1,357 @@
+"HMO"
+# HMO (NOUN) : 건강 유지 위원회
+
+"Haavelmo's"
+# Haavelmo's proposition (NOUN) : 하벨모의 명제
+
+"Health"
+# Health maintenance organization (NOUN) : 건강 유지 위원회 
+
+"Hewlett Packard"
+# Hewlett Packard (NOUN) : 휴렛 팩커드
+
+"Hewlett-Packard"
+# Hewlett-Packard (NOUN) : 휴렛 팩커드
+
+"Holding Company Liquidation Commission"
+# Holding Company Liquidation Commission (NOUN) : 지주회사 정리 위원회
+
+"House"
+# House of Representatives (NOUN) : 하원
+
+"House Democrats"
+# House Democrats (NOUN) : 하원 민주당의원
+
+"House Speaker"
+# House Speaker (NOUN) : 하원 의장
+
+"Housing Finance Insurance Law"
+# Housing Finance Insurance Law (NOUN) : 주택 융자 보험법
+
+"Housing Loan Corporation"
+# Housing Loan Corporation (NOUN) : 주택 금융 공채
+
+"haggle"
+# haggle with (NOUN) : haggle with
+
+"half"
+# half the amount (NOUN) : 반액
+# second half (NOUN) : 후반
+
+"half-term"
+# half-term (NOUN) : 반기
+
+"half-yearly"
+# half-yearly closing of accounts (NOUN) : 반기 결산
+# half-yearly settlement (NOUN) : 반기 결제
+
+"halfway"
+# halfway house (NOUN) : 교화소
+
+"hallmark"
+# hallmark (NOUN) : 품질 증명
+
+"hand"
+# hand (NOUN) : 신수
+
+"handle"
+# handle with care (NOUN) : 취급 주의
+
+"handling"
+# handling (NOUN) : 취급
+
+"harbor"
+# harbor strike (NOUN) : 항구 파업
+
+"hard"
+# hard core (NOUN) : hard core
+# hard currency (NOUN) : 경화
+# hard international currency reserves (NOUN) : 국제 통화 예비금
+
+"hardening"
+# hardening of credit policy (NOUN) : 금융정랙의 경직화
+
+"hardline"
+# hardline (NOUN) : 강경노선
+
+"harmonic"
+# harmonic mean (NOUN) : 조화평균
+
+"harvest"
+# harvest (NOUN) : 수확
+
+"hastened"
+# hastened intake of funds (NOUN) : 자금 수입 압력
+
+"have"
+# have jurisdiction over (NOUN) : 관할
+
+"head"
+# head (NOUN) : 수장
+# head hunter (NOUN) : head hunter
+# head hunting (NOUN) : head hunting
+# head office (NOUN) : 본사
+# head official (NOUN) : 사무장
+# head tax (NOUN) : 인두세
+
+"headquarter"
+# corporate headquarter (NOUN) : 본사
+
+"health"
+# health insurance (NOUN) : 건강보험
+# health insurance reform act (NOUN) : 건강 보험 개혁안
+
+"hearings"
+# hearings (NOUN) : 청문회
+
+"heat"
+# heat (NOUN) : 비난
+
+"heavy"
+# heavy and chemical industry (NOUN) : 중화학 공업
+# heavy average (NOUN) : heavy average
+# heavy duty (NOUN) : 중세
+# heavy industry (NOUN) : 중공업
+# heavy trading (NOUN) : 대량무역
+
+"heavy-duty"
+# heavy-duty bag (NOUN) : 중포장대
+
+"heavyweight"
+# heavyweight (NOUN) : 거대 기업
+
+"hedge"
+# hedge (NOUN) : 방지책
+# hedge transaction (NOUN) : 방지거래
+
+"hedge-selling"
+# hedge-selling (NOUN) : 위험 분산 판매
+
+"hedging"
+# hedging (NOUN) : hedging
+
+"heft"
+# heft (NOUN) : 영향력
+
+"heir"
+# heir (NOUN) : 상속인
+
+"help"
+# help wanted advertisement (NOUN) : 구인광고
+
+"hereditary"
+# hereditary property (NOUN) : 세습 재산
+
+"hesitancy"
+# hesitancy (NOUN) : 경계기미
+
+"hesitation"
+# hesitation (NOUN) : 주저
+
+"hessian"
+# hessian bag (NOUN) : hessian bag
+# hessian cloth (NOUN) : hessian cloth
+
+"heteropoly"
+# heteropoly (NOUN) : 이질적 경쟁
+
+"hidden"
+# hidden asset (NOUN) : 은닉자산
+# hidden assets stock (NOUN) : 숨은 자산주
+
+"high"
+# high cost of production (NOUN) : 생산비용
+# high farming (NOUN) : 집적 농업
+# high flier (NOUN) : 고가치주식
+# high grade corporate bond (NOUN) : 우량 사채
+# high growth (NOUN) : 고도 성장
+# high income (NOUN) : 고소득
+# high income bracket (NOUN) : 고액 소득층
+# high income country (NOUN) : 고소득국
+# high income group (NOUN) : 고소득층
+# high interest rate (NOUN) : 고리
+# high mass consumption (NOUN) : 고도 대중 소비
+# high powered money (NOUN) : 고권 화폐
+# high pressure economy (NOUN) : 고압 경제
+# high price (NOUN) : 고가
+# high rate (NOUN) : 고율
+# high sea (NOUN) : 공해
+# high tariff (NOUN) : 고율 관세
+
+"high-income"
+# high-income earner (NOUN) : 고소득자
+
+"high-interest-bearing"
+# high-interest-bearing debenture (NOUN) : 고리부 사채
+
+"high-priced"
+# high-priced stock (NOUN) : 고가주
+
+"higher"
+# higher quotation (NOUN) : 높은 시세
+# higher quotation at the close (NOUN) : higher quotation at the close
+# higher quotation for future months (NOUN) : higher quotation for future months
+
+"highest"
+# highest bid price (NOUN) : 낙찰 가격
+# highest bidder (NOUN) : 최고 입찰인
+# highest in, first out (NOUN) : 고가품 선출법
+# highest tender (NOUN) : 최고 입찰
+
+"hike"
+# hike (NOUN) : 상승
+# rate hike (NOUN) : 이율 상승
+
+"hindrance"
+# hindrance (NOUN) : 지장
+
+"hire"
+# hire (NOUN) : 임대료
+# hire base (NOUN) : 임대기준율
+# hire purchase (NOUN) : 웜부구입
+
+"hoard"
+# hoard (NOUN) : hoard
+
+"hoarding"
+# hoarding (NOUN) : 매점
+
+"hoisting"
+# hoisting machinery (NOUN) : 하역기계
+
+"hold"
+# hold (NOUN) : 보유
+# hold cargo (NOUN) : 선상 창고 화물
+# hold off (NOUN) : hold off
+
+"holder"
+# holder (NOUN) : 소지인
+# holder in due course (NOUN) : 정당 소득인
+
+"holding"
+# holding (NOUN) : 보유
+# holding company (NOUN) : 신회사
+# holding gains and loss (NOUN) : 보유 손익
+# holding high (NOUN) : 고보합
+# holding of Special Drawing Rights (NOUN) : 특별 인출권 보유액
+# holding off (NOUN) : holding off
+# holding ratio for a company's stock (NOUN) : 주식보유율
+
+"holiday"
+# holiday with pay (NOUN) : 유급 휴가
+
+"home"
+# home bill payable (NOUN) : 자국 지급 어음
+# home bound freight (NOUN) : 귀항운임
+# home currency bill (NOUN) : 내국 통화 어음
+# home currency bill bought (NOUN) : 내국 통화 매입 외국 어음
+# home currency bill receivable (NOUN) : 내국 통화 외국 어음
+# home currency bill sold (NOUN) : 내국 통화 매도 외국 어음
+# home currency payable (NOUN) : home currency payable
+# home industry (NOUN) : 가내공업
+# home money (NOUN) : 자국 통화
+# home office (NOUN) : 본부
+# home port (NOUN) : 본적항
+# home shopping (NOUN) : 홈쇼핑
+# home equity loan (NOUN) : 주택저당금리
+# home loan (NOUN) : 주택융자
+
+"home-coming"
+# home-coming (NOUN) : 귀국
+
+"homogeneous"
+# homogeneous cargo (NOUN) : 균질화물
+
+"honor"
+# honor agreement (NOUN) : 명예 계약
+
+"honorary"
+# honorary post (NOUN) : 명예직
+
+"horizontal"
+# horizontal (NOUN) : 수평적
+# horizontal buy (NOUN) : 수평적 구매
+# horizontal combination (NOUN) : 수평적 결합
+# horizontal division of labor (NOUN) : 수평 분업
+# horizontal integration (NOUN) : 수평적 통합
+# horizontal international specialization (NOUN) : 수평적 국제 분업
+# horizontal merger (NOUN) : 수평 합병
+# horizontal multiplier (NOUN) : 수평 승수
+# horizontal trade (NOUN) : 수평 무역
+
+"horizontally"
+# horizontally (NOUN) : 수평적
+
+"hot"
+# hot money (NOUN) : 핫머니
+# hot spot (NOUN) : 분쟁지역
+
+"hourly"
+# hourly wage (NOUN) : 시간당 임금
+
+"house"
+# house bill (NOUN) : 사내 어음
+# publishing house (NOUN) : 출판사
+
+"house-to-house"
+# house-to-house salesman (NOUN) : 호별방문 판매원
+
+"household"
+# household account book (NOUN) : 가계부
+# household consumption (NOUN) : 가계소비
+# household economy (NOUN) : 가계
+# household expenditure (NOUN) : 가계비
+
+"households"
+# households and private non-profit institutions account (NOUN) : 개인 계정
+
+"housihg-allied"
+# housihg-allied enterprise (NOUN) : 주택 관련 기업
+
+"housing"
+# housing (NOUN) : 주택
+# housing bond (NOUN) : 주택 채권
+# housing credit (NOUN) : 주택 대출
+# housing finance company (NOUN) : 주택 금융 회사
+# housing industry (NOUN) : 주택 산업
+# housing investment (NOUN) : 주택 투자
+# housing loan (NOUN) : 주택 융자
+# housing mortgage loan (NOUN) : 주택 자금 대출
+# housing shortage (NOUN) : 주택난
+# housing expansion (NOUN) : 주택 확장
+
+"hull"
+# hull insurance (NOUN) : 선박 보험
+
+"human"
+# human capital (NOUN) : 인적 자본
+# human engineering (NOUN) : 인간 공학
+# human investment (NOUN) : 인적 투자
+# human relation (NOUN) : 인간 관계
+# human relations program (NOUN) : 인간 관계 관리
+
+"human-capital"
+# human-capital drain (NOUN) : 인적자원 유출
+
+"hunger"
+# hunger export (NOUN) : 기아수출
+# hunger strike (NOUN) : 단식투쟁
+
+"hurried"
+# hurried buying (NOUN) : 급매입
+
+"hydrographic"
+# hydrographic map (NOUN) : 수로도
+
+"hype"
+# hype (NOUN) : 과대선전
+
+"hyperinflation"
+# hyperinflation (NOUN) : 초인플레이션
+
+"hypothec"
+# hypothec bank (NOUN) : 권업은행
+# hypothec debenture (NOUN) : 권업채권
+
+"hypothecation"
+# hypothecation (NOUN) : 담보계약서

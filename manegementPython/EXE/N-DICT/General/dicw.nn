@@ -1,0 +1,4382 @@
+"W"
+% CONCRETE MATERIAL 
+(W)
+
+"WA"
+(WsfU|W\fD)
+
+"WEATHER"
+(DbIV|)
+
+"WORLD"
+(UgAk)
+
+"Wako Research Center"
+(Wlb[l WjDAsUl)
+
+"Wall"
+% PLACE
+(XbWUfW)
+# the Great Wall (NOUN) : QbDI|XbWUfW
+
+"Wall St."
+(WsfI Uz\zI|\z)
+
+"Wall Street"
+(WsfI Uz\zI|\z)
+
+"Wall Street Journal"
+(WsfIUz\zI|\z XfDfI)
+
+"War"
+% ACTION
+(XfDXcW)
+# post-Cold War (NOUN) : DcWXfD^s
+# War and Peace (NOUN) : XfDXcWAlb ]jW^lb
+
+"Washington"
+% MATERIAL PLACE
+(WsfU|W\lD)
+# Washington , D.C (NOUN) : WsfU|W\lD D.C.
+# Washington , D.C. (NOUN) : WsfU|W\lD D.C.
+# Washington D.C (NOUN) : WsfU|W\lD D.C.
+# Washington D.C. (NOUN) : WsfU|W\lD D.C.
+# Washington Post (NOUN) : WsfU|W\lD ]lUz\z
+
+"Washington D.C"
+% MATERIAL PLACE
+(WsfU|W\lD)
+
+"Washington D.C."
+% MATERIAL PLACE
+(WsfU|W\lD)
+
+"Washington Monument"
+(WsfU|W\fDA|DjQ\bR)
+
+"Washington Post"
+(WsfU|W\lD ]lUz\z)
+
+"Web"
+(WsgR)
+
+"Web-navigation"
+(WsgR DgR|AgW|UjD)
+
+"Website"
+(WsgRUbW|\z)
+
+"Wednesday"
+% CONCRETE TIME MATERIAL 
+(UsWrW|I)
+
+"Weds"
+% TIME
+(UsWrW|I)
+
+"Wendy"
+% HUMAN
+(WsgDG|)
+
+"West"
+(UfYlA)
+# the East and the West (NOUN) : GlWUfWdW
+# the West (NOUN) : UfWdW
+
+"Western Europe"
+(UfWwIfR)
+
+"What's New"
+(UcUlU|A)
+
+"White House"
+% PLACE
+(RcAWbAAlbD)
+# White House counsel's office (NOUN) : RcAWbAAlbD XbQsDU|I
+
+"Williams"
+% HUMAN
+(Ws|II|WfQUz)
+
+"Willis"
+(Ws|II|Uz)
+
+"Windows"
+(Ws|DGlWsXz)
+# Windows 95 (NOUN) : Ws|DGlWsXz 95
+# Windows 98 (NOUN) : Ws|DGlWsXz 98
+
+"Windows 95"
+(Ws|DGlWsXz 95)
+
+"Windows 98"
+(Ws|DGlWsXz 98)
+
+"Windsor"
+% PLACE
+(Ws|DXfAsW)
+
+"Windsor Castle"
+% PLACE
+(Ws|DXfAsW)
+
+"Won"
+% UNIT
+(WsfD)
+# NUM1 {-ORDNUM} Won (NOUN) : [(NMODS NUM1 {+DGTNUM}) WsfD<NOUN>]
+
+"Wood"
+% HUMAN
+(WsGz)
+
+"World Bank"
+% ORGAN
+(UgAk WzD^cW)
+
+"World Cup"
+% ORGAN
+(WsfIGz[fR)
+
+"World Economic Forum"
+(UgAkAjWXg]lIfQ)
+
+"World Fair"
+% ORGAN
+(QbDAsA RbAIbQ^l|)
+
+"World Trade Center"
+% PLACE
+(UgAk QsWjA UgD\f)
+
+"World Trade Organization"
+(UgAk QsWjA A|As)
+
+"World War"
+% ACTION TIME
+(UgAk GcXfD)
+# World War i (NOUN) : Xg 1Zb UgAk GcXfD
+
+"World War I"
+% ACTION TIME
+(Xg 1Zb UgAk GcXfD)
+
+"World War II"
+% ACTION TIME
+(Xg 2Zb UgAk GcXfD)
+
+"World's Fair"
+(QbDAsA RbAIbQ^l|)
+
+"wabble"
+(R|\zIAfI|Q)
+
+"wack"
+% HUMAN
+(Al|Yb)
+
+"wad"
+% CONCRETE MATERIAL 
+(QsWZ|)
+
+"wadding"
+% CONCRETE MATERIAL 
+(ZcWsDzD QsIAfD)
+
+"waddle"
+% MATERIAL 
+(WfA|XfAWfA|XfA AfGDzD AfIWzQ)
+
+"waddy"
+(XfD\sWrW AlDRlW)
+
+"wade"
+% MATERIAL 
+(AfIWfUf AfDDfA|)
+
+"wader"
+% CONCRETE ANIMAL MATERIAL 
+(AfIWfUf AfDDfDzD UbIbQ)
+
+"wadi"
+% PLACE
+(AlIYbA|Wz| AcWsI)
+
+"wady"
+% PLACE
+(AlIYbA|Wz| AcWsI)
+
+"wafer"
+% CONCRETE MATERIAL 
+(WsgW|]f)
+
+"waffle"
+% CONCRETE MATERIAL FOOD
+(Wlb]zI)
+
+"wag"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|AUbIBsIfA|)
+# ^play wag (VERB) : QsGbDAjIUfA^bGb
+
+"wag"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^zDGzIA|)
+
+"wage"
+% MATERIAL ECOLIFE
+(W|QAzQ)
+# at a wage of a week (PP->ADV) : XsAzR 30 GbIIfIl
+# at the wages of a week (PP->ADV) : XsAzR 30 GbIIfIl
+# contractual wage (NOUN) : AkWdAXfAzQ
+# efficiency wages (NOUN) : DzWIwIW|QAzQ
+# federal minimum wage (NOUN) : WjDRbW Zl|Xf W|QAzQ
+# guaranteed wage (NOUN) : RlXzWXfAzQ
+# iron law of wages (NOUN) : W|QAzQZfIZ|A
+# nominal wages (NOUN) : QjWQlAW|QAzQ
+# minimum wages (NOUN) : RfRXfW Zl|Xf W|QAzQ
+# real wages (NOUN) : U|IX|I W|QAzQ
+# starvation wages (NOUN) : A|WbW|QAzQ
+# sustenance wages (NOUN) : UcW^lbIWwX|W|QAzQ
+# wage and salary costs (NOUN) : W|QAzQ[lUz\z
+# wage control (NOUN) : W|QAzQ\lWXg
+# wage differential (NOUN) : W|QAzQAjAZb
+# wage drift (NOUN) : UsGbWX|RsI
+# wage explosion (NOUN) : W|QAzQ]lARbI
+# wage freeze (NOUN) : W|QAzQGlWAjI
+# wage goods (NOUN) : W|QAzQXc
+# wage increase (NOUN) : W|QAzQUbWUzW
+# wage pause (NOUN) : W|QAzQWz| AlXfW
+# wage rate (NOUN) : W|QAzQIwI
+# wage unit (NOUN) : W|QAzQGbDWs|
+# wages and salaries (NOUN) : W|QAzQ
+
+"wage-by-age"
+(WjDIjWAzRWj)
+# wage-by-age system (NOUN) : DjDIjWAzRXg
+
+"wage-for-age"
+(WjDIjWAzRWj)
+# wage-for-age rule (NOUN) : DjDIjWAzRXg
+
+"wage-fund"
+(W|QAzQA|AzQ)
+
+"wage-lag"
+(W|QAzQU|Zb)
+# wage-lag hypothesis (NOUN) : W|QAzQU|ZbUfI
+
+"wagefund"
+% ECOLIFE
+(W|QAzQ A|AzQ)
+
+"wagelessness"
+(QsRlUs)
+
+"wager"
+% MATERIAL 
+(DlIzQ)
+# ^lay a wager (VERB) : DcA|IzI ^bGb
+# ^fix a person's wager (VERB) : DbQWgAg RlAUs^bGb
+# ^hitch ONE_S  wager to a star (VERB) : [zD ]lRsIzI ]sQGb
+
+"wagesfund"
+% ECOLIFE
+(W|QAzQ A|AzQ)
+
+"waggon"
+(4 IwDX|QQbZb)
+
+"wagnerism"
+(WlbAzDf ]sW)
+
+"wagon"
+% CONCRETE MATERIAL 
+(4 IwDX|QQbZb)
+
+"wagoner"
+% HUMAN
+(QbRs)
+
+"wagonette"
+(WwIbQQbZb)
+
+"waif"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbWIbWXb)
+
+"wail"
+% CONCRETE MATERIAL MIND
+(R|\bD)
+
+"wailer"
+% HUMAN
+(WsIRsX|XDzD UbIbQ)
+
+"wainscot"
+% CONCRETE MATERIAL 
+(DfI)
+
+"wainscoting"
+% CONCRETE MATERIAL 
+(RjA]bD XcIr)
+
+"wainwright"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|QQbZb XgXbAXb)
+
+"waist"
+% CONCRETE MATERIAL ANIMAL
+(^fI|)
+# She has no waist (VERB) : ^fI|Ab XfIAs\lWW|Gb
+# waist deep (NOUN ADV) : 1) ^fI| A|]W| 
+		          2) ^fI| A|]W|Wg
+
+"waistband"
+% CONCRETE MATERIAL 
+(^fI|H|)
+
+"waistcloth"
+% CONCRETE MATERIAL 
+(^fI|Wg GsIzDzD ZfD)
+
+"waistcoat"
+% CONCRETE ANIMAL MATERIAL 
+(XlB|)
+
+"waistline"
+% CONCRETE MATERIAL 
+(^fI|Wz| XbIIlA^bD UfD)
+
+"wait-and-see"
+(AlbDQbW)
+
+"waiter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsgW|\f)
+
+"waitering"
+% ACTION
+(U|XsW)
+
+"waiting"
+% ACTION
+(A|GbI|A|)
+# in waiting (PP->ADV) : QlU|Al
+# waiting list (NOUN) : GcA|XbQjWGbD
+# waiting time (NOUN) : GcA|U|AbD
+# waiting time theory (NOUN) : GcA|W|IlD
+
+"waitress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsgW|\zIgUz)
+
+"waiver"
+(AsfDI| ]lA|)
+# waiver clause (NOUN) : QjDZcAXl^bW
+
+"wake"
+% MATERIAL 
+(Rc X|DbAbD XbAsA)
+# in the wake of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) XbAsA<NOUN>]/WzI) HbIz<VERB>]/WfUf)
+# ^take wake (VERB) : GbIzD RcWz| ^bWXfAWzI HbIzGb
+
+"wakerobin"
+% MATERIAL PLANT
+(WjDIjWZlUlAWz| U|AQsI)
+
+"wakeup"
+% ANIMAL
+(HbAHbAsI|)
+
+"waldenses"
+% ORGAN
+(RbIGl]b)
+
+"wale"
+% CONCRETE MATERIAL 
+(WsgW|IXz)
+
+"walk"
+% CONCRETE MATERIAL ACTION
+(AfGA|)
+# ^have a walk (VERB) : UbDZcA^bGb
+# ^go for a walk (VERB) : UbDZcA^bGb
+# || on ONE_S walk back home (PP->ADV) : 
+(ADJUNCT [(ADJUNCT [(ADJUNCT [(POSS ONE/Wz|) X|R<NOUN>]/Il) Wl<VERB>]/^bD) A|I<NOUN>]/Wg)
+# on ONE_S walk back home | (PP->ADV) : 
+(ADJUNCT [(ADJUNCT [(ADJUNCT [(POSS ONE/Wz|) X|R<NOUN>]/Il) Wl<VERB>]/^bD) A|I<NOUN>]/Wg)
+# ^take a walk (VERB) : UbDZcA^bGb
+# walk of life (NOUN) : AkZzW
+
+"walk-on"
+(GbDWjARcWs)
+
+"walkabout"
+% ACTION
+(GlRlWj^cW)
+
+"walkaway"
+(DbAUzW)
+
+"walkdown"
+% PLACE
+(XfX|Gc UbWXfQ)
+
+"walker"
+% CONCRETE ANIMAL MATERIAL 
+(AfGDzD UbIbQ)
+
+"walkielookie"
+(W|GlWWrW \gIIgR|XfD [bQgIb)
+
+"walkietalkie"
+(^wGcWrW QsUfD XfD^lbA|)
+
+"walkin"
+(Gc^jW DcWXbWAl)
+
+"walking"
+% MATERIAL ACTION
+(AfGA|)
+# walking stick (NOUN) : X|]bWW| 
+
+"walkoff"
+(W|IWfDb AbRfI|A|)
+
+"walkon"
+(WjDAzAWz| GbDWjA)
+
+"walkout"
+% MATERIAL ACTION
+(GlWQcW]bWfR)
+
+"walkover"
+% ACTION
+(GlAXs)
+# ^have a wlakover (VERB) : XbAUzW^bGb
+
+"walkthrough"
+% ACTION
+(XfQAfQ)
+
+"walkway"
+% CONCRETE MATERIAL PLACE
+(RlGl)
+
+"wall"
+% CONCRETE MATERIAL PLACE
+(RjA)
+# brick wall (NOUN) : RjAGlIGbQ
+# the wall of suspiction and hate (NOUN) : RsIU|DAlb Q|WsQWz| RjA
+# wall painting (NOUN) : RjA^lb
+# wall Street (NOUN) : WsfI Uz\zI|\z
+# within for walls (PP->ADV) : RbWWbDWgUf
+
+"wallaby"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD [cWAfIsWs)
+
+"wallah"
+% HUMAN
+(UbIbQ)
+# a competition wallah (NOUN) : AjWXcW U|^fQWzIl ZcWrWGl|D AlbDI|
+# a ground wallah (NOUN) : X|UbW AzDQsRjW
+
+"wallboard"
+% CONCRETE MATERIAL 
+(RjARl)
+
+"wallet"
+% CONCRETE ANIMAL MATERIAL 
+(X|AbR)
+
+"walleye"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(Ub]bIHzA|)
+
+"wallflower"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^dWBlZXbWGc)
+
+"wallon"
+% HUMAN
+(WlbIIsD UbIbQ)
+
+"wallow"
+% ACTION
+(G|WAsIA|)
+
+"wallpaper"
+% CONCRETE MATERIAL 
+(RjAX|)
+# wallpaper music (NOUN) : RcA AzIbWsDGz WzQWbA
+
+"walnut"
+% CONCRETE MATERIAL PLANT FOOD
+(^lGl)
+
+"walrus"
+% CONCRETE ANIMAL MATERIAL 
+(^cQb)
+
+"waltz"
+% MATERIAL 
+(WlbIZz)
+
+"wampum"
+(XlAbR| AsUzI)
+
+"wand"
+% CONCRETE MATERIAL
+(X|]bWW|)
+
+"wanderer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^gQcDzD UbIbQ)
+
+"wane"
+% MATERIAL 
+(W|X|IfX|Q)
+# Dow wanes (NOUN) : GbWs AbQUl
+# on the wane (PP->ADV) : W|X|IfX|A| U|XbA^bWj
+# in the wane (PP->ADV) : W|X|IfX|A| U|XbA^bWj
+
+"want"
+% MATERIAL 
+(A|^l)
+
+"wanton"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbIbQGsWW|)
+
+"war"
+% MATERIAL ACTION
+(XfDXcW)
+# art of war (NOUN) : XfDUsI
+# ^be at war (VERB->ADJ) : XfDXcWXsWW|Gb
+# ^be at war with A (VERB->ADJ) : [(ADJUNCT A/Wlb) XfDXcWXsWW|<ADJ>]/Gb
+# ^carry the war into the enemy's camp (VERB) : AlWUgIl DbWbAbGb
+# ^carry the war into the enemy's country (VERB) : AlWUgIl DbWbAbGb
+# cold war (NOUN) : DcWXfD
+# ^declare war against A (VERB) : [(OBJ2 A/WgAg) (OBJ [UfDXfD]lAl<NOUN>]/IzI) 
+^b<VERB>]/Gb
+# ^declare war on A (VERB) : [(OBJ2 A/WgAg) (OBJ [UfDXfD]lAl<NOUN>]/IzI) ^b<VERB>]/Gb
+# ^declare war upon A (VERB) : [(OBJ2 A/WgAg) (OBJ [UfDXfD]lAl<NOUN>]/IzI) 
+^b<VERB>]/Gb
+# Department of War (NOUN) : WsAAsDUfW
+# ^drift into war (VERB) : AcXfD^bA|Wg W|IzGb
+# drought and war (NOUN) : AbQsQAlb XfDXcW
+# ^go to war (VERB) : QsIjAWg ^lUl^bGb
+# ^go to the war (VERB) : ZsIXfW^bGb
+# ^have been in the wars (VERB) : XfD\s AjW^fQW| QbD^Gb
+# limited war (NOUN) : AsAX| XfDXcW
+# all out war (NOUN) : XfDQjD XfDXcW
+# ^make war upon A (VERB) : [(ADJUNCT A/Alb) (OBJ [VbWsQ<NOUN>]/WzI) U|XbA^b<VERB>]/Gb
+# ^wage war upon A (VERB) : [(ADJUNCT A/Alb) (OBJ [VbWsQ<NOUN>]/WzI) U|XbA^b<VERB>]/Gb
+# the war dead (NOUN) : XfDQlI XbWRjW
+# the war to end war (NOUN) : XfDXcWWzI WfRUWcA| Ws|^bD XfDXcW
+# war body (NOUN) : XfDXcW UbUcWWb
+# war debt (NOUN) : XfDXcWRsZc
+# war economy (NOUN) : XfDXcWAjWXg
+# war profit tax (NOUN) : XfDU|W|GzAUg
+# war risk insurance (NOUN) : XfDXcWRl^fQ
+# War between the States (NOUN) : DbQRsA XfDXcW
+# War of Succession (NOUN) : DbQRsA XfDXcW
+# War of Independence (NOUN) : GlAI|R XfDXcW
+# war of nerves (NOUN) : U|DAjWXfD
+# war of words (NOUN) : UfIXfD
+# trade war (NOUN) : QsWjA XfDXcW
+# war without waste (NOUN) : XfIWdA XfDXcW
+# white war (NOUN) : Qs^jI XfDXcW
+# civil war (NOUN) : DcIbD
+# war year (NOUN) : XfDXcW A|AbD
+
+"warble"
+% MATERIAL HUMAN
+(QlAZfWWzI HfIQj DlIc^bDzD UbIbQ)
+
+"warble"
+% MATERIAL ACTION
+(X|XfAs|Q)
+
+"ward"
+% MATERIAL ACTION
+(AbQU|)
+# ^be in ward to A (VERB) : [(OBJ [(POSS A/Wz|) ^sAjD<NOUN>]/WzI) RbGAl W|V<VERB>]/Gb
+# ^be under ward (VERB) : AbQAzQGl|Wf W|VGb
+# ^put a person in ward (VERB) : DbQWzI AbQAzQ^bGb
+# convalescent ward (NOUN) : ^l|RlAA| ^lbDXb RjWGlW
+# critical isolation ward (NOUN) : Ws|AzR ^lbDXb RjWGlW
+# maternity ward (NOUN) : ^l|RlAA| AjAI| RjWGlW
+
+"warden"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsDX|A|)
+
+"warden"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Rc)
+
+"wardenry"
+% HUMAN
+(]bUsAsDWz| X|A)
+
+"wardenship"
+% HUMAN
+(]bUsAsDWz| X|A)
+
+"warder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbDUs)
+
+"wardrobe"
+% CONCRETE MATERIAL 
+(WlUXbW)
+# ^have a large wardrobe (VERB) : WlUW| QbD^Gb
+# wardrobe dealer (NOUN) : ^fDWlU XbWUs
+# wardrobe trunk (NOUN) : Wz|UbW \zIfW[z
+
+"wardroom"
+% PLACE
+(UbAlbDU|I)
+
+"wardship"
+% HUMAN
+(]|^sAjDW|D)
+# ^be under the wardship of A (VERB) : [(OBJ [(POSS A/Wz|) ^sAjD<NOUN>]/WzI) 
+RbGAl W|V<VERB>]/Gb
+# ^have the wardship of A (VERB) : [(OBJ A/WzI) ^sAjD^bAl W|V<VERB>]/Gb
+
+"ware"
+(UbW]sQ)
+
+"warehouse"
+% CONCRETE ANIMAL MATERIAL PLACE
+(ZbWAl)
+# a warehouse receipt (NOUN) : ZbWAl XzWAsfD
+# bonded warehouse (NOUN) : RlUgZbWAl
+# cooperative warehouse (NOUN) : ^jRGlW ZbWAl
+# commercial warehouse (NOUN) : WjWWfRZbWAl
+# distribution warehouse (NOUN) : RcAzRZbWAl
+# warehouse certificate (NOUN) : ZbWAlXzWAsfD
+# warehouse charges (NOUN) : ZbWAlIr
+# warehouse receipt (NOUN) : ZbWAlXzWAsfD
+# warehouse warrant (NOUN) : ZbWAlXzWAsfD
+# warehouse to warehouse clause (NOUN) : ZbWAlAbDAkWdA
+
+"warehouseman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZbWAlAk)
+
+"warehousing"
+% MATERIAL 
+(W|RAl)
+# warehousing company (NOUN) : ZbWAl^l|Ub
+# warehousing industry (NOUN) : ZbWAlWfR
+
+"warfare"
+% MATERIAL STATE
+(ArXfD UbW\c)
+# chemical warfare (NOUN) : ^lb^bAXfD
+# germ warfare (NOUN) : UgAwDXfD
+# psychological warfare (NOUN) : U|QI|XfD
+# guerrilla warfare (NOUN) : AgI|IIbXfD
+
+"warhead"
+% CONCRETE MATERIAL 
+(\bDGs)
+# a nuclear warhead (NOUN) : ^cA\bDGs
+# a multiwarhead missile (NOUN) : Gb\bDGs Q|UbW|I
+
+"warlock"
+% HUMAN
+(QbUsIUb)
+
+"warlord"
+% HUMAN
+(AsDRs X|GlXb)
+
+"warm"
+(HbHzU^bAg ^bA|)
+
+"warmer"
+% CONCRETE ANIMAL MATERIAL 
+(GgWsDzD UbIbQ)
+
+"warmheartedness"
+% MATERIAL 
+(QbWzQV|Ab HbHzU^bQ)
+
+"warming"
+% MATERIAL 
+(HbHzU^bAg ^bA|)
+# ^get a warming (VERB) : QbXGb
+
+"warmingup"
+(WsfQ|WWfR)
+
+"warmonger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfDXcW GlRbIXb)
+
+"warmth"
+% CONCRETE MATERIAL 
+(HbHzU^bQ)
+# with warmth (PP->ADV) : ^zWRsD^bWj 
+
+"warmup"
+% ACTION
+(WsfQ|WWfR)
+# mean global warmup (NOUN) : ]jWAwD X|As WlDGl
+
+"warning"
+% CONCRETE MATERIAL ACTION
+(AjWAl)
+# ^take warning (VERB) : AjWAk^bGb
+# without warning (PP->ADV) : WkAlWfRUW|
+
+"warp"
+% CONCRETE MATERIAL 
+(DbIU|I)
+
+"warpath"
+% PLACE
+(RsAQ| \lW|DWz| ZsIXfWWz| A|I)
+# on the warpath warpath (PP->ADV) : VbWsIjAl
+
+"warplane"
+(AsDWrWA|)
+
+"warrant"
+% CONCRETE MATERIAL 
+(XfWGbW^bD W|Ww)
+# general warrant (NOUN) : W|IRbD AsUlA WjWXbW
+# search warrant (NOUN) : Ab\cA UsUcA WjWXbW
+# warrant bonds (NOUN) : XsU|AQcUsAsfDRsUbZc
+# warrant money (NOUN) : RlXzWAzQ
+# warrant of arrest (NOUN) : AsUlA WjWXbW
+# warrant of attachment (NOUN) : ZbWbR WjWXbW
+# warrant of attachment (NOUN) : ZbWbR WjWXbW
+# warrant of attorney (NOUN) : Ws|W|QXbW
+# with the warrant of a good conscience (PP->ADV) : WdWU|QWg AfI|B|DzD Rb WfRUW| XfWXfWGbWGbW^bAg
+# without a warrant (PP->ADV) : XfWGbW^bD W|WwWfRUW|
+
+"warrantee"
+% HUMAN ECOLIFE
+(]|RlXzWW|D)
+
+"warranter"
+% HUMAN ECOLIFE
+(RlXzWW|D)
+
+"warrantor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlXzWW|D)
+
+"warranty"
+% CONCRETE MATERIAL 
+(AzDAf)
+
+"warren"
+% MATERIAL PLACE
+(\lB| UbWwAXbW)
+
+"warrior"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AsDW|D)
+
+"warship"
+% CONCRETE ANIMAL MATERIAL 
+(AsD^bQ)
+
+"wart"
+% CONCRETE MATERIAL 
+(UbQbAs|)
+# ^point A with his warts (VERB) : [(OBJ [(POSS A/Wz|) UfDWbA<NOUN>]/WzI) 
+(MODS [W|VDzD AzGcIl<ADV>]) QrUb^b<VERB>]/Gb
+
+"wartime"
+% MATERIAL TIME
+(XfDU|)
+# wartime economy (NOUN) : XfDU|AjWXg
+# wartime profit tax (NOUN) : XfDU|W|GzAUg
+
+"wash"
+% CONCRETE MATERIAL 
+(V|UA|)
+# wash sale (NOUN) : AbXbWQcQc
+
+"wash-up"
+% ACTION
+(SbIIc)
+
+"washbasin"
+% CONCRETE ANIMAL MATERIAL 
+(UgQjDA|)
+
+"washboard"
+% CONCRETE ANIMAL MATERIAL 
+(SbIIc]bD)
+
+"washbowl"
+% CONCRETE ANIMAL MATERIAL 
+(UgQjDA|)
+
+"washday"
+% ACTION
+(Ug\bAW|I)
+
+"washdown"
+(QbIBzQ^| V|UA|)
+
+"washer"
+% CONCRETE ANIMAL MATERIAL 
+(Ug\bAA|)
+
+"washerdryer"
+(AfDXlA|Ab HbII|D XfDA| Ug\bAA|)
+
+"washerman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ug\bAWfRXb)
+
+"washerwoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ug\bARs)
+
+"washeteria"
+% PLACE
+(UgI]z VfR|Uz Ug\bAXbW)
+
+"washhouse"
+% PLACE
+(Ug\bAUl)
+
+"washiness"
+(QsIA|Ab QbD^WzQ)
+
+"washing"
+% MATERIAL 
+(V|UA|)
+# the washing $ (NOUN) : Ug\bAQsI
+
+"washington"
+% PLACE
+(WsfU|W\lD)
+# washington D.C. (NOUN) : WsfU|W\lD
+
+"washingtonian"
+% HUMAN
+(WlbU|W\fD XsQ|D)
+
+"washout"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwU|I)
+
+"washroom"
+% PLACE
+(UgQjDU|I)
+
+"washstand"
+(UgQjDGc)
+
+"washtub"
+% CONCRETE MATERIAL 
+(SbIIc GcWd)
+
+"washwoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ug\bARs)
+
+"wasp"
+% CONCRETE ANIMAL MATERIAL 
+(QbIRfI)
+
+"wassail"
+% CONCRETE MATERIAL 
+(XsWjD)
+
+"wassail"
+% CONCRETE MATERIAL 
+(ZbQUfAXb)
+
+"wastage"
+% MATERIAL 
+(UlQl)
+
+"waste"
+% CONCRETE MATERIAL 
+(VzIgA|)
+# the wastes of mud (NOUN) : X|D^zIA RfI]bD
+# ^run to waste (VERB) : ]kQsIW| Gl|Gb
+# ^go to waste (VERB) : ]kQsIW| Gl|Gb
+# waste of time (NOUN) : U|AbDWz| DbWR|
+
+"wastebasket"
+% CONCRETE ANIMAL MATERIAL 
+(^wX|\lW)
+
+"wastebook"
+(W|IA|XbW)
+
+"wasteland"
+% MATERIAL PLACE
+(RsIQlWz| HbW)
+
+"wastepaper"
+(^wX|)
+# a wastepaper basket (NOUN) : ^wX|\lW
+
+"waster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbWR|Xb)
+
+"wastewater"
+(]kUs)
+
+"wastrel"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbWR|Xb)
+
+"watch"
+% CONCRETE MATERIAL 
+(U|Ak)
+# ^keep watch (VERB) : QbWRlGb
+# ^keep the watch (VERB) : GbWX|AWzI UfGb
+# medical watch (NOUN) : Wz|IrX|DWz| Rl^l
+# on the watch for A (PP->ADV) : [(OBJ A/WzI) (MODS [WfQ^|<ADV>]) AjWAk^b<VERB>]/^bWj)
+# port watch (NOUN) : Xlb ^jD GbWX|A
+# record watch (NOUN) : A|IlA U|Ak
+# starboard watch (NOUN) : Ws ^jD GbWX|A
+# watch and ward (NOUN) : WfQXsW^bD AjWAk
+# watch case (NOUN) : ^l|XsW U|AkWz| BfRGgA|
+# watch man (NOUN) : AjWR|WsfD
+# watch tower (NOUN) : QbWIs
+# || it ^be NUM1 by ONE_S watch (SENT) : 
+[(ADJUNCT [(POSS ONE/Wz|) U|Ak<NOUN>]/IlDzD) (COMP [(NMODS NUM1{+DGTNUM}) 
+U|<NOUN>]) _<ADJ>]<W|>/Gb
+
+"watchband"
+% CONCRETE MATERIAL
+(UlDQlA U|Ak XsI)
+
+"watchberth"
+% CONCRETE MATERIAL
+(GbWRfDZ|QGc)
+
+"watchcase"
+% CONCRETE MATERIAL
+(^l|XsW U|AkWz| BfRGgA|)
+
+"watchcry"
+(AzQWfD)
+
+"watchdog"
+% CONCRETE ANIMAL MATERIAL 
+(X|R X|[|DzD Ac)
+
+"watcher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbDZbIXb)
+# company watcher (NOUN) : ^l|Ub AlbDZbIXb
+
+"watchet"
+(GbQZfWUcA)
+
+"watchglass"
+(^l|XsW U|AkWz| WwI| HsBfW)
+
+"watchhouse"
+(]bUsQbA)
+
+"watchkeeper"
+% HUMAN
+(]bUsBsD)
+
+"watchkeeping"
+% ACTION
+(GbWRfD)
+
+"watchmaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|Ak XgXlW|D)
+
+"watchmaking"
+(U|Ak XgXl)
+
+"watchman"
+% HUMAN
+(AjWR|WsfD)
+# watchman expenses (NOUN) : UsWs|R|
+
+"watchout"
+% ACTION
+(QbWRlA|)
+
+"watchtower"
+% PLACE CONCRETE MATERIAL
+(QbWIs)
+
+"watchword"
+% ART 
+(WbQ^l)
+
+"water"
+% CONCRETE MATERIAL 
+(QsI)
+# || still waters run deep (SENT) : (DECL [XbDXbD^bD QsIW| A|]<ADJ>]/Gb)
+# cold water (NOUN) : ZbAbWsD QsI
+# ^cross the waters (VERB) : RbGbIzI AfDDfGb
+# drinking water (NOUN) : WzQIrUs
+# fresh water (NOUN) : GbQUs
+# make ONE_S mouth water (VERB) : [(ADJUNCT [(POSS ONE/Wz|) W|R<NOUN>]/Wg) (SCOMP [AsDZ|Q<NOUN>]/W|) GlIAg ^b<VERB>]/Gb
+# perfumed water (NOUN) : ^dWUsQsI
+# running water (NOUN) : ^zIzDzD QsI
+# salt water (NOUN) : RbGbUQsI
+# soda water (NOUN) : UlWlGbUs
+# sweet water (NOUN) : QbIAWzD QsI
+# the blue water (NOUN) : RbGb
+# water closet (NOUN) : ^lbXbWU|I
+# water cycle (NOUN) : QsIWz| UsD^lbD XsA|
+# water level (NOUN) : UsWs|
+# water power station (NOUN) : UsIjARbIXfDUl
+# water quality (NOUN) : UsX|I
+# water quality standards (NOUN) : UsX|IA|XsD
+# water right (NOUN) : UsI|AsfD
+
+"waterbuck"
+% CONCRETE ANIMAL MATERIAL 
+([zD WjWWdW)
+
+"waterbury"
+(AbRUVbD U|Ak)
+
+"watercolor"
+% CONCRETE MATERIAL 
+(UsZc^lb)
+
+"watercolorist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsZc^lbAb)
+
+"watercourse"
+% CONCRETE MATERIAL 
+(QsIXsIA|)
+
+"watercraft"
+(UsUbW A|UsI)
+
+"waterdrinker"
+% HUMAN
+(AlbWZfDUsIzI QbU|DzD UbIbQ)
+
+"waterfall"
+% CONCRETE MATERIAL PLACE
+(]lA]l)
+
+"waterfinder"
+% HUMAN
+(UsQcAWzI ZbXDzD UbIbQ)
+
+"waterfowl"
+% CONCRETE ANIMAL MATERIAL 
+(QsIUc)
+
+"watergate"
+(Wsf\fAgW|\z UbAfD)
+
+"wateriness"
+% CONCRETE MATERIAL 
+(QsIIl W|IsWfX|Q)
+
+"waterman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbIsURc UbAlW)
+
+"watermanship"
+(RcXfUDzD A|UsI)
+
+"watermark"
+% CONCRETE MATERIAL 
+(UsWs|]r)
+
+"watermelon"
+% CONCRETE MATERIAL PLANT FOOD
+(UsRbA)
+
+"waterpower"
+% MATERIAL 
+(UsIjA)
+
+"waterproof"
+(RbWUsRlA)
+
+"waterscape"
+(QsIW| W|VDzD ]sWAjW)
+
+"watershed"
+% MATERIAL 
+(RsDUsAk)
+
+"watershoot"
+(RcUsAlbD)
+
+"waterside"
+% PLACE
+(QsIAb)
+
+"waterskin"
+(QsIWzI DbIzDzD AbXsA)
+
+"waterspout"
+% MATERIAL 
+(^lQ\lW AsQfW)
+
+"watersupply"
+(UbWUsGl)
+
+"waterwaving"
+(QsIWzI VfUf QfI|IzI WsgW|RzX|Ag ^bDzD RbWRfR)
+
+"waterway"
+% CONCRETE MATERIAL PLACE
+(UsIl)
+
+"waterworks"
+% MATERIAL 
+(UbWUsGl)
+# ^turn on the waterworks (VERB) : DsDQsI ^zII|Gb
+
+"watt"
+% CONCRETE UNIT MATERIAL 
+(Wlb\z)
+
+"wattage"
+% MATERIAL 
+(Wlb\zIdW)
+
+"watthour"
+(Wlb\z U|)
+
+"wattle"
+% CONCRETE ANIMAL MATERIAL 
+(AbDzD DbQsUAbX|IzI WjBWf QbDGzD AfU)
+
+"wattmeter"
+(Wlb\zAk)
+
+"wave"
+% CONCRETE MATERIAL 
+(]bGl)
+# ^attack in waves (VERB) : ]bGlZfIfQ Q|IIjWlGb
+# electromagnetic wave (NOUN) : XfDXb]b
+#' in waves (PP->ADV) : ]bGlZfIfQ
+# radar waves (NOUN) : IgW|Gb XfD]b
+# short wave (NOUN) : GbD]b
+# sound wave (NOUN) : WzQ]b
+# the golden waves of grain (NOUN) : AlAU|AWz| ^lbWAzQ QsIAjI
+# with a wave of ONE_S  hand (PP->ADV) : UlDWzI ^zDGzIWf
+
+"waveband"
+(Xs]bUsGc)
+
+"wavefront"
+(]bGsQjD)
+
+"wavelength"
+(]bXbW)
+
+"wavelet"
+% MATERIAL 
+(XbDQsIAjI)
+
+"wavemeter"
+(]bXbWAk)
+
+"waver"
+% MATERIAL 
+(QbWUfIW|Q)
+# ^be upon waver (VERB) : XsXf^bAl W|VGb
+
+"waverer"
+% HUMAN
+(QbWUfIW|DzD UbIbQ)
+
+"wax"
+% CONCRETE MATERIAL 
+(Q|IIbR)
+# ^be in a wax (VERB) : ^lbAbDb W|VGb
+# ^get into a wax (VERB) : RbIBzD UfWDcGb
+# ^put a person in a wax (VERB) : DbQWzI RbIBzD UfWDbAg ^bGb
+
+"waxiness"
+(ZbWRcA^bQ)
+
+"waxwing"
+% CONCRETE ANIMAL MATERIAL 
+(WjUcAlbWz| Uc)
+
+"waxwork"
+% CONCRETE MATERIAL 
+(Q|IIbR UgAlW)
+
+"way"
+% CONCRETE MATERIAL HOMONYM
+(RbWRfR)
+# that way (NOUN ADV) : 1) XfA|I
+			2) AzIfD U|AWzIl
+# ONE_S way out (NOUN) : DbAbDzD A|I
+# a long way (ADV) : QfII|
+# a long way ahead (PP->ADV) : XfDRbWWzIl QfII|
+# a long way off (NOUN ADV) : 1) QfD AlU
+                              2) QfDAlUWg
+# a short way (NOUN ADV) : 1) YbIRWzD A|I 
+			   2) XbQBbD
+# a way to A (NOUN) : [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/^bDzD) A|I<NOUN>]
+# ^be ONE_S way out (VERB->ADJ) : UbIbXj AbAl W|VGb
+# ^be in a bad ways (VERB->ADJ) : AfDAbWW| U|D\lWZ| WbD^Gb
+# ^be in a great way (VERB->ADJ) : QlRU| ^zWRsD^c W|VGb
+# ^be in a way (VERB->ADJ) : ^zWRsD^c W|VGb
+# ^be in the way (VERB) : AbIlQbAGb
+# ^be on ONE_S way $ (VERB->ADJ) : [(ADJUNCT [A|I<NOUN>]/Wg) W|V<ADJ>]/Gb
+# ^be on ONE_S way home $ (VERB->ADJ) : X|RWg AbDzD XsWW|Gb
+# ^be the way out $ (VERB->ADJ) : DbAbDzD XsWW|Gb
+# ^be under way $ (VERB->ADJ) : X|D^cWXsWW|Gb
+# by the way (PP->ADV) : AzIfDGg
+# ^go the way of all flesh (VERB) : UbIbX|Gb
+# in a way (PP->ADV) : WfHfD QjDWgUf
+# in any broad way (PP->ADV) : WfHfD DfIRWzD Wz|Q|WgUfGl
+# in many ways (PP->ADV) : WjIf QjDWgUf
+# in other ways (PP->ADV) : GbIzD QjDWgUf
+# in some ways (PP->ADV) : WfHfD QjDWgUf
+# in that way (PP->ADV) : AzIfDU|AWzIl
+# in the same way (PP->ADV) : Ab\WzD RbWU|AWzIl
+# ^make ONE_S way to A (VERB) : [(ADJUNCT A/WzIl) Ab<VERB>]/Gb
+#' on ONE_S way $ (PP->ADV) : A|IWg
+# on ONE_S way back $ (PP->ADV) : GlIWbWlDzD A|IWg
+# on ONE_S way back A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) GlIWbAb<VERB>]/DzD) A|I<NOUN>]/Wg)
+# on ONE_S way back to A (PP->ADV) : 
+  [(RELCL [(ADJUNCT A/Il) GlIWbWl<VERB>]/DzD) A|I<NOUN>]/Wg
+# on ONE_S way from A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/WgUf) 
+Wl<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+# on ONE_S way home $ (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT [(POSS ONE/Wz|) X|R<NOUN>]/Wg) Ab<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+# on ONE_S way home from A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT [(POSS ONE/Wz|) X|R<NOUN>]/Wg) Ab<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+# on ONE_S way to A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/^bDzD) GlXsW<NOUN>]/Wg)
+# ^be on ONE_S way to A (VERB->ADJ) : [(COMP [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/^bDzD) GlXsW<NOUN>]) _<ADJ>]<W|>/Gb
+# on the way | (PP->ADV) : A|IWgUf
+# || on the way back (PP->ADV) : GlIWbWlDzD A|IWg
+# on the way back to A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) GlIWbWl<VERB>]/^bDzD) A|I<NOUN>]/Wg)
+# on the way home | (PP->ADV) : X|RWg AbDzD A|IWg
+# on the way to A (PP->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) Ab<VERB>]/DzD) A|I<NOUN>]/Wg)
+# one way or another (ADV) : WfHf^Ag ^cUfGzDX|
+# the same way as SENT (NOUN) : [(RELCL [(ADJUNCT [(RELCL SENT/^bDzD) AfU<NOUN>]/Alb) Ab\<ADJ>]/^bD) RbWRfR<NOUN>]
+# the way back $ (NOUN) : GlIWbAbDzD A|I
+# this way (NOUN ADV) : 1) W| RbWRfR
+                        2) W| RbWRfRWzIl
+# way of the world (NOUN) : UgUbW ]sWUzR 
+# way of business (NOUN) : X|AWfR
+# way to PRESP (NOUN) : [(RELCL PRESP/^bDzD) A|I<NOUN>] 
+# way of healing (NOUN) : Z|IrRfR
+# way of life (NOUN) : UcW^lbI RbWRfR
+# way of living (NOUN) : UcW^lbI RbWU|A
+# way of thought (NOUN) : UbAl RbWU|A
+# way over at the side (ADV) : XfYlA Wj]WgUf
+# ^have a way of building (VERB) : ^jWUfWGl|Gb
+
+"way1nn"
+(QjD)
+
+"waybill"
+% CONCRETE MATERIAL 
+(UzWAcA QjWRs)
+
+"wayfarer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbAzDg)
+
+"wayleave"
+(\lW^cWAsfD)
+
+"wayside"
+% PLACE
+(A|IAb)
+# ^go by the wayside (VERB) : RfI|QRbGGb
+
+"waywardness"
+(XgQfUGcIl ^bQ)
+
+"waystation"
+(XsWAkWjA)
+
+"waywisdom"
+(A|IWg RbIAWzQ)
+
+"wayzgoose"
+(Ws|Il^l|)
+
+"weakfish"
+% CONCRETE ANIMAL MATERIAL 
+(U|AWrW QsIAlA|)
+
+"weakling"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^fWdA^bD UbIbQ)
+
+"weakness"
+% CONCRETE MATERIAL 
+(WdA^bQ)
+# weakness abroad (NOUN) : ^cWl| WdAXfQ
+
+"weal"
+% MATERIAL 
+(RfDWjW)
+# for the general weal (PP->ADV) : W|IRbDWz| RlAI|IzI Ws|^bWj
+# for the public weal (PP->ADV) : AlWAlWWz| RlAI|IzI Ws|^bWj
+# in weal and woe (PP->ADV) : ^cWRlAWgDb XcDbDWgDb
+# in weal or woe (PP->ADV) : ^cWRlAWgDb XcDbDWgDb
+
+"weald"
+% PLACE
+(AlbWWd)
+
+"wealth"
+% ECOLIFE
+(Rs)
+# ^gather wealth (VERB) : XcUbDWzI QlWzGb
+# ^attain to wealth (VERB) : XcUbDWzI QlWzGb
+# wealth and balance sheets (NOUN) : AsAQ|DAjWXgGcZbGcXl]r
+# wealth and position (NOUN) : RsWlb X|Ws|
+# wealth tax (NOUN) : RsUlAUg
+
+"wean"
+% HUMAN
+(WfI|DWbW|)
+
+"weanling"
+% HUMAN
+(XfX HfIWfX|D WbW|)
+
+"weapon"
+% CONCRETE MATERIAL 
+(QsA|)
+# a conventional weapon (NOUN) : XcIcU|A QsA|
+# a nuclear weapon (NOUN) : ^cA QsA|
+# a deadly weapon (NOUN) : ^wWA|
+
+"weaponeer"
+% HUMAN
+(^cAQsA|IzI RbIUb^bDzD UbIbQ)
+
+"weaponry"
+% CONCRETE ANIMAL MATERIAL 
+(RjWA|)
+
+"wear"
+% MATERIAL 
+(ZbAWrW)
+
+"wearable"
+(Wz|RlA)
+
+"wearer"
+% HUMAN
+(ZbAWrWXb)
+
+"weariness"
+% CONCRETE MATERIAL 
+(]|Il)
+
+"weasand"
+(A|AlbD)
+
+"weasel"
+% CONCRETE ANIMAL MATERIAL 
+(XlAXgR|)
+# ^catch a weasel asleep (VERB) : WdAWzD UbIbQWzI UlAW|Gb
+# weasel words (NOUN) : HzUW| WcQc^bD QbI
+
+"weather"
+% MATERIAL 
+(DbIV|)
+# King's weather (NOUN) : [lcZfW
+# Queen's weather (NOUN) : [lcZfW
+# Weather permitting (ADV) : DbIV|QbD Xl^WzQjD
+# cooler-than-normal weather (NOUN) : ]jWDjDRlGb U|WsfD^bD DbIV|
+# ^dance and sing all weathers (VERB) : ^jWUgIzI UbI]|Gb
+# dirty weather (NOUN) : AsXWzD DbIV|
+# fair weather (NOUN) : AcW|D DbIV|
+# favorable weather (NOUN) : Xl^WzD DbIV|
+# fine weather (NOUN) : AcW|D DbIV|
+# in all weathers (PP->ADV) : WfHfD DbIV|WgGl
+# ^keep ONE_S  weather eye open (VERB) : AjWAk^bAl W|VGb
+# ^keep the weather (VERB) : RbIbQ RsIWf WlDzD YlAWg W|VGb
+# lovely weather (NOUN) : WbIzQGbWsD DbIV|
+# ^make bad weather (VERB) : ]lA]sWWzI QbDDbGb
+# ^make fair weather (VERB) : WbZfQ^bGb
+# ^make good weather (VERB) : Xl^WzD DbIV|IzI QbDDbGb
+# ^make heavy weather of A (VERB) : [(ADJUNCT A/Wg) U|GbII|<VERB>]/Gb
+# rough weather (NOUN) : AsXWzD DbIV|
+# settled weather (NOUN) : AkUlA^bWj AcW|D DbIV|
+# spring weather (NOUN) : RlQDbIV|
+# under stress of weather (PP->ADV) : ]lA]sWWs HcQsDWg
+# under the weather (PP->ADV ADJ) : 1) QlQW| RsI]jD^bWj 
+2) QlQW| RsI]jD^bGb
+# weather broadcasting (NOUN) : W|IA|WkRl
+# weather forecasting (NOUN) : W|IA| WkRl 
+# weather information (NOUN) : A|UbW XfWRl
+# || what is the weather like | (SENT) : (QUES [(SUBJ [DbIV|<NOUN>]/DzD) WfHf^<ADJ>]/Gb)
+
+"weather-breeder"
+(Xl^WzD DbIV|)
+
+"weatherboard"
+% CONCRETE MATERIAL 
+(R|DzI]bD)
+
+"weathercast"
+(W|IA|WkRl)
+
+"weathercaster"
+% HUMAN
+(W|IA|WkRlXb)
+
+"weathercock"
+(GbIA QlWdWWz| ]sW^dWAk)
+
+"weatherglass"
+(ZfWWsAk)
+
+"weathering"
+(]sW^lb)
+
+"weatherman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(A|UbW \lWRlAlbD)
+
+"weaver"
+% CONCRETE ANIMAL MATERIAL 
+(YbDzD UbIbQ)
+
+"web"
+% CONCRETE MATERIAL ORGAN
+(WsgR[X|AQsI])
+# web defense (NOUN) : AfQ|X|R Ab\WzD RbWWf
+# web of lies (NOUN) : AfX|UQbI\sUfWW|Wz| W|WdA|
+# web of railways (NOUN) : ZfIGlQbW
+# web site (NOUN) : WsgR UbW|\z
+
+"webbing"
+% CONCRETE MATERIAL 
+(H|BzD)
+
+"webfoot"
+% CONCRETE MATERIAL 
+(QsIAbI[s| RbI)
+
+"website"
+% PLACE
+(WsgRUbW|\z)
+
+"wedding"
+% MATERIAL 
+(AjI^lDU|A)
+# the silver wedding (NOUN) : WzD^lDU|A
+# the golden wedding (NOUN) : AzQ^lDU|A
+# the diamond wedding (NOUN) : GbW|WbQlDGz^lDU|A
+
+"wedge"
+% CONCRETE MATERIAL 
+(VlcA|)
+
+"wedgie"
+% CONCRETE ANIMAL MATERIAL 
+(Gs|BsQZ|Ab VlcA| QlWdWWz| WjXb AsGs)
+
+"wedin"
+(X|RGbD AjI^lD)
+
+"wedlock"
+% MATERIAL 
+(AjI^lD UcW^lbI)
+
+"wednesday"
+% TIME
+(UsWrW|I)
+# Good Wendesday (NOUN) : UfWUsWrW|I
+# Holy Wendesday (NOUN) : UfWUsWrW|I
+
+"weed"
+% CONCRETE MATERIAL PLANT
+(XbRZl)
+# the soothing weed (NOUN) : GbQRc
+# the fragrant weed (NOUN) : GbQRc
+# the Indian weed (NOUN) : GbQRc
+
+"weeder"
+% HUMAN
+(]sI SlRDzD UbIbQ)
+
+"weedicide"
+(XgZlXg)
+# a week (NOUN ADV) : 1) W|IXs 
+		      2) XsGbW
+
+"week"
+% CONCRETE TIME MATERIAL 
+(Xs)
+# Fire Prevention Week (NOUN) : RsIXlU|Q AbWXl XsAbD
+# Monday week (NOUN) : DcXsWz| WsfIWrW|I
+# NUM1 days a week (ADV) : [(MODS [W|IXsW|IWg<ADV>]) (NMODS NUM1) W|I<NOUN>]
+# NUM1 times a week $ (ADV) : [(MODS [W|IXsW|IWg<ADV>]) (NMODS NUM1) RfD<NOUN>]
+# NUM1 to NUM2 weeks (NOUN) : [(NMODS [(ADJUNCT NUM1/WgUf) NUM2]) Xs<NOUN>]
+# What day of the week is it (VERB) : (QUES [(SUBJ [WlDzI<NOUN>]/WzD) QsUzD WrW|IW|<ADJ>]/Gb)
+# a week (NOUN ADV) : 1) W|IXsW|I 
+		      2) W|IXsW|IWg
+# a week about (NOUN) : AjAXsIl
+# a week from now (NOUN) : DcXsWz| WlDzI
+# a week of Sundays (NOUN) : 7 XsAbD
+# a week of day (NOUN) : AlUzIbD^| XsW|IAbD
+# a week of weeks (NOUN) : 7 XsAbD
+# a week or more | (NOUN) : ^bDXsW|I ^lAWzD Az W|UbW
+# a week or so $ (NOUN) : ^bDXsW|I ^lAWzD Az W|UbW
+# a few weeks (NOUN) : QjZXs
+# at week end (PP->ADV) : XsQbIWg
+# by the week (PP->ADV) : XsGbW
+# end of the week (NOUN) : XsQbI
+# every NUM1 week (ADV) : 
+  (ADJUNCT [(MODS [Qc<ADV>]) (NMODS NUM1) Xs<NOUN>]/QbGb)
+# for weeks $ (PP->ADV) : WjIfXs GlWWbD
+# in recent weeks (PP->ADV) : X|DbD QjZXsAbD
+# into next week (PP->ADV) : ^lGl|Ag
+# last week (NOUN) : X|DbD Xs 
+# next week (NOUN) : GbWzQ Xs 
+# | opening this week $ (ADV) : W|RfDXs GzIWf
+# sometime next week (NOUN) : GbWzQXs WfDzHc
+# this day week (NOUN) : DcXsWz| WlDzI
+# this week (NOUN) : W|RfD Xs
+# today week (NOUN) : DcXsWz| WlDzI
+# too late a week (ADV) : DfQs DzXWf
+# week after week (NOUN) : ^bDXs ^bDXs
+# week and week about (ADV) : AjAXsIl
+# week end (NOUN) : XsQbI
+# week in week out (NOUN) : QcXs
+# weeks ago (ADV) : WjIfXs XfDWg
+# yesterday week (NOUN) : X|DbDXs WfXg
+
+"weekday"
+% CONCRETE TIME MATERIAL 
+(]jWW|I)
+
+"weekend"
+% CONCRETE TIME MATERIAL 
+(XsQbI)
+# Thanksgiving weekend (NOUN) : ZsUsAbQUb XsQbI
+# last weekend (NOUN) : X|DbD XsQbI 
+# this weekend (NOUN) : W|RfD XsQbI 
+
+"weekly"
+(XsAbDX|)
+# weekly basis (NOUN) : XsAzR RbWRfR
+
+"weeknight"
+% TIME
+(]jWW|I RbQ)
+
+"weep"
+% ACTION
+(WsIA|)
+
+"weeper"
+% HUMAN
+(WsDzD UbIbQ)
+
+"weepie"
+% ART
+(AbQUbWXfAW|D ZcA)
+
+"weeping"
+% MATERIAL 
+(WsIA|)
+
+"weepy"
+% ART
+(AbQUbWXfAW|D ZcA)
+
+"weever"
+% ANIMAL FOOD
+(U|AWrW RbGbUQsIAlA|)
+
+"weevil"
+% CONCRETE ANIMAL MATERIAL 
+(RbAsQ|AlbWz| AbAXlW AlDZsW)
+
+"weft"
+% CONCRETE MATERIAL 
+(V|U|I)
+
+"weigh"
+(XfWsIX|I^bA|)
+
+"weighbridge"
+(AkIdWGc)
+
+"weigher"
+% HUMAN
+(QsAgIzI GbDzD UbIbQ)
+
+"weighhouse"
+% PLACE
+(^lbQsI AkIdWUl)
+
+"weighin"
+(ZgXsWAfQUb)
+
+"weighlock"
+(AkIdW UsQsD)
+
+"weight"
+% CONCRETE MATERIAL 
+(QsAg)
+# ^gain weight (VERB) : ZgXsWW| DzIGb 
+# ^lose weight (VERB) : ZgXsWW| XsIGb
+# least current weight (NOUN) : \lW^lb Zl|AjWIdWZ|
+# weight cargo (NOUN) : XsWIdW^lbQsI
+
+"weightiness"
+% CONCRETE MATERIAL 
+(QsAfWsQ)
+
+"weightlessness"
+% CONCRETE MATERIAL 
+(QsXsWIjA UbW\c)
+
+"weightlifter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjAGlUfDUs)
+
+"weightlifting"
+% MATERIAL 
+(WjAGl)
+
+"weir"
+% CONCRETE ANIMAL MATERIAL 
+(WsgWf)
+
+"weird"
+(WsD)
+
+"weirdie"
+% HUMAN
+(A|Qr^bD UbIbQ)
+
+"weirdy"
+% HUMAN
+(A|Qr^bD UbIbQ)
+
+"weismannism"
+% ART
+(RbW|UzQbD WwXfDUfI)
+
+"welcome"
+% CONCRETE MATERIAL 
+(^lbDWjW)
+# engaging welcome (NOUN) : QcIjAXfAW|D ^lbDWjW
+# ^say welcome to A (VERB) : [(OBJ A/IzI) ^lbDWjW^b<VERB>]/Gb
+# || you are welcome . (SENT) : (DECL [AlcDZbD^<ADJ>]/Gb)
+# || you are very welcome . (SENT) :  (DECL [(MODS [ZfDQbDWg<ADV>]) AlcDZbD^<ADJ>]/Gb)
+
+"weld"
+% CONCRETE ANIMAL MATERIAL PLANT
+(QlAUfZlIw)
+
+"weld"
+% CONCRETE ANIMAL MATERIAL 
+(WrWXfRXfQ)
+
+"welding"
+(WrWXfR)
+# welding rod (NOUN) : WrWXfRRlW
+# welding torch (NOUN) : RbIWjQ AbUzWrWXfRRlW
+
+"welfare"
+% CONCRETE MATERIAL 
+(RlAX|)
+# the Minsstry of welfare (NOUN) : ^sUcWUfW
+# welfare economics (NOUN) : ^sUcWAjWXg^bA
+# welfare economy (NOUN) : ^sUcW AjWXg^bA
+# welfare facilities (NOUN) : RlAX|U|UfI
+# welfare fund (NOUN) : AlWXg A|AzQ
+# welfare institution (NOUN) : RlAX| U|UfI
+# welfare state (NOUN) : RlAX| AsAAb
+# welfare work (NOUN) : Ub^l| RlAX|UbWfR
+# welfare worker (NOUN) : Ub^l|RlAX| UbWfRAb
+# welfare recipient (NOUN) : RlAX| Us^kXb
+
+"welfarism"
+% ART
+(RlAX| AsAAb XfWZcA)
+
+"welkin"
+(^bDzI)
+
+"well"
+% CONCRETE MATERIAL 
+(WsQsI)
+# oil well (NOUN) : WwXfW
+# ^sink a well (VERB) : UcQWzI ]bGb
+
+"well-being"
+(RlAX|)
+
+"well-known"
+# well-known (ADJ) : XbI WbIIjXj W|VGb
+
+"well-to-do"
+% HUMAN
+(XbI UbDzD UbIbQ)
+
+"wellbeing"
+(RlAX|)
+
+"welldoer"
+% HUMAN
+(UfD^cWXb)
+
+"welldoing"
+(UfD^cW)
+
+"wellhead"
+% PLACE
+(UsWsfD)
+
+"wellingtons"
+(QsIzRBbX| WlDzD XbW^lb)
+
+"wellspring"
+% PLACE
+(WsfDZfD)
+# a wellspring of affection (NOUN) : UbIbWWz| UcQ
+
+"wellwisher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQW| XbI Gl|A|IzI R|DzD UbIbQ)
+
+"welsh"
+% HUMAN
+(WsgW|IXz UbIbQ)
+# welsh onion (NOUN) : ]b
+
+"welsher"
+% HUMAN
+(UbA|AsD)
+
+"welt"
+% CONCRETE MATERIAL 
+(GcGbI|)
+
+"weltanschauung"
+(UgAkAlbD)
+
+"welter"
+% ACTION
+(G|WAsIA|)
+
+"welterweight"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]jWAwDZgXsW W|UbWWz| A|Us)
+
+"wen"
+% CONCRETE MATERIAL 
+(^lA)
+# the Great Wen (NOUN) : IfDGfDU|
+
+"wench"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZfDj)
+
+"wend"
+% HUMAN
+(WsgDGzXlA)
+
+"wendic"
+(WsgDGz QbI)
+
+"wendish"
+(WsgDGz QbI)
+
+"werwolf"
+% HUMAN
+(W|I|Ab Gl|D UbIbQ)
+
+"wesleyan"
+% ORGAN
+(WsgUzII|Ar)
+
+"wesleyan"
+% HUMAN
+(WsgXzII|Ar]bWz| ArGl)
+
+"west"
+% CONCRETE MATERIAL 
+(UfYlA)
+# ^sail west $ (VERB) : UfYlAWzIl ^bW^c^bGb
+# ^sail west for A {-UNIT,-TIME,-ANIMAL,-KNUM} (VERB) : [(ADJUNCT [(OBJ A/IzI) ^dW^b<VERB>]/Wf) 
+(ADJUNCT [UfYlA<NOUN>]/Il) ^bW^c^b<VERB>]/Gb
+
+"west-country"
+% HUMAN
+(UfRs X|RbWWz| UbIbQ)
+
+"west-indian"
+% HUMAN
+(UfW|DGl UbIbQ)
+
+"west-southwest"
+(UfDbQUf)
+
+"westerly"
+% MATERIAL 
+(Uf]sW)
+
+"western"
+% PLACE
+(UfRs)
+
+"westerner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfWdWW|D)
+
+"westernization"
+(UfAs^lb)
+
+"westling"
+(Uf^cW AfI|)
+
+"westminster"
+% PLACE
+(U| XsWWbWWz| XbZ|As)
+
+"westward"
+% PLACE
+(UfRsX|RbW)
+
+"wet"
+% MATERIAL 
+(UzRA|)
+
+"wetback"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|AsAWg RsIRfR Q|IW|RAsA^bDzD QgAU|[l UbIbQ)
+
+"wether"
+% ANIMAL
+(AfUg^bD WdW)
+
+"wetland"
+% PLACE
+(UzRX|)
+
+"wetness"
+% MATERIAL 
+(ZsAZsA^bQ)
+
+"wey"
+% UNIT
+(QsAgWz| GbDWs|)
+
+"whack"
+% MATERIAL ACTION
+(As\b)
+# ^get ONE_S  whack (VERB) : XbA| QlAUWzI RbGGb
+# ^have ONE_S  whack (VERB) : XbA| QlAUWzI RbGGb
+# ^take ONE_S  whack (VERB) : XbA| QlAUWzI RbGGb
+# ^have a whack at A (VERB) : [(OBJ A/WzI) (MODS [^bD RfD<ADV>]) QfAWf Rl<VERB>]/Gb
+# ^take a whack at A (VERB) : [(OBJ A/WzI) (MODS [^bD RfD<ADV>]) QfAWf Rl<VERB>]/Gb
+
+"whacker"
+% HUMAN
+([zD UbIbQ)
+
+"whale"
+% CONCRETE ANIMAL MATERIAL 
+(AlIc)
+# a whale on A (NOUN) : [(RELCL [(ADJUNCT A/Wg) (SCOMP [UlQV|<NOUN>]/Ab) R|UbW^b<ADJ>]/^bD) UbIbQ<NOUN>]
+# a whale at A (NOUN) : [(RELCL [(ADJUNCT A/Wg) (SCOMP [UlQV|<NOUN>]/Ab) R|UbW^b<ADJ>]/^bD) UbIbQ<NOUN>]
+# a whale for A (NOUN) : [(RELCL [(ADJUNCT A/Wg) (SCOMP [UlQV|<NOUN>]/Ab) R|UbW^b<ADJ>]/^bD) UbIbQ<NOUN>]
+# arctic whale (NOUN) : ZbQAlIc
+# right whale (NOUN) : ZbQAlIc
+# bull whale (NOUN) : Us AlIc
+# cow whale (NOUN) : WbQ AlIc
+# gray whale (NOUN) : Ul| AlIc
+# humpback whale (NOUN) : ^zA AlIc
+# sperm whale (NOUN) : ^dWWw AlIc
+
+"whaleback"
+(As|AbRAbR]bD)
+
+"whaleboat"
+% CONCRETE ANIMAL MATERIAL 
+(DlXfUDzD RlWs\z)
+
+"whalebone"
+% CONCRETE MATERIAL 
+(AlIcUsWjQ)
+# the whalebone whale (NOUN) : UsWjQAlIc
+
+"whalefin"
+(AlIc UsWjQ)
+
+"whaleline"
+(XbAUbI)
+
+"whaleman"
+% ACTION
+(AlIc XbRDzD UbIbQ)
+
+"whaler"
+% CONCRETE ANIMAL MATERIAL 
+(]lAjWXb)
+
+"whaling"
+% ACTION
+(AlIcXbRW|)
+
+"wham"
+% ACTION
+(AbW^bD \bAjA)
+
+"whammy"
+(RsIWzD)
+
+"whang"
+% ACTION
+(ZbIVbA HcI|A|)
+
+"wharf"
+% CONCRETE ANIMAL MATERIAL 
+(RsGs)
+
+"wharfage"
+% CONCRETE MATERIAL 
+(RsGs UbWrW)
+
+"wharfinger"
+% HUMAN
+(RsGs UlWwXs)
+
+"wharves"
+(RsGsGzI)
+
+"what-is-it"
+(AfU|A|)
+
+"whatfor"
+(W|Ww)
+
+"whatis"
+(AfU|A|)
+
+"whatman"
+(Wlb\zQbD XlWW|)
+
+"wheal"
+% MATERIAL PLACE
+(AlbWUbD)
+
+"wheal"
+% MATERIAL 
+(SrIsX|)
+
+"wheat"
+% CONCRETE MATERIAL FOOD PLANT
+(Q|I)
+# grain of wheat (NOUN) : Q|IWbI
+
+"wheatear"
+% CONCRETE ANIMAL MATERIAL 
+(Q|IW|UbA)
+
+"wheatgrass"
+(^s|W|\z Uz\lD RzI|UX|)
+
+"wheatworm"
+% CONCRETE ANIMAL MATERIAL 
+(Q|I ^cZsW)
+
+"wheel"
+% CONCRETE ANIMAL MATERIAL 
+(Rb[s|)
+# at the next turn of the wheel (PP->ADV) : W|RfDWg WsDW| \zW|QjD
+# ^be at the wheel (VERB) : WsDXfD^bGb
+# ^break a butterfly on the wheel (VERB) : UbUl^bD W|IWg WfQbWfQb^bD UsGbDWzI VzGb
+# Fortune's wheel (NOUN) : WsDQjW
+# wheel of Fortune (NOUN) : WsDQjW
+# ^go on wheels (VERB) : UsDXlIlRAg DbWbAbGb
+# ^run on wheels (VERB) : UsDXlIlRAg DbWbAbGb
+# ^grease the wheels (VERB) : Rb[s|Wg A|IzQWzI Z|Gb
+# steering wheel (NOUN) : WsDXfDGc
+# the man at the wheels (NOUN) : [|XbRW|
+# wheel and axle (NOUN) : WwDZsA
+# wheel of life (NOUN) : ^lbIGlW WrX|AjW
+# wheels of life (NOUN) : W|DZg WjIf A|AlbDWz| A|DzW
+# wheels within wheels (NOUN) : RlAXbR^bD GlWA|
+
+"wheelbarrow"
+% CONCRETE ANIMAL MATERIAL 
+(Wl|Rb[s| UlDUsIg)
+# as drunk as a wheelbarrow (ADV) : AlDGzIg QbDGzIg Zs|^bWj
+
+"wheelbase"
+% CONCRETE MATERIAL 
+(ZsAAf)
+
+"wheelchair"
+% CONCRETE ANIMAL MATERIAL 
+(^s|IZgWf)
+
+"wheeler"
+% CONCRETE ANIMAL MATERIAL 
+(AsIsQbUAsD)
+
+"wheeler-dealer"
+% HUMAN
+(XbWwRsDRbW^bD ^lbIGlWAb)
+
+"wheelhouse"
+% CONCRETE ANIMAL MATERIAL PLACE
+(Xl\bU|I)
+
+"wheeling"
+% MATERIAL 
+(ZbIl DbIzA|)
+# good wheeling (NOUN) : Xl^WzD A|I
+# bad wheeling (NOUN) : DbSzD A|I
+
+"wheelman"
+% HUMAN
+(XbXfDAf \bDzD UbIbQ)
+
+"wheelsman"
+% HUMAN
+(Xl\bUs)
+
+"wheelwright"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsIgRb[s|IzI QbDGzDzD UbIbQ)
+
+"whelk"
+% CONCRETE ANIMAL MATERIAL 
+(SrIsX|)
+
+"whelp"
+% CONCRETE ANIMAL MATERIAL 
+(AbWWbX|)
+
+"when"
+% TIME
+(Hc)
+
+"where"
+% PLACE
+(XbWUl)
+
+"whereabouts"
+% PLACE
+(UlXc)
+
+"wherefore"
+% STATE
+(WsfDW|D)
+
+"wherewithal"
+(]|IWr^bD XbAzQ)
+
+"wherry"
+(DbIsURc)
+
+"whet"
+(AbIA|)
+
+"whetstone"
+% CONCRETE MATERIAL 
+(UsUGlI)
+
+"whey"
+% CONCRETE MATERIAL 
+(WwXbW)
+
+"whiff"
+% CONCRETE ANIMAL MATERIAL FOOD
+(AbXbQ|)
+
+"whiffler"
+% HUMAN
+(XbXs ^cWWs|IzI RbBsDzD UbIbQ)
+
+"whiffletree"
+% HUMAN
+(^s|Az GbWWsfD)
+
+"whiggery"
+% ART
+(^s|AzGbWWz| XsXbW)
+
+"whiggism"
+% ART
+(^s|AzGbWWz| XsXbW)
+
+"while"
+% TIME
+(GlWWbD)
+# a while (NOUN ADV) : 1) XbQU|
+                       2) XbQU|GlWWbD
+# a little while (NOUN) : XbQBbDGlWWbD
+# after a while (PP->ADV) : XbQU|^s
+# all the while (PP->ADV) : AzGlWWbD
+# at whiles (PP->ADV) : W|HbAzQ
+# between whiles (PP->ADV) : AbBzQ
+# for a while (PP->ADV) : XbQU|GlWWbD
+# for a long while (PP->ADV) : WlIcUGlWWbD
+# for a good while (PP->ADV) : WlIcUGlWWbD
+# for one while (PP->ADV) : XbQU|GlWWbD
+# for while (PP->ADV) : XbQU|GlWWbD
+# in a while (PP->ADV) : W|WzAAl
+# ^make a worth person's while (VERB) : DbQWz| UsAlWg RlGbR^bGb
+# once in a while (ADV) : HcHcIl
+# quite a while (NOUN) : ^bDZbQ
+# the while (ADV) : Az GlWWbDWg
+# || while PP | (PP) : (ADJUNCT [(ADJUNCT PP) GlWWbD<NOUN>])
+# || while A |  (PP) : (ADJUNCT [(ADJUNCT PP) GlWWbD<NOUN>])
+# while in A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) W|VDzD GlWWbD<NOUN>]/Wg)
+
+"whim"
+% MATERIAL 
+(RjDGfA)
+# ^take a whim for reading (VERB) : ZcAW|IbGl W|IAAl U|]WzD A|RsDW| DbGb
+# ^have a whim for reading (VERB) : ZcAW|IbGl W|IAAl U|]WzD A|RsDW| DbGb
+
+"whimbrel"
+(XsWRsI|Gl)
+
+"whimper"
+% CONCRETE MATERIAL ACTION
+(^zDzBj WsIA|)
+
+"whimsicallity"
+(RjDGfAUzIfWsQ)
+
+"whimsy"
+(RjDGfA)
+
+"whin"
+(AbU|AzQ)
+
+"whine"
+% CONCRETE MATERIAL 
+([|W[|WGcDzD UlI|)
+
+"whinger"
+(GbDAfQ)
+
+"whinny"
+% MATERIAL 
+(^jDQsWbQ)
+
+"whip"
+% CONCRETE ANIMAL MATERIAL 
+(ZcY|A)
+# whip ster (NOUN) : ZcY|AWzI UbWrW^bDzD UbIbQ
+
+"whip-cord"
+(ZcY|A)
+
+"whiplash"
+% MATERIAL 
+(ZcY|A Bz\Wz| DbAzUDbAzU^bD RsRsD)
+# the whiplash of fear (NOUN) : RsDDlWz| ZcY|A
+
+"whipper"
+% HUMAN
+(ZcY|AX|I^bDzD UbIbQ)
+
+"whipper-in"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbDdWAc GbQGbWXb)
+
+"whippersnapper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfDRbWX|D Wc)
+
+"whippet"
+% CONCRETE ANIMAL MATERIAL 
+(AjWXsWrW Ac)
+
+"whipping"
+% CONCRETE MATERIAL 
+(ZcY|AX|I)
+
+"whippletree"
+(QbAsWz| RlUXsIWzI QcDzD AbIzQGc)
+
+"whipround"
+% ACTION
+(A|Rs QlWzA|)
+
+"whipsaw"
+% CONCRETE ANIMAL MATERIAL 
+(AbDzIAl A|D \lR)
+
+"whipstock"
+(ZcY|AXbIs)
+
+"whir"
+(]|W^bDzD UlI|)
+
+"whirl"
+% MATERIAL 
+(^l|XfD)
+# in a whirl (PP->ADV) : R|WAzI R|WAzI GlIWbUf
+
+"whirlabout"
+(UfD^l|)
+
+"whirling"
+(]cWW|)
+# the whirling of time (NOUN) : U|GcWz| RjDZfD
+
+"whirlpool"
+% MATERIAL 
+(UlWrWGlIW|)
+
+"whirlwind"
+% MATERIAL 
+(UfD]sW)
+# a whirlwind visit (NOUN) : GlIWjD^bD RbWQsD
+# ^reap the whirlwind (VERB) : XbWfRXbGzAWz| Xl|AlbIzI RbGGb
+
+"whirlybird"
+% CONCRETE ANIMAL MATERIAL 
+(^gII|[lR\f)
+
+"whisk"
+% CONCRETE MATERIAL 
+(XbAWzD R|)
+
+"whisker"
+% CONCRETE MATERIAL 
+(AsIgDbIsU)
+
+"whiskey"
+% CONCRETE MATERIAL FOOD
+(Ws|Uz[|)
+
+"whisky"
+% CONCRETE MATERIAL FOOD
+(Ws|Uz[|)
+
+"whisper"
+% CONCRETE MATERIAL ACTION
+(UlAUbAW|Q)
+# a whisper of a perfume (NOUN) : WzDWzD^bD ^dWUsDcQUc
+# ^give the whisper (VERB) : QlIIc As|Hs|Q^bGb
+# in a whisper (PP->ADV) : DbXWzD UlI|Il
+# in whispers (PP->ADV) : DbXWzD UlI|Il
+
+"whisperer"
+% HUMAN
+(UlAUbAW|DzD UbIbQ)
+
+"whist"
+% MATERIAL 
+(^s|Uz\z DlIW|)
+
+"whistle"
+% CONCRETE ANIMAL MATERIAL 
+(^s|]bIbQ)
+
+"whistleblower"
+% HUMAN
+(DbSzD X|U GzWWzI ]lAIl^bDzD UbIbQ)
+
+"whistler"
+% CONCRETE ANIMAL MATERIAL 
+(^s|]bIbQ RsDzD UbIbQ)
+
+"whistlestop"
+(XbAWzD WjA)
+
+"whit"
+% CONCRETE MATERIAL 
+(WdAAbD)
+
+"white"
+% CONCRETE MATERIAL 
+(^z|DUcA)
+# a lady in white (NOUN) : ^z|D WlU W|RWzD WjW|D
+
+"whitebait"
+% CONCRETE ANIMAL MATERIAL 
+(RcWWf)
+
+"whitecap"
+% MATERIAL 
+(^z|D Af]sQW|DzD ]bGl)
+
+"whitefish"
+% CONCRETE ANIMAL MATERIAL FOOD
+(UlWWf)
+
+"whitener"
+% CONCRETE MATERIAL 
+(]rRcAWfRXb)
+
+"whiteness"
+% CONCRETE MATERIAL 
+(^z|Q)
+
+"whitening"
+% MATERIAL 
+(^z|Ag ^bA|)
+
+"whitesmith"
+% HUMAN
+(WdWZfIAlW)
+
+"whitethorn"
+% ANIMAL
+(^s|]bIbQUc)
+
+"whitewash"
+% MATERIAL 
+(UsUfW RcAUcA GlIr)
+
+"whitewing"
+% HUMAN
+(GlIl ZfWUlRs)
+
+"whitewood"
+% PLANT
+(RcAUcAUs)
+
+"whitey"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RcAW|D)
+
+"whither"
+% PLACE
+(^cWUfDX|)
+
+"whiting"
+% CONCRETE MATERIAL 
+(XbAWzD GcAs)
+
+"whiting"
+% CONCRETE MATERIAL 
+(^lRsD)
+
+"whitleather"
+(^z|Al RsGzIfWsD AbXsA)
+
+"whitlow"
+(UcWWbD UlD)
+
+"whitsunday"
+% TIME
+(UfWU|D AbWI|Q ZsAW|I)
+
+"whitsuntide"
+% TIME
+(UfWU|D AbWI|QXfI)
+
+"whittle"
+([zD DbW|]z)
+
+"whiz"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ws|W)
+
+"whiz-bang"
+(Ws|W)
+
+"whizzer"
+% HUMAN
+(Ws|W UlI|IzI DcDzD UbIbQ)
+
+"whodunit"
+% ART
+(ZsI| UlUfI)
+
+"whole"
+% CONCRETE MATERIAL 
+(XfDZg)
+# in whole | (PP->ADV) : XfDRs
+# as a whole $ (ADV ADJ) : 1) XfDZgXfAWzIl
+						   2) XfDZgXfAW|Gb
+
+"whole-length"
+(XfDXbW)
+
+"wholehogger"
+% HUMAN
+(AzAGbDIlDXb)
+
+"wholeness"
+% MATERIAL 
+(XfDZg)
+
+"wholesale"
+% ECOLIFE
+(GlQc)
+# by wholesale (PP->ADV) : GlQcIl
+# at wholesale (PP->ADV) : GlQcIl
+# wholesale and retail distribution system (NOUN) : Ww\lWXgGl
+# wholesale and retail inventories (NOUN) : Ww\lWXcAl
+# wholesale banking service (NOUN) : AfWcAWzD^cWWfRQs
+# wholesale business (NOUN) : GlQcWfR
+
+"wholesaler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlQcUbWW|D)
+
+"whoop"
+(WdWb)
+# not care a whoop (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+
+"whoop-de-do"
+(XbDZ|)
+
+"whoopee"
+(WdGbDRfRUfA)
+# ^make whoopee (VERB) : X|D\bW HfGzIQj DlIGb
+
+"whop"
+% ACTION
+(As\b)
+
+"whopper"
+% HUMAN
+(HcI|DzD UbIbQ)
+
+"whopping"
+% ACTION
+(\c^jW)
+
+"whore"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QcZsDRs)
+
+"whoredom"
+% MATERIAL ACTION
+(QcZsD)
+
+"whorehouse"
+% CONCRETE ANIMAL MATERIAL PLACE
+(QcWzQAsI)
+
+"whorl"
+% CONCRETE MATERIAL 
+(WwDUcWZc)
+
+"whort"
+% PLANT
+(BlcWDbQs)
+
+"why"
+% STATE
+(W|Ww)
+# the whys and wherefores of it (NOUN) : Az W|WwWlb BbGbIA
+
+"wich"
+% PLANT
+(WdWDzIzRDbQs)
+
+"wick"
+% CONCRETE MATERIAL 
+(U|QX|)
+
+"wickedness"
+% CONCRETE MATERIAL 
+(U|QUsIAsXWzQ)
+
+"wicker"
+% CONCRETE MATERIAL 
+(XbAWzD AbX|)
+
+"wickerwork"
+(AlI|RfGzI UgAlW)
+
+"wicket"
+% CONCRETE MATERIAL 
+(XbAWzD QsD)
+# ^keep ONE_S  wicket up (VERB) : WbWsUGl|X| WbD^WzD Zc W|VGb
+# ^keep the wicket (VERB) : UbQXsQsDWzI X|[|Gb
+
+"wicketkeep"
+% HUMAN
+(UbQXsQsD UsR|Xb)
+
+"wicking"
+(U|QX| XcIr)
+
+"wide"
+(DfIRWzD AlU)
+
+"wideawake"
+(ZcWW| DfIRWzD XsWXfIQl)
+
+"wideband"
+(GcWjA]lA)
+
+"widening"
+(^lbAXbW)
+
+"widgeon"
+% CONCRETE ANIMAL MATERIAL 
+(^lWQfI|WlI|)
+
+"widget"
+(XbAWzD GlAs)
+
+"widow"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|QbWW|D)
+# widow and widower (NOUN) : AlbRsWlb ^lIWbR|
+# widow bounty (NOUN) : AlbRs WsfD^lAzQ
+# widow's cruse (NOUN) : ^lbUsRsD
+# widow's mite (NOUN) : XfAX|QbD XfWUfWWfI|D UfWAzQ
+# widow's third (NOUN) : AlbRsAb Zs|GzA ^bDzD XcUbD
+# widow's tierce (NOUN) : AlbRsAb Zs|GzA ^bDzD XcUbD
+
+"widower"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^lIWbR|)
+
+"widowhood"
+% CONCRETE MATERIAL 
+(AlbRs U|DUg)
+
+"width"
+% CONCRETE MATERIAL 
+(DfIRW|)
+
+"wiener"
+% CONCRETE MATERIAL FOOD
+(R|WgDDbUlU|X|)
+
+"wienerwurst"
+% CONCRETE MATERIAL FOOD
+(R|WgDDbUlU|X|)
+
+"wife"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbDc)
+# ^have a wife (VERB) : WbDcIzI AbX|Gb
+# old wife (NOUN) : Dl]b
+# old wives' tale (NOUN) : ^f^lbWGl|D W|WdA|
+# ONE_S  wedded wife (NOUN) : RlDZf
+# ONE_S  lawful wife (NOUN) : RlDZf
+# ^take to wife (VERB) : XbWAb GzIGb
+# ^give to wife (VERB) : XbWAb U|X|R RlDcGb
+
+"wifehood"
+(WbDcW|Q)
+
+"wig"
+% CONCRETE MATERIAL 
+(AbRbI)
+
+"wigan"
+([cDRfUz QlWdWWz| QsQjWRg)
+
+"wigging"
+(ZcAQbW)
+
+"wiggle"
+% MATERIAL 
+(QlQRsI|Q)
+
+"wiggler"
+% CONCRETE ANIMAL MATERIAL 
+(Gs|^zDGzDzD UbIbQ)
+
+"wight"
+% HUMAN
+(UbIbQ)
+
+"wigmaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbRbI XgXlWfRXb)
+
+"wigwag"
+(UsA| U|D^l)
+
+"wigwam"
+% CONCRETE ANIMAL MATERIAL PLACE
+(WlGsQbA)
+
+"wild-card"
+(WlbW|IGz [bGz)
+
+"wildcat"
+% CONCRETE ANIMAL MATERIAL 
+(UbIAAlcWW|)
+# wildcat bank (NOUN) : GzIAlWdWW|WzD^cW
+
+"wildcatter"
+% HUMAN
+(Gl|DzDGcIl ]bRlDzD \sA|Ub)
+
+"wildebeest"
+% CONCRETE ANIMAL MATERIAL 
+(WjWWdW)
+
+"wilderness"
+% MATERIAL PLACE
+(^lbWQsX|)
+# a wilderness of streets (NOUN) : QsX|IUf^bAg XsIX|WzD AfI|GzI
+# a wilderness of houses (NOUN) : QsX|IUf^bAg XsIX|WzD X|RGzI
+# a wilderness park (NOUN) : XbWjD AlWWsfD
+# a wilderness of curiosities (NOUN) : QsUs^bD X|D]sQ
+# a voice in the wilderness (NOUN) : AlbWWdWg Wl|Z|DzD XbWz| UlI|
+# a watery wilderness (NOUN) : QbWQbW^bD RbGb
+# a wilderness of waters (NOUN) : QbWQbW^bD RbGb
+# a wilderness of sea (NOUN) : QbWQbW^bD RbGb
+
+"wildfire"
+(RbI^lbXg)
+# ^spread like wildfire (VERB) : UbRU|AbDWg ]fX|Gb
+# ^run like wildfire (VERB) : UbRU|AbDWg ]fX|Gb
+
+"wilding"
+% PLANT
+(WdUcW U|AQsI)
+
+"wildlife"
+% ANIMAL
+(WdUcW GlWQsI)
+
+"wildness"
+% CONCRETE MATERIAL 
+(WdUcW)
+
+"wildpitch"
+(]lA\s)
+
+"wildwood"
+% PLACE
+(XbWjDI|Q)
+
+"wile"
+% MATERIAL 
+(DlWAbD)
+
+"wiliness"
+% MATERIAL 
+(AbDUb^bQ)
+
+"will"
+% ACTION MIND 
+(Wz|X|)
+# ^make ONE_S will (VERB) : WwWfDXbWWzI XbAUfW^bGb
+# ^draw up ONE_S will (VERB) : WwWfDXbWWzI XbAUfW^bGb
+# ONE_S will (NOUN) : [(POSS ONE/Wz|) Wz|X|<NOUN>]
+# at ONE_S will (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) HzU<NOUN>]/GcIl)
+# at ONE_S own sweet will (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) HzU<NOUN>]/GcIl)
+# ^do the will of A (VERB) : [(ADJUNCT [(POSS A/Wz|) Wz|Ub<NOUN>]/Wg) HbIz<VERB>]/Gb
+# ^have ONE_S  will (VERB) : HzUWzI AlbDZfI^bGb
+# of ONE_S  own free will (PP->ADV) : XbWwWz|UbIl
+# ^take the will (VERB) : HzUWzI W|^c^c XsGb
+# with a will (PP->ADV) : UfWWz|BfU
+# ^work ONE_S  will (VERB) : WsfD^bDzD RbIzI ^cW^bGb
+
+"will-o'-the-wisp"
+% MATERIAL 
+(GlBcR|RsI)
+
+"willet"
+% CONCRETE ANIMAL MATERIAL 
+(GlWrUc)
+
+"willies"
+% MIND
+(AfR)
+# ^get the willies (VERB) : UlIzQW| B|Z|Gb
+
+"willingness"
+% CONCRETE MATERIAL MIND
+(^zD[lc^| ^bDzD QbWzQ)
+
+"willow"
+% CONCRETE MATERIAL PLANT
+(RfGzI)
+# ^sing willow (VERB) : U|IWjD^bGb
+# weeping willow (NOUN) : UsWdWRfGzI
+# ^wear the willow (VERB) : U|IWjD^bGb
+
+"willow"
+% CONCRETE MATERIAL 
+(UlQ\zI)
+
+"wilt"
+% MATERIAL 
+(Ws|ZsARjW)
+
+"wilton"
+(Ws|I\zD WwWGbD)
+
+"wimble"
+% CONCRETE ANIMAL MATERIAL 
+(UlWAlU)
+
+"wimple"
+% CONCRETE ANIMAL MATERIAL 
+(RgW|I)
+
+"win"
+% MATERIAL 
+(UzWI|)
+# NUM1 win over A (NOUN) : [(ADJUNCT A/WgGc^bD) (NMODS NUM1) UzWI|<NOUN>]
+
+"wince"
+% CONCRETE MATERIAL 
+(WsQZsI|Q)
+
+"wincey"
+(X|IA|D QjDQl)
+
+"winch"
+% CONCRETE ANIMAL MATERIAL 
+(Ws|DZ|)
+
+"winchester"
+(Ws|DZgUz\f)
+
+"wind"
+% CONCRETE MATERIAL 
+(RbIbQ)
+# a blast of wind (NOUN) : ^bD ZbIkWz| RbIbQ
+# against the wind (PP->ADV) : RbIbQWzI AfUzIIf
+# ^be a cold wind blowing $ (VERB) : ZbDRbIbQW| RsIAl W|VGb
+# before the wind (PP->ADV) : RbIbQWzI HbIbUf
+# between wind and water (PP->ADV) : UsUfDRsWg
+# broken wind (NOUN) : ^fIHfAAfI|Q
+# by the wind (PP->ADV) : Gl|GlIlA RbIbQWzI AfUzIIf
+# close to the wind (ADV) : AfWz| XfWQjDWzIl RbIbQWzI AfUzIIf
+# coid wind (NOUN) : ZbD RbIbQ
+# constant winds (NOUN) : ^bWUbW]sW
+# down the wind (ADV) : RbIbQWzI WfRAl
+# ^cast to the winds (VERB) : RbIbQWg DbIIj RlDcGb
+# contrary winds (NOUN) : WjA]sW
+# fair winds (NOUN) : UsD]sW
+# ^find out how the wind blows (VERB) : RbIbQ RsDzD RbW^dWWzI WbIGb
+# ^fling to the winds (VERB) : RbIbQWg DbIIj RlDcGb
+# from the four winds (PP->ADV) : UbQjD ]bIRbWWgUf
+# ^gain the wind of A (VERB) : [(ADJUNCT [(POSS A/Wz|) RbIbQQfI|<NOUN>]/Il) DbAb<VERB>]/Gb
+# ^get ONE_S  wind (VERB) : UsQWzI GlII|Gb
+# ^get the wind of A (VERB) : [(ADJUNCT [(POSS A/Wz|) RbIbQQfI|<NOUN>]/Il) DbAb<VERB>]/Gb
+# ^get the wind up (VERB) : X|IAfR^bGb
+# ^get wind of A (VERB) : [(OBJ [(POSS A/Wz|) UlQsD<NOUN>]/WzI) WbIWbZc<VERB>]/Gb
+# ^get wind (VERB) : ]sWQsDWzIl XfD^cX|Gb
+# ^go like the wind (VERB) : SbII| AbGb
+# ^go to the wind (VERB) : XfDQjI^bGb
+# ^have a bad wind (VERB) : UsQW| X|UlAGl|X| QlU^bGb
+# ^have a good wind (VERB) : UsQW| X|UlAGl|Gb
+# ^have in the wind (VERB) : B|QUcIzI WbIWbZcGb
+# ^have the wind (VERB) : RbIbQQfI| YlAWg W|VGb
+# howling wind (NOUN) : WsIRsX|XDzD RbIbQ
+# head wind (NOUN) : WjA]sW
+# in the eye of the wind (PP->ADV) : RbIbQWzI AfUzIIf
+# in the teeth of the wind (PP->ADV) : RbIbQWzI AfUzIIf
+# in the wind (PP->ADV) : RbIbQWg
+# in the wind's eye (PP->ADV) : RbIbQWzI AfUzIIf
+# into the wind (PP->ADV) : RbIbQ RsIWfWlDzD YlAWzIl
+# ^keep the wind (VERB) : RbYbA RbIbQWzI AfUzIIf DbWbAbGb
+# ^kick the wind (VERB) : ArUs^jWWzI RbGGb
+# ^know how the wind blows (VERB) : RbIbQ RsDzD RbW^dWWzI WbIGb
+# like the wind (PP->ADV) : SbII|
+# ^lose ONE_S  wind (VERB) : UsQW| ZbGb
+# near the wind (PP->ADV) : AfWz| XfWQjDWzIl RbIbQWzI AfUzIIf
+# off the wind (PP->ADV) : UsD]sWWzI RbGAl
+# on the wind (PP->ADV) : RbIbQWzI AfUzIIf
+# ^put the wind up A (VERB) : [(OBJ A/IzI) DlIIbAg ^b<VERB>]/Gb
+# ^raise the wind (VERB) : GlDWzI QbIjD^bGb
+# ^recover ONE_S  wind (VERB) : UsQWzI GlII|Gb
+# ^sail with every wind (VERB) : WfHfD ZfX|WgUfGl XbA|WgAg W|IlRAg W|BzIGb
+# seasonal wind (NOUN) : AkXfI]sW RbIbQ
+# ^see how the wind blows (VERB) : RbIbQ RsDzD RbW^dWWzI WbIGb
+# ^take the wind of A (VERB) : [(ADJUNCT [(POSS A/Wz|) RbIbQQfI|<NOUN>]/Il) DbAb<VERB>]/Gb
+# ^take wind (VERB) : ]sWQsDWzIl XfD^cX|Gb
+# to the wind (PP->ADV) : RbIbQ RsIWfWlDzD YlAWzI ^dW^bWj
+# ^touch the wind (VERB) : Gl|GlIlA RbIbQ QfI|Il DbWbAbGb
+# under the wind (PP->ADV) : RbIbQ AbDzD YlAWzIl
+# up the wind (PP->ADV) : RbIbQWzI WbDAl
+# upon the wind (PP->ADV) : RbIbQWzI AfUzIIf
+# wind abaft (NOUN) : AlQsIYlAWzIl RsDzD RbIbQ
+# wind ahead (NOUN) : W|QsIYlAWzIl RsDzD RbIbQ
+# wind and weather (NOUN) : R|RbIbQ
+# wind power (NOUN) : ]sWIjA
+# with the wind (PP->ADV) : RbIbQAlb ^bQBg
+
+"windage"
+% CONCRETE MATERIAL 
+(Aj\RbIbQ)
+
+"windbag"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWA| XsQfD|)
+
+"windbreak"
+(RbIbQQbAW|)
+
+"windbreaker"
+% CONCRETE ANIMAL MATERIAL 
+(RbW]sWI|Q)
+
+"windcheater"
+(RbIbQ\lW)
+
+"winddown"
+(GbDAkXfA UbAAbQ)
+
+"winder"
+% CONCRETE ANIMAL MATERIAL 
+(AbQDzD UbIbQ)
+
+"windfall"
+% CONCRETE MATERIAL 
+(HzURbBWz| ^cWWsD)
+# windfall gain (NOUN) : WsWjDXfAW|W|A
+# windfall loss (NOUN) : WsWjDXfAUlDU|I
+# windfall loss or gain (NOUN) : WsWjDXfAUlDW|A
+# windfall profit (NOUN) : Wz|Wl|Wz| W|WwD
+# windfall profit tax (NOUN) : ZlAlbW|GzAUg
+
+"windfanner"
+% ANIMAL
+(^lbWXlIlWW|)
+
+"windflower"
+% CONCRETE ANIMAL MATERIAL PLANT
+(WbDgQlDg)
+
+"windgall"
+(AsAfDWjDXlW)
+
+"windgauge"
+(]sWIjAAk)
+
+"windhover"
+% ANIMAL
+(^lbWXlIlWW|)
+
+"windiness"
+% MATERIAL 
+(RbIbQW| UgQ)
+
+"winding"
+% MATERIAL 
+(BsRsIfX|Q)
+
+"winding-up"
+(AjIQbI)
+
+"windjammer"
+(RfQUfD)
+
+"windlass"
+% CONCRETE ANIMAL MATERIAL 
+(Ws|DZ|)
+
+"windmill"
+% CONCRETE ANIMAL MATERIAL 
+(]sWZb)
+
+"window"
+% CONCRETE MATERIAL 
+(ZbW)
+# arched window (NOUN) : ^lbIBlI ZbW
+# blank window (NOUN) : QbA^|D ZbW
+# blind window (NOUN) : XbWU|A ZbW
+# false window (NOUN) : XbWU|A ZbW
+# ^have all ONE_S  goods in the window (VERB) : Af\Z|Ik SsDW|Gb
+# ^throw the house out at window (VERB) : Gc^lDIbDWg RbHzI|Gb
+# ^break a window (VERB) : WwI|ZbWWzI BcGb
+# upper window (NOUN) : Ws|YlA Ws|DGlWs
+# lower window (NOUN) : WbIcYlA Ws|DGlWs
+# window back (NOUN) : ZbWUfDRbD
+# window blind (NOUN) : RzIIbW|DGz
+# window board (NOUN) : ZbWUfDRbD
+# window box (NOUN) : ^lbZl UbWXb
+# window dresser (NOUN) : X|DWjIZbW XbWU|AAb
+# window dressing (NOUN) : X|DWjIZbW XbWU|A
+# window envelope (NOUN) : ZbW GbII|D RlW\s
+# window frame (NOUN) : ZbW\zI
+# window guidance (NOUN) : AlWAsX|Gl
+# window ledge (NOUN) : ZbW\fA
+# window of vulnerability (NOUN) : Zs|WdAUfWWz| ZbW
+# window operation (NOUN) : AlWAsX|Gl
+# window sash (NOUN) : ZbWQsD UcU|
+# window seat (NOUN) : AfIUbW
+# window shade (NOUN) : ^cUR|ZAbI|Ac
+# window signal (NOUN) : Ws|DGl U|D^l
+# window sill (NOUN) : ZbW\fA
+# window washer (NOUN) : [zDR|
+# windows NUM1 (NOUN) : [(NMODS [Ws|DGlWsXz<NOUN>]) NUM1]
+
+"windowing"
+(Ws|DGlWs RbWU|A)
+# windowing package (NOUN) : Ws|GlWs ]c[|X|
+
+"windowlight"
+(ZbWWwI|)
+
+"windowpane"
+% CONCRETE ANIMAL MATERIAL 
+(ZbW\zI)
+
+"windpipe"
+% CONCRETE MATERIAL 
+(A|AlbD)
+
+"windrow"
+(SbIIcXsI)
+
+"windsail"
+(\lW]sW\lW)
+
+"windscreen"
+% CONCRETE ANIMAL MATERIAL 
+(RbIbQQbAW| WwI|)
+
+"windshield"
+% CONCRETE ANIMAL MATERIAL 
+(RbIbQQbAW| WwI|)
+
+"windsock"
+% CONCRETE MATERIAL 
+(WsfD\lW]l)
+
+"windstorm"
+% MATERIAL 
+(]lA]sW)
+
+"windup"
+% MATERIAL 
+(XlWAjI)
+
+"windward"
+% CONCRETE MATERIAL 
+(RbIbQW| RsIWf WlDzD YlA)
+
+"wine"
+% CONCRETE MATERIAL FOOD
+(]lGlXs)
+# Adom's wine (NOUN) : QsI
+# green wine (NOUN) : Uc UsI
+# ^have a wine in ONE_S  room (VERB) : RbWWgUf XsWjDWzI RfIW|Gb
+# in wine (PP->ADV) : UsIWg Zs|^bWj
+# new wine in old bottles (NOUN) : DbIAWzD AbXsA RsGcWg GbQWzD UcUsI
+# sound wine (NOUN) : WdWX|IWz| ]lGlXs
+# ^take wine with A (VERB) : [(ADJUNCT A/Wlb) (SCOMP [(MODS [UfIl<ADV>])  (OBJ [AfDAbW<NOUN>]/WzI) R|I<VERB>]/^bQj) AfDRc^b<VERB>]/Gb
+# white wine (NOUN) : RcA]lGlXs
+# wine acid (NOUN) : XsUfAUbD
+# wine of opium (NOUN) : Wb]jD ]lGlXs
+
+"winebag"
+(AbXsARsGc)
+
+"winebibber"
+% HUMAN
+(UsIAlIc)
+
+"winebottle"
+(]lGlXs RjW)
+
+"winebowl"
+(]lGlXsWrW [zD XbD)
+
+"winecup"
+(]lGlXs XbD)
+
+"winefat"
+(]lGlIzI WzBcDzD \lW)
+
+"wineglass"
+% CONCRETE ANIMAL MATERIAL 
+(]lGlXs XbD)
+
+"winegrower"
+% HUMAN
+(]lGlXs WdWXlWfRXb)
+
+"winegrowing"
+(]lGlXs WdWXlWfR)
+
+"winehouse"
+% PLACE
+(]lGlXs UsIX|R)
+
+"winesap"
+% PLANT FOOD
+(UbAlb)
+
+"wineshop"
+% PLACE
+(]lGlXs UsIX|R)
+
+"wineskin"
+(AbXsA RsGc)
+
+"wing"
+% CONCRETE MATERIAL ORGAN
+(DbIAc)
+# ^lend wings to A (VERB) : [(OBJ A/WzI) ZlAX|DU|[|<VERB>]/Gb
+# ^add wings to A (VERB) : [(OBJ A/WzI) ZlAX|DU|[|<VERB>]/Gb
+# on the wings of the wind (PP->ADV) : GcGbD^| SbII|
+# on wings (PP->ADV) : RbIAfIWzQGl AbRjRAg
+# ^show the wings (VERB) : AlWAsDIjAWzI AlbU|^bGb
+# ^take wings to itself (VERB) : DbIAcAb DbUf DbIGb
+# ^take wing (VERB) : DbIWbAbGb
+# under the wing of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) Rl^l<NOUN>]/IzI) 
+RbG<VERB>]/^bAl)
+# wing and wing (ADV) : DbR| QlWdWWzIl
+# the left wing (NOUN) : XlbW|A
+# the right wing (NOUN) : WsW|A
+
+"wingbar"
+(DbIAcWz| ^l|WAlI)
+
+"wingbeat"
+(DbIAcZ|A|)
+
+"wingding"
+(WdGbD RfRUfA)
+
+"winglet"
+(XbAWzD DbIAc)
+
+"wingspread"
+(DbIAc ]lA)
+
+"wingstroke"
+(DbIAcZ|A|)
+
+"winifred"
+(Ws|D|]zI|Gz)
+
+"wink"
+% CONCRETE MATERIAL 
+(Ws|W[z)
+
+"winker"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(DsDWzI BbQRbAW|DzD UbIbQ)
+
+"winkle"
+% CONCRETE ANIMAL MATERIAL 
+(AlGsW)
+
+"winner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UzWI|Xb)
+
+"winning"
+% MATERIAL 
+(UzWI|)
+
+"wino"
+% HUMAN
+(]lGlXs WcWzQAb)
+
+"winter"
+% CONCRETE TIME MATERIAL 
+(AjWsI)
+
+"winter-green"
+% PLANT
+(RbWs|WcWGlIsWz| AlbDQlA)
+
+"wintertide"
+% TIME
+(AjWsIZfI)
+
+"wintertime"
+% CONCRETE MATERIAL TIME
+(AjWsIZfI)
+
+"wipe-out"
+% ACTION
+(XfDQjI)
+
+"wiper"
+% CONCRETE ANIMAL MATERIAL 
+(GbBDzD UbIbQ)
+
+"wire"
+% CONCRETE MATERIAL 
+(ZfIUb)
+# ^be on wires (VERB) : ^zWRsD^bGb
+# by wire (PP->ADV) : XfDU|DWzIl
+# ^get under the wire (VERB) : AjWs QbAbQU|AbDWg QbXGb
+# party wire (NOUN) : AlWGlW AbW|RUfD
+# metal wire (NOUN) : AzQUlAUfD
+# ^pull wires (VERB) : U|IWzI GbWAj W|D^jWWzI XlXfW^bGb
+# wire entanglement (NOUN) : ZfIXlQbW
+# ^send a message by wire (VERB) : XfDRlIzI Z|Gb
+
+"wire-cutter"
+(ZfIUb BzD^DzD A|As)
+
+"wiredancer"
+% HUMAN
+(XsI \bDzD AlbWGc)
+
+"wiredraw"
+(ZfIUb QbDGzIA|)
+
+"wireless"
+% CONCRETE MATERIAL 
+(QsUfD XfDU|D)
+
+"wireman"
+% HUMAN
+(XfDUfDAlW)
+
+"wirephoto"
+(WwUfD UbX|D XfDUlWXbWZ|)
+
+"wirepuller"
+% HUMAN
+(Rc^s XlXlWXb)
+
+"wirepulling"
+(QbA^sXlXfW)
+
+"wirer"
+% HUMAN
+(ZfIUbIzI AbQDzD UbIbQ)
+
+"wiretap"
+% MATERIAL 
+(GlZfW)
+
+"wireworm"
+% CONCRETE ANIMAL MATERIAL 
+(WwZsW)
+
+"wiriness"
+(ZfIUb QlWdWW|Q)
+
+"wiring"
+% MATERIAL 
+(AbUfD)
+
+"wisconsinite"
+% HUMAN
+(Ws|Uz[lU|D XsWz| XsQ|D)
+
+"wisdom"
+% CONCRETE MATERIAL 
+(X|^k)
+# ^have the wisdom TO_INF (VERB) : 
+   [(ADJUNCT [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) X|^kIlR<ADJ>]/Gb
+# ^pour forth wisdom (VERB) : QjWWfDWzI QbI^bGb
+# wisdom of Solomon (NOUN) : UlIIlQlDWz| X|^k
+
+"wise"
+(RbWRfR)
+# in like wise (PP->ADV) : QbZbDAbX|Il
+# no wise (VERB) : AjI[l WbD^Gb
+# in some wise (PP->ADV) : WfDz XfWGl
+# on this wise (PP->ADV) : W|If^Ag
+
+"wiseacre"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbDzD Zg^bDzD UbIbQ)
+
+"wisecrack"
+% CONCRETE MATERIAL ANIMAL
+(QfUGzIWfX|D QbI)
+
+"wisecracker"
+% HUMAN
+(W|AUbIBsD)
+
+"wish"
+% CONCRETE MATERIAL 
+(UlWsfD)
+# ^carry out ONE_S wishes (VERB) : [(ADJUNCT [(POSS ONE/Wz|) ^z|QbW<NOUN>]/GcIl) 
+^b<VERB>]/Gb
+# ^carry attend to ONE_S wishes (VERB) : [(ADJUNCT [(POSS ONE/Wz|) ^z|QbW<NOUN>]/GcIl) ^b<VERB>]/Gb
+# good wishes (NOUN) : ^cWRlAWzI R|DzD QbWzQ
+# to ONE_S wish (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) UlWsfD<NOUN>]/GcIl)
+
+"wisher"
+% HUMAN
+(^z|QbW^bDzD UbIbQ)
+# a well wisher (NOUN) : ^lWz|IzI AbX|Al W|VDzD UbIbQ
+
+"wishwash"
+% FOOD
+(QfIAfD WzQIr)
+
+"wisp"
+% MATERIAL 
+(^bD XsQ)
+# a wisp of smoke (NOUN) : ^bDXsIWz| WjDA|
+
+"wistaria"
+% MATERIAL PLANT
+(GzWDbQs)
+
+"wisteria"
+% PLANT
+(GzWDbQs)
+
+"wit"
+% CONCRETE MATERIAL 
+(A|X|)
+# at ONE_S  wit's end (PP->ADV) : WfY|^bI RbIzI QlIIb
+# at ONE_S  wits' end (PP->ADV) : WfY|^bI RbIzI QlIIb
+# ^have ONE_S  wits about one (VERB) : R|D\zQW| WfRUGb
+# ^keep ONE_S  wits about one (VERB) : R|D\zQW| WfRUGb
+# ^have quick wits (VERB) : W|^cIjAW| SbIzGb
+# ^have slow wits (VERB) : W|^cIjAW| DzI|Gb
+# ^have the wit TO_INF (VERB) : [(MODS [XcZ|W|VAg<ADV>]) TO_INF]/^bGb
+# in ONE_S  wits (PP->ADV) : Xg XfWU|DWzIl
+# ^live by ONE_S  wits (VERB) : XbDXcXsIl AzIfAXfIfA UbIWbAbGb
+# out_of ONE_S  wits (PP->ADV) : Xg XfWU|DWzI W|I^Al
+# the five wits (NOUN) : WlAlbD
+
+"witch"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbDj)
+
+"witchcraft"
+% MATERIAL 
+(QbRfR)
+
+"witchery"
+% MATERIAL 
+(WrUsI)
+
+"witenagemot"
+% ORGAN PLACE
+(AsA^l|)
+
+"withdrawal"
+% CONCRETE MATERIAL ACTION
+(ZfIUs)
+# account withdrawal (NOUN) : WkAzQW|DZsI
+# withdrawal {+PLUR} (NOUN) : WkAzQW|DZsI
+
+"withe"
+% CONCRETE ANIMAL MATERIAL 
+(GzW DfW[sI)
+
+"withers"
+% CONCRETE MATERIAL 
+(A|AbR)
+
+"witling"
+% HUMAN
+(^bZbD^WzD XcUb)
+
+"witness"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XzWW|D)
+# ^be a witness to A (VERB) : [(COMP [(POSS A/Wz|) QlAAjAXb<NOUN>]) _<ADJ>]<W|>/Gb
+# ^bear A witness (VERB) : [(SCOMP [(POSS A/Wz|) XzWW|D<NOUN>]/W|) Gl|<VERB>]/Gb
+# ^bear witness to A (VERB) : [(OBJ [(POSS A/Wz|) XzWWfD<NOUN>]/WzI) ^b<VERB>]/Gb
+# ^bear witness of A (VERB) : [(OBJ [(POSS A/Wz|) XzWWfD<NOUN>]/WzI) ^b<VERB>]/Gb
+# ^give witness on behalf of A (VERB) : [(ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf) XzWWfD^b<VERB>]/Gb
+# in witness of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/IlUf)
+# with a witness (PP->ADV) : QjWRcA^|
+
+"witster"
+% HUMAN
+(XcUb)
+
+"witticism"
+% CONCRETE MATERIAL 
+(AjWAs)
+
+"wittiness"
+% CONCRETE MATERIAL 
+(XcZ| W|VWzQ)
+
+"wittol"
+% HUMAN
+(WbDcWz| RsXfWWzI QsAW|D^bDzD DbQ]jD)
+
+"wivern"
+% ANIMAL
+(R|IrW)
+
+"wives"
+% HUMAN
+(WbDcGzI)
+
+"wizard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbRfRUb)
+
+"wizardry"
+% MATERIAL 
+(QbRfR)
+
+"woad"
+(GcZfW)
+
+"wobble"
+% MATERIAL ACTION
+(R|\zIAfI|Q)
+
+"wobbler"
+% HUMAN
+(R|\zIAfI|DzD UbIbQ)
+
+"woe"
+% MATERIAL MIND
+(R|Wc)
+# in weal and woe (PP->ADV) : ^cW RsI^cW AbDWg
+# tale of woe (NOUN) : DfAUGsI|
+# woe be to (ADV) : ^lbAb W|VWzIX|DXf
+# woe beside (ADV) : ^lbAb W|VWzIX|DXf
+# woe to me (VERB) : WbWb UzI]zGlGb
+
+"wolf"
+% CONCRETE ANIMAL MATERIAL 
+(W|I|)
+# ^cry wolf (VERB) : DbQWzI UlAW|Gb
+# ^have a wolf by the ears (VERB) : X|D\l|WdWDbDW|Gb
+# ^hold a wolf by the ears (VERB) : X|D\l|WdWDbDW|Gb
+# ^have a wolf in the stomach (VERB) : QlRU| ^fA|X|Gb
+# ^keep the wolf from the door (VERB) : WrA|^bGb
+# ^see a wolf (VERB) : QbIQsDW| QbA^|Gb
+# ^have seen a wolf (VERB) : QbIQsDW| QbA^|Gb
+# ^wake a sleeping wolf (VERB) : AzIAWf RsUzIfQ DcGb
+# wolf in sheep's clothing (NOUN) : Ws|UfDXb
+# wolf in a lamb's skin (NOUN) : Ws|UfDXb
+
+"wolf-call"
+(^s|]bIbQ)
+
+"wolfhound"
+% CONCRETE ANIMAL MATERIAL 
+(DzAGc UbDdWWg VzDzD Ac)
+
+"wolfram"
+% CONCRETE MATERIAL 
+(ZfIQbWAbD XsWUfA)
+
+"wolverene"
+% ANIMAL
+(WlUlI|)
+
+"wolverine"
+% CONCRETE ANIMAL MATERIAL 
+(WlUlI|)
+
+"wolves"
+% ANIMAL
+(DzAGcGzI)
+
+"woman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjUfW)
+# cleaning woman (NOUN) : WjUfW ZfWUlRs
+# uniformed woman (NOUN) : WwD|]lQWzI W|RWzD WjXb
+
+"woman-hater"
+% HUMAN
+(WjXbIzI U|I^Wf^bDzD UbIbQ)
+
+"womanaut"
+% HUMAN
+(WjUfW WsXs R|^cWUb)
+
+"womanhood"
+% MATERIAL 
+(WjXbGbWsQ)
+
+"womankind"
+% MATERIAL HUMAN
+(RsW|D)
+
+"womanpower"
+(WjUfWGzIWz| ^|Q)
+
+"womb"
+% CONCRETE MATERIAL ANIMAL
+(XbAsW)
+# fruit of the womb (NOUN) : WbW|GzI
+
+"wombat"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzDAlQ R|UzU^bD WwGcGlWQsI)
+
+"women"
+% HUMAN
+(WjXbGzI)
+
+"womenfolk"
+% HUMAN
+(RsW|D)
+
+"womenkind"
+% ACTION ORGAN
+(WjUfW ^cRbW WsDGlW)
+
+"won"
+% CONCRETE UNIT MATERIAL 
+(WsfD)
+# North Korean won (NOUN) : RsA^bDWsfD
+# NUM1 won (NOUN) : [(NMODS NUM1 {+KALNUM}) WsfD<NOUN>]
+# NUM1 won note (NOUN) : [(NMODS [(NMODS NUM1 {+KALNUM}) WsfDYbI|<NOUN>]) X|]k<NOUN>]
+# South Korean won (NOUN) : DbQ^bDWsfD
+# one North Korean won (NOUN) : RsA^bD 1WsfD
+
+"wonder"
+% MATERIAL MIND
+(AjWW|)
+# It is a wonder THAT_CLAUSE (SENT) : [(SUBJ [(RELCL THAT_CLAUSE/^bDzD) AfU<NOUN>]/WzD) (COMP [(RELCL [W|UbW^b<ADJ>]/^bD) W|I<NOUN>]) _<ADJ>]<W|>/Gb
+# The child is a wonder (SENT) : U|DGlWW|Gb
+# The wonder is THAT_CLAUSE (SENT) : [(SUBJ [(RELCL THAT_CLAUSE/^bDzD) AfU<NOUN>]/WzD) W|UbW^bD W|I<NOUN>]) _<ADJ>]<W|>/Gb
+# ^do wonders (VERB) : A|XfAWzI ^cW^bGb
+# for a wonder (PP->ADV) : W|UbW^bAgGl
+# in the name of wonder (PP->ADV) : GlGcZg
+# in wonder (PP->ADV) : DlIIbUf
+# || it be no wonder that SENT (SENT) : (DECL [(SUBJ [(RELCL SENT/^bDzD) AfU<NOUN>]/WzD) 
+(SCOMP [W|UbW^bI AfU<NOUN>]/W|) WfRU<VERB>]/Gb)
+# no wonder . (SENT->ADJ) : W|UbW^bI AfU WfRUGb
+# || no wonder THAT_CLAUSE (SENT) : (DECL [(SUBJ [(RELCL THAT_CLAUSE/^bDzD) AfU<NOUN>]/WzD) (SCOMP [W|UbW^bI AfU<NOUN>]/W|) WfRU<VERB>]/Gb)
+# || no wonder SENT (SENT) : (DECL [(SUBJ [(RELCL SENT/^bDzD) AfU<NOUN>]/WzD) (SCOMP [W|UbW^bI AfU<NOUN>]/W|) WfRU<VERB>]/Gb)
+# ^perform wonders (VERB) : A|XfAWzI ^cW^bGb
+# to a wonder (PP->ADV) : DlIIbIQbD[zQ
+# with wonder (PP->ADV) : AjWW|IlRAg
+# ^work wonders (VERB) : A|XfAWzI ^cW^bGb
+
+"wonderland"
+% PLACE
+(W|UbW^bD DbIb)
+
+"wonderment"
+% MATERIAL MIND
+(AjW\bD)
+
+"wont"
+% MATERIAL 
+(UzRAlbD)
+# use and wont (NOUN) : UgUbW ]sWUzR
+
+"wood"
+% CONCRETE MATERIAL PLANT
+(DbQs)
+# hard wood (NOUN) : AsGWzD QlAXc
+# out_of the wood (PP->ADV) : Us]UlAWgUf DbWlbUf
+# out_of the woods (PP->ADV) : Us]UlAWgUf DbWlbUf
+# soft wood (NOUN) : WjD^bD QlAXc
+# ^take to the woods (VERB) : Us]UlAWzIl GlQbWZ|Gb
+# woods (NOUN) : Us]
+
+"wood-note"
+(Us]Wz| DlIc UlI|)
+
+"woodbind"
+% PLANT
+(W|DGlWGfWAsI)
+
+"woodbine"
+% CONCRETE MATERIAL PLANT
+(W|DGlWGfWAsI)
+
+"woodcraft"
+(UbQI|QWg Gc^bD X|U|A)
+
+"woodcut"
+% CONCRETE MATERIAL 
+(QlA]bD)
+
+"woodcutter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQsUAsD)
+
+"woodcutting"
+% ACTION
+(RfIQlA)
+
+"woodenware"
+(DbQs AzIzU)
+
+"woodland"
+% PLACE
+(UbQI|QX|)
+
+"woodlouse"
+% CONCRETE ANIMAL MATERIAL 
+(GzWAbAIwWz| RfIIg)
+
+"woodman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQsUAsD)
+
+"woodoil"
+(GlWWw)
+
+"woodpecker"
+% CONCRETE ANIMAL MATERIAL 
+(HbAGbAsI|)
+
+"woodpile"
+(XcQlAWz| GfQ|)
+
+"woodruff"
+(UfDAbI[s|)
+
+"woodshed"
+% PLACE
+(XbWXbA ^fUAbD)
+
+"woodsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Us]UlAWg UbDzD UbIbQ)
+
+"woodwork"
+% CONCRETE MATERIAL 
+(QlAXlRs)
+
+"woodworker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQs UgAlWW|D)
+
+"woodworking"
+% MATERIAL 
+(DbQs UgAlW)
+
+"woodworm"
+% ANIMAL
+(DbQsAsQRcWW|)
+
+"wooer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(As^lDXb)
+
+"woof"
+% CONCRETE MATERIAL 
+(V|)
+
+"woofer"
+% CONCRETE ANIMAL MATERIAL 
+(XfXs]b ^lbAUfWA|)
+
+"wool"
+% CONCRETE MATERIAL 
+(WdWQl)
+# against the wool (PP->ADV) : \fIWzI UgWsfUf 
+# ^draw the wool over a person's eyes (VERB) : DbQWz| DsDWzI UlAW|Gb
+# ^pull the wool over a person's eyes (VERB) : DbQWz| DsDWzI UlAW|Gb
+# ^lose ONE_S  wool (VERB) : ^zWRsD^bGb
+# wool fat (NOUN) : WdWQlX|
+# wool in fleeces (NOUN) : BbAWb DcD WdW\fI
+
+"wool-hall"
+% PLACE
+(WdWQl AfIcUl)
+
+"wool-work"
+(\fIU|I XbUs)
+
+"woolen"
+% CONCRETE MATERIAL 
+(RbWQlUb QlX|AQsI)
+
+"woolgathering"
+% MATERIAL MIND
+(RbWU|Q)
+
+"woolgrower"
+% HUMAN
+(QlAWdWWfRXb)
+
+"woolhat"
+% HUMAN
+(QsU|A^bD DlWRs)
+
+"woollen"
+% CONCRETE MATERIAL 
+(RbWQlUb QlX|AQsI)
+
+"woolliness"
+(WdWQlX|I)
+
+"woolly"
+(UzWsg\f)
+
+"woolpack"
+(WdWQl ^bQYbA)
+
+"woolsack"
+(WdWQl RsGc)
+# ^reach the woolsack (VERB) : GcRfRAlbDW| Gl|Gb
+# ^seat on the woolsack (VERB) : UbWWsfDWzI AcZl|^bGb
+
+"woolsorter"
+% HUMAN
+(WdW\fIWzI RsDIw^bDzD UbIbQ)
+
+"wooly"
+(UzWsg\f)
+
+"wootz"
+(W|DGlXg AbWZfI)
+
+"wop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsW WwIfRWz| W|Q|D)
+
+"worcestershire"
+% FOOD
+(WsUz\f UlUz)
+
+"word"
+% CONCRETE MATERIAL 
+(GbDWf)
+# Chinese word (NOUN) : XsWAsAWf
+# English word (NOUN) : WjWWf GbDWf
+# God's Word (NOUN) : UfWUf
+# NUM1 word (NOUN) : [(NMODS NUM1) GbDWf<NOUN>] 
+# ONE_S word (NOUN) : [(NMODS ONE/Wz|) QbI<NOUN>]
+# Sharp's the word (ADV) : UfGsIIf
+# a good word (NOUN) : As|Ab UlIA|U^bD QbI
+# at a word (PP->ADV) : W|IWfDX|^bWg
+# at one word (PP->ADV) : W|IWfDX|^bWg
+# ^be as good as ONE_S  word (VERB) : WdAUlAWzI W|^cW^bGb
+# ^be the word for it (VERB) : BlA GzIWfQbXDzD QbIW|Gb
+# beyond words (PP->ADV) : QsWfIb QbI^bI Us WfRUWzI QbD[zQ
+# big words (NOUN) : [zDUlI|
+# bitter words (NOUN) : U|Q^bD QbI
+# ^break ONE_S  word (VERB) : WdAUlAWzI WfA|Gb
+# ^bring word (VERB) : UlU|AWzI XfD^bGb
+# burning words (NOUN) : WjIH|D QbI
+# by word of mouth (PP->ADV) : AsGsIl
+# ^come to words (VERB) : QbIW| AjA^cX|Gb
+# ^eat ONE_S  words (VERB) : ^bD QbIWzI Zs|Ul^bGb
+# fair words (NOUN) : GbI[lQ^bD QbI
+# fighting word (NOUN) : DlDXcW
+# ^get word from  A (VERB) : [(ADJUNCT A/IlRs\f) (OBJ [XfDAbI<NOUN>]/WzI) RbG<VERB>]/Gb
+# ^give ONE_S  word (VERB) : WdAUlA^bGb
+# ^give the word (VERB) : WbQ^lIzI QbI^bGb
+# ^give the word for A (VERB) : [(OBJ [(RELCL [(SUBJ A/Ab) ^b<VERB>]/^bI) QjWIjW<NOUN>]/WzI) DcI|<VERB>]/Gb
+# ^give the word to A (VERB) : [(OBJ [(RELCL [(SUBJ A/Ab) ^b<VERB>]/^bI) QjWIjW<NOUN>]/WzI) DcI|<VERB>]/Gb
+# ^give words to A (VERB) : [(OBJ A/WzI) QbIIl Db\bDc<VERB>]/Gb
+# good words (NOUN) : GbI[lQ^bD QbI
+# ^have a word with A (VERB) : [(ADJUNCT A/Wlb) (MODS [XbQU|<ADV>]) W|WdA|^b<VERB>]/Gb
+# ^have no words for A (VERB) : [(SCOMP [(RELCL [(OBJ A/WzI) QsWfIb ]r^jD^b<VERB>]/^bI) QbI<NOUN>]/W|) WfRU<VERB>]/Gb
+# ^have the last word (VERB) : DbQW| BlQYbA QlU^bI QbIWzI ^bGb
+# ^have words with A (VERB) : [(ADJUNCT A/Wlb) QbIGb\sQ^b<VERB>]/Gb
+# high words (NOUN) : WfDXcW
+# in a word (PP->ADV) : ^bD QbG|Il QbI^bQjD
+# in one word (PP->ADV) : ^bD QbG|Il QbI^bQjD
+# in other words (PP->ADV) : RbBsWf QbI^bQjD
+# in so many words (PP->ADV) : AzIXb AzGcIl
+# in these words (PP->ADV) : W|If^Ag
+# ^keep ONE_S  word (VERB) : WdAUlAWzI X|[|Gb
+# ^look up a word in a dictionary (VERB) : GbDWfIzI UbXfDWgUf ZbXWbRlGb
+# ^make words (VERB) : QbI^bGb
+# man of few words (NOUN) : QbIW| XfAWzD UbIbQ
+# man of his word (NOUN) : WdAUlAWzI X|[|DzD UbIbQ
+# man of many words (NOUN) : QbIW| QbD^WzD UbIbQ
+# minister of the Word (NOUN) : UfWX|AXb
+# my word upon it (ADV) : ^lbAU|I^|
+# new word (NOUN) : Uc GbDWf
+# on the word (PP->ADV) : QbI^bA|Ab QsUfRAg
+# ^pass ONE_S  word (VERB) : WdAUlA^bGb
+# ^pledge ONE_S  word (VERB) : WdAUlA^bGb
+# ^preach the Word (VERB) : RlAWzQWzI XfD^bGb
+# ^put in a word (VERB) : QbI ZbQAjD^bGb
+# ^put into words (VERB) : QbIIl Db\bDcGb
+# ^say a word for A (VERB) : [(OBJ A/WzI) ZsZfD^b<VERB>]/Gb
+# ^send word (VERB) : QbIWzI XfD^bGb
+# spoken words (NOUN) : AsWf
+# sharp words (NOUN) : WfDXcW
+# ^suit the action to the word (VERB) : QbIGcIl U|I^cW^bGb
+# ^swallow ONE_S  words (VERB) : ^bD QbIWzI Zs|Ul^bGb
+# taboo word (NOUN) : AzQA|U|Gl|DzD GbDWf
+# ^take A in ONE_S word (VERB) : [(OBJ A/IzI) (MODS [QbIIl<ADV>]) XfD^b<VERB>]/Gb
+# ^take a person at his word (VERB) : DbQWz| QbIWzI AzGcIl Q|GGb
+# ^take the word (VERB) : HfRfIW|Gb
+# the Word of God (NOUN) : UfWUf
+# ^translate word for word (VERB) : X|AWjA^bGb
+# upon ONE_S word (PP->ADV) : QcWUg[l
+# warm words (NOUN) : WfDXcW
+# ^weigh ONE_S  words (VERB) : QbIWzI AlIIb VzGb
+# without a word (PP->ADV) : WbQs QbIWfRUW|
+# word by word (ADV) : GbDWfQbGb
+# word for word (NOUN) : ^bD QbG|
+# word in season (NOUN) : HcWg QbXDzD QbI
+# word of Japanese (NOUN) : W|IRlDWf GbDWf
+# word of greeting (NOUN) : W|DUbQbI
+# word of honor (NOUN) : QjWWkIzI AfD WdAUlA
+# word of honour (NOUN) : QjWWkIzI AfD WdAUlA
+# word to the wise (VERB->ADJ) : ^jDW|DWgAgDzD ^bD QbG|Il XlA^bGb
+# word out_of season (NOUN) : HcWg WbD QbXDzD QbI
+# words of A {+HUMAN} (NOUN) : [(POSS A/Wz|) QbI<NOUN>]
+
+"word-of-mouth"
+(AsXfD)
+
+"wordage"
+(QbI)
+
+"wordbook"
+% CONCRETE MATERIAL 
+(GbDWfX|R)
+
+"wordiness"
+% CONCRETE MATERIAL 
+(QbI QbD^WzQ)
+
+"wording"
+% CONCRETE MATERIAL 
+(QbIV|)
+
+"wordplay"
+% CONCRETE MATERIAL ACTION
+(QbI XsAlRbGA| AjWXcW)
+
+"wordsmith"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsD]|IAb)
+
+"work"
+% CONCRETE MATERIAL 
+(W|I)
+# a work of art (NOUN) : WkUsI XbA]sQ
+# after all their work | (PP->ADV) : AzGzIWz| DlAlWgGl RsIAs^bAl
+# all in the day's work (NOUN) : GbWWjD^bD W|I
+# all work and no play (NOUN) : W|IQbD^bAl DlIX| WbD^DzD AfU
+# art work (NOUN) : WkUsI XbA]sQ
+# assembling work (NOUN) : XlI|RXbAWfR
+# ^be hard at work (VERB) : WjIU|Q^| W|I^bAl W|VGb
+# ^be at work (VERB) : W|I^bGb
+# ^be in regular work (VERB) : W|IXfW^bD X|AWfRWzI AbX|Al W|VGb
+# clerical work (NOUN) : UbQs
+# ^do its work (VERB) : ^rIjAW| DbGb
+# extra work (NOUN) : XbDWfR
+# faith and works | (NOUN) : Q|GWzQAlb GfA^cW
+# ^fall to work (VERB) : W|IWg ZbAUs^bGb
+# ^get to work (VERB) : W|IWg ZbAUs^bGb
+# ^get the works (VERB) : QlRU| WrAWzI RlGb
+# ^give a person the works (VERB) : DbQWzI ^lDDcXsGb
+# ^have ONE_S  work cut out (VERB) : \cUbD Ab\WzD W|IW| W|VGb
+# ^make light work of A (VERB) : [(OBJ A/WzI) UsWsfI^bAg ^b<VERB>]/Gb
+# ^make light work with A (VERB) : [(OBJ A/WzI) UsWsfI^bAg ^b<VERB>]/Gb
+# ^make sad work of it (VERB) : Uf\sIzD X|UWzI ^bGb
+# ^make short work of A (VERB) : [(OBJ A/WzI) (MODS [XcSbII|<ADV>]) ^cZ|Ws<VERB>]/Gb
+# ^make quick work of A (VERB) : [(OBJ A/WzI) (MODS [XcSbII|<ADV>]) ^cZ|Ws<VERB>]/Gb
+# ^make work for A (VERB) : [(OBJ2 A/WgAg) (OBJ [W|I<NOUN>]/WzI) RsAlb^b<VERB>]/Gb
+# merger work (NOUN) : \lW^bRXbAWfR
+# out_of work (PP->ADV) : U|IX|A^bWj
+# school work (NOUN) : ^bAWfR
+# ^shoot the works (VERB) : ^zWQbWWzI AfIAl W|IGc Ql^fQWzI ^bGb
+# ^shoulder extra work (VERB) : XbDWfRWzI RsGbQ^bGb
+# ^shoulder work (VERB) : W|IWzI Qb\Gb
+# social volunteer work (NOUN) : Ub^l|RlWUb^lbIGlW
+# work camp (NOUN) : XbAWfRGbDZg
+# work force | (NOUN) : DlGlWIjA
+# work house (NOUN) : AsR|DWsfD
+# work in A (NOUN) :
+* [(RELCL [(ADJUNCT A/Il) Gl|<VERB>]/^bD) XbA]sQ<NOUN>]
+* A (Korean ^bDAsAWf) (Chinese XsWAsAWf) (Japanese W|IRlDWf) (English WjWWf) (French  ]zIbWUzWf) (German GlAW|IWf)
+# work of art (NOUN) : WkUsI]sQ
+# work of time (NOUN) : U|AbDW| AfII|DzD W|I
+# work rules (NOUN) : Zs|WfRAwZ|A
+# work week (NOUN) : DlGlWXs
+# work year (NOUN) : DlGlWDjD
+# work yet to be done (NOUN) : ^cWd^bI W|I
+# works of art (NOUN) : WkUsI]sQ
+
+"work-in"
+% ACTION
+(^bWWz| GgQl)
+
+"workability"
+(UbWrW AbDzW^bQ)
+
+"workaholic"
+% HUMAN
+(W|I XsWGlAXb)
+
+"workaholism"
+(W|IXsWGlA)
+
+"workaround"
+(DlIjA)
+
+"workbag"
+(GlAs XsQfD|)
+
+"workbasket"
+(XbAWjR WrWAs RbAsD|)
+
+"workbench"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWfRGc)
+
+"workbook"
+(WjDUzRXbW)
+
+"workbox"
+(WjDXbW\lW)
+
+"workday"
+% CONCRETE TIME MATERIAL 
+(Zs|WfRW|I)
+
+"worker"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(DlGlWXb)
+# NUM1 worker (NOUN) : [(POSS [(NMODS NUM1 {+DGTNUM}) QjW<NOUN>]/Wz|) AzDIlXb<NOUN>]
+# a hard worker (NOUN) : AzDQjDAb
+# ^advertise for workers (VERB) : UbWsfD QlX|R AlbWAlIzI ^bGb
+# blue-collar worker (NOUN) : WwAZgDlGlWXb
+# casual worker (NOUN) : W|IWrW DlGlWXb
+# ^lay workers off (VERB) : UbWsfDWzI ^cAl^bGb
+# dock worker (NOUN) : RsGs DlGlWXb
+# domestic worker (NOUN) : AsADc DlGlWXb
+# factory worker (NOUN) : AlWXbW DlGlWXb
+# kitchen worker (NOUN) : XsRbW AzDQsXb
+# medical worker (NOUN) : Wz|IrX|D
+# plant worker (NOUN) : AlWXbW DlGlWXb
+# postal worker (NOUN) : Ws]jDAsA X|AWsfD
+# union worker (NOUN) : Xl^bR DlGlWXb
+# uranium worker (NOUN) : WsIbDwQ DlGlWXb
+
+"workfare"
+(DlGlW RlAX| Ak^l|A)
+
+"workflow"
+(XbAWfR UsDUf)
+
+"workforce"
+(XfD DlGlWW|DAs)
+
+"workgroup"
+(XbAWfR X|RGbD)
+
+"workhorse"
+% ANIMAL
+(X|QQbI)
+
+"working"
+(W|I)
+
+"working-class"
+% HUMAN
+(DlGlWXb AkAzR)
+
+"workingman"
+% HUMAN
+(DlGlWXb)
+
+"workingwoman"
+% HUMAN
+(WjAlW)
+
+"workman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlGlWXb)
+# good workman (NOUN) : UsAIjDAlW
+# skilled workman (NOUN) : UsAIjDAlW
+# workmen's compensation (NOUN) : Xc^c RlUbW
+# workman's train (NOUN) : UcRjAWz| ^bIW|D WjIZb
+
+"workmanship"
+% MATERIAL 
+(UlQV|)
+
+"workout"
+% MATERIAL ACTION
+(AsfD\s HbWs|Wz| WjDUzR)
+# ^have a workout (VERB) : WjDUzR^bGb
+# ^give a car a workout (VERB) : XbGlWZbIzI AfQUb^bGb
+
+"workpeople"
+% HUMAN
+(X|AAlWGzI)
+
+"workplace"
+% PLACE
+(X|AXbW)
+
+"workroom"
+% PLACE
+(XbAWfRU|I)
+
+"workshop"
+% MATERIAL ORGAN
+(Wsf[zUdR)
+
+"workstation"
+% CONCRETE ANIMAL MATERIAL 
+(Wsf[zUz\gW|UjD)
+
+"world"
+% CONCRETE MATERIAL PLACE
+(UgAk)
+# Prince of this world (NOUN) : WbAQb
+# Second World Bank (NOUN) : Xg 2 UgAkWzD^cW
+# World Council of Churches (NOUN) : UgAk Ar^l| ^jRWz|^l|
+# World Council of Peace (NOUN) : UgAk ]jW^lb^l|Wz|
+# world economic forum (NOUN) : UgAk AjWXg ]lIfQ
+# World War II (NOUN) : 2Zb UgAkGcXfD
+# after the world (PP->ADV) : UgUlAWzI HbIb
+# against the world (PP->ADV) : XfDUgAkIzI UbWGcIl ^bWj
+# all over the world (ADJ PP->ADV) : 1) XfDUgAkWz| 
+				 2) XfDUgAkWg
+# all the world (NOUN) : XfD UgAk
+# all through the world (PP->ADV) : XfDUgAkIzI AfIZjUf
+# as the world goes | (ADV) : UgUbWWgUf ^zD^| QbI^bGzUW|
+# ^be all the world (VERB) : ZfDX|WlbGl RbBsIUs WfRUGb
+# ^begin the world (VERB) : UgUbWWg DbWlGb
+# ^bring into the world (VERB) : Db^Gb
+# ^carry the world before one (VERB) : UsDU|AAbDWg WlbDXfD^| UfWAlW^bGb
+# ^come to the world (VERB) : \cWfDbGb
+# ^depart out_of this world (VERB) : XsAGb
+# end of the world (NOUN) : UgUbWWz| XlWQbI
+# for all the world like (PP->ADV) : BlA GbIQWbUf
+# for the world $ (PP->ADV) : XfIGcIl
+# ^forsake the world (VERB) : UlAUgIzI RfI|Gb
+# from all over the world (PP->ADV) : XfDUgAkIlRs\f
+# from around the world (PP->ADJ) : UgAk AbAAsAWgUf WlGb 
+# ^give the world to do (VERB) : A|Wf[l ^bAl U|]Gb
+# ^give worlds to do (VERB) : A|Wf[l ^bAl U|]Gb
+# ^go around the world (VERB) : UgAkIzI W|IXs^bGb
+# ^go out into the the world (VERB) : Ub^l|Wg DbWlGb
+# ^go out_of this world (VERB) : XsAGb
+# ^have the world against one (VERB) : XfD UgAkIzI XfAWzIl UbQGb
+# ^have the world before one (VERB) : Wb]A|IW| WdWWdW^bGb
+# ^know the world (VERB) : UgUbWUbWg RbIAGb
+# man of the world (NOUN) : UgUbW AjW^fQW| QbD^WzD UbIbQ
+# on top of the world $ (PP->ADV) : UgUbWWzI WfGWzD GzUW|
+# other worlds than ours (NOUN) : X|As W|Wl|Wz| ZfDZg
+# ^see the world (VERB) : UgUbWWzI WbIGb
+# ^set the world on fire (VERB) : GcUfWAlWWzI AfGsGb
+# the First World War (NOUN) : Xg W|IZb UgAkGcXfD
+# the Free World (NOUN) : XbWw UgAk
+# the New World (NOUN) : U|D UgAk
+# the Old World (NOUN) : AsUgAk
+# the Second World War (NOUN) : Xg W|Zb UgAkGcXfD
+# the World Federation of Trade Unions (NOUN) : UgAk DlGlWXl^bR WjDQcW
+# the fashionable world (NOUN) : Ww^cWAk
+# the great world (NOUN) : UbWIw Ub^l|
+# the literary world (NOUN) : QsD^bAAk
+# the two worlds (NOUN) : ^jDUgWlb DcUg
+# the whole world (NOUN) : XfD UgAk
+# the world of letters (NOUN) : QsD^bAAk
+# the world the flesh and the devil (NOUN) : AbXAbX| Ww^lAQsI
+# the world to come (NOUN) : XfUzW
+# the world to be (NOUN) : XfUzW
+# the world without end (ADV) : WjWAs^|
+# ^think the world of A (VERB) : [(OBJ A/WzI) (MODS [GcGbD^|<ADV>]) XsWWr^| WjA|<VERB>]/Gb
+# this world and the next (NOUN) : ^jDUgWlb DcUg
+# to the world's end (PP->ADV) : W| UgUbW Bz\BbX|
+# woman of the world (NOUN) : UgUbW AjW^fQW| QbD^WzD WjXb
+# world bank (NOUN) : UgAkWzD^cW
+# world economic crisis (NOUN) : UgAkAjWXgAlW^lbW
+# world economy (NOUN) : UgAkAjWXg
+# world enterprise (NOUN) : UgAkA|WfR
+# world's Fair (NOUN) : QbDAsARbAIbQ^l|
+# world liquidity (NOUN) : UgAkWwGlWUfW
+# world market (NOUN) : UgAkU|XbW
+# world monetary system (NOUN) : AsAXg\lW^lbXgGl
+# world power (NOUN) : UgAk WjIAbW
+# world reserves (NOUN) : UgAkXsDR|AzQ
+# world slump (NOUN) : UgAkRsI^lbW
+
+"worldbeater"
+% HUMAN
+(ZcQ]|WfD)
+
+"worldliness"
+% MIND
+(UlAGl|D QbWzQ)
+
+"worldling"
+% HUMAN
+(UlAQsI)
+
+"worm"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfIIg)
+# meat for worms (NOUN) : U|Zg
+# worms' meat (NOUN) : U|Zg
+# foot for worms (NOUN) : U|Zg
+# worms' meat (NOUN) : UbIbQWz| U|Zg
+# the worm of conscience (NOUN) : WdWU|QWz| AbZcA
+
+"worm-eatenseed"
+(UgQgDU|Db)
+
+"wormhole"
+(RfIIg AsQfW)
+
+"wormwood"
+% CONCRETE MATERIAL PLANT
+(VzD VsA)
+# gall and wormwood (NOUN) : AlDl|
+
+"worrier"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Al|IlR^|DzD UbIbQ)
+
+"worry"
+% MATERIAL MIND
+(AfAXfW)
+
+"worrywort"
+% HUMAN
+(AsDAfAXfWW| QbD^WzD UbIbQ)
+
+"worse"
+(GfWsA DbSzQ)
+# ^change for the worse (VERB) : WbA^lbGl|Gb
+# for the worse (PP->ADV) : GfWsA DbSzAg
+
+"worship"
+% MATERIAL ACTION
+(WkRc)
+# house of worship (NOUN) : WkRcGbW
+# place of worship (NOUN) : WkRcGbW
+# men of worship (NOUN) : ^sIIwW^bD UbIbQGzI
+# public worship (NOUN) : WkRcU|A
+# ^win worship (VERB) : QjWUfWWzI WfGGb
+# hero worship (NOUN) : WjWWsW UsWRc
+
+"worst"
+(AbXbW DbSzD W|I)
+# at worst (PP->ADV) : Zl|WbAWz| AjWWsWg
+# ^be prepared for the worst (VERB) : QbDW|IWg GcR| ^bAl W|VGb
+# ^get the worst of it (VERB) : AbXbW ^lGl|D RjDWzI GbW^bGb
+# ^give a person the worst of it (VERB) : DbQWzI X|WsGb
+# ^have the worst (VERB) : ]cRc^bGb
+# ^make the worst of it (VERB) : WbXs HfRfIIjUf QbI^bGb
+# ^put a person to the worst (VERB) : ]cRcU|[|Gb
+# ^speak the worst of A (VERB) : [(OBJ A/WzI) R|RbW^b<VERB>]/Gb
+# The worst of it is THAT_CLAUSE (SENT) : [(SUBJ [(AMODS [(MODS [AbXbW<MODS>]) 
+DbSz<ADJ>]/^bD) W|I<NOUN>]/WzD) (COMP [(RELCL THAT_CLAUSE/^bDzD) AfU<NOUN>]) _<ADJ>]<W|>/Gb
+
+"worsted"
+% CONCRETE MATERIAL 
+(UlQlUb)
+
+"wort"
+% CONCRETE MATERIAL 
+(QcAWbXzR)
+
+"wort"
+% CONCRETE MATERIAL PLANT
+(ZlQlA)
+
+"worth"
+% CONCRETE MATERIAL 
+(AbZ|)
+
+# ^be worth A (VERB->ADJ) : [(SCOMP [(AMODS A/Wz|) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb 
+# it be worth PRESP (SENT) : 
+  [(SCOMP [(RELCL PRESP/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+# it be worth while PRESP (SENT) :
+  [(SCOMP [(RELCL PRESP/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+# it be worth while TO_INF (SENT) : 
+  [(SCOMP [(RELCL TO_INF/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+# it worth while TO_INF (SENT) : 
+  [(SCOMP [(RELCL TO_INF/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+# net worth (NOUN) : UsDXbUbD
+# of great worth (ADJ) : GcGbD^bD AbZ|Ab W|VGb
+# of little worth (ADJ) : AbZ|Ab XfAGb
+
+"worthiness"
+% CONCRETE MATERIAL 
+(AbZ|)
+
+"worthy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^sIIwW^bD W|DQsI)
+
+"wound"
+% MATERIAL 
+(UbWZf)
+# fatal wound (NOUN) : Z|QjWUbW
+# gunshot wound (NOUN) : ZlWUbW
+# mortal wound (NOUN) : Z|QjWUbW
+
+"wounded"
+(RsUbWXb)
+
+"wow"
+(GcUfWAlW)
+
+"wowser"
+% HUMAN
+(ZfWArGlXfA AlbWU|DXb)
+
+"wrack"
+% CONCRETE MATERIAL PLANT
+(]bGlWg Q|IIj WlIIbWlD ^cZl)
+# ^bring to wrack (VERB) : ]bQjIU|[|Gb
+# ^put to wrack (VERB) : ]bQjIU|[|Gb
+# ^go to wrack and ruin (VERB) : ]bQjI^bGb
+
+"wraith"
+% MATERIAL 
+(UcWIjW)
+
+"wrangle"
+% CONCRETE MATERIAL 
+(WfDXcW)
+
+"wrangler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WfDXcWXb)
+# the senior wrangler (NOUN) : Us^bAWz| UsUfA WsGzWUcW
+
+"wrap"
+% CONCRETE MATERIAL 
+(VbAc)
+
+"wrap-up"
+(WrWdA^bD DwWsUz)
+
+"wrappage"
+(]lXbWX|)
+
+"wrapper"
+% CONCRETE MATERIAL 
+(VbDzD UbIbQ)
+
+"wrapping"
+% CONCRETE ANIMAL MATERIAL 
+(VbQ)
+# wrapping paper (NOUN) : ]lXbWX|
+
+"wrasse"
+% CONCRETE ANIMAL MATERIAL 
+(RbGbUQsIAlA|)
+
+"wrath"
+% MATERIAL MIND
+(AjADl)
+# children of wrath (NOUN) : ZfDRfIWzI RbGWzI UbIbQGzI
+# vessls of wrath (NOUN) : ZfDRfIWzI RbGWzI UbIbQGzI
+# the grapes of wrath (NOUN) : RsDDlWz| ]lGl
+
+"wreath"
+% CONCRETE MATERIAL 
+(^lbAlbD)
+
+"wreck"
+% MATERIAL ACTION
+(DbD]b)
+# car wreck (NOUN) : XbGlWZb UbAl
+# ^go to wreck (VERB) : ]bQjI^bGb
+# ^make a wreck of ONE_S life (VERB) : [(OBJ [(POSS ONE/Wz|) W|IUcW<NOUN>]/WzI) 
+]bQjIU|[|<VERB>]/Gb
+
+"wreckage"
+(DbD]b^bD ^lbQsI)
+
+"wrecker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbD]bUfD WdA\bIXb)
+
+"wrecking"
+% MATERIAL 
+(DbD]b)
+
+"wren"
+% CONCRETE ANIMAL MATERIAL 
+(AsIHsAUc)
+
+"wren"
+% CONCRETE ANIMAL MATERIAL 
+(^cAsD WjXbRsGcWsfD)
+
+"wrench"
+% CONCRETE MATERIAL 
+(IgDZ|)
+
+"wrest"
+% ACTION
+(R|\zIA|)
+
+"wrestle"
+% MATERIAL ACTION
+(QbXRs\Wf VbWsA|)
+
+"wrestler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(IgUzI|W UfDUs)
+
+"wrestling"
+% MATERIAL 
+(IgUzII|W)
+
+"wretch"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIVbW^bD UbIbQ)
+
+"wretchedness"
+% MATERIAL 
+(AbWjRUWzQ)
+
+"wrick"
+(S|A|)
+
+"wriggle"
+% MATERIAL 
+(BsQ\zIAfI|Q)
+
+"wriggler"
+(BsQ\zIAfI|DzD AfU)
+
+"wright"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbWW|D)
+
+"wring"
+% ACTION
+(YbA|)
+
+"wringer"
+% CONCRETE ANIMAL MATERIAL 
+(YbDzDUbIbQ)
+# ^put through the wringer (VERB) : DbQWzI U|Q^bAg U|QQsD^bGb
+
+"wrinkle"
+% MATERIAL 
+(XsIzQ)
+# a dress full of wrinkles (NOUN) : AsA|QUbI \sUfWW|Wz| WlU
+
+"wrist"
+% CONCRETE MATERIAL ANIMAL
+(UlDQlA)
+# take A by the wrist (VERB) : [(OBJ [(POSS A/Wz|) UlDQlA<NOUN>]/WzI) XbR<VERB>]/Gb
+
+"wristband"
+% CONCRETE MATERIAL 
+(UlQc Bz\)
+
+"wristbone"
+% ANIMAL
+(]bISj)
+
+"wristlet"
+% CONCRETE MATERIAL 
+(\lU|)
+
+"wristwatch"
+% CONCRETE ANIMAL MATERIAL 
+(]bIQlA U|Ak)
+
+"writ"
+% CONCRETE MATERIAL 
+(WjWXbW)	?
+# Holy Writ (NOUN) : UfWAjW
+# the Writ (NOUN) : UfWAjW
+# Sacred Writ (NOUN) : UfWAjW
+# ^serve a writ on A (VERB) : [(OBJ2 A/WgAg) (OBJ [WjWXbW<NOUN>]/WzI) UlWGbI^b<VERB>]/Gb
+# writ of attachment (NOUN) : ZbWbRWjWXbW
+# writ of debt (NOUN) : X|RsIQjWIjWUf
+
+"write-off"
+% MATERIAL 
+(QbIUl)
+
+"writein"
+(A|QjW \s]r)
+
+"writer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbAAb)
+# a French writer (NOUN) : ]zIbWUzWf XbUzRUf
+# the present writer (NOUN) : W| AzIWz| XfXb
+# writer to the signet (NOUN) : RjD^lUb
+# writer's cramp (NOUN) : UlDAbIbA AjWIjD
+# writer's palsy (NOUN) : UlDAbIbA AjWIjD
+# writer's spasm (NOUN) : UlDAbIbA AjWIjD
+
+"writer/director"
+(XbAAb/AbQGlA)
+
+"writeup"
+% MIND
+(Z|WZbD)
+
+"writhe"
+(QlQRsI|Q)
+
+"writing"
+% CONCRETE MATERIAL 
+(X|R]|I)
+
+"wrong"
+% CONCRETE MATERIAL 
+(WbA[AzIzQ])
+# ^be in the wrong | (VERB->ADJ) : XbIQlUGl|Gb
+# ^distinguish between right and wrong (VERB) : WlI^Al AzIzD AfUWzI AbI|Gb
+# ^do A {+HUMAN} wrong | (VERB) : [(OBJ2 A/WgAg) (OBJ [(AMODS [QlUGl|<ADJ>]/^bD) 
+X|U<NOUN>]/WzI) ^b<VERB>]/Gb
+# ^do wrong to A {+HUMAN} (VERB) : [(OBJ2 A/WgAg) (OBJ [(AMODS [QlUGl|<ADJ>]/^bD) 
+X|U<NOUN>]/WzI) ^b<VERB>]/Gb
+# ^know between right and wrong (VERB) : WlI^Al AzIzD AfUWzI AbI|Gb
+# ^put ONESELF in the wrong (VERB) : XbIQlUWzI W|DXfW^bGb
+# ^right a great wrong | (VERB) : [zD XbIQlUWzI RbIlXbRGb
+# ^right a wrong | (VERB) : XbIQlUWzI RbIlXbRGb
+# ^suffer wrong | (VERB) : ^cIzI W|RGb
+
+"wrongdoer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfQRfRXb)
+
+"wrongdoing"
+% CONCRETE MATERIAL ACTION
+(QlUGl|D X|UWzI ^bA|)
+
+"wrongo"
+% HUMAN
+(QsRfRXb)
+
+"wryneck"
+% CONCRETE ANIMAL MATERIAL 
+(AcQ|XbRW|)
+
+"wulfenite"
+(UsWjD WjDAlbW)
+
+"wyandotte"
+% ANIMAL
+(GbIA)
+
+"wych"
+% PLANT
+(WdWDzIzRDbQs)
+
+"wye"
+(wye)
+
+"wynd"
+% PLACE
+(XlRWzD A|I)
+
+"wyomingite"
+% HUMAN
+(WlbW|WlQ|WXsWz| UbIbQ)
+
+"wyvern"
+% ANIMAL
+(R|IrW)
+
+"wyvern"
+% ORGAN
+(UgAk U|WlD ^jR^l|)

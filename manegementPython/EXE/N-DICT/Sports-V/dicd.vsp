@@ -1,0 +1,33 @@
+"defeat"
+vt (W|A|Gb)
+
+# defeat A NUM1 (VERB) : [(OBJ A/IzI) (ADJUNCT NUM1/WzIl) W|A|<VERB>]/Gb
+
+"double"
+vi (2Is\bIzI Z|Gb)
+vt (2Is\bIzI Z|Gb)
+* GsRc^bGb (score Uz[lWf)
+
+# double in run $ (VERB) : 2Is\bIl GzAXfQ^bGb
+
+"dribble"
+vi (GzI|RzI^bGb)
+vt (GzI|RzI^bGb)
+
+"drive"
+vi (GzIbW|Rz^bGb)
+vt (GzIbW|Rz^bGb)
+# drive for A (VERB) : [(ADJUNCT A/Il) GzIbW|Rz^b<VERB>]/Gb
+# drive in A (VERB) : [(OBJ A/IzI) ^lQWg RsIIfGzIW|<VERB>]/Gb
+# drive in NUM1 run $ (VERB) : [(OBJ [(NMODS NUM1) XfQ<NOUN>]/WzI) Dc<VERB>]/Gb
+
+"drop"
+vi (HfIWfX|Gb)
+vt (HfIWfX|Gb)
+# drop in $ (VERB) : WbDWg GzIWfAbGb
+# drop to NUM1 game behind A (VERB) : [(ADJUNCT A/Wg) (MODS [(NMODS NUM1) AjWA|<NOUN>]) HfIWfX|<VERB>]/Gb
+
+"dunk"
+vi (GfW[z^bGb)
+vt (GfW[z^bGb)
+

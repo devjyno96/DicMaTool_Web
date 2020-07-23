@@ -1,0 +1,597 @@
+
+"d.c.motor"
+# d.c.motor (NOUN) : X|AIw XfDGlWA|
+
+"damages"
+# compensation of damages (NOUN) : UlD^c RcUbW
+
+"damp"
+# damp (NOUN) : XgGlW
+# damp (NOUN) : AbQUl|
+# damp (NOUN) : AbQUl|
+
+"damper"
+# stack damper (NOUN) : GcQ]f
+
+"damping"
+# damping (NOUN) : XgGlW
+# damping (NOUN) : AbQUl|
+
+"data"
+# test data (NOUN) : U|^fQ GgW|\b
+# description of data (NOUN) : 
+# item-category data (NOUN) : WbW|\gQ [b\gAlI| GgW|\b
+# piece-like data (NOUN) : GbD]jDXfA GgW|\b
+# preliminary data (NOUN) : WkR| GgW|\f
+# category data (NOUN) : [b\gAlI| GgW|\b
+# control chart for analysing data (NOUN) : ^cUfAWrW AlbDI|Gl
+# category data (NOUN) : [b\gAlI| GgW|\b
+# cross section data (NOUN) : [zIlUz UgAUjD GgW|\b
+# data (NOUN) : GgW|\b
+# graphical technique for multivariate data (NOUN) : GbRjDIdW GgW|\bIzI Ws|^bD AzIc]|A A|RfR
+# field data (NOUN) : ]|IGz GgW|\b
+# control chart with corrected data (NOUN) : UsXfW GgW|\b AlbDI|Gl
+# multivariate data (NOUN) : GbRjDIdW GgW|\b
+
+"date"
+# scheduled date (NOUN) : X|XfW A|W|I
+
+"day"
+# degree day (NOUN) : GlW|I
+
+"deaerator"
+# deaerator (NOUN) : \bIA| A|A|
+
+"debug"
+# debug (NOUN) : G|RfAz
+# debug (NOUN) : G|RfAz
+# debug (NOUN) : G|RfAz
+
+"debugging"
+# debugging (NOUN) : G|RfAz
+
+"decimal"
+# decimal (NOUN) : 10X|D
+
+"decision-making"
+# decision-making (NOUN) : Wz|Ub AjIXfW
+
+"decomposition"
+# thermal decomposition (NOUN) : WjI RsD^c
+# Choleski's decomposition (NOUN) : [lIIgUz[|Wz| RsD^c
+# singular value decomposition (NOUN) : \zAW|AbRU RsDUfA
+
+"defect"
+# defect (NOUN) : AjI^bQ
+# minor defect (NOUN) : Rl\lW QbG|
+# sporadic defect (NOUN) : GlIRbI RsIIdW
+# hidden defect (NOUN) : XbQXc AjI^bQ
+# major defect (NOUN) : XsWZbXfQ
+# critical defect (NOUN) : W|QAk RsIIdW
+# minor defect (NOUN) : Rl\lW QbG|
+# critical defect (NOUN) : Z|QjWXfA AjIXfQ
+# defect (NOUN) : AjI^bQ
+
+"defective"
+# process average percent defective (NOUN) : AlWXfW ]jWAwD RsIIdWIwI
+# defective (NOUN) : RsIIdWIwI
+# lot tolerance percent defective (NOUN) : LTPD
+# total sum of fraction defective (NOUN) : XlW^bR RsIIdWIwI
+# hidden defective (NOUN) : XbQXc RsIIdW
+# lot tolerance percent defective (NOUN) : IbU^fWrWRsIIdWWwI
+# percent defective (NOUN) : RsIIdW]sQ
+# fraction defective (NOUN) : RsAb WlZb
+
+"defectives"
+# number of defectives (NOUN) : RsIIdW AcUs AlbDI|Gl
+
+"defects"
+# number of defects (NOUN) : AjIXfQUs
+# ratio of defects (NOUN) : AjIXfQIwI
+
+"deffect"
+# chronic deffect (NOUN) : QbDUfW RsIIdW
+
+"degeneracy"
+# degeneracy (NOUN) : ZsA\l|
+
+"degenerate"
+# degenerate (NOUN) : ZsA\l|
+
+"degradation"
+# degradation (NOUN) : Xf^b
+
+"degrade"
+# degrade (NOUN) : Xf^b
+# degrade (NOUN) : [cII|DGf \bW|Q
+
+"degree"
+# API degree (NOUN) : APIGl
+
+"deionizer"
+# deionizer (NOUN) : UsDUs XbWZ|
+
+"delay"
+# delay (NOUN) : X|WjD
+
+"delivery"
+# payment by quality and delivery (NOUN) : 
+
+"demand"
+# forecasted demand (NOUN) : WkZzA UsWr
+# contract demand (NOUN) : AkWdA XfDIjA
+# effective demand (NOUN) : Ww^r UsWr
+# set point demand (NOUN) : QlA]r UsWr
+# biochemical oxygen demand (NOUN) : BOD
+# chemical oxygen demand (NOUN) : COD
+
+"demonstration"
+# reliability demonstration (NOUN) : U|DIl|UfW U|IXzW
+
+"dendrogram"
+# dendrogram (NOUN) : GgDGzIlAzIcQ
+
+"denitrizer"
+# exhaust gas denitrizer (NOUN) : RcA| AbUz \bIAf XbWZ|
+
+"density"
+# current density (NOUN) : XfDIw Q|IGl
+# search density (NOUN) : \bQUcA Q|IGl
+# electric flux density (NOUN) : XfDA|UlAUfD Q|IGl
+# magnetic flux density (NOUN) : XbUlA Q|IGl
+# density (NOUN) : Q|IGl
+# bulk density (NOUN) : Rs]| Q|IGl
+# estimation of spectral density (NOUN) : Uz]gA\zIfIWz| ZsXfW
+# spectral density (NOUN) : Uz]gA\zIfI Q|IGl
+
+"depart"
+# depart (NOUN) : ZsIRbI^bGb
+
+"department"
+# TQC promotion department (NOUN) : TQC ZsX|D RlDRs
+# promotion department (NOUN) : ZsX|D RlDRs
+# inspection department (NOUN) : AfQUbWz| XlX|A
+# third production department (NOUN) : Xg3 XgXlRs
+
+"departure"
+# departure (NOUN) : ZsIRbI
+
+"deployment"
+# quality deployment (NOUN) : ]sQX|I XfDAc
+# quality deployment (NOUN) : \zAUfW XfDAc
+# functional deployment (NOUN) : A|DzW XfDAc
+# goal deployment (NOUN) : QlA]r XfDAc
+# quality deployment (NOUN) : ]sQX|I A|DzW XfDAc
+# goal deployment (NOUN) : QlA]r XfDAc
+
+"depreciate"
+# depreciate (NOUN) : AbQAb UbWAbA
+
+"depreciation"
+# depreciation (NOUN) : AbQAb UbWAbA
+
+"derate"
+# derate (NOUN) : G|IgW|\z
+
+"derating"
+# derating (NOUN) : G|IgW|\z
+
+"descent"
+# method of steepest descent (NOUN) : Zl|Gc AjWUbRfR
+
+"description"
+# job description (NOUN) : X|AQs A|UsIUf
+
+"design"
+# lattice design (NOUN) : AjAXb UfIAk
+# quality of design (NOUN) : UfIAk ]sQX|I
+# split-block design (NOUN) : 
+# quality of design (NOUN) : UfIAk ]sQX|I
+# reliability design (NOUN) : U|DIl|UfW UfIAk
+# fractional factorial design (NOUN) : W|IRs WrW|D RcZ|RfR
+# partially balanced incomplete block design (NOUN) : W|IRs ]jW^jW RsIWlbDXfD RcZ| Ak^l|A
+# work design (NOUN) : Wsf[z G|XbW|D
+# composite design (NOUN) : RlA^bR AlXbW
+# quality of design (NOUN) : G|XbW|DWz| ]sQX|I
+# randomized block design (NOUN) : 
+# job design (NOUN) : X|AQs UfIAk
+# concept design (NOUN) : AsUbW UfIAk
+# complete block design (NOUN) : WlbDR|^jW Ak^l|A
+# parameter design (NOUN) : ]bIbQ|\f UfIAk
+# partially balanced incomplete block design (NOUN) : PBIB
+# design (NOUN) : UfIAk
+# design (NOUN) : UfIAk
+# balanced incomplete block design (NOUN) : BIB
+# split-plot design (NOUN) : RsD^bIRfR
+# industrial design (NOUN) : W|DGfUz\zI|WfI G|XbW|D
+# balanced incomplete block design (NOUN) : 
+# central composite design (NOUN) : XsWU|Q RlA^bR UfIAk
+# nested design (NOUN) : 
+# detail design (NOUN) : UbWUg UfIAk
+# control regulation for design (NOUN) : UfIAk AlbDI| AwXfW
+# incomplete block design (NOUN) : RsDWlbDXfD RzIIfA UfIAk
+# team design (NOUN) : \|Q G|XbW|D
+# system design (NOUN) : U|Uz\gQ G|XbW|D
+# chain block design (NOUN) : ZgW|D RzIIfA Ak^l|A
+# experimental design (NOUN) : U|I^fQ Ak^l|ARfR
+# symmetrical balanced incomplete block design (NOUN) : SBIB
+# preliminary design (NOUN) : WkR| UfIAk
+# symmetrical balanced incomplete block design (NOUN) : 
+# computer-aided design (NOUN) : CAD
+# fail-safe design (NOUN) : ]gW|I-UgW|]z UfIAk
+# completely randomized design (NOUN) : WlbDXfD W|QWz| RcZ|RfR
+# completely randomized design (NOUN) : WlbDXfD W|QWz| RcZ|RfR
+
+"desulfurizer"
+# exhaust gas desulfurizer (NOUN) : RcA| AbUz \bI^lbW XbWZ|
+
+"detect"
+# detect (NOUN) : \bQX|
+# detect (NOUN) : AfQZsI
+
+"detection"
+# detection (NOUN) : AfQZsI
+# instantaneous probability density of detection (NOUN) : UsDAbD \bQX| ^lbAIwI Q|IGl
+# instantaneous probability of detection (NOUN) : UsDAbD \bQX| ^lbAIwI
+# detection (NOUN) : \bQX|
+
+"detector"
+# null detector (NOUN) : DfI AfQZsIA|
+# flame detector (NOUN) : ^lbXc AfQZsIA|
+# carbon monoxide detector (NOUN) : W|IUbD^lb\bDUl AfQX|AlbD
+# automatic interaction detector (NOUN) : AID
+
+"determinant"
+# determinant (NOUN) : ^cWIjIU|A
+
+"determination"
+# coefficient of determination (NOUN) : AjWXfW AkUs
+
+"detonate"
+# detonate (NOUN) : G|\lDgW|\z
+
+"detonation"
+# detonation (NOUN) : G|\lDgW|\z
+
+"development"
+# new product development (NOUN) : U|DXg]sQ AcRbI
+# organization development (NOUN) : XlX|A AcRbI
+# United Nations Conference on Trade and Development (NOUN) : UNCTAD
+# Organization for Economic Cooperation and Development (NOUN) : OECD
+# control regulation for research and development (NOUN) : WjDAs AcRbI AwXfW
+# new product development (NOUN) : U|DUcW]sQ AcRbI
+# market development (NOUN) : U|XbW AcRbI
+# mutual development (NOUN) : UbW^l RbIXfD
+# organization development (NOUN) : OD
+
+"deviate"
+# normal random deviate (NOUN) : XfWAw DbDUs
+
+"deviation"
+# standard deviation (NOUN) : ]rXsD ]jDZb
+# deviation (NOUN) : ]jDZb
+# deviation (NOUN) : XgWf ]jDZb
+# population standard deviation (NOUN) : QlX|RGbD ]rXsD]jDZb
+# mean deviation (NOUN) : ]jWAwD ]jDZb
+
+"device"
+# clean air device (NOUN) : ZfWXfW AlWA| AlWAzR XbWZ|
+# control device (NOUN) : XgWf XbWZ|
+# fool-proof device (NOUN) : 
+# vacuum device (NOUN) : X|DAlW XbWZ|
+
+"diagnose"
+# diagnose (NOUN) : X|DGbD
+
+"diagnosis"
+# QC diagnosis (NOUN) : ]sQX|I X|DGbD
+# internal QC diagnosis (NOUN) : UbDc QC X|DGbD
+# QC diagnosis (NOUN) : ]sQX|I AlbDI| X|DGbD
+# external QC diagnosis (NOUN) : Wl|Rs QC X|DGbD
+# diagnosis (NOUN) : X|DGbD
+# TQC diagnosis (NOUN) : TQC X|DGbD
+
+"diagnostics"
+# regression diagnostics (NOUN) : ^l|As| X|DGbD
+
+"diagonalization"
+# simultaneous diagonalization (NOUN) : GlWU| GcAbA^lb
+
+"diagram"
+# cause and effect diagram (NOUN) : \zAUfW WrW|DGl
+# arrow diagram (NOUN) : ^lbUbIUfDGl
+# vector diagram (NOUN) : RgA\fGl
+# tree diagram (NOUN) : UsAkGl
+# h-s diagram (NOUN) : h-s UfDGl
+# arrow diagram (NOUN) : WcIlWs GbW|WfAzIcQ
+# diagram (NOUN) : GbW|WfAzIcQ
+# Pareto diagram (NOUN) : ]bIg\lGl
+# radial diagram (NOUN) : IbG|WfI GbW|WfAzIcQ
+# skeleton diagram (NOUN) : GbDUfD AjIUlDGl
+# diagram (NOUN) : UfDGl
+# arrow diagram (NOUN) : ^lbUbI UfDGl
+# reliability block diagram (NOUN) : U|DIl|UfW RzIIfAGl
+# steam diagram (NOUN) : XzWA| UfDGl
+# Bode diagram (NOUN) : RlGz Gl^jW
+# diagram (NOUN) : GbW|WfAzIcQ
+# elementary wiring diagram (NOUN) : XfDAc XfRUlAGl
+# scatter diagram (NOUN) : UbD]lGl
+# P-h diagram (NOUN) : P-h UfDGl
+# T-s diagram (NOUN) : T-s UfDGl
+
+"dial"
+# dial (NOUN) : DsDAzQ]bD
+
+"diaphragm"
+# diaphragm (NOUN) : AjAQbA
+# asbestos diaphragm (NOUN) : UfAQjD XlI|Ac
+
+"dichotomy"
+# double dichotomy (NOUN) : W|XsW W|RsDRfR
+
+"die"
+# icosahedronic die (NOUN) : XfWU|RW|QjDZg GbW|
+
+"difference"
+# potential difference (NOUN) : XfDWs|Zb
+# equivalent temperature difference (NOUN) : UbWGbW WlDGlZb
+
+"differential"
+# semantic differential (NOUN) : SD
+
+"diffuser"
+# diffuser (NOUN) : ^lbAUbDA|
+# perfect diffuser (NOUN) : WlbDXfD ^lbAUbDQjD
+# diffuser (NOUN) : G|]wXf
+# uniform diffuser (NOUN) : 
+
+"diffusivity"
+# thermal diffusivity (NOUN) : WlDGl XfDGlWwI
+
+"DIN"
+# DIN (NOUN) : DIN
+
+"dioxide"
+# carbon dioxide (NOUN) : W|UbD^lb \bDUl
+# carbon dioxide (NOUN) : W|UbD^lb \bDUl
+# sulfur dioxide (NOUN) : W|UbD^lb Ww^lbW
+# nitrogen dioxide (NOUN) : W|UbD^lb X|IUl
+# sulfur dioxide (NOUN) : W|UbD^lb^lbW
+
+"direction"
+# forward direction (NOUN) : UsDRbW^dW
+# reverse direction (NOUN) : WjARbW^dW
+
+"discharge"
+# discharge (NOUN) : RbWXfD
+# over discharge (NOUN) : AlbRbWXfD
+# high-intensity discharge (NOUN) : HID
+# discharge (NOUN) : RbWXfD
+
+"discipline"
+# queueing discipline (NOUN) : [wW|W WsfDI|
+
+"disconnector"
+# disconnector (NOUN) : GbDIlA|
+
+"discrimination"
+# discrimination (NOUN) : AbQGl ^bDAk
+
+"disk"
+# floppy disk (NOUN) : ]zIIl]| G|Uz[z
+# floppy disk (NOUN) : ]zIIl]| G|Uz[z
+
+"dispatch"
+# dispatch (NOUN) : 
+
+"dispatching"
+# dispatching (NOUN) : 
+
+"disperse"
+# disperse (NOUN) : RsDUbD
+# disperse (NOUN) : RsDUbD
+# disperse (NOUN) : RsDUbD
+# disperse (NOUN) : RsDUbD
+
+"dispersion"
+# dispersion (NOUN) : RsDUbD
+
+"display"
+# display (NOUN) : ]rU| XbWZ|
+# standard normal display (NOUN) : ]rXsD XfWAw^jW ]rU|
+# display (NOUN) : ]rU|
+# cathode-ray tube display (NOUN) : CRT ]rU| XbWZ|
+# display (NOUN) : ]rU|
+# stem-leaf display (NOUN) : 
+
+"dissemination"
+# dissemination (NOUN) : UbD]lGl
+
+"distance"
+# Mahalanobis' distance (NOUN) : Qb^bIbDlR|UzWz| AfI|
+
+"distillation"
+# extractive distillation (NOUN) : ZsZsI XzWIw
+# cracking distillation (NOUN) : RsD^c XzWIw
+# azeotropic distillation (NOUN) : ^bQBg BzI^DzD XzWWw
+# dry distillation (NOUN) : AfDIw
+# vacuum distillation (NOUN) : X|DAlW XzWIw
+# simple distillation (NOUN) : GbDUsD XzWIw
+# steam distillation (NOUN) : UsXzWA| XzWIw
+
+"distribute"
+# distribute (NOUN) : RsD]l^bGb
+
+"distributed"
+# distributed (NOUN) : RsD]l
+
+"distribution"
+# multidimensional distribution (NOUN) : GbZbWsfD RsD]l
+# spectral distribution (NOUN) : Uz]gA\zIfI RsD]l
+# Gaussian distribution (NOUN) : AbWsUz RsD]l
+# physical distribution (NOUN) : PD
+# logarithmic normal distribution (NOUN) : IlAz XfWAw RsD]l
+# Wishart distribution (NOUN) : Ws|Ud\z RsD]l
+# Pearson system of frequency distribution (NOUN) : ]|WfUzDWz| AkRsD]l
+# logarithmic series distribution (NOUN) : IlAz U|AkWjI RsD]r
+# chi-square distribution (NOUN) : x2 RsD]l
+# mixed Weibull distribution (NOUN) : ^lD^bR WsgW|RzI RsD]l
+# standard normal distribution (NOUN) : ]rXsD XfWAw RsD]l
+# Polya-- Eggenberger distribution (NOUN) : ]lII|Wb-WgAgDRgIzAfWz| RsD]l
+# Johnson system of frequency distribution (NOUN) : 
+# Weibull distribution (NOUN) : WsgW|IRsI RsD]l
+# constant failure rate distribution (NOUN) : CFR RsD]l
+# sample distribution (NOUN) : ]rRlD RsD]l
+# test of distribution (NOUN) : RsD]l^jW AfQUb
+# frequency distribution (NOUN) : GlUs RsD]l
+# uniform distribution (NOUN) : AwDW|I RsD]l
+# logarithmic normal distribution (NOUN) : IlAz RsD]l
+# decreasing failure rate distribution (NOUN) : DFR RsD]l
+# multinomial distribution (NOUN) : Gb^bW RsD]l
+# Poisson distribution (NOUN) : ]lW|UzD RsD]l
+# generalized hyper-geometric distribution (NOUN) : W|IRbD ZlA|^b RsD]l
+# normal distribution (NOUN) : XfWAw RsD]l
+# double exponential distribution (NOUN) : W|XsW X|Us RsD]l
+# symmetrical intensity distribution (NOUN) : GcZ|WXfA UgA| RsD]l
+# chi-square distribution (NOUN) : [bW|XgAlR RsD]l
+# gamma distribution (NOUN) : AbQQb RsD]l
+# distribution (NOUN) : RsD]l
+# Pearson system of frequency distribution (NOUN) : ]|WfUzD AkRsD]l
+# hypergeometric distribution (NOUN) : Zl A|^b^bAXfA RsD]l
+# conditional distribution (NOUN) : XlAfDRs RsD]l
+# multivariate normal distribution (NOUN) : GbRjDIdW XfWAw RsD]l
+# convergence in distribution (NOUN) : 
+# logistic distribution (NOUN) : IlX|Uz\|A RsD]l
+# noncentral F distribution (NOUN) : R|XsWU|Q F RsD]l
+# exponential distribution (NOUN) : X|Us RsD]l
+# approximation of probability distribution (NOUN) : ^lbAIwI RsD]lWz| AzDUb
+# physical distribution (NOUN) : RsDWbRA|
+# binomial distribution (NOUN) : W|^bW RsD]l
+# extreme-value distribution (NOUN) : AzAZ| RsD]l
+# probability distribution (NOUN) : ^lbAIwI RsD]l
+# joint distribution (NOUN) : GlWU| RsD]l
+# beta distribution (NOUN) : Rg\b RsD]l
+# continuous distribution (NOUN) : WjDUlA RsD]l
+# physical distribution (NOUN) : QsIXfA Ww\lW AlbDI|
+# unimodal distribution (NOUN) : W|IUbD RsD]l
+# negative binomial distribution (NOUN) : Rs]sQ
+# asymmetrical intensity distribution (NOUN) : RcGcZ|W AbWGl RsD]l
+# shape of distribution (NOUN) : RsD]l ^jW\c
+# noncentral chi-square distribution (NOUN) : R|XsWU|Q x XgAlR RsD]l
+# geometric distribution (NOUN) : A|^b RsD]l
+# Pareto distribution (NOUN) : ]bIg\l RsD]l
+# noncentral t distribution (NOUN) : R|XsWU|Q t RsD]l
+# fidencial distribution (NOUN) : ZsZzA RsD]l
+# discrete distribution (NOUN) : W|UbDRsD]l
+# Cauchy distribution (NOUN) : [lZ| RsD]l
+# Rayleigh's distribution (NOUN) : IgW|IbW|-RsD]l
+# Erlang distribution (NOUN) : WfIIbW RsD]l
+# increasing failure rate distribution (NOUN) : IFR RsD]l
+# marginal distribution (NOUN) : XsRjD RsD]l
+
+"divide"
+# divide (NOUN) : RsD^bI
+
+"divider"
+# voltage divider (NOUN) : RsD^c
+
+"division"
+# division (NOUN) : RsD^bI
+# fixed-rate division (NOUN) : XfWR| RsD^bI
+# constant-mass division (NOUN) : XfWIdW RsD^bI
+
+"document"
+# document (NOUN) : QsDUf
+
+"Documents"
+# IEC Central Office Documents (NOUN) : IEC/CO QsDUf
+# IEC Secretariat Documents (NOUN) : IEC/S QsDUf
+
+"door"
+# explosion door (NOUN) : ]lARbI QsD
+
+"dose"
+# dose (NOUN) : WdW
+
+"down"
+# cost down (NOUN) : [lUz\z GbWsD
+# run up run down (NOUN) : 
+
+"draft"
+# forced draft (NOUN) : AbWXg \lW]sW
+# forced draft (NOUN) : AbWXg \lW]sW
+# balanced draft (NOUN) : ]jW^jW \lW]sW
+# induced draft (NOUN) : ^zRZsI \lW]sW
+# natural draft (NOUN) : XbWjD \lW]sW
+
+"drain"
+# drain (NOUN) : GzIgW|D
+
+"drift"
+# drift (NOUN) : GzI|]z\z
+# drift (NOUN) : GzI|]z\z
+# drift (NOUN) : GzI|]z\z
+
+"drive"
+# individual drive (NOUN) : AcRjI WsDUs
+# group drive (NOUN) : X|RGbD WsDXfD
+# sectional drive (NOUN) : UgAUjD GzIbW|Rz
+# line shaft drive (NOUN) : IbW|D Ud]z\z GzIbW|Rz
+
+"drop"
+# forward voltage drop (NOUN) : UsDXfDWbR AbW^b
+
+"droplet"
+# droplet (NOUN) : UlXfA
+
+"dryer"
+# freeze dryer (NOUN) : GlWAjI AfDXlA|
+# drum dryer (NOUN) : GzIfQ AfDXlA|
+# spray dryer (NOUN) : RsDQs AfDXlA|
+# tray dryer (NOUN) : UbW^jW AfDXlA|
+# flash dryer (NOUN) : A|Iw AfDXlA|
+# direct heating dryer (NOUN) : X|AXfR AbWjI AfDXlIl
+# infrared dryer (NOUN) : XfAWl|UfD AfDXlA|
+# fluidized-bed dryer (NOUN) : WwGlWZzW AfDXlA|
+# band dryer (NOUN) : RcDGz AfDXlA|
+# indirect heating dryer (NOUN) : AbDXfR AbWjI AfDXlIl
+# rotary dryer (NOUN) : ^l|XfD AfDXlA|
+
+"duality"
+# duality (NOUN) : W|XsWAlbDAk
+
+"duct"
+# bus duct (NOUN) : RfUz GfA\z
+# air duct (NOUN) : UlW]sWAlbD
+# metallic duct (NOUN) : 
+# with duct (NOUN) : GfA\zAjQWrW
+# panel cooling and heating system with duct (NOUN) : GfA\zAjQWrW RbWUbDcWWlDRbWU|A
+
+"ductility"
+# ductility (NOUN) : WjDUfW
+
+"dummy"
+# dummy (NOUN) : GfQ|
+
+"duration"
+# duration (NOUN) : UlWr U|AbD
+
+"dust"
+# soot and dust (NOUN) : AzWzIWzQ QfDX|
+
+"duty"
+# short-time duty (NOUN) : GbDU|AbD UbWrW
+# intermittent periodic duty (NOUN) : RbDRlA UbWrW
+# continuous duty (NOUN) : WjDUlA UbWrW
+
+"dynamic"
+# dynamic (NOUN) : GbW|DcQ|A
+
+"dynamics"
+# group dynamics (NOUN) : AzIsR GbW|DcQ|AUz
+# dynamics (NOUN) : GbW|DcQ|AUz
+
+"dynamometer"
+# electric dynamometer (NOUN) : XfDA| GlWIjAAk
+# dynamometer (NOUN) : GlWIjAAk
+

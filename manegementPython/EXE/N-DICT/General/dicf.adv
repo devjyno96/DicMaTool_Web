@@ -1,0 +1,554 @@
+
+"face_to_face"
+(WfIAsIWzI QbXGcAl)
+
+"face-to-face"
+(XfWQjDWzIl QbXUfUf)
+
+"facedown"
+(WfIAsIWzI Q|\WzIl ^dW^bAl)
+
+"faceup"
+(WfIAsIWzI Ws|Il ^dW^bAl)
+
+"facilely"
+(AjW[lc^bAg)
+
+"factually"
+(UbU|IUbW)
+
+"fain"
+(A|BfW|)
+
+"faintingly"
+(XfWU|DW| WbY|I^bWj)
+
+"faintly"
+(^|Q WfRUW|)
+
+"fair"
+(AlWQjW XfWGc^bAg)
+
+"fairily"
+(WrXfWZfIfQ)
+
+"fairly"
+(QcWs)
+* AlWXfW^bAg (decide)
+* Blc (good)
+
+"faith"
+(XfWQbIIl)
+
+"faithfully"
+(ZsWU|I^bAg)
+
+"fallaciously"
+(WlIwWg SbXj)
+
+"false"
+(AfX|UWzIl)
+
+"falsely"
+(AfX|UWzIl)
+
+"falteringly"
+(R|\zIAfI|Qj)
+
+"familiarly"
+(Z|D^bAg)
+
+"famously"
+(WwQjW^bAg)
+
+"fanatically"
+(WjIAlbWXfAWzIl)
+
+"fancifully"
+(AlWUbWXfAWzIl)
+
+"fantastically"
+(^lbDUbWXfAWzIl)
+
+"fanwise"
+(RsZcQlWdWWzIl)
+
+"far"
+(QfII|)
+// it is far.
+* QcWs (~ {+ADJ}) 
+* QcWs (~ {+ADV})
+* ^sfIV|D (~ {+COMPR})
+//# by far ADJ {+COMPR} (ADJ) : [(MODS [^sfIV|D<ADV>]) ADJ]/^bGb
+//# far ADJ {+COMPR} (ADJ) : [(MODS [^sfIV|D<ADV>]) ADJ]/^bGb
+# far and wide $ (ADV) : QfII| DfIRAg
+# || far from PRESP (ADV) : (ADJUNCT PRESP/^bA|DzD[fDjW)
+# from far away $ (PP->ADV) : QfII|Uf
+# so far (ADV) : X|AzQBbX|
+
+"farcically"
+(W|AUbIQbXAg)
+
+"farther"
+(Gf QfII|)
+
+"fascinatingly"
+(Qc^lAXfAWzIl)
+
+"fashionably"
+(^jDGcU|AWzIl)
+
+"fast"
+(SbII|)
+* SbII| (run move walk swim drive)
+* A|]W| (sleep)
+# faster and faster (ADV) : XfQXfQ Gf SbII|
+#' that fast (ADV) : AzIf^Ag SbII|
+
+"fastidiously"
+(BbGbIlRAg)
+
+"fatally"
+(Z|QjWXfAWzIl)
+
+"fatly"
+(UbIYjUf)
+
+"fatuously"
+(QfWZfW^bAg)
+
+"faultily"
+(RsIWlbDXfD^bAg)
+
+"favorably"
+(^lWz|IzI AbX|Al)
+
+"fearfully"
+(QsUfWsf^bQj)
+
+"feasibly"
+(U|I^cW^bI Us W|VGlIlA)
+
+"federally"
+(WjDRbW)
+
+"feebly"
+(WdA^bAg)
+
+"ferociously"
+(QcWIjI^bAg)
+
+"fertilely"
+(R|^lA^bAg)
+
+"fervently"
+(WjIIjI^bAg)
+
+"feudally"
+(RlWAfDXfAWzIl)
+
+"feverishly"
+(WjIWg GzIHzDGzUW|)
+
+"fictionally"
+(^fAsXfAWzIl)
+
+"fictiously"
+(Ws|XlIl)
+
+"fierce"
+(UbDbRAg)
+
+"fiercely"
+(UbDbRAg)
+
+"fierily"
+(RsIAb\W|)
+
+"fifth"
+(5RfDYcIl)
+
+"figuratively"
+(R|WwXfAWzIl)
+
+"filially"
+(XbU|AGbRAg)
+
+"finally"
+(QbZ|QDc)
+
+"financially"
+(XcXfWXfAWzIl)
+
+"fine"
+(^sIIwW^|)
+
+"finely"
+(^sIIwW^|)
+
+"finitely"
+(Ww^bDXfAWzIl)
+
+"firm"
+(GbDGbD^|)
+
+"firmly"
+(AsGAg)
+
+"first"
+(ZfWzQWzIl)
+* WsUfD (aim)
+* ZfWzQWg (appear)
+//* ZfWzQWg (~ {+SBEGIN})
+* WsUfD (~ {+SBEGIN})
+
+# first of all (ADV) : WsUfD
+
+"first-class"
+(1GzWWzIl)
+
+"first-rate"
+(Al|WXbW^|)
+
+"firstly"
+(ZfUYcIl)
+
+"firstrate"
+(Al|WXbW^|)
+
+"fiscally"
+(XcXfWUbW)
+
+"fitly"
+(XfAGbW^|)
+
+"fittingly"
+(XfAGbW^|)
+
+"fixedly"
+(XfWZbA^bWj)
+
+"flamingly"
+(RsI\bWlIIb)
+
+"flashily"
+(DbD^bAg)
+
+"flat"
+(Us]jWWzIl)
+
+"flat-out"
+(Zl|Al UlAGlIl)
+
+"flatly"
+(]jW]jW^bAg)
+
+"flatways"
+(]jW]jW^bAg)
+
+"flatwise"
+(]jW]jW^bAg)
+
+"fleeting"
+(SbII|)
+
+"fleetly"
+([lcUlAWzIl)
+
+"flexibly"
+(WwWjD^bAg)
+
+"flickeringly"
+(BbQRbABbQRbA)
+
+"flimsily"
+(RbAWdA^bAg)
+
+"flip-flap"
+(]bGbA]bGbA)
+
+"flip-flop"
+(]bGbA]bGbA)
+
+"flirtingly"
+(U|U|GfAAfI|Qj)
+
+"florally"
+(BlZAb\W|)
+
+"flounderingly"
+(^fGsWGcQj)
+
+"floutingly"
+(AjWQjI^bWj)
+
+"flowerily"
+(BlZAb\W|)
+
+"fluently"
+(WwZbW^bAg)
+
+"fluidly"
+(WwGlWXfAWzIl)
+
+"flukily"
+(Wr^cWUsIl)
+
+"flush"
+(]jW]jW^bAg)
+
+"flutteringly"
+(]fIIfA]fIIfA)
+
+"foggily"
+(WbDAcAb X|\Ag)
+
+"fondly"
+(GbXfW^bAg)
+
+"foolishly"
+(WfI|UfAAgGl)
+
+"for_example"
+(WkIzI GzIQjD)
+
+"for_instance"
+(WkIzI GzIQjD)
+
+"forcedly"
+(WfAX|Il)
+
+"forcibly"
+(AbWXgXfAWzIl)
+
+"fore"
+(W|QsIWg)
+
+"forebodingly"
+(WwAAbQXfAWzIl)
+
+"foremost"
+(QcD QfDXf)
+
+"foreseeingly"
+(UfDAjDX|QjWWzI AbX|Al)
+
+"forever"
+(WjWAs^|)
+
+"forexample"
+(WkIzI GzIQjD)
+
+"forgetfully"
+(W|XA|IzI XbI^bWj)
+
+"forgivingly"
+(AlbDGc^|)
+
+"forinstance"
+(WkIzI GzIQjD)
+
+"forlornly"
+(VzIVzI^|)
+
+"formally"
+(XfWU|AWzIl)
+
+"formerly"
+(W|XfD)
+
+"formidably"
+(QsUfRAg)
+
+"forsooth"
+(ZbQWzIl)
+
+"forte"
+(AbW^bAg)
+
+"forth"
+(Wb]WzIl)
+
+"forthright"
+(HlARbIl)
+
+"forthwith"
+(AlG)
+
+"fortissimo"
+(WbXs AbW^bAg)
+
+"fortnightly"
+(2XsW|IQbGb)
+
+"fortunately"
+(Gb^cW^|)
+* WsDXl^AgGl (~ {+SBEGIN})
+
+"fortyfold"
+(40 RcIl)
+
+"forward"
+(Wb]WzIl)
+
+"forwardly"
+(XsXgDfQAg)
+
+"forwards"
+(RsXfW^bAg)
+
+"foully"
+(GfIfRAg)
+
+"four-in-hand"
+(QbRs ^lDXbUf Gs QbZbIzI QlIAl)
+
+"foursquare"
+(XfWRbW^jWWzIl)
+
+"fourteenthly"
+(14 RfDYcWg)
+
+"fourth"
+(4 RfDYc)
+
+"fourth-class"
+(Xg 4]jD Ws]jDWzIl)
+
+"fourthly"
+(4 RfDYcWg)
+
+"foxily"
+(Ar^lbI^bAg)
+
+"fractionally"
+(GbD]jDXfAWzIl)
+
+"fragilely"
+(BcX|A| Us|RAg)
+
+"fragmentarily"
+(GbD]jDXfAWzIl)
+
+"fragrantly"
+(^dWA|IlRAg)
+
+"frailly"
+(WdA^bAg)
+
+"frankly"
+(UlIX|A^|)
+
+"frantically"
+(Q|Z|DGzUW|)
+
+"fraternally"
+(WsWc A|]Ag)
+
+"free"
+(XbWwIlRAg)
+# free of charge (ADV) : QsIrIl
+
+"free-lance"
+(WfIAQcW|X| WbD^Al)
+
+"freely"
+(XbWwIlW|)
+
+"frequently"
+(R|DRfD^|)
+
+"freshly"
+(UcIlW|)
+
+"fretfully"
+(BbGbIlRAg)
+
+"friendly"
+(Z|D^bAg)
+
+"frighteningly"
+(UfQHzA DlIIbUf)
+
+"frightfully"
+(QsUfRAg)
+
+"frigidly"
+(DcW^lA^bAg)
+
+"frivolously"
+(AjWRbA^bAg)
+
+"fro"
+(XfYlAWg)
+
+"front"
+(XfWQjDWg)
+
+"frontward"
+(XfWQjDYlAWzIl)
+
+"frostily"
+(UfI|Ab DcI|D GzUW|)
+
+"frothily"
+(Af]sQWzI W|IWf)
+
+"frozenly"
+(WfIWzQAb\W|)
+
+"frugally"
+(AfQUl^bAg)
+
+"fruitfully"
+(WjIQcIzI XbI QcXWf)
+
+"fruitlessly"
+(^fUGl|W|)
+
+"fugally"
+(GsDXsAlAU|AWzIl)
+
+"full"
+(ZsWRsD^|)
+
+"full-length"
+(GzWU|DGcIl)
+
+"fullface"
+(XfWQjDWzIl ^dW^bWj)
+
+"fully"
+(WlbDXfD^|)
+* WlbDXfD^bAg (develop)
+
+"functionally"
+(A|DzWUbW)
+
+"fundamentally"
+(AzDRlDXfAWzIl)
+
+"funnily"
+(XcQ|W|VAg)
+
+"funny"
+(WsUzRAg)
+
+"furiously"
+(QcWIjI^|)
+
+"further"
+(QbD^W|)
+# further and further (ADV) : GfWsA QfII|
+
+"furthermore"
+(Hl^bD)
+
+"furtively"
+(WzDQ|I^|)
+
+"fussily"
+(AlWWjD^| RfRUfAGl|Wf)
+
+"futily"
+(VzIGgWfRUW|)

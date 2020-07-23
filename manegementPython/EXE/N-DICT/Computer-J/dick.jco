@@ -1,0 +1,10 @@
+
+"korean"
+# korean double-byte character set  : ^bDAsAWf 2 RbW|\z QsDXb Ug\z
+# korean hangeul character set  : ^bDAzI QsDXb Ug\z
+# korean hanja character set  : ^bDAsAWf ^bDXb QsDXb Ug\z
+# korean non-hangeul/non-hanja character set  : ^bDAsAWf R|-^bDAzI/R|-^bDXb QsDXb Ug\z
+# korean minister of science and technology  : ^bDAsA Alb^bA A|UsIZf XbWAlbD
+# korean minister of science  : ^bDAsA Alb^bA A|UsIZf XbWAlbD
+# korean science minister  : ^bDAsA Alb^bA A|UsIZf XbWAlbD
+# korean science and technology minister  : ^bDAsA Alb^bA A|UsIZf XbWAlbD

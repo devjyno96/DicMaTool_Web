@@ -1,0 +1,9746 @@
+"Taliban"
+(\bII|RbD)
+
+"TOKYO"
+(GlBr)
+
+"TRAVEL"
+(Wj^cW)
+
+"TV"
+% CONCRETE MATERIAL 
+(\gIIgR|XjD)
+
+"Tahitian"
+% HUMAN ANIMAL
+(\b^|\|UfQ UbIbQ)
+
+"Tartar"
+% HUMAN ANIMAL
+(\b\bIz UbIbQ)
+
+"Taiwan"
+% GEONAME PLACE ORGAN
+(GcQbD)
+
+"Tel Aviv"
+% PLACE
+(\gIWbR|Rz)
+
+"Tennessee"
+% PLACE ORGAN
+(\gDgU|)
+
+"Tennysonian"
+% HUMAN ANIMAL 
+(\gD|UzD UbIbQ)
+
+"Terminator"
+(\fQ|DgW|\f)
+# Terminaror 3 (NOUN) : \fQ|DgW|\f 3
+
+"Tern"
+(AbIQcA|)
+# Arctic Tern (NOUN) : RsAAzA AbIQcA|
+
+"Texan"
+% HUMAN
+(\gAUbUzW|D)
+
+"Texas"
+% PLACE ORGAN
+(\gAUbUz)
+# West Texas (NOUN) : UfRs \gAUbUz
+# West Texas Intermediate crude (NOUN) : UfRs \gAUbUz XsWWw
+
+"Texas-based Enron"
+(\gAUbUzWg Ws|Z|^bD WgDIfD)
+
+"Thai"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\bW|IIcDGz)
+# a Thai (NOUN) : \bW| UbIbQ
+
+"Thalian"
+% HUMAN ANIMAL
+(\bII|Wb UbIbQ)
+
+"Thames"
+% RIVER PLACE
+(\gQXz)
+# the Thames (NOUN) : \gQXz
+
+"Thanksgiving"
+(ZsUsAbQUbXfI)
+
+"Thanksgiving Day"
+(ZsUsAbQUbXfI)
+
+"The Sporting News"
+(Gf Uz]l\|W DwUz)
+
+"The Times"
+(Gf \bW|QXz)
+
+"The United States"
+% ORGAN PLACE
+(Q|AsA)
+
+"The Washington Post"
+% ORGAN
+(Gf WsfU|W\lD]lUz\z)
+
+"Thessalian"
+% HUMAN ANIMAL
+(AzI|W|Uz UbIbQ)
+
+"Third World"
+(Xg3UgAk)
+
+"Three Kingdom"
+(3AsA)
+# the days of the Three Kingdom (NOUN) : UbQAsAU|Gc
+
+"Thomas"
+% HUMAN
+(\lQbUz)
+
+"Thurs"
+% CONCRETE TIME MATERIAL 
+(QlAWrW|I)
+
+"Thursday"
+% CONCRETE TIME MATERIAL 
+(QlAWrW|I)
+
+"Ticker Symbol"
+(XsU|A U|Ug ]rU| A|^l)
+
+"Tiger Woods"
+% HUMAN
+(\bW|Af WsXz)
+
+"Times"
+(\bW|QXz)
+
+"Titanic"
+(\bW|\bD|A)
+
+"Tocharian"
+% HUMAN ANIMAL
+(\l[bIbQbI UbIbQ)
+
+"Tochigi"
+(GlZ|A| ^jD)
+
+"Togolese"
+% HUMAN ANIMAL
+(\lAl UbIbQ)
+
+"Tokyo"
+(GlBr)
+
+"Tokyo Dome"
+% PLACE
+(\l[rGlQ)
+
+"Tom"
+% HUMAN
+(\lQ)
+
+"Top News"
+(\lR DwUz)
+
+"Topix"
+(\l]|AUz)
+# Topix index (NOUN) : \l]|AUs X|Us
+
+"Torricellian"
+% HUMAN ANIMAL
+(\lI|ZgII| UbIbQ)
+
+"Transportation Department"
+(Ar\lWRs)
+
+"Travel"
+(Wj^cW)
+
+"Treasury"
+(Q|AsAAsAZc)
+# Treasury disbursements (NOUN) : XcXfWX|ZsI
+# Treasury funds (NOUN) : XcXfWXbAzQ
+# Treasury investment and loan program (NOUN) : XcXfW\sWwWXbAk^l|A
+# Treasury's operation (NOUN) : XcXfW^lbIGlW
+# Treasury yield (NOUN) : Q|AsA AsAZc UsW|AIwI
+# Treasury Secretary (NOUN) : XcQsXbWAlbD
+
+
+"Trojan"
+% HUMAN ANIMAL
+(\zIlW| UbIbQ)
+# Trojan War (NOUN) : \zIlW| XfDXcW
+
+"Tuesday"
+% CONCRETE TIME MATERIAL 
+(^lbWrW|I)
+
+"Turing Award"
+(\wI|WUbW)
+
+"Turkey"
+% PLACE ORGAN
+(\f[|)
+
+"t"
+% CONCRETE UNIT MATERIAL 
+(t)
+
+"t-man"
+% HUMAN
+(\bIUg AbQUbAlbD)
+
+"t-shirt"
+(\|W|UdVz)
+
+"t-time"
+% TIME
+(U|^fQ RbIUb U|AbD)
+
+"taal"
+(\bWbIQbI)
+
+"tab"
+% CONCRETE MATERIAL 
+(\cR)
+# ^keep tab on A (VERB) : [(OBJ A/WzI) AkUbD^b<VERB>]/Gb
+# ^keep tabs on A (VERB) : [(OBJ A/WzI) AkUbD^b<VERB>]/Gb
+# ^throw up a tab  (VERB) : R|XWzI XbBs X|Gb
+
+"tabard"
+(Wl|\s)
+
+"tabasco"
+% FOOD
+(\bRbUz[l UlUz)
+
+"tabby"
+% CONCRETE ANIMAL MATERIAL 
+(WfIIsA AlWdWW|)
+
+"tabernacle"
+% CONCRETE ANIMAL MATERIAL 
+(WlGsQbAX|R)
+
+"tabes"
+(Ul|WdA)
+
+"tabetic"
+% HUMAN
+(ZfAUsIl ^lbDXb)
+
+"tabinet"
+(QsIAjIQsDz|IzI AjDQlX|AQsI)
+
+"tabla"
+(XbAWzD UlDRsA)
+
+"tablature"
+% CONCRETE MATERIAL 
+(]jWQjD)
+
+"table"
+% CONCRETE MATERIAL 
+(\gW|RzI)
+# appendix table (NOUN) : Rs]r
+# calculating table (NOUN) : AkUbDW|IAjD]r
+# conversion table (NOUN) : ^lbDUbD]r
+# defense table (NOUN) : RbWWf \gW|RzI
+# dining table (NOUN) : U|A\bA
+# ^clear the table (VERB) : U|A\bA Ws|IzI Z|WsGb
+# table of interest (NOUN) : W|WwI]r
+# table of logarithm (NOUN) : GcUs]r
+# table of rates (NOUN) : UgWwI]r
+# table of weights and measures (NOUN) : GlIdW^jW]r
+# ^be at table (VERB) : U|AUbXsWW|Gb
+# ^be under the table (VERB) : AlDGzIgQbDGzIg Zs|^cW|VGb
+# ^be upon the table (VERB) : AfQ\lXsWW|Gb
+# ^keep an open table (VERB) : DfII| UlDD|QWzI ^lbDWjW^bGb
+# ^keep a good table (VERB) : DzI XbIQfAGb
+# ^set a good table (VERB) : DzI ^lU|A^bGb
+# ^keep the table amused (VERB) : XlbUfAWzI ^zWAjRGlIlA GlIRlGb
+# ^lay on the table (VERB) : W|IU| XsWX|^bGb
+# ^lie on the table (VERB) : W|IU| XsWX|Gl|Gb
+# ^lay the table (VERB) : U|A\bA XsDR|IzI ^bGb
+# ^set the table (VERB) : U|A\bA XsDR|IzI ^bGb
+# ^spread the table (VERB) : U|A\bA XsDR|IzI ^bGb
+# ^learn ONE_S tables (VERB) : AsAs]rIzI Wl|Gb
+# pleasures of the table (NOUN) : U|AGlIbA
+# ^serve tables (VERB) : R|DQ|DWgAg WzQU|AWzI QfAW|Gb
+# ^sit at table (VERB) : U|A\bAWg WbDXGb
+# table of contents (NOUN) : QlAZb
+# table of descent (NOUN) : AkGl
+# Table of Degrees (NOUN) : AzQ^lDZ|DGzW]r
+# the exchange table (NOUN) : ^lbDWwI ^lbDUbD]r
+# the green table (NOUN) : GlRbAGc
+# the Lord's table (NOUN) : UfWZbD
+# the holy table (NOUN) : UfWZbD
+# the multiplication table (NOUN) : AsAs]r
+# the twelve tables (NOUN) : 12 GlW]r
+# ^turn the tables (VERB) : ^jWUgIzI W|IRjD^bGb
+# ^wait at table (VERB) : U|AUb U|XsWWzI GzIGb
+# ^wait on table (VERB) : U|AUb U|XsWWzI GzIGb
+# table tennis (NOUN) : \bAAs
+
+"table-boarder"
+% HUMAN
+(U|AUbQbD ^bDzD ^bUsAW|D)
+
+"table-flap"
+(\bAXbWz| ]bDXb)
+
+"tableau"
+% MATERIAL 
+(AzI|Q)
+# tableau curtains (NOUN) : WdWYlAWzIl WjGbGDzD QbA
+# tableau vivant (NOUN) : ^lbIW|D^lb
+
+"tablecloth"
+% CONCRETE MATERIAL 
+(U|A\bARl)
+
+"tableful"
+(^bD UbW)
+
+"tablespoon"
+% CONCRETE MATERIAL 
+([zD UsGAbI)
+
+"tablespoonful"
+% CONCRETE MATERIAL 
+([zD UsGAbI ^bDb AbGzA)
+
+"tablet"
+% CONCRETE MATERIAL 
+(]jW]bD)
+# a memorial tablet (NOUN) : A|DjQ]c
+# a tablet of chocolate (NOUN) : DbRXbA^bD Zl[lIIgU
+
+"tableware"
+% CONCRETE ANIMAL MATERIAL 
+(U|A\bAWrW A|As)
+
+"tabloid"
+% CONCRETE MATERIAL 
+(\bRzIIlW|Gz]bD U|DQsD)
+# tabloid journalism (NOUN) : GcXsWX|
+# in tabloid form (PP->ADV) : WrWdAGl|Wf
+
+"taboo"
+% MATERIAL 
+(AzQA|)
+# ^put the taboo on A (VERB) : [(OBJ A/IzI) WfQAzQ^b<VERB>]/Gb
+# ^put under taboo (VERB) : WfQAzQ^bGb
+
+"tabor"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD RsA)
+
+"taboret"
+% CONCRETE ANIMAL MATERIAL 
+(DbX|QbA^bD Wz|Xb)
+
+"tabula"
+(]|IA|]bD)
+
+"tabulation"
+% CONCRETE MATERIAL 
+(]r XbAUfW)
+
+"tabulator"
+% CONCRETE ANIMAL MATERIAL 
+(Gl]r XbAUfWXb)
+
+"tacamahac"
+(\b[bQb^bA UsX|)
+
+"tachograph"
+% CONCRETE ANIMAL MATERIAL 
+(XbA| ^l|XfD UlAGlAk)
+
+"tachometer"
+% CONCRETE ANIMAL MATERIAL 
+(^l|XfD UlAGlAk)
+
+"tachymeter"
+% CONCRETE ANIMAL MATERIAL 
+(U|AfWz|)
+
+"taciturnity"
+% CONCRETE MATERIAL 
+(QsWfD)
+
+"tack"
+% CONCRETE MATERIAL 
+(WbRXfW)
+# hard tack (NOUN) : HbAHbA^bD SbW
+# soft tack (NOUN) : QbIIbWQbIIbW^bD SbW
+
+"tacker"
+% HUMAN
+(WbRXfW RbADzD UbIbQ)
+
+"tacking"
+% CONCRETE MATERIAL 
+(WbRXfWRbAA|)
+
+"tackle"
+% CONCRETE MATERIAL 
+(GlAs)
+# a different tackle (NOUN) : ZbGlW^lbIZb
+# a single tackle (NOUN) : GbDU|A ^lbIZb
+# a compound tackle (NOUN) : RlAU|A ^lbIZb
+
+"tackling"
+% MATERIAL 
+(Rs\XbRAl RbW^c^bA|)
+# tackling bag (NOUN) : \c[zI WjDUzR GlAs
+
+"tact"
+% CONCRETE MATERIAL 
+(XcZ|)
+# ^have tact in teaching (VERB) : AbIzZ|DzD WrIjWWzI WbIAl W|VGb
+# tact system (NOUN) : \cA\z U|Uz\gQ
+
+"tactic"
+% MATERIAL 
+(WrWRjW^bA)
+
+"tactician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfDUsIAb)
+
+"tactics"
+(XfDUsI)
+# grand tactics (NOUN) : AlGzW XfDUsI
+# minor tactics (NOUN) : AsAX| XfDUsI
+
+"tactility"
+% MATERIAL 
+(AbQZlAUfW)
+
+"tad"
+% HUMAN
+(WfI|DWc)
+
+"tadpole"
+% CONCRETE ANIMAL MATERIAL 
+(WlIZcWW|)
+
+"tael"
+% CONCRETE UNIT MATERIAL 
+(\gW|I)
+
+"taenia"
+% CONCRETE ANIMAL MATERIAL 
+(QfI| H|)
+
+"taffarel"
+(AlQsIWz| DbDAbD)
+
+"taffeta"
+% CONCRETE MATERIAL 
+(^lRbAGbD)
+
+"taffrail"
+% CONCRETE ANIMAL MATERIAL 
+(AlQsIWz| DbDAbD)
+
+"taffy"
+% CONCRETE MATERIAL 
+(\c]|)
+
+"tafia"
+% FOOD
+(IfQUsI)
+
+"tag"
+% CONCRETE MATERIAL 
+(BlI|]r)
+# tag and rag (NOUN) : ^bZzWQ|D
+# tag rag and bobtail (NOUN) : ^bZzWQ|D
+
+"tagalog"
+% HUMAN
+(\bAbIIlAz UbIbQ)
+
+"tagalong"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DzI DbQWgAg Rs\WfGbD|DzD UbIbQ)
+
+"tagger"
+% HUMAN
+(Rs\W|DzD UbIbQ)
+
+"tagmeme"
+(QsDRfRUl)
+
+"tagrag"
+% HUMAN
+(^bZzWQ|D)
+
+"tahitian"
+% HUMAN
+(\b^|\|UfQ UbIbQ)
+
+"taiga"
+% PLACE
+(Z|QWjRUsI|Q X|Gc)
+
+"tail"
+% CONCRETE MATERIAL 
+(BlI|)
+# at the tail of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) QcD BlWQsD|<NOUN>]/Wg)
+# close on a person's tail (ADV) : (ADJUNCT [(POSS [DbQ<NOUN>]/Wz|) RbIl Gs|<NOUN>]/Wg)
+# ^get ONE_S tail down (VERB) : ]sIW| XsAGb
+# ^get ONE_S tail up (VERB) : A|WsDW| DbGb
+# ^go into tails (VERB) : WjDQ|RlAWzI W|RAg Gl|Gb
+# ^keep ONE_S tail up (VERB) : WsfDA| WlbWUfW^bGb
+# ^keep the tail in waters (VERB) : RfDZbW^bGb
+# tail up (ADV) : A|RsDW| Xl^WbUf
+# the tail of a stream (NOUN) : QsIXsIA|Wz| Bz\
+# the tail of the eye (NOUN) : DsDZlI|
+# with the tail of the eye (PP->ADV) : Aj\DsDX|IIl
+# out_of the tail of the eye (PP->ADV) : Aj\DsDX|IIl
+# ^turn tail (VERB) : ^lcA GlIWbUfGb
+# ^twist the tails of A (VERB) : [(OBJ [(RELCL [(ADJUNCT [(POSS A/Wz|) R|Ws|<NOUN>]/Wg) AfUzII|<VERB>]/^bDzD) QbI<NOUN>]/WzI) ^b<VERB>]/Gb
+# with the tail between the legs (PP->ADV) : AfRW| DbUf
+# with ONE_S tail between the legs (PP->ADV) : AfRW| DbUf
+
+"tailboard"
+(^sQ| ]bDXb)
+
+"tailfin"
+(BlI|X|DzIfQ|)
+
+"tailgate"
+% CONCRETE ANIMAL MATERIAL 
+(Gs|UQsD)
+
+"tailing"
+% MATERIAL 
+(BlI|IzI GbIA|)
+
+"tailor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XcGbDUb)
+# ^sit tailor fashion (VERB) : ZcAUbWGbI|^bAl WbDXGb
+# tailor's chair (NOUN) : XcRlWUbWrW Wz|Xb
+# tailor's clippings (NOUN) : WdWRlAX| AjDRlD
+
+"tailor-made"
+(QbZsQ WdWRlA)
+
+"tailorbird"
+% CONCRETE ANIMAL MATERIAL 
+(XcRlWUc)
+
+"tailoring"
+% MATERIAL 
+(WdWRlA XcRlWWfR)
+
+"tailpiece"
+% CONCRETE MATERIAL 
+(BlW|D XlAbA)
+
+"tailrace"
+% PLACE
+(RbWUsIl)
+
+"taint"
+% MATERIAL 
+(WfIIsA)
+# a taint of insanity (NOUN) : AlbWA|
+
+"taiping"
+% HUMAN
+(XbWRbIXfA)
+# the Taiping Rebellion (NOUN) : XbWRbIXfAWz| DbD
+
+"taiwan"
+% PLACE
+(GcQbD)
+
+"taiwanese"
+% HUMAN
+(GcQbD UbIbQ)
+
+"take"
+% MATERIAL 
+(]l^l|AIdW)
+# ^be on the take (VERB) : A|^l|IzI DlI|Al W|VGb
+
+"take-down"
+(\gW|[z GbWsD)
+
+"take-home"
+% ECOLIFE
+(U|IAzRIr)
+
+"take-in"
+(^jRXbR)
+
+"take-off"
+(ZsIRbI)
+
+"take-over"
+% ACTION
+(W|DAk)
+# the military take over (NOUN) : AsDUb^jAQjW
+
+"take-up"
+(Xl|DzD GlAs)
+
+"takedown"
+(RsD^c)
+
+"takeoff"
+(W|IwA)
+
+"takeout"
+% CONCRETE MATERIAL 
+(BfDcD AfU)
+
+"takeover"
+% ACTION
+(W|DAk)
+
+"taker"
+% HUMAN
+(XbRDzD UbIbQ)
+
+"takin"
+% CONCRETE ANIMAL MATERIAL 
+(WjWWdW)
+
+"taking"
+% MATERIAL 
+(]l^l|A)
+
+"taking-off"
+(XgAf)
+# taking off run (NOUN) : W|IwA ^lbIXs
+
+"talaria"
+(DbIAcAsGs)
+
+"talbot"
+% ANIMAL
+(UbDdWAc)
+
+"talc"
+% CONCRETE MATERIAL 
+(^lbIUfA)
+
+"talcum"
+% CONCRETE MATERIAL 
+(^lbIUfA AbIs)
+
+"tale"
+% CONCRETE MATERIAL 
+(W|WdA|)
+# ^bring tales (VERB) : AlXbX|I^bGb
+# ^carry tales (VERB) : AlXbX|I^bGb
+# tale of nought (NOUN) : ^bZbD^WzD UbQsI
+# ^tell ONE_S own tale (VERB) : U|DUg \bIjWWzI ^bGb
+# ^tell its own tale (VERB) : U|DUg \bIjWWzI ^bGb
+# ^tell tales (VERB) : AlXbX|I^bGb
+# ^tell the tale of A (VERB) : [(OBJ [(POSS A/Wz|) W|WdA|<NOUN>]/IzI) ^b<VERB>]/Gb
+
+"talebearer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlXbX|IXbWW|)
+
+"talebearing"
+% ACTION
+(UlQsDWzI ]fHzI|A|)
+
+"talent"
+% MATERIAL 
+(\cIIfD\z)
+
+"taler"
+(WzD^lb)
+
+"talesman"
+% HUMAN
+(RlAjI RcU|QWsfD)
+
+"taleteller"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|WdA|^bDzD UbIbQ)
+
+"tali"
+(RlAUbSjGzI)
+
+"talion"
+(GlW^c RlAUsRfR)
+
+"talipot"
+% CONCRETE ANIMAL MATERIAL 
+(WdXbDbQs)
+
+"talisman"
+% CONCRETE MATERIAL 
+(RsXfA)
+
+"talk"
+% CONCRETE MATERIAL 
+(W|WdA|)
+# bargaining talk (NOUN) : ArUfR Gc^lb
+# ^be in talk $ (VERB) : ^jRUbWXsWW|Gb
+# closed talk (NOUN) : R|AlWAc Gc^lb
+# free talk (NOUN) : XbWw \lIlD
+# ^have a talk with A (VERB) :  [(ADJUNCT A/Wlb) Wz|DlD^b<VERB>]/Gb
+# open talk (NOUN) : AlWAc Gc^lb
+# peace talk (NOUN) : ]jW^lb ^l|GbQ
+# urgent talk (NOUN) : A|DAzR Gc^lb
+
+"talk-in"
+% ACTION
+(^bWWz| WjDUfI X|R^l|)
+
+"talkathon"
+% ACTION
+(A|D WjDUfI)
+
+"talkativeness"
+% CONCRETE MATERIAL 
+(UsGbUzIfWsQ)
+
+"talkbox"
+% ANIMAL
+(W|R)
+
+"talkee-talkee"
+(Uf\sIzD WjWWf)
+
+"talker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|WdA|^bDzD UbIbQ)
+# a good talker (NOUN) : QbI XbI^bDzD UbIbQ
+
+"talkfest"
+% ORGAN
+(X|Is^bD AbDGbQ^l|)
+
+"talkie"
+(RbIUfWWjW^lb)
+
+"talking"
+(GbQ^lb)
+
+"talking-to"
+(BsX|IbQ)
+
+"tallboy"
+% CONCRETE ANIMAL MATERIAL 
+(GbI|Ab Dl]WzD WlUXbW)
+
+"tallness"
+% CONCRETE MATERIAL 
+(Dl]WzQ)
+
+"tallow"
+% CONCRETE MATERIAL 
+(UsX|)
+# beef tallow (NOUN) : Us A|IzQ
+# mutton tallow (NOUN) : WdW A|IzQ
+# vegetable tallow (NOUN) : QlAIbR
+
+"tally"
+% CONCRETE MATERIAL ECOLIFE
+(^bIRs)
+# by the tally (PP->ADV) : ^bD GbRbIWg WfIQbIl
+# ^live tally with A (VERB) : [(ADJUNCT A/Wlb) GlWUfUcW^lbI^b<VERB>]/Gb
+# ^make a tally in a game (VERB) : AjWA|WgUf GzAXfQ^bGb
+# monthly tally (NOUN) : QcGbI ^bIRs
+# ^earn a tally in a game (VERB) : AjWA|WgUf GzAXfQ^bGb
+# ^strike tally (VERB) : Rs^bR^bGb
+
+"tally-ho"
+(Us|AUs|A)
+
+"tallyman"
+% HUMAN
+(^bIRs ]bDQcW|D)
+
+"talmud"
+% ART
+(\bIQsGz)
+
+"talmudist"
+% HUMAN
+(\bIQsGz ]jDX|RXb)
+
+"talon"
+% CONCRETE MATERIAL 
+(RbI\lR)
+
+"talos"
+(^bQGcAlW Q|UbW|I)
+
+"talus"
+% CONCRETE MATERIAL ANIMAL
+(AfAlI)
+
+"tam"
+% CONCRETE ANIMAL MATERIAL 
+(RgIgQl)
+
+"tam-o'-shanter"
+% CONCRETE ANIMAL MATERIAL 
+(RgIgQl)
+
+"tamale"
+% CONCRETE MATERIAL FOOD
+(QgAU|[l WrI|)
+
+"tamarack"
+% CONCRETE ANIMAL MATERIAL PLANT
+(WbQgI|[b DbAWjRUlW)
+
+"tamarind"
+% CONCRETE MATERIAL 
+(\bQbI|DGz)
+
+"tamarisk"
+(Ws|UfWIw)
+
+"tambour"
+% CONCRETE ANIMAL MATERIAL 
+(RsA)
+
+"tameness"
+(A|IGzIQ)
+
+"tamer"
+% HUMAN
+(A|IGzIW|DzD UbIbQ)
+# a lion tamer (NOUN) : UbXb RsI|DzD UbIbQ
+
+"tamil"
+% HUMAN
+(\bQ|I UbIbQ)
+
+"tamper"
+% CONCRETE ANIMAL MATERIAL 
+(ZsWXfD)
+
+"tampion"
+(DbQs QbAc)
+
+"tampon"
+% CONCRETE ANIMAL MATERIAL 
+(\cQ]fD)
+
+"tamtam"
+([zDRsA)
+
+"tan"
+% CONCRETE MATERIAL 
+(XfRUfD)
+# ^kiss the tan (VERB) : QbIWgUf HfIWfX|Gb
+
+"tan-yard"
+% PLACE
+(QsGsX|I AlWXbW)
+
+"tanager"
+% CONCRETE ANIMAL MATERIAL 
+(]sWAzQXl)
+
+"tanbark"
+(\cD BfRX|I)
+
+"tandem"
+% CONCRETE ANIMAL MATERIAL 
+(VbWGsQb)
+
+"tang"
+% CONCRETE MATERIAL 
+(WfIWfI^bD QbU)
+
+"tangency"
+% CONCRETE MATERIAL 
+(XfRZlA)
+
+"tangent"
+% CONCRETE MATERIAL 
+(XfRUfD)
+# ^fly off at a tangent (VERB) : AbRXbA| Wj]A|IIl R|UDbAbGb
+# ^go off at a tangent (VERB) : AbRXbA| Wj]A|IIl R|UDbAbGb
+
+"tangerine"
+% CONCRETE MATERIAL HUMAN
+(\bDX|Iz UbIbQ)
+
+"tangibility"
+(QbDX|I Us W|VDzD)
+
+"tangible"
+(Ww^jW)
+
+"tangibleness"
+% CONCRETE MATERIAL 
+(QbDX|I Us W|VDzD)
+
+"tangle"
+% MATERIAL 
+(WfW[|Q)
+# in a tangle (PP->ADV) : Gs|WfIA^|Wf
+# ^get into tangles (VERB) : Gs|XsARbAXsA Gl|Gb
+
+"tangle-foot"
+% FOOD
+(GlA^bD UsI)
+
+"tango"
+(\cWAl)
+
+"tank"
+% CONCRETE MATERIAL 
+(\cW[z)
+# a cooling tank (NOUN) : DcWAbA \cW[z
+# female tank (NOUN) : AjW XfDZb
+# heavy tank (NOUN) : XsW XfDZb
+# high-tech think tank (NOUN) : U|DA|UsI GsDl| X|RGbD
+# male tank (NOUN) : XsW XfDZb
+# the think tank (NOUN) : GsDl| X|RGbD
+# think tank (NOUN) : GsDl| X|RGbD
+
+"tankage"
+% MATERIAL ECOLIFE
+(\cW[z UbWrWIr)
+
+"tankard"
+% CONCRETE ANIMAL MATERIAL 
+([zD [fR)
+
+"tankbuster"
+(GcXfDZb]l)
+
+"tanker"
+% CONCRETE MATERIAL 
+(WwXlUfD)
+
+"tankman"
+% HUMAN
+(XfDZbRjW)
+
+"tannage"
+(QsGsX|I)
+
+"tannate"
+(\bD|DUbDWjQ)
+
+"tanner"
+% CONCRETE HUMAN ANIMAL MATERIAL PLACE
+(QsGsX|I AlWXbW)
+
+"tannin"
+(\bD|DUbD)
+
+"tanning"
+(Xg^jARfR)
+
+"tansy"
+% MATERIAL PLANT
+(VsAAsA^lb)
+
+"tantalization"
+(Wc\cWsQ)
+
+"tantalum"
+% CONCRETE MATERIAL 
+(\bD\bI)
+
+"tantara"
+(HbDHbIb)
+
+"tantrum"
+% MATERIAL MIND
+(A|RsD WfDYbD^WzQ)
+# ^be in ONE_S tantrum (VERB) : ^lbDb W|VGb
+# ^go into ONE_S tantrum (VERB) : WsI^lb\lWWzI \fHzI|Gb
+# ^fly into ONE_S tantrum (VERB) : WsI^lb\lWWzI \fHzI|Gb
+# ^get into ONE_S tantrum (VERB) : WsI^lb\lWWzI \fHzI|Gb
+
+"taoism"
+% ORGAN ART
+(GlAr)
+
+"taoist"
+% HUMAN
+(GlAr U|DXb)
+
+"tap"
+% CONCRETE MATERIAL 
+(BlAX| <AbRjRAg Z|A|> )
+# a tap borer (NOUN) : AsQfW HsI^DzD UlWAlU
+
+"tap-in"
+(\cRW|D)
+
+"tap-tap"
+(HlAHlA)
+
+"tapa"
+(\b]bZfD)
+
+"tape"
+% CONCRETE ANIMAL MATERIAL 
+(\gW|]z)
+# ^breast the tape (VERB) : \gW|]zIzI BzD^Gb
+# red tape (NOUN) : AlbDIrXfA ^jWU|AXsWz|
+# tape recorder (NOUN) : \gW|]z Ig[lGf
+
+"tapeline"
+% CONCRETE ANIMAL MATERIAL 
+(XsIXb)
+
+"taper"
+% CONCRETE MATERIAL 
+(XbAWzD WdWZl)
+
+"tapestry"
+% CONCRETE MATERIAL 
+(\c]|Uz\zI|)
+
+"tapeworm"
+% CONCRETE ANIMAL MATERIAL 
+(ZlDZsW)
+
+"tapioca"
+% CONCRETE MATERIAL 
+(\b]|Wl[b)
+
+"tapir"
+% CONCRETE ANIMAL MATERIAL 
+(QcA)
+
+"tapis"
+(ZcAUbWRl)
+# ^be on the tapis (VERB) : U|QWz| XsWW|Gb
+# ^come on the tapis (VERB) : \lWz| XsWW|Gb
+
+"tapotement"
+(AbRjRAg GsGzI|DzD WbDQbRfR)
+
+"tapper"
+% HUMAN
+(GsGzI|DzD UbIbQ)
+
+"tappet"
+(ZfIXb)
+
+"tapping"
+(QbAc HbA|)
+
+"taproom"
+% PLACE
+(UsIX|R)
+
+"taproot"
+(X|AAzD)
+
+"tapster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsI HbIzDzD UbDc)
+
+"tar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\bIz)
+
+"taradiddle"
+(AfX|UQbI)
+
+"tarantella"
+(\bIbD\gIIb ZsQ)
+
+"tarantelle"
+(\bIbD\gIIb ZsQ)
+
+"tarantism"
+% MATERIAL 
+(QsGlRjW)
+
+"tarantula"
+% CONCRETE ANIMAL MATERIAL 
+(GlAAfQ|)
+
+"taratantara"
+(Db]bI UlI|)
+
+"taraxacum"
+% PLANT
+(Q|DGzIIgUlA)
+
+"tarboosh"
+% CONCRETE ANIMAL MATERIAL 
+(\fWf[| QlXb)
+
+"tarbrush"
+(\bIzUlI)
+
+"tardiness"
+% CONCRETE MATERIAL 
+(WlbDQbD)
+
+"tare"
+% CONCRETE MATERIAL 
+(]lXbW)
+# tare and tret (NOUN) : ]lXbW QsAg AkUbDRfR
+
+"targe"
+(XbAAl GsWAzD RbW]c)
+
+"target"
+% CONCRETE MATERIAL 
+(QlA]r)
+# target practice (NOUN) : UbAjA WjDUzR
+# a target ship (NOUN) : ]rXfA^bQ
+# a target for scorn (NOUN) : XlIlWAfI|
+# an export target (NOUN) : UsZsI QlA]rWcA
+# ^hit a target (VERB) : AlbDjAWg QbXGb
+# ^miss the target (VERB) : AlbDjAWzI R|UQbX^|Gb
+# ^miss the target (VERB) : WkUbWWg WfAzUDbGb
+# optimistic target (NOUN) : DbAAlbDXfAQlA]r
+# planned target (NOUN) : Ak^l|AQlA]r
+
+"tariff"
+% MATERIAL 
+(AlbDUg]r)
+# autonomous tariff (NOUN) : XbXsAlbDUg
+# preferential tariff (NOUN) : \zA^k AlbDUg
+# protective tariff (NOUN) : Rl^l AlbDUg
+# retaliatory tariff (NOUN) : RlRlAAlbDUg
+# Tariff Commission (NOUN) : AlbDUg Ws|WsfD^l|
+# tariff agreement (NOUN) : AlbDUgXbXsAsfD
+# tariff barrier (NOUN) : AlbDUgWz| XbWRjA
+# tariff hike (NOUN) : AlbDUg W|DUbW
+# tariff policy (NOUN) : AlbDUgXfWZcA
+# tariff quota (NOUN) : AlbDUg^bIGbW
+# tariff reduction (NOUN) : AlbDUgW|D^b
+# tariff treaty (NOUN) : AlbDUgXlWdA
+# tariff union (NOUN) : AlbDUgGlWQcW
+# tariff war (NOUN) : AlbDUgXfDXcW
+
+"tarlatan"
+(WdIRWzD QlUzII|D)
+
+"tarmac"
+(^lbIXsIl)
+
+"tarmacadam"
+(\bIzQb[bGbQ ]lXbW)
+
+"tarn"
+% ANIMAL
+(XgR| AbIQcA|)
+
+"tarnish"
+(^zI|Q)
+
+"taro"
+% CONCRETE MATERIAL PLANT
+(\bIl\lIbD)
+
+"tarpaulin"
+% CONCRETE MATERIAL 
+(\bIzZ|I^bD RbWUs]l)
+
+"tarpon"
+% CONCRETE ANIMAL MATERIAL 
+(\bWb]lD)
+
+"tarragon"
+% CONCRETE MATERIAL PLANT
+(UbZfIVsA)
+
+"tarragona"
+% FOOD
+(GbI[lQ^bD ]lGlXs)
+
+"tarry"
+(ZgXc)
+
+"tarsal"
+% CONCRETE MATERIAL ANIMAL
+(XlAAzDAlI)
+
+"tarsia"
+(YlADbQsIzI B|Wsf QbXZsDzD UgAlW)
+
+"tarsus"
+% CONCRETE MATERIAL ANIMAL
+(XlAAzDAlI)
+
+"tart"
+% CONCRETE ANIMAL MATERIAL FOOD
+(AlbW|IWzI Df^WzD ]bW|)
+
+"tartan"
+% CONCRETE MATERIAL 
+(Wl|GlZ UbQAbA GlZRc)
+
+"tartar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\b\bIz UbIbQ <Z|UfA>)
+# ^catch a Tartar (VERB) : ZfZ|AlDIbD^bD UbWGcIzI QbDDbGb
+# young Tartar (NOUN) : WcQfAW|DzD AcAsXbWW|
+
+"tartarus"
+% PLACE
+(X|WlAWz| A|]WzD QlU)
+
+"tartlet"
+% CONCRETE MATERIAL FOOD
+(XbAWzD AlbW|I ]bW|)
+
+"tartness"
+% CONCRETE MATERIAL 
+(U|[zQ^bQ)
+
+"tartrate"
+(XsUfAUbDWjQ)
+
+"tasimeter"
+(Q|WbRAk)
+
+"task"
+% MATERIAL 
+(X|AQs)
+# ^do ONE_S task (VERB) : Qb\WzD W|IWzI ^bGb
+# ^undertake the task of proofreading (VERB) : ^|QGzDzD ArXfWW|IWzI Qb\Wb ^bGb
+# a great task (NOUN) : [zD UbWfR
+# ^be at ONE_S task (VERB) : W|I^bAl W|VGb
+# ^set A to a task (VERB) : [(OBJ2 A/WgAg) (OBJ [W|I<NOUN>]/WzI) Qb\A|<VERB>]/Gb
+# ^take A to task (VERB) : [(OBJ A/WzI) BsX|X<VERB>]/Gb
+# ^call A to task (VERB) : [(OBJ A/WzI) ZcAQbW^b<VERB>]/Gb
+# ^bring A to task (VERB) : [(OBJ A/WzI) ZcAQbW^b<VERB>]/Gb
+
+"taskmaster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|IWzI ^bIGbW^bDzD UbIbQ)
+"taskwork"
+(^bIGbWGl|D W|I)
+
+"tassel"
+% CONCRETE MATERIAL 
+(UsI)
+
+"taste"
+% MATERIAL 
+(A|^l <Q|AbA, Zs|Q|>)
+# ^give A a taste of B (VERB) : [(OBJ2 A/WgAg) (OBJ B/WzI) AjW^fQU|[|<VERB>]/Gb
+# ^have a taste of A (VERB) : [(OBJ A/WzI) QbURl<VERB>]/Gb
+# ^have a taste for A (VERB) : [(ADJUNCT A/Wg) (OBJ [Zs|Q|<NOUN>]/IzI) AbX<VERB>]/Gb
+# ^have no taste  (VERB) : QbUWfRUGb
+# ^have a good taste (VERB) : AbQAbAW| Hs|WfDbGb
+# man of taste (NOUN) : QfUW|VDzD UbIbQ
+# matter of taste (NOUN) : Zs|Q|Wz| QsDXg
+# to ONE_S taste (PP->ADV) : QbWzQWg GzIWf
+# to taste (PP->ADV) : A|^lWg HbIb
+# to the king's taste (PP->ADV) : WlbDXfD^|
+# to the queen's taste (PP->ADV) : WlbDXfD^|
+
+"tastemaker"
+% HUMAN
+(W|DA|IzI QbDGzDzD UbIbQ)
+
+"taster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbURlDzD UbIbQ)
+
+"tat"
+(AbRjRAg Z|A|)
+# tit for tat (NOUN) : QbXRbGWb VlWbXsA|
+
+"tatter"
+% CONCRETE MATERIAL 
+(^fWAf] XlAbA)
+# in tatters (ADV) : DsGfA|Ab Gl|Wf
+# ^tear to tatters (VERB) : RbIA|RbIA| Y|XGb
+
+"tatters"
+(DfWQb)
+
+"tatting"
+% CONCRETE MATERIAL 
+(\c\|W)
+
+"tattle"
+% ACTION
+(XbRGbQ)
+
+"tattler"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(UsGbXbWW|)
+
+"tattletale"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsGbXbWW|)
+
+"tattoo"
+% CONCRETE MATERIAL 
+(QsDU|D <QbWWbX|>)
+
+"tatty"
+(QfWUfA RbI)
+
+"tau"
+(\bWs)
+# tau cross (NOUN) : ^jW U|RXb
+
+"taunt"
+% CONCRETE MATERIAL 
+(XlUl)
+
+"taupe"
+(X|\WzD ^l|UcA)
+
+"tautog"
+% CONCRETE ANIMAL MATERIAL 
+(^zAGlQ|)
+
+"tautologist"
+% HUMAN
+(XsWWfDRsWfD^bDzD UbIbQ)
+
+"tavern"
+% CONCRETE ANIMAL MATERIAL PLACE
+(UfDUsIX|R)
+
+"taw"
+% CONCRETE ANIMAL MATERIAL 
+(GlI\s|A|A|)
+# ^come to taw (VERB) : ZsIRbIXfQWg UfGb
+# ^bring to taw (VERB) : ZsIRbIXfQWg UgWsGb
+
+"tawdry"
+(RfDYfAAfI|DzD)
+
+"tawniness"
+% CONCRETE MATERIAL 
+(^lbWAbIUcA)
+
+"tawny"
+(^lbWAbIUcA)
+
+"tax"
+% MATERIAL ECOLIFE
+(UgAzQ)
+# additional tax (NOUN) : RsAbUg
+# amortization of taxes (NOUN) : UgWz| ^lbDWsfD
+# assessed tax (NOUN) : AlbUgAzQ
+# assets revaluation tax (NOUN) : XbUfDXc]jWAbUg
+# border tax (NOUN) : AsAAjWUg
+# business tax (NOUN) : WjWWfRUg
+# capital tax (NOUN) : XbRlDUg
+# capitation tax (NOUN) : W|DGsUg
+# classified income tax (NOUN) : RsDIwUlGzAUg
+# consumption tax (NOUN) : UlR|Ug
+# corporation tax (NOUN) : RfRW|DUg
+# delinquent tax (NOUN) : GcDbRUg
+# direct taxes (NOUN) : X|AXfRUg
+# estate tax (NOUN) : \lX|Ug
+# free of tax (ADV) : UgAzQWfRUW|
+# income tax (NOUN) : UlGzAUg
+# indirect taxes (NOUN) : AbDXfRUg
+# ^lay a tax on A (VERB) : [(ADJUNCT A/Wg) AlbUg^b<VERB>]/Gb
+# ^leave a tax on A (VERB) : [(ADJUNCT A/Wg) AlbUg^b<VERB>]/Gb
+# land tax (NOUN) : X|Ug
+# local tax (NOUN) : X|RbWUg
+# municipal tax (NOUN) : U|Ug
+# sales tax (NOUN) : ]bDQcUg
+# tax and public imposition (NOUN) : XlUgAlWAlb
+# tax anticipation bill (NOUN) : DbRUgWwWkXzWAsfD
+# tax assessment (NOUN) : XlUgXlXfW
+# tax avoidance (NOUN) : DbRUg^l|]|
+# tax base (NOUN) : AlbUgA|XsD
+# tax break (NOUN) : UgAzQ AkUbD 
+# tax burden (NOUN) : AlbUgRsGbQ
+# tax deducted at source (NOUN) : WsfDZfDAlbUg
+# tax delinquency (NOUN) : GcDbR
+# tax dodging (NOUN) : \bIUg
+# tax evasion (NOUN) : \bIUg
+# tax exemption (NOUN) : QjDUg
+# tax filing (NOUN) : UgAzQ U|DZfW
+# tax haven (NOUN) : XlUg^l|]|
+# tax holidays (NOUN) : AlbUgWwWk 
+# tax in kind (NOUN) : QsIDbRUg
+# tax incentive (NOUN) : AlbXgUbWWz| WsGcXlZ|
+# tax incidence (NOUN) : AlbUgRsGbQWz| As|ZbA
+# tax liability (NOUN) : DbRUg Wz|Qs
+# tax loophole (NOUN) : XlUgWz| Gs|UAsQjW
+# tax payment by self-assessment (NOUN) : U|DAlDbRUg 
+# tax rate (NOUN) : UgWwI
+# tax rebate (NOUN) : UgAzQ ^lbDRsI
+# tax relief (NOUN) : UgAzQ AjWAbQ
+# tax relief bonds (NOUN) : AbQUgZcAsfD
+# tax reserve certificate (NOUN) : DbRUgXsDR|XzWAsfD
+# tax return (NOUN) : DbRUg
+# tax system (NOUN) : \bIXg
+# tax table (NOUN) : UgWwIXr
+# taxes and dues (NOUN) : XlUg Q|Z Xc^l|R|
+# taxes and public charges (NOUN) : XlUgAlWAlb
+# withholding tax (NOUN) : WsfDZfDAlbUg
+
+"tax-dodger"
+% HUMAN ECOLIFE
+(\bIUgXb)
+
+"tax-dodging"
+% ECOLIFE
+(\bIUg)
+
+"tax-exempt"
+% ECOLIFE
+(QjDUg XzWAsfD)
+
+"tax-gathering"
+(UgUs)
+# tax-gathering season (NOUN) : UgUsA|
+
+"tax-saving"
+(XfIUg)
+
+"taxation"
+% MATERIAL ECOLIFE
+(AlbUg)
+# ^be subject to tax (VERB) : AlbUgGl|Gb
+# canons of taxation (NOUN) : XlUgWsfDZ|A
+# double taxation (NOUN) : W|XsWAlbUg
+# progressive tax (NOUN) : DsX|D AlbUg
+# the tax bureau (NOUN) : UgXfWAsA
+# the tax office (NOUN) : UgXfWAsA
+
+"taxi"
+% CONCRETE ANIMAL MATERIAL 
+(\cAU|)
+#' taxi stand (NOUN) : \cAU| \bDzD AlU
+
+"taxicab"
+% CONCRETE ANIMAL MATERIAL 
+(\cAU|)
+
+"taxidermist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbAXgUb)
+
+"taxidermy"
+(RbAXgUsI)
+
+"taximan"
+% HUMAN
+(\cAU| WsDXfDUs)
+
+"taximeter"
+(XbGlW WrAzQ ]rU|A|)
+
+"taxing-master"
+% HUMAN
+(UlUlW R|WrWWzI RsAlb^bDzD AlbDI|)
+
+"taxiplane"
+(\cAU| R|^cWA|)
+
+"taxis"
+(UsDUf)
+
+"taxiway"
+% CONCRETE MATERIAL PLACE
+(WwGlIl)
+
+"taxonomist"
+% HUMAN
+(RsDIw^bAXb)
+
+"taxpayer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbRUgXb)
+
+"tea"
+% CONCRETE MATERIAL FOOD
+(Zb)
+# black tea (NOUN) : ^lWZb
+# green tea (NOUN) : DlAZb
+# coarse tea (NOUN) : WjRZb
+# dust tea (NOUN) : AbIsZb
+# cold tea (NOUN) : DcWZb
+# early tea (NOUN) : XlRbDXfDWg QbU|DzD Zb
+# ^make tea (VERB) : ZbIzI BzI^W|Gb
+# tea guild (NOUN) : GbWfR Xl^bR
+# tea of heaven (NOUN) : AbQZb
+# the first infustion of tea (NOUN) : ZfWzQ WsIfDbWlD Zb
+
+"tea-things"
+(\|Ug\z)
+
+"teacake"
+% FOOD
+(\|[gW|[z)
+
+"teacart"
+% CONCRETE MATERIAL 
+(ZbGlAs WsDRbDGc)
+
+"teach-in"
+% ORGAN
+(UfW\lGc^l|)
+
+"teachableness"
+(AbIzZ|I Us W|VWzQ)
+
+"teacher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfDUcWD|Q)
+# English teacher (NOUN) : WjWWf UfDUcWD|Q
+# ^be ONE_S own teacher (VERB) : GlA^bA^bGb
+
+"teachership"
+(ArUbWz| U|DRsD)
+
+"teaching"
+% CONCRETE MATERIAL ACTION
+(ArWwA)
+
+"teacup"
+% CONCRETE MATERIAL 
+(ZbUXbD)
+
+"teacupful"
+% CONCRETE MATERIAL 
+(ZbUXbD ^bDb AbGzA)
+
+"teagown"
+(Gb^l|RlA)
+
+"teague"
+% HUMAN
+(WbW|IIbDGz UbIbQ)
+
+"teak"
+% CONCRETE MATERIAL PLANT
+(\|W|[z DbQs)
+
+"teakettle"
+% CONCRETE ANIMAL MATERIAL 
+(Zb\bWAlbD)
+
+"teal"
+% CONCRETE ANIMAL MATERIAL 
+(QsIWlI|)
+
+"team"
+% MATERIAL HUMAN ANIMAL ECOLIFE ORGAN
+(\|Q)
+# ^be on a team (VERB) : \|QWg UlA^cW|VGb
+# home team (NOUN) : ^lQ\|Q
+# team race (NOUN) : GbDZg AjWXs
+# team spirit (NOUN) : GbDZg XfWU|D
+
+"teammate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\|Q GlWIr)
+
+"teamster"
+% CONCRETE MATERIAL HUMAN
+(\zIfA WsDXfDUb)
+
+"teamteaching"
+(\|Q \|Z|W)
+
+"teamwork"
+% CONCRETE MATERIAL 
+(\|QWsf[z)
+
+"teapot"
+% CONCRETE ANIMAL MATERIAL 
+(ZbXsXfDXb)
+# teapot tempest (NOUN) : X|RWbD VbWsQ
+# tempest in a teapot (NOUN) : X|RWbD VbWsQ
+
+"teapoy"
+(Zb\bAXb)
+
+"tear"
+% CONCRETE MATERIAL 
+(DsDQsI)
+# a tear in a dress (NOUN) : WlUWz| \fX|D Gg
+# ^be on a tear (VERB) : RsAUcX|IZ|Gb
+# full tear (ADV) : QcWIjI^|
+# ^go on a tear (VERB) : RsAUcX|IZ|Gb
+# ^move A to tear (VERB) : [(OBJ A/IzI) WsIAg ^b<VERB>]/Gb
+# ^move to tear (VERB) : AbQGlW^bWj DsDQsIW| DbGb
+# tear and wear (NOUN) : GbI^Wb WfRUWfX|Q
+# tear of joy (NOUN) : A|SzQWz| DsDQsI
+# wear and tear (NOUN) : GbI^Wb WfRUWfX|Q
+
+"tear-down"
+(^fQsIA|)
+
+"teardrop"
+% MATERIAL 
+(DsDQsI)
+
+"tearoom"
+% CONCRETE ANIMAL MATERIAL 
+(ZbUX|R)
+
+"tears"
+% CONCRETE MATERIAL 
+(DsDQsI)
+# ^bring tears to ONE_S eyes (VERB) : DsDQsIWzI AzIVfWAzIVfW^c X|Gb
+# ^burst into tears (VERB) : WlbIbA WsIWzQWzI \fHzI|Gb
+# ^draw tears (VERB) : DsDQsIWzI XbWbDcAg ^bGb
+# in tears (PP->ADV) : DsDQsIWzI ^zII|Qj
+# ^squeeze out a tear (VERB) : WfAX|Il DsDQsIWzI YbGb
+# with tears in ONE_S eyes (PP->ADV) : DsDQsIWzI QfAzQAl
+# with tears in ONE_S voice (PP->ADV) : DsDQsI WfI|D QlAUlI|Il
+
+"tease"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Al|IlR^|A|)
+
+"teasel"
+% PLANT
+(UbD\lB|BlZ)
+
+"teaser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|RXfAAfI|DzD UbIbQ)
+
+"teaspoon"
+% CONCRETE MATERIAL 
+(ZbUUsGAbIbA)
+
+"teaspoonful"
+% CONCRETE MATERIAL 
+(ZbUUsGAbIbA ^bDb AbGzA)
+
+"teat"
+% CONCRETE MATERIAL 
+(XfXBlAX|)
+
+"teatime"
+% CONCRETE MATERIAL TIME
+(Zb QbU|DzD U|AbD)
+
+"teazel"
+% PLANT
+(UbD\lB|BlZ)
+
+"teazle"
+% PLANT
+(UbD\lB|BlZ)
+
+"tec"
+% HUMAN
+(\bQXfW)
+
+"tech"
+(A|UsI)
+
+"techne"
+(\g[zD|\wQ)
+
+"technetium"
+% CONCRETE MATERIAL 
+(\g[zD|\wQ)
+
+"technic"
+% ART
+(A|UsI)
+
+"technicality"
+% MATERIAL 
+(XfDQsDXfA UfWX|I)
+
+"technician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfDQsDAb)
+
+"technicolor"
+(\g[zD|[fIIf)
+
+"technicon"
+(UlDAbIbA WjDUzRA|)
+
+"technics"
+% ART
+(AlWWk)
+
+"technicum"
+% PLACE ORGAN
+(AlWWfR ^bAAr)
+
+"technikum"
+% PLACE ORGAN
+(AlWWfR ^bAAr)
+
+"technique"
+% MATERIAL 
+(A|UsI)
+
+"technocracy"
+% ART
+(A|UsIXsWz|)
+
+"technocrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(A|UsIXsWz| XsZbWXb)
+
+"technologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Alb^bAA|UsIXb)
+
+"technology"
+% MATERIAL 
+(A|UsI)
+# an institute of technology (NOUN) : AlWAlbGc^bA
+# evolving technology (NOUN) : A|UsIWz| RbIXfD
+# space technology (NOUN) : WsXs Alb^bA A|UsI
+# technology assessment (NOUN) : A|UsI ]jWAb
+# technology gap (NOUN) : A|UsI AjAZb
+
+"technostructure"
+(A|UsI AsXl)
+
+"tectology"
+% ART
+(XlX|A ^jW\c^bA)
+
+"tectonic"
+% ART
+(AsZsA^bA)
+
+"tedder"
+% HUMAN
+(]sIWzI QbII|DzD UbIbQ)
+
+"tediousness"
+(X|Is^bQ)
+
+"tedium"
+% MATERIAL 
+(U|I^XzWDbQ)
+
+"tee"
+% CONCRETE MATERIAL 
+(T Xb)
+
+"teen"
+% HUMAN
+(U|RGc)
+
+"teen-ager"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|RGcWz| UlDjD UlDj)
+
+"teenage"
+% HUMAN
+(U|RGc)
+
+"teenager"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|RGcWz| UlDjD)
+
+"teener"
+% HUMAN
+(U|RGcWz| UlDjD)
+
+"teens"
+% CONCRETE MATERIAL 
+(U|RGc)
+
+"teenster"
+% HUMAN
+(U|RGcWz| UlDjD)
+
+"teeny-bopper"
+% HUMAN
+(U|RGcWz| UlDj)
+
+"teeth"
+(W|SbIGzI)
+
+"teetotaler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfIGc AzQXsXb)
+
+"teetotalism"
+% MATERIAL ART
+(XfIGc AzQXsXsWz|)
+
+"teetotaller"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfIGc AzQXsXb)
+
+"teetotum"
+% CONCRETE MATERIAL 
+(XbAWzD ]cWW|)
+
+"teevee"
+(\gIIgR|XfD)
+
+"tegument"
+% CONCRETE MATERIAL 
+(Gf]Ac)
+
+"tehee"
+(^|^|)
+
+"telamon"
+(W|DUbWXs)
+
+"telautogram"
+(XfDUlW Uf^lb)
+
+"telautograph"
+(XfDUlWA|)
+
+"tele"
+(\gIIgR|XjD)
+
+"telecamera"
+(\gIIgR|XjD [bQgIb)
+
+"telecast"
+% CONCRETE MATERIAL 
+(\gIIgR|XjD RbWUlW)
+# live telecast (NOUN) : \gIIgR|XfD UcWRbWUlW
+
+"telecine"
+(\gIIgR|XfDWrW WjW^lb)
+
+"telecom"
+(\lWU|D)
+
+"telecommunication"
+% CONCRETE MATERIAL 
+(WsfDAfI| \lWU|D)
+
+"telecourse"
+(\gIIgR|XjD AlbXfW)
+
+"teledrama"
+(\gIIgR|XjD GzIbQb)
+
+"teledu"
+(Uz[fW[z)
+
+"telefacsimile"
+(XfD^lb XfDUlW)
+
+"telefilm"
+(\gIIgR|XfD WjW^lb)
+
+"telegony"
+(AbQWzW WwXfD)
+
+"telegram"
+% CONCRETE MATERIAL 
+(XfDRl)
+# an urgent telegram (NOUN) : X|AzR XfDRl
+# letter telegram (NOUN) : UfU|DXfDRl
+# urgent telegram (NOUN) : Ws|AzRXfDRl
+# ^send a telegram (VERB) : XfDRlIzI Z|Gb
+
+"telegraph"
+% CONCRETE ANIMAL MATERIAL 
+(XfDU|D)
+# telegraph corps (NOUN) : XfDU|DGc
+# telegraph office (NOUN) : XfDU|DAsA
+# telegraph station (NOUN) : XfDU|DAsA
+# telegraph slip (NOUN) : XfDRl WrWX|
+# telegraph operator (NOUN) : XfDU|D XlXbAWsfD
+
+"telegrapher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfDU|D A|Ub)
+
+"telegraphese"
+(XfDQsDZg)
+
+"telegraphist"
+% HUMAN
+(XfDU|D A|Ub)
+
+"telegraphone"
+(ZsAWzQ XfDU|DA|)
+
+"telegraphy"
+% CONCRETE MATERIAL 
+(XfDU|DUsI)
+# electric wave telegraphy (NOUN) : QsUfD XfDU|DUsI
+
+"telekinema"
+% PLACE
+(\gIIgR|XfDWjW^lb UbWWjWAlbD)
+
+"telekinesis"
+% CONCRETE MATERIAL 
+(AjAGlW)
+
+"telelens"
+(QbWWsfD IgDXz)
+
+"telemark"
+(\gIIgQbWb[z)
+
+"telemechanics"
+(WsfDAjA XlXlWRfR)
+
+"telemeter"
+% CONCRETE ANIMAL MATERIAL 
+(AfI| \zAXfWA|)
+
+"telemetering"
+(WsfDAjAZzAXfW)
+
+"telemetry"
+(WsfDAjA ZzAXfWRfR)
+
+"telemotor"
+(\gIIgQlWs\f)
+
+"telenews"
+(\gIIgR|XjD DwWsUz)
+
+"teleology"
+% MATERIAL 
+(QlAXfAIlD)
+
+"teleoperator"
+(WsfDAjAXlXbA IlRlU)
+
+"teleosaurus"
+% ANIMAL
+(WlbDIrW)
+
+"telepathist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfWU|D AbQWzWUsIUb)
+
+"telepathy"
+(XfWU|D AbQWzW)
+
+"telephone"
+% CONCRETE MATERIAL 
+(XfD^lb)
+# ^be on the telephone (VERB) : \lW^lbXsWW|Gb
+# by telephone (PP->ADV) : XfD^lbIl
+# ^call A on the telephone (VERB) : [(OBJ A/WzI) XfD^lbIl RsIIfDc<VERB>]/Gb
+# ^call A to the telephone (VERB) : [(OBJ A/WzI) XfD^lbIl RsIIfDc<VERB>]/Gb
+# pay telephone (NOUN) : AlWXsWXfD^lb
+# public telephone (NOUN) : AlWXsW XfD^lb
+# ^speak to A over the telephone (VERB) : [(OBJ2 A/WgAg) XfD^lbIl W|WdA|^b<VERB>]/Gb
+# telephone book (NOUN) : XfD^lbRfD^lRs
+# telephone call (NOUN) : XfD^lb
+# telephone message (NOUN) : \lW^lb
+# telephone number (NOUN) : XfD^lbRfD^l
+# telephone pole (NOUN) : XfDXs
+# telephone rate (NOUN) : XfD^lbIrAzQ
+# telephone receiver (NOUN) : XfD^lbWz| Us^lbA|
+# telephone transmitter (NOUN) : XfD^lbWz| UlW^lbA|
+# telephone set (NOUN) : XfD^lbA|
+# telephone subscriber (NOUN) : XfD^lb AbW|RXb
+
+"telephonee"
+% HUMAN
+(XfD^lb RbGDzD UbIbQ)
+
+"telephonist"
+% HUMAN
+(XfD^lb A|Ub)
+
+"telephonitis"
+(XfD^lbAlbW)
+
+"telephonograph"
+(XfD^lb DlAWzQA|)
+
+"telephoto"
+(QbWWsfD UbX|D)
+
+"telephotograph"
+(QbWWsfD UbX|D)
+
+"telephotography"
+(QbWWsfD UbX|DUsI)
+
+"telepicture"
+(\gIIgR|XjD WjW^lb)
+
+"teleplay"
+(\gIIgR|XjD AzA)
+
+"teleprinter"
+% CONCRETE ANIMAL MATERIAL 
+(XfDU|DW|DUlcA|)
+
+"teleprompter"
+(\gIIg]zIlQ]z\f)
+
+"telerecording"
+(DlA^lb)
+
+"telergy"
+(WsfDAjA XfWU|D XbAWrW)
+
+"telescope"
+% CONCRETE MATERIAL 
+(QbWWsfDAjW)
+# a sighting telescope (NOUN) : XlXsD QbWWsfDAjW
+# a terrestrial telescope (NOUN) : X|UbW QbWWsfDAjW
+# a astronomical telescope (NOUN) : ZfDZg QbWWsfDAjW
+
+"telescopist"
+% HUMAN
+(QbWWsfDAjW UbWrWXb)
+
+"telescopy"
+(QbWWsfDAjW UbWrWRfR)
+
+"telescreen"
+(UsUbWQjD)
+
+"telescript"
+(\gIIgR|XjD RbWUlW]zIlWrW GcRlD)
+
+"telescriptor"
+(\gIIgR|XjD RbWUlW Uz[zI|R\f)
+
+"teleseism"
+(WsfDAjA X|X|DWg Wz|^bD Q|GlW)
+
+"teleseme"
+(XfDA|^lZsI XbWZ|)
+
+"telesis"
+(Ak^l|AXfA W|WrW)
+
+"telestereoscope"
+(QbWWsfD U|IZgAjW)
+
+"telethermometer"
+(WsfDAjA XbA| WlDGlAk)
+
+"telethon"
+(XbWU|AbD \gIIgR|XfD ]zIlAzIcQ)
+
+"teletranscription"
+(DlA^lb WjW^lb)
+
+"teletype"
+(\gIIg]bW|]z)
+
+"teletypesetter"
+(XbGlW XfDU|D U|AXbA|)
+
+"teletypewriter"
+% CONCRETE ANIMAL MATERIAL 
+(\gIIg\bW|]z)
+
+"teletypist"
+% HUMAN
+(\gIIg\bW|]z \bXbUs)
+
+"televiewer"
+% HUMAN
+(\gIIgR|XjD U|ZfWXb)
+
+"television"
+% CONCRETE MATERIAL 
+(\gIIgR|XjD)
+# closed circuit television (NOUN) : ]kUlc ^l|Il \|R|
+# closed-circuit television (NOUN) : ]kUlc ^l|Il \|R|
+# closed- circuit television (NOUN) : ]kUlc ^l|Il \|R|
+# national television (NOUN) : XfDAsA RbWUlW
+# television advertising (NOUN) : \gIIgR|XfD AlbWAl
+# television play (NOUN) : \gII|R|XjD GzIbQb
+# television replay (NOUN) : \gII|R|XjD XcRbWUlW
+# television station (NOUN) : \gIIgR|XfD RbWUlWAsA
+# television screen (NOUN) : \gIIgR|XfD ^lbQjD
+# television show (NOUN) : \gIIgR|XjD Ur
+# color television (NOUN) : [fIIf \gIIgR|XfD
+# black and white television (NOUN) : ^zARcA \gIIgR|XfD
+# television camera (NOUN) : \gIIgR|XfD [bQgIb
+# television set (NOUN) : \gIIgR|XfD UsUbWA|
+# television projector (NOUN) : \gIIgR|XfD WjWUbA|
+# the twoway television (NOUN) : Gc^dW \gIIgR|XfD
+
+"televisor"
+(\gIIgR|XfD UlWU|D XbWZ|)
+
+"televox"
+% HUMAN
+(A|Ak W|DAbD)
+
+"telewriter"
+(XfDA| UbXbA|)
+
+"telex"
+% CONCRETE ANIMAL MATERIAL 
+(\gIIgAUz)
+
+"teller"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|WdA|^bDzD UbIbQ)
+# deposit teller (NOUN) : WkAzQAk
+# paying teller (NOUN) : X|ZsIAk
+# receiving teller (NOUN) : UsDbRAk
+
+"telling"
+% CONCRETE MATERIAL ACTION
+(W|WdA|)
+# ^take a telling (VERB) : ZsWAlIzI GzGGb
+
+"telling-off"
+% ACTION
+(BsX|XWzQ)
+
+"telltale"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsGbXbWW|)
+
+"telluride"
+(\gIIsIwQ ^lb^bRQsI)
+# hydrogen telluride (NOUN) : \gIIsIwQ^lb UsUl
+
+"tellurium"
+% CONCRETE MATERIAL 
+(\gIIsIwQ)
+
+"telly"
+(\gIIgR|XjD)
+
+"telotype"
+(W|DXb XfDU|D)
+# telotype printing (NOUN) : W|DXb XfDU|DRfR
+
+"telpher"
+(\gI]f)
+# a telpher line (NOUN) : \gI]f DlUfD
+
+"telpherage"
+(\gI]f WsDRbD)
+
+"temblor"
+% MATERIAL 
+(X|X|D)
+
+"temerity"
+% CONCRETE MATERIAL 
+(QsQl^bQ)
+
+"temper"
+% CONCRETE MATERIAL 
+(A|X|I)
+# on equal temper (NOUN) : RjDGfAWfRUDzD ZbRsD^bD A|X|I
+# on even temper (NOUN) : RjDGfAWfRUDzD ZbRsD^bD A|X|I
+# ^get into a temper (VERB) : UfWWzI DcGb
+# ^get in a temper (VERB) : UfWWzI DcGb
+# ^get out_of temper (VERB) : RsDDlIzI ]lARbI^bGb
+# ^lose ONE_S temper (VERB) : RsDDlIzI ]lARbI^bGb
+# hot temper (NOUN) : HzAfWsD DlDXcW
+# quick temper (NOUN) : UfWQbIzQ
+# short temper (NOUN) : UfWQbIzQ
+# in a fit of temper (PP->ADV) : ^lbUA|QWg
+# in a temper (PP->ADV) : RsIBzD ^lbIzI DcWf
+# ^keep ONE_S temper (VERB) : ZbQGb
+# ^control ONE_S temper (VERB) : ZbQGb
+# ^put A out_of temper (VERB) : [(OBJ A/WzI) UfWDbAg ^b<VERB>]/Gb
+# ^recover ONE_S temper (VERB) : DcWXfWWzI Gl|ZbXGb
+# ^show temper (VERB) : ^lbIzI DcGb
+
+"tempera"
+(\gQ]gIb^lb)
+
+"temperament"
+% CONCRETE MATERIAL 
+(ZgX|I)
+# choletic temperament (NOUN) : GbQXzRX|I
+# melanchoric temperament (NOUN) : WsWsIX|I
+# phlegmatic temperament (NOUN) : XfQWcAX|I
+# sanguine temperament (NOUN) : Gb^jIX|I
+
+"temperance"
+% CONCRETE MATERIAL 
+(XfIXg)
+# temperance drink (NOUN) : WbI[l^lI UfWRsDW| WfRUDzD WzQIr
+# temperance hotel (NOUN) : UsIWzD W|IZg DcDl^X| WbD^DzD ^l\gI
+# temperance movement (NOUN) : AzQXs WsDGlW
+# temperance society (NOUN) : AzQXs^l|
+
+"temperature"
+% CONCRETE MATERIAL 
+(WlDGl)
+# atmospheric temperature (NOUN) : A|WlD
+# average global temperature (NOUN) : X|AsWz| ]jWAwD WlDGl
+# effective temperature (NOUN) : Ww^r WlDGl
+# global temperature (NOUN) : X|As WlDGl
+# ^have a temperature (VERB) : WjIW| W|VGb
+# mean temperature (NOUN) : ]jWAwD WlDGl
+# ^take ONE_S temperature (VERB) : ZgWlDWzI XcGb
+# temperature in Celsious (NOUN) : UfRV| WlDGl
+# the temperature ^reads A (VERB) : [(SUBJ [WlDGl<NOUN>]/Ab) (COMP A) _<ADJ>]<W|>/Gb
+
+"tempest"
+% MATERIAL 
+(UbDbWsD R|RbIbQ)
+# tempest of weeping (NOUN) : WbWsUfW
+
+"templar"
+% HUMAN
+(UfWGbW A|Ub)
+# Good Templars (NOUN) : AzQXs^l|Wz| W|IWsfD
+# Free Templars (NOUN) : AzQXs^l|Wz| W|IWsfD
+# Knights Templars (NOUN) : UfWGbW A|UbGbD
+
+"template"
+% MATERIAL 
+(^jW]bD)
+
+"temple"
+% CONCRETE MATERIAL 
+(U|DXfD)
+# the temple of the Holy Ghost (NOUN) : UfWIjWWz| U|DXfD
+
+"templet"
+(RlD HzDzD AlWAs)
+
+"tempo"
+% CONCRETE MATERIAL 
+(UlAGl)
+
+"temporal"
+(UlAUb)
+
+"temporalty"
+% HUMAN
+(UlAW|D)
+
+"temporary"
+% HUMAN
+(W|QU| AlWrWW|D)
+# temporary and contract (NOUN) : W|QU|X|AAlb AkWdAX|A
+
+"temporization"
+(\b^jR)
+
+"temptation"
+% CONCRETE MATERIAL 
+(Ww^lA)
+# ^fall into temptation (VERB) : Ww^lAWg SbX|Gb
+# ^lead A into temptation (VERB) : [(OBJ A/WzI) Ww^lAWg SbHzI|<VERB>]/Gb
+
+"tempter"
+% HUMAN
+(Ww^lAXb)
+
+"temptress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ww^lA^bDzD WjXb)
+
+"ten"
+% CONCRETE MATERIAL 
+(10)
+# ten to one (NOUN) : U|RXsW ]bIAs
+# tens of ^A (NOUN) : [(POSS [UsU|R<NOUN>]/Wz|) A] 
+	* [(POSS [U|RWj Gc<NOUN>]/Wz|) A]
+	* A (bomber ]lAAjAA|)
+# the upper ten (NOUN) : As|XlAAkAzR
+
+"ten-eighty"
+(]zIIzWlIz ZlUbD Db\zIwQ)
+
+"ten-percenter"
+% HUMAN
+(GcI|W|D)
+
+"ten-pounder"
+(10 ]bWsDGzWz| QsIAfD)
+
+"ten-spot"
+(10 XfQ YbI| ]c)
+
+"ten-strike"
+(WjI A|GsWWzI QlGs VzIfHzI|A|)
+
+"tenability"
+% CONCRETE MATERIAL 
+(RbWWf^bI Us W|VWzQ)
+
+"tenacity"
+% CONCRETE MATERIAL 
+(X|IA|Q)
+
+"tenancy"
+% MATERIAL 
+(ZbWrW)
+
+"tenant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZbWrWXb)
+# tenant farmer (NOUN) : UlXbADlW
+# tenant right (NOUN) : UbWrWXbAsfDI|
+# tenants of the woods (NOUN) : XlIw
+# tenants of the trees (NOUN) : XlIw
+
+"tenantry"
+% HUMAN
+(ZbX|W|DWz| X|Ws|)
+
+"tench"
+% CONCRETE ANIMAL MATERIAL 
+(W|WWf)
+
+"tendance"
+(GlIRlA|)
+
+"tendency"
+% CONCRETE MATERIAL 
+(AjW^dW)
+# bearish tendency (NOUN) : ^bAbWAjW^dW
+
+"tender"
+% CONCRETE MATERIAL HUMAN
+(AbD^lW|D)
+# aircraft tender (NOUN) : ^bWAlW Ql^bQ
+# highest tender (NOUN) : Zl|AlW|RZbI
+# legal tender (NOUN) : RfR^lb
+# open tender (NOUN) : AjWXcWW|RZbI
+# private tender (NOUN) : X|QjWW|RZbI
+# public tender (NOUN) : AlWAcAjWXcWW|RZbI
+# highest tender (NOUN) : Zl|AlW|RZbI
+# legal tender (NOUN) : RfR^lb
+# open tender (NOUN) : AjWXcWW|RZbI
+# private tender (NOUN) : X|QjWW|RZbI
+# public tender (NOUN) : AlWAcAjWXcWW|RZbI
+
+"tenderfoot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]sUDbA|)
+
+"tenderizer"
+(U|AWwA WjD^lbXg)
+
+"tenderloin"
+% CONCRETE MATERIAL FOOD
+(WjD^bD ^fI|UUbI)
+
+"tenderness"
+% MATERIAL 
+(WwWjD)
+
+"tendon"
+% CONCRETE MATERIAL 
+(^|QXsI)
+# the tendor of Achilles (NOUN) : Wb[|IIgUzWz| AfD
+# Achilles's tendor (NOUN) : Wb[|IIgUzWz| AfD
+
+"tendril"
+(AsfDUs)
+
+"tenebrae"
+(\gD|RzI|)
+
+"tenement"
+% CONCRETE ANIMAL MATERIAL 
+(X|R)
+# the tenement of clay (NOUN) : WwAZg
+# the soul's tenement (NOUN) : WwAZg
+
+"tenesmus"
+(AjII|)
+
+"tenet"
+% CONCRETE MATERIAL 
+(XsWz|)
+
+"tennis"
+% MATERIAL 
+(\gD|Uz)
+# table tennis (NOUN) : \bAAs
+# tennis sets (NOUN) : \gD|Uz WrWAs
+# lawn tennis (NOUN) : XbDG| \gD|Uz
+
+"tennysonian"
+% HUMAN
+(\gD|UzD WjDAsXb)
+
+"tenon"
+% CONCRETE ANIMAL MATERIAL 
+(XbWRs)
+
+"tenor"
+% CONCRETE MATERIAL 
+(RbWZ|Q)
+# the even tenor of ONE_S life (NOUN) : UsD\bD^bD W|IUcWWz| ^cWIl
+
+"tenorist"
+% HUMAN
+(\gDf AbUs)
+
+"tenotomy"
+(AfD XfIGbDUsI)
+
+"tenpins"
+% MATERIAL 
+(U|RXs^z|)
+
+"tense"
+% MATERIAL 
+(U|Xg)
+# the present tense (NOUN) : ^jDXc U|Xg
+# the past tense (NOUN) : AlbAf U|Xg
+# the future tense (NOUN) : Q|Ic U|Xg
+# the perfect tense (NOUN) : WlbDIr U|Xg
+# the imperfect tense (NOUN) : Q|WlbD U|Xg
+
+"tensibility"
+(U|DXbWUfW)
+
+"tensility"
+(XbWIjA)
+
+"tensimeter"
+% CONCRETE ANIMAL MATERIAL 
+(XzWA| WbRIjAAk)
+
+"tension"
+% CONCRETE MATERIAL 
+(A|DXbW)
+# a high tension current (NOUN) : AlWbR XfDIw
+# a tension fuse (NOUN) : XfDWbR ]wWsXz
+# vapor tension (NOUN) : XzWA|WbR
+# vapour tension (NOUN) : XzWA|WbR
+
+"tensity"
+(A|DXbW)
+
+"tensor"
+% MATERIAL 
+(XbWAzD)
+
+"tent"
+% CONCRETE ANIMAL MATERIAL PLACE
+(ZfDQbA)
+# ^pitch a tent (VERB) : ZfDQbAWzI Z|Gb
+# ^strike a tent (VERB) : ZfDQbAWzI AfGGb
+
+"tentacle"
+% CONCRETE MATERIAL 
+(ZlAUs)
+
+"tentative agreement"
+"XbQXfW ^jRXfW"
+
+"tenter"
+% CONCRETE ANIMAL MATERIAL 
+(]jUf QbII|DzD \zI)
+
+"tenterhook"
+% CONCRETE ANIMAL MATERIAL 
+(AbIAlI|)
+# ^be on tenterhooks (VERB) : QbWzQ XlIW|Gb
+
+"tenth"
+% CONCRETE MATERIAL 
+(Xg 10)
+
+"tenuis"
+(QsUfW ]kUlcWzQ)
+
+"tenuity"
+(WdIRWzQ)
+
+"tenure"
+% CONCRETE MATERIAL 
+(RlWw)
+# during ONE_S tenure of office (PP->ADV) : XcX|A A|AbDXsW
+# feudal tenure (NOUN) : RlWAfDXfA UlWwX|
+# ONE_S tenure of life (NOUN) : UsQjW
+# tenure for life (NOUN) : XlWU|D \lX| RlWwAsfD
+# tenure of office (NOUN) : XcX|AA|AbD
+
+"tepee"
+% CONCRETE MATERIAL PLACE
+(ZfDQbAX|R)
+
+"tepidity"
+% CONCRETE MATERIAL 
+(Q|X|AzD^bQ)
+
+"tepidness"
+% CONCRETE MATERIAL 
+(Q|X|AzD^bQ)
+
+"tequila"
+% CONCRETE MATERIAL PLANT
+(WrWUfIIbD)
+
+"terai"
+(]gI\z QlXb)
+
+"teratologist"
+% HUMAN
+(A|^jW^bAXb)
+
+"teratology"
+% ART
+(A|^jW^bA)
+
+"terbium"
+% CONCRETE MATERIAL 
+(\gIzRwQ)
+
+"tercel"
+% CONCRETE ANIMAL MATERIAL 
+(UsUQc)
+
+"tercentenary"
+(300 DjD)
+
+"tercentennial"
+(300 DjD)
+
+"terebene"
+(\gIgR|D)
+
+"terebinth"
+% CONCRETE ANIMAL MATERIAL PLANT
+(\gIgR|D DbQs)
+
+"teredo"
+% CONCRETE ANIMAL MATERIAL 
+(XlQXlAc)
+
+"term"
+% CONCRETE MATERIAL HOMONYM
+(A|AbD)
+# NUM1 {+ORDNUM} term (NOUN) : [(NMODS NUM1 {+DGTNUM}) A|<NOUN>]
+# Terms cash (NOUN) : ^jDAzQX|RsI
+# a term of office (NOUN) : W|QA|
+# a term of validity (NOUN) : Ww^rA|AbD
+# absolute term (NOUN) : XfIGc QjWUb
+# ^be in terms (VERB) : GbQ]bD XsWW|Gb
+# ^be on bad terms with A (VERB) : [(ADJUNCT A/Alb) DbSzD UbW|<VERB>]/Gb
+# ^be on good terms with A (VERB) : [(ADJUNCT A/Alb) Z|D^bD UbW|<VERB>]/Gb
+# ^bring A to terms (VERB) : [(OBJ A/IzI) ^bWRlA U|[|<VERB>]/Gb
+# ^come to terms with A (VERB) : [(ADJUNCT A/Alb) \b^jRW| Gl|<VERB>]/Gb
+# ^comply with the terms of A (VERB) : [(ADJUNCT [(POSS A/Wz|) XlAfD<NOUN>]/Wg) 
+HbIz<VERB>]/Gb
+# general term (NOUN) : XfDZ|W QjWUb
+# in any term (PP->ADV) : WfYcVGzD
+# in money terms (PP->ADV) : XbQjWWzIl
+# in nominal terms (PP->ADV) : XbQjWWzIl
+# in plain terms (PP->ADV) : Us|RAg QbI^bQjD
+# in red ink (PP->ADJ) : ^zAXbWz|
+# in terms (PP->ADV) : QjW^lbA^|
+# in terms of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) QjD<NOUN>]/WgUf)
+# in terms of PRESP (PP->ADV) : (ADJUNCT [(POSS [(RELCL PRESP/^bDzD) AfU<NOUN>]/Wz|) AlbDXfQ<NOUN>]/WgUf)
+# in transit (PP->ADV) : XbAWfRXsW
+# in value terms (PP->ADV) : AzQWcAWzIl
+# in volume terms (PP->ADV) : WdWXfAWzIl
+# ^keep a term (VERB) : 1 ^bAA| GlWWbD ZsIUfA^bGb
+# ^keep terms (VERB) : GbQ]bDWzI AkUlA^bGb
+# law terms (NOUN) : RfRIwI WrWWf
+# loco terms (NOUN) : ^jDXbWGlXlAfD
+# long term (NOUN) : XbWA|
+# long-term (ADJ) : XbWA|AbDWz|
+# ^make terms (VERB) : \bAjIGl|Gb
+# material term (NOUN) : QsIX|IXfA AlbDXfQ
+# on those terms (ADV) : AzIfD XlAfDWzIl
+# peace term (NOUN) : AbW^lb XlWdA
+# scientific terms (NOUN) : Alb^bA UsIWf
+# ^seek a third term (VERB) : UbQZb WjDW|QWzI Bl|^bGb
+# ^set terms (VERB) : XlAfDWzI Rs\W|Gb
+# short term (NOUN) : GbDA|
+# technical terms (NOUN) : XfDQsD WrWWf
+# term bill (NOUN) : XfWA|RsIWfWzQ
+# term deposits (NOUN) : XfWA|WkAzQ
+# term insurance (NOUN) : XfWA|Rl^fQ
+# term loan (NOUN) : A|^bDRsGcZsI
+# term limits (NOUN) : W|QA| Xg^bD
+# term NOUN {+QUOTED} (NOUN) : [(NMODS [WrWWf<NOUN>]) NOUN]
+# term of contract (NOUN) : AkWdAA|AbD
+# term of deferment (NOUN) : AfZ|A|AbD
+# terms of credit (NOUN) : WwWXbXlAfD
+# terms of payment (NOUN) : X|RsIXlAfD
+# terms of reference (NOUN) : AsfD^bD
+# terms of trade (NOUN) : QsWjAXlAfD
+# the first term (NOUN) : 1 ^bAA|
+# the second term (NOUN) : 2 ^bAA|
+# prison term (NOUN) : RlAWjAA|AbD
+
+"term1nn"
+(WrWWf)
+
+"termagancy"
+(UfWQ| UbDbWsQ)
+
+"termagant"
+% HUMAN
+(UbDbWsD ^l|ArU|D)
+
+"termer"
+% HUMAN
+(RlAWjAXb)
+
+"terminableness"
+(WwA|)
+
+"terminal"
+% CONCRETE MATERIAL PLACE
+(\fQ|DbI)
+
+"termination"
+% MATERIAL 
+(XlWIr)
+# ^bring to a termination (VERB) : XlWAjIU|[|Gb
+# termination of agreement (NOUN) : AkWdAWz| QbDA|
+
+"terminator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Bz\QcXDzD UbIbQ)
+# terminator 3 (NOUN) : \fQ|DgW|\f 3
+
+"termini"
+(XlWXfQGzI)
+
+"terminism"
+% ART
+(UfWZlW Ww^bDUfI)
+
+"terminist"
+% HUMAN
+(UfWZlW Ww^bDUfIIlDXb)
+
+"terminology"
+% MATERIAL ART
+(UsIWf^bA)
+# technical terminology (NOUN) : XfDQsDWf
+# the terminology of zoology (NOUN) : GlWQsI^bA UsIWf
+
+"terminus"
+% CONCRETE MATERIAL 
+(XlWXfQ)
+
+"termite"
+% CONCRETE ANIMAL MATERIAL 
+(^z|D AcQ|)
+
+"termor"
+% HUMAN
+(XfWA| ZbX|W|D)
+
+"tern"
+% CONCRETE ANIMAL MATERIAL 
+(XgR| AbIQcA|)
+
+"terpene"
+% MATERIAL 
+(\gIz]gD)
+
+"terpsichorean"
+(Qs^z|)
+
+"terra"
+(^zIA)
+
+"terrace"
+% CONCRETE MATERIAL 
+(\gIbUz)
+
+"terracotta"
+(XfQ\l)
+# a terra cotta pipe (NOUN) : \lAlbD
+
+"terrain"
+(X|^jW)
+
+"terramycin"
+(\gIbQbW|U|D)
+
+"terrane"
+(Ak\lW)
+
+"terrapin"
+% CONCRETE ANIMAL MATERIAL FOOD
+(U|AWrW AfRsA)
+
+"terrarium"
+% PLACE
+(WwAUcW GlWQsI UbWwAXbW)
+
+"terrazzo"
+(\gIbZl)
+
+"terre"
+(GcX|)
+
+"terreplein"
+(DsGl)
+
+"terrestrial"
+% ANIMAL
+(X|AsUbWWz| UcWQsI)
+
+"terret"
+(AlS| BsgDzD AlI|)
+
+"terrible"
+% HUMAN
+(QsUfWsD UbIbQ)
+
+"terrier"
+% CONCRETE ANIMAL MATERIAL 
+(\gI|Wf)
+
+"terrine"
+% CONCRETE MATERIAL 
+(WlX| GbDX|)
+
+"territorial"
+% HUMAN
+(AsARbW Wz|WrWAsD RjWUb)
+
+"territorialism"
+% ORGAN
+(X|XsXgGl)
+
+"territoriality"
+(WjW\lW|Q)
+
+"territory"
+% MATERIAL PLACE
+(WjW\l)
+# scheduled territory (NOUN) : ^lbDAlbDI|UbWWz| X|XfWX|WjA
+
+"terror"
+% CONCRETE MATERIAL MIND
+(AlW]l)
+# ^be a terror (VERB) : AlIZ|UAfI|Gb
+# ^be a terror to A (VERB) : [(OBJ2 A/WgAg) (AMODS [QsUfR<ADJ>]/^bD) XlDXc<NOUN>]/Gb
+# ^have a holy terror of A (VERB) : [(OBJ A/WzI) (MODS [QlRU|<ADV>]) AfRDc<VERB>]/Gb
+# in terror (PP->ADV) : GcAjWU|IUcA^bWj
+# novel of terror (NOUN) : AlW]l UlUfI
+# rommance of terror (NOUN) : AlW]l UlUfI
+# ^strike terror into a person's heart (VERB) : DbQWzI AlW]lWg HfIAg ^bGb
+# the White Terror (NOUN) : RcAUcA \gIf
+
+"terrorism"
+% MATERIAL ART
+(\gIfI|XzQ)
+
+"terrorist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\gIfI|Uz\z)
+# suspected terrorist (NOUN) :\gIfI|Uz\z WrWWz|Xb
+# terrorist underworld (NOUN) : \gIfI|Uz\z WzDU|DZf
+
+"terrorization"
+% CONCRETE MATERIAL 
+(Ws|^jR)
+
+"terry"
+% CONCRETE MATERIAL 
+(\gI|X|A)
+# terry velvet (NOUN) : Rl]sIWzI XbIzX| WbD^WzD WsGbD
+
+"terseness"
+% CONCRETE MATERIAL 
+(AbDAjI^bQ)
+
+"tertian"
+(3 W|IWjI)
+
+"tertiary"
+(Xg 3 ZbWf)
+
+"terzetto"
+% CONCRETE MATERIAL 
+(3 XsWZbW)
+
+"tesl"
+(Wl|AsAWfIlUfWz| WjWWf ArWwA)
+
+"tesol"
+% ORGAN
+(AsAXg WjWWf ArWwAXb^l|)
+
+"tessellation"
+% MATERIAL 
+(RbGsA]bD QsDz|Il W|UGcWf BbIA|)
+
+"tessera"
+(DgQlX|D GlI)
+
+"tessitura"
+% PLACE
+(UfWWjA)
+
+"test"
+% CONCRETE MATERIAL 
+(U|^fQ)
+# achievement test (NOUN) : ^bAIjAAlUb
+# aptitude test (NOUN) : XfAUfWAfQUb
+# blood test (NOUN) : ^jIWcAAfQUb
+# detection test (NOUN) : AfQUbU|^fQ
+# diagnostic test (NOUN) : X|DGbD
+# early diagnostic test (NOUN) : XlA|X|DGbD
+# driving test (NOUN) : WsDXfDU|^fQ
+# intelligence test (NOUN) : X|DzWAfQUb
+# mental test (NOUN) : X|DzWAfQUb
+# ^take an eyesight test (VERB) : U|IjA AfQUbIzI RbGGb
+# ^take an sight test (VERB) : U|IjA AfQUbIzI RbGGb
+# test boring (NOUN) : U|Zs
+# test marketing (NOUN) : U|^fQRbIQc
+
+"test-preparation"
+(U|^fQ-XsDR|)
+
+"testa"
+% CONCRETE MATERIAL 
+(Wl|XlW]|)
+
+"testacean"
+% ANIMAL
+(WwAbAIw)
+
+"testacy"
+(WwWfD^c GsWfVWzQ)
+
+"testament"
+% CONCRETE MATERIAL 
+(WwWfD)
+# ^make ONE_S testament (VERB) : WwUfIzI XbAUfW^bGb
+# military testament (NOUN) : AsDW|D WwWfD
+# the Old Testament (NOUN) : AsWdA UfWUf
+# the New Testament (NOUN) : U|DWdA UfWUf
+
+"testamur"
+(U|^fQ ^bRAjAXzW)
+
+"testate"
+% HUMAN
+(WwWfD^bAl XsAWzD UbIbQ)
+# ^die testate (VERB) : WwWfDWzI DbQA|Al XsAGb
+
+"testation"
+% ECOLIFE
+(WwWfDWg Wz|^bD WwUbD ZfI|)
+
+"testator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwWfDXb)
+
+"testatrix"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb WwWfDXb)
+
+"testee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Us^fQXb)
+
+"tester"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|^fQXb)
+
+"testes"
+% CONCRETE MATERIAL ANIMAL
+(RsIWbIGzI)
+
+"testicle"
+% CONCRETE MATERIAL ANIMAL
+(RsIWbI)
+
+"testifier"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XzWW|D)
+
+"testimonial"
+% CONCRETE MATERIAL 
+(XzWQjWUf)
+
+"testimony"
+% CONCRETE MATERIAL 
+(XzWWfD)
+# ^be a testimony to A (VERB) : [(COMP [(POSS A/Wz|) XzWAf<NOUN>]) _<ADJ>]<W|>/Gb
+# ^bear testimony (VERB) : XzWWfD^bGb
+# ^call A in testimony (VERB) : [(OBJ A/WzI) (OCOMP [XzWW|D<NOUN>]/WzIl) UgWs<VERB>]/Gb
+# in testimony of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/Il)
+# live testimony (NOUN) : UcWXzWWfD
+# ^produce testimony to A (VERB) : [(OBJ [(POSS A/Wz|) XzWAf<NOUN>]/IzI) XgZsI^b<VERB>]/Gb
+# ^produce testimony of A (VERB) : [(OBJ [(POSS A/Wz|) XzWAf<NOUN>]/IzI) XgZsI^b<VERB>]/Gb
+# videotaped testimony (NOUN) : R|G|Wl XzWWfD
+
+"testiness"
+% MATERIAL 
+(UfWQ|AzR^bQ)
+
+"testing"
+(U|^fQ)
+
+"testis"
+% CONCRETE MATERIAL ANIMAL
+(Al^lbDGzI)
+
+"testosterone"
+% CONCRETE MATERIAL 
+(\gUz\lUz\gIlD)
+
+"testudo"
+(RbW]c)
+
+"tet"
+(AsXfW)
+
+"tetanic"
+(AbWX|A AjWIjD WwA|Xg)
+
+"tetanus"
+(]bUbW]sW)
+
+"tete-a-tete"
+% CONCRETE ANIMAL MATERIAL ACTION
+(GcGbQ)
+# ^have a tete a tete (VERB) : QbXs WbDXWbUf W|WdA|^bGb
+
+"tether"
+% CONCRETE ANIMAL MATERIAL 
+(RbUXsI)
+# at the end of ONE_S tether (PP->ADV) : RbWZcAW| Gb^bWj
+# ^be beyond ONE_S tether (VERB) : ^|QWg RsZ|Gb
+# ^come to the end of ONE_S tether (VERB) : UlAUsQsZcAW|Gb
+# ^get to the end of ONE_S tether (VERB) : UlAUsQsZcAW|Gb
+# the matrimonial tether (NOUN) : RsRsWz| W|DWjD
+
+"tetrachord"
+(4 WzQ WzQAk)
+
+"tetrad"
+% CONCRETE MATERIAL 
+(4 Us)
+
+"tetragon"
+% MATERIAL 
+(4 AbA^jW)
+
+"tetragram"
+(DfAXbIl Gl|D QbI)
+
+"tetrahedron"
+% MATERIAL 
+(4 QjDZg)
+
+"tetralogy"
+% ART
+(4 RsAzA)
+
+"tetrameter"
+(4 RlAjA)
+
+"tetrarch"
+% HUMAN
+(WjWXs)
+
+"tetrarchate"
+(4 RsDIjW)
+
+"tetrarchy"
+(4 RsDIjW)
+
+"tetrasyllable"
+(4 WzQXfI)
+
+"tetrode"
+% CONCRETE ANIMAL MATERIAL 
+(4 AzAAlbD)
+
+"tetroxide"
+(4 UbD^lbQsI)
+
+"tetter"
+(]|X|D)
+# moist tetter (NOUN) : UzRX|D
+# humid tetter (NOUN) : UzRX|D
+# scaly tetter (NOUN) : QbIzDRfX|Q
+
+"teuton"
+% HUMAN
+(\w\zD UbIbQ)
+
+"teutonic"
+(\w\zD QbI)
+
+"teutonism"
+% ART
+(\w\zD XsWz|)
+
+"teutonization"
+(\w\zD^lb)
+
+"texan"
+% HUMAN
+(\gAUbUz UbIbQ)
+
+"texas"
+% PLACE ORGAN
+(\gAUbUz)
+
+"text"
+% CONCRETE MATERIAL 
+(\gAUz\z)
+# church text (NOUN) : ^zAZg QsDXb
+# golden text (NOUN) : UfWAs ZcA
+# text book (NOUN) : ArAlbUf
+# ^stick to ONE_S text (VERB) : W|WdA|Ab XsXgWgUf RfUWfDbX| WbD^Gb
+# a full text (NOUN) : XfDQsD
+
+"textbook"
+% CONCRETE MATERIAL ART
+(ArAlbUf)
+
+"textile"
+% CONCRETE MATERIAL 
+(X|AQsI)
+# textile industry (NOUN) : UfQWwUbDWfR
+
+"textualism"
+(WsfDQsD AlX|R)
+
+"textualist"
+% HUMAN
+(WsfDQsDXsWz|Xb)
+
+"texture"
+% CONCRETE MATERIAL 
+(X|AQsI)
+# high-resolution texture (NOUN) : Al^cUbWGl \gAUzZj
+# low-resolution texture (NOUN) : Xf^cUbWGl \gAUzZj
+
+"thai"
+% HUMAN
+(\bW| UbIbQ)
+
+"thailand"
+% PLACE ORGAN
+(\bW|)
+
+"thailander"
+% HUMAN
+(\bW|IIbDGz UbIbQ)
+
+"thalamus"
+% CONCRETE MATERIAL 
+(U|U|DAjWUbW)
+
+"thaler"
+% UNIT
+(GlAW|IWz| WkU WzD^lb)
+
+"thalidomide"
+(\bI|GlQbW|Gz)
+
+"thalium"
+(\bIIwQ)
+
+"thallus"
+(WjRUbWZg)
+
+"thanage"
+% HUMAN
+(^lXlAWz| U|DRsD)
+
+"thane"
+% HUMAN
+(^dWUb)
+
+"thanedon"
+% PLACE ORGAN
+(^lXlAIjW)
+
+"thanehoos"
+% HUMAN
+(^lXlAWz| U|DRsD)
+
+"thaneship"
+% HUMAN
+(^lXlAWz| U|DRsD)
+
+"thank"
+% MIND
+(AbQUb)
+# ^bow ONE_S thanks (VERB) : XfI^bWj UbWz|IzI ]r^bGb
+# ^express ONE_S thanks (VERB) : UbWz|IzI ]r^bGb
+# ^extend ONE_S thanks (VERB) : UbWz|IzI ]r^bGb
+# ^give thanks to A (VERB) : [(OBJ2 A/WgAg) UbIk^b<VERB>]/Gb 
+# || no thanks | (SENT) : AlcDZbD^Gb
+# ^return thanks to A (VERB) : [(OBJ2 A/WgAg) UbIk^b<VERB>]/Gb 
+# ^smile ONE_S thanks (VERB) : Q|Ul^bWj UbWz|IzI ]r^bGb
+# || thanks a lot for A (SENT) : 
+[(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/WfUf) (MODS [QbD^W|<ADV>]) AbQUb^b<VERB>]/Gb
+# | thanks to A (ADV) : (ADJUNCT [(POSS A/Wz|) GfA\cA<NOUN>]/Wg)
+
+"thankfulness"
+% MATERIAL MIND
+(AbQUb)
+
+"thanklessness"
+% MIND
+(RcWzD QbWGfA)
+
+"thanksgiver"
+% HUMAN
+(AbQUbIzI GzI|DzD UbIbQ)
+
+"thanksgiving"
+% CONCRETE MATERIAL 
+(ZsUs AbQUbXfI)
+# thanksgiving dinner (NOUN) : AbQUbXfIWz| UfWZbD
+# thanksgiving turkey (NOUN) : AbQUbXfIWz| Z|IQjDXl
+
+"thatch"
+% CONCRETE MATERIAL 
+(W|WfW)
+
+"thaumatrope"
+(^l|XfD WrX|AjW)
+
+"thaumaturge"
+% HUMAN
+(WrUsIXbWW|)
+
+"thaumaturgist"
+% HUMAN
+(WrUsIXbWW|)
+
+"thaumaturgy"
+% ART
+(QbUsI)
+
+"thaw"
+% MATERIAL 
+(DsDUfAW|Q)
+# silver thaw (NOUN) : UsR|W
+
+"thearchy"
+% ORGAN
+(U|DWz| \lWZ|)
+
+"theater"
+% CONCRETE MATERIAL PLACE
+(AzAXbW)
+# ^do a theater (VERB) : WjDAzA AsAjWAbGb
+# ^go to the theater (VERB) : WjDAzA AsAjWAbGb
+# the of operations (NOUN) : XfD\sX|As
+# theater of war (NOUN) : XfDXcWX|WjA
+# theater party (NOUN) : AlbDAzA^l|
+# patent theater (NOUN) : Z|A^f AzAXbW
+# picture theater (NOUN) : WjW^lbAlbD
+# theater television (NOUN) : AzAXbWWrW Gc^jW \gIIgR|XfD UsUbWA|
+# the modern theater (NOUN) : AzDGcAzA
+# Goethe's theater (NOUN) : Al|Wg\gWz| ^z|AlA
+
+"theatre-in-the-round"
+% PLACE
+(WsfD^jW AzAXbW)
+
+"theatregoer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWWjDXbWWg XbXs AbDzD UbIbQ)
+
+"theatregoing"
+% ACTION
+(WjDAzAAsAjW)
+
+"theatrical"
+% ART
+(WjDAzA)
+# private theatricals (NOUN) : UlW|DAzA
+# amateur theatricals (NOUN) : UlW|DAzA
+
+"theatricalism"
+(WjDAzARfR)
+
+"theatricality"
+(WjDAzAXl)
+
+"theft"
+% MATERIAL ACTION
+(GlGsAX|I)
+
+"thegn"
+% HUMAN
+(^dWUb)
+
+"theine"
+(\gW|D)
+
+"theism"
+% MATERIAL ART
+(Zb XsWGlA)
+
+"theist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwU|DIlDXb)
+
+"theme"
+% CONCRETE MATERIAL 
+(XsXg)
+# theme music (NOUN) : XsXgWzQWbA
+# a theme song (NOUN) : XsXgAb
+
+"then"
+% TIME
+(AzHc)
+# before then (PP->ADV) : Az W|XfDWg
+# by then (PP->ADV) : AzHcBbX|
+# then-fugitive (NOUN) : QbWQjWXb
+# since then (PP->ADV) : AzHcRs\f
+# from then onward (PP->ADV) : AzHcRs\f
+# till then (PP->ADV) : AzHcBbX|
+# up to then (ADV) : AzHcBbX|
+
+"theocracy"
+% ORGAN
+(U|DXfW)
+
+"theocrasy"
+(U|DW|D WwW^bR)
+
+"theocrat"
+% HUMAN
+(U|DAsfD XfWZ|Ab)
+
+"theodicy"
+% ART
+(U|DXfWIlD)
+
+"theodolite"
+% CONCRETE ANIMAL MATERIAL 
+(AjWWs|Wz|)
+
+"theogony"
+% ART
+(U|DXlA AkRl^bA)
+
+"theologian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|D^bAXb)
+
+"theology"
+% MATERIAL ART
+(U|D^bA)
+
+"theorbo"
+(Iw\z)
+
+"theorem"
+% CONCRETE MATERIAL 
+(W|IRbD WsfDI|)
+# cob-web theorem (NOUN) : AfQ|X|R XfWI|
+
+"theoretic"
+% ART
+(W|IlD)
+
+"theoretician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|IlDAb)
+
+"theorist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|IlDAb)
+
+"theorizer"
+% HUMAN
+(W|IlDAb)
+
+"theory"
+% MATERIAL ART
+(W|IlD)
+# in theory $ (PP->ADV) : W|IlDXfAWzIl
+# queueing theory (NOUN) : [wW|WW|IlD
+# theory of approximation (NOUN) : AzDUbZ|W|IlD
+# theory of asset valuation (NOUN) : XbUbD]jWAbIlD
+# theory of comparative costs (NOUN) : R|ArUcWUbDR|UfI
+# theory of consumer's behavior (NOUN) : UlR|Xb^cW\cW|IlD
+# theory of consumer's choice (NOUN) : UlR|XbUfD\cAW|IlD
+# theory of employment (NOUN) : AlWrWW|IlD
+# theory of evolution (NOUN) : X|D^lbIlD
+# theory of games (NOUN) : AgW|QW|IlD
+# theory of international indebtedness (NOUN) : AsAXgGcZbUfI
+# theory of international value (NOUN) : AsAXgAbZ|IlD
+# theory of liquidity preference (NOUN) : WwGlWUfWUfD^lUfI
+# theory of marginal productivity (NOUN) : ^bDAkUcWUbDIjAUfI
+# theory of market behavior (NOUN) : U|XbW^cW\cUfI
+# theory of multiplier (NOUN) : UzWUsW|IlD
+# theory of producer's choice (NOUN) : UcWUbDXbUfD\cAW|IlD
+# theory of purchasing power parity (NOUN) : AsQcIjA]jWAbUfI
+# theory of rate of growth (NOUN) : UfWXbWWwIW|IlD
+# theory of relativity (NOUN) : UbWGcUfW WsfDI|
+# theory of secular stagnation (NOUN) : XbWA|XfWGcUfI
+# theory on A (NOUN) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bD) W|IlD<NOUN>]
+
+"theosophy"
+% ART
+(U|DX|^bA)
+
+"therapeutics"
+% ART
+(Z|Ir^bA)
+
+"therapeutist"
+% ART
+(Z|Ir^bAXb)
+
+"therapy"
+% MATERIAL 
+(WrRfR)
+
+"there"
+% PLACE
+(Xf]jD)
+
+"therm"
+% CONCRETE UNIT MATERIAL 
+(GfWfQ)
+
+"thermae"
+% PLACE
+(WlDZfD)
+
+"thermal"
+(WjI)
+# thermal power (NOUN) : ^lbIjARbIXfD
+# thermal unit (NOUN) : WjIIdW GbDWs|
+
+"thermantidote"
+(U|IDc DcWAbAA|)
+
+"thermion"
+(WjIW|WlD)
+
+"thermionics"
+% ART
+(WjIW|WlD^bA)
+
+"thermistor"
+% CONCRETE ANIMAL MATERIAL 
+(GfQ|Uz\f)
+
+"thermit"
+(\gIzQ|U)
+
+"thermite"
+(\gIzQ|U)
+
+"thermobarometer"
+(R|GzWXfQ A|WbRAk)
+
+"thermochemistry"
+% ART
+(WjI^lb^bA)
+
+"thermocouple"
+% CONCRETE ANIMAL MATERIAL 
+(WjIXfDGc)
+
+"thermodynamics"
+% MATERIAL ART
+(WjIWjA^bA)
+
+"thermoelectricity"
+(WjIXfDA|)
+
+"thermoelectron"
+(WjIXfDXb)
+
+"thermogenesis"
+(WjIRbIUcW)
+
+"thermojet"
+(WjIA|ZgAk WgDX|D)
+
+"thermolysis"
+(WjIRbWUbD)
+
+"thermomagnetism"
+(WjIXbA|)
+
+"thermometer"
+% CONCRETE ANIMAL MATERIAL 
+(WlDGlAk)
+# a clinical thermometer (NOUN) : ZgWlDAk
+# a maxium thermometer (NOUN) : Zl|Al WlDGlAk
+# a minimum thermometer (NOUN) : Zl|Xf WlDGlAk
+# a Centigrade thermometer (NOUN) : UfRV| WlDGlAk
+# a Fahrenheit thermometer (NOUN) : ^lbV| WlDGlAk
+# a Reaumur thermometer (NOUN) : WjIV| WlDGlAk
+
+"thermometry"
+(WlDGl ZzAXfW)
+
+"thermonuke"
+(WjI^cAQsA|)
+
+"thermopile"
+% CONCRETE ANIMAL MATERIAL 
+(WjIXfD\l|)
+
+"thermoplastic"
+% MATERIAL 
+(AbWjI AbUlQsI)
+
+"thermos"
+% CONCRETE ANIMAL MATERIAL 
+(RlWlDRjW)
+
+"thermoscope"
+(WlDGl ZzAXfWA|)
+
+"thermoscopic"
+(AbWjI AjW^lb)
+
+"thermoscopical"
+(AbWjI AjW^lb)
+
+"thermosetting"
+(AbWjI AjW^lb)
+
+"thermostat"
+% CONCRETE ANIMAL MATERIAL 
+(WlDGl XlXfIXbWZ|)
+
+"thermotherapy"
+(WjIZ|Ir)
+
+"thermotropism"
+(AsIWjIUfW)
+
+"thesaurus"
+% CONCRETE MATERIAL 
+(RlAl)
+
+"thesis"
+% CONCRETE MATERIAL 
+(DlDQsD)
+
+"thessalian"
+% HUMAN
+(\gUbII| UbIbQ)
+
+"thessalonian"
+(GgUbIlD|AbUf)
+
+"theta"
+(Ug\b)
+
+"theurgy"
+(U|DWz| Xl^lb)
+
+"thews"
+(AzDWwA)
+
+"thiamin"
+% CONCRETE MATERIAL 
+(\|WbQ|D)
+
+"thick"
+% MATERIAL 
+(AbXbW AsIAWzD RsRsD)
+# in the thick of it (PP->ADV) : ^bDZbW Z|WjI^bI HcWg
+# through thick and thin (PP->ADV) : QbDDbDWzI QsIzRVzAl
+
+"thick-ankle"
+(Gs\sQ^bD RbIQlA)
+
+"thick-set"
+% PLACE
+(GfQRsI)
+
+"thickening"
+% MATERIAL 
+(GsBfRAg ^bA|)
+
+"thicket"
+% MATERIAL 
+(GfQRsI)
+
+"thickhead"
+% CONCRETE ANIMAL MATERIAL 
+(GlIGcAbI|)
+
+"thickness"
+% CONCRETE MATERIAL 
+(GsBg)
+
+"thief"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlGsA)
+# honor among thieves (NOUN) : GlGsAAbDWz| Wz|I|
+# honour among thieves (NOUN) : GlGsAAbDWz| Wz|I|
+
+"thievery"
+% MATERIAL ACTION
+(GlGsAX|I)
+
+"thievishness"
+(GlRjA)
+
+"thigh"
+% CONCRETE MATERIAL ANIMAL
+(DfIRXfAGbI|)
+
+"thighboot"
+(A|D XbW^lb)
+
+"thill"
+(Zc)
+
+"thiller"
+% ANIMAL
+(BzIZcWg QcD QbI)
+
+"thimble"
+% CONCRETE MATERIAL 
+(AlIQs)
+
+"thimbleberry"
+% PLANT
+(DbQsHbIA|)
+
+"thimbleful"
+% CONCRETE MATERIAL 
+(AzA^| XfAWzD WdW)
+
+"thimblerig"
+% MATERIAL 
+(AlIQs WrUsI)
+
+"thin"
+(WdIRWzD RsRsD)
+
+"thing"
+% CONCRETE MATERIAL 
+(UbQsI)
+# a living thing (NOUN) : UcWQsI
+# both things (NOUN) : Gs AbX| W|I
+# curious thing (NOUN) : ^zWQ|IlWsD AfU
+# ^do great things (VERB) : WfQZfWDbD X|UWzI ^bGb
+# dumb things (NOUN) : GlWQsI
+# for another thing (PP->ADV) : GsIYcIl
+# for one thing (PP->ADV) : ZfUYcIl
+# handmade thing (NOUN) : UsAlW]sQ
+# last thing at night (ADV) : Zl|^sWg
+# living thing (NOUN) : UcWQsI
+# ^make a good thing of A (VERB) : [(ADJUNCT A/Il) (OBJ [W|W|A<NOUN>]/WzI) WfG<VERB>]/Gb
+# nice thing (NOUN) : Xl^WzD AfU
+# one more thing (ADV NOUN) : 1) ^bDb Gf
+                              2) ^bDb Gf
+# solid thing (NOUN) : ^lbAU|I^bD W|I
+# such a thing (NOUN) : AzIfD AfU
+# such things as A (NOUN) : [(AMODS [(COMP A/Wlb) Ab\<ADJ>]/^bD) AfUGzI<NOUN>]
+# ^take things as they are (VERB) : UbQsIWzI W|VDzD AzGcIl UcWAbA^bGb
+# ^take things easy (VERB) : UbQsIWzI DbAAlbD^bGb
+# ^talk of one thing or another (VERB) : XbRGbQ^bGb
+# tea things (NOUN) : Zb GlAs
+# the good things of life (VERB) : UbIWbAbDzDGg RlIbQWzI XsDzD AfUGzI
+# the next thing (ADV NOUN) : 1) GsIYcIl 
+			      2) GbWzQ AfU
+# the philosophy of things (NOUN) : UbU|IWz| ZfI^bA
+# || thing ^be different here | (SENT) : WjA|UfDzD XlQ GbIzGb
+# thing beyond remedy (NOUN) : AlZjX|I Us WfRUDzD W|I
+# thing in itself (NOUN) : QsI XbZg
+# thing of creation (NOUN) : ZbWXlQsI
+# thing to eat (NOUN) : QfAWzI AfI|
+# things mortgaged (NOUN) : XfGbWQsI
+# things personal (NOUN) : GlWUbD
+# things real (NOUN) : RsGlWUbD
+# things to do $ (NOUN) : ^bIW|I
+# ^think things over (VERB) : W|IWzI A|]W| UcWAbA^bGb
+# this thing (NOUN) : W|AfU {+RESTRIC}
+
+"think"
+% ART
+(UcWAbA^bA|)
+
+"think-thanker"
+% HUMAN
+(GsDl|X|RGbDWsfD)
+
+"thinker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbUbWAb)
+
+"thinking"
+% MATERIAL 
+(UcWAbA^bA|)
+# to my thinking (PP->ADV) : Dc UcWAbAWzIlDzD
+
+"thinner"
+% MATERIAL 
+(WrWXg)
+
+"thinness"
+% CONCRETE MATERIAL 
+(^z|RbA)
+
+"thiokol"
+(W|DXl AlQs)
+
+"thiosulfate"
+(\|Wl ^lbWUbDWjQ)
+
+"thiosulphate"
+(\|Wl ^lbWUbDWjQ)
+
+"third"
+% CONCRETE MATERIAL 
+(UgYc)
+
+"third-party"
+(Xg 3)
+
+"third-quarter"
+(UbQRsDA|)
+
+"third quarter"
+(UbQRsDA|)
+
+"thirst"
+% MATERIAL 
+(QlAQbIzQ)
+# ^quench ONE_S thirst (VERB) : AbIXzWWzI ]sIGb
+# a thirst for knowledge (NOUN) : X|U|AWrA
+# a thirst after knowledge (NOUN) : X|U|AWrA
+# ^have a thirst (VERB) : ^bDXbD QbU|Al U|]Gb
+
+"thirteen"
+% CONCRETE MATERIAL 
+(13)
+
+"thirteen-year-old"
+(13UbI)
+
+"thirteenth"
+(Xg 13)
+
+"thirtieth"
+(Xg 30)
+
+"thirty"
+% CONCRETE MATERIAL 
+(30)
+
+"thirty-three"
+(1 RsDWg 33 ^l|XfD^bDzD Ig[lWlGz]bD)
+
+"thistle"
+% MATERIAL PLANT
+(WfWAfW[s|)
+# ^grasp the thistle firmly (VERB) : AlbAbQ^bAg DbDAsAWg GcZf^bGb
+# the Order of the Thistle (NOUN) : WfWAfW[s| ^sDXbW
+
+"thistledown"
+(WfWAfW[s|Wz| AlbDQl)
+
+"thole"
+% CONCRETE ANIMAL MATERIAL 
+(DlUXlX)
+
+"thomas"
+% HUMAN
+(\lQbUz)
+
+"thomism"
+% ART
+(\lQbUzUfI)
+
+"thompson"
+(\lQUzD)
+
+"thong"
+% CONCRETE ANIMAL MATERIAL 
+(AbXsABzD)
+
+"thor-delta"
+(UlWfGgI\f Il[gU)
+
+"thorax"
+% CONCRETE MATERIAL 
+(AbUzQ)
+
+"thorite"
+(\lIzUfA)
+
+"thorium"
+% CONCRETE MATERIAL 
+(\lIwQ)
+
+"thorn"
+% CONCRETE MATERIAL 
+(AbU|)
+# a thorn in ONE_S side (NOUN) : QlQWg AbU|
+# a thorn in ONE_S flesh (NOUN) : QlQWg AbU|
+# ^be on thorns (VERB) : DzI RsIWbD^c ^bGb
+# ^sit on thorns (VERB) : DzI RsIWbD^c ^bGb
+# ^stand on thorns (VERB) : DzI RsIWbD^c ^bGb
+# ^walk on thorns (VERB) : DzI RsIWbD^c ^bGb
+# thorn apple (NOUN) : WbAbWs| WjIQc ^z|DGlAQbI]sIIw
+
+"thornback"
+% ANIMAL
+(^zWWf)
+
+"thornbush"
+(AbU|W|VDzD AlbDQlA)
+
+"thoron"
+(\lIlD)
+
+"thoroughbred"
+% ANIMAL
+(UsDXlWWz| GlWQsI)
+
+"thoroughfare"
+% CONCRETE MATERIAL 
+(\lWIl)
+
+"thoroughness"
+% CONCRETE MATERIAL 
+(WlbDXfD)
+
+"thorp"
+% PLACE
+(QbWzI)
+
+"thou"
+% CONCRETE MATERIAL 
+(]bWsDGz)
+
+"thought"
+% MATERIAL 
+(UcWAbA)
+# after much thought (PP->ADV) : AlQAlQW| UcWAbA^bD Gs|Wg
+# after serious thought (PP->ADV) : AlQAlQW| UcWAbA^bD Gs|Wg
+# at a thought (PP->ADV) : GbDUsQWg
+# like a thought (PP->ADV) : GbDUsQWg
+# ^be lost in thought (VERB) : UcWAbAWg XbQAj W|VGb
+# ^give a thought to A (VERB) : [(OBJ A/WzI) W|IAl^b<VERB>]/Gb
+# on second thought (PP->ADV) : GbU| UcWAbA^bWj
+# ^take thought for A (VERB) : [(OBJ A/WzI) AfAXfW^b<VERB>]/Gb
+# upon a thought (PP->ADV) : GbWXbWWg
+# with a thought (PP->ADV) : GbWXbWWg
+# with the thought of A (PP->ADV) : (ADJUNCT [(RELCL A/^bI) UcWAbA<NOUN>]/WzIl)
+# without a moment's thought (PP->ADV) : XzAUfAWgUf
+# ^spend hours in thought (VERB) : UbUcAWzIl QjZ U|AbDWzI RlDcGb
+# a happy thought (NOUN) : QrWbD
+# a striking thought (NOUN) : QrWbD
+# thought control (NOUN) : UbUbW \lWXg
+# freedom of thought (NOUN) : UbUbWWz| XbWw
+# ^show much thought for others (VERB) : DbQWz| WjQIjIzI QbD^W| ^bGb
+
+"thoughtlessness"
+% CONCRETE MATERIAL 
+(RsDRjIWfRUWzQ)
+
+"thoughtway"
+(UbAlRbWU|A)
+
+"thousand"
+% CONCRETE MATERIAL 
+(ZfD)
+# by thousands (PP->ADV) : QsUs^|
+# one in a thousand (NOUN) : XfIUgWz| WjWWsW
+# hundreds of thousands of A (NOUN) : [(POSS [UsU|RQbD<NOUN>]/Wz|) A]
+# hundreds of thousands (NOUN) : UsU|RQbD
+* [(POSS [UsU|RQbD<NOUN>]/Wz|) A] {+SINGULAR,+PLUR}
+* A (~ {+HUMAN})
+* [(POSS [UsU|RQbD<NOUN>]/Wz|) A] {+SINGULAR,+PLUR}
+* A (~ {-UNIT,-HUMAN})
+* [(NMODS [UsU|RQbD<NOUN>]) A] {+SINGULAR,+PLUR}
+* A (~ {+UNIT,-HUMAN})
+
+# thousand {+PLUR} (NOUN) : UsZfD
+# thousands of A {-TIME} (NOUN) : [(POSS [UsZfD<NOUN>]/Wz|) A]
+# thousands of years ago/before $ (ADV NOUN) : 1) UsZfDDjD XfDWg
+											 2) UsZfDDjD XfD
+# thousands of years ago/before A (ADV NOUN) : 
+1) [(NMODS [(AMODS A/W|XfDWz|) UsZfDDjD<NOUN>]) XfD<NOUN>]/Wg
+2) [(NMODS [(AMODS A/W|XfDWz|) UsZfDDjD<NOUN> XfD<NOUN>]
+# many thousands of years ago/before (ADV NOUN) : 1) UsZfDDjD XfDWg
+											 	  2) UsZfDDjD XfD
+# tens of thousands (NOUN) : UsQbD
+# tens of thousands of A (NOUN) : [(POSS [UsQbD<NOUN>]/Wz|) A]
+
+"thousandth"
+(Xg 1000)
+
+"thraldom"
+% HUMAN
+(DlWk U|DUg)
+
+"thrall"
+% HUMAN
+(DlWk)
+# a thrall to vice (NOUN) : Xl|WbAWz| DlWk
+# in thrall to A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wg) QcW|<VERB>]/^bWjUf)
+# in thrall (PP->ADV) : DlWkWz| QlQWzIl
+
+"thrash"
+% MATERIAL ACTION
+(HcI|A|)
+
+"thrasher"
+% CONCRETE ANIMAL MATERIAL 
+(QcX|I^bDzD UbIbQ)
+
+"thrashing"
+% MATERIAL ACTION
+(\bXbA)
+
+"thread"
+% CONCRETE MATERIAL 
+(U|I)
+# a thread of light (NOUN) : ^bD AbGbAWz| AlbWQjW
+# ^be worn to a thread (VERB) : DfGfIDfGfI ^cWfXj W|VGb
+# ^cut ONE_S mortal thread (VERB) : QlAUsQWzI BzD^Gb
+# ^gather up the threads (VERB) : XlW^bR^bGb
+# ^hang by a thread (VERB) : QcWs Ws|\cIlRGb
+# ^hang on a thread (VERB) : QcWs Ws|\cIlRGb
+# ^hang upon a thread (VERB) : QcWs Ws|\cIlRGb
+# ^resume the thread of a story (VERB) : W|WdA|Wz| U|IQbI|IzI W|UGb
+# the thread of life (NOUN) : UsQjW
+# thread and thrum (ADV) : QlXlI|
+# thread of ONE_S life (NOUN) : UcWQjW
+
+"thread-needle"
+(WfI|DW| DlIW|)
+
+"threadworm"
+% CONCRETE ANIMAL MATERIAL 
+(WrZsW)
+
+"threat"
+% CONCRETE MATERIAL 
+(Ws|^jR)
+# offensive threat (NOUN) : AlWAjAWs|^jR
+# under the threat of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) Ws|^jR<NOUN>]/WzI) RbG<VERB>]/^bAl)
+
+"three"
+% CONCRETE MATERIAL 
+(3)
+
+"three-d"
+(W|RZg)
+# in three D (PP->ADV) : W|RZgIl
+
+"three-decker"
+% CONCRETE MATERIAL 
+(3 AbR]bDWz| XfD^bQ)
+
+"three-master"
+(GlZGcAb UgU W|VDzD Rc)
+
+"three-pointer"
+(3 XfQ ZbAIwA)
+
+"three-seater"
+(3 W|DUzW)
+
+"three-wheeler"
+(3 IwDZb)
+
+"threescore"
+(60)
+# threescore and ten (NOUN) : Z|IU|R
+
+"threesome"
+% CONCRETE MATERIAL 
+(3 W|DXl)
+
+"thremmatology"
+% ART
+(WdWU|A^bA)
+
+"threnody"
+% CONCRETE MATERIAL ART
+(R|Ab)
+
+"thresh"
+% ACTION
+(\bXbA)
+
+"thresher"
+% CONCRETE ANIMAL MATERIAL 
+(\bXbAA|)
+
+"threshold"
+% CONCRETE MATERIAL 
+(^bDAk)
+# ^cross ONE_S threshold (VERB) : QsDX|RbWWzI DfQGb
+# at the threshold of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) U|Zl<NOUN>]/Wg)
+# on the threshold of A (PP->ADV) : (ADJUNCT [(RELCL [(MODS [QbA<ADV>]) A]/^bIjDzD) ZbQ<NOUN>]/Wg)
+# at the threshold of PRESP (PP->ADV) : (ADJUNCT [(RELCL [(MODS [QbA<ADV>]) 
+PRESP]/^bIjDzD) ZbQ<NOUN>]/Wg)
+# the threshold of consciousness (NOUN) : U|AWjA
+# threshold agreement (NOUN) : U|RbIAkWdA
+# threshold arrangement (NOUN) : U|RbIAkWdA
+
+"threspasser"
+% HUMAN
+(Z|QW|RXb)
+
+"thrift"
+% CONCRETE MATERIAL 
+(XfIWdA)
+
+"thriftiness"
+% CONCRETE MATERIAL 
+(XfIWdA)
+
+"thrill"
+% MATERIAL MIND
+(XfDWwI)
+# a thrill of terror (NOUN) : AlW]lWz| XfDWwI
+# a story full of thrills (NOUN) : GzI|IIl AbGzAZbD W|WdA|
+
+"thriller"
+% CONCRETE MATERIAL 
+(GzI|IWzI XsDzD AfU)
+
+"thriller-diller"
+% ART
+(UfXfWXfA UlUfI)
+
+"thrillingness"
+(WlVbA^bAg ^bQ)
+
+"thrips"
+% CONCRETE ANIMAL MATERIAL 
+(UbRXsRfIIg)
+
+"throat"
+% CONCRETE MATERIAL ANIMAL
+(QlAAsQfW)
+# at the top of ONE_S throat (PP->ADV) : QlAW| \fX|GlIlA
+# ^clear ONE_S throat (VERB) : ^fUA|Z|Q^bGb
+# ^cut one another's throats (VERB) : UfIl QbW^bI X|UWzI ^bGb
+# ^cut ONE_S throat (VERB) : QlAWzI RgGb
+# full to the throat (ADV) : QlAAsQfWBbX| ZbGlIlA XbDHzA QfAAl
+# ^pour down ONE_S throat (VERB) : QbU|Gb
+# ^send down ONE_S throat (VERB) : QbU|Gb
+# ^spring at the throat of A (VERB) : [(ADJUNCT [GbIIjGzI<VERB>]/^bWj) (OBJ [(POSS A/Wz|) QlA<NOUN>]/WzI) XlIzIjAl ^b<VERB>]/Gb
+# ^stick in ONE_S throat (VERB) : QlAAsQfWWg AfII|Gb
+# ^take A by the throat (VERB) : [(OBJ [(POSS A/Wz|) QlA<NOUN>]/WzI) XlIz<VERB>]/Gb
+# ^seize A by the throat (VERB) : [(OBJ [(POSS A/Wz|) QlA<NOUN>]/WzI) XlIz<VERB>]/Gb
+
+"throb"
+% MATERIAL 
+(AlGlW)
+
+"throe"
+(AjA\lW)
+# in the throes of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AlR|<NOUN>]/Wg)
+
+"thrombosis"
+% MATERIAL 
+(^jIXfDXzW)
+
+"throne"
+% CONCRETE MATERIAL PLACE
+(WlbWXlb)
+# ^mount the throne (VERB) : XzAWs|^bGb
+# ^come to the throne (VERB) : XzAWs|^bGb
+# speech from the throne (NOUN) : Wz|^l| AcWsfDU|AWz| Z|AWf
+
+"throng"
+% MATERIAL HUMAN
+(AsDXsW)
+
+"throstle"
+% CONCRETE ANIMAL MATERIAL 
+(X|SbAs|)
+
+"throttle"
+% CONCRETE ANIMAL MATERIAL 
+(XfIA|]bD)
+# at full throttle (PP->ADV) : XfDUlAIjAWzIl
+# with the throttle against the stop (PP->ADV) : XfDUlAIjAWzIl
+
+"throttlehold"
+(\lWXg)
+
+"through-put"
+(ZfI|IdW)
+
+"throw"
+% CONCRETE MATERIAL ACTION
+(GfDX|A|)
+# at a stone's throw (ADV) : GlIWzI GfDX|QjD Gb^DzD AlUWg
+# free throw (NOUN) : ]zI|GzIlWs
+# throw of eccentric (NOUN) : ]jDU|Q AfI|
+
+"throw-down"
+% ACTION
+(AfXfI)
+
+"throw-in"
+(GfQ)
+
+"throw-out"
+(RsI^bRAjA]sQ)
+
+"throwaway"
+(S|Ib)
+
+"throwback"
+% MATERIAL ACTION
+(Gl|GfDX|A|)
+
+"thrower"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GfDX|DzD UbIbQ)
+
+"throwoff"
+(AcU|)
+
+"throwster"
+% HUMAN
+(UcWUbIzI BlDzD X|AAlW)
+
+"thrum"
+(U|IWlIbA|)
+
+"thrush"
+% CONCRETE ANIMAL MATERIAL 
+(X|SbAs|)
+
+"thrust"
+% MATERIAL ACTION
+(Y|IzA|)
+# ^give a thrust (VERB) : W|IAjAWzI Ab^bGb
+# ^make a thrust (VERB) : ]sA Y|IzGb
+
+"thruster"
+% HUMAN
+(Q|DzD UbIbQ)
+
+"thrustor"
+(ZsX|D WgDX|D)
+
+"thud"
+([sW)
+# with a thud (PP->ADV) : [sW ^bAl
+
+"thug"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbQUbIGbDWsfD)
+
+"thuggee"
+% ACTION
+(WbQUbI)
+
+"thuggery"
+% ACTION
+(WbQUbI)
+
+"thuggism"
+% ACTION
+(WbQUbI)
+
+"thule"
+% PLACE
+(AzARsAWz| HbW)
+
+"thulium"
+% CONCRETE MATERIAL 
+(\sIIwQ)
+
+"thumb"
+% CONCRETE MATERIAL ANIMAL
+(WfQX|UlDAbIbA)
+# ^bite ONE_S thumbs (VERB) : ^lbAb DbUf WfQX|UlDAbIbAWzI QsIGb
+# by rule of thumb (PP->ADV) : XsQfAAsAsIl
+# golden thumb (NOUN) : GlDW| WjII|DzD DbQs
+# ^have a green thumb (VERB) : QjWUsW|Gb
+# millet's thumb (NOUN) : GlDW| WjII|DzD DbQs
+# rule of thumb (NOUN) : XsWWr^bD AwZ|A
+# thumb of gold (NOUN) : GlDW| WjII|DzD DbQs
+# ^thumbs up (VERB) : A|WsDWzI DcIb
+# ^turn up the thumb (VERB) : QbDXlAWzI ]r^bGb
+# ^turn down the thumb (VERB) : RsIQbDWzI ]r^bGb
+# ^twirl ONE_S thumbs (VERB) : ]fDGsW]fDGsW DlIGb
+# under a person's thumb (PP->ADV) : DbQWgAg XlbX|WsX| GbW^bWj
+
+"thumb-mark"
+(WfQX|UlDAbIbA XbAsA)
+
+"thumbnail"
+% CONCRETE MATERIAL 
+(WfQX| UlD\lR)
+
+"thumbprint"
+(WfQX|UlDAbIbA X|QsD)
+
+"thumbscrew"
+(WfQX|UlDAbIbAWzI Xl|DzD ^jW\zI)
+
+"thumbstall"
+(Vz|WsAc)
+
+"thumbtack"
+% CONCRETE ANIMAL MATERIAL 
+(XgGlWrW WbR]|D)
+
+"thump"
+% MATERIAL 
+(HbA)
+# with a thump (PP->ADV) : HbA ^bAl
+
+"thunder"
+% MATERIAL 
+(ZfDGsW)
+# by thunder (PP->ADV) : R|IWfQfAWzI
+
+"thunderbird"
+(X|GcAlW Q|UbW|I)
+
+"thunderbolt"
+% MATERIAL 
+(RjIbA)
+
+"thunderchief"
+(XfD\s ]lAAjAA|)
+
+"thunderclap"
+(ZfDGsWUlI|)
+
+"thundercloud"
+(Dl|WsD)
+
+"thunderer"
+% HUMAN
+(RjAIjA Ab\WzD UlI|IzI X|IzDzD UbIbQ)
+
+"thunderhead"
+(QsWAcAsIzQ)
+
+"thunderpeal"
+(ZfDGsWUlI|)
+
+"thundershower"
+(Dl|Ws)
+
+"thundersquall"
+(ZfDGsW Uz[lWlI)
+
+"thunderstorm"
+% MATERIAL 
+(Dl|Ws)
+
+"thunderstroke"
+(RjIbA)
+
+"thurible"
+(^dWIl)
+
+"thursday"
+% TIME
+(QlAWrW|I)
+
+"thus-and-so"
+(AzIf^bD AfUGzI)
+
+"thusness"
+(W|IfW|If^bQ)
+
+"thwart"
+% CONCRETE ANIMAL MATERIAL 
+(RlWs\zWz| DlXfUDzD UbIbQWz| XlbUfA)
+
+"thyme"
+% CONCRETE MATERIAL PLANT
+(RcAI|^dW)
+
+"thymol"
+(\|QlI)
+
+"thymus"
+% CONCRETE MATERIAL 
+(^wWUfD)
+
+"thyroid"
+% CONCRETE MATERIAL 
+(AbRUbWUfD)
+
+"thyroxin"
+% CONCRETE MATERIAL 
+(AbRUbWUfD ^lIzQlD)
+
+"thyroxine"
+% CONCRETE MATERIAL 
+(AbRUbWUfD ^lIzQlD)
+
+"thyrsus"
+(XsU|DWz| X|]bWW|)
+
+"ti"
+(Xg 7 WzQ)
+
+"tibione"
+(\|R|WlD)
+
+"tic"
+% MATERIAL 
+(WbDQjD AjWIjD)
+
+"tical"
+% CONCRETE UNIT MATERIAL 
+(^jWIdW)
+
+"tick"
+% CONCRETE ANIMAL MATERIAL 
+(W|RsIW|U)
+# to the tick (PP->ADV) : WbXs XfW^lbA^bAg
+# on the tick (PP->ADV) : WbXs XfW^lbA^bAg
+# what makes one tick (NOUN) : ^cWGlWWz| GlWA|
+# a dog tick (NOUN) : AcX|DGzA|
+
+"tick-tack-toe"
+% MATERIAL 
+(UgQlA Dl^A|)
+
+"ticker"
+% CONCRETE ANIMAL MATERIAL 
+(UlARlA|)
+
+"ticket"
+% CONCRETE MATERIAL 
+(]r)
+# airline ticket (NOUN) : R|^cWA|]r
+# appearance ticket (NOUN) : ZsIUfA]r
+# bus ticket (NOUN) : RfUz]r
+# complimentary ticket (NOUN) : WsGcAsfD
+# season ticket (NOUN) : XfWA|AsfD
+# ticket for the theater (NOUN) : AzAXbW]r
+
+"tickle"
+% MATERIAL 
+(AbDX|IfQ)
+
+"tickler"
+(AbDX|IW|DzD QsIAfD)
+
+"ticktack"
+(HlAHbAHlAHbA)
+
+"tictoc"
+(HlAHbAHlAHbA)
+
+"tidbit"
+% CONCRETE MATERIAL 
+(^bD W|R)
+
+"tide"
+% CONCRETE MATERIAL 
+(XlUs)
+
+"tidemark"
+% CONCRETE ANIMAL MATERIAL 
+(XlUs]r)
+
+"tidewaiter"
+% HUMAN
+(UgAlbD AbQU|W|D)
+
+"tidewater"
+(XlUs)
+
+"tideway"
+% PLACE
+(XlIl)
+
+"tidiness"
+% CONCRETE MATERIAL 
+(QbIVsA^bQ)
+
+"tidings"
+% CONCRETE MATERIAL 
+(A|RjI)
+# glad tidings (NOUN) : A|SzD UlU|A
+# sad tidings (NOUN) : UzI]zD UlU|A
+# good tidings (NOUN) : Xl^WzD UlU|A
+# evil tidings (NOUN) : DbSzD UlU|A
+
+"tidology"
+(XlUfA)
+
+"tidy"
+% CONCRETE ANIMAL MATERIAL 
+(Wz|XbWz| GzWVz|WsAc)
+
+"tie"
+% STATE 
+(\bW|)
+# a tie for NUM1 {+ORDNUM} (NOUN) : [(NMODS [AlWGlW<NOUN>]) (NMODS NUM1 {+DGTNUM}) GzW<NOUN>]
+# with ties to A (PP->ADV PP->ADJ) :
+  1) (MODS [(ADJUNCT A/Wlb) WjDAjIGl|<VERB>]/Wf)
+  2) [(COMP [(ADJUNCT A/Wlb) WjDAjIGl|<VERB>]/Wf) W|V<ADJ>]/Gb
+# tie between A and B (NOUN) : [(ADJUNCT A/Wlb) (ADJUNCT B/WlbWz|) AjIUlA<NOUN>]
+
+"tie-in"
+% ECOLIFE
+(^bQBg B|Wf ]bIA|)
+# tie-in sale (NOUN) : B|Wsf]bIA|
+
+"tie-up"
+% MATERIAL 
+(XfWZg)
+# business tie-up (NOUN) : UbWfRXfWZg
+# sales tie-up (NOUN) : ]bDQcXfWZg
+# traffic tie-up (NOUN) : A|IW| QbA^|Q
+# technical tie-up (NOUN) : A|UsI Xg^w
+
+"tieback"
+(QsBDzD XbWU|ABzD)
+
+"tiebreak"
+(\bW|RzIgW|[z)
+
+"tiebreaker"
+(\bW|RzIgW|[f)
+
+"tieclasp"
+(DgA\bW| XbWU|A)
+
+"tiepin"
+% CONCRETE MATERIAL 
+(DgA\bW| ]|D)
+
+"tier"
+% MATERIAL 
+(GbD)
+# in tiers (PP->ADV) : ZzWZzWWzIl
+
+"tierce"
+% CONCRETE MATERIAL 
+(Xg 3)
+
+"tiercel"
+% CONCRETE ANIMAL MATERIAL 
+(QcWz| Us[fU)
+
+"tiff"
+% CONCRETE MATERIAL 
+(UbUl^bD QbIGb\sQ)
+
+"tiffany"
+(WdIRWzD R|GbD)
+
+"tiffin"
+% CONCRETE MATERIAL 
+(XfQU|Q)
+
+"tiger"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(^lIbWW|)
+# three cheers and a tiger (NOUN) : QbDUg 4 ZbW
+# American tiger (NOUN) : XcAwWf
+# red tiger (NOUN) : ]wQb
+# ^work like a tiger (VERB) : QcWIjI^| W|I^bGb
+
+"tiger's-eye"
+(^lWbDUfA)
+
+"tigereye"
+(^lWbDUfA)
+
+"tigerwood"
+(^lIbWW| RbDXfQ QsDz|Wz| AbAsWrW XcQlA)
+
+"tightness"
+% CONCRETE MATERIAL 
+(AjDAl)
+
+"tightrope"
+(]cW]cW^| QcD RbUXsI)
+# a tightrope dancer (NOUN) : XsI\bDzD AlAWkUb
+
+"tights"
+% CONCRETE MATERIAL 
+(\bW|Zz)
+
+"tightwad"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AsGsUl|)
+
+"tigon"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(\bW|AlD)
+
+"tigress"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(WbQRfQ)
+
+"tike"
+% ANIMAL
+(GzIAc)
+# a Yorkshire tike (NOUN) : WrWl[zUj UbIbQ
+
+"til"
+% PLANT FOOD
+(ZbQBc)
+
+"tilbury"
+(X|RsWWfRUDzD 2 IwD QbZb)
+
+"tilde"
+% CONCRETE MATERIAL 
+(Uz]gW|DWfWgUf Ws|Wg Rs\W|DzD A|^l)
+
+"tile"
+% CONCRETE MATERIAL 
+(\bW|I)
+# plain tile (NOUN) : DfIRXfAA|Wlb
+
+"tiler"
+% HUMAN
+(A|Wlb XgXlW|D)
+
+"tilery"
+% PLACE
+(A|Wlb XgXlUl)
+
+"tiling"
+% MATERIAL 
+(A|Wlb W|A|)
+
+"till"
+% CONCRETE MATERIAL 
+(]rUfA XfQ\l)
+
+"tillage"
+% MATERIAL 
+(AjWXbA)
+
+"tiller"
+% CONCRETE ANIMAL MATERIAL 
+(AjWXbAXb)
+
+"tilt"
+% CONCRETE MATERIAL 
+(A|WsIA|)
+# full tilt (ADV) : XfDUlAIjAWzIl
+# ^come full tilt against A (VERB) : [(ADJUNCT A/Wg) 
+(ADJUNCT [XfDUlAIjA<NOUN>]/WzIl) GlIX|D^b<VERB>]/Gb
+# ^run full tilt against A (VERB) : [(ADJUNCT A/Wg) (MODS [^|QBfU<ADV>]) GlIX|D^b<VERB>]/Gb
+# ^run full tilt into A (VERB) : [(ADJUNCT A/Wg) (MODS [VlDUbIAb\W|<ADV>]) GlIX|D^b<VERB>]/Gb
+# ^run full tilt at A (VERB) : [(ADJUNCT A/Wg) (MODS [VlDUbIAb\W|<ADV>]) GfQRjGzI<VERB>]/Gb
+# ^give a tilt at A (VERB) : [(OBJ A/WzI) AlWAjA^b<VERB>]/Gb
+# ^have a tilt to left (VERB) : Wl|DYlAWzIl A|WsIGb
+# ^have a tilt to east (VERB) : GlWYlAWzIl A|WsIGb
+# on the tilt (PP->ADV) : A|WsIWfXjUf
+
+"tilth"
+% ACTION
+(AjWXbA)
+
+"tiltyard"
+(QbUbWWz| ZbWU|^bR)
+
+"timbal"
+([g\zI GzIfQ)
+
+"timbale"
+% CONCRETE MATERIAL 
+(\cWRbI)
+
+"timber"
+% CONCRETE MATERIAL 
+(XcQlA)
+# a presidential timber (NOUN) : Gc\lWIjWAbQ
+# my timbers  (ADV) : R|IWfQfAWzI
+
+"timbering"
+(AfDZsA WrWXc)
+
+"timberland"
+% PLACE
+(UbQI|QX|)
+
+"timberwork"
+(QlAAlI AsXl)
+
+"timberyard"
+% PLACE
+(XcQlA Vb^Wb GsDzD AlU)
+# ^hear a row in ONE_S timberyard (VERB) : UbQXsQsDWg AlWW| QbXGb
+
+"timbre"
+% CONCRETE MATERIAL 
+(WzQUcA)
+
+"timbrel"
+(\cQRfI|D)
+
+"time"
+% CONCRETE MATERIAL TIME
+(U|AbD)
+# Father Time (NOUN) : U|AbDWz| U|D
+# Greenwich time (NOUN) : AzI|D|Z| ]rXsDU|
+# || time and tide wait for no man | (SENT) :  (DECL [UgWsfIWzD UbIbQWzI A|GbI|X| WbD^<VERB>]/Gb)
+# NUM1 {+ORDNUM} time (ADJ NOUN) : 1) (ADJUNCT [(NMODS NUM1 {+DGTNUM}) RfDYc<NOUN>]/W|Gb) {-TIME}
+                                   2) [(NMODS NUM1 {+DGTNUM}) RfDYc<NOUN>] {-TIME}
+# NUM1 {-ORDNUM} time (ADV NOUN) : 1) [(NMODS NUM1 {+DGTNUM}) RfD<NOUN>] {-TIME}
+								   2) [(NMODS NUM1 {+DGTNUM}) RfD<NOUN>] {-TIME}
+# a bad time keeper (NOUN) : RsXfW^lbA^bD U|Ak
+# a good time keeper (NOUN) : XfW^lbA^bD U|Ak
+# a long time before A (ADV) : (ADJUNCT [(POSS [(NMODS A) XfD<NOUN>]/Wz|) WlIcXfD<NOUN>]/Wg)
+# a time when SENT (NOUN) : [(RELCL SENT/^bI) Hc<NOUN>]
+# about this time (ADV) : W|HcYzQ
+# about time SENT (NOUN) : [(RELCL SENT/^bI) Hc<NOUN>]
+# against time (PP->ADV) : XfW^bD U|AbDWg GcIjAl
+# ahead of the times (ADV) : U|GcWg Wb]UfUf
+# all the time (ADV) : ^bWUbW
+# any time (CONJ ADV) : 1) ^bI HcDzD WfDXgDb
+			2) WfDXgGzD
+# as time goes on $ (ADV) : U|AbDW| X|DbQjDUf
+# astronomical time (NOUN) : ZfDQsDU|
+# at a time (ADV) : ^bDRfDWg
+# at all times (ADV) : WfDXgGzDX|
+# at any time (ADV) : WfDXgGzDX|
+# at one time (ADV) : ^bDRfDWg
+# at other times (ADV) : ]jWUlWgDzD
+# at the present time (ADV) : ^jDXc
+# at the same time (ADV) : GlWU|Wg
+# at the time of A (ADV) : (ADJUNCT [(POSS A/Wz|) Hc<NOUN>]/Wg)
+# at this time of day (ADV) : W|QbQHcWg
+# at that time (ADV) : AzHc
+# at times (ADV) : HcHcIl
+# ^be A in time | (NOUN) : [(ADJUNCT A/Wg) (MODS [XgU|AbDWg<ADV>]) GlZbA^b<VERB>]/Gb
+# ^be NUM1 to NUM2 times the size of A (VERB) : 
+  [(MODS [(POSS A/Wz|) (NMODS [(ADJUNCT NUM1/WgUf) NUM2]) Rc<NOUN>]) [z<ADJ>]/Gb
+# ^be ahead of ONE_S time (VERB) : Az U|GcIzI Wb]UfGb
+# ^be in time | (VERB) : XgU|AbDWg GlZbA^bGb
+# ^be in time for A (VERB) : [(OBJ [(NMODS A) U|AbD<NOUN>]/WzI) QbXZs<VERB>]/Gb
+# ^be ahead of the times (VERB) : U|GcWg Wb]UfAbGb
+# ^be on time (VERB) : U|AbDWzI X|[|Gb
+# ^be pressed for time (VERB) : QlRU| RbSzGb
+# ^beat time (VERB) : RbAXbIzI QbXZsGb
+# before the times (PP->ADV) : U|GcWg Wb]UfUf
+# behind the times (PP->ADV) : U|GcWg Gs|XjUf
+# between times (PP->ADV) : HcHcIl
+# both time (NOUN ADV) : 1) GsRfD
+                         2) GsRfD
+# || by the time SENT (PP->ADV) : (ADJUNCT [(RELCL SENT/^bI) Hc<NOUN>]/BbX|)
+# by this time (PP->ADV) : W|HcBbX|
+# ^call the time (VERB) : \bW|QWzI UfDAl^bGb
+# central time (NOUN) : XsWRsU|AbD
+# certain time (NOUN) : XfW^cX|D U|AbD
+# ^come to time (VERB) : X|Gb
+# challenging time (NOUN) : GlXfDU|A|
+# company time (NOUN) : AzDQsU|AbD
+# day light saving time (NOUN) : UfQf\bW|Q
+# each/every time (CONJ NOUN ADV) : 1) ^bI HcQbGb
+			      	    2) QcU|AbD	
+			      	    3) QcU|AbD	
+# eastern time (NOUN) : GlWRsU|AbD
+# || every time SENT (ADV) : (ADJUNCT [(RELCL SENT/^bI) Hc<NOUN>]/QbGb)
+# ^find time (VERB) : WjAbAb W|VGb
+# ^find time for a trip (VERB) : Wj^cW^bI WjAbAb UcWA|Gb
+# for a time (PP->ADV) : XbQU|GlWWbD
+# for a long time (PP->ADV) : WlIcUGlWWbD
+# for some time (PP->ADV) : WfIQbGlWWbD
+# for the first time $ (PP->ADV) : ZfWzQWzIl
+# for the first time in A (PP->ADV) : (ADJUNCT [(ADJUNCT A/WgUf) ZfWzQ<NOUN>]/Il)
+# for the last time (PP->ADV) : Zl|^sIl
+# for the second time (PP->ADV) : GsRfDYcIl
+# for the time being (PP->ADV) : GbWRsDAbD
+# for the time of the year (PP->ADV) : WjDXsWU|A|Il
+# from NUM1 to NUM2 times ADJ (ADJ) : 
+   [(MODS [(NMODS [(ADJUNCT NUM1/WgUf) NUM2]) Rc<NOUN>]) ADJ]/^bGb
+# from ancient times (PP->ADV) : QfD WkUDbIRs\f
+# from time to time (PP->ADV) : HcHcIl
+# ^gain time (VERB) : U|AbD WjWwIzI WfGGb
+# garbage time (NOUN) : Y|BfA| U|AbD
+# ^get ONE_S time (VERB) : ^cAlGbW^bGb
+# ^give time (VERB) : U|AbD WjWwIzI XsGb
+# good old times (NOUN) : AzI|WsD WkUDbI
+# good times (NOUN) : ^lAjWA|
+# hard times (NOUN) : RsIAjWA|
+# ^have a good time (VERB) : XcQ|W|VAg X|DcGb
+# ^have a great time (VERB) : WbXs XcQ|W|VAg X|DcGb
+# ^have a hard time (VERB) : AlUcWWzI ^bGb
+# ^have a hard time PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) WcQfA<VERB>]/Gb
+# ^have a hard time in PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) WcQfA<VERB>]/Gb
+# ^have no time to spare (VERB) : QlRU| RbSzGb
+# ^have time & (VERB->ADJ) : U|AbDW| W|VGb
+# harvest time (NOUN) : Us^lbAA|
+# hundreds of times (NOUN ADV) : 1) UsRcARc
+                                 2) UsRcARc
+# in ONE_S own good time (PP->ADV) : ^jW]jDW| Xl^WzD HcWg
+# in ONE_S own time (PP->ADV) : WjAbWg
+# in ONE_S time (PP->ADV) : W|IUcWWg
+# in almost no time at all | (PP->ADV) : AfWz| XzAAbAXfAWzIl
+# in no time (PP->ADV) : XzAU|
+# in slow time (PP->ADV) : DzI|D RbAXbIl
+# in so short a time (PP->ADV) : YbIRWzD U|AbDWg
+# || in time (PP->ADV) : AlG
+# in time for A (PP->ADV) : (ADJUNCT A/U|AbDWg)
+# in time of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) U|AbD<NOUN>]/Wg)
+# in time to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) QbXZs<VERB>]/Wf)
+# in true time (PP->ADV) : RbIzD RbAXbIl
+# it ^be time SENT (SENT) : [(COMP [(RELCL SENT/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb{-PAST,-HAVEAUX}
+# it ^be about time SENT (SENT) : [(COMP [(RELCL SENT/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb{-PAST,-HAVEAUX}
+# it ^be about time for A {+HUMAN} TO_INF (NOUN) : 
+[(COMP [(SUBJ A/Ab) (RELCL TO_INF/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb
+# it ^be time TO_INF (SENT) : [(COMP [(RELCL TO_INF/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb
+# it ^be time THAT_CLAUSE (SENT) : 
+[(SCOMP [(RELCL THAT_CLAUSE/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb {-PAST,-HAVEAUX}
+# it ^be time for A (SENT) : [(COMP [(ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/^bD) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb
+# it ^be time for A {+HUMAN} TO_INF (SENT) : 
+[(COMP [(RELCL [(SUBJ A/Ab) TO_INF]/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb
+# it ^be time for A TO_INF (SENT) : 
+[(COMP [(RELCL [(SUBJ A/Ab) TO_INF]/^bI) U|AbD<NOUN>]) _<ADJ>]<W|>/Gb
+# it ^be time I was going (SENT) :  (DECL [(MODS [W|Xg<ADV>]) AbWd^bI U|AbDW|<ADJ>]/Gb)
+# it ^be time I were going (SENT) : (DECL [(MODS [W|Xg<ADV>]) AbWd^bI U|AbDW|<ADJ>]/Gb)
+# || it has been a long time | (SENT) : (DECL [WlIcDQbDW|<ADJ>]/Gb)
+# it ^take a long time before SENT (SENT) : 
+[(ADJUNCT [(COMPCL SENT/^bDzD) Gg<NOUN>]) (MODS [WlIc<ADV>]) AfII|<VERB>]/Gb
+# just in time (PP->ADV) : RbIl XgU|AbDWg
+# ^keep bad time (VERB) : U|AbDW| XbI QbXX| WbD^Gb
+# ^keep good time (VERB) : U|AbDW| XbI QbXGb
+# ^keep time (VERB) : RbAXbIzI QbXZsGb
+# ^kill time (VERB) : U|QU|Q]sIW|^bGb
+# local time (NOUN) : ^jDX|U|AbA
+# || long time no see | (SENT) :  (DECL [WlIcDQbDW|<ADJ>]/Gb)
+# lunch time (NOUN) : XfQU|Q U|AbD
+# ^make a time (VERB) : WdGbDRfRUfA^bGb
+# ^make good time (VERB) : SbIzGb
+# ^make poor time (VERB) : GfG|Gb
+# ^make time (VERB) : UfGsIzGb
+# ^make time to do (VERB) : U|AbDWzI DcWf ^bGb
+# many a time (ADV) : QjZRfDW|Al
+# many times (ADV) : QjZRfDW|Al
+# many times as much (ADV) : QjZRc QbD^W|
+# many times ^removed (ADJ) : ZlDUsAb QfIGb
+# meal time (NOUN) : U|AUb U|AbD
+# most of the time (PP->ADV) : GcRsRsDWz| U|AbDWg
+# near ONE_S time (ADJ) : W|QXlWW| AbBbRGb
+#' next time | (NOUN ADV) : 1) GbWzQRfD 
+			   2) GbWzQRfDWg
+# of all time (PP->ADV) : AlAzQWzI \lW^bWj
+# on time (PP->ADV) : XgU|AbDWg 
+# one at a time (ADV) : ^bDRfDWg ^bDbV|A
+# one time or another (ADV) : AbBzQ
+# one time with another (ADV) : XfD^s ^bR^bWj
+# once upon a time (ADV) : WkUDbIWg
+# our time (NOUN) : WsI| U|Gc
+# out_of time (PP->ADV) : Gs|DzXAg
+# processing time (NOUN) : ZfI|U|AbD
+# quick time (NOUN) : UlARl
+# set time (NOUN) : UgU \bW|Q
+# several time (NOUN ADV) : 1) QjZZbIk 2) QjZZbIk
+# short a space of time (NOUN) : YbIRWzD U|AbD
+# short a time (NOUN) : YbIRWzD U|AbD
+# slow time (NOUN) : Rl\lW AfIWzQ
+# so short a time (NOUN) : WbXs YbIRWzD U|AbD
+# some time | (ADV) : WfDXgDAb
+# some time $ (NOUN) : QjZU|AbD
+# ^take some time $ (VERB) : QjZU|AbD AfII|Gb
+# some time ago (ADV) : QjZU|AbD XfDWg
+# some time during the picture (ADV) : WjW^lbAb UbWWjWGl|DzD GlXsWWg
+# standard time (NOUN) : ]rXsDU|
+# summer time (NOUN) : UfQf\bW|Q
+# ^take all ONE_S time (VERB) : QlRU| WcQfAW|Gb
+# ^take time out from work (VERB) : W|I^bGb XbQU| Us|Gb
+# the curtain time (NOUN) : AcQbA U|AbD
+# the time agreed upon $ (NOUN) : WdAUlA U|AbD
+# the time come when SENT (SENT) : 
+ [(SUBJ [(RELCL SENT/^bI) U|AbD<NOUN>]/W|) Gl|<VERB>]/Gb
+# the time of A {+PRNOUN} (NOUN) : [(ADJUNCT A/Wz|) U|Gc<NOUN>]
+# the time of day (NOUN) : U|AbA
+# the times when SENT (ADV) : (ADJUNCT [(COMPCL SENT/^bI) Hc<NOUN>])
+# the very first time (NOUN ADV) : 1) ZfWzQ
+                                   2) ZfWzQWzIl
+# this time (NOUN ADV) : 1) W|RfD 2) W|RfDWg
+# this time of year (NOUN) : W| AkXfI
+# this time tomorrow (ADV NOUN) : 1) DcW|I W|QbQHc
+                                  2) DcW|I W|QbQHc
+# three time as ADV | (ADV) : [(MODS [UgRc<ADV>]) ADV]
+# time after time (ADV) : WjIfRfD
+# time and space (NOUN) : U|AbDAlb AlWAbD
+# time bill (NOUN) : XfWA|RsIWfWzQ
+# time capsule (NOUN) : U|AbD [cRUwI
+# time card (NOUN) : AzDQs U|AbD A|IlA]r
+# time charter (NOUN) : XfWA|WrWUfD
+# time deposits (NOUN) : XfWA|WkAzQ
+# time lag (NOUN) : \bW|QIcAz
+# time is money (SENT) : U|AbDWzD GlDW|Gb
+# time keeper (NOUN) : XbAWfR U|AbDAk
+# time out (NOUN) : \bW|Q WbWs\z
+# time piece (NOUN) : U|Ak
+# time preference (NOUN) : U|AbDUfD^l
+# time preference theory (NOUN) : U|ZbUfI
+# time reversal test (NOUN) : U|A|XfDWjA\gUz\z
+# time series (NOUN) : U|AkWjI
+# time study (NOUN) : U|AbDWjDAs
+# time server (NOUN) : X|Xl WfRUDzD UbIbQ
+# time utility (NOUN) : U|AbD^rAlb
+# time wages (NOUN) : U|AbDAzR
+# western time (NOUN) : UfRsU|AbD
+# || what is the time | (SENT) : (QUES [QjZU|W|<ADJ>]/Gb)
+# || what is the time now | (SENT) : (QUES [(MODS [X|AzQ<ADV>]) QjZU|W|<ADJ>]/Gb)
+# what time (NOUN ADV) : 1) QjZU| {+QUESFLAG}
+			 2) QjZU|Wg {+QUESFLAG}
+# | what time do you have || (SENT) : (QUES [QjZU|W|<ADJ>]/Gb)
+# | what time is it || (SENT) : (QUES [QjZU|W|<ADJ>]/Gb)
+# | what time is it now || (SENT) : (QUES [(MODS [X|AzQ<ADV>]) QjZU|W|<ADJ>]/Gb)
+
+"time-consumer"
+(U|AbDW| QbD^W| AfII|DzD W|I)
+
+"time-out"
+% MATERIAL TIME
+(\bW|Q WbWs\z)
+# ^take time out from work (VERB) : W|I^bGb XbQU| Us|Gb
+
+"time-series"
+(U|AkWjI)
+
+"time-serving"
+(A|^l|XsWz|)
+
+"time-sharing"
+(U|RsD^bI)
+
+"timeline"
+(U|AbD]r)
+
+"timeliness"
+% CONCRETE MATERIAL 
+(U|AbDUfW)
+
+"timeout"
+(\bW|QWbWsU)
+
+"timer"
+% CONCRETE ANIMAL MATERIAL 
+(U|AbD A|IlAAk)
+# old timer (NOUN) : AlZbQXb
+
+"timestamp"
+(\bW|QUz\cQ]z)
+
+"timetable"
+% CONCRETE MATERIAL 
+(U|AbD]r)
+
+"timework"
+(U|AbD DlGlW)
+
+"timidity"
+% CONCRETE MATERIAL 
+(AfR)
+
+"timing"
+% CONCRETE MATERIAL 
+(\bW|Q|W)
+
+"timocracy"
+% ORGAN
+(AzQAsfD XfWZ|)
+
+"timpani"
+(\|Q]bD|)
+
+"timpanist"
+% HUMAN
+(\|Q]bD| WjDXsXb)
+
+"tin"
+% CONCRETE MATERIAL 
+(XsUfA)
+# tin foil (NOUN) : UfARbA
+
+"tin-opener"
+(BbW\lW HbAc)
+
+"tinamou"
+% CONCRETE ANIMAL MATERIAL 
+(QgZsIbA|)
+
+"tincal"
+(ZfDWjD RsWUb)
+
+"tinct"
+(UcA)
+
+"tincture"
+% MATERIAL 
+(UcAXl)
+# tincture of idoine (NOUN) : WlAGlXfWA|
+# some tincture of education (NOUN) : Af\QbD RfDX|IzIz^bD ArWwA
+
+"tindal"
+% HUMAN
+(UsRs WsGsQfI|)
+
+"tinder"
+% CONCRETE MATERIAL 
+(RsU|UA|U)
+# ^burn like tinder (VERB) : RsIW| XbI Rs\Gb
+
+"tinderbox"
+% CONCRETE ANIMAL MATERIAL 
+(RsU|UA|U\lW)
+
+"tine"
+% CONCRETE ANIMAL MATERIAL 
+(AbIbWW|)
+
+"ting"
+(HbIIbWHbIIbW)
+
+"tingaling"
+(RbWWsIUlI|)
+
+"tinge"
+% CONCRETE MATERIAL 
+(UcABbI)
+# ^carry a tinge of blue (VERB) : ]sIzD R|ZWzI H|Al W|VGb
+# ^have a tinge of pedantry (VERB) : ^jD^bAXfAW|D GgAb XlAzQ W|VGb
+
+"tingle"
+(WfIWfI^bQ)
+
+"tinhorn"
+% HUMAN
+(Af\Z|Ig^bDzD UbIbQ)
+
+"tinker"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(HcQXbWW|)
+# not ^care a tinker's down (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+# not ^care a tinker's curse (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+# ^have a tinker at A (VERB) : [(OBJ A/WzI) XsQsIIfAAfI|<VERB>]/Gb
+
+"tinkle"
+(YbIIbWYbIIbW)
+
+"tinkler"
+% HUMAN
+(YbIIbWYbIIbW WsII|DzD UbIbQ)
+
+"tinman"
+% HUMAN
+(WdWZfIXbWW|)
+
+"tinner"
+% HUMAN
+(WdWZfIXbWW|)
+
+"tinnitus"
+(As|WsIWzQ)
+
+"tinsel"
+% CONCRETE MATERIAL 
+(RfDYfAAfI|DzD Ul|UXlAbA)
+
+"tinsmith"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UcWZfIAlW)
+
+"tinstone"
+(XsUfA AlbWUfA)
+
+"tint"
+% MATERIAL 
+(UcABbI)
+# autumnal tints (NOUN) : AbWzIUcA
+# crossed tint (NOUN) : ArZbUfD WzQWjW
+# ruled tint (NOUN) : ]jW^cWUfD WzQWjW
+# in all tints of red (ADV) : X|D^bAl WjD^bD AbXAbX| RsIAWzD R|ZWzIl
+# green of a blue tint (NOUN) : ZfWUcAW| GlDzD ZlIlAR|Z
+# green with a blue tint (NOUN) : ZfWUcAW| GlDzD ZlIlAR|Z
+
+"tintinnabulation"
+% MATERIAL 
+(YbIIbWYbIIbW)
+
+"tintype"
+(ZfI]bD UbX|D)
+
+"tinware"
+(XsUfA UgAlW]sQ)
+
+"tiny"
+% HUMAN
+(XlAzQbD WbW|)
+
+"tip"
+% CONCRETE MATERIAL 
+(\|R)
+# from tip to tip (PP->ADV) : Bz\WgUf Bz\BbX|
+# from tip to toe (PP->ADV) : Bz\WgUf Bz\WgBbX|
+# ^miss ONE_S tip (VERB) : WkZzAW| WfAzUDbGb
+
+"tip-off"
+% MATERIAL 
+(As|Hz|Q)
+
+"tipcart"
+(X|QZb)
+
+"tipcat"
+(XbZ|A|)
+
+"tipperary"
+(\|]gIgI|Wz| DlIc)
+
+"tippet"
+% CONCRETE ANIMAL MATERIAL 
+(WfBcAfIW|)
+
+"tipple"
+% FOOD
+(UsI)
+
+"tippler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsIAlIc)
+
+"tipsiness"
+(WfI[zD^| Zs|^bA|)
+
+"tipstaff"
+(X|]bWW|)
+
+"tipster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfWRl XgAlWXb)
+
+"tiptoe"
+(RbIBz\)
+# on tiptoe (PP->ADV) : RbIBz\WzIl
+# ^walk on tiptoe (VERB) : RbIBz\WzIl UbIAzQUbIAzQ AfGGb
+# ^be on tiptoe of exepectation (VERB) : ^bAUsAlGc^bGb
+
+"tiptop"
+(XfIXfW)
+# at the tiptop of ONE_S profession (PP->ADV) : XfDUfWA|IzI QbXW|^bWj
+
+"tirade"
+% CONCRETE MATERIAL ACTION
+(XbWAlbWUfI)
+
+"tire"
+% CONCRETE MATERIAL 
+(\bW|Wf)
+
+"tiredness"
+% MATERIAL 
+(]|Il)
+
+"tiresomeness"
+(]|Il)
+
+"tirewomam"
+% HUMAN
+(U|Dj)
+
+"tiro"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Zl^bAXb)
+
+"tiros"
+(Q|AsAWz| A|UbW Ws|UfW)
+
+"tissue"
+% CONCRETE MATERIAL 
+(X|AQsI)
+# human tissue (NOUN) : W|DZgUsX|
+
+"tit"
+% CONCRETE ANIMAL MATERIAL 
+(AjW\b)
+# ^give pay him tit for tat (VERB) : QbXRbGWb VlWbXsGb
+
+"titan"
+% HUMAN
+(\bW|\bD)
+
+"titanate"
+(\|\bD UbDWjQ)
+
+"titanic"
+(\bW|\bD|A)
+
+"titanium"
+% CONCRETE MATERIAL 
+(\|\bDwQ)
+
+"titbit"
+(^bDW|R)
+
+"tithe"
+% MATERIAL 
+(U|RW|IXl)
+
+"tithing"
+(U|RW|IXl AlbUg)
+
+"titian"
+% HUMAN
+(W|\bII|WbWz| ^lbAb)
+
+"titillation"
+% MATERIAL 
+(AbDX|IW|A|)
+
+"titlark"
+% CONCRETE ANIMAL MATERIAL 
+(DlDXlWGbI|Iw)
+
+"title"
+% CONCRETE MATERIAL 
+(XgQlA)
+# man of title (NOUN) : X|A^bQW| W|VDzD UbIbQ
+# for the title of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XgQlA<NOUN>]/WzIl)
+# ^marry for a title (VERB) : X|A^bQWzI RlAl AjI^lD^bGb
+# ^acquire title to property (VERB) : XcUbDWz| UlWwAsfDWzI ^l|AGzA^bGb
+# ^hold title to property (VERB) : XcUbDWz| UlWwAsfDWzI AbX|Al W|VGb
+# the title fight (NOUN) : UfDUsAsfDXfD
+# the title match (NOUN) : UfDUsAsfDXfD
+# ^defend ONE_S title (VERB) : \bW|\zIWzI RbWWf^bGb
+# ^lose ONE_S title (VERB) : \bW|\zIWzI W|I^Gb
+# title theory (NOUN) : UlWwAsfDW|IlD
+
+"titleholder"
+% HUMAN
+(UfDUsAsfD RlWwXb)
+
+"titler"
+(XbQbA ZlbIWjW XbWZ|)
+
+"titling"
+(AzQRbAWzIl XgQlAWzI RbAA|)
+
+"titlist"
+% HUMAN
+(UfDUsAsfD RlWwXb)
+
+"titmouse"
+% CONCRETE ANIMAL MATERIAL 
+(RbAUcAlbWz| XbAWzD Uc)
+
+"titoism"
+% ART
+(\|\lXsWz|)
+
+"titoist"
+% HUMAN
+(\|\lXsWz|Xb)
+
+"titration"
+% MATERIAL 
+(XfAXfW)
+
+"tittle"
+(XbAWzD XfQ)
+# not one jot or one tittle (VERB) : XfQ ^bDb ^l|A ^bDbIbGl WbD^Gb
+# to a tittle (PP->ADV) : BlA
+
+"tittle-tattle"
+% CONCRETE MATERIAL ACTION
+(AcAGbQ)
+
+"tittlebat"
+% ANIMAL
+([zD AbU|AlA|)
+
+"tittup"
+% ACTION
+(BbWZlWBbWZlW Hs|WfGbD|A|)
+
+"titular"
+% HUMAN
+(W|IzQ SsDW|D UbIbQ)
+
+"tizzy"
+% MIND
+(^zWRsD)
+
+"to-and-fro"
+(W|I|XfI| WsQX|AW|A|)
+
+"to-do"
+(RfRUfA)
+
+"toad"
+% CONCRETE ANIMAL MATERIAL 
+(GsBfR|)
+# ^eat a person's toads (VERB) : DbQWgAg WbZfQ^bGb
+# toad under a harrow (NOUN) : DzI WbRRbA RbGDzD UbIbQ
+
+"toadeater"
+% HUMAN
+(WbIIbW AfI|DzD UbIbQ)
+
+"toadeating"
+% ACTION
+(WbZfQ)
+
+"toadfish"
+% CONCRETE ANIMAL MATERIAL 
+(RlAWf)
+
+"toadflax"
+% CONCRETE ANIMAL MATERIAL 
+(^cIbDZl)
+
+"toadism"
+% ACTION
+(WbZfQ)
+
+"toadstone"
+(GsBfR| GlI)
+
+"toadstool"
+% PLANT FOOD
+(RfUfU)
+
+"toady"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbZfQXbWW|)
+
+"toast"
+% CONCRETE MATERIAL FOOD
+(\lWsUz\z)
+# buttered toast (NOUN) : Rf\fIzI RbIzD \lWsUz\z
+# ^drink a toast to A (VERB) : [(OBJ2 A/WgAg) (OBJ [ZsARc<NOUN>]/IzI) GzI<VERB>]/Gb
+# dry toast (NOUN) : Rf\fIzI RbIzX| WbD^WzD \lWsUz\z
+# toast and water (NOUN) : \lWsUz\zIzI GbQAzD GfWsDQsI
+
+"toaster"
+% CONCRETE ANIMAL MATERIAL 
+(SbW AsRDzD UbIbQ)
+
+"toastmaster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZsARcWz| QbIWzI ^bDzD UbIbQ)
+
+"tobacco"
+% CONCRETE MATERIAL 
+(GbQRc)
+# leaf tobacco (NOUN) : W|]GbQRc
+
+"tobacconist"
+% CONCRETE ANIMAL MATERIAL 
+(GbQRc XbWUs)
+
+"tobias"
+(GlR|UWz| ZcA)
+
+"toboggan"
+% CONCRETE ANIMAL MATERIAL 
+(\fRlAfD VfIQc)
+
+"toby"
+% HUMAN
+(DbQXb W|IzQ)
+
+"toccata"
+% CONCRETE MATERIAL 
+(\l[bWb\b)
+
+"tocharian"
+(\l[bIb QbI)
+
+"toco"
+(ZgRfI)
+
+"tocology"
+% MATERIAL
+(UbDAlb^bA)
+
+"tocsin"
+% CONCRETE MATERIAL 
+(AjWRl)
+
+"tod"
+% ANIMAL
+(WjWs)
+
+"today"
+% CONCRETE TIME MATERIAL 
+(WlDzI)
+
+"toddle"
+% HUMAN
+(WbXbWWbXbW AfGDzD WfI|DWc)
+
+"toddler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbXbWWbXbW AfGDzD UbIbQ)
+
+"toddy"
+% CONCRETE MATERIAL FOOD
+(WdXbWz| UsWcA)
+
+"toe"
+% CONCRETE MATERIAL ANIMAL
+(RbIAbIbA)
+# big toe (NOUN) : WfQX| RbIAbIbA
+# great toe (NOUN) : WfQX| RbIAbIbA
+# light fantastic toe (NOUN) : ZsQ
+# little toe (NOUN) : UcB| RbIAbIbA
+# on ONE_S toes (PP->ADV) : XsDR|\cUgIzI AbXZsD
+
+"toecap"
+% CONCRETE ANIMAL MATERIAL 
+(AsGsWz| [lUGzWAbXsA)
+
+"toenail"
+% CONCRETE MATERIAL 
+(RbI\lR)
+
+"toeshoe"
+(\lWs GcDUzWrW U|D)
+
+"toff"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DUb)
+# the toffs (NOUN) : UbWIwUb^l|
+
+"toffee"
+% CONCRETE MATERIAL 
+(\c]|)
+
+"toffy"
+% CONCRETE MATERIAL 
+(\c]|)
+
+"toft"
+% PLACE
+(AbWlA GcX|)
+
+"tog"
+(WlU)
+# long togs (NOUN) : UbWIwARlA
+
+"toga"
+% CONCRETE ANIMAL MATERIAL 
+(\lAb)
+
+"togetherness"
+% MATERIAL 
+(GlWX|IUfW)
+
+"togger"
+(Rl\zIgW|Uz)
+
+"toggery"
+(Wz|Iw)
+
+"toggle"
+% CONCRETE ANIMAL MATERIAL 
+(R|DjXbW)
+
+"togolese"
+% HUMAN
+(\lAl UbIbQ)
+
+"toil"
+% MATERIAL 
+(X|QUzWWzI XbRDzD AzQsI)
+
+"toile"
+(WdIRWzD WbQb]l)
+
+"toiler"
+% HUMAN
+(DlGlWXb)
+
+"toilet"
+% CONCRETE MATERIAL PLACE
+(^lbXbWU|I)
+# ^make ONE_S toilet (NOUN) : ^lbXbW^bGb
+
+"toiletry"
+% CONCRETE ANIMAL MATERIAL 
+(^lbXbW]sQ)
+
+"toilette"
+(^lbXbW)
+
+"tokay"
+% PLANT FOOD
+(\lWl[gW| ]lGl)
+
+"toke"
+% FOOD
+(WzQU|A)
+
+"token"
+% CONCRETE MATERIAL 
+(]r)
+# by token (PP->ADV) : AgGbAb
+# by this token (PP->ADV) : AgGbAb
+# by that token (PP->ADV) : AgGbAb
+# in token of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) ]rU|<NOUN>]/Il)
+# as a token of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) XzWAf<NOUN>]/Il)
+# more by token (PP->ADV) : GfWsAGf
+# a bus token (NOUN) : RfUz\l[zD
+# a token bequest (NOUN) : W|IzQSsDW|D WwXzWQsI
+# token money (NOUN) : QjWQlA^lb]k
+
+"tokenism"
+(QjWQlAUbWWz| ^zAW|D ]lWrW)
+
+"toko"
+% ACTION
+(ZgRfI)
+# ^catch toko (NOUN) : RfIWzI RbGGb
+
+"tokyoite"
+% HUMAN
+(\lWl[rWl U|Q|D)
+
+"tola"
+% UNIT
+(W|DGlWz| XsWIdW GbDWs|)
+
+"toledo"
+(\lIIgGlAfQ)
+
+"tolerance"
+% CONCRETE MATERIAL MIND
+(AlbDWrW)
+# tolerance limits (NOUN) : ^fWrW ^bDGl
+# zero tolerance (NOUN) : QsAlbDGc
+
+"toleration"
+% MATERIAL MIND
+(AlbDWrW)
+# Act of Toleration (NOUN) : U|DAr XbWwIjW
+
+"toll"
+% MATERIAL ECOLIFE
+(UbWrWUg)
+# a heavy toll of lives (NOUN) : QbD^WzD UbUbWXb
+# death toll (NOUN) : UbQbWXbUs
+# road toll (NOUN) : Ar\lW UbAlWg Wz|^bD UbUbWXb
+# ^take toll of A (VERB) : [(OBJ [(POSS A/Wz|) W|IRs<NOUN>]/IzI) AlWXg^b<VERB>]/Gb
+# toll charges (NOUN) : \lW^cWUg
+
+"tollgate"
+% PLACE
+(\lW^cWIr X|WUsUl)
+
+"tollhouse"
+% PLACE
+(\lW^cWUg X|WUs UbQsUl)
+
+"tollkeeper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\lW^cWUg X|WUsW|D)
+
+"tollway"
+% PLACE
+(WwIr GlIl)
+
+"tolly"
+(WdWZl)
+
+"toltec"
+% HUMAN
+(\lI\gA UbIbQ)
+
+"tolu"
+% CONCRETE MATERIAL 
+(\lIIsRbIUbQ)
+
+"toluene"
+% MATERIAL 
+(\lIIsWgD)
+
+"toluol"
+(\lIIsWgD)
+
+"tom"
+% HUMAN
+(\lQ)
+
+"tom-noddy"
+% HUMAN
+(RbRl)
+
+"tom-tom"
+% CONCRETE ANIMAL MATERIAL 
+(RsA)
+
+"tomahawk"
+% CONCRETE ANIMAL MATERIAL 
+(XfD\sWrW GlB|)
+# ^bury the tomahawk  (VERB) : ^lbQlA^bGb
+# ^lay aside the tomahawk  (VERB) : ^lbQlA^bGb
+# ^raise the tomahawk  (VERB) : VbWsQWzI AcU|^bGb
+# ^dig up the tomahawk  (VERB) : VbWsQWzI AcU|^bGb
+# ^take up the tomahawk  (VERB) : VbWsQWzI AcU|^bGb
+
+"tomato"
+% CONCRETE MATERIAL PLANT FOOD
+(\lQb\l)
+# a currant tomato (NOUN) : WjIQcAb XbAWzD ]sQXlWWz| \lQb\l
+
+"tomb"
+% CONCRETE MATERIAL PLACE
+(QsGfQ)
+
+"tombac"
+(GlWAlb WbWjDWz| ^bRAzQ)
+
+"tombak"
+(GlWAlb WbWjDWz| ^bRAzQ)
+
+"tombola"
+(W|IXlWWz| RlAAsfD)
+
+"tomboy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbIAlbIIdWW|)
+
+"tombstone"
+% CONCRETE ANIMAL MATERIAL 
+(QrUfA)
+# tombstone advertisement (NOUN) : QrUfAAlbWAl
+
+"tomcat"
+% CONCRETE ANIMAL MATERIAL 
+(Us[lWdWW|)
+
+"tomcod"
+% ANIMAL
+(GcAs R|UzU^bD XbAWzD QsIAlA|)
+
+"tome"
+% CONCRETE MATERIAL 
+(tome)
+
+"tomentum"
+(QjDQl)
+
+"tomfool"
+% HUMAN
+(QfW\fWAsI|)
+
+"tomfoolery"
+% ACTION
+(QfW\fWAsI|X|U)
+
+"tommy"
+% HUMAN
+(WjWAsA AsDW|D)
+# soft tommy (NOUN) : QbIIbWQbIIbW^bD SbW
+# Tommy cooker (NOUN) : AbD]jD^bD UfAWwDbDIl
+# Tommy gun (NOUN) : \lQUzDU|A Ul^jW A|AlbDZlW
+
+"tommyrot"
+% CONCRETE MATERIAL 
+(^fUUlI|)
+
+"tomogram"
+(GbDZzW UbX|D)
+
+"tomograph"
+% CONCRETE ANIMAL MATERIAL 
+(GbDZzW UbX|D ZlbIWjW XbWZ|)
+
+"tomography"
+% MATERIAL 
+(GbDZzW UbX|DUsI)
+
+"tomorrow"
+% CONCRETE TIME MATERIAL 
+(DcW|I)
+# late tomorrow (NOUN ADV) : 1) DcW|I DzXAg
+                             2) DcW|I DzXAg
+# tomorrow (ADV NOUN) : DcW|I
+
+"tomtit"
+% ANIMAL
+(XbAWzD Uc)
+
+"ton"
+% CONCRETE UNIT MATERIAL 
+(\lD <Ww^cW>)
+# NUM1 {-ORDNUM} of tons of ^A (NOUN) : 
+[(POSS [(NMODS NUM1{+DGTNUM}) \lD<NOUN>]/Wz|) A]
+# NUM1 {-ORDNUM} tons of ^A (NOUN) :
+[(POSS [(NMODS NUM1{+DGTNUM}) \lD<NOUN>]/Wz|) A]
+# a ton of ^A (NOUN) : [(POSS [^bD \lD<NOUN>]/Wz|) A]
+# in the ton || (PP->ADV) : Ww^cW^bWj
+# tons of ^A (NOUN) : [(POSS [(NMODS [Us<DET>]) \lD<NOUN>]/Wz|) A]
+
+"ton-mile"
+% UNIT
+(\lDQbW|I)
+
+"tonage"
+% UNIT
+(\lDUs)
+# aggregate tonnage (NOUN) : ZlW\lDUs
+# deadweight tonnage (NOUN) : XfAXcXsWIdW\lDUs
+
+"tonality"
+% CONCRETE MATERIAL 
+(WzQXl)
+
+"tone"
+% CONCRETE MATERIAL 
+(WzQXl)
+# bearish tone (NOUN) : WdAUgWz| RcGbW
+# the quiet tones of a harp (NOUN) : ^b]zWz| XlWrW^bD WzQXl
+# the tone of the press (NOUN) : U|DQsDWz| DlDXl
+# tome of the market (NOUN) : U|Ug
+# in an angry tone (PP->ADV) : ^lbDbD WfXlIl
+# in an excited tone (PP->ADV) : AjA^bD WfXlIl
+
+"tone-deafness"
+% HUMAN
+(WzQZ|)
+
+"toneme"
+(WzQXlUl)
+
+"tonetics"
+% ART
+(WzQXl^bA)
+
+"tong"
+% ORGAN
+(GbW)
+
+"tonga"
+(Ul^jW QbZb)
+
+"tongs"
+% CONCRETE ANIMAL MATERIAL 
+(RsXfUAbIbA)
+# sugar tongs (NOUN) : UfI\bW X|RAg
+# curling tongs (NOUN) : X|RAg W|DGs
+
+"tongue"
+% CONCRETE MATERIAL ANIMAL
+(^j)
+# coated tongue (NOUN) : UfI\c
+# dirty tongue (NOUN) : UfI\c
+# ^find ONE_S tongue (VERB) : QbIQsDW| AjWs WjII|Gb
+# furred tongue (NOUN) : UfI\c
+# ^have a bitter tongue (VERB) : [W|RU|Q UbDbR<ADJ>]/Gb
+# ^have a fluent tongue (VERB) : [AsRjDW| Xl^<ADJ>]/Gb
+# ^have a ready tongue (VERB) : [AsRjDW| Xl^<ADJ>]/Gb
+# ^have a spiteful tongue (VERB) : [W|RU|Q UbDbR<ADJ>]/Gb
+# ^hold ONE_S tongue (VERB) : XbQXb[l W|VGb
+# ^lose ONE_S tongue (VERB) : QbIQsDW| QbA^|Gb
+# on the tongue of men (PP->ADV) : UlQsDWg WlIIb
+# ^put out ONE_S tongue (VERB) : ^jIzI DcQ|IGb
+# ^wag ONE_S tongue (VERB) : Us|IUcWfRUW| X|BfIWj GcGb
+# stewed tongue (NOUN) : ^jUUbI Y|Q
+# smoked tongue (NOUN) : ^jUUbI ^sDXg
+# bitter tongue (NOUN) : GlAUfI
+# spiteful tongue (NOUN) : GlAUfI
+# sharp tongue (NOUN) : WrA
+# ^have a ready tongue (VERB) : [DzWRjDW|<ADJ>]/Gb
+# ^have a eloquent tongue (VERB) : [GbIRjDW|<ADJ>]/Gb
+# ONE_S mother tongue (NOUN) : QlAsAWf
+
+"tongue-lashing"
+% ACTION
+(^lGl|D BsX|XWzQ)
+
+"toni"
+(\lD| Q|WrW UbWXb)
+
+"tonic"
+% CONCRETE MATERIAL 
+(AbWXbWXg)
+# hair tonic (NOUN) : \fI DbDzD WdA
+# mother tonic (NOUN) : QlAsAWf
+
+"tonicity"
+% MATERIAL 
+(AbWAfD)
+
+"tonight"
+% TIME
+(WlDzIRbQ)
+# tonight (NOUN ADV) : 1) WlDzIRbQ {+INDEF} 
+		       2) WlDzIRbQWg
+
+"toning"
+(XlWzQ)
+# toning bath (NOUN) : GlAzQWrA
+
+"tonite"
+(Dl|WdA)
+
+"tonka bean"
+% CONCRETE MATERIAL PLANT 
+(\lW[b[lW)
+
+"tonkin"
+% PLANT
+(\lW[|WZbQGc)
+
+"tonnage"
+% MATERIAL ECOLIFE
+(\lDUg)
+# gross tonnage (NOUN) : ZlW \lDUs
+# registered tonnage (NOUN) : GzWRs \lDUs
+# tonnage duty (NOUN) : \lDUg
+
+"tonneau"
+(XbGlWZbWz| Gs|UXlbUfAW| W|VDzD RsRsD)
+
+"tonometer"
+(\lDlQ|\f)
+
+"tonsil"
+% CONCRETE MATERIAL 
+(]jDGlUfD)
+
+"tonsillectomy"
+(]jDGlUfD XfIXgUsI)
+
+"tonsillitis"
+(]jDGlUfDWjQ)
+
+"tonsure"
+(ZgRbI)
+
+"tontine"
+% MATERIAL 
+(\lD\| WjDAzQRfR)
+
+"tonus"
+% MATERIAL 
+(A|DXbW)
+
+"tool"
+% CONCRETE ANIMAL MATERIAL 
+(GlAs)
+# broad tool (NOUN) : DbIW| DfIRWzD BzI
+# diagnostic tool (NOUN) : X|DGbDGlAs
+# edged tool (NOUN) : DbIW| W|VDzD WjDXbW
+# the tools of ONE_S trade (NOUN) : XbWUb GlAs
+
+"toolbar"
+(\sIRb)
+
+"toolbox"
+% CONCRETE ANIMAL MATERIAL 
+(WjDXbW\lW)
+
+"tooling"
+(AlWAsUgAlW)
+
+"toolkit"
+(\sI[|U)
+
+"tooth"
+% CONCRETE MATERIAL 
+(W|)
+
+"toothbrush"
+% CONCRETE MATERIAL 
+(Z|UlI)
+# toothbrush mustache (NOUN) : YbIRAl SbUSbU^bD [lUUsWjQ
+
+"toothcomb"
+(UbIW| AbDzD R|U)
+
+"toothful"
+(^bDQlAzQ)
+
+"toothing"
+(W|IzI GbIA|)
+
+"toothpaste"
+% CONCRETE ANIMAL MATERIAL 
+(Z|WdA)
+
+"toothpick"
+% CONCRETE ANIMAL MATERIAL 
+(W|VsU|Ac)
+
+"toothwash"
+(QsI Z|WdA)
+
+"tootle"
+(RsIGb)
+
+"toots"
+% HUMAN
+(WbAbV|)
+
+"tootsy"
+(RbI)
+
+"top"
+% CONCRETE MATERIAL PLACE
+(BlAGcA|)
+# an old top (NOUN) : Z|DAs
+# at the top of ONE_S voice (PP->ADV) : QlAZfWBfU
+# at the top of ONE_S speed (PP->ADV) : XfDUlAIjAWzIl
+# at the top of the tree (PP->ADV) : Zl|AlWz| X|Ws|IzI ZbX|^bWj
+# at the top of the ladder (PP->ADV) : Zl|AlWz| X|Ws|IzI ZbX|^bWj
+# ^be seated at the top of a table (VERB) : U|A\bAWz| UbWUfAWg WbDXGb
+# ^blow ONE_S top (VERB) : QlRU| ^zWRsD^bGb
+# ^come out top (VERB) : ZfUYcAb Gl|Gb
+# ^come out at the top (VERB) : ZfUYcAb Gl|Gb
+# ^come out on top (VERB) : AjWA|Wg W|A|Gb
+# ^come to the top (VERB) : Db\bDbGb
+# from top to bottom (PP->ADV) : QfI| Bz\WgUf RbI Bz\BbX|
+# from top to toe (PP->ADV) : QfI| Bz\WgUf RbI Bz\BbX|
+# from top to tail (PP->ADV) : WlbDXfD^|
+# ^sleep as sound as a top  (VERB) : ]sA XbGb
+# ^spin a top (VERB) : ]cWW|IzI GlII|Gb
+# ^take the top of the table (VERB) : U|A\bAWz| UbWXlbWg WbDXGb
+# the big top (NOUN) : AlAQbGbDWz| [zD ZfDQbA
+# the fighting top (NOUN) : XfD\sXbWIs
+# the military top (NOUN) : XfD\sXbWIs
+# the top of the market (NOUN) : Zl|Al AbAjA
+# the top of the milk (NOUN) : AbXbW Xl^WzD AfU
+# the top of the tide (NOUN) : QbDXl
+# to the bottom of ONE_S bent (PP->ADV) : AzAIjAWzIl
+# top and tail (NOUN) : XfDZg
+# top to bottom (NOUN) : AlDGsRbAW|Il
+# top of ONE_S game (NOUN) : Zl|AlWz| AjWA|
+# top of the year (NOUN) : WjDZl
+# tops and bottoms (NOUN) : WdW AzAGbD
+# the top of the water (NOUN) : UsQjD
+# the gilt top (NOUN) : ZfDAzQ
+
+"top-down"
+(^b^dWU|A)
+
+"topaz"
+% CONCRETE MATERIAL 
+(^lbWWlA)
+
+"topcoat"
+% CONCRETE ANIMAL MATERIAL 
+(AbRjWsD Wl|\s)
+
+"tope"
+% PLACE
+(RsI\bR)
+
+"topee"
+% CONCRETE MATERIAL 
+(^gIQgU QlXb)
+
+"toper"
+% HUMAN
+(UsIAlIc)
+
+"topflighter"
+% HUMAN
+(W|IIw)
+
+"topgallant"
+% CONCRETE MATERIAL 
+(WsUGlZGc)
+
+"tophamper"
+(RcWz| UbWRsWz| GlZ)
+
+"tophet"
+(VzIgA| RfI|DzD AlU)
+
+"tophus"
+(\lW]sWAjIXfI)
+
+"topi"
+(^gIQgU QlXb)
+
+"topiary"
+(XbWU|AXfA XfDX|RfR)
+
+"topic"
+% CONCRETE MATERIAL 
+(^lbXg)
+# a common topic of conversation (NOUN) : AlW\lWWz| ^lbXg
+# current topics (NOUN) : WlDzIWz| ^lbXg
+# main topic (NOUN) : Xs ^lbXg
+# the topic of the book (NOUN) : Az ZcAWz| XsXg
+# the topic of the allusion (NOUN) : Az AbWWjDWz| XsXg
+# topics of the day (NOUN) : U|UbQsDXg
+
+"topical"
+(U|UbUfWWzI H|D Ws]r)
+
+"topicality"
+(U|UbUfW)
+
+"topknot"
+(DbR| QcGzR I|RlD)
+
+"topman"
+% HUMAN
+(XbWIsWsfD)
+
+"topmast"
+% CONCRETE ANIMAL MATERIAL 
+(XsWAbD GlZGc)
+
+"topmotch"
+(Zl|AlGl)
+
+"topographer"
+% HUMAN
+(X|^jW^bAXb)
+
+"topographist"
+% HUMAN
+(X|^jW^bAXb)
+
+"topography"
+% MATERIAL ART
+(X|^jW^bA)
+
+"topology"
+% MATERIAL ART
+(X|Ug^bA)
+
+"toponym"
+% MATERIAL 
+(X|QjW)
+
+"toponymy"
+% ART
+(X|QjW WjDAs)
+
+"topper"
+% CONCRETE ANIMAL MATERIAL 
+(UbWRsWg W|VDzD AfU)
+
+"topping"
+% CONCRETE MATERIAL 
+(UbWRs XgAf)
+
+"topsail"
+% CONCRETE MATERIAL 
+(XsWAbDGlZ)
+
+"topside"
+% CONCRETE MATERIAL 
+(Ws|YlA)
+
+"topsman"
+% HUMAN
+(ArUs^jW X|R^cWW|D)
+
+"topsoil"
+(]r\l)
+
+"topspin"
+(\bRUz]|D)
+
+"topsy-turvy"
+(XfDGl)
+
+"topsy-turvydom"
+(Gs|XsARbAXsA)
+
+"toque"
+% CONCRETE ANIMAL MATERIAL 
+(ZcW WfRUDzD XbAWzD QlXb)
+
+"tor"
+% PLACE
+(RbWs|UbD)
+
+"tora"
+(WwIRfR)
+
+"torc"
+(QlAAfIW|)
+
+"torch"
+% CONCRETE MATERIAL 
+(^lcURsI)
+# Olympic torch (NOUN) : WlII|Q]|A UfW^lb
+# ^carry a torch for A (VERB) :  [(ADJUNCT A/Wg) RbD^b<VERB>]/Gb
+# ^carry the torch for A (VERB) : [(ADJUNCT A/Wg) RbD^b<VERB>]/Gb
+# flaming torch (NOUN) : ^lcURsI
+
+"torchbearer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^lcURsIWzI GzD UbIbQ)
+
+"torchlight"
+(^lcURsIR|Z)
+
+"torchon"
+(XfRU| HbWs|IzI V|UDzD ^cWXs)
+
+"torchwood"
+% PLANT
+(^lcURsIWrW DbQs)
+
+"toreador"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(A|Qb \sWsUb)
+
+"torment"
+% MATERIAL MIND
+(Al\lW)
+
+"tormenter"
+% CONCRETE MATERIAL HUMAN
+(Al\lWWzI XsDzD UbIbQ)
+
+"tormentor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Al\lWWzI XsDzD UbIbQ)
+
+"tormentress"
+% HUMAN
+(DbQWzI Al|IlR^|DzD WjXb)
+
+"tornado"
+% MATERIAL 
+(\c]sW)
+
+"torpedo"
+% CONCRETE MATERIAL 
+(UsIl|)
+
+"torpex"
+(\lWl]gAUz)
+
+"torpid"
+(Rl\z IgW|Uz)
+
+"torpidity"
+% CONCRETE MATERIAL 
+(X|GsD)
+
+"torpidness"
+(QsAbQAbA)
+
+"torpor"
+% CONCRETE MATERIAL 
+(QbR|)
+
+"torque"
+% MATERIAL 
+(R|\zDzD ^|Q)
+
+"torrefaction"
+(AfDXl)
+
+"torrent"
+% MATERIAL 
+(AzRIw)
+# torrent of abuse (NOUN) : QbAs ]fRsUDzD WrAUfI
+
+"torridity"
+(WjQWjI)
+
+"torsel"
+(GzIRlRbGW|)
+
+"torsion"
+% MATERIAL 
+(R|\zII|Q)
+# torsion balance (NOUN) : R|\zII|Q XfWsI
+
+"torso"
+% CONCRETE MATERIAL 
+(\lIzUl)
+# torso murder (NOUN) : \lQbA UbIW|D
+
+"tort"
+% MATERIAL 
+(UbRfQ)
+
+"torticollis"
+(UbAjW)
+
+"tortoise"
+% CONCRETE ANIMAL MATERIAL 
+(AfRsA)
+# hare and tortoise (NOUN) : \lB|Wlb AfRsA
+
+"tortoiseshell"
+% CONCRETE ANIMAL MATERIAL 
+(As|AbR)
+# tortoiseshell butterfly (NOUN) : VlcA|]sIDbR|
+# tortoiseshell cat (NOUN) : WfIIsA AlWdWW|
+
+"tortuosity"
+% MATERIAL 
+(Gs|\zII|Q)
+
+"torture"
+% MATERIAL 
+(AlQsD)
+# in torture (PP->ADV) : Al\lWWg U|GbIIj
+# ^put to torture (VERB) : AlQsD^bGb
+# torture of animals (NOUN) : GlWQsI ^bAGc
+# ^suffer torture from a toothache (VERB) : Z|\lWWzIl U|GbII|Gb
+
+"tory"
+% HUMAN
+(\lWlI| GbWWsfD)
+
+"toryism"
+% ART
+(RlUs XsWz|)
+
+"tosh"
+(^f\zD UlI|)
+
+"toss"
+% MATERIAL ACTION
+(GfDXj WlII|A|)
+# ^take a toss (VERB) : QbIWgUf HfIWfX|Gb
+# ^win the toss (VERB) : \lUzWgUf W|A|Gb
+# ^lose the toss (VERB) : \lUzWgUf X|Gb
+
+"tossup"
+(GlDGfDX|A|)
+
+"tot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WfI|DWc)
+# a tiny tot (NOUN) : BlQb
+
+"total"
+% CONCRETE MATERIAL 
+(ZlWAk)
+# cumulative total (NOUN) : ZsAAk
+# grand total (NOUN) : ZlW^bRAk
+# in total (PP->ADV) : \lW\zIWfUf
+# total of NUM1 ^A (NOUN) : [(NMODS [(NMODS [ZlW<NOUN>]) NUM1]) A]
+# the sum total (NOUN) : ZlWWcA
+
+"totalitarian"
+% HUMAN
+(XfDZgXsWz|Xb)
+
+"totalitarianism"
+% MATERIAL ART
+(XfDZgXsWz|)
+
+"totality"
+(WlbDR|)
+
+"totalization"
+(^bRAk^bA|)
+
+"totalizator"
+% CONCRETE ANIMAL MATERIAL 
+(ZlWWcA AkUbDA|)
+
+"totalizer"
+% CONCRETE ANIMAL MATERIAL 
+(ZlWWcA AkUbDA|)
+
+"tote"
+% CONCRETE ANIMAL MATERIAL 
+(WsDRbD)
+
+"totem"
+% CONCRETE MATERIAL 
+(\l\gQ)
+
+"totemism"
+(\l\gQ UsWRc)
+
+"totemismist"
+% HUMAN
+(\l\gQ XgGl Ub^l|Wz| UbIbQ)
+
+"totter"
+(R|\zIAfI|Q)
+
+"toucan"
+% CONCRETE ANIMAL MATERIAL 
+([zDRsI|Uc)
+
+"touch"
+% CONCRETE MATERIAL ACTION
+(XfRZlA)
+# at a touch (PP->ADV) : WdAAbD Gb^A|QbD ^cGl
+# ^be in touch with A (VERB) : [(ADJUNCT A/Wlb) XfRZlAWzI AkUlA^b<VERB>]/Gb
+# ^be out_of touch with A (VERB) : [(ADJUNCT A/Wlb) XfRZlAWzI BzD^<VERB>]/Gb
+# ^bring to the touch (VERB) : U|^fQ^bGb
+# characteristic touch (NOUN) : \zAX|W
+# ^get in touch with A (VERB) : [(ADJUNCT A/Wlb) (OBJ [WjDIbA<NOUN>]/IzI) Zs|^b<VERB>]/Gb
+# in touch of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbBbW|<NOUN>]/Wg)
+# in touch with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) XfRZlA^b<VERB>]/^bWj)
+# ^keep in touch (VERB) : AlbDAkIzI WwX|^bGb
+# ^keep in touch with A (VERB) : [(ADJUNCT A/Wlb) XfRZlA^b<VERB>]/Gb
+# ^keep touch with A (VERB) : [(ADJUNCT A/Wlb) (OBJ [AlbDAk<NOUN>]/IzI) WwX|^b<VERB>]/Gb
+# ^lose touch with A (VERB) : [(OBJ [(POSS A/WlbWz|) AlbDAk<NOUN>]/IzI) BzD^<VERB>]/Gb
+# ^be out_of touch with A (VERB) : [(ADJUNCT A/Wlb) QfIWfX|<VERB>]/Gb 
+# ^put the touch on A (VERB) : [(OBJ [(NMODS A) GlD<NOUN>]/WzI) BsIjAl ^b<VERB>]/Gb
+# ^set in touch with (VERB) : [(ADJUNCT A/Wg) XfRZlA^b<VERB>]/Gb
+#' touch down (NOUN) : ZbAIwA
+# touch of nature (NOUN) : XbWjDWz| XfWAbQ 
+# ^want a touch of salt (VERB) : AbDW| XlQ QlXbIbGb
+# within touch of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AbBbW|<NOUN>]/Wg)
+
+"touch-in-goal"
+(RlDX|D ZzAUfDWl|)
+
+"touch-last"
+(UsIIcXbRA|)
+
+"touch-me-not"
+% HUMAN
+(AfDGzIjUfDzD WbD Gl|I UbIbQ)
+
+"touchback"
+% MATERIAL 
+(\fZ|RcA)
+
+"touchdown"
+% MATERIAL 
+(\fZ| GbWsD)
+
+"toucher"
+% HUMAN
+(GcDzD UbIbQ)
+# a near toucher (NOUN) : Ws|A| W|IRbI
+# as near as a toucher (PP->ADV) : AfWz|
+
+"touchhole"
+(^lbQsD)
+
+"touching"
+(XfRZlA)
+
+"touchline"
+(\fZ|IbW|D)
+
+"touchscreen"
+(\fZ| Uz[zI|D)
+
+"touchstone"
+% CONCRETE MATERIAL 
+(U|AzQUfA)
+
+"touchwood"
+(RsU|UA|U)
+
+"tough"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(BbW]c)
+
+"toughness"
+% CONCRETE MATERIAL 
+(AbWW|D)
+
+"toupee"
+(GbI|)
+
+"tour"
+% CONCRETE MATERIAL 
+(Wj^cW)
+# a walking tour (NOUN) : GlRl Wj^cW
+# ^go on a tour (VERB) : WwIbQ Wj^cWWzI HfDbGb
+# guided tour (NOUN) : AbW|Gz AlbDAlbW
+# knight's tour (NOUN) : A|UbWz| UsDIjA
+# ^make a tour of the country (VERB) : XfDAsA W|IXs Wj^cWWzI ^bGb
+# ^make a tour of the world (VERB) : UgAkWzI QbDWw^bGb
+# ^make a tour in the world (VERB) : XfDAsAWzI QbDWw^bGb
+# ^make a tour through the world (VERB) : XfDAsAWzI QbDWw^bGb
+# on ONE_S tour of A (PP->ADV) : 
+  (ADJUNCT [(RELCL [(OBJ A/IzI) Wj^cW^b<VERB>]/DzD) XsW<VERB>]/Wg)
+# pro bass tour (NOUN) : ]zIl RbUz \sWf
+# pro tour (NOUN) : ]zIl AjWA|
+# provincial tour (NOUN) : X|RbW UsD^l|AlWWjD
+# round the world tour (NOUN) : UgAk W|IXs Wj^cW
+# round the global tour (NOUN) : UgAk W|IXs Wj^cW
+# tour of inspection (NOUN) : U|ZbI Wj^cW
+# tour of the country (NOUN) : X|RbW UsD^l|AlWWjD
+# tour operator (NOUN) : Wj^cWWfRXb
+
+"tourism"
+% MATERIAL ACTION
+(AlbDAlbW Wj^cW)
+
+"tourist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbDAlbWAcA)
+# overseas tourist (NOUN) : ^cWl| AlbDAlbWAcA
+# tourist bureau (NOUN) : Wj^cWUb
+# tourist camp (NOUN) : AlbDAlbWWrW [cQ]z
+# tourist center (NOUN) : AlbDAlbW XsWU|QX|
+# tourist home (NOUN) : Q|DRbA^bDzD X|R
+# tourist industry (NOUN) : AlbDAlbW UbWfR
+# tourist party (NOUN) : AlbDAlbWGbD
+# tourist tax (NOUN) : Wj^cWXbUg
+# tourist ticket (NOUN) : WwIbQ]r
+# tourist trade (NOUN) : AlbDAlbWWfR
+# tourist trap (NOUN) : AlbDAlbWAcAWgAg RbAbX|IzI Vz|WsDzD WzQU|AXfQ
+
+"tourmalin"
+(XfDA|UfA)
+
+"tournament"
+% MATERIAL 
+(\lDfQfD\z)
+
+"tournay"
+(AbAs XbWU|AWrW QlX|AQsI)
+
+"tourney"
+% MATERIAL 
+(QbUbW U|^bR)
+
+"tourniquet"
+% CONCRETE MATERIAL 
+(X|^jIGc)
+
+"tournure"
+(WwDAlbA)
+
+"tousle"
+(^fW[zIWfX|D QfI|)
+
+"tout"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AjWXsQb UbW\cWz| WjQ\bQ)
+# keep tout (NOUN) : QbWRlGb
+
+"tow"
+% MATERIAL 
+(RbUXsIIl BzIA|)
+# in tow (PP->ADV) : BzIIjUf
+# ^take in tow (NOUN) : RbUXsIIl BzIGb
+# ^have in tow (NOUN) : RbUXsIIl BzIGb
+
+"towage"
+% MATERIAL 
+(Rc BzIA|)
+
+"towboat"
+(WkW|DUfD)
+
+"towel"
+% CONCRETE MATERIAL 
+(UsAfD)
+# ^throw in the towel (VERB) : \bWsfIWzI GfDXj Df^Gb
+# ^toss in the towel (VERB) : \bWsfIWzI GfDXj Df^Gb
+
+"toweling"
+% CONCRETE MATERIAL 
+(\bWsfIZfD)
+
+"towelling"
+(\bWsfIZfD)
+
+"tower"
+% CONCRETE MATERIAL PLACE
+(\bR)
+# bell tower (NOUN) : XlWIs
+# keep tower (NOUN) : UfWAlbAWz| XgW|I Dl]WzD QbWIs
+# the Tower (NOUN) : IfDGfD\bR
+# the ^Tower of London (NOUN) : IfDGfD\bR
+# tower and town (NOUN) : W|DAbAb W|VDzD AlU
+# tower of ivory (NOUN) : UbWWb\bR
+# tower of strength (NOUN) : Wz|X|Ab Gl|DzD UbIbQ
+
+"towerman"
+% HUMAN
+(AlbDXg\bR WrWsfD)
+
+"towhead"
+% HUMAN
+(QfI|Ab ^lbWAbIUcAW|D UbIbQ)
+
+"towhee"
+% CONCRETE ANIMAL MATERIAL 
+(RbWWsIUc)
+
+"towline"
+(BzDzD RbUXzI)
+
+"town"
+% MATERIAL PLACE
+(QbWzI)
+# ^be out_of town (VERB) : ZsI\b^bGb
+# from town to town (PP->ADV) : QbWzIQbGb
+
+"townee"
+% HUMAN
+(WzRWz| XsQ|D)
+
+"towner"
+% HUMAN
+(GlU| UbIbQ)
+
+"townet"
+(WkQbW)
+
+"townscape"
+% ART
+(GlU| ]sWAjW^lb)
+
+"townsfolk"
+% HUMAN
+(Gl^l|W|D)
+
+"township"
+% MATERIAL 
+(WzRAs)
+
+"townsite"
+% PLACE
+(GlU| AfDUfIWrW GcX|)
+
+"townsman"
+% HUMAN
+(Gl^l|W|D)
+
+"townspeople"
+% HUMAN
+(GlU| UbIbQ)
+
+"towny"
+% HUMAN
+(WzRQ|D)
+
+"towpath"
+(RcIzI BzDzD A|I)
+
+"towrope"
+(BzDzD RbUXsI)
+
+"toxaemia"
+% MATERIAL 
+(GlA^jIXzW)
+
+"toxemia"
+% MATERIAL 
+(GlA^jIXzW)
+
+"toxicant"
+(GlAWdA)
+
+"toxicity"
+% CONCRETE MATERIAL 
+(GlAUfW)
+
+"toxicologist"
+% HUMAN
+(GlAQsI^bAXb)
+
+"toxicology"
+% MATERIAL ART
+(GlAQsI^bA)
+
+"toxin"
+% CONCRETE MATERIAL 
+(GlAUl)
+
+"toxophilite"
+% ART
+(AsWUsI Wc^lAb)
+
+"toy"
+% CONCRETE MATERIAL 
+(XbWDbDAbQ)
+# ^make a toy of A (VERB) :  [(SCOMP [(OBJ A/WzI) AbX|<VERB>]/^bAl) XbWDbD^b<VERB>]/Gb
+
+"toyon"
+(UbWIlA AlbDQlA)
+
+"toyshop"
+% PLACE
+(XbWDbDAbQ AbAg)
+
+"trace"
+% CONCRETE MATERIAL 
+(ZsXfA)
+# on the traces of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsXfA^b<VERB>]/^bWj)
+# ^follow up a trace (VERB) : Gs|IzI RbIRGb
+# There is no trace of A (VERB) : [(SUBJ [(POSS A/Wz|) ^zDXfA<NOUN>]/W|) WfRU<VERB>]/Gb
+
+"tracer"
+% CONCRETE MATERIAL 
+(ZsXfAXb)
+
+"tracery"
+% CONCRETE MATERIAL 
+(\zIgW|UfI|)
+
+"trachea"
+% CONCRETE MATERIAL ANIMAL
+(A|AlbD)
+
+"tracheitis"
+(A|AlbDWjQ)
+
+"tracheotomy"
+(A|AlbDXfIAc)
+
+"trachoma"
+% MATERIAL 
+(\zIb^lQ)
+
+"tracing"
+% CONCRETE MATERIAL 
+(ZsXfA)
+
+"track"
+% CONCRETE MATERIAL PLACE
+(\zIcA)
+# ^be on track TO_INF (VERB) : [(COMP TO_INF/^bAg) Gl|WfW|V<VERB>]/Gb
+# ^be on the track of A (VERB) : [(OBJ A/IzI) YlZ<VERB>]/Gb
+# ^clear the track (VERB) : A|IWzI R|[|Gb
+# ^cover ONE_S tracks (VERB) : [(OBJ [(POSS ONE/Wz|) ^cWGlW<NOUN>]/WzI) UsQA|<VERB>]/Gb
+# double track (NOUN) : RlAUfD ZfIGl
+# in the track of A (PP->ADV) : (ADJUNCT [(OBJ [(POSS A/Wz|) XbZs|<NOUN>]/IzI) HbIz<VERB>]/^bWj)
+# ^jump the track (VERB) : \bIUfD^bGb
+# ^leave the track (VERB) : \bIUfD^bGb
+# ^lose track of A (VERB) : [(OBJ A/IzI) RlX| QlU^b<VERB>]/Gb 
+# main track (NOUN) : RlDUfD ZfIGl
+# ^make tracks for A (VERB) : [(OBJ A/WzI) Gs|YlZ<VERB>]/Gb
+# on ONE_S track (PP->ADV) : (ADJUNCT [(OBJ [(POSS ONE/Wz|) Gs|<NOUN>]/IzI) YlZ<VERB>]/^bAl)
+# on the track of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsXfA^b<VERB>]/^bWj)
+# ^put on the track (VERB) : ZsXfAU|[|Gb
+# side track (NOUN) : ZzAUfD ZfIGl
+# single track (NOUN) : GbDUfD ZfIGl
+# ^throw off the track (VERB) : HgZjRfI|Gb
+# track meet (NOUN) : WwAUbW AjWA| Gc^l|
+
+"trackage"
+(ZfIGl UfDIl)
+
+"tracker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZsXfAXb)
+
+"tracking"
+% MATERIAL 
+(\zIc[|W)
+
+"tracklayer"
+% HUMAN
+(ZfIGl RsUfI W|DRs)
+
+"trackman"
+% HUMAN
+(RlUfDAlW)
+
+"trackwalker"
+% HUMAN
+(UfDIl UsDZbIWsfD)
+
+"tract"
+% CONCRETE MATERIAL 
+(DfIRWzD QjDXfA <UlZcAXb>)
+# census tract (NOUN) : XlUbX|As
+
+"tractability"
+% CONCRETE MATERIAL 
+(WlDUsD)
+
+"tractarian"
+% HUMAN
+(WlAUz]fWfGz WsDGlW XsZbWXb)
+
+"tractarianism"
+(WlAUz]fWfGz WsDGlW)
+
+"tractate"
+% ART
+(DlDQsD)
+
+"tractility"
+(WjDUfW)
+
+"traction"
+% MATERIAL 
+(AjDW|D)
+# electric tration company (NOUN) : XfDA| ZfIGl ^l|Ub
+# motor traction (NOUN) : XbGlWZb UsUlW
+
+"tractor"
+% CONCRETE ANIMAL MATERIAL 
+(BzDzD UbIbQ)
+
+"tractor-trailer"
+(\zIgW|IIfAb GbII|D \zIcA\f)
+
+"trade"
+% CONCRETE MATERIAL ECOLIFE
+(QsWjA[AfIc])
+# Board of Trade (NOUN) : UbWQsUfW
+# ONE_S trade (NOUN) : [(POSS ONE/Wz|) X|AWfR<NOUN>]
+# ONE_S chosen trade (NOUN) : [(RELCL [(SUBJ ONE/Ab) UfD\cA^b<VERB>]/^bD) X|AWfR<NOUN>]
+# ^be good for trade (VERB) : UbI QbWzQW| DbAg ^bGb
+# ^be bad for trade (VERB) : UbI QbWzQW| DbAg ^bX| WbD^Gb
+# ^be in trade (VERB) : XbWUb^bGb
+# ^carry on a trade (VERB) : X|AWfRWg XlWUb^bGb
+# coasting trade (NOUN) : WjDWbDQsWjA
+# coastwise trade (NOUN) : WjDWbDQsWjA
+# doctor's trade (NOUN) : Wz|IrWfR
+# ^drive a roaring trade (VERB) : XbWUbAb RfDZbW^bGb
+# ^do a roaring trade (VERB) : XbWUbAb RfDZbW^bGb
+# domestic trade (NOUN) : DcAsAQsWjA
+# ^follow a trade (VERB) : X|AWfRWg XlWUb^bGb
+# ^make a roaring trade (VERB) : XbWUbAb RfDZbW^bGb
+# foreign trade (NOUN) : Wl|AsAQsWjA
+# free trade (NOUN) : XbWw QsWjA
+# home trade (NOUN) : AsADc UbWWfR
+# illegal trade (NOUN) : WbQAfIc
+# international trade (NOUN) : AsAXg QsWjA
+# printer's trade (NOUN) : W|DUlcWfR
+# protective trade (NOUN) : Rl^l QsWjA
+# ratail trade (NOUN) : UlQcWfR
+# registered trade mark (NOUN) : GzWIlAUbW]r
+# right of trade mark (NOUN) : UbW]rAsfD
+# sheltered trade (NOUN) : Rl^lQsWjA
+# terms of trade (NOUN) : ArWjAXlAfD
+# trade accounts payable (NOUN) : Wl|UbWAsQc
+# trade accounts receivable (NOUN) : Wl|UbW]bDQc
+# trade acceptance (NOUN) : UsZsI WfWzQ W|DUs
+# trade agreement (NOUN) : QsWjA ^jRXfW
+# trade association (NOUN) : GlWWfRXl^bR
+# trade balance (NOUN) : AsAXg UsX|
+# trade barrier (NOUN) : QsWjA XbWRjA
+# trade bill (NOUN) : UbWWfRWfWzQ 
+# trade board (NOUN) : DlUb ^jRWz|
+# trade book (NOUN) : RlAzR]bD
+# trade council (NOUN) : DlGlWXl^bR ]jWWz|^l|
+# trade credit (NOUN) : A|WfRAbDU|DWrW
+# trade creditors (NOUN) : AsW|RZf
+# trade cycle (NOUN) : AjWA|Wz| UsD^lbD
+# trade debtors (NOUN) : GbDAlI
+# trade deficit (NOUN) : QsWjA AjIUlD
+# trade discount (NOUN) : WfRXb^bIW|D
+# trade edition (NOUN) : RlAzR]bD
+# trade gap (NOUN) : QsWjA AjIUlD
+# trade fair (NOUN) : QsWjA RbAIbQ^l|
+# trade inventories (NOUN) : Ww\lWXcAl
+# trade jargon (NOUN) : A|UsI XfDQsD WrWWf
+# trade journal (NOUN) : GlWWfR A|AlbDX|
+# trade liberalization (NOUN) : \lWUbW XbWw^lb
+# trade loss (NOUN) : QsWjAUsX|Wz| XfAXb
+# trade mark (NOUN) : UbW]r
+# trade mission (NOUN) : QsWjA UbXfI
+# trade on commission (NOUN) : Ws|\bAQsWjA
+# trade pact (NOUN) : QsWjA ^jRXfW
+# trade paper (NOUN) : GlWWfR U|DQsD
+# trade partner (NOUN) : QsWjAUbWGcAsA
+# trade pledge (NOUN) : QsWjA ]zIIgUXz
+# trade practice (NOUN) : QsWjAAlbDUzR
+# trade price (NOUN) : GlWWfRXb AbAjA
+# trade reference (NOUN) : GlWWfRXb U|DWrWXl^l|Zf
+# trade rights (NOUN) : UbWAsfD
+# trade route (NOUN) : \lWUbWIl
+# trade sale (NOUN) : WfRXbB|I| ^bDzD AjWQc
+# trade secret (NOUN) : WjWWfR R|Q|I
+# trade show (NOUN) : AcRlWWjW^lb U|Ub^l|
+# trade sources (NOUN) : QsWjAWsfD
+# trade surplus (NOUN) : QsWjAUsX|Wz| ^zAXb
+# trade union (NOUN) : DlGlWXl^bR
+# trade war (NOUN) : QsWjAXfDXcW
+# tricks of the trade (NOUN) : XbWUbWz| WrIjW
+# wholesale trade (NOUN) : GlQcWfR
+# the publishing trade (NOUN) : ZsI]bDWfRXbGzI
+# discount to the trade (NOUN) : GlWWfRXb ^bIW|D
+# trade and investment (NOUN) : QsWjAAlb \sXb
+# trade and investment front (NOUN) : QsWjAAlb \sXb RsDWd
+"trade-in"
+% ECOLIFE
+(U|D]sQ GcAzQWz| W|IRsIl DcDzD XsWAl]sQ)
+
+"trade-off"
+(Ar^lbD)
+
+"trademark"
+% CONCRETE MATERIAL 
+(GzWIlA UbW]r)
+
+"trader"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\zIgW|Gf)
+# bond trader (NOUN) : ZcAsfD AfIcWfRXb
+# free trader (NOUN) : XbWwQsWjAIlDXb
+# fur trader (NOUN) : Ql]| XbWUb
+
+"tradesman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UlQc UbWW|D)
+
+"tradespeople"
+% HUMAN
+(UbWW|D)
+
+"trading"
+% CONCRETE MATERIAL 
+(QsWjA)
+# trading corporation (NOUN) : UbWUb
+# trading currency (NOUN) : QsWjA\lW^lb
+# trading house (NOUN) : UbWUb
+# trading market (NOUN) : Ww\lWU|XbW
+# trading nation (NOUN) : QsWjAAsA
+# trading partner (NOUN) : QsWjAUbWGcAsA
+# Asia-Pacific trading (NOUN) : WbU|Wb-\c]jWWdW \zIgW|G|W
+
+"tradition"
+% MATERIAL 
+(XfD\lW)
+# ^be handed down by tradition (VERB) : QbIIl XfD^c DcIjWlGb
+# folk tradition (NOUN) : Q|DUlAXfD\lW
+# true to tradition (ADV) : XfDUfIGcIl
+
+"traditionalism"
+% CONCRETE MATERIAL ART
+(XfD\lW AlUs XfD\lWXsWz|)
+
+"traditionist"
+% HUMAN
+(XfD\lWXsWz|Xb)
+
+"traducian"
+% HUMAN
+(WjW^lDXfDW|IlDXb)
+
+"traducianism"
+% ART
+(WjW^lD XfDW|UfI)
+
+"traffic"
+% CONCRETE MATERIAL 
+(Ar\lW)
+# traffic accident (NOUN) : Ar\lWUbAl
+# ^be open to traffic (VERB) : Ac\lW^bGb
+# ^be open for traffic (VERB) : Ac\lW^bGb
+# human traffic (NOUN) : W|DU|DQcQc
+# ^sell for whatever the traffic will bear (VERB) : AbDzW^bDGcIl R|VbAg ]bIGb
+
+"trafficator"
+% CONCRETE MATERIAL 
+(RbW^dW X|U|A|)
+
+"trafficker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbWW|D)
+
+"trafficway"
+% PLACE
+(GlIr WrWX|)
+
+"tragacanth"
+% CONCRETE MATERIAL 
+(\zIbAb[bD\z AlQs)
+
+"tragedian"
+% HUMAN
+(R|AzAXbAAb)
+
+"tragedienne"
+% HUMAN
+(R|AzA WjRcWs)
+
+"tragedy"
+% CONCRETE MATERIAL ART
+(R|AzA)
+
+"tragicomedy"
+% CONCRETE MATERIAL ART
+(^z|R|AzA)
+
+"tragopan"
+% CONCRETE ANIMAL MATERIAL 
+(UsAk)
+
+"trail"
+% CONCRETE MATERIAL 
+(X|IX|I BzD XbAsA)
+# caravan trail (NOUN) : GcUbW A|I
+# murder trail (NOUN) : Xc]bD
+
+"trailer"
+% CONCRETE ANIMAL MATERIAL 
+(\zIgW|IIf)
+# truck trailer (NOUN) : \zIfA \zIgW|IIf
+
+"trailerite"
+% HUMAN
+(W|GlWXs\cA AfXsXb)
+
+"train"
+% CONCRETE MATERIAL 
+(WjIZb)
+# accommodation train (NOUN) : Rl\lW WjIZb
+# armored train (NOUN) : XbWAbR WjIZb
+# armoured train (NOUN) : XbWAbR WjIZb
+# de luxe train (NOUN) : \zARjIZb
+# ^enter a train (VERB) : UzWZb^bGb
+# express train (NOUN) : AzR^cW WjIZb
+# funeral train (NOUN) : XbWIk ^cWIjI
+# ^get on a train (VERB) : UzWZb^bGb
+# local train (NOUN) : Rl\lW WjIZb
+# long-distance train (NOUN) : XbWAfI| WjIZb
+# ^miss the train (VERB) : A|ZbIzI Dl^Z|Gb
+# ^operate an extra train (VERB) : XzWZb WsD^cW^bGb
+# passenger train (NOUN) : WjIZb
+# railroad train (NOUN) : ZfIGl WjIZb
+# through train (NOUN) : X|A^cW WjIZb
+#' train for A {+PRNOUN} (NOUN) : [(NMODS [(NMODS A) ^cW<NOUN>]) WjIZb<NOUN>]
+
+"trainband"
+% ORGAN
+(Q|DRjWGbD)
+
+"trainbearer"
+% HUMAN
+(WlUZbI|QWzI GzDzD UbIbQ)
+
+"trainee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^sDIjDRbGDzD UbIbQ)
+
+"trainer"
+% CONCRETE ANIMAL HUMAN MATERIAL 
+(^sDIjDXb)
+
+"training"
+% CONCRETE MATERIAL 
+(^sDIjD)
+# ^be in training (VERB) : [fDG|UjDW| Xl^Gb
+# ^be out_of training (VERB) : [fDG|UjDW| DbSzGb
+# ^go into training (VERB) : WjDUzRWzI U|XbA^bGb
+
+"trainload"
+(^bD WjIZbRsD)
+
+"trainman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjIZb UzWQsWsfD)
+
+"trainmaster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjIZb AbQGlA)
+
+"trait"
+% CONCRETE MATERIAL 
+(\zAUfW)
+# national traits (NOUN) : AsAQ|DUfW
+
+"traitor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbDWjAXb)
+# ^turn traitor to ONE_S country (VERB) : QcAsADlAb Gl|Gb
+
+"traitress"
+% HUMAN
+(RbDWjAXb)
+
+"trajectory"
+% MATERIAL 
+(\zIbIIb)
+
+"tram"
+% CONCRETE ANIMAL MATERIAL 
+(U|Dc XfDZb)
+# by tram (PP->ADV) : XfDZbIl
+
+"tramcar"
+(U|Ab XfDZb)
+
+"tramline"
+% CONCRETE MATERIAL 
+(XfDZb AsgGl)
+
+"trammel"
+% CONCRETE ANIMAL MATERIAL 
+(AsUlAQsI)
+
+"tramontane"
+% HUMAN
+(UbDDfQfWz| UbIbQ)
+
+"tramp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+([sW[sW AfGDzD UlI|)
+# ^look like a tramp (VERB) : Zs^c RlW|Gb
+
+"tramper"
+(RsXfWA|UfD)
+
+"trample"
+([sW[sW AfGA|)
+
+"trampolin"
+(\zIcQ]lII|D)
+
+"tramroad"
+(AlbWZb AsgGl)
+
+"tramway"
+% CONCRETE MATERIAL 
+(DbQs AsgGl)
+
+"trance"
+% MATERIAL MIND
+(^lbW^lIAjW)
+# ^fall into a trance (VERB) : ^lbW^lI^cX|Gb
+
+"tranquility"
+% MATERIAL 
+(AlWr)
+
+"tranquilization"
+(Z|QZbA)
+
+"tranquillity"
+% MATERIAL 
+(AlWr)
+
+"tranquillzer"
+(X|DXfWXg)
+
+"tranquilzer"
+(X|DXfWXg)
+
+"trans-atlantic"
+% HUMAN
+(Q|AsA UbIbQ)
+
+"transaction"
+% MATERIAL 
+(ZfI|)
+# buy-back transaction (NOUN) : AsQcRbD^lbD ZfI|
+# cash transaction (NOUN) : ^jDAzQ AfIc
+# future transaction (NOUN) : ^jDAzQAfIc
+# negotiated transaction (NOUN) : UbWGcQcQc
+# spot transaction (NOUN) : ^jDQsI AfIc
+# transaction currency (NOUN) : AfIc\lW^lb
+# transaction motive (NOUN) : AfIcGlWA|
+# transaction theory of money (NOUN) : UlGzAUsIdWUfI
+# transaction velocity of money (NOUN) : ^lb]kWz| AfIcUlAGl
+
+"transactor"
+% HUMAN
+(Zs|AzRW|D)
+
+"transalpine"
+% HUMAN
+(WbI]zUz AfDDf]jDWz| UbIbQ)
+
+"transatlantic"
+% HUMAN
+(Q|AsA UbIbQ)
+
+"transceiver"
+(UlWUsU|DA|)
+
+"transcendence"
+(ZlWsfI)
+
+"transcendency"
+(ZlWsfI)
+
+"transcendent"
+% HUMAN
+(\bAWsfI^bD UbIbQ)
+
+"transcendentalism"
+% ART
+(UfD^fQZfI^bA)
+
+"transcndental"
+(ZlWsfIXfAW|D AfU)
+
+"transcriber"
+% HUMAN
+(UbXbUcW)
+
+"transcript"
+% CONCRETE MATERIAL 
+(RgB|D AfU)
+
+"transcription"
+% CONCRETE MATERIAL 
+(]|IUb)
+
+"transducer"
+% CONCRETE ANIMAL MATERIAL 
+(RjD^lbDA|)
+
+"transection"
+(^l|WGbD)
+
+"transept"
+(UsIbW)
+
+"transfer"
+% MATERIAL 
+(W|XfD)
+# a telesfer slip (NOUN) : X|DZgXfD]r
+# telegraphic transfer (NOUN) : XfDU|D^lbD
+# transfer account (NOUN) : ^lbDAsXlb
+# transfer agent (NOUN) : QjWWz|RcUfGcI|W|D
+# transfer company (NOUN) : \lWWsD^l|Ub
+# transfer earnings (NOUN) : XfDWrWUsW|R
+# transfer expenditure (NOUN) : W|XfDX|ZsI
+# transfer income (NOUN) : W|XfDUlGzA
+# transfer on current account (NOUN) : GbWXlbAkXfWRs^lbD
+# transfer slip (NOUN) : GcZgXfD]r
+
+"transferability"
+(XfDUb^bI Us W|VWzQ)
+
+"transferee"
+% HUMAN
+(WdWUsW|D)
+
+"transference"
+% MATERIAL 
+(WlIQA|A|)
+
+"transferer"
+% HUMAN
+(WdWGlW|D)
+
+"transferor"
+% HUMAN
+(WdWGlW|D)
+
+"transfiguration"
+(RjD^jW)
+
+"transfixion"
+(BsgHsI^WzQ)
+
+"transform"
+(RjD^lbD)
+
+"transformation"
+% CONCRETE MATERIAL 
+(RjD^jW)
+# transformation curve (NOUN) : RjD^jWAlAUfD
+
+"transformator"
+(RjD^lbU|[|DzD AfU)
+
+"transformer"
+% CONCRETE ANIMAL MATERIAL 
+(RjD^lbU|[|DzD AfU)
+
+"transfusion"
+(XsW|R)
+
+"transfusionist"
+% HUMAN
+(Us^jI^bAXb)
+
+"transgression"
+% MATERIAL 
+(Ws|RbD)
+
+"transgressor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AwZ|A Ws|RbDXb)
+
+"transience"
+% CONCRETE MATERIAL 
+(W|IU|XfAW|Q)
+
+"transiency"
+% CONCRETE MATERIAL 
+(W|IU|XfAW|Q)
+
+"transient"
+(W|IU|XfAW|D UbQsI)
+
+"transillumination"
+(\sXl)
+
+"transire"
+(WjDWbD WsDUlW ^fAbXbW)
+
+"transistor"
+% CONCRETE ANIMAL MATERIAL 
+(\zIcDX|Uz\f)
+
+"transit"
+% CONCRETE ANIMAL MATERIAL 
+(\lWAlb)
+# damage in transit (NOUN) : WsDUlWXsW UlD^c
+# in transit (NOUN) : UsUlWXsW
+# transit account (NOUN) : Q|GbIAkXfW
+# transit duties (NOUN) : \lWAlbAlbDUg
+# transit goods (NOUN) : \lWAlb^lbQsI
+# transit passenger (NOUN) : \lWAlb WjAcA
+# transit shipment (NOUN) : XfA^lbD^lbQsI
+# transit system (NOUN) : Ar\lWQbW
+# transit visa (NOUN) : \lWAlb UbXzW
+
+"transition"
+% CONCRETE MATERIAL 
+(RjDW|)
+# transition period (NOUN) : AlbGlA|
+
+"transitive"
+(\bGlWUb)
+
+"transitivity"
+% CONCRETE MATERIAL 
+(\bGlWUfW)
+
+"transitoriness"
+% CONCRETE MATERIAL 
+(W|IU|XfAW|Q)
+
+"translation"
+% CONCRETE MATERIAL 
+(RfDWjA)
+# free translate (NOUN) : Wz|WjA
+# liberal translate (NOUN) : Wz|WjA
+# literal translate (NOUN) : X|AWjA
+# official translate (NOUN) : AlWU|ARfDWjA
+
+"translator"
+% CONCRETE MATERIAL 
+(RfDWjAA|)
+
+"transliteration"
+% CONCRETE MATERIAL 
+(GbIzD DbIb AzIXbIl RbBsWf VzA|)
+
+"transliterator"
+% HUMAN
+(WzQWjAXb)
+
+"translucence"
+% CONCRETE MATERIAL 
+(RbD\sQjW)
+
+"translucency"
+% CONCRETE MATERIAL 
+(RbD\sQjW)
+
+"transmigrant"
+(W|Q|D)
+
+"transmigration"
+(W|Xs)
+
+"transmigrator"
+(W|Q|D)
+
+"transmissibility"
+(XfDGbIUfW)
+
+"transmission"
+% CONCRETE MATERIAL 
+(XfDGbI)
+# transmission control (NOUN) : XfDUlW XgWf
+# transmission factor (NOUN) : XfDGbIAkUs
+# transmission gear (NOUN) : XfDGlW XbWZ|
+# transmission security (NOUN) : UlWU|D RlWbD
+# transmission shaft (NOUN) : XfDGlWZsA
+# transmission unit (NOUN) : \lW^lb GbDWs|
+# power transmission (NOUN) : UlWXfD
+
+"transmissivity"
+(XfDGlUfW)
+
+"transmissometer"
+(U|Gl ZzAXfWAk)
+
+"transmittal"
+% MATERIAL 
+(XfDGbI)
+
+"transmitter"
+% CONCRETE ANIMAL MATERIAL 
+(UlWGbIXb)
+
+"transmogrification"
+(RjD^jW)
+
+"transmutation"
+% CONCRETE MATERIAL 
+(RjD^lb)
+
+"transom"
+% CONCRETE MATERIAL 
+(QsD\zI)
+
+"transparence"
+% CONCRETE MATERIAL 
+(\sQjW)
+
+"transparency"
+% CONCRETE MATERIAL 
+(\sQjW)
+
+"transpiration"
+% MATERIAL 
+(XzWRbI)
+
+"transplant"
+% MATERIAL 
+(W|U|A)
+# a transplant heart (NOUN) : U|QXbW W|U|A
+
+"transplantation"
+(W|U|A)
+
+"transport"
+% CONCRETE MATERIAL ACTION ECOLIFE
+(UsUlW)
+# air transport (NOUN) : AlWUs
+# in transports of joy (PP->ADV) : A|SzQWg Zs|^bWj
+# in a transport of rage (PP->ADV) : Q|Z|IGzUW| UfWW| DbUf
+# ocean transport (NOUN) : ^cUbWWsDUlW
+# overland transport (NOUN) : WwAUbWWsDUlW
+# transport insurance (NOUN) : WsDUlWRl^fQ
+# transport of bank note (NOUN) : ^jDUlW
+
+"transportation"
+% CONCRETE MATERIAL 
+(UsUlW)
+# bonded transportation (NOUN) : RlUgWsDUlW
+# complex transportation (NOUN) : RlA^bRUsUlW
+# transportation air (NOUN) : ^bWAlW UsUlW
+# transportation cargo (NOUN) : XfAUlW^lbQsI
+# transportation charges (NOUN) : WsDUlWIr
+# transportation cost (NOUN) : WsDUlWR|
+# transportation for life (NOUN) : XlWU|D Ww^jW
+# transportation goods (NOUN) : XfAUlW^lbQsI
+# transportation insurance (NOUN) : WsDUlWRl^fQ
+# transportation railway (NOUN) : ZfIGl UsUlW
+# transportation water (NOUN) : UsUbW UsUlW
+
+"transporter"
+% HUMAN
+(UsUlWXb)
+
+"transposal"
+(Z|^lbD)
+
+"transposition"
+% CONCRETE MATERIAL 
+(Z|^lbD)
+
+"transsexual"
+% HUMAN
+(UfWXfD^lbD WjIQbWXb)
+# a transsexual operation (NOUN) : UfWXfD^lbD UsUsI
+
+"transshipment"
+(XfA^lbD)
+# transshipment cargo (NOUN) : XfA^lbD^lbQsI
+
+"transubstantiation"
+% MATERIAL 
+(RjDX|I)
+
+"transudation"
+% MATERIAL 
+(UbQZsI)
+
+"transversal"
+(^l|WGbDUfD)
+
+"transverse"
+(^l|WGbDQsI)
+
+"transvestism"
+(W|UfWWz| RlAXbWWzI ^bA|)
+
+"transvestite"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlAXbWGlZbAXb)
+
+"trap"
+% CONCRETE MATERIAL 
+(^bQXfW)
+# ^be caught in a trap (VERB) : ^bQXfWWg SbX|Gb
+# down the trap (ADV) : ^bQXfWWbIc
+# ^fall into a trap (VERB) : ^bQXfWWg SbX|Gb
+# ^lay a trap for A (VERB) : [(ADJUNCT A/Wg) (OBJ [GfZ<NOUN>]/WzI) Dl^<VERB>]/Gb
+# ^set a trap for A (VERB) : [(ADJUNCT A/Wg) (OBJ [GfZ<NOUN>]/WzI) QbIjD^b<VERB>]/Gb
+# trap cellar (NOUN) : QsGcWz| QbIsQ|\
+# ^walk into a trap (VERB) : AkIdAWg SbX|Gb
+
+"trapball"
+(AlWDlIW|)
+
+"trapes"
+(GbDXfWZ| QlU^bAg AfGA|)
+
+"trapeze"
+% CONCRETE MATERIAL 
+(AzDg)
+
+"trapezium"
+% MATERIAL 
+(RsGzWRjD 4 RjD^jW)
+
+"trapezoid"
+% MATERIAL 
+(RsGzWRjD UbRjD^jW)
+
+"trapper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GfZWzIl Uc X|QUzWWzI XbRDzD UbDdWAsD)
+
+"trappings"
+% CONCRETE MATERIAL 
+(QbAs)
+
+"trappist"
+% HUMAN
+(\zIc]|Uz\z ^l|Wz| UsGlUb)
+
+"trappistine"
+% HUMAN
+(\zIc]|Uz\|D^l|Wz| UsDj)
+
+"trapshooter"
+% HUMAN
+(RbWXlA| UbWrWWz| UbAjAXb)
+
+"trapshooting"
+% ACTION
+(\zIcRUbAjA)
+
+"trash"
+% CONCRETE MATERIAL 
+(VzIgA|)
+# the White trash (NOUN) : DbQRsWz| AbDbDRcWW| RcAW|D
+# trash can (NOUN) : VzIgA| \lW
+
+"trasher"
+% HUMAN
+(QsZbRjI ]bAl|Xb)
+
+"trass"
+(\zIcUz)
+
+"trattoria"
+% PLACE
+(WzQU|AXfQ)
+
+"trauma"
+(Wl|UbW)
+
+"traumatic"
+(Wl|UbWWdA)
+
+"traumatism"
+(Wl|UbW)
+
+"travail"
+% MATERIAL 
+(X|D\lW)
+
+"travel"
+% MATERIAL ACTION
+(Wj^cW)
+# A of travel by air (NOUN) : [(POSS [R|^cWA| Wj^cW<NOUN>]/Wz|) A]
+# air travel (NOUN) : ^bWAlW WsD^bW
+# guaranteed travel (NOUN) : RlXzW^bW^c
+# travel agency (NOUN) : Wj^cWUb
+# travel deficit (NOUN) : AlbDAlbWXfAXb
+# travel for permanent residence (NOUN) : WjWXsGl^bW
+# travel under contract for service (NOUN) : DlQsGl^bW
+# travels in the blue (NOUN) : RbWU|Q
+
+"traveler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wj^cWAb)
+# ^tip a person the traveler (VERB) : DbQWzI UlAW|Gb
+# travelers check (NOUN) : Wj^cWXb Us]r
+# traveler's check (NOUN) : Wj^cWXb Us]r
+# traveler's credit (NOUN) : Wj^cW U|DWrWXbW
+# traveler's tale (NOUN) : AfX|UQbIAb\WzD W|WdA|
+
+"traveler's-joy"
+% PLANT
+(ZbQWzWbI|)
+
+"traveling"
+% MATERIAL ACTION
+(Wj^cW)
+
+"traveller"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wj^cWAb)
+# ^tip a person the traveller (VERB) : DbQWzI UlAW|Gb
+# traveller's check (NOUN) : Wj^cWXb Us]r
+# travellers check (NOUN) : Wj^cWXb Us]r
+# traveller's credit (NOUN) : Wj^cW U|DWrWXbW
+# traveller's tale (NOUN) : AfX|UQbIAb\WzD W|WdA|
+
+"travelling"
+% MATERIAL ACTION
+(Wj^cW)
+
+"travelog"
+(Wj^cWGbQ)
+
+"travelogue"
+(Wj^cWGbQ)
+
+"traverser"
+% HUMAN
+(^l|WGbDXb)
+
+"travertin"
+(UfA^l|^lb)
+
+"travesty"
+% CONCRETE MATERIAL 
+(WsUzBlbWUzIfRAg AlZ|A|)
+
+"trawl"
+% CONCRETE ANIMAL MATERIAL 
+(\zIlIQbW)
+
+"trawler"
+% HUMAN
+(\zIlWlI WfRs)
+
+"trawlerman"
+% HUMAN
+(\zIlWlIQbW WfRs)
+
+"trawlnet"
+(\zIlWlI QbW)
+
+"tray"
+% CONCRETE ANIMAL MATERIAL 
+(XcWRbD)
+# an ash tray (NOUN) : XcHfIW|
+# a tray of food (NOUN) : ^bD XcWRbDWz| WzQU|A
+
+"trayful"
+(XcWRbD ^bDb AbGzA)
+
+"treacherousness"
+(RsIZsW^bQ)
+
+"treachery"
+% CONCRETE MATERIAL 
+(RcU|D)
+
+"treacle"
+% CONCRETE MATERIAL 
+(GbWQ|I)
+
+"tread"
+% CONCRETE MATERIAL 
+(RbIRA|)
+
+"treadboard"
+(RbI]bD)
+
+"treadle"
+% CONCRETE ANIMAL MATERIAL 
+(]gGbI)
+
+"treadmill"
+% CONCRETE MATERIAL 
+(RbIRWbUf GlII|DzD UsIg)
+
+"treadwheel"
+(G|GjUf GlII|DzD UsIgRb[s|)
+
+"treason"
+% CONCRETE MATERIAL ACTION
+(RbDWjA)
+# high treason (NOUN) : RbDWjAXl|
+# petit treason (NOUN) : AjWRbDWjAXl|
+# petty treason (NOUN) : AjWRbDWjAXl|
+
+"treasure"
+% MATERIAL 
+(RlQsI)
+# art treasures (NOUN) : Q|UsIUbWWz| RlRc
+# artistic treasure (NOUN) : WkUsIXfAW|D Q|UsI]sQ
+# ^spend blood and treasure (VERB) : UcWQjWAlb XcUbDWzI RfI|Gb
+# ^cost blood and treasure (VERB) : UcWQjWAlb XcUbDW| GzIGb
+
+"treasure-trove"
+(QcXbWQsI)
+
+"treasurer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^l|AkWsfD)
+# Lord High Treasurer (NOUN) : XcQsUbW
+# Treasurer of the Household (NOUN) : WlbWU|I ^l|AkAsA XbWAlbD
+
+"treasurership"
+% HUMAN
+(^l|AkWsfDWz| X|A)
+
+"treasury"
+% CONCRETE MATERIAL 
+(RlAl)
+# treasury bonds (NOUN) : AsAAlZcAsfD
+
+"treat"
+% CONCRETE MATERIAL MIND
+([zD A|SzQ)
+# school treat (NOUN) : Ul]sW
+# ^stand treat (VERB) : ^bD\fA DcGb
+# ^get on a fair treat (VERB) : WbXs XbI Gl|WfAbGb
+
+"treatise"
+% CONCRETE MATERIAL 
+(DlDQsD)
+
+"treatment"
+% CONCRETE MATERIAL 
+(ZfI|)
+# a new treatment for consumption (NOUN) : AjI^cAWz| UcIlWsD Z|IrRfR
+# addiction treatment (NOUN) : XsWGlAXzWUgZ|Ir
+# ^be under medical treat (VERB) : Z|Ir XsWW|Gb
+# ^give the silent treat (VERB) : QsAUbI^bGb
+# national treatment (NOUN) : DcAsAQ|D GcWs
+# normal treatment (NOUN) : W|IRbD Z|Ir
+# most favored nation treatment (NOUN) : Zl|^kAsAGcWs
+# radiation treatment (NOUN) : RbWUbUfD Z|Ir
+
+"treaty"
+% CONCRETE MATERIAL 
+(XlWdA)
+# bilateral treaty (NOUN) : VbWQs XlWdA
+# commercial treaty (NOUN) : \lWUbW XlWdA
+# multilateral treaty (NOUN) : GbRjD XlWdA
+# peace treaty (NOUN) : AbW^lb XlWdA
+# ^be in treaty (VERB) : ArUfR XsWW|Gb
+
+"treble"
+% CONCRETE MATERIAL 
+(UgAjRWz| QsIAfD)
+
+"trecentist"
+% HUMAN
+(14 UgA|Wz| W|\bII|Wb QsD^bAXb)
+
+"trecento"
+% TIME
+(14 UgA|)
+
+"trechometer"
+(Xs^cW AfI| A|IlAAk)
+
+"tree"
+% CONCRETE MATERIAL PLANT
+(DbQs)
+# as trees walking (ADV) : QfW^bD|
+# ^be at the top of the tree (VERB) : AbXbW Dl]WzD XbI|IzI ZbX|^bAl W|VGb
+# chestnut tree (NOUN) : RbQDbQs
+# in the dry tree (PP->ADV) : WjAAjWWg Zf^bWj
+# leaves of tree (NOUN) : DbQsW|]GzI
+# rose tree (NOUN) : XbWQ|DbQs
+# tree of Buddha (NOUN) : RlI|Us
+# tree of heaven (NOUN) : AbXsADbQs
+# tree of knowledge of good and evil (NOUN) : X|^kWz| DbQs
+# tree of liberty (NOUN) : XbWwWz| DbQs
+# tree of life (NOUN) : UcWQjWWz| DbQs
+# axle tree (NOUN) : AsIGc
+
+"treenail"
+(DbQsQlU)
+
+"treenware"
+(DbQsAzIzU)
+
+"treetop"
+% PLANT
+(DbQs BlAGcA|)
+
+"trefoil"
+% CONCRETE MATERIAL PLANT
+(\lB|]sI)
+
+"trek"
+% MATERIAL 
+(AjAXb WsI\bI|)
+
+"trematode"
+% CONCRETE ANIMAL MATERIAL 
+(^zRZsWIw)
+
+"tremble"
+% MATERIAL 
+(HfII|Q)
+# all of a trembel (PP->ADV) : QlRU| AfRDcQjDUf
+# on the tremble (PP->ADV) : QlRU| AfRDcQjDUf
+# all of a trembel (PP->ADV) : QlRU| AfRDcQjDUf
+# upon the tremble (PP->ADV) : QlRU| AfRDcQjDUf
+
+"trembler"
+% HUMAN
+(HfDzD UbIbQ)
+
+"trembling"
+% MATERIAL 
+(HfII|Q)
+
+"tremolo"
+(XfDWzQ)
+
+"tremor"
+% MATERIAL 
+(HfII|Q)
+
+"trenail"
+(DbQs QlU)
+
+"trench"
+% CONCRETE MATERIAL PLACE
+(ZbQ^l)
+# cover trench (NOUN) : WfQ]k^l
+# trench fever (NOUN) : ZbQ^lWjI
+# a trench gun (NOUN) : RbAAjA]l
+# a trench mortar (NOUN) : RbAAjA]l
+# a fire trench (NOUN) : UbDRjW^l
+# ^mount the trenches (VERB) : ZbQ^l AzDQsWg W|Q^bGb
+# ^open the trenches (VERB) : ZbQ^lIzI ]bA| U|XbA^bGb
+# ^relieve the trenches (VERB) : ZbQ^l AzDQsRjWAlb ArZg^bGb
+# ^search the trenches (VERB) : WwUbD\bD HbWs|Il ZbQ^lIzI ]lAjA^bGb
+
+"trenchancy"
+(DbI[bIlWsQ)
+
+"trencher"
+(QlA]bD)
+# ^lick the trencher (VERB) : AsRU|IAfI|Gb
+# trencher companions (NOUN) : DzI Ab\W| U|AUb^bDzD Z|DAsGzI
+
+"trencherman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QfADzD UbIbQ)
+# a good trencherman (NOUN) : GcU|AAb
+# a poor trencherman (NOUN) : UlU|AAb
+
+"trenchwork"
+% ACTION
+(ZbQ^lW|I)
+
+"trend"
+% CONCRETE MATERIAL 
+(ZsUg)
+# sales trend (NOUN) : ]bDQc RbW^dW
+# the trend of public opinion (NOUN) : WjIlDWz| AjW^dW
+# trend line (NOUN) : ZsUgUfD
+# warming trend (NOUN) : WlDGl UbWUzW AjW^dW
+
+"trendline"
+(ZsUgUfD)
+
+"trendsetter"
+% HUMAN
+(Ww^cWWzI QbDGzDzD UbIbQ)
+
+"trendy"
+% HUMAN
+(Zl|U|DWw^cWWzI HbIzDzD UbIbQ)
+
+"trental"
+(3 W|IAbDWz| Q|Ub)
+
+"trepan"
+% CONCRETE ANIMAL MATERIAL 
+(AlbDAf)
+
+"trepang"
+% CONCRETE ANIMAL MATERIAL 
+(^cUbQ)
+
+"trephine"
+% CONCRETE ANIMAL MATERIAL 
+(AlbDAf)
+
+"trepidation"
+% MATERIAL 
+(XfDWwI)
+
+"trespass"
+% MATERIAL 
+(RsIRfR ^cWWs|)
+
+"tress"
+% CONCRETE MATERIAL 
+(QfI|UGbD)
+
+"trestle"
+% CONCRETE MATERIAL 
+(AbGc)
+
+"trestletree"
+% PLANT
+(XbWIwIzI UgIl RbGZ|DzD Rf\|Q DbQs)
+
+"trestlework"
+(ArAbA AlWUb)
+
+"tret"
+(GfQWzIl XsDzD WdW)
+
+"trews"
+% CONCRETE ANIMAL MATERIAL 
+(RbGsA]bD QsDz|Wz| ^lI\cRbX|)
+
+"trey"
+% CONCRETE MATERIAL 
+(3)
+
+"tri-city"
+% PLACE ORGAN
+(Ug GlU|)
+
+"triad"
+% CONCRETE MATERIAL 
+(Ug Ac ^bDRfI 3 WsfDUl)
+
+"triage"
+([lWl]| WjIQcWz| Y|BfA|)
+
+"trial"
+% MATERIAL 
+(Xc]bD)
+# clinical trial (NOUN) : W|QUbWU|I^fQ
+# trial balance (NOUN) : U|UbD]r
+
+"trialogue"
+% ORGAN
+(3 Xb^l|GbQ)
+
+"triangle"
+% CONCRETE ANIMAL MATERIAL 
+(UbQAbA^jW)
+# red triangle (NOUN) : RsIAWzD UbQAbA^jW
+# right angled triangle (NOUN) : X|AAbA UbQAbA^jW
+# acute angled triangle (NOUN) : WkAbA UbQAbA^jW
+# obtuse angled triangle (NOUN) : GsDAbA UbQAbA^jW
+# a triangle of forces (NOUN) : ^|QWz| UbQAbA^jW
+
+"triangularity"
+% CONCRETE MATERIAL 
+(UbQAbA^jWWzI W|IsQ)
+
+"triangulation"
+(UbQAbA^jWWzIl RsD^bI^bA|)
+
+"trias"
+% TIME
+(UbQZfRA|)
+
+"triassic"
+% TIME
+(UbQZfRA|)
+
+"tribalism"
+(XlWXlA XlX|A)
+
+"tribe"
+% MATERIAL ORGAN
+(XlWXlA)
+# the tribes of Israel (NOUN) : 12 X|XlA
+
+"tribesman"
+% HUMAN
+(XlWXlAWz| ^bD UbIbQ)
+
+"triboelectricity"
+(QbZbI XfDA|)
+
+"tribometer"
+(QbZbIAk)
+
+"tribrach"
+(UbQGbDAjA)
+
+"tribulation"
+% MATERIAL 
+(AlDbD)
+
+"tribunal"
+% MATERIAL ORGAN
+(RfRWsfD)
+
+"tribune"
+% CONCRETE MATERIAL HUMAN
+(^lQ|DAlbD)
+
+"tribuneship"
+(^lQ|DAlbDWz| X|A)
+
+"tributary"
+% CONCRETE MATERIAL HUMAN
+(X|DAlW^bDzD UbIbQ)
+
+"tribute"
+% CONCRETE MATERIAL 
+(AlWQsI)
+# floral tributes (NOUN) : BlZUfDQsI
+# ^lay a tribute on A (VERB) : [(OBJ2 A/WgAg) (OBJ [(POSS [X|DAlW<NOUN>]/Wz|) Wz|Qs<NOUN>]/IzI) X|Ws<VERB>]/Gb
+# ^lay under tribute (VERB) : X|DAlWU|[|Gb
+# ^pay a tribute to A (VERB) : [(OBJ2 A/WgAg) (OBJ [ZbDUb<NOUN>]/IzI) RlDc<VERB>]/Gb
+# tribute of a tear (NOUN) : XlWz|IzI ]r^bDzD DsDQsI
+# tribute of praise (NOUN) : ZbDUb
+# tribute to a person's memory (NOUN) : AlW|DWgAg GzI|DzD AlWWdW
+# ^work on tribute (VERB) : RcGbWXgIl W|I^bGb
+# ^work on the tribute system (VERB) : RcGbWXgIl W|I^bGb
+
+"tricar"
+(3 IwD XbXfDAf)
+
+"trice"
+% CONCRETE MATERIAL 
+(UsDAbD)
+# in a trice (PP->ADV) : UsDU|AAbDWg
+
+"triceps"
+% CONCRETE MATERIAL 
+(UbQGsAzD)
+
+"trichiasis"
+(ZfRQl DbDUcWXzW)
+
+"trichinas"
+(UfDQlZsW)
+
+"trichinopoli"
+(WjRAsfIIjD)
+
+"trichinosis"
+(UfDQlZsWRjW)
+
+"trichloride"
+(WjQUl)
+
+"trichologist"
+% HUMAN
+(QlRbI^bAXb)
+
+"trichology"
+% ART
+(QlRbI^bA)
+
+"trichomonad"
+% CONCRETE ANIMAL MATERIAL 
+(\zI|[lQlDbUzXzW)
+
+"trichomycin"
+(\zI|[lQbW|U|D)
+
+"trichord"
+(3 WbAA|)
+
+"trichotomy"
+(UbQRsDRfR)
+
+"trick"
+% MATERIAL 
+(ZcAIdA)
+# in trick (ADV) : UfD^lbIl
+# ^do the trick (VERB) : QlAXfAWzI GbIUfW^bGb
+# ^turn the trick (VERB) : QlAXfAWzI GbIUfW^bGb
+# ^know a trick or two (VERB) : WjAbD WbD|Gb
+# ^play A a trick (VERB) : [(OBJ2 A/WgAg) XbWDbDX|IZ|<VERB>]/Gb
+# ^play a trick on A (VERB) : [(OBJ2 A/WgAg) XbWDbDX|IZ|<VERB>]/Gb
+# ^serve a trick on A (VERB) : [(OBJ2 A/WgAg) XbWDbDX|IZ|<VERB>]/Gb
+# ^serve A a trick (VERB) : [(OBJ2 A/WgAg) XbWDbDX|IZ|<VERB>]/Gb
+# ^take ONE_S trick (VERB) : \bIwD GbWRfDWzI ^bGb
+# the odd trick (NOUN) : UzW]cIzI ]bDAbIzQ^bDzD RfDYc
+# trick cycling (NOUN) : XbXfDAf AlAWk
+# trick riding (NOUN) : QbI\bA| AlAWk
+# the whole bag of tricks (NOUN) : W|IZg
+# trick of senses (NOUN) : XfWU|DWz| ^gUAbII|Q
+# trick of the imagination (NOUN) : XfWU|DWz| ^gUAbII|Q
+# trick of fortune (NOUN) : WsDQjWWz| XbWDbD
+# tricks of the memory (NOUN) : A|WfAWz| ^gUAbII|Q
+# ^use tricks (VERB) : XbDBl|IzI RsI|Gb
+
+"trickery"
+% CONCRETE MATERIAL 
+(^jRXbR)
+
+"trickiliness"
+(WfIjWsQ)
+
+"trickle"
+% MATERIAL 
+(HlAHlA HfIWfX|Q)
+
+"trickster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbA|AsD)
+
+"tricktrack"
+(IfU|WbU|A XsUbWs|DlIW|)
+
+"triclinium"
+% PLACE
+(A|D WbDIbAWz|XbIzI GsIIf Dl^WzD U|A\bA)
+
+"tricoline"
+(QsQjW ]l]zII|D)
+
+"tricolor"
+(UbQUcAA|)
+
+"tricorn"
+% CONCRETE ANIMAL MATERIAL 
+(UbQAbA QlXb)
+
+"tricot"
+% CONCRETE MATERIAL 
+(]jDQsI)
+
+"tricuspid"
+(UbWZfD]bD)
+
+"tricycle"
+% CONCRETE ANIMAL MATERIAL 
+(Ug Rb[s| XbXfDAf)
+
+"trident"
+% CONCRETE ANIMAL MATERIAL 
+(UbQX|ZbW)
+
+"triennial"
+(3 Xg)
+
+"trier"
+(U|^fQXb)
+
+"trifle"
+% CONCRETE MATERIAL 
+(RlXbIAfU WfRUDzD AfU)
+
+"trifler"
+% HUMAN
+(DlWGbQ^bDzD UbIbQ)
+
+"trifocal"
+(3 XsW ZlXfQ IgDXz)
+
+"triforium"
+(^l|XsWUfA UbWRsWz| WbWbZ|Wlb Dl]WzD ZbWWz| XsWAbD)
+
+"trigamy"
+(W|IZf UbQRs)
+
+"trigger"
+% CONCRETE MATERIAL 
+(RbWWbUl|)
+# ^have ONE_S finger on the trigger (VERB) : RbWWbUl|Wg UlDAbIbAWzI GcGb
+# in the drawing of a trigger (PP->ADV) : AlG
+# ^pull the trigger (VERB) : RbWWbUl|IzI GbWA|Gb
+# ^press the trigger (VERB) : RbWWbUl|IzI GbWA|Gb
+# quick on the trigger (ADV) : UbAjAW| SbIzD XcSbIzD
+# trigger price (NOUN) : RbIGlWAbAjA
+
+"trigger-man"
+% HUMAN
+(WbQUbIXb)
+
+"triglyph"
+(\zI|AzII|]z)
+
+"trigon"
+(UbQAbAAzQ)
+
+"trigonometer"
+(X|AAbA UbQAbAAk)
+
+"trigonometry"
+% MATERIAL 
+(UbQAbARfR)
+
+"trigram"
+(UbQXbW|IWzQ)
+
+"trigraph"
+(UbQXbW|IWzQ)
+
+"trihedron"
+(3 QjDZg)
+
+"trike"
+% CONCRETE ANIMAL MATERIAL 
+(Ug Rb[s| XbXfDAf)
+
+"trilateral"
+(UbQAbA^jW)
+
+"trilateralism"
+(3 ^jRIjA XfWZcA)
+
+"trilby"
+% CONCRETE ANIMAL MATERIAL 
+(XsWXfIQlXb)
+
+"trilemma"
+(\zI|IIgQb)
+
+"triliteral"
+(3 XbIl Gl|D GbDWf)
+
+"trilith"
+(UbQUfA\bR)
+
+"trilithon"
+(UbQUfA\bR)
+
+"trill"
+% CONCRETE MATERIAL 
+(HfII|DzD QlAUlI|)
+
+"trillion"
+% CONCRETE MATERIAL 
+(Xl)
+# NUM1 trillion (NOUN) : [(NMODS NUM1) Xl<NOUN>]
+
+"trillium"
+% MATERIAL PLANT
+(WjDIjWZl)
+
+"trilobite"
+(UbQWjRZsW)
+
+"trilogy"
+% ART
+(3 RsXbA)
+
+"trim"
+% MATERIAL 
+(XfWGlD)
+# ^give a person a trim (VERB) : QfI|IzI UlDX|I^bGb
+# in trim (PP->ADV) : XbI XfWR|Gl|Wf
+# into trim (PP->ADV) : XfAXfI^bD UbW\cIl
+# out_of trim (PP->ADV) : XfWGlD WbDGl|Wf
+
+"trimester"
+% CONCRETE MATERIAL TIME
+(3 AcWsfI)
+
+"trimeter"
+(UbQRlAjA)
+
+"trimmer"
+% CONCRETE ANIMAL MATERIAL 
+(XfWGlD ^bDzD UbIbQ)
+
+"trimming"
+% CONCRETE MATERIAL 
+(XfWGlD)
+
+"trimness"
+% MATERIAL 
+(XfWGlD)
+
+"trimomialism"
+(UbQQjWQjW)
+
+"trine"
+% CONCRETE MATERIAL 
+(UgAc ^bDRfI)
+
+"trinitarian"
+% HUMAN
+(UbQWs|W|IZg U|DXb)
+
+"trinitarianism"
+% ART
+(UbQWs|W|IZgIlD)
+
+"trinitrotoluene"
+% CONCRETE MATERIAL 
+(\zI|D|\zIl\lIIsWgD)
+
+"trinitrotoluol"
+(\zI|D|\zIl\lIIsWgD)
+
+"trinity"
+% CONCRETE MATERIAL 
+(UbQWs|W|IZg)
+# trinity formular (NOUN) : 3Ws|1ZgXfA XfWU|A
+
+"trinket"
+% CONCRETE MATERIAL 
+(XbX|IAsIg^bD XbWU|DAs)
+
+"trinomial"
+(3 ^bWU|A)
+
+"trio"
+% CONCRETE MATERIAL 
+(\zI|Wl)
+
+"triode"
+% CONCRETE ANIMAL MATERIAL 
+(3 AzA X|DAlWAlbD)
+
+"triolet"
+(\zI|WlIIgU)
+
+"trior"
+% HUMAN
+(AfQUbWsfD)
+
+"trioxide"
+(3 UbD^lbQsI)
+
+"trip"
+% MATERIAL ACTION
+(Wj^cW)
+# a trip around the world (NOUN) : UgAk W|IXs Wj^cW
+# ^make a trip to A (VERB) : [(ADJUNCT A/Il) Wj^cW^b<VERB>]/Gb
+# nonstop trip (NOUN) : DlDUz\lR Wj^cW
+# round trip (NOUN) : W|IXsWj^cW
+# train trip (NOUN) : A|Zb Wj^cW
+# trip of the toungue (NOUN) : U|IWfD
+# trip wire (NOUN) : ZlARbIWrW GfZZfIUb
+
+"tripe"
+% ANIMAL
+(RbDZs GlWQsIWz| Ws|)
+
+"triphammer"
+(XfDGlW ^cQf)
+
+"triphibian"
+% HUMAN
+(WwA ^c AlWAsD \lW^bRXbAXfD X|^s|AlbD)
+
+"triphthong"
+(3 QlWzQ)
+
+"tripitaka"
+(UbQXbW)
+# the Tripitaka Koreana (NOUN) : AlIj GcXbWAjW
+
+"triplane"
+(3 WjR R|^cWA|)
+
+"triple-digit"
+(3 XbI|Us)
+
+"triple-header"
+(3 WjDUlA U|^bR)
+
+"triple-threat"
+% HUMAN
+(Ug AbX|Wg AlIs DzWUsA^bD QjWUfDUs)
+
+"triplet"
+% CONCRETE MATERIAL 
+(UgAc ^bDRfI)
+
+"triplex"
+(UgAc ^bDRfI)
+
+"triplicate"
+(Ug Ac ^bDRfI XsWWz| ^bDb)
+
+"triplication"
+(Ug AjR)
+
+"triplicity"
+(3 RcW|Q)
+
+"tripling"
+(UgRc)
+"tripod"
+% CONCRETE ANIMAL MATERIAL 
+(UbQAbAGc)
+
+"tripoli"
+% PLACE
+(\zI|]lII|)
+
+"tripos"
+(WsGzW XlIWfR U|^fQ)
+
+"tripper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AjW[lc^bAg AfGDzD UbIbQ)
+
+"triptych"
+(UfAXbW AkUlAGl|D AzI|Q)
+
+"trireme"
+(3 GbD DlWz| AcII| Rc)
+
+"trisection"
+(3 GzWRsD)
+
+"trisyllable"
+% MATERIAL 
+(3 WzQXfI)
+
+"tritagonist"
+(Xg 3 RcWs)
+
+"tritheism"
+% ART
+(UbQU|DIlD)
+
+"tritium"
+(\zI|\lD)
+
+"trituration"
+(RsDUlc)
+
+"triturator"
+% HUMAN
+(Sb^DzD UbIbQ)
+
+"triumph"
+% MATERIAL 
+(UzWI|)
+
+"triumvir"
+% HUMAN
+(3 X|RXfWAlbD XsWWz| ^bD UbIbQ)
+
+"triumvirate"
+% MATERIAL ORGAN
+(UbQGsXfWZ|)
+# the first triumvirate (NOUN) : Xg 1 UbQGsXfWZ|
+# the second triumvirate (NOUN) : Xg 2 UbQGsXfWZ|
+
+"triunity"
+(UbQWs|W|IZg)
+
+"trivalence"
+(3 Ab)
+
+"trivalency"
+(3 Ab)
+
+"trivet"
+(AbQAbAGc)
+
+"trivia"
+(UbUl^bD W|I)
+
+"trivial"
+(^bZbD^WzD W|I)
+
+"trivialism"
+(^bZbD^WzQ)
+
+"triviality"
+% CONCRETE MATERIAL 
+(^bZbD^WzQ)
+
+"trivium"
+% ART
+(UbQ^bA)
+
+"triweekly"
+(Xs 3 ^l|Wz| AbD^cWQsI)
+
+"trocar"
+(\sAlbDZ|Q)
+
+"trochaic"
+(AbWWdAAjA)
+
+"trochanter"
+(XfDXb)
+
+"trochar"
+(\sAlbDZ|Q)
+
+"troche"
+% CONCRETE MATERIAL 
+(XfWXg)
+
+"trochee"
+% CONCRETE MATERIAL 
+(XbWGbDAjA)
+
+"trochilus"
+% ANIMAL
+(WbAWfUc)
+
+"trochlea"
+(^lbIZb)
+
+"trochoid"
+(\zIl[lW|Gz)
+
+"troglodyte"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^jIAfW|D)
+
+"troika"
+% CONCRETE MATERIAL 
+(\zIlW|[b)
+
+"troll"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwDZbWAb)
+
+"trolley"
+% CONCRETE ANIMAL MATERIAL 
+(AlAb W|GlW^lbIZb)
+
+"trolleyman"
+% HUMAN
+(XfDZb UzWQsWsfD)
+
+"trollop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\bIbA^bD WjXb)
+
+"trombone"
+% CONCRETE ANIMAL MATERIAL 
+(\zIlQRlD)
+
+"trombonist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\zIlQRlD WjDXsXb)
+
+"trommel"
+(AlbWUfA Z|DzD Zg)
+
+"trompe"
+(DbAUs UlW]sWA|)
+
+"troop"
+% MATERIAL ORGAN
+(RsGc)
+# Army troops (NOUN) : AsDUb
+# a shock troop (NOUN) : GlIAjAGc
+# ^get ONE_S troop (VERB) : A|RjW XsWGcXbWWzIl UzWX|D^bGb
+# liberating troop (NOUN) : ^cRbWAsD
+# regular troops (NOUN) : UbWR|AsD
+
+"trooper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(A|RjW)
+
+"troophorse"
+% ANIMAL
+(A|RjWQbI)
+
+"troopship"
+(UsUlWUfD)
+
+"tropaeolum"
+(^bDIjD)
+
+"trope"
+% CONCRETE MATERIAL 
+(QbIWz| UsU|AXfA ]r^jD)
+
+"trophy"
+% CONCRETE MATERIAL 
+(XfDI|]sQ)
+
+"tropic"
+(^l|As|UfD)
+# the tropics (NOUN) : WjIGcX|RbW
+# Tropic of Cancer (NOUN) : RsA^l|As|UfD
+# Tropic of Capricorn (NOUN) : DbQ^l|As|UfD
+
+"tropism"
+(^dWUfW)
+
+"tropology"
+(R|WwIzI VzA|)
+
+"tropopause"
+(AsfDAkQjD)
+
+"troposphere"
+% MATERIAL PLACE
+(GcIwAsfD)
+
+"trot"
+% MATERIAL 
+(SbIzD AfIWzQ)
+# on the trot (PP->ADV) : Us|IUcWfRUW| WsQX|AW|Qj
+# at a trot (PP->ADV) : ZlWZlW AfIWzQWzIl
+# ^go for a trot (VERB) : UbDZcA DbAbGb
+# ^keep a person on the trot (VERB) : DbQWzI Us|IUcWfRUW| RsI|Gb
+
+"troth"
+(X|DU|I)
+
+"trotline"
+(AjDX| DbBU|UXsI)
+
+"trotskyism"
+% ART
+(\zIlZz[|XsWz|)
+
+"trotskyist"
+% HUMAN
+(\zIlZz[|XsWz|Xb)
+
+"trotskyite"
+% HUMAN
+(\zIlZz[| XsWz|Xb)
+
+"trotter"
+% CONCRETE ANIMAL MATERIAL 
+(UlARlIl AfGDzD UbIbQ)
+
+"trottoir"
+% PLACE
+(W|DGl)
+
+"troubadour"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfXfWU|W|D)
+
+"trouble"
+% MATERIAL 
+(QsDXg)
+# ^ask for trouble (VERB) : VzIGgWfRUDzD X|UWzI ^bGb
+# ^be a trouble to A (VERB) : [(OBJ2 A/WgAg) (SCOMP []k<NOUN>]/Ab) Gl|<VERB>]/Gb
+# ^be in trouble $ (VERB->ADJ) : AlDIbDWg Zf^c W|VGb
+# ^be in trouble with A (VERB->ADJ) : [(ADJUNCT [(POSS A/AlbWz|) UbW|<NOUN>]/Wg)
+ (SCOMP [QbIVfW<NOUN>]/W|) Db W|V<VERB>]/Gb
+# domestic trouble (NOUN) : AbXfW QsDXg
+# engine trouble (NOUN) : WgDX|D AlXbW
+# family trouble (NOUN) : AbXfW RsI^lb
+# ^have a trouble with A (VERB->ADJ) : [(ADJUNCT [(POSS A/AlbWz|) UbW|<NOUN>]/Wg) (SCOMP [QbIVfW<NOUN>]/W|) Db W|V<VERB>]/Gb
+# ^get A into trouble (VERB) : [(OBJ2 A/WgAg) (OBJ []k<NOUN>]/IzI) B|Z|<VERB>]/Gb
+# ^get A out_of trouble (VERB) : [(OBJ A/WzI) AlDAjWWgUf GlWlbXs<VERB>]/Gb
+# ^get in trouble (VERB) : QbIVfWWzI ]|WsGb
+# ^get into trouble (VERB) : QbIVfWWzI W|IWz[|Gb
+# ^get out_of trouble (VERB) : RfIWzI QlQjD^bGb
+# ^give A ADJ trouble (VERB) : [(OBJ2 A/WgAg) (OBJ [(AMODS ADJ/^bD) ]k<NOUN>]/IzI) B|Z|<VERB>]/Gb
+# ^give A trouble (VERB) : [(OBJ2 A/WgAg) (OBJ []k<NOUN>]/IzI) B|Z|<VERB>]/Gb
+# ^have heart trouble (VERB) : U|QXbWRjWWzI WbI^Gb
+# ^have trouble PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) QsDXgAb W|V<VERB>]/Gb
+# in ADJ trouble (ADJ) : [(ADJUNCT [(RELCL ADJ/^bD) AlDIbD<NOUN>]/Wg) W|V<ADJ>]/Gb
+# labor trouble (NOUN) : DlGlW XcWWz|
+# labour trouble (NOUN) : DlGlW XcWWz|
+# liver trouble (NOUN) : AbDXbW XbWWc
+# ^look for trouble (VERB) : VzIGgWfRUDzD X|UWzI ^bGb
+# ^make trouble for A (VERB) : [(OBJ2 A/WgAg) (OBJ []k<NOUN>]/IzI) B|Z|<VERB>]/Gb
+# ^put a person to trouble (VERB) : DbQWgAg ]kIzI B|Z|Gb
+# ^save a person trouble (VERB) : UsAlIzI GfIGb
+# ^spare A trouble (VERB) : [(OBJ2 A/WgAg) (OBJ []k<NOUN>]/IzI) B|Z|X| WbD^<VERB>]/Gb
+# ^take the trouble to do (VERB) : UsAlIzI WbB|X| WbD^Al ^bGb
+
+"trouble-shooter"
+% HUMAN
+(AlXbWWzI RbIAjD^bWj UsI|^bDzD UbIbQ)
+
+"troublemaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbIVfWBsIfA|)
+
+"troubleshooting"
+(AlXbWWz| UsI|)
+
+"trough"
+% CONCRETE MATERIAL 
+(A|IYsA^bD DbQs\lW)
+
+"troupe"
+% MATERIAL 
+(^bD ]c)
+
+"trouser"
+(RbX|)
+
+"trousering"
+(WdWRlARbX|AbQ)
+
+"trousers"
+% CONCRETE ANIMAL MATERIAL 
+(RbX|)
+
+"trousseau"
+% CONCRETE ANIMAL MATERIAL 
+(^lDUsAbQ)
+
+"trout"
+% CONCRETE ANIMAL MATERIAL 
+(QsX|AcUlWWf)
+
+"troutlet"
+% ANIMAL
+(UlWWf UcB|)
+
+"troutling"
+% ANIMAL
+(UlWWf UcB|)
+
+"trouvaille"
+(^l|WXc)
+
+"trouvere"
+% HUMAN
+(\sIzRgIz)
+
+"trove"
+% MATERIAL 
+(QcXbWQsI)
+
+"trover"
+% ECOLIFE
+(GlWUbDWz| Zs|GzA)
+
+"truancy"
+% MATERIAL 
+(DlWHgWW| X|U)
+
+"truant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AgWzIzQXbWW|)
+# ^play truant (VERB) : ^bAArIzI QsGbDAjIUfA^bGb
+
+"truce"
+% MATERIAL STATE
+(^wXfD)
+
+"truck"
+% CONCRETE MATERIAL 
+(\zIfA)
+# the truck system (NOUN) : QsI]sQ W|QAzQXg
+# ^have no truck with A (VERB) : [(ADJUNCT A/Alb) (SCOMP [AfIc<NOUN>]/Ab) WfRU<VERB>]/Gb
+# pickup truck (NOUN) : ]|AWfR \zIfA
+# ^stand no truck (VERB) : \b^jRWz| UbWGbQWg WzW^bX| WbD^Gb
+
+"truckage"
+(WsDRbD)
+
+"trucker"
+% CONCRETE MATERIAL HUMAN
+(WsDXfDUs)
+
+"trucking"
+% MATERIAL ECOLIFE 
+(ArWjA)
+
+"truckle"
+(Rb[s| GbII|D Z|QGc)
+
+"truckload"
+(^bD \zIfARsDWz| X|Q)
+
+"truckman"
+% HUMAN
+(\zIfA WsDXfDUs)
+
+"truculence"
+% CONCRETE MATERIAL 
+(^wWWbA)
+
+"truculency"
+(^wWWbA)
+
+"trudge"
+% ACTION
+(HsRfAHsRfA AfGA|)
+
+"trudgen"
+(WdWUlD ]bIQc^gWfQ)
+
+"true"
+(X|DU|I)
+# true blue (NOUN) : DbQR|Z
+
+"truelove"
+% HUMAN
+(WcW|D)
+# truelove knot (NOUN) : DbR| QcGzR
+# truelover's knot (NOUN) : DbR| QcGzR
+
+"trueness"
+(ZsWU|I)
+
+"truffle"
+% CONCRETE MATERIAL PLANT FOOD
+(UlWIl RfUfU)
+
+"trug"
+(DbQsIl QbDGzD WsWw DbQR|)
+
+"truism"
+% CONCRETE MATERIAL 
+(XbQjW^bD W|Z|)
+
+"trump"
+% CONCRETE ANIMAL MATERIAL 
+(Db]bI)
+# the last trump (NOUN) : Zl|^s U|Q]bDWz| Db]bI
+# Trump (NOUN) : \zIfQ]z
+
+"trumpery"
+% CONCRETE MATERIAL 
+(^bZbD^WzD QsIAfDGzI)
+
+"trumpet"
+% CONCRETE ANIMAL MATERIAL 
+(\zIfQ]gU)
+# ^blow ONE_S own trumpet (VERB) : Xb^lbXbZbD^bGb
+
+"trumpeter"
+% CONCRETE ANIMAL MATERIAL 
+(\zIfQ]gU WjDXsXb)
+# ^be ONE_S own trumpeter (VERB) : Xb^lbXbZbD^bGb
+
+"truncation"
+% CONCRETE MATERIAL 
+(Bz\WzI XbIzA|)
+
+"truncheon"
+% CONCRETE ANIMAL MATERIAL 
+(AlDRlW)
+
+"trundle"
+% CONCRETE MATERIAL 
+(GbI| Rb[s|)
+
+"trunk"
+% CONCRETE MATERIAL 
+(\zIfW[z)
+# ^live in ONE_S trunks (VERB) : WjXbWWzI ]sIX| QlU^bGb
+# trunk of a tree (NOUN) : DbQs XsIA|
+# trunk road (NOUN) : AbDUfDGlIl
+
+"trunkful"
+(\zIfW[z ^bDb AbGzA)
+
+"trunnion"
+(]lW|)
+
+"truss"
+% CONCRETE ANIMAL MATERIAL 
+(GbRbI)
+
+"trust"
+% MATERIAL MIND
+(Q|GWzQ)
+# contractual type investment trust (NOUN) : AkWdA^jW\sXbU|D\bA
+# ^give in trust (VERB) : U|D\bA^bGb
+# ^leave in trust (VERB) : U|D\bA^bGb
+# ^have trust in a person (VERB) : RlAlbD^bAl W|VGb
+# ^put trust in a person (VERB) : RlAlbD^bAl W|VGb
+# ^repose trust in a person (VERB) : RlAlbD^bAl W|VGb
+# ^have a position of trust (VERB) : ZcAW|QW|VDzD XbI|IzI Qb\WbRlGb
+# ^be in a position of trust (VERB) : ZcAW|QW|VDzD XbI|IzI Qb\WbRlGb
+# in trust (PP->ADV) : RlAlbD^bWj
+# on trust (PP->ADV) : Wl|UbWWzIl
+# upon trust (PP->ADV) : Wl|UbWWzIl
+# ^sell a thing on trust (VERB) : Wl|UbWWzIl ]bIGb
+# ^buy a thing on trust (VERB) : Wl|UbWWzIl UbGb
+# position of turst (NOUN) : U|DIl|RbGDzD X|Ws|
+# treach of trust (NOUN) : RcW|Q
+# trust account (NOUN) : U|D\bAAkXfW
+# trust bank (NOUN) : U|D\bAWzD^cW
+# trust business (NOUN) : U|D\bAWfRQs
+# trust company (NOUN) : U|D\bA^l|Ub
+# trust deed (NOUN) : U|D\bAXzWUf
+# trust department of a bank (NOUN) : WzD^cWWz| U|D\bARs
+# trust estate (NOUN) : U|D\bAXcUbD
+# trust fund (NOUN) : U|D\bAXbAzQ WkUsAzQ
+# trust money (NOUN) : Ws|\bAAzQ
+# trust receipt (NOUN) : ^lbQsIGcGl
+
+"trustbuster"
+(GlAXfQAzQX|RfR)
+
+"trustee"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(]|U|D\bAW|D)
+# the Public Trustee (NOUN) : AlWW|Q Us\bAXb
+# the trustee preocess (NOUN) : AlbDXc UsUlA
+# trustee saving bank (NOUN) : U|D\bAXfZsAWzD^cW
+
+"trusteeship"
+(U|D\bA \lWZ|)
+# Trustee ship Council (NOUN) : U|D\bA\lWZ| W|Ub^l|
+
+"trustiness"
+(ZsWU|I UfWU|I)
+
+"trustworthiness"
+% CONCRETE MATERIAL 
+(U|DIl| ^bI QbD^bQ)
+
+"trusty"
+% HUMAN
+(Q|GWzI QbD^bD UbIbQ)
+
+"truth"
+% CONCRETE MATERIAL 
+(UbU|I)
+# || in truth (PP->ADV) : UbU|IWzD
+
+"truth-value"
+(X|DI|Z|)
+
+"truthfullness"
+(X|DU|IGl|Q)
+
+"try"
+% MATERIAL 
+(U|^fQ)
+# ^have a try at it (VERB) : ^bDRfD ^cRlGb
+# ^have a try for it (VERB) : ^bDRfD ^cRlGb
+# the old college try (NOUN) : UfWU|I^bD DlIjA
+
+"try-on"
+% MATERIAL 
+(^cRlA|)
+
+"tryout"
+% MATERIAL 
+(WkUfD)
+
+"trypsin"
+(\zI|RU|D)
+
+"trysail"
+(\zIbW|UzI)
+
+"tryst"
+% MATERIAL 
+(QbDDbI WdAUlA)
+# ^keep tryst (VERB) : QbDDbI WdAUlAWzI X|[|Gb
+# ^break tryst (VERB) : QbDDbI WdAUlAWzI WfA|Gb
+
+"tsar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^lbWXg)
+
+"tsetse"
+% CONCRETE ANIMAL MATERIAL 
+(ZgZg]bI|)
+# tsetse fly disease (NOUN) : DfAbDfRjW
+
+"tsunami"
+(^cW|I)
+
+"tu-whit"
+(RsWfWRsWfW)
+
+"tu-whoo"
+(RsWfWRsWfW)
+
+"tuan"
+(QbIIgW|UbIbQW| VzDzD AjWZ|W)
+
+"tub"
+% CONCRETE MATERIAL 
+(QsI\lW)
+# ^take a cold tub every morning (VERB) : QcW|I WbZ|Q DcWUsWrAWzI ^bGb
+# ^throw out a tub to the whale (VERB) : DbQWz| DsDWzI UlAW|Gb
+
+"tub-thumping"
+(ZcAUbWWzI Z|Qj WjIRjDWzI \l^bDzD)
+
+"tuba"
+% CONCRETE ANIMAL MATERIAL 
+(\wWsRb)
+
+"tubal"
+(Db]bIAlbD)
+
+"tubbing"
+% ACTION
+(QlAWrA)
+
+"tube"
+% CONCRETE MATERIAL 
+(AlbD)
+# glass tube (NOUN) : WwI|AlbD
+# tin tube (NOUN) : \wWsRz WrWA|
+# tube colors (NOUN) : \wWsRsWg GzD AzI|QQsIAbQ
+# tube colours (NOUN) : \wWsRsWg GzD AzI|QQsIAbQ
+# bronchial tubes (NOUN) : A|AlbDX|
+# optic tube (NOUN) : QbWWsfDAjW
+
+"tube-baby"
+% HUMAN
+(U|^fQAlbDWbA|)
+
+"tuber"
+% CONCRETE MATERIAL 
+(Al|AjW)
+
+"tubercle"
+% CONCRETE MATERIAL 
+(XbAWzD AjIXfI)
+# tubercle bacillus (NOUN) : AjI^cAAwD
+
+"tuberculin"
+(\sRgIz[sII|D XsUbWcA)
+
+"tuberculosis"
+% MATERIAL 
+(AjI^cA)
+# pulmonary tuberculosis (NOUN) : ]kAjI^cA
+
+"tuberose"
+% PLANT
+(WsfI^b^dW)
+
+"tuberosity"
+% CONCRETE MATERIAL 
+(AjIXfIUfW)
+
+"tubing"
+% CONCRETE MATERIAL 
+(AlbDXlX|A)
+
+"tubule"
+(AbDzGbIbD AlbD)
+
+"tuck"
+(^lbIIjA)
+
+"tuck-in"
+(XfRWfDf^DzD GbD)
+
+"tucker"
+% CONCRETE MATERIAL 
+(QlAWg GsIzDzD ZfD)
+# ^earn ONE_S tucker (VERB) : AbDU|D^| QfAAl W|RWzI XfWGlIl RfIGb
+# ^make ONE_S tucker (VERB) : AbDU|D^| QfAAl W|RWzI XfWGlIl RfIGb
+# ONE_S best bib and tucker (NOUN) : DbGzIW|WlU
+
+"tuckin"
+% FOOD
+(X|DUsUfWZbD)
+
+"tuckshop"
+% PLACE
+(AlbXbXfQ)
+
+"tuesday"
+% TIME
+(^lbWrW|I)
+
+"tufa"
+(UfA^l|^lb)
+
+"tuff"
+(WzW^l|WbQ)
+
+"tuft"
+% CONCRETE MATERIAL 
+(UsI)
+
+"tug"
+% CONCRETE MATERIAL ACTION
+(^|QBfU BzIWfGbWA|A|)
+# ^have a great tug to persuade (VERB) : UfIGzA^bDzD Gg WcQfAGb
+# ^give a tug at the bell (VERB) : ZlW|DXlW BzDWzI XbRWb GbWA|Gb
+# tug of war (NOUN) : XsIGbI|A| AjIXfD
+
+"tugboat"
+% CONCRETE ANIMAL MATERIAL 
+(WkW|DUfD)
+
+"tuition"
+% MATERIAL 
+(GzWIlAAzQ)
+# private tuition (NOUN) : AcW|DArUs
+
+"tularemia"
+% MATERIAL 
+(GzI\lB| RjW)
+
+"tulip"
+% PLANT
+(\wWsII|R)
+
+"tulipwood"
+% CONCRETE MATERIAL 
+(\wWsII|RDbQsWz| XcQlA)
+
+"tumble"
+% MATERIAL 
+(ZsIbA)
+# ^be all in a tumble (VERB) : Gs|XsARbAXsAW| Gl|Gb
+# ^give a tumble (VERB) : DfQWfX|Gb
+# ^take a tumble (VERB) : ]fHzA XfWU|DW| GzIGb
+
+"tumblebug"
+% CONCRETE ANIMAL MATERIAL 
+(]sWGgWW|)
+
+"tumbler"
+% CONCRETE ANIMAL MATERIAL 
+([zD [fR)
+
+"tumblerful"
+([zD[fR ^bDb AbGzA)
+
+"tumbleweed"
+% CONCRETE ANIMAL MATERIAL PLANT
+(XbRZl)
+
+"tumbrel"
+% CONCRETE ANIMAL MATERIAL 
+(R|Ir WsDRbDZb)
+
+"tumbril"
+% CONCRETE ANIMAL MATERIAL 
+(R|Ir WsDRbDZb)
+
+"tumefaction"
+(RsUA|)
+
+"tumescence"
+% MATERIAL 
+(RsWfWlIzQ)
+
+"tumidity"
+(RsWfWlIzQ AlbXbW)
+
+"tumor"
+% MATERIAL 
+(XlWWdW)
+# benign tumor (NOUN) : WdWUfW XlWWdW
+# malignant tumor (NOUN) : WbAUfW XlWWdW
+
+"tumour"
+% MATERIAL 
+(XlWWdW)
+# benign tumour (NOUN) : WdWUfW XlWWdW
+# malignant tumour (NOUN) : WbAUfW XlWWdW
+
+"tump"
+% PLACE
+(XbAWzD UbD)
+
+"tumult"
+% MATERIAL 
+(RfRUfA)
+
+"tumultuousness"
+% MATERIAL 
+(HfGzIVfA^bQ)
+
+"tumulus"
+% PLACE
+(WkUQsGfQ)
+
+"tun"
+% CONCRETE ANIMAL MATERIAL 
+([zD UsI\lW)
+
+"tuna"
+% CONCRETE ANIMAL MATERIAL 
+(GbIbWWf)
+
+"tundra"
+% PLACE
+(GlW\lGc)
+
+"tune"
+% CONCRETE MATERIAL 
+(AbAlA)
+# in tune with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) Xl^lbGl|<VERB>]/Wf)
+# in of tune with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) (SCOMP [AlAXl<NOUN>]/Ab) QbX<VERB>]/^bWj)
+# out_of tune with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) (SCOMP [AlAXl<NOUN>]/Ab) \zII|<VERB>]/^bWj)
+# ^turn a tune (VERB) : ^bD AlAXl RsIzGb
+
+"tune-up"
+% MATERIAL 
+(XlXfW)
+
+"tuner"
+% CONCRETE ANIMAL MATERIAL 
+(XlWwIUb)
+
+"tunesmith"
+% HUMAN
+(GcXsWAbWr XbAAlAAb)
+
+"tuneup"
+(Wk^cW WjDUzR)
+
+"tungstate"
+(\fWUz\gD UbDWjQ)
+
+"tungsten"
+% CONCRETE MATERIAL 
+(\fWUz\gD)
+# a tungsten filament (NOUN) : \fWUz\gD UfQXl
+# a tungsten lamp (NOUN) : \fWUz\gD XfDAs
+# tungsten steel (NOUN) : \fWUz\gD AbW
+
+"tungus"
+% HUMAN
+(\sWAsUz UbIbQ)
+
+"tunic"
+% CONCRETE ANIMAL MATERIAL 
+(AbWsDAb\WzD Af\WlU)
+
+"tunicle"
+(WjIRWzD QjWXsWlU)
+
+"tuning"
+% MATERIAL 
+(XlWwI)
+
+"tunnel"
+% CONCRETE MATERIAL PLACE
+(\fDfI)
+# tunnel of love (NOUN) : UbIbWWz| AsIGbI|
+
+"tunny"
+% CONCRETE ANIMAL MATERIAL 
+(GbIbWWf)
+
+"tup"
+(UsWdW)
+
+"tuppence"
+(2 ]gDUz)
+
+"turanian"
+(\wIbD QbI)
+
+"turban"
+% CONCRETE MATERIAL 
+(\fWfRbD)
+
+"turbidity"
+(^zI|D UbW\c)
+
+"turbinal"
+% CONCRETE MATERIAL ANIMAL
+(AbRAcAlI)
+
+"turbinate"
+% CONCRETE MATERIAL ANIMAL
+(AbRAcAlI)
+
+"turbination"
+(AfBsIl Gl|D WsfDZs^jW)
+
+"turbine"
+% CONCRETE ANIMAL MATERIAL 
+(\fWfR|D)
+# an air turbine (NOUN) : AlWA| \fWfR|D
+# an a gas turbine (NOUN) : AbUz \fWfR|D
+# a steam turbine (NOUN) : XzWA| \fWfR|D
+# a water turbine (NOUN) : UsIjA \fWfR|D
+# turbine boat (NOUN) : \fWfR|D A|UfD
+# turbine steamer (NOUN) : \fWfR|D A|UfD
+
+"turbit"
+% ANIMAL
+(X|RR|GsIA|)
+
+"turbocar"
+(\fWfR|D XbGlWZb)
+
+"turbogenerator"
+% CONCRETE ANIMAL MATERIAL 
+(\fWfR|D RbIXfDA|)
+
+"turbot"
+% CONCRETE ANIMAL MATERIAL 
+(AbXbQ|)
+
+"turbotrain"
+(\fRl WjIZb)
+
+"turbulence"
+% MATERIAL 
+(AfZ|IWzQ)
+
+"turbulency"
+(HfGzIUfA^bQ)
+
+"turcoman"
+% HUMAN
+(\sIz[lQbD UbIbQ)
+
+"turcophil"
+% HUMAN
+(\f[|IzI Xl^Wb^bDzD UbIbQ)
+
+"turcophilism"
+% ART
+(Z|D \fWf[|XsWz|)
+
+"turcophobe"
+(\fWf[|IzI U|I^Wf^bA|)
+
+"turd"
+% CONCRETE MATERIAL 
+(HlW)
+
+"tureen"
+([zD AzIzU)
+
+"turf"
+% CONCRETE MATERIAL 
+(XbDG|)
+
+"turfite"
+% HUMAN
+(AjWQbWg XfW\lW^bD UbIbQ)
+
+"turfman"
+% HUMAN
+(AjWQbWg XfW\lW^bD UbIbQ)
+
+"turgescence"
+(RsWfWlIzQ)
+
+"turgidity"
+% CONCRETE MATERIAL 
+(RsWfWlIzQ)
+
+"turgor"
+(]cWWbR)
+
+"turion"
+(W|DWbAb W|VDzD ^zRX|)
+
+"turk"
+% HUMAN
+(\fWf[| UbIbQ)
+# little Turk (NOUN) : AcAsXbWW|
+# young Turk (NOUN) : AcAsXbWW|
+# the Grand Turk (NOUN) : \fWf[| ^lbWXg
+# the Great Turk (NOUN) : \fWf[| ^lbWXg
+# the Young Turk (NOUN) : \fWf[| ZfWDjDGbW
+# ^turn Turk (VERB) : ^l|ArGlAb Gl|Gb
+# ^become Turk (VERB) : ^l|ArGlAb Gl|Gb
+
+"turk's-head"
+(\fWfRbDQlWdWWz| XbWU|AQcGzR)
+
+"turkey"
+% CONCRETE ANIMAL MATERIAL 
+(Z|IQjDXl)
+# ^talk turkey (VERB) : X|DXfWWzIl W|WdA|^bGb
+# turkey trot (NOUN) : VbWVbWW| WsfDQs
+
+"turkish"
+(\fWf[| QbI)
+
+"turkman"
+% HUMAN
+(\sIz[zQgD UbIbQ)
+
+"turkoman"
+% HUMAN
+(\sIz[zQgD UbIbQ)
+
+"turmeric"
+% CONCRETE MATERIAL 
+(U|Q^lbW)
+
+"turmoil"
+% MATERIAL MIND
+(RsIWbD)
+# political turmoil (NOUN) : XfWZ|XfA ^lDIbD
+
+"turn"
+% CONCRETE MATERIAL 
+(^l|XfD)
+# ONE_S turn (NOUN) : [(POSS ONE/Wz|) ZbIk<NOUN>]
+# at every turn (PP->ADV) : AsRW| QbGb
+# by turns (PP->ADV) : RfDAbIWb
+# ^do a person a good turn (VERB) : DbQWgAg Z|DXfIWzI Rg]sIGb
+# ^do a person an ill turn (VERB) : DbQWgAg RsIZ|DXfI^bAg ^bGb
+# ^give a new turn to A (VERB) : [(ADJUNCT A/Wg) (OBJ [(AMODS [UcIlR<ADJ>]/^bD) 
+RjD^lb<NOUN>]/IzI) Xs<VERB>]/Gb
+# ^give a person a turn (VERB) : DbQWzI X|IAfR^bAg ^bGb
+# in ONE_S turn (PP->ADV) : XbA| ZbIkAb Gl|Wf
+# in the turn of a hand (PP->ADV) : UlDRbGbA Gs|X|RGzUW|
+# in turn (PP->ADV) : ZbIkIl 
+# || in turn (PP->ADV) : RbDGcIl
+# ^make a turn to A (VERB) : 
+	* [(ADJUNCT A/Il) GlI<VERB>]/Gb
+	* A (right WlIzDYlA) (left Wl|DYlA)
+# on the turn (PP->ADV) : RbBs|DzD AlR|WgUf
+# out_of ONE_S turn (PP->ADV) : UsDRfDW| Gs|RbBs|Wf
+# out_of turn (PP->ADV) : UsDUf WfRUW|
+# ^take a bad turn (VERB) : WbA^lb^bGb
+# ^take a short turn  (VERB) : AzRUfD^l|^bGb
+# ^take a turn  (VERB) : ^bD Rb\bW XfUGb
+# ^take a turn for the better (VERB) : ZbGlAb W|VGb
+# ^take a turn for the worse (VERB) : WbA^lb^bGb
+# ^take a turn of work (VERB) : ^bDRb\bW W|I^bGb
+# ^take turns with A (VERB) : [(ADJUNCT A/Wlb) ArGcIl ^b<VERB>]/Gb
+# to a turn (PP->ADV) : WbXs WbIQbXAg
+# turn of life (NOUN) : AcWDjDA|
+
+"turn-on"
+% MIND
+(^zWRsD)
+
+"turn-round"
+(A|^bW)
+
+"turnabout"
+% CONCRETE MATERIAL 
+(RbW^dWXfD^lbD)
+
+"turnaround"
+% CONCRETE MATERIAL 
+(RbDXfD)
+
+"turnback"
+% HUMAN
+(]lA|^bDzD UbIbQ)
+
+"turnbuckle"
+(Xl|W|Q DbUb)
+
+"turncap"
+(^l|XfDU|A RsIHlW QbAc)
+
+"turncoat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjDXfIXb)
+
+"turncock"
+(UsGl AzRUsXfD AkWsfD)
+
+"turndown"
+(XfRWf XbX^|D A|U)
+
+"turner"
+% HUMAN
+(XcXs DfQDzD UbIbQ)
+
+"turnery"
+% CONCRETE MATERIAL 
+(UfDRbDAlWXbW)
+
+"turning"
+% CONCRETE MATERIAL 
+(UfD^l|)
+# turning point (NOUN) : XfD^lbDXfQ
+
+"turnip"
+% CONCRETE MATERIAL 
+(UsDQs)
+
+"turnkey"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbQWlAX|A|)
+
+"turnoff"
+(^bA|)
+
+"turnout"
+(X|R^bR)
+
+"turnover"
+% CONCRETE MATERIAL 
+(XfDRlA)
+
+"turnpike"
+% CONCRETE MATERIAL 
+(\lW^cWUg RbGDzD QsD)
+
+"turnscrew"
+(DbUb GlII|Ac)
+
+"turnsole"
+% PLANT
+(^dWW|IUfW U|AQsI)
+
+"turnspit"
+% ANIMAL
+(\fWfDUz]|UXlWWz| Ac)
+
+"turnstile"
+% CONCRETE ANIMAL MATERIAL 
+(^l|XfDU|A QsD)
+
+"turnstone"
+% CONCRETE ANIMAL MATERIAL 
+(AlBbQsIHgUc)
+
+"turntable"
+% CONCRETE MATERIAL 
+(XfDZbGc)
+
+"turnup"
+(XfRWfWlII|D AfU)
+
+"turpentine"
+% CONCRETE MATERIAL 
+(\gIgR|D)
+# turpentine oil (NOUN) : \gIgR|DWw
+# ^talk turpentine (VERB) : AzI|QWzI DlD^bGb
+# the Turpentine State (NOUN) : Xs
+
+"turpeth"
+(WdIIbR)
+
+"turpitude"
+(R|WjI)
+
+"turps"
+(\gIgR|DWw)
+
+"turquoise"
+% CONCRETE MATERIAL 
+(\fWf[|WlA)
+
+"turret"
+% CONCRETE MATERIAL 
+(XbAWzD \bR)
+
+"turtle"
+% CONCRETE ANIMAL MATERIAL 
+(AfRsA)
+
+"turtledove"
+% CONCRETE ANIMAL MATERIAL 
+(UbDR|GsIA|)
+
+"tuscan"
+% HUMAN
+(\fUz[fD| UbIbQ)
+
+"tush"
+% CONCRETE MATERIAL 
+(UlWAlUD|)
+
+"tushery"
+(XfQXbDScD QsDZg)
+
+"tusk"
+% CONCRETE MATERIAL 
+(WfQD|)
+
+"tusker"
+% ANIMAL
+([zD WfQD|Ab W|VDzD GlWQsI)
+
+"tussah"
+% CONCRETE ANIMAL MATERIAL 
+(ZbQDbQsUbDDsWgDbRbW)
+
+"tussle"
+% MATERIAL 
+(GzXbRW|)
+
+"tussock"
+% PLACE
+(]sIUs])
+
+"tussore"
+% CONCRETE ANIMAL MATERIAL 
+(XbAXbQ)
+
+"tut"
+(^jZbA|)
+
+"tutelage"
+% MATERIAL 
+(^sAjD)
+
+"tutelar"
+% HUMAN
+(Us^lXb)
+
+"tutelary"
+% HUMAN
+(Us^lXb)
+
+"tutor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbXfWArUb)
+
+"tutorage"
+% HUMAN
+(AbXfWArUbWz| X|A)
+
+"tutoress"
+% HUMAN
+(AbXfW WjArUb)
+
+"tutorial"
+% MATERIAL 
+(\w\lI|WfI)
+
+"tutoring"
+(UsWfR)
+# private tutoring (NOUN) : AlbWl| UsWfR
+
+"tutorship"
+% HUMAN
+(AbXfWArUbWz| X|Ws|)
+
+"tutti"
+(XfDZg ^bRXs)
+
+"tutti-frutti"
+% CONCRETE MATERIAL FOOD
+(XbIAg XfQ|D AlbW|IWz| UfI\bW XfIW|Q)
+
+"tutty"
+(RsIUsD UbD^lb WbWjD)
+
+"tutu"
+% CONCRETE ANIMAL MATERIAL 
+(RbIIgWrW Z|Qb)
+
+"tux"
+% CONCRETE ANIMAL MATERIAL 
+(\fAU|Gl)
+
+"tuxedo"
+% CONCRETE ANIMAL MATERIAL 
+(\fAU|Gl)
+
+"tuyere"
+(RbIbQAsQfW)
+
+"tv"
+% CONCRETE ANIMAL MATERIAL 
+(\gIIgR|XfD)
+
+"twaddle"
+% CONCRETE MATERIAL 
+(U|IWfRUDzD UlI|)
+
+"twang"
+% MATERIAL 
+(\|W ^bDzD UlI|)
+
+"twankay"
+(GsDAkZb)
+
+"tweaker"
+% HUMAN
+(^bDzD UbIbQ)
+
+"tweed"
+% CONCRETE MATERIAL 
+(\zWs|W|Gz)
+
+"tweedle"
+(\|W\|W)
+
+"tweeny"
+% HUMAN
+(^bDj)
+
+"tweet"
+(YcAYcA)
+
+"tweeter"
+% CONCRETE ANIMAL MATERIAL 
+(\zWs|W|\f)
+
+"tweezer"
+(XlAX|RAg)
+
+"twelfth"
+(Xg 12)
+
+"twelfth-cake"
+(Twelfth-cake)
+
+"twelfth-day"
+% TIME
+(Xs^jDXfI)
+
+"twelfth-night"
+% TIME
+(Xs^jDXfIWz| XfDDbIRbQ)
+
+"twelfth-tide"
+% TIME
+(Xs^jDXfI)
+
+"twelve"
+% CONCRETE MATERIAL 
+(12)
+
+"twelvemo"
+(12 XfI]bD)
+
+"twelvemonth"
+(12 AcWsfI)
+
+"twentieth"
+(Xg 20)
+
+"twenty"
+% CONCRETE MATERIAL 
+(20)
+
+"twentyfourmo"
+(24 XfI]bD)
+
+"twentymo"
+(20 XfI]bD)
+
+"twerp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfIzUWfRUDzD DlQ)
+
+"twi-nighter"
+(XfDjAHcRs\f RbQWg AfIZ|D GfRzI^gGf)
+
+"twibill"
+(WdWDbI AlAAlcWW|)
+
+"twicer"
+% HUMAN
+(GsRfD ^bDzD UbIbQ)
+
+"twiddle"
+(R|\zIWf GlII|A|)
+
+"twig"
+% CONCRETE MATERIAL 
+(XbD AbX|)
+# hop the twig (VERB) : XsAGb
+
+"twilight"
+% MATERIAL 
+(HbWAfQ|)
+# twilight industry (NOUN) : WdAUlA|WfR
+# twilight sleep (NOUN) : RbD QbZs|UbW\c
+# twilight war (NOUN) : RbAQjWXfD
+# the twilight of ONE_S life (NOUN) : W|DUcWWz| ^lbW^lD
+
+"twill"
+% CONCRETE MATERIAL 
+(DzWX|A)
+
+"twin"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(VbWGlWW|)
+
+"twine"
+% CONCRETE MATERIAL 
+(BlD U|I)
+
+"twinflower"
+% PLANT
+(I|DDg]sI)
+
+"twinge"
+([sA[sA VsU|DzD Wb]zQ)
+
+"twinkle"
+% MATERIAL 
+(RbDYbAW|Q)
+# in a twinkle (PP->ADV) : DsD BbQYbA^bI UbW|Wg
+# in the twinkle of an eye (PP->ADV) : DsDBbQXbA^bI UbW|Wg
+
+"twinkling"
+% CONCRETE MATERIAL 
+(RbDYbAW|Q)
+# in a twinkling (PP->ADV) : DsD BbQYbA^bI UbW|Wg
+# in the twinkling of an eye (PP->ADV) : DsD BbQYbA^bI UbW|Wg
+
+"twirl"
+% MATERIAL 
+(^l|XfD)
+
+"twist"
+% CONCRETE MATERIAL 
+(BlD U|I)
+# a twist in ONE_S nature (NOUN) : A|W|^bD RfIzU
+# a twist in ONE_S tongue (NOUN) : RbIWzQWz| RsIQjWIr
+# a twist of the wrist (NOUN) : UlQV|
+# full of turns and swists (ADV) : QlRU| BsRsIBsRsI^bWj
+# ^have a twist (VERB) : U|XbW^bGb
+# the twists and turns (NOUN) : AsIAlA
+
+"twister"
+% CONCRETE MATERIAL HUMAN
+(BlDzD UbIbQ)
+
+"twit"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^|IDbD)
+
+"twitch"
+% MATERIAL 
+(^lcA XbRWbGbWA|A|)
+# at a twitch (PP->ADV) : UsDU|AAbDWg
+
+"twitter"
+(X|XfAs|Q)
+# in a twitter (PP->ADV) : WbDXfIRsXfI QlU^bWj
+
+"two"
+% CONCRETE MATERIAL 
+(GsI)
+
+"two-bagger"
+(2 Is\b)
+
+"two-base hit"
+% MATERIAL 
+(2 Is\b)
+
+"two-by-four"
+% CONCRETE ANIMAL MATERIAL 
+(GsBg 2 W|DZ| ]lA 4 W|DZ|Wz| XcQlA)
+
+"two-stage"
+(2GbD)
+# two-stage sampling (NOUN) : 2GbD ZsZsIRfR
+
+"two-tier"
+(2XsW)
+# two-tier gold price system (NOUN) : AzQWz| 2XsWAbAjAXg
+# two-tier pricing system (NOUN) : 2XsWAbAjARbWU|A
+
+"two-way"
+(UbW^l)
+# two-way communication (NOUN) : UbW^l\lWU|D
+
+"two groups involved"
+(AlbDIjD GsAzIsR)
+
+"two parts"
+(WdWZzA)
+
+"two-seater"
+% CONCRETE ANIMAL MATERIAL 
+(2 W|DUzW)
+
+"two sides"
+(WdWYlA)
+
+"two-spot"
+% HUMAN
+(^bZbD^WzD UbIbQ)
+
+"two-step"
+% MATERIAL 
+(\sWs Uz\gR)
+
+"two-timer"
+% HUMAN
+(RcRbDXb)
+
+"two-wheeler"
+% CONCRETE ANIMAL MATERIAL 
+(2 IwD QbZb)
+
+"twodecker"
+(W|ZzW RfUz)
+
+"twofer"
+(VbAsIj UbW]sQ)
+
+"twoness"
+(GsI W|Q)
+
+"twopence"
+(2 ]gDUz)
+# ^do not care twopence (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+
+"twopenny"
+(2 ]gDUz GlWXfD)
+
+"twosome"
+% CONCRETE MATERIAL 
+(2 W|DXl)
+
+"tycoon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcAsD)
+
+"tycoonate"
+(AfQsIWz| X|AWs|)
+
+"tyke"
+% ANIMAL
+(GzIAc)
+# a Yorkshire tyke (NOUN) : WrWl[zUj UbIbQ
+
+"tylosis"
+(RjDX|XzW)
+
+"tympan"
+% CONCRETE ANIMAL MATERIAL 
+(]cW]cW^bD WjIRWzD QbA)
+
+"tympani"
+% CONCRETE ANIMAL MATERIAL 
+(\|Q]bD|)
+
+"tympanitis"
+(XsWW|WjQ)
+
+"tympanum"
+% CONCRETE ANIMAL MATERIAL 
+(XsWW|)
+
+"type"
+% CONCRETE MATERIAL 
+(^jW\c)
+# a type of A (NOUN) : [(POSS [^jW\c<NOUN>]/Wz|) A]
+# in type (PP->ADV) : ^lbIXbIl YbWjXj
+# metal type (NOUN) : AzQUlA ^lbIXb
+# movable type (NOUN) : AzQUlA ^lbIXb
+# ^set type (VERB) : Xl]bD^bGb
+# this type of A (NOUN) : [(POSS [W| Ww^jW<NOUN>]/Wz|) A]
+# type theory (NOUN) : Ww^jWW|IlD
+# vertebrate type (NOUN) : ZfAZs GlWQsI^jW
+# wooden type (NOUN) : QlA]bD
+
+"typeface"
+% CONCRETE MATERIAL 
+(^lbIXbZg)
+
+"typescript"
+(\bW|]zIbW|\fIl Y|AWzD WsfDAl)
+
+"typesetter"
+% HUMAN
+(U|AXb AlW)
+
+"typesetting"
+(U|AXb)
+
+"typewriter"
+% CONCRETE ANIMAL MATERIAL 
+(\bXbA|)
+# portable typewriter (NOUN) : ^wGcWrW \bXbA|
+
+"typewriting"
+% CONCRETE MATERIAL 
+(\bW|]zIbW|\f A|UsI)
+
+"typhlitis"
+(QcWXbWWjQ)
+
+"typhoid"
+% MATERIAL 
+(XbW\|]sUz)
+
+"typhoon"
+% MATERIAL 
+(\c]sW)
+
+"typhus"
+% MATERIAL 
+(RbIX|D\|]sUz)
+# malignant typhus (NOUN) : WbAUfW RbIX|D\|]sUz
+# simple typhus (NOUN) : AbRjWsD RbIX|D\|]sUz
+
+"typification"
+% MATERIAL 
+(Gc]r)
+
+"typing"
+% CONCRETE MATERIAL 
+(\bW|]|W)
+
+"typist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\bXbUs)
+
+"typo"
+% MATERIAL HUMAN
+(W|DUlcAlW)
+
+"typographer"
+% HUMAN
+(^lbI]bD A|UsIXb)
+
+"typography"
+% MATERIAL 
+(^lbI]bD W|DUlcUsI)
+
+"typology"
+% ART
+(Ww^jW^bA)
+
+"tyrannicide"
+% MATERIAL ACTION
+(]lAAsD UbI^c)
+
+"tyranny"
+% MATERIAL 
+(]lAXfW)
+
+"tyrant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]lAAsD)
+
+"tyre"
+% CONCRETE MATERIAL 
+(\s|IsUz)
+
+"tyrian"
+% HUMAN
+(\s|IsUz UbIbQ)
+
+"tyro"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZlU|QXb)
+
+"tyrolean"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(\|IlI UbIbQ)
+
+"tyrolese"
+% HUMAN
+(\|IlI UbIbQ)
+
+"tzar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(YbIz)
+
+"tzigane"
+% HUMAN
+(^bWAbI|Ak X|RU|)
+
+"tzigany"
+% HUMAN
+(^bWAbI|Ak X|RU|)
+
+"tzimmes"
+(Z|QgUz)

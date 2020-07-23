@@ -1,0 +1,1967 @@
+"U.S."
+% MATERIAL PLACE ORGAN
+(Q|AsA)
+# central U.S. (NOUN) : Q|AsAXsWRs
+# northern U.S. (NOUN) : Q|AsARsARs
+# southern U.S. (NOUN) : Q|AsADbQRs
+# U.S. ambassador (NOUN) : Q|AsAGcUb
+# U.S. government (NOUN) : Q|AsA XfWRs
+# U.S. magistrate (NOUN) : RlXl RfRAlbD
+# U.S. marshal (NOUN) : XfWI|
+# U.S. and global (ADJ) : Q|AsAAlb XfDUgAkWz|
+# U.S. central bank (NOUN) : Q|AsA XsWWbW WzD^cW
+
+"U.S. Army"
+(Q| WwAAsD)
+
+"U.S. Attorney"
+% HUMAN
+(Q|AsA WjDRbW AfQUb)
+
+"U.S. Attorney's Office"
+% ORGAN
+(Q|AsA WjDRbW X|RbW AfQZbIZfW)
+
+"U.S. Central Command"
+% ORGAN
+(Q|AsA XsWWbWRlDRs)
+
+"U.S. Circuit Court"
+% ORGAN
+(Q|AsA UsD^l| RfRWsfD)
+# U.S. Circuit Court of Appeals (NOUN) : Q| ^bWUl UsD^l| RfRWsfD
+
+"U.S. Claims Court"
+% ORGAN
+(Q|AsA WjDRbW ZfWAs RfRWsfD)
+
+"U.S. Court"
+% ORGAN
+(WjDRbW RfRWsfD)
+# U.S. Court of Appeals (NOUN) : Q|AsA WjDRbW AlGzW RfRWsfD
+# U.S. Court of International Trade (NOUN) : Q|AsA WjDRbW AsAXg QsWjA RfRWsfD
+# U.S. Court of Military Appeals (NOUN) : Q|AsA WjDRbW AlGzW AsDRfR ^l|Wz|
+
+"U.S. District Court"
+% PLACE
+(Q| X|RbWRfRWsfD)
+
+"U.S. District Judge"
+% HUMAN
+(Q| X|RbWRfRWsfD ]bDUb)
+
+"U.S. forces"
+(Q|AsD)
+
+"U.S. Intelligence"
+(Q|AsA XfWRlA|AlbD)
+
+"U.S. Justice Department"
+% ORGAN
+(Q| RfRQsRs)
+
+"U.S. LOCAL"
+(Q|AsA X|WjA)
+
+"U.S. Navy"
+(Q|^cAsD)
+
+"U.S. Open"
+(XfDQ| Wl]zD)
+
+"U.S. Open Tennis Championships"
+(XfDQ| Wl]zD)
+
+"U.S. recycling programs"
+(XfDQ| Xc^lbIWrW ]zIlAzIcQ)
+
+"U.S. Special Forces"
+(Q|AsA \zAUsAsD)
+
+"U.S.side"
+(Q|AsAYlA)
+
+"U.S. Tex Court"
+% ORGAN
+(Q|AsA WjDRbW XlUg RfRWsfD)
+
+"U.S. Trade Representative"
+% HUMAN
+(Q|AsA \lWUbW Gc]r)
+
+"U.S.A"
+% PLACE ORGAN
+(Q|AsA)
+
+"U.S.A."
+% PLACE ORGAN
+(Q|AsA)
+
+"U.S.A.E.C."
+% ORGAN
+(Q|AsA WsfDXbIjA Ws|WsfD^l|)
+
+"U.S.A.F."
+% ORGAN
+(Q|AsA AlWAsD)
+
+"U.S.C. Supp"
+% ORGAN
+(^bRXsWAsA RfRXfD RlWw)
+
+"U.S.P."
+% ORGAN
+(Q|AsA WdAXfD)
+
+"UFO"
+% MATERIAL 
+(Q|^lbAW|D R|^cW QsIZg)
+
+"UK"
+% PLACE ORGAN
+(WjWAsA)
+
+"UN"
+% ORGAN
+(AsAXgWjD^bR)
+
+# UN Temporary Commission (NOUN) : UN W|QU| Ws|WsfD^l|
+# UN Temporary Commission of Korea (NOUN) : UN Gc^bD Q|DAsA W|QU| Ws|WsfD^l|
+
+"US"
+% MATERIAL PLACE ORGAN
+(Q|AsA)
+
+"US Airways"
+(WwWgUz WgWfWsgW|)
+
+"USA"
+% MATERIAL PLACE ORGAN
+(Q|AsA)
+# USA pass (NOUN) : WwWgUzWgW| ]cUz
+
+"USA TODAY"
+(WwWgUzWgW| \sGgW|)
+
+"USA Today"
+(WwWgUzWgW| \sGgW|)
+
+"USAFE"
+% ORGAN
+(WwIfR XsGsD Q|AsA AlWAsD)
+
+"USAID-K"
+% ORGAN
+(Xs^bD Q|AsA AsAXg AcRbIZf)
+
+"USANG"
+% ORGAN
+(Q|AsA XsAlWAsD)
+
+"USAREUR"
+% ORGAN
+(WwIfR XsGsD Q|AsA WwAAsD)
+
+"USASI"
+% ORGAN
+(Q|AsA ]rXsD ^jR^l|)
+
+"USB"
+(UbWZzA]bGc)
+
+"USBAI"
+% ORGAN
+(Q|AsA AsAXg AsfD\s ^jR^l|)
+
+"USCAB"
+% ORGAN
+(Q|AsA Q|DAbD ^bWAlW Ws|WsfD^l|)
+
+"USES"
+% ORGAN
+(XfDQ| AlWrWAsA)
+
+"USIA"
+% ORGAN
+(Q|AsA XfWRlZfW)
+
+"USMCR"
+% ORGAN
+(Q|AsA ^cRjWGc WkR| RsGc)
+
+"USOM"
+% ORGAN
+(Q|AsA GcWl| WsfDXl A|AlbD)
+
+"USPA"
+% ORGAN
+(Q|AsA ]lIIl ^jR^l|)
+
+"USPS"
+% ORGAN
+(Q|AsA WsXfW AlWUb)
+
+"USTS"
+% ORGAN
+(Q|^bRXsWAsA AlbDAlbWAsA)
+
+"USTTA"
+% ORGAN
+(Q|AsA UbWQsUfW AlbDAlbWAsA)
+
+"Unification Ministry"
+% ORGAN
+(\lWW|IWsfD)
+
+"United Arab Emirates"
+% ORGAN PLACE
+(WbIbR WgQ|IgW|\z WjDRbW)
+
+"United Arab Republic"
+% ORGAN PLACE
+(WbIbR WjDRbW AlW^lbAsA)
+
+"United Arab States"
+% ORGAN PLACE
+(WbIbR XgAsA WjD^bR)
+
+"United Auto Workers"
+% ORGAN
+(XfDQ| XbGlWZb DlGlW Xl^bR)
+
+"United Brthren"
+% ORGAN
+(GlW]l Ar^l|)
+
+"United Church"
+% ORGAN
+(\lWW|I Ar^l|)
+# United Church of Christ (NOUN) : \lWW|I AzI|UzGl Ar^l|
+
+"United Kingdom"
+% PLACE ORGAN
+(WjWAsA)
+
+"United Methodist Church"
+% ORGAN
+(\lWW|I QgUlG|Uz\z Ar^l|)
+
+"United Nations"
+% ORGAN
+(WwWgD)
+
+"United Nations Childrens' Fund"
+% ORGAN
+(WwD|Ug]z)
+
+"United Nations Conference"
+% ORGAN
+(WwWgD ^l|Wz|)
+# United Nations Conference on the Human Environment (NOUN) : WwWgD W|DAbD ^lbDAjW ^l|Wz|
+
+"United Nations Day"
+% TIME
+(AsAXg WjD^bRW|I)
+
+"United Nations Law"
+(WwWgDRfR)
+# United Nations Law of the Sea Conference (NOUN) : WwWgD ^cWdWRfR ^l|Wz|
+
+"United Presbyterian"
+% HUMAN
+(RsAQ| ^bRGlW XbWIlAr ^l|WsfD)
+
+"United Presbyterian Church"
+% ORGAN
+(RsAQ| ^bRGlW XbWIlAr^l|)
+# United Presbyterian Church in the United States of America (NOUN) : Q|AsA WjD^bR XbWIl Ar^l|
+
+"United Press International"
+% ORGAN
+(Ww ]| WbW|)
+
+"United Provinces"
+% PLACE
+(WjD^bRXs)
+# United Provinces of Agra and Oudh (NOUN) : WbAzIbWbWsGz WjD^bRXs
+
+"United State"
+% MATERIAL PLACE ORGAN
+(Q|AsA)
+
+"United States"
+% MATERIAL PLACE ORGAN
+(Q|AsA)
+# United States of Brazil (NOUN) : RzIbX|I WjDRbW AlW^lbAsA
+# United States of Indonesia (NOUN) : W|DGlDgU|Wb WjDRbW AlW^lbAsA
+# the United States of America (NOUN) : Q|^bRXsWAsA 
+
+"United States Air Forces"
+% ORGAN
+(Q|AsA AlWAsD)
+
+"United States Army"
+% ORGAN
+(Q|AsA WwAAsD)
+
+"United States Catholic Conference"
+% ORGAN
+(Q|AsA [b\lII|A ^l|Wz|)
+
+"United States Code"
+(Q|AsA WjDRbW RfRXfD)
+
+"United States Employment Service"
+% ORGAN
+(DlGlWUfW AlWrWAsA)
+
+"United States Information Agency"
+% ORGAN
+(Q|AsA QsD^lb XfWRlAsA)
+
+"United States Jaycees"
+% ORGAN
+(Q|AsA ZfWDjD UbWAlW ^l|Wz|Ul)
+
+"United States Marine Corps"
+% ORGAN
+(Q|AsA ^cRjWGc)
+
+"United States Naval Academy"
+% ORGAN
+(Q|AsA ^cAsD UbAlbD^bAAr)
+
+"United States Navy"
+% ORGAN
+(Q|AsA ^cAsD)
+
+"United States Supreme Court"
+(Q|AsA WjDRbW GcRfRWsfD)
+
+"United Way"
+(WwDbW|\|Gz WsgW|)
+
+"University"
+% PLACE ORGAN
+(Gc^bA)
+# ^University of A {+PRNOUN} (NOUN) : [(NMODS A) Gc^bA<NOUN>]
+# ^University of Maryland (NOUN) : QgI|IIcDGz Gc^bA
+# ^University of Washington (NOUN) : WsfU|W\fD Gc^bA
+
+"Uzbekistan"
+% PLACE ORGAN
+(WsXzRg[|Uz\bD)
+
+"u"
+(u)
+
+"u-bomb"
+(WsIbDwQ ]lA\bD)
+
+"ubiety"
+% MATERIAL 
+(UlXc)
+
+"ubiquitarian"
+% HUMAN
+(AzI|UzGl ]jDXcIlDWz| UbIbQ)
+
+"ubiquitousism"
+% ART
+(AzI|UzGl ]jDXcIlD)
+
+"ubiquity"
+% MATERIAL 
+(]jDXc)
+
+"udder"
+% CONCRETE MATERIAL ANIMAL
+(XfX\lW)
+
+"udometer"
+(WsIdWAk)
+
+"ufology"
+% ART
+(Q|^lbAW|D R|^cW QsIZg ZsXfA WjDAs)
+
+"ugandan"
+% HUMAN
+(WsAbDGb UbIbQ)
+
+"ugliness"
+% CONCRETE MATERIAL MIND
+(Zs^bQ)
+
+"ugly"
+(Zs^bD AfU)
+
+"uhlan"
+% HUMAN
+(ZbWA|RjW)
+
+"uighur"
+% HUMAN
+(Ws|W|AsIzXlA)
+
+"uigur"
+% HUMAN
+(Ws|W|AsIzXlA)
+
+"uitlander"
+% HUMAN
+(Wl|AsAW|D)
+
+"ukase"
+% CONCRETE MATERIAL 
+(Z|AIjW)
+
+"ukrainian"
+% HUMAN
+(Ws[zIbW|Db UbIbQ)
+
+"ukulele"
+% CONCRETE ANIMAL MATERIAL 
+(Ws[zIIgIIg)
+
+"ulcer"
+% MATERIAL 
+(AsgWdW)
+
+"ulceration"
+% MATERIAL 
+(AsgWdW)
+
+"ullage"
+(RsXlAIdW)
+
+"ulmin"
+(WsIQ|D)
+
+"ulna"
+% CONCRETE MATERIAL 
+(ZfAAlI)
+
+"ulster"
+% PLACE
+(RsAWbW|IIbDGz)
+
+"ultima"
+(QbX|QbA WzQXfI)
+
+"ultimate"
+(Zl|^sXfQ)
+
+"ultimatum"
+% CONCRETE MATERIAL 
+(Zl|^s \lWZfR)
+
+"ultimogeniture"
+(QbIXb UbWUlA XgGl)
+
+"ultra"
+% HUMAN
+(AzAGbDIlDXb)
+
+"ultraconservative"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AzAGbDXfAWzIl RlUsXfAW|D UbIbQ)
+
+"ultrafax"
+(AlUlAGl QlUb XfDUlW RbWU|A)
+
+"ultrafilter"
+(^bDWl| WjAlbQbA)
+
+"ultraism"
+% ART
+(AzAGbDIlD)
+
+"ultraist"
+% HUMAN
+(AzAGbD IlDXb)
+
+"ultraleft"
+% ART ORGAN
+(AzAXlb]b)
+
+"ultraleftist"
+% HUMAN
+(AzAXlb]b)
+
+"ultramarine"
+(AsDZfW)
+
+"ultramicroscope"
+% CONCRETE ANIMAL MATERIAL 
+(Zl ^jDQ|AjW)
+
+"ultramontane"
+% HUMAN
+(WbI]zUz DbQYlA UbIbQ)
+
+"ultramontanism"
+% ART
+(Ar^lbW X|UbWXsWz|)
+
+"ultramontanismist"
+% HUMAN
+(Ar^lbW X|UbWXsWz| W|UbWXsWz|Xb)
+
+"ultranationalism"
+% MATERIAL ART
+(AsAUsXsWz|)
+
+"ultrarightist"
+% HUMAN
+(AzAWs]b)
+
+"ultrasonics"
+% ART
+(ZlWzQ]b^bA)
+
+"ultrasound"
+(ZlWzQ]b)
+
+"ultravirus"
+(ZlWjAlbUfW RjWWsfDZg)
+
+"ululation"
+% CONCRETE MATERIAL 
+(X|XDzD UlI|)
+
+"ulysses"
+(WwII|U|Xz)
+
+"umbel"
+(UbD^jW^lbUf)
+
+"umber"
+% CONCRETE MATERIAL 
+(WfQRf)
+
+"umbilical"
+(\cUXsI)
+
+"umbilicus"
+% MATERIAL 
+(RcBlR)
+
+"umbo"
+% MATERIAL 
+(RbW]c XsWWbWWz| XbWU|A GlIA|)
+
+"umbra"
+(AzI|QXb)
+
+"umbrage"
+% MATERIAL 
+(RsDAc)
+
+"umbrella"
+% CONCRETE ANIMAL MATERIAL 
+(WsUbD)
+# unclear umbrella  (NOUN) : ^cAWsUbD
+# ^get under ONE_S umbrella (VERB) : [(OBJ [(POSS ONE/Wz|) WsUbD<NOUN>]/WzI) Vz<VERB>]/Gb
+
+"umbrian"
+% HUMAN
+(WsQRzI|Wb UbIbQ)
+
+"umiak"
+(WgUz[|QlWz| Rg)
+
+"umlaut"
+(WsQzIIbWs\z)
+
+"ump"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]bDXfWXb)
+
+"umpirage"
+% CONCRETE MATERIAL HUMAN
+(XsWXcW|DWz| X|Ws|)
+
+"umpire"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|Q]bD)
+
+"umpireship"
+% HUMAN
+(]bDXfWXbWz| X|A)
+
+"una"
+(XbAWzD Wr\z)
+
+"unabridged"
+(GcUbXfD)
+
+"unamericanism"
+% ACTION
+(RbDQ| ^lbIGlW)
+
+"unamericanization"
+(R|Q|AsA^lb)
+
+"unanimity"
+% MATERIAL 
+(QbDXbW W|IZ|)
+
+"unbalance"
+(RsIAwD^jW)
+
+"unbelief"
+% MATERIAL MIND
+(RsIU|D)
+
+"unbeliever"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|GX| WbD^DzD UbIbQ)
+
+"unbending"
+(QlQWzI ]jD^bAg ^bA|)
+
+"uncertainty"
+% CONCRETE MATERIAL 
+(RsI^lbAU|I)
+
+"unchastity"
+(RsXfW)
+
+"unchurched"
+% HUMAN
+(Ar^l|Wg GbD|X| WbD^DzD UbIbQGzI)
+
+"uncial"
+(WfDUfI XbZg)
+
+"unciform"
+% ANIMAL
+(AsUbWAlI)
+
+"uncircumcision"
+(^bIIkIzI RbGX| WbD^WzQ)
+# the uncircumcision  (NOUN) : W|RbWW|D
+
+"uncle"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbXfV|)
+
+"unco"
+(DwWsUz)
+
+"unconcern"
+% CONCRETE MATERIAL 
+(QsAlbDU|Q)
+
+"unconfornity"
+(RsIW|IZ|)
+
+"unconscious"
+% STATE
+(QsWz|U|A)
+
+"unconsciousness"
+% MATERIAL STATE
+(QsWz|U|A)
+
+"unconstitutionality"
+(^fDRfRWs|RbD)
+
+"unconstraint"
+% CONCRETE MATERIAL 
+(XbWw)
+
+"unconventionality"
+% CONCRETE MATERIAL 
+(R|W|DUzRXfAW|Q)
+
+"uncountable"
+(RsIAkUsQjWUb)
+
+"uncourtliness"
+(WdR|)
+
+"unction"
+% CONCRETE MATERIAL 
+(XsWw)
+
+"unctousness"
+(A|IzQ Ab\WzQ)
+
+"under"
+(WfDGf)
+
+"underachiever"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|DzW X|Us W|^bWz| XfQUsIzI WfGDzD UbIbQ)
+
+"underage"
+(RsXlAIdW)
+
+"underbelly"
+% ANIMAL
+(^bRlARs)
+
+"underbodice"
+% CONCRETE ANIMAL MATERIAL 
+(UlAXfAUbQ)
+
+"underbrush"
+% CONCRETE MATERIAL PLANT
+(AlbDQlA)
+
+"underbush"
+% PLANT
+(AlbDQlA)
+
+"undercarriage"
+% CONCRETE ANIMAL MATERIAL 
+(^bRs AsXl)
+
+"undercharge"
+(U|IXgW|^bWz| ZfWAs)
+
+"underclass"
+% ORGAN
+(^bZzW AkAzR)
+
+"underclassman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bAzRUcW)
+
+"underclay"
+(^bRbDXfQ\l)
+
+"underclerk"
+% HUMAN
+(UfA|Rl)
+
+"undercliff"
+(RsWc)
+
+
+"underconsumption"
+(Zl|UlUlR|)
+# underconsumption theory (NOUN) : Zl|UlUlR|UfI
+
+"underclothes"
+% CONCRETE ANIMAL MATERIAL 
+(UlAWlU)
+
+"undercolthing"
+(UlAWl|\s)
+
+"undercroft"
+% PLACE
+(ZfDXfWW| GsWAzD X|^bU|I)
+
+"undercrossing"
+(X|^bGl)
+
+"undercurrent"
+% MATERIAL 
+(^bZzWIw)
+
+"underdevelopment"
+(^jDUbW RsXlA)
+
+"underdog"
+(WjIUg)
+
+"underdrain"
+(WbQAf)
+
+"underdrainage"
+(WbQAl RcUs)
+
+"underdrawers"
+(UlARbX|)
+
+"underdress"
+(UlAWlU)
+
+"underemployment"
+% ECOLIFE
+(RsIWlbDXfD AlWrW)
+# underemployment equilibrium (NOUN) : RsIWlbDXfDAlWrWAwD^jW
+# underemployment of expansion (NOUN) : RbIXfDA|Wz| XfAlWrW
+# underemployment rate of growth (NOUN) : RsIWlbDXfDAlWrW UfWXbWIwI
+
+"underestimate"
+(AlbUl ]jWAb)
+
+"underestimation"
+(AlbUl ]jWAb)
+
+"underexposure"
+(DlZsI RsXlA)
+
+"undergarmint"
+(UlAWlU)
+
+"undergrad"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Gc^bAUcW)
+
+"undergraduate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Gc^bA Xc^bAUcW)
+
+"undergraduateship"
+% HUMAN
+(Gc^bAUcWWz| U|DRsD)
+
+"undergraduette"
+% HUMAN
+(WjXb Gc^bAUcW)
+
+"underground"
+% CONCRETE MATERIAL 
+(X|^b)
+
+"undergrounder"
+% HUMAN
+(HbWUlAWgUf W|I^bDzD UbIbQ)
+
+"undergrown"
+% PLANT
+(XbDDbQs)
+
+"underlay"
+(Q|\RbGZ|Q)
+
+"underlease"
+(XfDGcZb)
+
+"underline"
+% CONCRETE MATERIAL 
+(Q|\XsI)
+
+"underlinen"
+(UlAWlU)
+
+"underling"
+% HUMAN
+(^bAzRX|AWsfD)
+
+"underlip"
+% ANIMAL
+(WbIcUW|RUsI)
+
+"undermeaning"
+(UsQWzD HzU)
+
+"underneath"
+(^bRs)
+
+"undernourishment"
+% MATERIAL 
+(WjWWdW RsXlA)
+
+"undernutrition"
+(WjWWdW RsXlA)
+
+"underpants"
+% CONCRETE ANIMAL MATERIAL 
+(UlARbX|)
+
+"underpass"
+% CONCRETE MATERIAL PLACE
+(X|^bGl)
+
+"underpayment"
+(Q|X|AzR)
+
+"underperformace"
+(WdA^bD U|IXfA)
+
+"underpinning"
+(RbGZ|Q)
+
+"underplay"
+(WzDQ|I^bD ^cWGlW)
+
+"underplot"
+(Aj\XsIAfI|)
+
+"underpopulation"
+(W|DAsRsXlA)
+
+"underproduction"
+(UcWUbD RsXlA)
+
+"underscore"
+% CONCRETE MATERIAL 
+(Q|\XsI)
+
+"undersecretary"
+% HUMAN
+(XfWQs ZbAlbD)
+
+"undersecretaryship"
+% HUMAN
+(ZbAlbDWz| X|A)
+
+"underseller"
+% HUMAN
+(VbD AbRUWg ]bDzD UbIbQ)
+
+"underselling"
+(RsGbWWjQAbQcZsI)
+
+"underservant"
+% HUMAN
+(XbDU|QRsIzQAsD)
+
+"underset"
+(^bZzWIw)
+
+"undersheriff"
+% HUMAN
+(XsXbWAlbD GcI|)
+
+"undershirt"
+% CONCRETE ANIMAL MATERIAL 
+(UlAWlU)
+
+"underside"
+% MATERIAL 
+(WbIcYlA)
+
+"underskirt"
+% CONCRETE ANIMAL MATERIAL 
+(UlAZ|Qb)
+
+"undersleeve"
+(WbDUlQc)
+
+"undersoil"
+(^bZzW\l)
+
+"undersong"
+(^sIjQ)
+
+"understanding"
+% CONCRETE MATERIAL 
+(W|^c)
+# ^come to understanding about  A with B (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/Wf) (ADJUNCT B/Wlb) (SCOMP [Wz|Ub<NOUN>]/Ab) \lW^b<VERB>]/Gb
+# ^have an understanding of A (VERB) : [(OBJ A/IzI) W|^c^b<VERB>]/Gb
+# ^have an deep understanding of A (VERB) : [(OBJ A/IzI) (MODS [A|]Ag<ADV>]) 
+W|^c^b<VERB>]/Gb
+
+"understatement"
+% ACTION
+(UbQAbUf QbI^bA|)
+
+"understrapper"
+% HUMAN
+(^bAzRX|AWsfD)
+
+"understratum"
+(^bZzW)
+
+"understructure"
+(^bRsAsXl)
+
+"understudy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|QU| GcWjARcWs)
+
+"undersupply"
+(AlQAzR RsXlA)
+
+"undersurface"
+(W|IcYlAQjD)
+
+"undertaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(HfQb\DzD UbIbQ)
+
+"undertaking"
+% MATERIAL 
+(UbWfR)
+
+"underthings"
+(WjXbWrW UlAWlU)
+
+"undertime"
+% TIME
+(AwXfW W|^bWz| DlGlW U|AbD)
+
+"undertone"
+(XfWzQ)
+
+"undertow"
+% MATERIAL 
+(^cWbDWgUf Gl|QsIIfAbDzD QsIAjI)
+
+"undervaluation"
+(AlbUl ]jWAb)
+
+"undervest"
+(UlQcWfRUDzD UlAUdVz)
+
+"underwaist"
+(UlAXfAUbQ)
+
+"underwater"
+(UsQjD Q|\)
+
+"underwear"
+% CONCRETE ANIMAL MATERIAL 
+(DcWz|)
+
+"underweight"
+(XsWIdWRsXlA)
+
+"underwood"
+% PLANT
+(XbDDbQs)
+
+"underwork"
+(^fGzIgU W|I)
+
+"underworld"
+% MATERIAL 
+(XfUzW)
+
+"underworldling"
+% ACTION
+(DbIAbWGl)
+
+"underwriter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Rl^fQWfRXb)
+
+"underwriting"
+(W|DUs)
+# underwriting commission (NOUN) : W|DUsIr
+# underwriting syndicate (NOUN) : W|DUsGbD
+
+"undies"
+% CONCRETE ANIMAL MATERIAL 
+(UlAWlU)
+
+"undine"
+% HUMAN
+(QsIWz| WrXfW)
+
+"undoer"
+% HUMAN
+(Zs|Ul^bDzD UbIbQ)
+
+"undoing"
+% MATERIAL 
+(WsfDUbW RlAAs)
+
+"undress"
+% MATERIAL 
+(]jWRlA)
+
+"undulation"
+% MATERIAL 
+(]bGlW)
+
+"unease"
+(RsI]jD^bQ)
+
+"uneasiness"
+% MATERIAL 
+(RsIWbD)
+
+"unemployment"
+(U|IWfR)
+# chronic unemployment (NOUN) : QbDUfWXfA U|IWfR
+# cyclical unemployment (NOUN) : UsD^lbDXfA U|IWfR
+# frictional unemployment (NOUN) : QbZbIXfA U|IWfR
+# seasonal unemployment (NOUN) : AkXfIXfA U|IWfR
+# unemployment benefit (NOUN) : U|IWfRAzQWj
+# unemployment compensation (NOUN) : U|IWfRUsGbW
+# unemployment insurance (NOUN) : U|IWfRRl^fQ
+# unemployment rate (NOUN) : U|IWfRWwI
+
+"unfairness"
+% MATERIAL 
+(AlWXfW^bX| QlU^bQ)
+
+"unfamiliarity"
+(UcWUl)
+
+"unfit"
+% HUMAN
+(RsXfAW|QXb)
+
+"unforeseen"
+(WkZzA^bA| WfIjWsD W|I)
+
+"unfortunate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsI^cW^bD UbIbQ)
+
+"ungainliness"
+% CONCRETE MATERIAL 
+(RlI]sQ WfRUWzQ)
+
+"ungentlemanliness"
+(U|DUbGbRX| QlU^bQ)
+
+"ungodliness"
+% CONCRETE MATERIAL 
+(U|DWbWU|QW| WfRUWzQ)
+
+"ungracefulness"
+% CONCRETE MATERIAL 
+(WsWb^bX| WbD^WzQ)
+
+"unguent"
+% CONCRETE MATERIAL 
+(WjDAl)
+
+"ungula"
+(RbIAsR)
+
+"ungulate"
+% CONCRETE ANIMAL MATERIAL 
+(WwXg GlWQsI)
+
+"unhappiness"
+% MATERIAL MIND
+(RsI^cW)
+
+"unhealthiness"
+% MATERIAL 
+(RsIAfDAbW)
+
+"uniat"
+% HUMAN
+(GlWRbWAb\lII|AArGl)
+
+"uniatate"
+% HUMAN
+(GlWRbWAb\lII|AArGl)
+
+"unicorn"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|IAbAUs)
+
+"unicycle"
+(Wl|Rb[s| XbXfDAf)
+
+"unification"
+% CONCRETE MATERIAL 
+(\lWW|I)
+
+# South-North Korea unification (NOUN) : DbQRsA^bD \lWW|I
+# unification question (NOUN) : \lWW|I QsDXg
+
+"unifier"
+% HUMAN
+(\lWW|I^bDzD UbIbQ)
+
+"uniform"
+% CONCRETE ANIMAL MATERIAL 
+(XgRlA)
+#' in uniform (PP->ADV) : WwD|]lQWzI W|RAl
+#' out_of uniform (PP->ADV) : ]jWRlAWzIl
+
+"uniformitarian"
+% HUMAN
+(AwDW|IIlDXb)
+
+"uniformity"
+% CONCRETE MATERIAL 
+(^bDAjIAb\WzQ)
+# the Act of Uniformity  (NOUN) : A|Gl RbWU|A \lWW|I RfRIjW
+
+"unimportance"
+% CONCRETE MATERIAL 
+(XsWWrZ| WbD^WzQ)
+
+"uninstaller"
+(WfDW|DUz\lIIf)
+
+"union"
+% CONCRETE MATERIAL 
+(AjI^bR)
+# craft union  (NOUN) : X|AWfRRjI Xl^bR
+# ^fly a flag union down (VERB) : A|IzI AfBsIl WlII|Gb
+# players union (NOUN) : UfDUsDlXl
+# union card  (NOUN) : Xl^bRWsfDXzW
+# union district  (NOUN) : ^bRGlW ^bAAs
+# union pension (NOUN) : Xl^bRWjDAzQ
+# Union flag  (NOUN) : WjWAsA AsAA|
+# the Union Jack  (NOUN) : WjWAsA AsAA|
+# union nut  (NOUN) : XfR^bR Df\z
+# union shop (NOUN) : WwD|WlD UdR
+
+"unionism"
+% ART
+(WjD^bR XsWz|)
+
+"unionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\lWW|IIlDXb)
+
+"unionization"
+% CONCRETE MATERIAL 
+(\lWW|I^lb)
+
+"unique"
+(WwW|I^bD AfU)
+
+"uniqueness"
+% CONCRETE MATERIAL 
+(\zAUfW)
+
+"unisex"
+(DbQDj AlW\lW)
+
+"unison"
+(Xl^lb)
+
+"unit"
+(GbDWs|)
+# cooperative unit (NOUN) : ^jRGlWGbDWs|
+# unit bank (NOUN) : GbDW|IWzD^cW
+# unit banking system (NOUN) : GbDW|IWzD^cWXgGl
+# unit cost (NOUN) : GbDW|IWsfDAb
+# unit load system (NOUN) : W|IAlbIUsUlWRbWU|A
+# unit price (NOUN) : GbDAb
+# unit trust (NOUN) : WwD|U U|D\bA
+
+"unitage"
+(GbDWs|IdW)
+
+"unitarian"
+% ORGAN
+(WwD|\gI|WfD]b)
+
+"unitarianism"
+% ART
+(WwD|\gI|WfD]bWz| ArWz|)
+
+"unity"
+% CONCRETE MATERIAL 
+(GbDW|I)
+# party unity (NOUN) : XfWGbW GbDAjI
+
+"univac"
+(WwD|RbA)
+
+"univalve"
+% CONCRETE ANIMAL MATERIAL 
+(GbDAbA WjDZg GlWQsI)
+
+"universal"
+% CONCRETE ANIMAL MATERIAL 
+(Rl]jD)
+# universal currency (NOUN) : UgAk\lW^lb
+
+"universalism"
+% ART
+(Rl]jD AsXgUfI)
+
+"universalist"
+% HUMAN
+(Rl]jD AsXgIlDXb)
+
+"universe"
+% CONCRETE MATERIAL PLACE
+(WsXs)
+
+"university"
+% CONCRETE MATERIAL PLACE
+(Gc^bAAr)
+
+"univocal"
+(GbDWs|Wf)
+
+"unkindliness"
+(RsIZ|DXfI^bQ)
+
+"unkindness"
+% CONCRETE MATERIAL 
+(RsIZ|DXfI)
+
+"unknown"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|X|Wz| AfU)
+
+"unleaded"
+(QsWjD ^s|RbIWw)
+
+"unlikelihood"
+% CONCRETE MATERIAL 
+(W|VWzQX|A^bX| WbD^WzQ)
+
+"unlikeliness"
+% CONCRETE MATERIAL 
+(W|VWzQX|A^bX| WbD^WzQ)
+
+"unlikeness"
+% CONCRETE MATERIAL 
+(GbIQX| WbD^WzQ)
+
+"unmentionable"
+(W|RWg GbQWzI Us WfRUDzD QbI)
+
+"unnecessary"
+(RsI]|IWr^bD AfU)
+
+"unpleasantness"
+% CONCRETE MATERIAL MIND
+(RsI[lc)
+
+"unpopularity"
+(W|DQbWW| WfRUWzQ)
+
+"unpredictability"
+(WkAjD^bI Us WfRUDzD W|I)
+
+"unreality"
+(R|^jDU|I)
+
+"unregenerate"
+% HUMAN
+(AcWUcW^bX| WbD^DzD UbIbQ)
+
+"unreliability"
+% CONCRETE MATERIAL 
+(Q|GfRX| QlU^bQ)
+
+"unrest"
+% MATERIAL MIND
+(RsIWbD)
+
+"unrestraint"
+% CONCRETE MATERIAL 
+(QsXg^bD)
+
+"unrighteousness"
+% CONCRETE MATERIAL 
+(RsXfW)
+
+"unruliness"
+% CONCRETE MATERIAL 
+(XgQfUGcIl^bQ)
+
+"unseemliness"
+% CONCRETE MATERIAL 
+(RlW|X| WbD^DzD AfU)
+
+"unseen"
+(RlW|X| WbD^DzD AfU)
+
+"unselfishness"
+% CONCRETE MATERIAL 
+(W|\bU|Q)
+
+"unskilfulness"
+(Uf\sIzQ)
+
+"unsociablilty"
+(ArXg^bA| U|I^Wf^bQ)
+
+"unsteadiness"
+% CONCRETE MATERIAL 
+(RsIWbDXfW^bQ)
+
+"unsuitability"
+% CONCRETE MATERIAL 
+(RsXfAGbW)
+
+"unsuitableness"
+% CONCRETE MATERIAL 
+(RsXfAGbW^bQ)
+
+"unthankfulness"
+(AbQUb^bX| WbD^WzQ)
+
+"untouchability"
+(UlDGcI Us WfRUWzQ)
+
+"untouchable"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(HbGlII|Q RbGDzD UbIbQ)
+
+"untruth"
+% CONCRETE MATERIAL 
+(AfX|U)
+
+"unutterable"
+(W|RWg GbQWzI Us WfRUDzD QbI)
+
+"unwillingness"
+% CONCRETE MATERIAL 
+(Dc[|X| WbD^WzQ)
+
+"unwisdom"
+(QsX|)
+
+"unwontedness"
+(W|UbW^bQ)
+
+"unworldliness"
+(UgUlAWzI HfDbQ)
+
+"unworthy"
+% HUMAN 
+(AbZ|WfRUDzD W|DAbD)
+
+"up"
+(UbWUzW)
+# ups and downs (NOUN) : RsZ|Q
+
+"upanisad"
+% ART
+(Ws]bD|UdGz)
+
+"upanishad"
+% ART
+(Ws]bD|UdGz)
+
+"upas"
+% PLANT
+(WwWs]fUz DbQs)
+
+"upbeat"
+(UbWRbA)
+
+"upbraiding"
+% CONCRETE MATERIAL ACTION
+(R|DbD)
+
+"upbringing"
+% CONCRETE MATERIAL 
+(ArWwA)
+
+"upcast"
+% CONCRETE MATERIAL 
+(GfDXj WlII|A|)
+
+"upcurrent"
+(UbWUzWA|Iw)
+
+"upcurve"
+(UbWUzW AlAUfD)
+
+"update"
+(AcWU|D)
+
+"updating"
+(AcWU|D)
+
+"updo"
+(Ws|Il R|UWfWlII|D QfI|QlWdW)
+
+"updraft"
+(UbWUzWA|Iw)
+
+"upgrade"
+% CONCRETE MATERIAL 
+(AcUfD)
+# on the upgrade (ADV) : WlIzQbAWg
+
+"upgrowth"
+(UfWXbW)
+
+"upheaval"
+% MATERIAL 
+(Q|IWf WlII|A|)
+# seismic upheaval (NOUN) : X|X|D WwWA|
+# the upheaval of the French Revolution  (NOUN) : ]zIbWUz ^jAQjWW|IbDzD GcRjDGlW
+
+"uphill"
+% CONCRETE MATERIAL PLACE
+(WlIzQbAA|I)
+
+"upholder"
+(X|X|Xb)
+
+"upholsterer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbAsUbW)
+
+"upholstery"
+(AbAs)
+
+"upkeep"
+% CONCRETE MATERIAL 
+(WwX|)
+
+"upland"
+% CONCRETE MATERIAL 
+(AlX|)
+
+"uplift"
+% CONCRETE ANIMAL MATERIAL 
+(GzIWf WlII|Q)
+
+"upper"
+% CONCRETE MATERIAL 
+(AsGsWz| AbR]|)
+# ^be on ONE_S uppers (VERB) : AsGsQ|\ZbWW| GbGbI^Gb
+
+"upper-right"
+(WsUbWGbD)
+
+"upperclassman"
+% HUMAN
+(UbWAzRUcW)
+
+"uppercut"
+(Wf]f[f\z)
+
+"upperdog"
+% HUMAN
+(UzWXb)
+
+"uppertendom"
+% ORGAN
+(UbWIwUb^l|)
+
+"uppishness"
+(AfDRbWX|Q)
+
+"upright"
+% CONCRETE ANIMAL MATERIAL 
+(UsX|A UbW\c)
+
+"uprightness"
+% CONCRETE MATERIAL 
+(HlARbIzQ)
+
+"uprise"
+(^cGlGW|)
+
+"uprising"
+% MATERIAL 
+(W|IWfDbQ)
+
+"uproar"
+% MATERIAL 
+(UlGlW)
+
+"uproariousness"
+(RfRUfA U|BzIfWsQ)
+
+"uprush"
+(AzRAjA^bD UbWUzW)
+
+"upscale"
+(UbWIwZzW)
+
+"upset"
+% MATERIAL 
+(XfDRlA)
+
+"upside"
+(Ws|YlA)
+
+"upsilon"
+(W|RU|IIfD)
+
+"upstairs"
+% PLACE
+(Ws|ZzW)
+
+"upstart"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjIbAUfWAlW^bD UbIbQ)
+
+"upstate"
+% PLACE
+(U|AlI)
+
+"upstroke"
+(Ws|YlAWzIl AzWsD ^l|A)
+
+"upsurge"
+(XzWAb)
+
+"upsweep"
+(Ws|YlAWzIl VzGbGzQA|)
+
+"upswing"
+(WlIzQUg)
+
+"uptake"
+% MATERIAL 
+(X|RWf WlII|A|)
+# ^quick in the uptake (VERB) : W|^cAb SbIzGb
+# ^slow in the uptake (VERB) : W|^cAb DzXGb
+
+"upthrow"
+% MATERIAL 
+(WwWA|)
+
+"upthrust"
+% MATERIAL 
+(Q|IWf WlII|A|)
+
+"uptick"
+(AbWUg)
+
+"uptown"
+% PLACE
+(GlU|Wz| Dl]WzD X|Gc)
+
+"uptowner"
+% HUMAN
+(AlX|GcWg UbDzD UbIbQ)
+
+"uptrend"
+(UbWUzW AjW^dW)
+
+"upturn"
+(Ws|Il ^dW^bQ)
+
+"upvaluation"
+% ECOLIFE
+(]jWAbXfIUbW)
+
+"upwarp"
+(RcUb UzRAlA)
+
+"upwind"
+(WjA]sW)
+
+"ur-performance"
+(ZlWjD)
+
+"uraemia"
+(WrGlAXzW)
+
+"uraeus"
+(R|QBlI ^s|XbW)
+
+"ural"
+% PLACE
+(WsIbI X|RbW)
+# Ural Mountains  (NOUN) : WsIbI UbDQcA
+
+"uralaltaic"
+(WsIbI WbI\bW| WfXlA)
+
+"uranium"
+% CONCRETE MATERIAL 
+(WsIbDwQ)
+# enriched uranian  (NOUN) : DlWZsA WsIbDwQ
+# uranian pile  (NOUN) : WsIbDwQ WsfDXbIl
+
+"uranography"
+% ART
+(ZfDZg^bA)
+
+"uranology"
+% MATERIAL ART
+(ZfDZgX|)
+
+"uranometry"
+(ZfDZg ZzAIdW)
+
+"urb"
+% PLACE
+(GlU|X|WjA)
+
+"urbaneness"
+(XfQXbD^WzQ)
+
+"urbanism"
+(GlU|UcW^lbI)
+
+"urbanismist"
+% HUMAN
+(GlU|Ak^l|A XfDQsDAb)
+
+"urbanite"
+% HUMAN
+(Gl^l| UbIbQ)
+
+"urbanity"
+% CONCRETE MATERIAL 
+(Gl|^l|X|]sW)
+
+"urbanization"
+(Gl^l|^lb)
+
+"urbanologist"
+% HUMAN
+(GlU| QsDXg WjDAsAb)
+
+"urbanology"
+(GlU|^lb)
+
+"urbiculture"
+(GlU|UcW^lbI)
+
+"urchin"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbWDbDBsIfA|)
+
+"urdu"
+(WsIzGs QbI)
+
+"urea"
+% CONCRETE MATERIAL 
+(WrUl)
+# urea resins  (NOUN) : WrUl UsX|
+
+"ureter"
+% CONCRETE MATERIAL 
+(DrAlbD)
+
+"ureterostomy"
+(WrGl)
+
+"urethritis"
+(WrGlWjQ)
+
+"urethroscope"
+(WrGlAjW)
+
+"urethroscopy"
+(WrGl AfQUb)
+
+"urge"
+% MATERIAL MIND
+(ZsWGlW)
+
+"urgency"
+% MATERIAL STATE
+(XfIRbA)
+
+"urinal"
+% CONCRETE MATERIAL 
+(WrAbW)
+
+"urinalysis"
+(WlXsQ RsDUfA)
+
+"urinary"
+% PLACE
+(UlRjDUl)
+
+"urine"
+% CONCRETE MATERIAL 
+(WlXsQ)
+# urine analysis  (NOUN) : WlXsQ RsDUfA
+# ^pass urine (VERB) : WlXsQDsGb
+# ^discharge urine (VERB) : WlXsQDsGb
+
+"urn"
+% CONCRETE MATERIAL 
+(^bWWbI|)
+
+"urology"
+% MATERIAL ART
+(R|DrA|^bA)
+
+"uroscopy"
+(UlRjD AfQUb)
+
+"ursa"
+% HUMAN
+(WsIzUsIIb^l|Wz| UsDj)
+
+"urtext"
+(WsfDRlD)
+
+"urticaria"
+% MATERIAL 
+(GsGzIfA|)
+
+"usability"
+(WwWrWUfW)
+
+"usableness."
+(UbWrW AbDzW)
+
+"usage"
+% MATERIAL 
+(WrWRfR)
+# social usage  (NOUN) : UbArUbWWz| AlbDIk
+
+"usance"
+% MATERIAL TIME ECOLIFE
+(WfWzQ A|AbD)
+# bills drawn at usance  (NOUN) : AlbDUzR A|AbDRs WfWzQ
+# usance bill (NOUN) : A|^bDRsWfWzQ
+
+"use"
+% CONCRETE MATERIAL 
+(UbWrW)
+
+# ^be in use (VERB) : [(COMP [UbWrW XsW<NOUN>]) _<ADJ>]<W|>/Gb
+# ^be in use for PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) UbWrWXsWW|<VERB>]/Gb
+# ^be no use | (VERB->ADJ) : UlWrWWfRUGb
+# ^be of little use (VERB->ADJ) : UbWrWAbZ|Ab XfAGb
+# ^be out_of use (VERB) : UbWrWGl|X| WbD^Gb
+# ^be put to use (VERB) : UbWrWGl|Gb
+# in use (ADJ) : UbWrWXsWW|Gb
+# in use of A (PP->ADV) : (ADJUNCT [(COMP [(POSS A/Wz|) UbWrW<NOUN>]/Wg) W|V<ADJ>]/WfUf)
+# it ^be no use PRESP (SENT) : 
+[(SUBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/DzD) UlWrWWfRU<ADJ>]/Gb
+# it ^be no use for A TO_INF (SENT) : 
+[(SUBJ [(RELCL [(SUBJ A/Ab) TO_INF]/^bDzD) AfU<NOUN>]/WzD) UlWrWWfRU<ADJ>]/Gb
+# it ^be of no use TO_INF (SENT) :
+[(SUBJ [(RELCL TO_INF/^bDzD) AfU<NOUN>]/DzD) ]|IWrWfRU<ADJ>]/Gb
+# ^make use of A (VERB) : [(OBJ A/IzI) W|WrW^b<VERB>]/Gb
+# ^make increasing use of A (VERB) :
+[(OBJ A/IzI) (MODS [XfQXfQ Gf QbD^W|<ADV>]) W|WrW^b<VERB>]/Gb
+# ^make decreasing use of A (VERB) :
+[(OBJ A/IzI) (MODS [XfQXfQ Gf XfAAg<ADV>]) W|WrW^b<VERB>]/Gb
+# ^make extensive use of A (VERB) : [(OBJ A/IzI) (MODS []lADfIRAg<ADV>]) W|WrW^b<VERB>
+]/Gb
+# ^make good use of A (VERB) : [(OBJ A/WzI) (MODS [XbI<ADV>]) W|WrW^b<VERB>]/Gb
+# ^make practical use of A (VERB) : [(OBJ A/IzI) U|IWrW^b<VERB>]/Gb
+# ^make the best use of A (VERB) : [(OBJ A/WzI) (MODS [Zl|GcIl<ADV>]) W|WrW^b<VERB>]/Gb
+# ^make the first practical use of A (VERB) :
+  [(MODS [ZfWzQWzIl<ADV>]) (OBJ A/IzI) U|IWrW^b<VERB>]/Gb 
+# ^make use of A (VERB) : [(OBJ A/WzI) W|WrW^b<VERB>]/Gb
+# of great use (ADJ) : QcWs WwWrW^bGb
+# of no ^use (ADJ) : VzIQlAb WfRUGb
+# out_of ^use (NOUN) : AsU|A
+# ^put to use A (VERB) : [(OBJ A/IzI) W|WrW^b<VERB>]/Gb
+# ^put A to use (VERB) : [(OBJ A/IzI) W|WrW^b<VERB>]/Gb
+# ^put A to ADV use (VERB) : [(OBJ A/IzI) (MODS ADV) W|WrW^b<VERB>]/Gb
+# use tax (NOUN) : UbWrWUg
+# use value (NOUN) : UbWrWAbZ|
+# use of funds (NOUN) : XbAzQWrWZf
+
+"usefulness"
+(WwWrWUfW)
+
+"uselessness"
+% CONCRETE MATERIAL 
+(VzIQl WfRUWzQ)
+
+"user"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbWrWXb)
+# an end user  (NOUN) : U|IUsWrXb
+# home user (NOUN) : Xc\cA UbWrWXb
+# user charges (NOUN) : UsW|AXbWrAzQ
+# user cost  (NOUN) : UbWrWXb R|WrW
+
+"usher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsWs|)
+
+"ushership"
+% HUMAN
+(WbDDcW|DWz| X|A)
+
+"usquebaugh"
+% FOOD
+(Ws|Uz[|)
+
+"usufruct"
+(WrWW|AAsfD)
+
+"usurer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlI|GcAzQWfRXb)
+
+"usurpation"
+% MATERIAL 
+(AsfDI| Z|Q^c)
+
+"usury"
+% MATERIAL 
+(ZfUYcWzQ)
+
+"utah"
+% PLACE
+(Ww\bXs)
+
+"utensil"
+% CONCRETE ANIMAL MATERIAL 
+(AzIzU)
+# farming utensils  (NOUN) : DlWA|As
+
+"uterus"
+% CONCRETE MATERIAL ANIMAL
+(XbAsW)
+
+"utilitarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWI|IlDXb)
+
+"utilitarianism"
+% ART
+(AlWI|UfI)
+
+"utility"
+% CONCRETE MATERIAL 
+(Ww\|II|\|)
+# cardinal utility (NOUN) : A|UsXfA^rWrW
+# marginal utility (NOUN) : ^bDAk^rWrW
+# public utility company (NOUN) : AlWW|AUbWfR^l|Ub
+
+"utilization"
+% MATERIAL 
+(W|WrW)
+
+"utmost"
+(Zl|Gc^bDGl)
+# at utmost (PP->ADV) : A|BfU ^cWd
+# ^do ONE_S utmost (VERB) : XfDIjAWzI Gb^bGb
+# ^try ONE_S utmost (VERB) : XfDIjAWzI Gb^bGb
+# ^exert ONE_S utmost (VERB) : XfDIjAWzI Gb^bGb
+# to the utmost (PP->ADV) : AzAGlIl
+# to the utmost of ONE_S power (PP->ADV) : ^|Q Gb^DzD ^bD
+
+"utopia"
+% PLACE
+(Ww\l]|Wb)
+
+"utopian"
+% HUMAN
+(Ww\l]|WbWz| XsQ|D)
+
+"utopianism"
+% ART
+(Ww\l]|WbXfA W|UbW)
+
+"utricle"
+(]lAlb)
+
+"utterance"
+% CONCRETE MATERIAL ACTION
+(RbIWfD)
+# a man of good utterance  (NOUN) : AsRjDW| Xl^WzD UbIbQ
+# defective utterance  (NOUN) : RbIWzQ RsIWlbDXfD
+# ^give utterance to ONE_S rage (VERB) : ^lbIzI DcGb
+
+"utterance"
+% CONCRETE MATERIAL 
+(Zl|^s)
+# to the utterance (PP->ADV) : XsAWzI HcBbX|
+
+"uttermost"
+(Zl|Gc ^bDGl)
+# to the uttermost of ONE_S power (PP->ADV) : ^|Q XbIbDzD GgBbX|
+# to the uttermost of ONE_S capacity (PP->ADV) : ^|Q XbIbDzD GgBbX|
+
+"uturn"
+(Uturn)
+
+"uvula"
+% CONCRETE MATERIAL 
+(AsAcUs)
+
+"uxoricide"
+(DcZf UbIW|D)
+
+"uxoriousness"
+(WcZfAbXfAW|Q)
+
+"uzbeg"
+% HUMAN
+(WsXzRgA UbIbQ)
+
+"uzbek"
+% HUMAN
+(WsXzRgA UbIbQ)

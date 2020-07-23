@@ -1,0 +1,1690 @@
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW 
+
+# all around (NOUN ADV) : 1) UbRbW
+                          2) UbRbWWg
+
+# all over A (ADV NOUN) : 1) (ADJUNCT [(COMP [(NMODS A) XfDWjA<NOUN>]/Wg) AfIZ|<VERB>]/Wf)
+		2) [(NMODS A) XfDWjA<NOUN>]
+
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+
+//# in anyone | (PP->ADV) : DsAsWgAgDb
+
+# each ^other (NOUN ADV) : UfIl {+HUMAN}
+# ^go with each other (VERB) : UfIl WfWsII|Gb
+
+# like none other before it $ (PP->ADJ) : AzAfU W|XfDWz| WfHfDAfUAlbGl Ab\Gb
+
+# in doing nothing | (PP->ADV) : WbQsAfUGl ^bX| WbD^WzQjDUf
+
+# nothing but (ADV PREP) : 1) GbDX| {-PSIMOD}
+			   2) QbD
+
+# one ^another (NOUN ADV) : 1) UfIl
+                            2) UfIl
+
+//# from each other (PP->ADV) : UfIlAbDWg
+
+//# the other (NOUN ADJ) : 1) GbIzD ^bDb 
+//			   2) GbIzGb
+
+# someplace where SENT (NOUN ADV) : 1) [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfHfD XbWUl<NOUN>]/Wg)
+
+//# whatever VP (SUBCL->ADV) : (ADVCL [(SUBJ [QsWfU<PRON>]/W|) VP]/^bGzDX|)
+
+# whatever SENT (SUBCL->ADV NOUN) : 1) [(MODS [QsWfUWzI<ADV>]) SENT]/^bGzDX| 
+  2) [(MODS [QsWfUW|GzD<ADV>]) (RELCL SENT/^bDzD) AfU<NOUN>]
+
+# whatever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) VP]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whatever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN]
+     2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# wherever SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>] 
+    2) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+
+# || whether or not SENT (SUBCL->ADV) : 
+
+# whichever SENT (SUBCL->ADV NOUN) : 
+    1) (ADVCL [(OBJ [WfDz AfU<NOUN>]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN SENT (NOUN SUBCL->ADV) : 1) [(RELCL SENT/^bDzD) (AMODS [QlGzD<DET>]) NOUN ]
+    2) (ADVCL [(OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|)
+
+# whichever NOUN A may VP (SUBCL->ADV) : (ADJUNCT [(COMP [(SUBJ A/Ab) (OBJ [(RELCL [WfHf^<ADJ>]/^bD) NOUN]/WzI) SENT]/^bGzDX|) AbD<NOUN>]/Wg)
+
+# whoever VP (ADV NOUN) : 1) (ADVCL [(SUBJ [DsAs<PRON>]/Ab) VP]/^bGfIbGl)
+                          2) (ADJUNCT [(RELCL VP/^bDzD) DsAs<PRON>]/GzDX|)
+
+# whomever SENT (ADV NOUN) : 1) (ADVCL [(OBJ [DsAs<PRON>]/IzI) SENT]/^bGzDX|)
+                             2) [(RELCL SENT/^bDzD) UbIbQ QlGs<NOUN>]
+

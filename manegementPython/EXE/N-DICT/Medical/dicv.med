@@ -1,0 +1,153 @@
+
+"vaccine"
+# cholera vaccine (NOUN) : [lIIgIbRcAU|D
+# measles vaccine (NOUN) : ^lWWjARcAU|D
+# combined vaccine (NOUN) : ^lD^bRRcAU|D
+# rubella vaccine (NOUN) : ]sWRjWRcAU|D
+# mumps vaccine (NOUN) : As|Q|\UcQWjQ WlbAY|D
+# inactivated rabies vaccine (NOUN) : RsI^lbIUfWAlbWAjDRjWRcAU|D
+# live vaccine (NOUN) : UcWRcAU|D
+# pertussis vaccine (NOUN) : RcAW|I^cRcAU|D
+# live oral poliomyelitis vaccine (NOUN) : AjWAsUcWUlWbQbR|RcAU|D
+# influenza HA vaccine (NOUN) : W|D]zIIsWgDXb HA RcAU|D
+# influenza vaccine (NOUN) : W|D]zIIsWgDXb RcAU|D
+# smallpox vaccine (NOUN) : ZfDWjDGsRcAU|D
+# smallpox vaccine (NOUN) : ZfDWjDGsRcAU|D
+# vaccine (NOUN) : RcAU|D
+# dried smallpox vaccine (NOUN) : AfDXlZfDWjDGsRcAU|D
+# dried live attenuated rubella vaccine (NOUN) : AfDXlWdAGlAUfW]sWX|DRcAU|D
+# Weil's disease and akiyami combined vaccine (NOUN) : RbW|IRjW-7W|IWjI ^lD^bR RcAU|D
+# Japanese encephalitis vaccine (NOUN) : W|IRlDDl|WjQRcAU|D
+# dried live attenuated mumps vaccine (NOUN) : AfDXlWdAGlAUfWAs|Q|\UcQWjQRcAU|D
+# vaccine (NOUN) : RcAU|D
+# dried cell culture smallpox vaccine (NOUN) : AfDXlUg]lRcWdWZfDWjDGsRcAU|D
+# diphtheria-pertussis combined vaccine (NOUN) : RcAW|I^cG|]z\gI|Wb^lD^bRRcAU|D
+# rabies vaccine (NOUN) : AlbWAjDRjWRcAU|D
+# dried live attenuated measles vaccine (NOUN) : AfDXlWdAGlAUfW^lWWjARcAU|D 
+# dried Japanese encephalitis vaccine (NOUN) : AfDXlW|IRlDDl|WjQRcAU|D
+
+"valence"
+# valence (NOUN) : WsfDXbAb
+
+"valerate"
+# betamethasone valerate (NOUN) : A|IZlUbDRg\bQg\bUlD
+
+"valerian"
+# powdered Japanese valerian (NOUN) : 
+# Japanese valerian (NOUN) : Xs|WlXsQ]sI
+# Japanese valerian (NOUN) : Xs|WlXsQ]sI
+
+"valine"
+# valine (NOUN) : RbII|D
+
+"value"
+# p- H value (NOUN) : pHAbRU
+# ester value (NOUN) : WgUz\gIzAbRU
+# acid value (NOUN) : UbDAb
+# value (NOUN) : AbZ|
+# hydroxyl value (NOUN) : UsUbDA|Ab
+# Rf value (NOUN) : RfAbRU
+# E value (NOUN) : E AbRU
+# value (NOUN) : AbRU
+# Hehner value (NOUN) : ^gDfAbRU
+# nutritive value (NOUN) : WjWWdWAb
+# HLB value (NOUN) : HLBAb
+# saponification value (NOUN) : R|Ds^lbAbRU
+# Reichert- Meiszl value (NOUN) : IbW|^gIz\z-QbW|UzIAbRU
+# acetyl value (NOUN) : WbUg\|IAbRU
+# Polenske value (NOUN) : 
+# saponification value (NOUN) : R|Ds^lbAbRU
+# peroxide value (NOUN) : AlbUbD^lbQsIAb
+# methoxyl value (NOUN) : Qg\lAU|AbRU
+# analytical value (NOUN) : RsDUfAZ|
+
+"vanillin"
+# vanillin (NOUN) : RbD|II|D
+
+"variety"
+# variety (NOUN) : RjDXlW
+
+"varnish"
+# skin varnish (NOUN) : 
+# varnish (NOUN) : D|Uz 
+
+"varnishing"
+# varnishing (NOUN) : D|UzZ|I
+# varnishing (NOUN) : D|UzZ|I
+
+"vasoconstrictor"
+# vasoconstrictor (NOUN) : ^jIAlbDUsZsAWdA
+
+"vasodilator"
+# coronary vasodilator (NOUN) : AlbDUbWGlWQcA^lbAXbWWdA
+# peripheral vasodilator (NOUN) : QbIZl^jIAlbD^lbAXbWWdA
+# coronary vasodilator (NOUN) : AlbD^jIAlbD^lbAXbWWdA
+# vasodilator (NOUN) : ^jIAlbD^lbAXbWWdA
+
+"vasopressin"
+# vasopressin (NOUN) : ^bWW|Dr^lIzQlD
+
+"velocity"
+# sedimentation velocity (NOUN) : Z|QAbWUlAGl
+
+"venom"
+# toad venom (NOUN) : UfQUl
+
+"vesicant"
+# vesicant (NOUN) : RbI]lXg
+# vesicant (NOUN) : RbI]lWdA
+
+"vessel"
+# vessel (NOUN) : GlAlbD
+# measuring vessel (NOUN) : AkIdWA|
+# decoction vessel (NOUN) : Z|QXfDXgA|
+
+"vial"
+# vial (NOUN) : RbW|WbI
+
+"Vibrio"
+# Vibrio (NOUN) : R|RzI|Wl
+
+"violet"
+# acid violet (NOUN) : WcU|Gz RbW|WlIIgU
+
+"viomycin"
+# viomycin (NOUN) : R|WlQbW|U|D
+
+"virus"
+# virus (NOUN) : RbW|IfUz
+
+"viscometer"
+# viscometer (NOUN) : XfQGlAk
+# rotation viscometer (NOUN) : ^l|XfDXfQGlAk
+
+"viscosity"
+# test for viscosity (NOUN) : XfQGlZzAXfWRfR
+# specific viscosity (NOUN) : R|XfQGl
+# coefficient of viscosity (NOUN) : XfQUfWAkUs
+# viscosity (NOUN) : XfQUfW
+# structural viscosity (NOUN) : AsXlXfQUfW
+# intrinsic viscosity (NOUN) : AzA^bDXfQGl
+
+"viscous"
+# viscous (NOUN) : XfQUfW
+# viscous (NOUN) : XfQUfW
+
+"vitamin"
+# fat-soluble vitamin (NOUN) : X|WrWUfWR|\bQ|D
+# water-soluble vitamin (NOUN) : UsWrWUfWR|\bQ|D
+# vitamin (NOUN) : R|\bQ|D
+
+"volatile"
+# volatile (NOUN) : ^s|RbIUfW
+# volatile (NOUN) : ^s|RbIUfW
+
+"volatility"
+# volatility (NOUN) : ^s|RbIUfW
+
+"volume"
+# retention volume (NOUN) : RlX|WrWIdW
+
+"vomica"
+# nux vomica (NOUN) : QbXfDXb
+

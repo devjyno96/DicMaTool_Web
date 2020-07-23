@@ -1,0 +1,1847 @@
+
+"Welsh"
+ar (WsgW|IXzWz|)
+ap (WsgW|IXzW|Gb)
+
+"Werstern"
+ar (UfWdWWz|)
+ap (UfWdWW|Gb)
+
+"West-Indian"
+ar (UfW|DGlWz|)
+ap (UfW|DGlW|Gb)
+
+"Western"
+ar (UfWdWWz|)
+ap (UfWdWW|Gb)
+
+"Windows-based"
+ar (Ws|DGlWsXz A|RbDWz|)
+ap (Ws|DGlWsXz A|RbDW|Gb)
+
+"Windows-compatible"
+ar (Ws|DGlWsXz ^l^lbDWz|)
+ap (Ws|DGlWsXz ^l^lbDW|Gb)
+
+"wacky"
+ar (RjIDbD)
+ap (RjIDbGb)
+
+"wafer-thin"
+ar (WbXs WdIRWzD)
+ap (WbXs WdIRGb)
+
+"wageless"
+ar (W|QAzQW| WfRUDzD)
+ap (W|QAzQW| WfRUGb)
+
+"wageprice"
+ar (W|QAzQAlb QsIAbWz|)
+ap (W|QAzQAlb QsIAbW|Gb)
+# wageprice spiral (NOUN) : W|QAzQ QsIAbWz| WbAUsD^lbDXfA UbWUzW
+
+"waggish"
+ar (W|AUbIUzIfWsD)
+ap (W|AUbIUzIfRGb)
+
+"wailful"
+ar (R|\bD^bDzD)
+ap (R|\bD^bGb:ADJ->VERB)
+
+"wailsome"
+ar (UzI]f^bDzD)
+ap (UzI]f^bGb:ADJ->VERB)
+
+"waist-deep"
+ar (^fI|BbX| A|]WzD)
+ap (^fI|BbX| A|]Gb)
+
+"waist-down"
+ar (^bRbDU|DWz|)
+ap (^bRbDU|DW|Gb)
+
+"waist-high"
+ar (^fI|BbX| WlIIbWlDzD)
+ap (^fI|BbX| WlIIbWlGb:ADJ->VERB)
+
+"waistcoated"
+ar (XlB|IzI W|RWzD)
+ap (XlB|IzI W|RGb)
+
+"waiting"
+ar (A|GbI|DzD)
+ap (A|GbI|Gb:ADJ->VERB)
+
+"wakeful"
+ar (BcWf W|VDzD)
+ap (BcWf W|VGb)
+
+"walkable"
+ar (AfGA|Wg XfA^bR^bD)
+ap (AfGA|Wg XfA^bR^bGb)
+
+"walking"
+ar (AfGDzD)
+ap (AfGGb:ADJ->VERB)
+
+"walkup"
+ar (WgII|RgW|\f U|UfIW| WfRUDzD)
+ap (WgII|RgW|\f U|UfIW| WfRUGb)
+
+"walled"
+ar (RjAW| W|VDzD)
+ap (RjAW| W|VGb)
+
+"walleyed"
+ar (AbAQbAW| ^fWj^Ag ^zI|D)
+ap (AbAQbAW| ^fWj^Ag ^zI|Gb)
+
+"wan"
+ar (ZbWRcA^bD)
+ap (ZbWRcA^bGb)
+
+"wandering"
+ar (HfGlDzD)
+* BsRsIBsRsI^bGb (road A|I) (river AbW)
+* XlWXbRWzI Us WfRUGb (mind QbWzQ)
+* Wj]A|IIl R|UDbAbGb:ADJ->VERB (address WjDUfI) (speech WjDUfI)
+* WwXsUfWWz| (cell Ug]l)
+ap (HfGlIGb:ADJ->VERB)
+
+"wannish"
+ar (WdAAbD ZbWRcA^bD)
+ap (WdAAbD ZbWRcA^bGb)
+
+"wanted"
+ar (X|QjWUsRcGl|D)
+ap (X|QjWUsRcGl|Gb)
+
+"wanting"
+ar (QlXbIbDzD)
+ap (QlXbIbGb)
+# wanting to A (ADJ) : [(ADJUNCT A/Wg) QbXX| WbD^<ADJ>]/Gb
+
+"wanton"
+ar (WfAXg^bI Us WfRUDzD)
+ap (WfAXg^bI Us WfRUGb)
+
+"ware"
+ar (XlU|QUfW W|VDzD)
+ap (XlU|QUfWW| W|VGb)
+
+"warlike"
+ar (^lXfDXfAW|D)
+ap (^lXfDXfAW|Gb)
+
+"warm"
+ar (HbHzU^bD)
+* AjA^bGb (controversy DlDXcW) (temper A|X|I)
+* UfDXfWXfAW|Gb (description A|UsI)
+* ^|QW| GzIGb:ADJ->VERB (job W|I)
+* AbW^bGb (scent DcQUc)
+* HbHzU^bGb (country X|RbW)
+ap (HbHzU^bGb)
+
+# warm with wine (ADV) : WfIAzD^| Zs|^bWj
+# a warm welcome (NOUN) : HbHzU^bD ^lbDWjW
+# a warm argument (NOUN) : AjAIlD
+# warm colors (NOUN) : DbDUcA
+# ^grow warm (VERB) : AjA^cX|Gb
+# ^keep ONESELF  warm (VERB) : W|RWfUf HbHzU^bGb
+# ^make it warm for A (VERB) : [(SCOMP A/W|) (OBJ [RbDAbQ<NOUN>]/WzI) AbXAg ^b<VERB>]/Gb
+# ^make things warm for A (VERB) : [(SCOMP A/W|) (OBJ [RbDAbQ<NOUN>]/WzI) AbXAg ^b<VERB>]/Gb
+# warm friend (NOUN) : Z|DAs
+# warm front (NOUN) : WlDDbD XfDUfD
+# warm thanks (NOUN) : X|DU|QWgUfWz| AbQUb
+
+"warm-hearted"
+ar (QbWzQW| HbHzU^bD)
+ap (QbWzQW| HbHzU^bGb)
+
+"warmblooded"
+ar (WlD^jIWz|)
+ap (WlD^jIW|Gb)
+
+"warmedover"
+ar (GbU| GgWsD)
+ap (GbU| GgWsGb)
+
+"warmhearted"
+ar (QbWzQV|Ab AlWsD)
+ap (QbWzQV|Ab AlRGb)
+
+"warming-up"
+ar (XsDR|WsDGlWWz|)
+ap (XsDR|WsDGlWW|Gb)
+
+"warmish"
+ar (XlQ HbHzU^bD)
+ap (XlQ HbHzU^bGb)
+
+"warning"
+ar (AjWAlWz|)
+ap (AjWAlW|Gb)
+# warning color (NOUN) : AjWAkUcA
+# warning coloration (NOUN) : AjWAkUcA
+# warning gun (NOUN) : AjW]l
+# warning bell (NOUN) : AjWXlW
+# warning lignt (NOUN) : RlW^b
+# warning signal (NOUN) : Ws|^fQ U|D^l
+
+"warrantable"
+ar (XfWGbW^bD)
+ap (XfWGbW^bGb)
+
+"warring"
+ar (\sXcW^bDzD)
+ap (\sXcW^bGb:ADJ->VERB)
+# warring creeds (NOUN) : WdWI|R^bX| WbD^DzD U|DXl
+
+"warrior"
+ar (QsUbGbWsD)
+ap (QsUbGbRGb)
+
+"warty"
+ar (UbQbAs| QlWdWWz|)
+ap (UbQbAs| QlWdWW|Gb)
+
+"warweary"
+ar (XfDXcWWg U|I^XzWW| DbD)
+ap (XfDXcWWg U|I^XzWW| DbGb)
+
+"warworn"
+ar (VbWsQWg X|Z|D)
+ap (VbWsQWg X|Z|Gb)
+
+"wary"
+ar (XlU|QUfW W|VDzD)
+ap (XlU|QUfW W|VGb)
+# ^be wary of A (VERB) : [(OBJ A/IzI) XlU|Q^b<VERB>]/Gb
+
+"washable"
+ar (Ug\bA^bI Us W|VDzD)
+ap (Ug\bA^bI Us W|VGb)
+
+"washandwear"
+ar (SbIWbUf AlG QbIzDzD)
+ap (SbIWbUf AlG QbIzGb:ADJ->VERB)
+
+"washed-out"
+ar (SbIWbUf RbIcD)
+ap (SbIWbUf RbIcGb)
+
+"washed-up"
+ar (X|Z|D)
+ap (X|Z|Gb)
+
+"washing"
+ar (Ug\bAWrWWz|)
+ap (Ug\bAWrWW|Gb)
+# washing soda (NOUN) : Ug\bAWrW UlGb
+
+"washy"
+ar (DfQs QsIAWzD)
+* WjIRGb (coloring ZcUcA) (coffee [f]|)
+* ^|QW| WfRUGb (style QsDZg)
+ap (DfQs QsIAGb)
+
+
+"waspwaisted"
+ar (^fI|Ab AbDzD)
+ap (^fI|Ab AbDzIGb)
+
+"waste"
+ar (VzIgA|Wz|)
+* ^lbWIdW^bGb (ground HbW)
+ap (^lbWIdW^bGb)
+
+# waste paper (NOUN) : ]kX|
+# waste water (NOUN) : ]kUs
+
+"wasteful"
+ar (DbWR|^bDzD)
+* ^fUGl|Gb (investment ZsIXb)
+ap (DbWR|^bGb:ADJ->VERB)
+
+"wasteless"
+ar (DbWR| WfRUDzD)
+ap (DbWR|Ab WfRUGb)
+
+"wasting"
+ar (^lbW]kU|[|DzD)
+ap (^lbW]kU|[|Gb:ADJ->VERB)
+# wasting asset (NOUN) : UlQlUfW XbUbD
+
+"watchful"
+ar (XlU|Q^bDzD)
+ap (XlU|Q^bGb:ADJ->VERB)
+# watchful night (NOUN) : XbQW| WlX| WbD^DzD RbQ
+
+"water-fast"
+ar (SbIWbGl RbIcX| WbD^DzD)
+ap (SbIWbGl RbIcX| WbD^Gb:ADJ->VERB)
+
+"water-repellent"
+ar (QsIWzI \s|A|DzD)
+ap (QsIWzI \s|A|Gb:ADJ->VERB)
+
+"water-resistent"
+ar (RbWUsWz|)
+ap (RbWUsW|Gb)
+
+"water-side"
+ar (QsIAbWg UbDzD)
+ap (QsIAbWg UbIGb:ADJ->VERB)
+
+"water-soluble"
+ar (QsIWg WrW^cGl|DzD)
+ap (QsIWg WrW^cGl|Gb:ADJ->VERB)
+
+"water-worn"
+ar (QsIWz| XbAWrWWzIl GbI^WbX|D)
+ap (QsIWz| XbAWrWWzIl GbI^WbX|Gb)
+
+"waterborne"
+ar (QsI Ws|Wg HzDzD)
+ap (QsI Ws|Wg HzGb:ADJ->VERB)
+
+"watercooled"
+ar (UsDcWU|AWz|)
+ap (UsDcWU|AW|Gb)
+
+"watered"
+ar (AlbDAcGl|D)
+ap (AlbDAcGl|Gb)
+# watered assets (NOUN) : R|DWdAXbUbD
+# watered capital (NOUN) : UbXgXbRlD
+
+"waterlogged"
+ar (QsIW| RcD)
+ap (QsIW| RcGb)
+
+"waterpower"
+ar (UsIjAWz|)
+ap (UsIjAW|Gb)
+
+"waterproof"
+ar (RbWUsWz|)
+ap (RbWUsW|Gb)
+
+"watertight"
+ar (RbWUsWz|)
+ap (QsIW| UcX| WbD^Gb:ADJ->VERB)
+
+"watery"
+ar (QsIWz|)
+ap (QsIA|Ab W|VGb)
+
+"wattled"
+ar (DbQsUAbX|Il WjBWf QbDGzD)
+ap (DbQsUAbX|Il WjBWf QbDGzIGb)
+
+"waved"
+ar (]b^jWWz|)
+ap (]b^jWW|Gb)
+
+"waveless"
+ar (]bGlAb WfRUDzD)
+ap (]bGlAb WfRUGb)
+
+"wavy"
+ar (WrGlW^bDzD)
+ap (WrGlW^bGb:ADJ->VERB)
+
+"waxen"
+ar (Q|IIbRWzIl QbDGzD)
+ap (Q|IIbRWzIl QbDGzIGb)
+
+"waxy"
+ar (Q|IIbRWz|)
+ap (Q|IIbRW|Gb)
+
+"way-out"
+ar (X|DRlXfAW|D)
+ap (X|DRlXfAW|Gb)
+
+"wayfaring"
+ar (Wj^cWXsWWz|)
+ap (Wj^cWXsWW|Gb)
+
+"wayside"
+ar (A|IAbWz|)
+ap (A|IAbW|Gb)
+
+"waystop"
+ar (AbDW| XfWIwXbW)
+
+"wayward"
+ar (QbIWzI WbD GzGDzD)
+ap (QbIWzI WbD GzGGb:ADJ->VERB)
+
+"waywise"
+ar (A|IWg W|AUsA^bD)
+ap (A|IWg W|AUsA^bGb)
+
+"wayworn"
+ar (GlRl Wj^cWWg X|Z|D)
+ap (GlRl Wj^cWWg X|Z|Gb)
+
+"weak"
+ar (WdA^bD)
+ap (WdA^bGb)
+# the weak conjugation (NOUN) : WdARjD^lb
+# the weak sex (NOUN) : WjUfW
+# The weakest goes to the wall (NOUN) : WsUzW WjI]c
+# weak knees (NOUN) : ^|QWfRUDzD QsIz]
+# weak market (NOUN) : WjDWdAU|XbW
+# weak sister (NOUN) : AfRXbWW|
+# weak tears (NOUN) : \sA^bQjD DbWlDzD DsDQsI
+
+"weak-headed"
+ar (WsGsD^bD)
+ap (WsGsD^bGb)
+
+"weak-kneed"
+ar (QsIz]Wg ^|QW| WfRUDzD)
+ap (QsIz]Wg ^|QW| WfRUGb)
+
+"weak-minded"
+ar (XfDzW^bD)
+ap (X|DzWW| DbXGb)
+
+"weak-willed"
+ar (Wz|X|Ab WdA^bD)
+ap (Wz|X|Ab WdA^bGb)
+
+"weakling"
+ar (WdA^bD)
+ap (WdA^bGb)
+
+"weakly"
+ar (WdA^bD)
+ap (WdA^bGb)
+
+"wealded"
+ar (AlbWWdWz|)
+ap (AlbWWdW|Gb)
+
+"wealthy"
+ar (RsXbW|D)
+* RsWw^bGb (~ {+HUMAN})
+ap (RsWw^bGb)
+
+# wealthy in A (ADJ) : [(SCOMP A/Ab) ]sWRs^b<ADJ>]/Gb
+# ^be wealthy in A (VERB->ADJ) : [(SCOMP A/Ab) ]sWRs^b<ADJ>]/Gb
+
+"weanling"
+ar (AbX XfXHfIWfX|D)
+ap (AbX XfXHfIWfX|Gb)
+
+"wearable"
+ar (W|RWzI Us W|VDzD)
+ap (W|RWzI Us W|VGb)
+
+"wearisome"
+ar (X|Z|Ag ^bDzD)
+ap (X|Z|Ag ^bGb:ADJ->VERB)
+
+"weary"
+ar (]|AlD^bD)
+ap (]|AlD^bGb)
+
+"weather-beaten"
+ar (]sWWsWg U|GbII|D)
+ap (]sWWsWg U|GbII|Gb)
+
+"weather-bound"
+ar (R|RbIbQWg AbG^|D)
+ap (R|RbIbQWg AbG^|Gb)
+
+"weather-driven"
+ar (]lA]sWWg ^s|RVzII|D)
+ap (]lA]sWWg ^s|RVzII|Gb)
+
+"weather-proof"
+ar (R|RbIbQWg AjDG|DzD)
+ap (R|RbIbQWg AjDG|Gb:ADJ->VERB)
+
+"weather-stained"
+ar (R|RbIbQWg RjDUcAGl|D)
+ap (R|RbIbQWg RjDUcAGl|Gb)
+
+"weather-wise"
+ar (DbIV|IzI XbI WbIWbQbX^|DzD)
+ap (DbIV|IzI XbI WbIWbQbX^|Gb:ADJ->VERB)
+
+"weathered"
+ar (R|RbIbQWzIl DbIAWzD)
+ap (R|RbIbQWzIl DbIAGb)
+
+"weatherly"
+ar (RbIbQ RsIWf WlDzD YlAWzIl GbII|IUs W|VDzD)
+ap (RbIbQ RsIWf WlDzD YlAWzIl GbII|IUs W|VGb)
+
+"weathertight"
+ar (R|RbIbQWg AjDG|DzD)
+ap (R|RbIbQWg AjDG|Gb:ADJ->VERB)
+
+"weatherworn"
+ar (R|RbIbQWg UbW^bD)
+ap (R|RbIbQWg UbW^bGb)
+
+"web-based"
+ar (WsgRA|RbDWz|)
+ap (WsgRA|RbDW|Gb)
+
+"web-footed"
+ar (RbIWg QsIAbI[s|Ab W|VDzD)
+ap (RbIWg QsIAbI[s|Ab W|VGb)
+
+"web-toed"
+ar (QsIAbI[s|Ab W|VDzD)
+ap (QsIAbI[s|Ab W|VGb)
+
+"webbed"
+ar (QsIAbI[s|Ab W|VDzD)
+ap (QsIAbI[s|Ab W|VGb)
+
+"wedded"
+ar (AjI^lD^bD)
+ap (AjI^lD^bGb)
+
+"wedge-shaped"
+ar (VlcA| QlWdWWz|)
+ap (VlcA| QlWdWW|Gb)
+
+"wee"
+ar (WbXs XbAWzD)
+ap (WbXs XbAGb)
+# a wee bit (NOUN) : WbXs XlAzQ
+# the wee folk (NOUN) : BlQbWrXfWGzI
+# wee small hours (NOUN) : ^bDRbQXsW
+
+"weedy"
+ar (XbRZlAb QbD^WzD)
+ap (XbRZlAb QbD^Gb)
+
+"week-long"
+ar (^bDXsAbDWz|)
+ap (^bDXsAbDW|Gb)
+
+"weekday"
+ar (]jWW|IWz|)
+ap (]jWW|IW|Gb)
+
+"weekend"
+ar (XsQbIWz|)
+ap (XsQbIW|Gb)
+
+"weeklong"
+ar (W|IXsW|I GbDWs|Wz|)
+ap (W|IXsW|I GbDWs|W|Gb)
+
+"weekly"
+ar (XsAbDWz|)
+ap (XsAbDW|Gb)
+# on a weekly basis (PP->ADV) : XsGbDWs|Il
+
+"weeping"
+ar (DsDQsI ^zII|DzD)
+ap (DsDQsI ^zII|Gb:ADJ->VERB)
+# a weeping willow (NOUN) : UsWdWRfGzI
+# Wweeping Cross (NOUN) : WsIWzQWz| U|RXbAb
+# ^return by Wweeping Cross (VERB) : UzI]zD W|IWzI GbW^bGb
+# ^come home by Wweeping Cross (VERB) : UzI]zD W|IWzI GbW^bGb
+# weeping eczema (NOUN) : UbQZsIUfW UzRX|D
+
+"weepy"
+ar (DsDQsI WfI|D)
+ap (DsDQsIW| WfI|Gb)
+
+"weevil"
+ar (RbAsQ|Ab UcWA|D)
+ap (RbAsQ|Ab UcWA|Gb)
+
+"weighable"
+ar (QsAgIzI XcI Us W|VDzD)
+ap (QsAgIzI XcI Us W|VGb)
+
+"weighted"
+ar (AbXsWGl|D)
+ap (AbXsWGl|Gb)
+# weighted arithmetic mean (NOUN) : AbXsWUbDUsI]jWAwD
+# weighted average method (NOUN) : AbXsW]jWAwDRfR
+# weighted index (NOUN) : AbXsWX|Us
+
+"weightless"
+ar (QsAgAb WfRUDzD)
+ap (QsAgAb WfRUGb) 
+
+"weighty"
+ar (QsAfWsD)
+ap (QsAfRGb)
+
+"weird"
+ar (Al|UbW^bD)
+ap (Al|UbW^bGb)
+
+"weirdo"
+ar (RjIDbD)
+ap (RjIDbGb)
+
+"weirdy"
+ar (Al|UbW^bD)
+ap (Al|UbW^bGb)
+
+"welcome"
+ar (^lbDWjWRbGDzD)
+ap (^lbDWjWRbGGb:ADJ->VERB)
+
+# || you are welcome || (SENT) : (DECL [ZfDQbDWg<ADV>])
+
+"well-advised"
+ar (UbIj W|VDzD)
+ap (UbIj W|VGb)
+
+"well-appointed"
+ar (XsDR|Ab XbIGl|D)
+ap (XsDR|Ab XbIGl|Gb)
+
+"well-balanced"
+ar (AwD^jWW| XbIXbR^|D)
+ap (AwD^jWW| XbIXbR^|Gb)
+
+"well-behaved"
+ar (]sQ^cWW| GbDXfW^bD)
+ap (]sQ^cWW| GbDXfW^bGb)
+
+"well-born"
+ar (X|RWbDW| Xl^WzD)
+ap (X|RWbDW| Xl^Gb)
+
+"well-bred"
+ar (Xl^WzD AbQsDWgUf XbIbD)
+ap (Xl^WzD AbQsDWgUf XbIbGb)
+
+"well-built"
+ar (XbI X|WzD)
+ap (XbI X|UGb)
+
+"well-chosen"
+ar (XfWUfDGl|D)
+ap (XfWUfDGl|Gb)
+
+"well-connected"
+ar (WwIjA^bD WjDXsIW| W|VDzD)
+ap (WwIjA^bD WjDXsIW| W|VGb)
+
+"well-content"
+ar (WbXs QbDXlAUzIfWsD)
+ap (WbXs QbDXlAUzIfRGb)
+
+"well-defined"
+ar (QbWzQV| AlWsD)
+ap (QbWzQV|Ab AlRGb)
+
+"well-done"
+ar (XbI W|AWzD)
+ap (XbI W|AGb)
+
+"well-dressed"
+ar (XbI ZbIj W|RWzD)
+ap (XbI ZbIj W|RGb)
+
+"well-earned"
+ar (XbA| ^|QWzIl WfGDzD)
+ap (XbA| ^|QWzIl WfGGb:ADJ->VERB)
+
+"well-established"
+ar (XbI ^lbAI|RGl|D)
+ap (XbI ^lbAI|RGl|Gb)
+
+"well-favored"
+ar (XbI UcWA|D)
+ap (XbI UcWA|Gb)
+
+"well-favoured"
+ar (XbI UcWA|D)
+ap (XbI UcWA|Gb)
+
+"well-fed"
+ar (WjWWdWW| ZsWRsD^bD)
+ap (WjWWdWW| ZsWRsD^bGb)
+
+"well-fixed"
+ar (WwRlA^bD)
+ap (WwRlA^bGb)
+
+"well-found"
+ar (UfIR|Ab ZsWRsD^| AbXZsWfX|D)
+ap (UfIR|Ab ZsWRsD^| AbXZsWfX|Gb)
+
+"well-known"
+ar (XbI WbIIjXj W|VDzD)
+ap (XbI WbIIjXj W|V)
+# ^be well-known for A (VERB) : [(ADJUNCT A/Il) XbI WbIIjXj W|V<ADJ>]/Gb
+
+"well-off"
+ar (RsWw^bD)
+ap (RsWw^bGb)
+
+"well-ordered"
+ar (X|IUfXfWWjD^bD)
+ap (X|IUfXfWWjD^bGb)
+
+"well-pleasing"
+ar (QbDXlA^bD)
+ap (QbDXlA^bGb)
+
+"well-preserved"
+ar (XbI RlXlDGl|D)
+ap (XbI RlXlDGl|Gb)
+
+"well-proportioned"
+ar (AwD^jWW| XbI XbR^|D)
+ap (AwD^jWW| XbI XbR^|Gb)
+
+"well-read"
+ar (QbD^W| W|IAWzD)
+ap (QbD^W| W|IAGb)
+
+"well-regulated"
+ar (XbI XlXfWGl|D)
+ap (XbI XlXfWGl|Gb)
+
+"well-reputed"
+ar (]jW]bDW| Xl^WzD)
+ap (]jW]bDW| Xl^Gb)
+
+"well-set"
+ar (XbI YbW|D)
+ap (XbI YbW|Gb)
+
+"well-spoken"
+ar (QbIV|Ab UgIjDGl|D)
+ap (QbIV|Ab UgIjDGl|Gb)
+
+"well-suited"
+ar (XfAXfI^bD)
+ap (XfAXfI^bGb)
+
+"well-tested"
+ar (XbI \gUz\zGl|D)
+ap (XbI \gUz\zGl|Gb)
+
+"well-thought-of"
+ar (]jW]bDW| Xl^WzD)
+ap (]jW]bDW| Xl^Gb)
+
+"well-to-do"
+ar (WwRlA^bD)
+ap (WwRlA^bGb)
+
+"well-tried"
+ar (QbD^WzD U|IjDWzI AjBWzD)
+ap (QbD^WzD U|IjDWzI AjBGb)
+
+"well-worn"
+ar (VfUf DbIAWzD)
+ap (VfUf DbIAGb)
+
+"wellfounded"
+ar (AzDAfAb ZsWRsD^bD)
+ap (AzDAfAb ZsWRsD^bGb)
+
+"wellgroomed"
+ar (UlDX|IW| XbIGl|D)
+ap (UlDX|IW| XbIGl|Gb)
+
+"wellgrounded"
+ar (XfWGbW^bD W|WwAb W|VDzD)
+ap (XfWGbW^bD W|WwAb W|VGb)
+
+"wellheeled"
+ar (GlDW| Blc QbD^WzD)
+ap (GlDW| Blc QbD^Gb)
+
+"wellinformed"
+ar (RbAU|A^bD)
+ap (RbAU|A^bGb)
+
+"wellintentioned"
+ar (UfDWz|Wz|)
+ap (UfDWz|W|Gb)
+
+"welljudged"
+ar (]bDGbDW| XfW^lbA^bD)
+ap (]bDGbDW| XfW^lbA^bGb)
+
+"wellkept"
+ar (XbI AbDUsGl|D)
+ap (XbI AbDUsGl|Gb)
+
+"wellknit"
+ar (Z|Q|I^bD AsUfWWz|)
+ap (Z|Q|I^bD AsUfWW|Gb)
+
+"wellknown"
+ar (WwQjW^bD)
+ap (WwQjW^bGb)
+
+"wellliking"
+ar (AfDAbW^c RlW|DzD)
+ap (AfDAbW^c RlW|Gb:ADJ->VERB)
+
+"wellmade"
+ar (AwD^jWW| XbR^|D)
+ap (AwD^jWW| XbR^|Gb)
+
+"wellmannered"
+ar (WkWz| RbIzD)
+ap (WkWz| RbIzGb)
+
+"wellmatched"
+ar (Xl^lbIzI XbI W|IsD)
+ap (Xl^lbIzI XbI W|IsGb)
+
+"wellmeaning"
+ar (UfDWz|Wz|)
+ap (UfDWz|W|Gb)
+
+"wellmeant"
+ar (UfDWz|Il ^bD)
+ap (UfDWz|Il ^bGb)
+
+"wellmounted"
+ar (Xl^WzD QbIWzI \bD)
+ap (Xl^WzD QbIWzI \bGb)
+
+"wellseeming"
+ar (Xl^Wb RlW|DzD)
+ap (Xl^Wb RlW|Gb:ADJ->VERB)
+
+"west"
+ar (UfYlAWz|)
+ap (UfYlAW|Gb)
+
+"west-country"
+ar (UfRs X|RbWWz|)
+ap (UfRs X|RbWW|Gb)
+
+"westbound"
+ar (UfYlAWzIl AbDzD)
+ap (UfYlAWzIl AbGb:ADJ->VERB)
+
+"westering"
+ar (UfYlAWzIl ^dW^bDzD)
+ap (UfYlAWzIl ^dW^bGb:ADJ->VERB)
+
+"westerly"
+ar (UfYlAWz|)
+ap (UfYlAW|Gb)
+
+"western"
+ar (UfYlAWz|)
+* UfAsU|AWz| (suit Wz|RlA)
+* UfAsWz| (country AsAAb)
+ap (UfYlAW|Gb)
+
+"westernmost"
+ar (AbXbW UfYlAWz|)
+ap (AbXbW UfYlAW|Gb)
+
+"westward"
+ar (UfYlAWzI ^dW^bD)
+ap (UfYlAWzI ^dW^bGb)
+
+"wet"
+ar (XfXWzD)
+* QbIzX| WbD^Gb (paint ]gW|D\z) (ink W|W[z)
+* R|Ab QbD^Gb (summer WjIzQ) (season AkXfI) (weather DbIV|) (climate A|^s)
+* ZsAZsA^bGb (grass ]sI)
+ap (XfXGb)
+
+# a wet windy day (NOUN) : R|WlIAfU Ab\W| RbIbQW| UgD DbI
+# ^be wet to the skin with A (VERB) : [(ADJUNCT A/Il) ^zQSfA XfX<VERB>]/Gb
+# newspapers wet from press (NOUN) : AbU W|DUlcGl|D U|DQsD
+# wet cargo (NOUN) : Us^lb^lbQsI
+# wet or fine (ADV) : R|Ab WlAfDb DbIW| QbIAAfDb AbDWg
+# || wet paint || (SENT) : (DECL []gW|D\z XlU|Q<NOUN>])
+# wet season (NOUN) : ]sWUsA|
+# wet through $ (ADJ) : WlbDXfD^| XfXGb
+
+"wettish"
+ar (XlQ ZsAZsA^bD)
+ap (XlQ ZsAZsA^bGb)
+
+"whacking"
+ar (QlRU| [zD)
+ap (QlRU| [zGb)
+
+"whacky"
+ar (WfWHsW^bD)
+ap (WfWHsW^bGb)
+
+"whalebacked"
+ar (AlIcGzWZfIfQ RsIIsA^bD)
+ap (AlIcGzWZfIfQ RsIIsA^bGb)
+
+"what"
+ar (WfHfD)
+ap (WfHf^Gb)
+
+"whatever"
+ar (QlGzD)
+ap (QlGsW|Gb)
+
+"whatsoever"
+ar (QlGzD)
+ap (QlGsW|Gb)
+
+"wheaten"
+ar (Q|IIl QbDGzD)
+ap (Q|IIl QbDGzIGb)
+
+"wheeled"
+ar (Rb[s|Ab GbII|D)
+ap (Rb[s|Ab GbII|Gb)
+
+"wheez"
+ar (V|AV|AAfI|DzD)
+ap (V|AV|AAfI|Gb:ADJ->VERB)
+
+"which"
+ar (WfHfD)
+ap (WfHf^Gb)
+
+//# which NOUN TO_INF (NOUN) : [(OBJ [(AMODS [WfHf^<ADJ>]/^bD) NOUN]/WzI) TO_INF](^cWd/F, ^b/V)/^bDX|)
+
+"whimsey"
+ar (RjDGfAUzIfWsD)
+ap (RjDGfAUzIfRGb)
+
+"whimsical"
+ar (RjDGfAUzIfWsD)
+ap (RjDGfAUzIfRGb)
+
+"whiney"
+ar (WcZfIlWsD)
+ap (WcZfIlRGb)
+
+"whippy"
+ar (ZcY|AZfIfQ XbI ^s|DzD)
+ap (ZcY|AZfIfQ XbI ^s|Gb:ADJ->VERB)
+
+"whispering"
+ar (UlAUbAW|DzD)
+ap (UlAUbAW|Gb:ADJ->VERB)
+
+"whist"
+ar (XlWrW^bD)
+ap (XlWrW^bGb)
+
+"white"
+ar (^z|D)
+* ZbWRcA^bGb (face WfIAsI)
+* WjIIjI^bGb (rage RsDDl)
+* QsUcAWz| (water QsI) (liquid WcAZg) (light R|Z)
+* RcAW|DWz| (culture QsD^lb) (race XlWXlA)
+* RcAWz|Wz| (sister UsDj)
+* ^lRbAUcAWz| (wine ]lGlXs)
+* ^z|Gb (boot XbW^lb) (shoe U|DRbI)
+ap (^z|Gb)
+
+# a white night (NOUN) : RcAWd
+# a white old man (NOUN) : RcARbIWz| DlW|D
+# ^be in white terror (VERB) : AfRWg X|IIj ^bWd^Ag Gl|Gb
+# white as a sheet (ADJ) : AlW]lIl ]bI|^cX|Gb
+# ^be white with rage (VERB) : DlWjWsQWzIl WfIAsIW| ZbWRcA^bGb
+# a white space (NOUN) : WjRcA
+# white as snow (ADJ) : AjIRcA^bGb
+# a white army (NOUN) : RbD^jAQjWAsD
+# a white man (NOUN) : UfWU|I^bD UbIbQ
+# a white day (NOUN) : A|IW|I
+# ^bleed A white (VERB) : [(ADJUNCT A/IlRs\f) YbDc<VERB>]/Gb
+# ^make ONE_S  name white again (VERB) : WlQjWWzI V|UGb
+# ^mark with a white stone (VERB) : GcUf\zA]|I^bGb
+# white goods (NOUN) : AbXfWWrW DcAsUlR|Xc
+# white paper (NOUN) : RcAUf
+# white potatoes (NOUN) : AbQXb
+
+"white-colar"
+ar (W|D\gII| X|AWfRW|DWz|)
+ap (W|D\gII| X|AWfRW|DW|Gb)
+
+"white-collar"
+ar (W|D\gII| X|AWfRW|DWz|)
+ap (W|D\gII| X|AWfRW|DW|Gb)
+
+"white-handed"
+ar (UlDW| ^z|D)
+ap (UlDW| ^z|Gb)
+
+"white-hot"
+ar (Uc^bWdD)
+ap (Uc^bWd^Gb)
+
+"white-lipped"
+ar (W|RUsIW| Uc]bIbD)
+ap (W|RUsIW| Uc]bIb^Gb)
+
+"white-livered"
+ar (AfRQbD^WzD)
+ap (AfRW| QbD^Gb)
+
+"whitish"
+ar (XlQ ^z|D)
+ap (XlQ ^z|Gb)
+
+"whity"
+ar (^z|DR|ZWzI H|D)
+ap (^z|DR|ZWzI H|Gb)
+
+"whiz-bang"
+ar (QfUX|D)
+ap (QfUX|Gb)
+
+"whole"
+ar (QlGzD)
+* XfD:ADJ->DET (~ {-PLUR})
+* XfDZg:ADJ->NOUN (earth X|As) (town QbWzI)
+* ^zQW| WfRUGb (plate XfRU|) (furniture AbAs)
+* UbWZf WfRUGb (skin ]|Rs)
+* AfDAbW^bGb (body QlQ) (animal GlWQsI)
+* X|DYbW|Gb (sister DsW|) (truth X|DU|I)
+
+ar (QlGsW|Gb)
+
+# a whole day (NOUN) : QbD ^bIs
+# ^swallow a tablet whole (VERB) : WbIWdAWzI \lWZcIl UbQ[|Gb
+# the whole city (NOUN) : XfDGlU|
+# the whole country (NOUN) : XfDAsA
+# the whole globe (NOUN) : XfDUgAk
+# whole insurance (NOUN) : XfDWcARl^fQ
+# whole life insurance (NOUN) : XlWU|DRl^fQ
+
+"whole-colored"
+ar (GbDUcAWz|)
+ap (GbDUcAW|Gb)
+
+"whole-hearted"
+ar (ZsWU|QWzIlWz|)
+ap (ZsWU|QWzIlW|Gb)
+
+"whole-hoofed"
+ar (GbDZgWz|)
+ap (GbDZgW|Gb)
+
+"whole-length"
+ar (XfDXbWWz|)
+ap (XfDXbWW|Gb)
+
+"whole-meal"
+ar (Q|IAbIsIl QbDGzD)
+ap (Q|IAbIsIl QbDGzIGb)
+
+"whole-wheat"
+ar (\lWQ|IAbIsWz|)
+ap (\lWQ|IAbIsW|Gb)
+
+"wholesale"
+ar (GlQcWz|)
+ap (GlQcW|Gb)
+# wholesale price (NOUN) : GlQcAbAjA
+
+"wholesome"
+ar (AfDAbWWg Xl^WzD)
+ap (AfDAbWWg Xl^Gb)
+
+"whopping"
+ar (WfQZfWDbAg [zD)
+ap (WfQZfWDbAg [zGb)
+
+"whorl"
+ar (DbUfD^jWWz|)
+ap (DbUfD^jWW|Gb)
+
+"whose"
+ar (DsAsWz|)
+
+"wicked"
+ar (UbWbA^bD)
+* X|GlA^bGb (cold AbQA|) (disease RjW)
+* RsI|A| ^|QGzIGb:ADJ->VERB (horse QbI) (animal GlWQsI)
+ap (UbWbA^bGb)
+
+"wide"
+ar (DfIRWzD)
+* ^fIIfW^bGb (dress WlU) (breeches RbDRbX|)
+* [zAg HzAl W|VGb (eyes DsD)
+* GlWHfIWfX|Gb (target ]rXfA) (answer GcGbR)
+* WdAUbASbIzGb (boy UlDjD) (person UbIbQ)
+* DfIRGb (margin QbX|D) (world UgUbW) (desert UbQbA) (appeal WjIlD)
+ap (DfIRGb)
+
+# NUM1 NOUN {+UNIT} ^wide (ADJ) : [(ADJUNCT [(NMODS NUM1{+DGTNUM}) NOUN]/QbD[zQ) DfIR<ADJ>]/Gb
+# ^be wide of the truth (VERB) : X|DI|WlbDzD AfI|Ab QfIGb
+# ^hazard a wide guess (VERB) : WfI|Q^bGb
+# wide culture (NOUN) : W|IRbDArWdW
+# a wide mouth (NOUN) : HbA RfII|D W|R
+# wide ball (NOUN) : \sUsWz| ]lA\s
+
+"wide-angle"
+ar (AlbWAbAWz|)
+ap (AbAW| [zGb)
+
+"wide-awake"
+ar (WbXs XbQW| BcD)
+ap (WbXs XbQW| BcGb)
+
+"wide-eyed"
+ar (DsDWzI [zAg HzD)
+ap (DsDWzI [zAg HzGb)
+
+"wide-mouthed"
+ar (W|RW| [zD)
+ap (W|RW| [zGb)
+
+"wide-open"
+ar ([zAg WjII|D)
+ap ([zAg WjII|Gb)
+
+"widespread"
+ar (]jIZ|D)
+* AlbWRfQWs|^bGb (damage UlD^c) (adoption Zc\cA) (collapse RsWAl|)
+ap (]jIZ|Gb)
+* ]fX|Gb (use UbWrW)
+
+"widish"
+ar (Blc DfIRWzD)
+ap (Blc DfIRGb)
+
+"wieldy"
+ar (GbIsA| Us|WsD)
+ap (GbIsA| Us|RGb)
+
+"wifeless"
+ar (WbDcAb WfRUDzD)
+ap (WbDcAb WfRUGb)
+
+"wifelike"
+ar (WbDcGbWsD)
+ap (WbDcGbRGb)
+
+"wifely"
+ar (WbDcGbWsD)
+ap (WbDcGbRGb)
+
+"wigged"
+ar (AbRbIWzI VzD)
+ap (AbRbIWzI VzGb)
+
+"wiggly"
+ar (^zDGzII|DzD)
+ap (^zDGzII|Gb:ADJ->VERB)
+
+"wild"
+ar (DbD]lA^bD)
+* AlbWIbDWz| (win UzWI|)
+* GbIsA| ^|QGzIGb:ADJ->VERB (children WbW|GzI) (boy UlDjD)
+* QsQl^bGb (hope ^z|QbW) (plan Ak^l|A) (scheme Ak^l|A)
+* UbDbRGb (weather DbIV|) (wind RbIbQ) (storm ]lA]sW) (sea RbGb)
+* WdQbDWz| (people W|DXlW) (person UbIbQ)
+* ^fW[zIWfX|Gb:ADJ->VERB (hair QfI|[bI)
+* ^lbW]k^bGb (field \lX|) (land HbW)
+ap (DbD]lA^bGb)
+
+# ^be wild about A (VERB) : [(ADJUNCT A/Wg) WjIXsW^bAl W|V<VERB>]/Gb
+# ^be wild with A (VERB) : [(OBJ2 A/WgAg) ^lbIzI Dc<VERB>]/Gb
+# ^be wild to A (VERB) : [(OBJ A/IzI) ^bAl U|]Wf^b<VERB>]/Gb
+# ^drice a person wild (VERB) : DbQWzI ^lbDXbW^bAg ^bGb
+# ^grow wild (VERB) : XfIIl DbGb
+# ^run wild (VERB) : GzIWgUf XbIbGb
+# wild and wooly (ADJ) : AfZ|IGb
+# the wild men (NOUN) : AlbAjARsDXb
+# the wild West (NOUN) : Q|AsA UfRsWz| WjIf Xs
+# a wild night (NOUN) : ]lA]sWWs QlIWbZ|DzD RbQ
+# wild beasts (NOUN) : WdUs
+# wild boor (NOUN) : WdUcWWz| GlcX|
+# wild carrot (NOUN) : WdUcWWz| GbWAzD
+# wild flower (NOUN) : WdUcWWz| ^lbZl
+# wild fluctuation (NOUN) : AzRAjA^bD QsIAbRjDGlW
+# wild fowl (NOUN) : GzIUc
+# wild goose (NOUN) : A|IfA|
+# wild hyacinth (NOUN) : ]sWIjWZlWz| W|IXlW
+# wild times (NOUN) : DbDUg
+
+"wild-eyed"
+ar (DsDW| DbI[bIlWsD)
+ap (DsDW| DbI[bIlRGb)
+
+"wildcat"
+ar (QsQl^bD)
+ap (QsQl^bGb)
+
+"wilding"
+ar (WdUcWWz|)
+ap (WdUcWW|Gb)
+
+"wildish"
+ar (XlQ DbD]lA^bD)
+ap (XlQ DbD]lA^bGb)
+
+"wildlife"
+ar (WdUcW GlWQsIWz|)
+ap (WdUcW GlWQsIW|Gb)
+
+"wilful"
+ar (AlWz|XfAW|D)
+ap (AlWz|XfAW|Gb)
+
+"willed"
+ar (Wz|X|Ab W|VDzD)
+ap (Wz|X|Ab W|VGb)
+
+"willful"
+ar (AlWz|XfAW|D)
+ap (AlWz|XfAW|Gb)
+
+"willing"
+ar (A|BfW| ^bDzD)
+ap (A|BfW| ^bGb:ADJ->VERB)
+# ^be willing TO_INF (VERB) : [(MODS [A|BfW|<ADV>]) TO_INF]/^bGb {+FUTURE}
+# willing TO_INF (ADJ) : [(MODS [A|BfW|<ADV>]) TO_INF]/^bGb
+
+"willowy"
+ar (RfGzDbQs Ab\WzD)
+ap (RfGzDbQs Ab\Gb)
+
+"willy-nilly"
+ar (WsWwRsGbD^bD)
+ap (WsWwRsGbD^bGb:ADJ->VERB)
+
+"willynilly"
+ar (WsWwRsGbD^bD)
+ap (WsWwRsGbD^bGb:ADJ->VERB)
+
+"wily"
+ar (Bl|QbD^WzD)
+ap (Bl|Ab QbD^Gb)
+
+"wind-borne"
+ar (RbIbQWzIl WsDRbDGl|DzD)
+ap (RbIbQWzIl WsDRbDGl|Gb:ADJ->VERB)
+
+"wind-broken"
+ar (^l^zRAlDIbDW| Gl|D)
+ap (^l^zRAlDIbDW| Gl|Gb)
+
+"windblown"
+ar (RbIbQWg DbII|D)
+ap (RbIbQWg DbII|Gb)
+
+"windbound"
+ar (RbIbQ HcQsDWg ^bW^cWW| RsIAbDzW^bD)
+ap (RbIbQ HcQsDWg ^bW^cWW| RsIAbDzW^bGb)
+
+"winded"
+ar (UsQW| ZbD) 
+ap (UsQW| ZbGb) 
+
+"winding"
+ar (BsRsIBsRsI^bD)
+* BlRsIBlRsI^bGb (passage \lWIl)
+ar (BsRsIBsRsI^bGb)
+
+"windless"
+ar (RbIbQWfRUDzD)
+ap (RbIbQW| WfRUGb)
+
+"windows-compatible"
+ar (Ws|DGlWsXz ^l^lbDWz|)
+ap (Ws|DGlWsXz ^l^lbDW|Gb)
+
+"windproof"
+ar (RbW]sWWz|)
+ap (RbW]sWUfWW|Gb)
+
+"windswept"
+ar (RbIbQW| ^s|RVzIWzD)
+ap (RbIbQW| ^s|RVzIGb)
+
+"windtight"
+ar (RbIbQW| \lW^bX| WbD^DzD)
+ap (RbIbQW| \lW^bX| WbD^Gb:ADJ->VERB)
+
+"windward"
+ar (RbIbQW| RsIWfWlDzD YlAWz|)
+ap (RbIbQW| RsIWfWlDzD YlAW|Gb)
+
+"windy"
+ar (RbIbQW| RsDzD)
+* QbISsDW|Gb (politician XfWZ|Ab)
+* AbUzAb Al|Gb:ADJ->VERB (food WzQU|A)
+ap (RbIbQW| RsIGb:ADJ->VERB)
+
+# a windy downpour (NOUN) : RbIbDAlb ^bQBg WfAUsAb\W| VlGWbX|DzD R|
+# on the windy side (ADJ) : RfQWs| RbBW|Gb
+
+"wine-colored"
+ar (AfQRsIAWzD)
+ap (AfQRsIAGb)
+
+"wine-coloured"
+ar (]lGlXsUcAWz|)
+ap (]lGlXsUcAW|Gb)
+
+"winged"
+ar (DbIAcAb W|VDzD)
+ap (DbIAcAb W|VGb)
+
+"wingless"
+ar (DbIAcAb WfRUDzD)
+ap (DbIAcAb WfRUGb)
+
+"winless"
+ar (W|A|X| QlU^bD)
+ap (W|A|X| QlU^bGb)
+
+"winning"
+ar (W|A|D)
+ap (W|A|Gb)
+
+"winter"
+ar (AjWsIWz|)
+ap (AjWsIW|Gb)
+
+"winter-beaten"
+ar (ZsWs|Wg UbW^bD)
+ap (ZsWs|Wg UbW^bGb)
+
+"winterly"
+ar (AjWsIWz|)
+ap (AjWsIW|Gb)
+
+"wintery"
+ar (AjWsIAb\WzD)
+ap (AjWsIAb\Gb)
+
+"wintry"
+ar (AjWsIAb\WzD)
+ap (AjWsIAb\Gb)
+
+"winy"
+ar (]lGlXsWz|)
+ap (]lGlXsW|Gb)
+
+"wire-haired"
+ar (\fIW| SbUSbU^bD)
+ap (\fIW| SbUSbU^bGb)
+
+"wired"
+ar (WwUfDWz|)
+ap (WwUfDW|Gb)
+
+"wireless"
+ar (QsUfDWz|)
+ap (QsUfDW|Gb)
+# wireless enthusiast (NOUN) : IbG|Wl AlbW
+# wireless licence (NOUN) : IbG|Wl ZfWZs| ^fAbXzW
+# wireless license (NOUN) : IbG|Wl ZfWZs| ^fAbXzW
+# wireless operator (NOUN) : QsXfDUb
+# wireless picture (NOUN) : XfDUlW UbX|D
+# wireless set (NOUN) : QsUfD XfDU|D A|
+# wireless station (NOUN) : QsXfDAsA
+# wireless telegram (NOUN) : QsUfD XfDU|D
+# wireless telephone (NOUN) : QsUfD XfD^lb
+# wireless telegraphy (NOUN) : QsUfD XfDU|D
+# wireless telegraph (NOUN) : QsUfD XfDU|D
+
+"wireline"
+ar (WwUfDWz|)
+ap (WwUfDW|Gb)
+
+"wiry"
+ar (ZfIUbQlWdWWz|)
+ap (ZfIUbQlWdWW|Gb)
+
+"wise"
+ar (^jDQjW^bD)
+* RbAU|A^bGb (professor ArUs)
+ap (^jDQjW^bGb)
+
+//# ^be wise TO_INF (VERB->ADJ) : [(SCOMP [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) 
+^jDQjW^b<ADJ>]/Gb
+# no wiser than before (ADJ) : WjXfD^| QlIzGb
+# ^put A wise on B  (VERB) : [(OBJ2 A/WgAg) (OBJ B/WzI) (MODS [ZsWRsD^|<ADV>]) 
+WbII|<VERB>]/Gb
+# ^put A wise to B  (VERB) : [(OBJ2 A/WgAg) (OBJ B/WzI) (MODS [ZsWRsD^|<ADV>]) 
+WbII|<VERB>]/Gb
+
+"wishful"
+ar (AbIQbW^bDzD)
+ap (AbIQbW^bGb:ADJ->VERB)
+
+"wishywashy"
+ar (QsIAWzD)
+ap (QsIAGb)
+
+"wispy"
+ar (XbAAg QsBWzD)
+ap (XbAAg QsBGb)
+
+"wistful"
+ar (\bQDcDzD)
+ap (\bQDcGb:ADJ->VERB)
+
+"witch"
+ar (QbIjAWzI AbX|D)
+ap (QbIjAWzI AbX|Gb)
+
+"withdrawn"
+ar (A|]UsAW| GzIWfAbD)
+ap (A|]UsAW| GzIWfAbGb)
+
+"withy"
+ar (X|^k WfRUDzD)
+ap (X|^kAb WfRUGb)
+
+"witting"
+ar (WbDzD)
+ap (WbIGb:ADJ->VERB)
+
+"witty"
+ar (XcZ| W|VDzD)
+ap (XcZ|Ab W|VGb)
+
+"wizard"
+ar (QbRfRUbWz|)
+ap (QbRfRUbW|Gb)
+
+"wizbang"
+ar (UfWAlW^bD)
+ap (UfWAlW^bGb)
+
+"wizen"
+ar (U|GzD)
+ap (U|GzIGb)
+
+"wobbling"
+ar (^zDGzIAfI|DzD)
+ap (^zDGzIAfI|Gb:ADJ->VERB)
+
+"wobbly"
+ar (^zDGzI^zDGzI^bDzD)
+ap (^zDGzI^zDGzI^bGb:ADJ->VERB)
+
+"wobegone"
+ar (UzI]zQWg XbQA|D)
+ap (UzI]zQWg XbQA|Gb)
+
+"woeful"
+ar (R|ZbQ^bD)
+ap (R|ZbQ^bGb)
+
+"wolfish"
+ar (DzAGcAb\WzD)
+ap (DzAGcAb\Gb)
+
+"womanish"
+ar (WjXbAb\WzD)
+ap (WjXbAb\Gb)
+
+"womanlike"
+ar (WjXbAb\WzD)
+ap (WjXbAb\Gb)
+
+"womanly"
+ar (WjXbGbWsD)
+ap (WjXbGbRGb)
+
+"wonder"
+ar (^sIIwW^bD)
+ap (^sIIwW^bGb)
+
+"wonder-stricken"
+ar (DlIIbWsQWg X|II|D)
+ap (DlIIbWsQWg X|II|Gb)
+
+"wonder-struck"
+ar (DlIIbWsQWg X|II|D)
+ap (DlIIbWsQWg X|II|Gb)
+
+"wonderful"
+ar (^sIIwW^bD)
+* WbIzQGbRGb (nature XbWjD) 
+* XzIAfRGb (time U|AbD)
+
+ap (^sIIwW^bGb)
+# wonderful one | (NOUN) : GcGbD^bD AfU
+
+"wondering"
+ar (U|DA|^bAg WjA|DzD)
+ap (U|DA|^bAg WjA|Gb:ADJ->VERB)
+
+"wondrous"
+ar (DlIIbIQbD^bD)
+ap (DlIIbIQbD^bGb)
+
+"wonky"
+ar (^zDGzIAfI|DzD)
+ap (^zDGzIAfI|Gb:ADJ->VERB)
+
+"wont"
+ar (W|AUsA^bD)
+ap (W|AUsA^bGb)
+
+"wonted"
+ar (W|AUsA^bD)
+ap (W|AUsA^bGb)
+
+"wooded"
+ar (DbQsAb QsUfW^bD)
+ap (DbQsAb QsUfW^bGb)
+
+"wooden"
+ar (DbQsWz|)
+ap (DbQsIl QbDGzIGb:ADJ->VERB)
+* Qs]rXfW^bGb (face WfIAsI)
+* RsXbWjDUzIfRGb (action ^cWGlW) (gait AfIWzQAfIW|)
+* QfWZfW^bGb (head QfI|)
+
+"wooden-head"
+ar (WsGsD^bD)
+ap (WsGsD^bGb)
+
+"woodland"
+ar (UbQI|QX|Wz|)
+ap (UbQI|QX|W|Gb)
+
+"woodless"
+ar (UsQlAW| WfRUDzD)
+ap (UsQlAW| WfRUGb)
+
+"woodsy"
+ar (Us]Wz|)
+ap (Us]W|Gb)
+
+"woody"
+ar (DbQsAb WsAfX|D)
+ap (DbQsAb WsAfX|Gb)
+
+"wool-dyed"
+ar (WdWQl ZcIl QsIGzIW|D)
+ap (WdWQl ZcIl QsIGzIW|Gb)
+
+"woolen"
+ar (WdWQlWz|)
+ap (WdWQlIl QbDGzIGb:ADJ->VERB)
+
+"woolhat"
+ar (DbQRs RjAX|Wz|)
+ap (DbQRs RjAX|W|Gb)
+
+"woollen"
+ar (WdW\fIWz|)
+ap (WdW\fIW|Gb)
+
+"woolly"
+ar (WdWQlWz|)
+ap (WdWQlW|Gb)
+
+"wooly"
+ar (WdWQlIl Gl|D)
+ap (WdWQlIl Gl|Gb)
+
+"woozy"
+ar (QfI|Ab QfW^bD)
+ap (QfI|Ab QfW^bGb)
+
+"word-blind"
+ar (U|IWfXzWWz|)
+ap (U|IWfXzWW|Gb)
+
+"word-deaf"
+ar (WfIlWXzWWz|)
+ap (WfIlWXzWW|Gb)
+
+"word-for-word"
+ar (QsDXbAzGcIlWz|)
+ap (QsDXbAzGcIlW|Gb)
+
+"word-of-mouth"
+ar (AsGsWz|)
+ap (QbIIl XfD^bGb:ADJ->VERB)
+
+"word-perfect"
+ar (GcUbIzI WlbDXfD^| WbQA|^bD)
+ap (GcUbIzI WlbDXfD^| WbQA|^bGb)
+
+"wordless"
+ar (QsWfDWz|)
+ap (QbIW| WfRUGb)
+
+"wordy"
+ar (QbIWz|)
+ap (QbIUsAb QbD^Gb)
+
+"workable"
+ar (W|I U|[|I Us W|VDzD)
+ap (W|IWzI U|[|I Us W|VGb)
+# workable competition (NOUN) : U|I^rAjWXcW
+
+"workaday"
+ar (W|I^bDzD DbIWz|)
+ap (W|I^bDzD DbIW|Gb)
+
+"workday"
+ar (W|I^bDzD DbIWz|)
+ap (W|I^bDzD DbIW|Gb)
+
+"working"
+ar (W|I^bDzD)
+ap (W|I^bGb:ADJ->VERB)
+# working assets (NOUN) : WsDWrWXbAzQ
+# working at full capacity (NOUN) : WbDXfDXlWfR
+# working budget (NOUN) : U|I^cWWkUbD
+# working capital (NOUN) : WsDWjW XbRlD
+# working class (NOUN) : DlGlW AkAzR
+# working committee (NOUN) : WsDWjW Ws|WsfD^l|
+# working condition (NOUN) : DlGlWXlAfD
+# working day (NOUN) : Zs|WfRW|I
+# working days (NOUN) : XbAWfRW|IUs
+# working drawing (NOUN) : U|AlWGl
+# working dress (NOUN) : XbAWfRRlA
+# working expenses (NOUN) : WsDWjWR|
+# working fund (NOUN) : WsDXfDXbAzQ
+# working conference (NOUN) : U|IQsXbWz| ^l|GbQ
+# working hypothesis (NOUN) : XbAWfRWz| AbUfI
+# working hour (NOUN) : AzDQs U|AbD
+# working hours (NOUN) : XbAWfRU|AbD
+# working papers (NOUN) : Zs|Il XzWQjWUf
+# working party (NOUN) : XbAWfRRbD
+# working plan (NOUN) : AlWXbAGl
+# working population (NOUN) : DlGlWW|DAs
+# working satellite (NOUN) : U|IWrW Ws|UfW
+# working tour (NOUN) : U|IQsZfI|IzI Ws|^bD ^cWl| Wj^cW
+# working trial balance (NOUN) : U|UbD]r
+
+"working-age"
+ar (DlGlW WjDIjWWz|)
+ap (DlGlW WjDIjWW|Gb)
+
+"working-day"
+ar (W|I^bDzD DbIWz|)
+ap (W|I^bDzD DbIW|Gb)
+
+"workless"
+ar (W|IW| WfRUDzD)
+ap (W|IW| WfRUGb)
+
+"workly"
+ar (X|AAlWGbWsD)
+ap (X|AAlWGbRGb)
+
+"workmanlike"
+ar (X|AAlWGbWsD)
+ap (X|AAlWGbRGb)
+
+"world-wide"
+ar (UgAkXfAW|D)
+ap (UgAkXfAW|Gb)
+
+"worldly"
+ar (W|UgUbWWz|)
+ap (W|UgUbWW|Gb)
+
+"worldly-minded"
+ar (UlAGl|D)
+ap (UlAGl|Gb)
+
+"worldlyshaking"
+ar (UgAkIzI DlIIbAg ^bDzD)
+ap (UgAkIzI DlIIbAg ^bGb:ADJ->VERB)
+
+"worldlyweary"
+ar (UgUbWW| U|I^WfX|D)
+ap (UgUbWW| U|I^WfX|Gb)
+
+"worldlywise"
+ar (ZfUgUsIWg DzW^bD)
+ap (ZfUgUsIWg DzW^bGb)
+
+"worldwide"
+ar (UgAkXfAW|D)
+ap (UgAkXfAW|Gb)
+
+"worm-eaten"
+ar (RfIIg QfAWzD)
+ap (RfIIg QfAGb)
+
+"wormy"
+ar (RfIIg Rs\WzD)
+ap (RfIIgAb Rs\Gb)
+
+"worn"
+ar (^gWfX|D)
+ap (^gWfX|Gb)
+# worn coin (NOUN) : ]bUlD AjW^lb
+
+"worn-out"
+ar (VfUf Gb DbIAWzD)
+ap (VfUf Gb DbIAGb)
+
+"worried"
+ar (HbA^bD)
+ap (HbA^bGb)
+
+"worriless"
+ar (AzDU|Q WfRUDzD)
+ap (AzDU|QW| WfRUGb)
+
+"worrisome"
+ar (BfI|QX|A^bD)
+ap (BfI|QX|A^bGb)
+
+"worrying"
+ar (UfWAbU|D)
+ap (UfWAbU|Gb)
+
+"worse"
+ar (GfWsA DbSzD)
+ap (GfWsA DbSzGb)
+# ^be worse off (VERB) : UbII|QW| WfIjRGb
+# ^be worse than ONE_S  word (VERB) : WdAUlAWzI WfA|Gb
+# ^be the worse for A (VERB) : [(ADJUNCT [(COMP A) HcQsD<NOUN>]/Wg) (ADJUNCT [WfIjWsQ<NOUN>]/Wg) 
+Zf^cW|V<VERB>]/Gb
+# ^be worse than useless (VERB) : Ww^cQsW|A^bGb
+# ^change for the worse (VERB) : WbA^lbGl|Gb
+# so much the worse (ADJ) : AzQbD[zQ Wl^|Ij Gf DbSzGb
+# the worse for drink (ADJ) : UsI Zs|^bGb
+# the worse for wear (ADJ) : W|RWfUf DbIAGb
+# what is worse (ADV) : UfIUbWAbUbWWzIl
+# ^be none the worse for A (VERB) : [(ADJUNCT [(COMP A/WgGl) RsIAs^b<VERB>]/Al) (COMP [(RELCL [Ab\<ADJ>]/^bD) UbW\c<NOUN>]) _<ADJ>]<W|>/Gb
+# to make matters worse (ADV) : UfIUbWAbUbWWzIl
+# to make matters worse than all (ADV) : UfIUbWAbUbWWzIl
+
+"worshipful"
+ar (QjWWkW|VDzD)
+ap (QjWWkAb W|VGb)
+
+"worst"
+ar (AbXbW DbSzD)
+ap (AbXbW DbSzGb)
+
+"worth"
+ar (AbZ| W|VDzD)
+ap (AbZ| W|VGb)
+# ^be worth PRESP (VERB->ADJ) : 
+  [(COMP [(RELCL PRESP/^bI) AbZ|<NOUN>]/Ab) W|V<VERB>]/Gb
+# ^be worth a A (VERB->ADJ) : [(SCOMP [(RELCL A/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+# ^be worth while TO_INF (VERB->ADJ) : 
+ [(SCOMP [(RELCL TO_INF/^bI) AbZ|<NOUN>]/Ab) W|V<VERB>]/Gb
+# worth PRESP (PP) : [(SUBJ [(RELCL PRESP/^bI) AbZ|<NOUN>]/Ab) W|V<VERB>]/Gb 
+# worth while TO_INF (ADJ) : 
+[(SCOMP [(RELCL TO_INF/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+
+"worthless"
+ar (AbZ|Ab WfRUDzD)
+ap (AbZ|Ab WfRUGb)
+
+"worthwhile"
+ar (^bI AbZ|Ab W|VDzD)
+ap (^bI AbZ|Ab W|VGb)
+# ^be worthwhile TO_INF (VERB->ADJ) : [(SCOMP [(RELCL TO_INF/^bI) AbZ|<NOUN>]/Ab) W|V<VERB>]/Gb
+
+"worthy"
+ar (AbZ|Ab W|VDzD)
+ap (AbZ|Ab W|VGb)
+# be worthy of PRESP (VERB->ADJ) : 
+  [(SCOMP [(RELCL PRESP/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb
+# worthy of A (ADJ) : [(SCOMP [(RELCL A/^bI) AbZ|<NOUN>]/Ab) W|V<ADJ>]/Gb 
+
+"would"
+ar (Gl|I XbAXfWW|D) 
+ap (Gl|I XbAXfWW|Gb)
+# || would you like TO_INF (SENT) : (QUES TO_INF/^bGb)
+
+"would-be"
+ar (Q|IcWz|)
+ap (Q|IcW|Gb)
+
+"wounded"
+ar (RsUbWGbW^bD)
+ap (RsUbWGbW^bGb)
+
+# the wounded (NOUN ADJ) : 1) RsUbWGbW^bD UbIbQGzI 
+2) [RsUbWGbW^b<VERB>]/Gb{-PRES, +PAST}
+# NUM1 wounded (NOUN) : [(POSS [(NMODS NUM1) QjW<NOUN>]/Wz|) RsUbWXb<NOUN>]
+
+"wrapt"
+ar (WrWdA^bD)
+ap (WrWdA^bGb)
+
+"wrathful"
+ar (AjARsD^bD)
+ap (AjARsD^bGb)
+
+"wrathy"
+ar (AjARsD^bD)
+ap (AjARsD^bGb)
+
+"wrecking"
+ar (DbD]bU|[|DzD)
+ap (DbD]bU|[|Gb:ADJ->VERB)
+
+"wretched"
+ar (R|ZbQ^bD)
+ap (R|ZbQ^bGb)
+
+"wriggly"
+ar (BsQ\zIAfI|DzD)
+ap (BsQ\zIAfI|Gb:ADJ->VERB)
+
+"wrinkly"
+ar (XsIzQX|D)
+ap (XsIzQX|Gb)
+
+"written"
+ar (VzD)
+ap (VzGb)
+# written agreement (NOUN) : UfQjDAkWdA
+# written enquiry (NOUN) : UfQjDXl^l|
+# written evidence (NOUN) : XzWR|WUfIw
+
+"wrong"
+ar (\zII|D)
+* XbIQlUGl|Gb:ADJ->VERB (road A|I) (anything WfDzAfU)
+ap (\zII|Gb)
+# || what be wrong ? (SENT) :  (QUES [(SUBJ [QsWfU<PRON>]/W|) XbIQlUGl|<ADJ>]/Gb{-PRES, +PAST})
+# || what be wrong with A ? (SENT) : 
+    (QUES [(SUBJ [QsWfU<PRON>]/W|) (ADJUNCT A/Wg) XbIQlUGl|<VERB>]/Gb)
+# wrong with A (ADJ) : [(ADJUNCT A/WgAg) XbIQlUW| W|V<ADJ>]/Gb
+
+"wrongful"
+ar (DbSzD)
+ap (DbSzGb)
+# wrongful dismissal (NOUN) : RsGbW^cAl
+
+"wrongheaded"
+ar (UcWAbAW| AzIzUGl|D)
+ap (UcWAbAW| AzIzUGl|Gb)
+
+"wrongous"
+ar (RsIRfRWz|)
+ap (RsIRfRW|Gb)
+
+"wrought"
+ar (QbDGzD)
+ap (QbDGzIGb)
+
+"wrought-up"
+ar (^zWRsD^bD)
+ap (^zWRsD^bGb)
+
+"wry"
+ar (R|HsIWfX|D)
+ap (R|HsIWfX|Gb)

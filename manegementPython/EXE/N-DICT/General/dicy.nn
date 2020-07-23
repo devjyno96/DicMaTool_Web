@@ -1,0 +1,701 @@
+"Yahoo"
+(Wd^s)
+
+"Yahoo Inc."
+(Wd^s)
+
+"Yahoo!"
+(Wd^s)
+
+"Year"
+(DjD)
+# Year NUM1 (NOUN) : [(NMODS NUM1) DjD<NOUN>]
+# Year 2000 (NOUN) : 2000DjD
+# Year 2000 testing (NOUN) : 2000DjD QsDXg AfQUb
+
+"Yellowstone"
+% CONCRETE MATERIAL PLACE
+(WkIIlUz\lD)
+# Yellowstone National Park (NOUN) : WkIIlUz\lD AsAI|RAlWWsfD
+
+"Yemen"
+% PLACE
+(WkQgD)
+
+"Yokohama"
+% PLACE
+(Wr[l^bQb)
+
+"Yongsan"
+% PLACE
+(WrWUbD)
+
+"Yonsei University"
+(WjDUgGc^bAAr)
+
+"Young Creditor"
+(ZlA|ZcAsfDAsA)
+
+"Young Debtor"
+(ZlA|ZcQsAsA)
+
+"Yugoslavia"
+% ORGAN PLACE
+(WwAlUzIIbR|Wb)
+
+"Yasser Arafat"
+(WbIb]b\z)
+
+"y"
+(y)
+
+"y-axis"
+% MATERIAL 
+(y-axis)
+
+"yabber"
+% ACTION
+(UsGb)
+
+"yacht"
+% CONCRETE ANIMAL MATERIAL 
+(Wr\z)
+
+"yachting"
+% MATERIAL 
+(Wr\z DlIW|)
+# ^go yachting (VERB) : Wr\z \bIf AbGb
+# yacht man (NOUN) : Wr\z XlXlWUb
+# yacht match (NOUN) : Wr\z AjWXs
+# yacht race (NOUN) : Wr\z AjWXs
+
+"yacketyyak"
+% ACTION
+(AcAGbQ)
+
+"yaffil"
+% ANIMAL
+(ZfWHbAHbAsI|)
+
+"yaffle"
+% ANIMAL
+(ZfWHbAHbAsI|)
+
+"yager"
+% ANIMAL
+(GlGsA AbIQcA|)
+
+"yak"
+% CONCRETE ANIMAL MATERIAL ACTION
+(AcAGbQ)
+
+"yak"
+% CONCRETE ANIMAL MATERIAL 
+(Wd[z)
+# yak lace (NOUN) : Wd[z\bIIl YbD IgW|Uz
+
+"yak"
+% CONCRETE ANIMAL MATERIAL 
+(Wd[z^jW XfD\sA|)
+
+"yak"
+% CONCRETE ANIMAL MATERIAL 
+(WsUWzQ)
+
+"yakut"
+% HUMAN
+(Wk[sWs\z UbIbQ)
+
+"yaleman"
+% HUMAN
+(WkW|IGc^bA ZsIU|DXb)
+
+"yam"
+% CONCRETE MATERIAL 
+(Qb)
+
+"yang"
+(WdW)
+
+"yank"
+% HUMAN
+(WdW[|)
+
+"yankee"
+% HUMAN
+(WdW[|)
+
+"yankeedom"
+% PLACE ORGAN
+(WdW[|DbIb)
+
+"yankeeism"
+(WdW[| A|X|I)
+
+"yankeeland"
+% PLACE ORGAN
+(WdW[|DbIb)
+
+"yannigan"
+% ORGAN
+(^sRl UfDUsGbD)
+
+"yanqui"
+% HUMAN
+(WdW[|)
+
+"yaourt"
+% FOOD
+(Wr[sIz\z)
+
+"yap"
+% CONCRETE MATERIAL 
+(X|XDzD UlI|)
+
+"yapp"
+(WcR^jW XcRlD)
+
+"yarborough"
+(9 XfQ W|UbWWz| ]cAb WfRUDzD Us)
+
+"yard"
+% CONCRETE MATERIAL PLACE
+(WdGz)
+# NUM1 yard (NOUN) : [(NMODS NUM1) WdGz<NOUN>]
+# NUM1 yard away $ (ADV) : (ADJUNCT [(NMODS NUM1) WdGz<NOUN>]/HfIWfXjUf)
+# back yard (NOUN) : Gs|UHzI
+# front yard (NOUN) : Wb]QbGbW
+# mere yards away $ (ADV) : QjZWdGz HfIWfXj
+
+"yardage"
+% ECOLIFE
+(UbWrWAsfD)
+
+"yardarm"
+% MATERIAL 
+(GlZAbIzQGcWz| Bz\)
+
+"yardbird"
+% HUMAN
+(ZlDjDRjW)
+
+"yardman"
+% HUMAN
+(XfDZfIUs)
+
+"yardmaster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlZb AcXbW)
+
+"yardstick"
+% CONCRETE ANIMAL MATERIAL 
+(WdWbGzXb)
+# a yardstick of national progress (NOUN) : AsAAb RbIXfDWz| ZfAGl
+
+"yardwand"
+(WdWbGzXb)
+
+"yarn"
+% CONCRETE MATERIAL 
+(U|I)
+# yarn count (NOUN) : RfDUs
+
+"yarnsmith"
+% HUMAN
+(XbAAb)
+
+"yarrow"
+% MATERIAL PLANT
+(UfWdW AbUc]sIUlA)
+
+"yashmak"
+(RgW|I)
+
+"yataghan"
+% CONCRETE ANIMAL MATERIAL 
+(^l|ArGlWz| A|D [bI)
+
+"yatata"
+% ACTION
+(AcAGbQ)
+
+"yattity-yattity"
+% ACTION
+(UsGb)
+
+"yawl"
+% CONCRETE MATERIAL 
+(RcWg U|IWzD Rl\z)
+
+"yawn"
+% MATERIAL ACTION
+(^b]sQ)
+# with a yawn (PP->ADV) : ^b]sQ^bQjDUf
+
+"yaws"
+(W|DGlGs)
+
+"yea"
+% CONCRETE MATERIAL 
+(AzWXfW)
+
+"yeanling"
+% ANIMAL
+(UcB|WdW UcB|WjQUl)
+
+"year"
+% CONCRETE TIME MATERIAL 
+(DjD)
+# NUM1 {-ORDNUM} consecutive year (NOUN) : [(NMODS [(MODS NUM1) DjD<NOUN>]) WjDUlA<NOUN>]
+# NUM1 {-ORMNUM} or NUM2 {-ORDNUM} year (NOUN) : [(MODS NUM1) (NMODS NUM2) DjD<NOUN>]
+# NUM1 {-ORDNUM} streak year (NOUN) : [(NMODS [(NMODS NUM1) DjD<NOUN>]) WjDUlA<NOUN>]
+# NUM1 {-ORDNUM} year (NOUN) : [(NMODS NUM1) DjD<NOUN>]
+# NUM1 {-ORDNUM} years old {-COMPR} (ADJ) : [(COMP [(NMODS NUM1) UbI<NOUN>]) _<ADJ>]<W|>/Gb
+# NUM1 {-ORDNUM} years of ONE_S sentence (NOUN) : [(NMODS [(POSS ONE/Wz|) ^jWA|XsW<NOUN>]) (NMODS NUM1) DjD<NOUN>]
+# NUM1 {-ORDNUM} more years (NOUN) : [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) W|UbW<NOUN>]
+# NUM1 {-ORDNUM} or NUM2 {-ORDNUM} year old {-COMPR} (ADJ) : [(COMP [(ADJUNCT [(NMODS NUM1{+HALNUM}) UbI<NOUN>]/W|AfDb) (NMODS NUM2 {+HALNUM}) UbI<NOUN>]) _<ADJ>]<W|>/Gb
+# NUM1 to NUM2 years (NOUN) : [(NMODS [(ADJUNCT NUM1/WgUf) NUM2]) DjD<NOUN>]
+# NUM1 {+ORDNUM} year high school (NOUN) :[(NMODS [AlGzW^bAAr<NOUN>]) (NMODS NUM1 {+DGTNUM}) ^bADjD<NOUN>]
+# NUM1 {-ORDNUM} years after A (ADV) : (ADJUNCT [(NMODS [(NMODS [(POSS A/Wz|) 
+NUM1 ] {+DGTNUM}) DjD<NOUN>]) ^s<NOUN>]/Wg)
+# NUM1 {-ORDNUM} years before | (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wg)
+# NUM1 {-ORDNUM} years before A (ADV) : (ADJUNCT [(NMODS [(NMODS [(POSS A/Wz|) 
+NUM1] {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wg)
+# NUM1 {-ORDNUM} years before SENT (ADV) : (ADJUNCT [(ADJUNCT SENT/^bA|) 
+(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wg)
+# NUM1 {-ORDNUM} years from now (NOUN ADV) : 1) [(MODS [X|AzQRs\f<ADV>]) (NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) ^s<NOUN>] 
+					     2) (ADJUNCT [(MODS [X|AzQRs\f<ADV>]) (NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) ^s<NOUN>]/Wg)
+# NUM1 {-ORDNUM} years later (ADV) : [(NMODS [(NMODS NUM1) DjD<NOUN>]) ^s<NOUN>]/Wg
+# NUM1 {-ORDNUM} years of A (NOUN) : 
+[(POSS [(COMP [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) AbD<NOUN>]/Wz|) A]
+# NUM1 {-ORDNUM} years of ^PRESP (VERB) : [(ADJUNCT [(NMODS NUM1 {+DGTNUM}) 
+DjDAbD<NOUN>]) PRESP]/^bGb
+# a few years (NOUN) : QjZ^c
+# a few years later (ADV) : QjZ^c ^sWg
+# a year (NOUN ADV) : 1) 1 DjD 
+		      2) DjDGbW
+# a year and a day (NOUN) : QbD 1 AcDjD
+# a year from now $ (NOUN ADV) : 1) X|AzQRs\f 1DjD^s
+                                 2) X|AzQRs\f 1DjD^s
+# a year ago (NOUN) : 1 DjD XfD
+# a year later (ADV) : 1 DjD ^sWg
+# a year or two $ (NOUN) : 1DjDW|Db 2DjD
+# academic year (NOUN) : ^bADjD
+# all the year round (ADV) : W|IDjDDcDc
+# all the years before (ADV) : WjIf ^c XfDWg
+#' all year (ADV) : W|IDjDDcDc
+# ^be NUM1 {-ORDNUM} year of age (VERB->ADJ) : [(COMP [(NMODS NUM1 {+DGTNUM}) UbI<NOUN>]) _<ADJ>]<W|>/Gb
+# ^be friends for NUM1 {-ORDNUM} years (VERB) : [(ADJUNCT [(NMODS NUM1 {+DGTNUM}) DjDAbD<NOUN>]) (SCOMP [Z|DAs<NOUN>]/Il) X|Dc<VERB>]/Gb 
+# ^be in ONE_S NUM1 {+ORDNUM} year of school (VERB->ADJ) : [(ADJUNCT [^bAAr<NOUN>]/WgUf) (COMP [(NMODS NUM1 {+DGTNUM}) ^bADjD<NOUN>]) _<ADJ>]<W|>/Gb
+# common year (NOUN) : ]jWDjD
+# coming year (NOUN) : WlDzD ^c 
+# bad year (NOUN) : ^wWDjD
+# by the year NUM1 (PP->ADV) : 
+(ADJUNCT [(NMODS [(NMODS NUM1) DjD<NOUN>]) AjW<NOUN>]/WgDzD)
+# date year (NOUN) : U|A|
+# declining years (NOUN) : DlIjW
+# during the past year (PP->ADV) : AlbAfWg
+# each year (NOUN) : QcDjD
+# first couple of years (NOUN) : ZfWzQ 2DjD
+# fiscal year (NOUN) : ^l|AkDjDGl
+# following later this year (ADV) : AzQDjD ^sRbDA| W|^sWg
+# for NUM1 {-ORDNUM} years straight $ (PP->ADV) :
+  (ADJUNCT [(COMP [(MODS [WjDUlA<ADV>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) GlWWbD<NOUN>])
+# for a number of years (PP->ADV) : QjZDjDGlWWbD
+# for over NUM1 years (PP->ADV) : (ADJUNCT [(COMP [(NMODS NUM1) DjDWj<NOUN>]) GlWWbD<NOUN>])
+# junior year (NOUN) : 3^bADjD
+# over NUM1 years (NOUN ADV) : 
+1) (ADJUNCT [(NMODS [(NMODS NUM1) DjDWj<NOUN>]) W|UbW<NOUN>])
+2) (ADJUNCT [(NMODS [(NMODS NUM1) DjDWj<NOUN>]) W|UbW<NOUN>])
+# for years $ (PP->ADV) : WjIf^c GlWWbD
+# formative year (NOUN) : ^jWUfWA|
+# from year to year (PP->ADV) : ^cQbGb
+# half a year (NOUN) : RbDDjD
+# happy new year (NOUN) : ^cWRlA^bD Uc^c
+# hundreds of years (NOUN) : UsRcADjD
+# in a year's time (PP->ADV) : 1 DjD X|DbQjD
+# in coming years | (PP->ADV) : Wb]WzIl
+# in recent years | (PP->ADV) : Wb]WzIl
+# in recent years (ADJ) : Zl|AzDWg
+# in the NUM1 {-ORDNUM} years of ONE_S rule (PP->ADV) : (ADJUNCT [(COMP [(POSS [(NMODS NUM1) DjDAbD<NOUN>]/Wz|) (POSS ONE/Wz|) X|Rc<NOUN>]) GlWWbD<NOUN>])
+# in the year one (PP->ADV) : UfA| 1 DjDWg
+# in the years ahead (PP->ADV) : WjIf^c Wb]Uf
+# in those years | (PP->ADV) : Az QsIjRWg
+# in years | (PP->ADV) : DbW|IzI QfAWf
+# it be ADJ year before SENT (SENT) : [(ADJUNCT [(COMPCL SENT/^bDzD) Gg<NOUN>]) 
+(SUBJ [(AMODS ADJ/^bD) UgWsfI<NOUN>]/W|) AfII|<VERB>]/Gb
+# last couple years (NOUN) : X|DbD 2DjD 
+# last few years (NOUN) : X|DbD QjZDjD
+# last year (NOUN) : XbADjD
+# leap year (NOUN) : WwDDjD
+# less than NUM1 years old $ (ADJ) : 
+  [(SCOMP [(NMODS NUM1) DjD<NOUN>]/W|) (MODS [GfI<ADV>]) Gl|<VERB>]/Gb
+# lunar year (NOUN) : \cWzQDjD
+# many years ago (NOUN) : WjIf^c XfD
+# many years later (ADV) : WjIf^c ^s
+# more than NUM1 {-ORDNUM} years ago (ADV) :
+  (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) DjDWj<NOUN>]) XfD<NOUN>]/Wg)
+# next full year (ADV NOUN) : 1) GbWzQ^c DcDc 
+			      2) GbWzQ^c XfDRs
+# next year (NOUN) : DcDjD
+# over NUM1 {-ORDNUM} years before | (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) W|UbW<NOUN>]) XfD<NOUN>]/Wg)
+# over the years (PP->ADV) : UsDjDGlWWbD
+# past NUM1 years (NOUN ADV) : 1) [(NMODS [X|DbD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]
+   2) (ADJUNCT [(COMP [(MODS [X|DbD<ADV>]) (NMODS NUM1) DjD<NOUN>]) GlWWbD<NOUN>])
+# rice year (NOUN) : Q|AlADjDGl
+# school year (NOUN) : ^bADjD
+# some NUM1 years ago (NOUN) : [(MODS [WdA<ADV>]) (NMODS [(NMODS NUM1) DjD<NOUN>]) XfD<NOUN>]
+# some years ago (NOUN) : QjZ^c XfD
+# some years earlier (ADV) : QjZDjDXfDWg
+# succeeding years (NOUN) : WjDW|WzD WjIf ^c
+# the NUM1 {+ORDNUM} straight year (NOUN) : 
+  [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) WjDUlA<NOUN>]
+# the early years (NOUN) : ZlA|
+# the last NUM1 years (NOUN) : [(MODS [X|DbD<ADV>]) (NMODS NUM1) DjD<NOUN>]
+# the last NUM1 years of ONE_S life (NOUN) : 
+  [(POSS ONE/Wz|) (NMODS [UcWWc<NOUN>]) (NMODS [QbX|QbA<NOUN>]) (NMODS NUM1) DjD<NOUN>]
+# the next year (NOUN ) : Az W|GzQ^c
+# the following year (NOUN ADV) : Az W|GzQ^c
+# the previous year (NOUN) : Az XfD^c
+# the seasons of the year (NOUN) : Az ^cWz| AkXfI
+# the year (NOUN) : Az ^c
+# the year NUM1 (NOUN) : [(NMODS NUM1) DjD<NOUN>]
+# the year after next (NOUN) : Dc^sDjD
+# the year before (NOUN) : Az XfD^c
+# the year before last (NOUN ADV) : XcXbADjD
+# the year of grace (NOUN) : UfIjA
+# the year when SENT (NOUN) : [(RELCL SENT/^bI) Hc<NOUN>]
+# the years (NOUN) : WjIf^c
+# the years before (NOUN) : WjIf ^c XfD
+# the years go by || (SENT) : UgWsfIW| X|DbGb
+# the years of living together (NOUN) : ^bQBg UcW^lbI^bD UgWsfI
+# the years to come $ (NOUN) : Wb]WzIl QjZDjD
+# these NUM1 years (ADV) : [(MODS [Zl|AzD<ADV>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]
+# these years (ADV NOUN) : 1) Zl|AzDWg
+			   2) W|GzI ^c
+# this ^year (NOUN) : AzQDjD
+# thousands of years (NOUN) : UsZfDDjD
+# year NUM1 A.D (NOUN) : [(NMODS [UfA|<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]
+# year NUM1 B.C (NOUN) : [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]
+# year after year (ADV) : ^cQbGb
+# year book (NOUN) : WjDAbQ
+# year by year (ADV) : QcDjD
+# year in and year out (ADV) : ^cQbGb
+# year in year out (ADV) : ^cQbGb
+# years before (NOUN) : WjIf ^c XfD
+# years later (ADV) : WjIf ^c ^s
+# years of ^A (NOUN) : [(POSS [UsDjDAbD<NOUN>]/Wz|) A]
+
+"year-end"
+% MATERIAL TIME
+(DjDQbI)
+# a year end bargain sale (NOUN) : WjDQbI GcQcZsI
+# year end bonus (NOUN) : WjDQbI UbWWjAzQ
+
+"yearend"
+(WjDQbI)
+
+"yearling"
+% CONCRETE ANIMAL MATERIAL 
+(QbD 1 UbIWz| UcB|)
+
+"yearning"
+% MATERIAL MIND
+(GlWAjW)
+
+"yeast"
+% CONCRETE MATERIAL 
+(^rQl)
+# yeast poweder (NOUN) : RgW|[|W ]bWsGf
+# yeast cake (NOUN) : ^rQl AlbXb
+
+"yeast-powder"
+(RgW|[|W ]bWsGf)
+
+"yegg"
+% ACTION
+(AbWGl)
+
+"yeggman"
+% HUMAN
+(AbWGl)
+
+"yell"
+% CONCRETE MATERIAL 
+(Wl|Z|QUlI|)
+
+"yellow"
+% CONCRETE MATERIAL 
+(^lbWUcA)
+# yellow paint (NOUN) : DlIbD ]gW|D\z
+# yellow peril (NOUN) : ^lbW^lb
+
+"yellowbelly"
+% HUMAN
+(AfRXbWW|)
+
+"yellowbill"
+% ANIMAL
+(^zIAWlI|)
+
+"yellowbird"
+% CONCRETE ANIMAL MATERIAL 
+(DlIbDUc)
+
+"yellowhammer"
+% CONCRETE ANIMAL MATERIAL 
+(RbWWsIUc)
+
+"yellowleg"
+% ANIMAL
+(DlIbWRbIGlWr)
+
+"yellowness"
+% CONCRETE MATERIAL 
+(DsIzQ)
+
+"yelp"
+(BcWBcW WsDzDUlI|)
+
+"yemeni"
+% HUMAN
+(WkQcDUbIbQ)
+
+"yemenite"
+% HUMAN
+(WkQcD UbIbQ)
+
+"yen"
+% CONCRETE UNIT MATERIAL 
+(WgD)
+# yen credit (NOUN) : WgDZbAlbD
+# yen exchange (NOUN) : WgD^lbD
+# yen sale (NOUN) : WgDUgW|I
+# yen shift (NOUN) : WgDUs|]z\z
+# yen switch (NOUN) : WgDUs|]z\z
+
+"yen"
+% CONCRETE UNIT MATERIAL MIND
+(WjIQbW)
+# ^have a yen for A (VERB) : [(OBJ A/WzI) WjIQbW^b<VERB>]/Gb
+
+"yenta"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsGbUzIfD WjXb)
+
+"yeoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbWwQ|D)
+
+"yeomanry"
+% HUMAN
+(XbWwQ|D)
+
+"yes"
+% CONCRETE MATERIAL 
+(Wk)
+
+"yesterday"
+% CONCRETE TIME MATERIAL 
+(WfXg)
+
+# ^be what ONE be yesterday {+NEG} (VERB) : 
+  [(POSS [WfXg<NOUN>]/Wz|) (SCOMP ONE/W|) WbD|<ADJ>]/Gb
+# the day before yesterday (NOUN) : AzXfBg
+
+"yet"
+(WbX|A)
+
+"yew"
+% CONCRETE MATERIAL 
+(XsQlA)
+
+"yid"
+% HUMAN
+(WwGcW|D)
+
+"yield"
+% CONCRETE MATERIAL 
+(UsW|AIwI)
+# rate of yield (NOUN) : W|WwI
+# yield on investment (NOUN) : WsDWrWW|Xb
+# yield on new issues (NOUN) : WzWQlXbW|Xb
+# yield to call (NOUN) : XlUbWUbW^lbDBbX|Wz| W|Xb
+# yield to maturity (NOUN) : QbDA|W|Xb
+# yield to subscribers (NOUN) : WzWQlXbW|Xb
+# Treasury yields (NOUN) : Q|AsA AsAZc UsW|AIwI
+"yin"
+(WzQ)
+
+"yip"
+(BcWBcWX|XDzD UlI|)
+
+"yippie"
+% HUMAN
+(W|]|)
+
+"ylang-ylang"
+% PLANT
+(W|IIbWW|W|IIbWDbQs)
+
+"yo-yo"
+% CONCRETE MATERIAL 
+(WrWr)
+
+"yob"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DRjW)
+
+"yock"
+([zD WsUWzQ)
+
+"yodel"
+(WrWsGzI)
+
+"yodle"
+(WrWsGzI)
+
+"yoga"
+% MATERIAL 
+(WrAb)
+
+"yoga"
+% MATERIAL 
+(WrAb)
+
+"yogi"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwAb Us^cWXb)
+
+"yogism"
+(WwAbWz| ArI|)
+
+"yogurt"
+% CONCRETE MATERIAL FOOD
+(WrAsIz\z)
+
+"yohimbine"
+(Wr^|QR|D)
+
+"yoke"
+% CONCRETE MATERIAL 
+(QfWWg)
+
+"yokebone"
+% ANIMAL
+(AlbWGcSj)
+
+"yokefellow"
+% HUMAN
+(GlWIr)
+
+"yokel"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|AlIHzA|)
+
+"yokelines"
+([| XlXlWXsI)
+
+"yokemate"
+(DlIzD XbWs|)
+
+"yokeropes"
+([| XlXlWXsI)
+
+"yoni"
+(WrWzQUbW)
+
+"york"
+(WrWl[z)
+# New York (NOUN) : DwWrA
+
+"yorkist"
+% HUMAN
+(WrWl[z GbWWsfD)
+
+"you-know-what"
+(Xf AzAf)
+
+"young"
+% CONCRETE ANIMAL MATERIAL 
+(XfIQWzDW|GzI)
+# ONE_S young $ (NOUN) : [(POSS ONE/Wz|) UcB|<NOUN>]
+
+"youngers"
+% HUMAN
+(UlDWbIc UbIbQGzI)
+
+"youngest"
+% HUMAN
+(AbXbW WfI|D UbIbQ)
+
+"youngling"
+(WfI|D AfU)
+
+"youngster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfIQWzDW|)
+
+"youth"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfIQWzDW|)
+# in ONE_S youth (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|)  (NMODS [XfIQWzD U|XfI<NOUN>]) Hc<NOUN>]/DzD)
+# youth market (NOUN) : XfIQWzDW| U|XbW
+
+"youthfulness"
+% CONCRETE MATERIAL 
+(XfIQWzQ)
+
+"yperite"
+(W|]gI|\z)
+
+"ysh"
+% HUMAN
+(RfUfUGlIW| GlAUb WdWUzW^jD)
+
+"ytterium"
+(W|\gIzRwQ)
+
+"yttrium"
+% CONCRETE MATERIAL 
+(W|\zIwQ)
+
+"yuan"
+% CONCRETE UNIT MATERIAL 
+(Ws|WbD)
+# offshore yuan (NOUN) : WjAWl| Ws|WbD^lb
+
+"yucca"
+% CONCRETE ANIMAL MATERIAL PLANT
+(U|IIbD DbQs)
+
+"yuck"
+(BfIBfI WsUWzQ)
+
+"yuddish"
+(W|G|U| QbI)
+
+"yugoslav"
+% HUMAN
+(WwAlUzIIbR|Wb UbIbQ)
+
+"yugoslavia"
+% PLACE ORGAN
+(WwAlUzIIbR|Wb)
+
+"yuk"
+(BfIBfI WsUWzQ)
+
+"yule"
+([zI|UzQbUzWz| ZsAXg)
+
+"yuletide"
+% TIME
+([zI|UzQbUzWz| AkXfI)
+
+"yumyum"
+% FOOD
+(QbUW|VDzD AfU)
+
+"yuppie"
+(Wj]|)

@@ -1,0 +1,3354 @@
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+
+# NUM1 feet above A (ADJ ADV) : 
+	1) [(ADJUNCT [(ADJUNCT [(NMODS A) Ws|<NOUN>]/Il) (NMODS NUM1) ]|\z<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# ^be as AJP as PRESP (VERB->ADJ) : [(MODS [(COMPCL PRESP/^bDzD) QbD[zQ<NOUN>]) AJP]/^bGb
+
+//# ^be as ADJ as PRON be (VERB->ADJ) : [(ADJUNCT PRON/QbD[zQ) ADJ]/^bGb
+
+# ^be so AJP as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) AJP]/^bGb
+
+# as TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bI) QbD[zQ<ADV>])
+
+#' as ADJ || (PP->ADV) : (ADJUNCT [(RELCL ADJ/^bD) AfU<NOUN>]/Il)
+
+//# as ADJ as SENT (ADJ ADV) : 1) [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bGb {+PSMOD}
+			     2) (ADJUNCT [(ADJUNCT [(COMPCL SENT/^bDzD) AfU<NOUN>]/QbD[zQ) ADJ]/^bAg)
+
+#' as ONE be || (SUBCL->ADV) : (ADJUNCT [W|VDzD AzGcIl<ADV>])
+
+//# | as far as I know (SUBCL->ADV) : DcAb WbDzD ^bD
+
+# as far as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# as it be | (PP->ADV) : UbU|IGcIl
+
+# as it be today | (PP->ADV) : WlDzIZfIfQ
+
+//# as soon as PRON can (PP->ADV) : (ADJUNCT [(SUBJ PRON/W|) ^b<VERB>]/^bI Us W|VDzD GcIl)
+
+# as to A (PP->ADV) : (ADJUNCT A/WgAlbD^c)
+
+# as PRON do || (SUBCL->ADV) : (ADJUNCT  PRON/ZfIfQ)
+
+# as you know | (PP->ADV) : WbU|GbU|]|
+
+# as you may know | (PP->ADV) : WbU|GbU|]|
+
+//#' as to A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<VERB>]/^bWj)
+
+//#' as to SENT (PP->ADV) : (ADJUNCT [(COMP [(COMPCL SENT/^bD) AfU<NOUN>]/Wg) AlbD^b<VERB>]/^bWj)
+
+# as to whether SENT (ADJ PP) : 1) [(COMP [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/Gb
+				2) (ADJUNCT [(ADJUNCT [(COMP SENT/^bDX|) WbD|<ADJ>]/^bDX|Wg) Gc^b<VERB>]/^bWj)
+
+# at a time (PP->ADV) : ^bDRfDWg
+
+# at any time (PP->ADV) : WfDXgDb
+
+# at certain point (PP->ADV) : WfHfD U|XfQWgUf
+
+# at length (PP->ADV) : GzG|Wf
+
+# at most $ (PP->ADV) : A|BfU^cWd
+
+# at once $ (PP->ADV) : XzAU|
+
+# at one time (PP->ADV) : ^bDHcWg
+
+# at random (PP->ADV) : ^bQRsIl
+
+# at this point (PP->ADV) : W| U|XfQWgUf
+
+//# at NUM1 {-ORDNUM} | (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/Wg)
+
+# ^be because_of A (VERB->ADJ) : [(COMP [(NMODS A) HcQsD<NOUN>]) _<ADJ>]<W|>Gb
+
+# long before (ADV CONJ) : 1) WlIcXfDWg
+						   2) ^bA| WlIcXfDWg
+
+# than ever before (PP->ADV) : WfDz HcRlGb
+
+# NUM1 NOUN {+TIME} before SENT (SUBCL->ADV) : 
+
+# right behind A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl Gs|<NOUN>]/Wg)
+
+# by and for ONESELF (PP->ADV) : ^lDXb
+
+# by and large $ (PP->ADV) : GcZgIl
+
+# for ONESELF (PP->ADV) : ^lDXbUf
+
+# for unlike A (PP->ADV) : (ADJUNCT [(COMP A/WlbDzD) GbIz<ADJ>]/Ag)
+
+# had it not ^been for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>](WfV/P)/GbQjD)
+
+# from A {+TIME} through B {+TIME} (PP->ADV) : [(ADJUNCT A/WgUf) B]/BbX|
+
+# || from NUM1 through NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+//# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : 
+//(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# in ONE_S early NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ZlRbD<NOUN>]/Wg)
+
+# in ONE_S middle NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) XsWRbD<NOUN>]/Wg)
+
+# in ONE_S late NUM1 (ADJ PP) : 1) [(COMP [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]) _<ADJ>]<W|>/Gb
+   2) (ADJUNCT [(NMODS [(NMODS NUM1) Gc<NOUN>]) ^sRbD<NOUN>]/Wg)
+
+# in and out_of A (PP->ADV PP->ADJ) : 1) (ADJUNCT [(POSS A/Wz|) WbD]bB<NOUN>]/WgUf)
+	2) (POSS [(POSS A/Wz|) WbD]bB<NOUN>]/Wz|)
+
+//# in case of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AjWWs<NOUN>]/Wg)
+
+# ^be inside $ (VERB->ADJ) : WbDWg W|VGb
+
+# ^be like | (VERB->ADJ) : R|UzU^bGb
+
+//# | on A {-ANIMAL} (PP->ADV) : 
+
+//# || on ^PRESP (PRESP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# outside A (PP->ADV) : (ADJUNCT [(NMODS A) RbB<NOUN>]/WgUf)
+
+#` save for A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+
+# since before A (PP->ADV) : (ADJUNCT [(NMODS A) W|XfD<NOUN>]/W|^sIl)
+
+# till NUM1 {-ORDNUM} (PP->ADV) : (ADJUNCT [(NMODS NUM1) U|<NOUN>]/BbX|)
+
+# from NUM1 to NUM2 (PP->ADV) : (ADJUNCT [(ADJUNCT NUM1/WgUf) NUM2]/BbX|)
+
+# to and from A (PP->ADV) : (ADJUNCT A/IlWlbRs\f)
+
+# just_as with A (PP->ADV) : (ADJUNCT [(MODS [BlA<ADV>]) A]/ZfIfQ)
+

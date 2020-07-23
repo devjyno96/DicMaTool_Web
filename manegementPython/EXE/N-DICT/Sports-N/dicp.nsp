@@ -1,0 +1,186 @@
+"Pacers"
+# Pacers (NOUN) : ]gW|UfUz
+
+"Padres"
+# Padres (NOUN) : ]bGzIgUz
+
+"Patrick Ewing"
+# Patrick Ewing (NOUN) : ]c\zI|A WwW|W
+
+"Paul Beeston"
+# Paul Beeston (NOUN) : ]lI R|Uz\fD
+
+"Phil Jackson"
+# Phil Jackson (NOUN) : ]|I XcAUzD
+
+"Philadelphia"
+# Philadelphia (NOUN) : ]|IIbGgI]|Wb
+
+"Phillies"
+# Phillies (NOUN) : ]|II|Uz
+
+"Phoenix"
+# Phoenix (NOUN) : ]|D|AUz
+
+"Phoenix Suns"
+# Phoenix Suns (NOUN) : ]|D|AUz UfDXz
+
+"Pippen"
+# Pippen (NOUN) : ]|]gD
+
+"Pistons"
+# Pistons (NOUN) : ]|Uz\lDUz
+
+"Player"
+# Player of the Year (NOUN) : WlI^cWz| UfDUs
+
+"Player Contracts"
+# Player Contracts (NOUN) : UfDUs AkWdAUf
+
+"Portland"
+# Portland (NOUN) : ]l\zIIcDGz
+
+"Portland Trail Blazers"
+# Portland Trail Blazers (NOUN) : ]l\zIIcDGz \zIgW|I RzIIgW|XfUz
+
+"Porto"
+# Porto (NOUN) : ]lIz\l
+
+"Purdue"
+# Purdue (NOUN) : ]fGw
+
+"pace"
+# pace (NOUN) : ]gW|Uz
+
+"panel"
+# panel (NOUN) : ]cDfI
+
+"par"
+# par (NOUN) : ]b
+
+"park"
+# ball park (NOUN) : RlI]b[z
+
+"pass"
+# crossfield pass (NOUN) : GcAbAUfD ]cUz
+# inbounds pass (NOUN) : W|DRbWsDGz ]cUz
+# long pass (NOUN) : IlW]cUz
+# pass (NOUN) : ]cUz
+
+"penalty"
+# penalty (NOUN) : ]gDfI\|
+
+"percentage"
+# field-goal percentage (NOUN) : Wd\sWwI
+# winning percentage (NOUN) : UzWIwI
+
+"performance"
+# performance (NOUN) : ^lbIGlW
+
+"period"
+# opening period (NOUN) : ZfU ]|I|WfGz
+# period (NOUN) : ]|I|WfGz
+
+"pick"
+# NUM1 round pick (NOUN) : [(NMODS [(NMODS NUM1) IbWsDGz<NOUN>]) UfD\cA<NOUN>]
+//# No. NUM1 overall pick (NOUN) : [(NMODS [XfDZg<NOUN>]) (NMODS [(NMODS NUM1) RfD<NOUN>]) X|QjW<NOUN>]
+# draft pick (NOUN) : GzIg]z\z UfD\cA
+# overall pick (NOUN) : XfDZg X|QjW
+# pick (NOUN) : UfD\cA
+# top pick (NOUN) : Zl|WsUfD UfD\cA
+
+"pickup"
+# pickup (NOUN) : ]|AWfR
+
+"pitch"
+# pitch (NOUN) : \sAs
+
+"pitcher"
+# pitcher (NOUN) : \sUs
+# relief pitcher (NOUN) : AsWsfD \sUs
+
+"pitching"
+# pitching (NOUN) : ]|Z|W
+
+"place"
+# A {+KNUM} place (NOUN) : [(NMODS A {+DGTNUM}) GzW<NOUN>]
+# first place (NOUN) : 1 GzW
+# first place in A (NOUN) : [(ADJUNCT A/WgUfWz|) 1GzW<NOUN>]
+
+"planet"
+# planet (NOUN) : X|As
+
+"plate"
+# plate (NOUN) : ]zIIgW|\z
+
+"play"
+# play (NOUN) : ]zIIgW|
+# defensive play (NOUN) : UsR| ]zIIgW|
+# offensive play (NOUN) : AlWAjA ]zIIgW|
+# play (NOUN) : ]zIIgW|
+# set play (NOUN) : Ug\z ]zIIgW|
+# the play (NOUN) : ]zIIgW|
+# three-point play (NOUN) : 3XfQ ]zIIgW|
+
+"player"
+# a player or two (NOUN) : ^bD UfDUsDb GsI
+# down one player $ (ADV) : ^bDUfDUs XfAAg
+# fellow player (NOUN) : GlWIr UfDUs
+# tournament's outstanding player (NOUN) : \lDfQfD\z Zl|Al UfDUs
+
+"playoff"
+# NBA playoff (NOUN) : NBA ]zIIgW|Wl]z
+# NBA playoff berth (NOUN) : NBA ]zIIgW|Wl]z ZsIXfD
+# playoff (NOUN) : ]zIIgW|Wl]z
+# playoff berth (NOUN) : ]zIIgW|Wl]z ZsIXfD
+
+"podium"
+# podium (NOUN) : WjDGbD
+
+"point"
+# NUM1 point (NOUN) : [(NMODS NUM1) ]lW|D\z<NOUN>]
+# breaking point (NOUN) : RzIgW|[z ]lW|D\z
+# point (NOUN) : ]lW|D\z
+
+"position"
+# defender position (NOUN) : UsR| Ws|Z|
+# position (NOUN) : Ws|Z|(]lX|UjD)
+# scoring position (NOUN) : GzAXfQ Ws|Z|
+
+"possession"
+# possession (NOUN) : UlWw
+
+"post"
+# high post (NOUN) : ^bW| ]lUz\z
+# low post (NOUN) : IlWs ]lUz\z
+# post (NOUN) : ]lUz\z
+
+"powerhouse"
+# powerhouse (NOUN) : Zl|AbW\|Q
+
+"practice"
+# batting practice (NOUN) : \bAjA WjDUzR
+
+"presentation"
+# presentation (NOUN) : UfIQjW^l|
+
+"president"
+# executive vice president (NOUN) : ^cWXfWGbQGbW RsUbXbW
+# team president (NOUN) : AsGbDXs
+# vice president (NOUN) : RsUbXbW
+
+"pressure"
+# defensive pressure (NOUN) : UsR| WbRRbA
+
+"project"
+# community project (NOUN) : Ub^l| ]zIlXgA\z
+
+"putt"
+# birdie putt (NOUN) : RfG| ]f\z
+# putt (NOUN) : ]f\z
+
+"putter"
+# putter (NOUN) : ]f\f
+
+"putting"
+# putting (NOUN) : ]f\|W

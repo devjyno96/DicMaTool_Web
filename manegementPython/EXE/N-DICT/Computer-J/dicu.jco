@@ -1,0 +1,299 @@
+
+"unavailable"
+# unavailable choice  : UfD\cA RsIAbDzW
+# unavailable time  : UbWrW RsIAbDzW U|AbD
+
+"uncollated"
+# uncollated copies  : ]gW|X|GbW W|DUlc RcUs
+
+"unconditional"
+# unconditional  : QsXlAfDWz|
+# unconditional branch  : QsXlAfD RsDA|
+# unconditional branch instruction  : QsXlAfD RsDA| QjWIjW
+# unconditional force  : QsXlAfD AbWXg Us^cW
+# unconditional jump  : QsXlAfD AfDDfHs|Q
+# unconditional jump instrucion  : QsXlAfD AfDDfHs|Q QjWIjW
+# unconditional statement  : QsXlAfD QjWIjWQsD
+
+"unconnected"
+# unconnected terminal  : Q| WjDAjI GbDQbIA|
+
+"uncontrolled"
+# uncontrolled library  : R|XgWf IbW|RzIfI|
+
+"uncorrectable"
+# uncorrectable error  : XfWXfW RsIDzW WlIw
+
+"uncorrelated"
+# uncorrelated  : QsUbWAlbD
+
+"undefined"
+# undefined  : XfWWz|Gl|X| WbD^WzD
+# undefined format  : Q|XfWWz| ^jWU|A
+# undefined record  : Q|XfWWz| Ig[lGz
+
+"undetected"
+# undetected error rate  : Q|AfQZsI WlIwWwI
+
+"unformatted"
+# unformatted  : ^jWU|A^lb WbDGl|D
+# unformatted data  : UfU|A WbDGl|D XbIr
+# unformatted diskette  : UfU|A WbDGl|D G|Uz[gU
+# unformatted display  : RsXfW ^jWU|A ]rU|
+# unformatted logon  : RsXfW ^jWU|A IlAzWlD
+# unformatted message  : RsXfW ^jWU|A QgUgX|
+# unformatted record  : RsXfW ^jWU|A Ig[lGz
+# unformatted request  : RsXfW ^jWU|A WrAs
+# Unformatted System Service  : ^jWU|A^lb WbDGl|D U|Uz\gQ UfR|Uz
+
+"unformatted"
+# unformatted  : ^jWU|A^lb WbDGl|D
+# unformatted data  : UfU|A WbDGl|D XbIr
+# unformatted diskette  : UfU|A WbDGl|D G|Uz[gU
+# unformatted display  : RsXfW ^jWU|A ]rU|
+# unformatted logon  : RsXfW ^jWU|A IlAzWlD
+# unformatted message  : RsXfW ^jWU|A QgUgX|
+# unformatted record  : RsXfW ^jWU|A Ig[lGz
+# unformatted request  : RsXfW ^jWU|A WrAs
+# Unformatted System Service  : ^jWU|A^lb WbDGl|D U|Uz\gQ UfR|Uz
+
+"unidirectional"
+# unidirectional logical relationship  : GbDW|I RbW^dW DlDI| AlbDAk
+
+"uninterpreted"
+# uninterpreted name  : R|^cUfAQjW
+
+"unipolar"
+# unipolar  : GbDIw
+
+"unique"
+# unique  : WwW|I^bD
+# unique constraint  : AlWw Xg^bD XlAfD
+# unique data space  : AlWw XbIr AlWAbD
+# unique ID  : AlWw ID
+# unique index  : AlWw UcAW|D
+# unique key  : AlWw [|
+# unique name  : AlWwQjW
+
+"unit"
+# unit  : GbDWs|
+# unit address  : XbWZ| XsUl
+# unit check  : XbWZ| XfQAfQ
+# Unit Control Block  : XbWZ| XgWf RzIIlA
+# Unit Control word  : XbWZ| XgWf GbDWf
+# unit cost  : GbDWs| WsfDAb
+# unit cost default  : UcWIdAU| GbDWs| WsfDAb
+# unit discount  : GbDWs| ^bIW|D
+# unit emergency  : R|UbW XfDWsfD
+# unit emergency power off  : R|UbW XfDWsfD ZbGbD
+# unit end  : XbWZ| XlWIr
+# unit exception  : XbWZ| WkWl|
+# unit inscriber  : XbA| QsDXb W|DUlc Xl^bRA|
+# Unit Inventory Techniques  : UlQcWfR GbDWs| XcAl AlbDI| ]zIlAzIcQ
+# unit name  : XbWZ|QjW
+# unit number  : XbWZ| RfD^l
+# unit of measure  : GbDWs|
+# unit of measure conversion factor  : GbDWs| RjD^lbD AkUs
+# Unit of Measure  : GbDWs|
+# unit of recovery  : ^l|RlA GbDWs|
+# unit of work  : XbAWfR GbDWs|
+# unit of work identifier  : XbAWfR GbDWs| U|ARjIXb
+# unit price  : GbDWs| AbAjA
+# unit price discount  : GbDAb ^bIW|D
+# Unit Protection  : XbWZ| Rl^l A|As
+# unit qty  : GbDWs| UsIdW
+# unit record  : GbDWs| Ig[lGz
+# unit record device  : GbDWs| Ig[lGz XbWZ|
+# unit reference code  : XbWZ| ZbQXl [lGz
+# Unit Reference Code  : XbWZ| ZbQXl [lGz
+# Unit Separator  : GbDWs| RsDI|Xb
+# unit status byte  : XbWZ| UbW\c RbW|\z
+# unit string  : GbDWs| QsDXbWjI
+# unit test  : GbDWs| AfQUb
+
+"universal"
+# universal  : RfQWrWWz|
+# universal access authority  : RfQWrW XfRAzD AsfD^bD
+# universal access control  : RfQWrW XfRAzD XgWf
+# universal asynchronous  : RfQWrW R|GlWA|U|A UlWUsU|D
+# Universal Asynchronous Receiver/ Transmitter  : RfQWrW R|GlWA|U|A UlWUsU|D
+# universal character  : RfQWrW QsDXb
+# Universal Character Set Attachment  : RfQWrW QsDXb Ug\z XfRUlAA|As
+# Universal Character Set Control  : RfQWrW QsDXb Ug\z XgWf A|As
+# Universal Character Set Feature  : RfQWrW QsDXb Ug\z A|As
+# Universal Character Set  : RfQWrW QsDXb Ug\z
+# universal class card reader  : RfQWrW [zIIcUz [bGz ]bDGlAA|
+# Universal Decimal Classification  : AsAXg 10X|D RsDIwRfR
+# universal instruction set  : RfQWrW QjWIjW Ug\z
+# Universal Naming Convention name  : RfQWrW QjWQjWRfRWg HbIzD W|IzQ
+# universal set  : RfQWrW Ug\z
+# universal turing machine  : RfQWrW \wI|W A|Ak
+
+"unknown"
+# unknown  : WbI Us WfRUDzD
+
+"unlabeled"
+# unlabeled tape  : IgW|RzI WfRUDzD \gW|]z
+
+"unloadable"
+# unloadable  : XfAXc RsIDzW
+
+"unmapped"
+# unmapped conversation  : Q|XfWWz| GcWzW
+# unmapped storage  : Q|XfWWz| A|WfAWjWWjA
+
+"unmovable"
+# unmovable data set  : W|GlW RsIDzW XbIr Ug\z
+
+"unnamed"
+# unnamed pipe  : QjWQjWGl|X| WbD^WzD ]bW|]z
+
+"unnumbered"
+# unnumbered  : QsRfD^l
+# unnumbered acknowledgement  : QsRfD^l AzWXfWWzWGbR
+# Unnumbered Acknowledgment  : QsRfD^l ^lbAW|D
+# unnumbered frame  : QsRfD^l ]zIgW|Q
+# unnumbered information frame  : QsRfD^l XfWRl ]zIgW|Q
+
+"unopened"
+# unopened  : WjII|X| WbD^WzD
+
+"unordered"
+# unordered  : R|XfWIjI
+
+"unpacked"
+# unpacked  : ]cAGl|X| WbD^WzD
+# unpacked decimal  : R|]cA^lb U|RX|DUs
+# unpacked format  : R|]cA^lb ^jWU|A
+
+"unplanned"
+# unplanned issues  : R|Ak^l|A RsIZsI
+
+"unpredictable"
+# unpredictable  : WkZzA RsIDzW
+
+"unprintable"
+# unprintable  : W|DUlcRsIDzW
+# unprintable character  : W|DUlc RsIDzW QsDXb
+
+"unprocessed"
+# UNPROCESSED  : Q|ZfI|
+# unprocessed record  : Q|ZfI| Ig[lGz
+
+"unprotected"
+# unprotected  : Rl^lGl|X| WbD^WzD
+# unprotected field  : R|Rl^l ]|IGz
+# unprotected storage  : R|Rl^l A|WfAWjWWjA
+
+"unqualified"
+# unqualified call  : AwXfW^lb WbDGl|D ^lZsI
+# unqualified queries  : AwXfW^lb WbDGl|D Xl^l|
+# unqualified segment selection  : AwXfW^lb WbDGl|D UgAzQgD\z UfD\cA
+# unqualified SSA  : AwXfW^lb WbDGl|D SSA
+
+"unready"
+# unready  : Q|R| UbW\c
+
+"unrecoverable"
+# unrecoverable ABEND  : ^l|RlA RsIDzW W|UbW XlWIr
+# unrecoverable error  : ^l|RlA RsIDzW WlIw
+
+"unresolved"
+# unresolved  : Q|^cAjI
+
+"unshiftable"
+# unshiftable lines  : W|GlW^bI Us WfRUDzD ^cW
+
+"unsolicited"
+# unsolicited message  : R|ZfWAs QgUgX|
+
+"unspanned"
+# unspanned record  : GbDW|I RzIIlA Ig[lGz
+
+"unspecified"
+# unspecified table  : W|IRbD \gW|RzI
+
+"unstable"
+# unstable state  : RsIWbDXfW UbW\c
+
+"unusable"
+# unusable  : UbWrW AbDzW^bX| WbD^WzD
+# unusable inventory  : R|UbWrW XcAl
+
+"unused"
+# unused  : UbWrW^bX| WbD^DzD
+# unused capacity  : R|UbWrW AlWXfW DzWIjA
+
+"unusual"
+# unusual condition  : W|UbW UbW\c
+
+"upper"
+# upper band width  : UbWWs| GcWjA ]lA
+# upper bound  : UbW^bD
+# upper case  : GcQsDXb
+# upper case letters  : GcQsDXb
+# upper case mode  : GcQsDXb QlGz
+# Upper Case line commmand  : GcQsDXb ^cW QjWIjW
+# upper packed band storage mode  : UbWWs| ]cA GcWjA A|WfAWjWWjA QlGz
+# upper right hand corner  : UbWGbD WlIzDYlA AsUfA
+# upper shift  : UbWGbD X|XfW
+
+"upward"
+# upward compatibility  : UbW^dW ^l^lbDUfW
+# upward reference  : UbW^dW ZbQXl
+
+"usable"
+# usable  : UbWrW AbDzW
+
+"user-created"
+# user-created data file  : UbWrWXb XbAUfW XbIr ]bW|I
+# user-created test file  : UbWrWXbAb XbAUfW^bD \gUz\z ]bW|I
+
+"user-defined"
+# user-defined  : UbWrWXb XfWWz|
+# user-defined CMS command  : UbWrWXb XfWWz| CMS QjWIjW
+# user-defined collating sequence  : UbWrWXb XfWWz| RcWjI UsDUf
+# user-defined data set  : UbWrWXb XfWWz| XbIr Ug\z
+# user-defined data stream  : UbWrWXb XfWWz| XbIr WjI
+# user-defined edit code  : UbWrWXb XfWWz| ]jDX|R [lGz
+# user-defined function  : UbWrWXb XfWWz| A|DzW
+# user-defined subsystem  : UbWrWXb XfWWz| RsUlAU|Uz\gQ
+
+"user-generated"
+# user-generated  : UbWrWXb UcWUfW
+# user-generated program  : UbWrWXb XbAUfW ]zIlAzIcQ
+
+"user-linked"
+# user-linked transaction  : UbWrWXbAb WjDAjI^bD AfIc
+
+"user-oriented"
+# user-oriented message  : UbWrWXb Ws|Xs QgUgX|
+
+"user-programmable"
+# user-programmable storage  : UbWrWXb ]zIlAzIcQ AbDzW A|WfAWjWWjA
+
+"user-specified"
+# user-specified  : UbWrWXb QjWU|
+
+"user-supplied"
+# user-supplied  : UbWrWXb XgAlW
+
+"user-written"
+# user-written  : UbWrWXb XbAUfW
+# user-written CMS command  : UbWrWXb A|IlA CMS QjWIjW
+
+"utility"
+# utility  : Ww\|II|\|
+# utility command  : Ww\|II|\| QjWIjW
+# utility control statement  : Ww\|II|\| XgWfQsD
+# utility definition specification  : Ww\|II|\| XfWWz| Uz]gA
+# Utility Feature  : Ww\|II|\| A|DzW
+# utility function  : Ww\|II|\| A|DzW
+# Utility Inscriber  : XbA| QsDXb A|IlAA|
+# utility operation  : Ww\|II|\| WjDUbD
+# utility power indicator  : \lWUbW XfDWsfD ]rU|XbWZ|
+# utility power switch  : \lWUbW XfDWsfD UzWs|Z|
+# utility program  : Ww\|II|\| ]zIlAzIcQ
+# Utility Program for 1255 Magnetic Character Reader  : 1255 XbA| QsDXb ]bDGlAA|WrW Ww\|II|\| ]zIlAzIcQ
+# utility routine  : Ww\|II|\| Is\|D
+# utility tool  : Ww\|II|\| GlAs

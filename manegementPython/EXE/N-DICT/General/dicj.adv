@@ -1,0 +1,33 @@
+"jealously"
+(X|I\s^bWj)
+
+"jeeringly"
+(R|WsUWf)
+
+"jointly"
+(AlWGlWWzIl)
+
+"jokingly"
+(DlWGbQWzIl)
+
+"jollily"
+(Ww[lc^bAg)
+
+"joyfully"
+(XzIAfRAg)
+
+"joyously"
+(XzIAfRAg)
+
+"judicially"
+(Xc]bDAlbDGbRAg)
+
+"just"
+(RbIl)
+* QbA (~ {+PERFECT})
+* QbA (arrive come reach leave)
+
+//# || just as (CONJ) : ^bDzD AfU ZfIfQ
+
+"justly"
+(WlIRbIzAg)

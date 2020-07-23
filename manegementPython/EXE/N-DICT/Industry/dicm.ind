@@ -1,0 +1,549 @@
+
+"machine"
+# asynchronous machine (NOUN) : R|GlWA| A|Ak
+# d.c. machine (NOUN) : X|AIw A|A|
+# absorption refrigerating machine (NOUN) : ^zRUs DcWGlWA|
+# copy milling machine (NOUN) : [b]| Q|II|W QfU|D
+# testing machine (NOUN) : U|^fQA|
+# drilling machine (NOUN) : GzI|II|W QfU|D
+# electric rotating machine (NOUN) : XfDA| ^l|XfD A|Ak
+# a.c. commutator machine (NOUN) : ArIw XfWIwXbA|
+# a.c. machine (NOUN) : ArIwA|
+# rotating machine (NOUN) : ^l|XfDA|
+# induction machine (NOUN) : WwGlA|
+# paper machine (NOUN) : XgX|A|
+# double effect absorption refrigerating machine (NOUN) : W|XsW ^rAlb ^zRUs DcWGlWA|
+# absorption refrigerating machine (NOUN) : ^zRUsU|A DcWGlWA|
+# compression refrigerating machine (NOUN) : WbRZsAU|A DcWGlWA|
+# milling machine (NOUN) : Q|II|W QfU|D
+# synchronous machine (NOUN) : GlWA| A|Ak
+# milling machine (NOUN) : Q|II|W QfU|D
+
+"macromodel"
+# macromodel (NOUN) : AfU|XfA QlGgI
+
+"magnesite"
+# brick of combination of chrome ore and magnesite (NOUN) : 
+
+"maintain"
+# maintain (NOUN) : RlXfD^bGb
+# maintain (NOUN) : RlUs^bGb
+# maintain (NOUN) : XfWR|
+
+"maintainability"
+# maintainability (NOUN) : RlXfDUfW
+# maintainability (NOUN) : RlXfDGl
+# maintainability (NOUN) : XfWR|UfW
+
+"maintenance"
+# maintenance (NOUN) : UfIR| RlXfD
+# resale price maintenance (NOUN) : Xc]bD AbAjA WwX|
+# maintenance (NOUN) : XfWR|
+# monitored maintenance (NOUN) : UbW\c AbQU| RlXfD
+# maintenance (NOUN) : RlUs
+# age-based maintenance (NOUN) : 
+# improvement and maintenance (NOUN) : AcUfDAlb WwX|
+# productive maintenance (NOUN) : UcWUbD RlXfD
+# maintenance (NOUN) : RlXfD
+# preventive maintenance (NOUN) : WkRbW RlXfD
+# scheduled maintenance (NOUN) : U|AbD Ak^l|A RlXfD
+# periodic maintenance (NOUN) : XfWA| RlXfD
+# corrective maintenance (NOUN) : Ub^s RlXfD
+# productive maintenance (NOUN) : PM
+
+"Malows"
+# Malows (NOUN) : QbIIlWsXz
+
+"man-hour"
+# man-hour (NOUN) : Zs|WfRU|AbD
+
+"manage"
+# manage (NOUN) : QgD|X|
+# manage (NOUN) : AjWWjW
+
+"management"
+# scientific management (NOUN) : Alb^bAXfA AlbDI|
+# factory management (NOUN) : AlWUb AlbDI|
+# configuration management (NOUN) : [fD]|AwIgW|UjD AlbDI|
+# scientific management (NOUN) : Alb^bAXfA AlbDI|RfR
+# Japanese Management (NOUN) : W|IRlDU|A AjWWjW
+# drifting management (NOUN) : UfW^cW AlbDI|
+# inventory management (NOUN) : XcAl AlbDI|
+# materials management (NOUN) : XbXc AlbDI|
+# management (NOUN) : QgD|X|QfD\z
+# configuration management (NOUN) : ^jW\c AlbDI|
+# labor management (NOUN) : DlQsAlbDI|
+# marketing management (NOUN) : Qb[g\|W AlbDI|
+# daily management (NOUN) : W|IUbW AlbDI|
+# work management (NOUN) : XbAWfR AlbDI|
+# maintenance management (NOUN) : RlXfD AlbDI|
+# centralized management (NOUN) : XsWWbW X|RXsWXfA AlbDI|
+# task management (NOUN) : AlbWfR AlbDI|
+# heat management (NOUN) : WjI AlbDI|
+# management (NOUN) : QgD|X|QfD\z
+# management (NOUN) : AjWWjW
+# electricity management (NOUN) : XfDA| AlbDI|
+# top management (NOUN) : \bRQcD|X|QfD\z
+# purchasing management (NOUN) : AsQc AlbDI|
+# physical distribution management (NOUN) : QsII|XfA ZfWAjI^lb
+# policy management (NOUN) : XfWZcA AlbDI|
+# personnel management (NOUN) : W|DUb AlbDI|
+# reliability management (NOUN) : U|DIl|UfW AlbDI|
+# qualified person for energy management (NOUN) : WgDfX| AlbDI|Ub
+# material management (NOUN) : WsfDXcIr AlbDI|
+# production management (NOUN) : UcWUbD AlbDI|
+# skill management (NOUN) : Uz[|I AlbDI|
+# forestalling management (NOUN) : UfDUs AlbDI|
+# cross-functional management (NOUN) : A|DzWRjI AlbDI|
+# cost management (NOUN) : WsfDAb AlbDI|
+# product portfolio management (NOUN) : PPM
+# energy management (NOUN) : WgDfX| AlbDI|
+# quality management (NOUN) : ]sQX|I AjWWjW
+# decentralized management (NOUN) : RsDUbDXfA AlbDI|
+# motivational management (NOUN) : XfWU|DXfA AlbDI|
+# patent management (NOUN) : \zA^f AlbDI|
+# Society for Advancement of Management (NOUN) : SAM
+# subcontracting management (NOUN) : Wl|Xs AlbDI|
+# qualified person for heat management (NOUN) : WjI AlbDI|Ub
+# qualified person for electricity management (NOUN) : XfDA| AlbDI|Ub
+# forestalled management (NOUN) : UfDUlD AlbDI|
+
+"manager"
+# energy manager (NOUN) : WgDfX| AlbDI|Xb
+
+"Mann"
+# Mann (NOUN) : QbD
+
+"manometer"
+# manometer (NOUN) : WbRIjAAk
+# U tube manometer (NOUN) : UXbAlbD WbRIjAAk
+# manometer (NOUN) : QbDlQ|\f
+# strain gauge type manometer (NOUN) : Uz\zIgW|D AgW|X| Ww^jWWz| WbRIjAAk
+
+"Mantel"
+# Mantel (NOUN) : QbD\gI
+
+"manual"
+# user's manual (NOUN) : Zs|AzR UfIQjWUf
+# design manual (NOUN) : UfIAk WrIbQ
+# manual (NOUN) : QcDwWfI
+# user's manual (NOUN) : Zs|AzR UfIQjWUf
+# Examination Manual (NOUN) : AfQUb UgZ|A
+# user's manual (NOUN) : UbWrW UfIQjWUf
+
+"manufacturer"
+# special manufacturer (NOUN) : XfDQsD QgDw]gAZjIf
+
+"manufacturing"
+# original equipment manufacturing (NOUN) : OEM
+# computer-aided manufacturing (NOUN) : CAM
+# manufacturing (NOUN) : QgDw]gAZsfIjW
+
+"mark"
+# main scale mark (NOUN) : Xs DsDAzQUfD
+# subscale mark (NOUN) : 
+# JAS mark (NOUN) : JAS Qb[z
+# safety toy mark (NOUN) : ST Qb[z
+# better living mark (NOUN) : BL Qb[z
+# safety mark (NOUN) : S Qb[z
+# American Petroleum Institute Mark (NOUN) : API Qb[z
+# Q mark (NOUN) : Q Qb[z
+# Traffic Safety Mark (NOUN) : TS Qb[z
+# mark (NOUN) : Qb[z
+# mark (NOUN) : Qb[z
+# JIS mark (NOUN) : JIS Qb[z
+# kite mark (NOUN) : [bW|\z Qb[z
+
+"market"
+# market (NOUN) : Qb[gU
+# buyer's market (NOUN) : QcUsXb U|XbW
+# seller's market (NOUN) : ]bDQcXb U|XbW
+# market (NOUN) : U|XbW
+# target market (NOUN) : QlA]r U|XbW
+# market (NOUN) : Qb[gU
+
+"marketing"
+# test marketing (NOUN) : \gUz\z Qb[g\|W
+# area marketing (NOUN) : WgI|Wf Qb[g\|W
+# marketing (NOUN) : Qb[g\|W
+
+"mat"
+# sticky mat (NOUN) : XfQZbAUfW Qc\z
+
+"material"
+# active material (NOUN) : RbWUbUfW QsIX|I
+# material (NOUN) : Qf\|I|WfI
+# bulk material (NOUN) : X|R^bRZg
+# reference material (NOUN) : RM
+
+"materials"
+# Committee on Reference materials (NOUN) : REMCO
+
+"matrix"
+# regular matrix (NOUN) : XfWZ|A ^cWIjI
+# projection matrix (NOUN) : UbWjW ^cWIjI
+# stochastic matrix (NOUN) : ^lbAIwI ^cWIjI
+# diagonal matrix (NOUN) : GcAbA ^cWIjI
+# positive definite matrix (NOUN) : WdWXfWZ| ^cWIjI
+# inverse matrix (NOUN) : WjA^cWIjI
+# symmetric matrix (NOUN) : GcZ|W ^cWIjI
+# orthogonal matrix (NOUN) : X|AAr ^cWIjI
+# positive semidefinite matrix (NOUN) : R|RsXfW ^cWIjI
+# covariance matrix (NOUN) : AlWRsDUbD ^cWIjI
+# quality matrix (NOUN) : ]sQX|I Qc\zI|AUz
+# canonical form of matrix (NOUN) : ^cWIjIWz| ]rXsD^jW
+# generalized inverse matrix (NOUN) : W|IRbD WjA^cWIjI
+# idempotent matrix (NOUN) : WbW|GgQ]l\gD\z ^cWIjI
+# payoff matrix (NOUN) : ]gW|Wl]z Qg\zI|AUz
+# pay-off matrix (NOUN) : W|GzA ^cWIjI
+# pay-off matrix (NOUN) : X|AzR ^cWIjI
+
+"matter"
+# particulate matter (NOUN) : W|RXbUbW\c QsIX|I
+
+"mean"
+# geometrical mean (NOUN) : A|^b ]jWAwD
+# population mean (NOUN) : Ql]jWAwD
+# arithmetic mean (NOUN) : UbDUsI ]jWAwD
+# Winsorized mean (NOUN) : Ws|DUlI|Xz^lb ]jWAwD
+# trimmed mean (NOUN) : \zI|Q ]jWAwD
+
+"measure"
+# emergency measure (NOUN) : WzWAzR GcZcA
+# measure (NOUN) : ZzAGl
+# tentative measure (NOUN) : 
+# permanent measure (NOUN) : ^bWAs GcZcA
+# measure (NOUN) : AkIdW
+# measure (NOUN) : AkZzA
+# measure (NOUN) : ZzAXfW
+
+"measured"
+# quantity to be measured (NOUN) : ZzAXfWIdW
+# variable to be measured (NOUN) : ZzAXfW RjDIdW
+
+"measurement"
+# work measurement (NOUN) : XbAWfR ZzAXfW
+# methods-time measurement (NOUN) : MTM
+# direct measurement (NOUN) : X|AXfR ZzAXfW
+# indirect measurement (NOUN) : AbDXfR ZzAXfW
+# point of measurement (NOUN) : ZzAXfWXfQ
+# scale of measurement (NOUN) : ZzAXfW ZfAGl
+# measurement (NOUN) : ZzAXfW
+# relative measurement (NOUN) : R|Ar ZzAXfW
+# technical performance measurement (NOUN) : A|UsI UfWAlb ZzAXfW
+# absolute measurement (NOUN) : XfIGc ZzAXfW
+# technical performance measurement (NOUN) : TPM
+# office work measurement (NOUN) : UbQsIdW ZzAXfW
+# system of measurement (NOUN) : ZzAXfW U|Uz\gQ
+
+"Measurements"
+# International Commission on Radiation Units and Measurements (NOUN) : ICRU
+
+"Measures"
+# International Bureau of Weights and Measures (NOUN) : AsAXg GlIdW^jWAsA
+# International Bureau of Weights and Measures (NOUN) : BIPM
+
+"measuring"
+# stress measuring (NOUN) : WzWIjA ZzAXfW
+# control by measuring (NOUN) : AkZzA AlbDI|
+
+"mechanism"
+# failure mechanism (NOUN) : AlXbW Qg[bD|XzQ
+
+"median"
+# median (NOUN) : QgG|WbD
+# median (NOUN) : XsWAbDAbRU
+# running median (NOUN) : W|GlW Q|G|Wf
+
+"medium"
+# organic heating medium (NOUN) : WwA| WjIQcZg
+# heating medium (NOUN) : WjI QcZg
+
+"meeting"
+# meeting (NOUN) : Q|\|W
+# tool box meeting (NOUN) : \sIRbAUz Q|\|W
+
+"melting"
+# heat of melting (NOUN) : WwW^cWjI
+
+"membrane"
+# ion exchange membrane (NOUN) : W|WlD Ar^lbDQbA
+
+"memory"
+# memory (NOUN) : QgQlI|
+# random access memory (NOUN) : RAM
+
+"merchandising"
+# merchandising (NOUN) : QfZfDGbW|X|W
+
+"merge"
+# merge (NOUN) : QfX|
+# merge (NOUN) : QfX|
+
+"meter"
+# dry gas meter (NOUN) : AfDU|A AbUz Q|\f
+# integrating meter (NOUN) : XfAUbDAk
+# luminance meter (NOUN) : ^s|GlAk
+# illumination meter (NOUN) : XlGlAk
+# watthour meter with maximum demand meter (NOUN) : Zl|Gc UsWr XfDIjA ]rU| XbWZ|Rs XfDIjAIdWAk
+# wet gas meter (NOUN) : UzRU|A AbUz Q|\f
+# watthour meter with indication meter (NOUN) : ]rU| XbWZ|Ab W|VDzD XfDIjAIdWAk
+# sound-level meter (NOUN) : X|U| UlWzQAk
+# p- H meter (NOUN) : pHAk
+
+"method"
+# moment method (NOUN) : QlQgD\zRfR
+# middle-square method (NOUN) : ]jWRbW ZcXsWRfR
+# periodic reordering method (NOUN) : XfWA| RbIXs RbWU|A
+# substitution method (NOUN) : Z|^lbDRfR
+# method (NOUN) : QgUlGz
+# linear congruential method (NOUN) : UfD^jW ^bRGlWRfR
+# light-scattering method (NOUN) : AlbWUbDIbDRfR
+# sample survey method (NOUN) : ]rRlD AfQUbRfR
+# circle diagram method (NOUN) : WsfDUfDGlRfR
+# Fletcher- Powell's method (NOUN) : ]zIIgUZj-]bWsfIRfR
+# automatic particle counter by light scattering method (NOUN) : 
+# arrow diagram method (NOUN) : WcIlWs GbW|WfAzIcQRfR
+# reordering point method (NOUN) : RbIXsXfQ RbWU|A
+# semantic differential method (NOUN) : SDRfR
+# sampling method (NOUN) : ZsZsI RbWRfR
+# quantification method (NOUN) : UsIdW^lb W|IlD
+# heuristic method (NOUN) : ^wI|Uz\|A QgVlGz
+# KJ method (NOUN) : KJ RfR
+# Monte- Carlo method (NOUN) : QlW\g-[bIzIIlRfR
+# finite element method (NOUN) : FEM
+# particle measurement method (NOUN) : W|RXbZzAXfWRfR
+# rejection method (NOUN) : 
+# Satterthwaite's method (NOUN) : Ug\fUzWsgW|\zWz| RbWRfR
+# simplex method (NOUN) : GbDZgRfR
+# steepest ascent method (NOUN) : 
+# branch and bound method (NOUN) : RzIgDZ|Wlb RbWsDGzRfR
+# testing method for sulfur by Eschka method (NOUN) : WgU|[b RbWRfR
+# stroboscopic method (NOUN) : Uz\zIlRlUz[l]zRfR
+# two-phase simplex method (NOUN) : 2GbDAk GbDZgRfR
+# null method (NOUN) : DcWAbA GcA|
+# gradient method (NOUN) : AjWUbRfR
+# access method (NOUN) : WfAUgUzRfR
+# deflection method (NOUN) : ]jDWs|RfR
+# Kepner-- Trigault method (NOUN) : [g]zDf-\zI|AfI\zRfR
+# three sigma method (NOUN) : 3 U|AzQbRfR
+# lot plot method (NOUN) : IbU]zIIbURfR
+# coincidence method (NOUN) : ^bRZ|RfR
+# congruential method (NOUN) : ^bRGlWRfR
+# MAPI method (NOUN) : MAPI
+# Kjeldahl method (NOUN) : [gGbIRfR
+# testing method for carbon residue by Conradson method (NOUN) : 
+# Yacobi method (NOUN) : Wd[lR|RfR
+# Powell's method (NOUN) : ]bWsfIRfR
+# profile method (NOUN) : ]zIl]bW|IRfR
+# analysis by Hempel method (NOUN) : ^gQ]gI RsDUfARbWRfR
+# work-factor method (NOUN) : WFRfR
+# indirect least squares method (NOUN) : AbDXfR Zl|Ul XgAlRRfR
+# mixed congruential method (NOUN) : ^lD^bR ^bRGlWRfR
+# K-means method (NOUN) : k-meansRfR
+# probability limit method (NOUN) : ^lbAIwI ^bDAkRfR
+# patch test method (NOUN) : UcAGl R|ArRfR
+# differential method (NOUN) : ZbGlWRfR
+# revised simplex method (NOUN) : AcXfW GbDZgRfR
+# Box-- Wilson method (NOUN) : RbAUz-Ws|IUzDRfR
+# traditional method (NOUN) : XcIc AlWRfR
+# Box-- Jenkin's method (NOUN) : RbAUz-XgD[|DWz| RbWRfR
+# Box-- Mueller method (NOUN) : RbAUz-Qs|IIfRfR
+# silting index method (NOUN) : 
+# testing method for sulfur by bomb combustion method (NOUN) : 
+# critical path method (NOUN) : CPM
+# Householder method (NOUN) : ^bWsUz^lIGfRfR
+# compensation method (NOUN) : RlUbWRfR
+# two-phase simplex method (NOUN) : W|GbDAk GbDZgRfR
+# two-stage least squares method (NOUN) : 2GbDAk Zl|Ul XgAlRRfR
+# weighing method (NOUN) : X|IIdWRfR
+# conjugate gradient method (NOUN) : 
+# problem solving method (NOUN) : QsDXg ^cAjIRbWRfR
+# statistical counting method (NOUN) : \lWAkXfA AkUsRfR
+# MITI method (NOUN) : MITIRfR
+# microscopic method (NOUN) : ^jDQ|AjWRfR
+# minimum method (NOUN) : Zl|GbD AfI|RfR
+# control chart method (NOUN) : AlbDI|GlRfR
+# statistical method (NOUN) : \lWAkXfA RbWRfR
+# simplex method (NOUN) : U|Q]zIIgAUzRfR
+# maximum method (NOUN) : Zl|XbW AfI|RfR
+# finite element method (NOUN) : Ww^bDWrUlRfR
+
+"Metrology"
+# International Organization of Legal Metrology (NOUN) : OIML
+# metrology (NOUN) : AkIdW
+# International Organization of Legal Metrology (NOUN) : AsAXg RfRXfW AkIdW A|AlbD
+# metrology (NOUN) : ZzAXfW^bA
+
+"microcomputer"
+# microcomputer (NOUN) : QbW|[fQ
+
+"micromodel"
+# micromodel (NOUN) : QbW|[zIlQlGgI
+
+"microswitch"
+# microswitch (NOUN) : QbW|[zIlUzWs|Z|
+
+"mid-range"
+# mid-range (NOUN) : Q|Gz-IgW|DX|
+# mid-range (NOUN) : XsWAbDAbRU
+
+"midmean"
+# midmean (NOUN) : XsWAbD ]jWAwD
+
+"milestone"
+# milestone (NOUN) : XsWr AlbDI|XfQ
+
+"mill"
+# hot rolling mill (NOUN) : WjI WbRWjDA|
+# bowl mill (NOUN) : RlWsI RsDUlcA|
+# ring ball mill (NOUN) : I|W RlI Q|I
+# cold rolling mill (NOUN) : WwUbGl
+# ball mill (NOUN) : RlI Q|I
+# roller mill (NOUN) : IlIIf Q|I
+# blooming mill (NOUN) : 
+# reversing rolling mill (NOUN) : AbWjA WbRWjDA|
+
+"miss"
+# careless miss (NOUN) : [gWfI|Uz Q|Uz
+# careless miss (NOUN) : 
+
+"mission"
+# mission (NOUN) : W|QQs
+
+"mix"
+# product mix (NOUN) : Xg]sQ AsUfW
+# product mix (NOUN) : ]zIlGfA\z Q|AUz
+# product mix (NOUN) : Xg]sQ ^lD^bR
+# marketing mix (NOUN) : Qb[g\|W Q|AUz
+
+"MMK"
+# MMK (NOUN) : MMK
+
+"mock-up"
+# mock-up (NOUN) : QlA-WfR
+
+"mode"
+# mode (NOUN) : QlGz
+# mode (NOUN) : 
+# failure mode (NOUN) : AlXbW QlGz
+# mode (NOUN) : Zl|GbZ|
+
+"model"
+# linear model (NOUN) : UfD^jW Ql^jW
+# autoregressive integrated moving average model (NOUN) : ARIMA QlGgI
+# stochastic model (NOUN) : ^lbAIwIXfA Ql^jW
+# model (NOUN) : QlGgI
+# deterministic model (NOUN) : ^lbAXfWXfA Ql^jW
+# prototype model (NOUN) : ]zIl\l\bW|]z QlGgI
+# model (NOUN) : Ql^jW
+# inventory model (NOUN) : XcAl Ql^jW
+# deterministic model (NOUN) : AjIXfW QlGgI
+# proportional hazard model (NOUN) : 
+# queueing model (NOUN) : [wW|W QlGgI
+# generalized linear model (NOUN) : W|IRbD^lb UfD^jW QlGgI
+# log linear model (NOUN) : IlAz UfD^jW QlGgI
+# multistage model (NOUN) : GbGbDAk Ql^jW
+# linear model (NOUN) : UfD^jW QlGgI
+# hierarchical log-linear model (NOUN) : 
+# autoregressive moving average model (NOUN) : ARMA QlGgI
+# moving average model (NOUN) : W|GlW ]jWAwD QlGgI
+# Tukey's model (NOUN) : \f[|Wz| Ql^jW
+# model (NOUN) : AsXl Ql^jW
+# macro model (NOUN) : Qc[zIl QlGgI
+# Bradlay-- Terry model (NOUN) : RzIcGzII|-\gI| QlGgI
+# mixed model (NOUN) : ^lD^bR Ql^jW
+# Ishikawa's model (NOUN) : W|U|AbWlbWz| Ql^jW
+
+"moderator"
+# moderator (NOUN) : AbQUlAXc
+
+"modularization"
+# modularization (NOUN) : QlGwIIbIbW|XgW|UjD
+
+"modularize"
+# modularize (NOUN) : QlGwIIbIbW|Xz
+
+"module"
+# filter module (NOUN) : ]|I\f QlGwI
+
+"moisture"
+# hygroscopic surface moisture (NOUN) : 
+
+"moment"
+# moment (NOUN) : DzWIwI
+# moment (NOUN) : QlQgD\z
+
+"monitoring"
+# condition monitoring (NOUN) : UbW\c AbQU|
+
+"monoxide"
+# carbon monoxide (NOUN) : W|IUbD^lb\bDUl
+# nitrogen monoxide (NOUN) : W|IUbD^lbX|IUl
+
+"Month"
+# Quality Month (NOUN) : ]sQX|I WsfIAbD
+
+"mortality"
+# mortality (NOUN) : Ql\bII|\|
+# mortality (NOUN) : ]kUbWwI
+
+"mortar"
+# hydraulic setting mortar (NOUN) : UsAjWUfW Ul^lb QlIz\bIz
+# refractory mortar (NOUN) : Dc^lb QlIz\bIz
+# air setting refractory mortar (NOUN) : A|AjWUfW Dc^lb QlIz\bIz
+
+"motion"
+# relative motion (NOUN) : UbWGc WsDGlW
+# Brownian motion (NOUN) : RzIbWsD|WfD WsDGlW
+
+"motivate"
+# motivate (NOUN) : GlWA|
+
+"motivation"
+# motivation (NOUN) : GlWA|
+# motivation (NOUN) : Ql\|RgW|UjD
+
+"motor"
+# deep-slot squirrel-cage induction motor (NOUN) : 
+# pole change motor (NOUN) : AzAUs RjD^lbD XfDGlWA|
+# double squirrel-cage induction motor (NOUN) : W|Zb DlW^jW WwGl XfDGlWA|
+# multispeed motor (NOUN) : GbGbDAk UlAGl XfDGlWA|
+# wound rotor induction motor (NOUN) : AsfDUfD^jW WwGl XfDGlWA|
+# separately excited motor (NOUN) : AcRjIXfAWzIl WjA|^bD XfDGlWA|
+# shunt motor (NOUN) : RsDAsfD XfDGlWA|
+# synchronous motor (NOUN) : GlWA| XfDGlWA|
+# three-phase induction motor (NOUN) : UbQUbW WwGl XfDGlWA|
+# motor (NOUN) : XfDGlWA|
+# compound motor (NOUN) : WdWAzAU|A XfDAzA
+# series motor (NOUN) : X|AAsfD XfDGlWA|
+# adjustable-speed motor (NOUN) : AbAbQ UlAGl XfDGlWA|
+# capacitor motor (NOUN) : [g]fU|\f Ql\f
+# single-phase induction motor (NOUN) : GbDUbW WwGl XfDGlWA|
+# varying-speed motor (NOUN) : RjDUlAGl XfDGlWA|
+# constant-speed motor (NOUN) : XfWUlAGl XfDGlWA|
+# squirrel-cage induction motor (NOUN) : DlW^jW WwGl XfDGlWA|
+# hysteresis motor (NOUN) : ^|Uz\gIgU|Uz Ql\f
+# torque motor (NOUN) : \lWl[z Ql\f
+
+"move"
+# move (NOUN) : W|GlW
+
+"movement"
+# cyclical movement (NOUN) : UsD^lbD RjDGlW
+# periodic movement (NOUN) : XsA| RjDGlW
+
+"multi-flash"
+# multi-flash (NOUN) : GbGbDAk ]zIIcUs|
+
+"multicollinearity"
+# multicollinearity (NOUN) : GbXsW AlWUfDUfW
+
+"multiplier"
+# consumption multiplier (NOUN) : UlR| UzWUs
+# investment multiplier (NOUN) : \sXb UzWUs
+# Lagrange multiplier (NOUN) : IbAzIbWWg XfWUs
+
+"multivariate"
+# multivariate (NOUN) : GbRjDIdW
+

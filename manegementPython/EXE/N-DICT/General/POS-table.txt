@@ -1,0 +1,14 @@
+NOUN
+ADV
+PP
+ADJ
+VERB
+SUBCL
+SENT
+CONJ
+PRESP
+PRON
+
+
+
+Total POS count = 11

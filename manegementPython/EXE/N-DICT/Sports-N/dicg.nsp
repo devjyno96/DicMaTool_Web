@@ -1,0 +1,72 @@
+"Georgetown"
+# Georgetown (NOUN) : XlX|\bWsD
+
+"Giants"
+# Giants (NOUN) : XbW|WfDZz
+
+"Glenn Hoffman"
+# Glenn Hoffman (NOUN) : AzIIcD ^l]zQfD
+
+"Gold Glove"
+# Gold Glove (NOUN) : AlIGz AzIIfRz
+# Gold Glove winner (NOUN) : AlIGz AzIIfRz UsUbWXb
+
+"Golden State"
+# Golden State (NOUN) : AlIGzD Uz\gW|\z
+
+"Golden State Worriors"
+# Golden State Worriors (NOUN) : AlIGzD Uz\gW|\z WsfI|WfUz
+
+"Grant Hill"
+# Grant Hill (NOUN) : AzIcD\z ^|I
+
+"Grant Park"
+# Grant Park (NOUN) : AzIcD\z AlWWsfD
+
+"Green Bay"
+# Green Bay (NOUN) : AzI|D RgW|
+
+"Greg Foster"
+# Greg Foster (NOUN) : AzIgAz ]lUz\f
+
+"Greg Ostertag"
+# Greg Ostertag (NOUN) : AzIgAz WlUz\f\gA
+
+"Grizzlies"
+# Grizzlies (NOUN) : AzI|XzII|Uz
+
+"Gutierrez"
+# Gutierrez (NOUN) : As\|WgIgXz
+
+"game"
+# exhibition game (NOUN) : U|RfQ AjWA|
+# one-run game (NOUN) : ^bDXfQZb AjWA|
+# the NUM1 {+ORDNUM} straight game (NOUN) : 
+  [(NMODS NUM1) (NMODS [WjDUlA<NOUN>]) AjWA|<NOUN>]
+# with NUM1 game remaining $ (PP->ADV) : (ADJUNCT [(OBJ [(NMODS NUM1) AjWA|<NOUN>]/IzI) DbQA|<VERB>]/Al)
+
+"goal"
+# decisive goal (NOUN) : AjIUzWAlI
+# goal (NOUN) : AlI
+# goal in $ (NOUN) : AlIW|D
+# own goal (NOUN) : XbZcAAlI
+
+"golf"
+# professional golf (NOUN) : ]zIl AlI]z
+
+"golfer"
+# golfer (NOUN) : AlI]f
+
+"green"
+# green (NOUN) : AzI|D
+
+"guard"
+# All-Star guard (NOUN) : WlIUz\b AbGz
+# guard (NOUN) : AbGz
+# point guard (NOUN) : ]lW|D\z AbGz
+# shooting guard (NOUN) : UwU\|W AbGz
+# star guard (NOUN) : Uz\b AbGz
+# starting point guard (NOUN) : UfDRbI ]lW|D\z AbGz
+
+"gust"
+# gust (NOUN) : GlI]sW

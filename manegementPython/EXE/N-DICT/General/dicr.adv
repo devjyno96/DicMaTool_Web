@@ -1,0 +1,376 @@
+
+"rabidly"
+(QcWIjI^bAg)
+
+"racially"
+(W|DXlWUbW)
+
+"racily"
+(]bI]bI^bAg)
+
+"radiantly"
+(R|ZDbAg)
+
+"radically"
+(AzDRlDXfAWzIl)
+
+"rainily"
+(R|Ab WlbUf)
+
+"rallyingly"
+(WdWw^bWj)
+
+"randan"
+(IcDGcDU|AWzIl RcIzI XfWf)
+
+"randomly"
+(QsXbAWs|Il)
+
+"rapidly"
+(SbII|)
+
+"rare"
+(QlRU|)
+
+"rarely"
+(GzQsIAg)
+
+"rather"
+(rather)
+* Blc (be)
+* Blc (inexpensive)
+//# PP rather than PP1 (ADV) : (ADJUNCT [(ADJUNCT PP1/IbA|RlGbDzD) PP])
+//# VP rather than VP1 (VERB) : [(ADJUNCT [(COMPCL VP1/^bDzD) AfU<NOUN>]/RlGb) VP]/^bGb
+# ^be AJP rather than AJP1 (VERB) : [(ADJUNCT AJP1/^bA|RlGbDzD) AJP]/^bGb {-PAST, -MODAL}
+# ^be PASTP rather than PASTP1 (VERB) : [(ADJUNCT PASTP1/^bA|RlGbDzD) PASTP]/^bGb {-PAST, -MODAL}
+# rather than A (PP PP) : 1) (ADJUNCT A/IbA|RlGbDzD)
+ 						  2) (ADJUNCT A/IbA|RlGb)
+# rather than ^VP (ADV) : [VP]/^bA|RlGb
+# would rather ^VP {+INFFORM} (VERB) : [VP](^bI/F, AfUW|/A)/Gb {-PAST, -MODAL}
+# would rather VP {+INFFORM} than ^VP1 {+INFFORM} (VERB) : [(ADJUNCT VP1/^bA|RlGbDzD) VP](^bI/F, AfUW|/A)/Gb {-PAST, -MODAL}
+# ^would rather be AJP than AJP1 (VERB) : [(ADJUNCT ADJP1/^bA|RlGbDzD) AJP](^bI/F, AfUW|/A)/Gb {-PAST, -MODAL}
+# would rather be PASTP than ^PASTP1 (VERB) : [(ADJUNCT PASTP1/^bA|RlGbDzD) 
+PASTP](^bI/F, AfUW|/A)/Gb {-PAST, -MODAL}
+#' ^would rather not (VERB) : ^bI AfUW|Gb {+NEG}
+
+"rationally"
+(W|UfWXfAWzIl)
+
+"rattling"
+(Al|WXbW^|)
+
+"ravingly"
+(Q|Z|DGzUW|)
+
+"readily"
+(Us|RUbI|)
+
+"ready"
+(Q|I|)
+
+"real"
+(XfWQbIIl)
+
+"really"
+(XfWQbIIl)
+* XfWQbIIl (~ {+SBEGIN})
+* XfWQbIIl (like)
+* QcWs (big)
+
+# || not really | (SENT) : (DECL [WbD|<ADV>])
+# || oh , really ? (SENT) : (QUES [(MODS [Wl<ADV>]) XfWQbIW|<ADJ>]/Gb)
+# || really ? (SENT) : (QUES [XfWQbIW|<ADJ>]/Gb)
+
+"rearward"
+(^sRbWWg)
+
+"reasonably"
+(Blc)
+
+"recently"
+(WrXzWzQ)
+# until recently | (PP->ADV) : Zl|AzDBbX|
+
+"recklessly"
+(QsQl^bAg) 
+
+"reconcilably"
+(^lb^c ^bWj)
+
+"recurrently"
+(Gl|]sIW|^bWj GlWWz|Wf)
+
+"reelingly"
+(R|\zIAfI|Qj)
+
+"reflectingly"
+(RbDUfW^bWj)
+
+"reflectively"
+(RbDUfW^bWj RbDUbXfAWzIl)
+
+"reflexly"
+(RbDUbXfAWzIl)
+
+"refractorily"
+(GbIsA| ^|QGzIAg)
+
+"regally"
+(WlbWXbGbRAg)
+
+"regardless"
+(AcWz|Z| WbD^Al)
+# regardless of A (ADV) : (MODS [(COMP A/Wg) UbWAlbDWfRUW|<ADV>])
+# regardless of WHETHER_CLAUSE (ADV) : (MODS [(COMP [(RELCL WHETHER_CLAUSE/^bDzD) AfU<NOUN>]/Wg) UbWAlbDWfRUW|<ADV>])
+# regardless of who VP (ADV) : (MODS [(COMP [(RELCL [(MODS [DsAb<ADV>]) VP]/^bDzD) AfU<NOUN>]/Wg) UbWAlbDWfRUW|<ADV>])
+
+"regardlessly"
+(AcWz|Z| WbD^Al)
+
+"regionally"
+(X|WjAXfAWzIl)
+
+"regretfully"
+(WwAbQUzIfRAg)
+
+"regrettably"
+(UzI]zAgGl)
+
+"regularly"
+(AwZ|AXfAWzIl)
+
+"rejoicingly"
+(A|Sf^bQj)
+
+"relatively"
+(UbWGcXfAWzIl)
+
+"relentingly"
+(RsGzIfRAg)
+
+"reliably"
+(Q|GWzI Us W|VAg)
+
+"reluctantly"
+(U|I^WzQjDUf WfAX|Il)
+
+"remarkably"
+(XsQlA^bI QbD^bAg)
+
+"reminiscently"
+(^l|AlXfAWzIl)
+
+"remotely"
+(QfII|)
+* WsfDAjAWzIl (access control)
+
+"renewedly"
+(GbU|)
+
+"rent-free"
+(X|GcAb WfRUW|)
+
+"repeatedly"
+(RbDRlAXfAWzIl)
+
+"reportedly"
+(XfD^bDzD RbWg Wz|^bQjD)
+
+"reposedly"
+(]jWWlD^bAg)
+
+"reprehensibly"
+(AlcV|Q^bAg)
+
+"reproachingly"
+(ZcAQbW^bGzUW|)
+
+"reprovingly"
+(DbQsIbGzUW|)
+
+"reputedly"
+(Ug]jWWg Wz|^bQjD)
+
+"reservedly"
+(XlU|QUzIfRAg)
+
+"resignedly"
+(ZgDjQ^bAl)
+
+"resistingly"
+(Xf^bW^bWj)
+
+"resolutely"
+(AsGAg)
+
+"resolvedly"
+(AjIWjD^|)
+
+"respectably"
+(^sIIwW^bAg)
+
+"respectfully"
+(AlWUlD^|)
+
+"respectively"
+(XfQbGb)
+
+"responsibly"
+(ZcAW|QX|Al)
+
+"restfully"
+(]jW^lbUzIfRAg)
+
+"restrainedly"
+(UbQAbUf)
+
+"restrictively"
+(^bDXfW^bWj)
+
+"resultingly"
+(AjIAlbIlUf)
+
+"retailly"
+(UlQcIl)
+
+"retentively"
+(WwX|^bWj)
+
+"reticently"
+(U|DXsW^bAg)
+
+"retiringly"
+(Dc^dWXfAWzIl)
+
+"revengefully"
+(RlAUsU|QWg RsI\bUf)
+
+"reverse"
+(RbDGcIl)
+
+"reversely"
+(RbDGcIl)
+
+"revocably"
+(]kX|Gl|GlIlA)
+
+"revoltingly"
+(RbDWjAXfAWzIl)
+
+"rhestorically"
+(UsUbXfAWzIl)
+
+"rheumatically"
+(IwQf\|XzQWg AfIIj)
+
+"rhythmically"
+(WwIGlWXfAWzIl)
+
+"richly"
+(RsWw^bAg)
+
+"ridiculously"
+(WfI|UfAAg)
+
+"right"
+(RbIl)
+* XgGcIl (throw)
+
+# ^be right across A (VERB) : [(MODS [RbIl<ADV>]) (ADJUNCT A/AfDDf]jDWg) W|V<VERB>]/Gb
+# ^be right there $ (VERB) : RbIl AzAlUWg W|VGb
+# || right . (SENT) : (DECL [QbX<ADJ>]/Gb)
+# || right ? (SENT) : (QUES [QbX<ADJ>]/Gb)
+# right after A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl ^s<NOUN>]/Wg)
+# right after PRESP (PP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+# right after SENT (PP->ADV) : (ADJUNCT SENT/^bXbQbXb)
+# right away (ADV) : XzAU|
+# right before A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl XfD<NOUN>]/Wg)
+# right before PRESP (PP->ADV) : (ADJUNCT PRESP/^bA|X|AXfDWg)
+# right before SENT (PP->ADV) : (ADJUNCT SENT/^bA|X|AXfDWg)
+# right off (ADV) : XzAU|
+# right now (ADV NOUN) : RbIl X|AzQ
+//# right ADV (ADV) : [(MODS [RbIl<ADV>]) ADV]
+# right before A (ADV) : (ADJUNCT [(NMODS A) RbIl XfD<NOUN>]/Wg)
+# SENT , right (SENT) : [(SUBJ [(RELCL SENT/^bDzD) AfU<NOUN>]/W|) QbX<ADJ>]/Gb
+
+"righteously"
+(WlIRbIzAg)
+
+"rightfully"
+(^bRRfRXfAWzIl)
+
+"rightly"
+(RbIzAg)
+
+"rightwards"
+(WlIzDYlAWg)
+
+"rigidly"
+(AjWX|AGl|Ag)
+
+"rigorously"
+(WfQAjA^bAg)
+
+"ripely"
+(W|AWfUf)
+
+"ripping"
+(QfUX|Ag)
+
+"riskily"
+(Ql^fQXfAWzIl)
+
+"ritually"
+(Wz|U|AWg HbIb)
+
+"robustly"
+(AbW^bAg)
+
+"rockily"
+(RbWs| \sUfWW|Il)
+
+"roughly"
+(AfZ|IAg)
+* GcIdA (~ {+SBEGIN})
+* AcIdAXfAWzIl (speak)
+
+"round"
+(^l|XfD^bWj)
+# ^go round (VERB) : WfXfWAfI|Gb
+# ^go round A (VERB) : [(OBJ [(POSS A/Wz|) XsWs|<NOUN>]/IzI) GlI<VERB>]/Gb
+# round here (ADV ADJ) : 1) W| XsRjDWg
+2) W| XsRjDWg W|VGb
+# ^walk round (VERB) : WfXfWAfI|Gb
+
+"roundly"
+(GsWAzIAg)
+
+"routinely"
+(AlbDIkXfAWzIl)
+
+"royally"
+(ZsWUfWUzIfRAg)
+
+"ruddily"
+(RsIAAg)
+
+"rudely"
+(RfIzUWfRUW|)
+
+"rumly"
+(Qr^bAg)
+
+"rushingly"
+(RsIdRsId)
+
+"rustically"
+(XfDWsfDXfAWzIl)
+
+"rustily"
+(DlAUzIWf)
+
+"rustlingly"
+(UbIIbWUbIIbW UlI|DcQj)
+
+"ruthlessly"
+(W|DXfWUbXfW WfRUW|)

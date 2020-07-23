@@ -1,0 +1,539 @@
+"Zapatista"
+(Ub]b\|Uz\b)
+
+"Zond"
+(Zond)
+# Zond Four (NOUN) : Zond Four
+
+"z"
+(z)
+
+"z-hour"
+% TIME
+(AlWAjAU|AbD)
+
+"z-man"
+% HUMAN
+(WwAAsD WkR|RjW)
+
+"zaddik"
+% HUMAN
+(WwGcW|DWz| UfWW|D)
+
+"zadikiel"
+(XcGz[|WgI GbIIjA)
+
+"zaffer"
+(RsIUsD^bD UbD^lb [lRbI\z)
+
+"zaffre"
+(RsIUsD^bD UbD^lb [lRbI\z)
+
+"zairean"
+% HUMAN
+(XbW|Ig UbIbQ)
+
+"zairian"
+% HUMAN
+(XbW|Ig UbIbQ)
+
+"zakat"
+(RlU|)
+
+"zambo"
+(XbQRl)
+
+"zang"
+(A|IjA)
+
+"zany"
+% HUMAN
+(RlXl WfI|UAlbWGc)
+
+"zanzibari"
+% HUMAN
+(XbDX|RbIz UbIbQ)
+
+"zap"
+(^lbIA|)
+
+"zareba"
+(AbU| DbQs WsI\bI|)
+
+"zax"
+(UzIIgW|\zIzI XbIzDzD WjDXbW)
+
+"zeal"
+% MATERIAL MIND
+(WjIU|Q)
+
+"zealot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjIXsWXb)
+
+"zealotry"
+% MATERIAL 
+(WjIAlbWXfA ^cWGlW)
+
+"zebec"
+(UgRgGc)
+
+"zebra"
+% CONCRETE ANIMAL MATERIAL 
+(WfIIsAQbI)
+
+"zebrass"
+(X|RzIbUz)
+
+"zebrawood"
+% CONCRETE MATERIAL 
+(XsIQsDz| XcQlA)
+
+"zebu"
+% CONCRETE ANIMAL MATERIAL 
+(RsWWs)
+
+"zechin"
+(AzQ^lb)
+
+"zed"
+(zed)
+
+"zedoary"
+% PLANT
+(RlWWbUsI)
+
+"zee"
+(zee)
+
+"zemindar"
+% HUMAN
+(GcX|Xs)
+
+"zemstrom"
+% ORGAN
+(X|RbW Ws|WsfD^l|)
+
+"zen"
+(UfD)
+
+"zenana"
+(WbDRbW)
+
+"zend"
+(AlGc ]gIzUd QbI)
+
+"zend-avesta"
+(XgDGzWbRgUz\b)
+
+"zenith"
+% MATERIAL 
+(XfIXfW)
+# at the zenith of A (PP->ADV) : (ADJUNCT [(ADJUNCT [(POSS A/Wz|) XfIXfW<NOUN>]/Wg) GbI^b<VERB>]/^bWj)
+
+"zeolite"
+(R|UfA)
+
+"zephaniah"
+(Xg]fDbW|Wf)
+
+"zephyr"
+% MATERIAL 
+(Uf]sW)
+
+"zero"
+% CONCRETE MATERIAL 
+(WjW)
+# above zero (PP->ADJ PP->ADV NOUN) : 1) WjWUbWW|Gb
+                                      2) WjWUbWWzIl
+                                      3) WjWUbW
+# below zero (PP->ADJ PP->ADV NOUN) : 1) WjW^bW|Gb
+                                      2) WjW^bIl
+                                      3) WjWUbW
+# zero growth (NOUN) : XgIlUfWXbW
+
+"zest"
+% CONCRETE MATERIAL 
+(^dWQ|)
+
+"zeta"
+(Xg\b)
+
+"zeugma"
+% CONCRETE MATERIAL 
+(WcAU|AWfRfR)
+
+"zeus"
+% HUMAN
+(XgWsUz)
+
+"zibeline"
+(Ql]|)
+
+"zibelline"
+(Ql]|)
+
+"zibet"
+% ANIMAL
+(Ub^dW AlWdWW|)
+
+"zigzag"
+% MATERIAL 
+(zigzag)
+
+"zigzaggery"
+(X|AzXcAz^bA|)
+
+"zilch"
+% CONCRETE MATERIAL 
+(XgIl)
+
+"zilionaire"
+% HUMAN
+(WfAQbDXbWXb)
+
+"zillah"
+(Xs)
+
+"zillion"
+(WfQZfWDbD Us)
+
+"zinc"
+% CONCRETE MATERIAL 
+(WbWjD)
+
+"zincate"
+(WbWjDUbDWjQ)
+
+"zincification"
+(WbWjD GlAzQ)
+
+"zincite"
+(^lWWbWjDAlbW)
+
+"zinco"
+(WbWjD]bD)
+
+"zincode"
+(XfDX|Wz| WdWAzA)
+
+"zincograph"
+(WbWjD]bD)
+
+"zincographer"
+% HUMAN
+(WbWjD]bD A|Ub)
+
+"zincography"
+(WbWjD Xc]bD)
+
+"zing"
+(DbI[bIlWsD [lUDlIcUlI|)
+
+"zingaro"
+% HUMAN
+(X|]U|)
+
+"zinger"
+% HUMAN
+(WsfDA|W|VDzD UbIbQ)
+
+"zinnia"
+% PLANT
+(X|D|Wb RcAW|IZl)
+
+"zion"
+(U|WlDUbD)
+
+"zionism"
+% ART
+(U|WlDXsWz|)
+
+"zip"
+(zip)
+# zip code system (NOUN) : Ws]jDRfD^lXgGl
+
+"zip-fastener"
+% CONCRETE ANIMAL MATERIAL 
+(X|]f)
+
+"zipper"
+% CONCRETE ANIMAL MATERIAL 
+(X|]f)
+
+"zircon"
+% MATERIAL 
+(X|Iz[lD)
+
+"zirconate"
+(X|Iz[lD UbDWjQ)
+
+"zirconium"
+% CONCRETE MATERIAL 
+(X|Iz[lDwQ)
+
+"zither"
+% CONCRETE ANIMAL MATERIAL 
+(Y|\f)
+
+"zitherist"
+% HUMAN
+(Y|\f WjDXsXb)
+
+"zithern"
+(Y|\f)
+
+"zittern"
+(Y|\f)
+
+"zizz"
+(Ws|WWs|WUlI|)
+
+"zloty"
+% CONCRETE UNIT MATERIAL 
+(XzIIl\|)
+
+"zodiac"
+% MATERIAL 
+(^lbWGlGc)
+
+"zoetrope"
+(^lbIGlW WrX|AjW)
+
+"zolaism"
+% ART
+(XlIIbXsWz|)
+
+"zolaismist"
+% HUMAN
+(XlIIbXsWz|Xb)
+
+"zombi"
+% CONCRETE MATERIAL 
+(ZlXbWjDXfAW|D ^|Q)
+
+"zone"
+% CONCRETE MATERIAL PLACE
+(X|WjA)
+# hype zone (NOUN) : AlbDU|Q X|Gc
+# zone pricing (NOUN) : X|GcQcAbXg
+
+"zoneplate"
+(GlWU|QWsfD ^l|XfI]bD)
+
+"zonian"
+% HUMAN
+(]bDbQb WsD^bX|WjAWg UbDzD Q|AsAW|D)
+
+"zoning"
+(X|AsXg)
+
+"zoo"
+% CONCRETE ANIMAL MATERIAL 
+(GlWQsIWsfD)
+
+"zooblast"
+(GlWQsI Ug]l)
+
+"zoochemistry"
+% ART
+(GlWQsI^lb^bA)
+
+"zoodynamics"
+% ART
+(GlWQsI WjA^bA)
+
+"zoogamy"
+(WwUfW UcWU|A)
+
+"zoogeny"
+% ART
+(GlWQsI RbIUcWIlD)
+
+"zoogeography"
+% ART
+(GlWQsI X|I|^bA)
+
+"zoogony"
+(GlWQsI XlX|AWz| W|DZgW|U|A)
+
+"zoographer"
+% HUMAN
+(GlWQsIX|^bAXb)
+
+"zoography"
+% ART
+(GlWQsIX|^bA)
+
+"zooid"
+(AcZg)
+
+"zoolater"
+% HUMAN
+(GlWQsI UsWRcXb)
+
+"zoolatry"
+% MATERIAL 
+(GlWQsI UsWRc)
+
+"zoolite"
+(^lbUfA)
+
+"zoologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlWQsI^bAXb)
+
+"zoology"
+% MATERIAL ART
+(GlWQsI^bA)
+
+"zoom"
+% MATERIAL 
+(XsQ)
+
+"zoomagnetism"
+(GlWQsI XbA|)
+
+"zoomancy"
+(GlWQsIXfQ)
+
+"zoomar"
+% ART
+(GlWQsIZzAXfW^bA)
+
+"zooming"
+(XsQ)
+
+"zoomorphism"
+(GlWQsI^jW\cAlbD)
+
+"zoonosis"
+(GlWQsIWsfDUfW AbQWjQXzW)
+
+"zoophile"
+(GlWQsI UsRsD U|AQsI)
+
+"zoophilist"
+% HUMAN
+(GlWQsI Wc^lAb)
+
+"zoophobia"
+(GlWQsI AlW]lXzW)
+
+"zoophysics"
+% ART
+(GlWQsI AsXl^bA)
+
+"zoophyte"
+% ANIMAL
+(U|AZsWIw HbWs|)
+
+"zooplasty"
+(GlWQsI XlX|A W|U|AUsI)
+
+"zoopsychology"
+% ART
+(GlWQsI U|QI|^bA)
+
+"zoosperm"
+(XfWZsW)
+
+"zoospore"
+(XfW]lXb)
+
+"zoot-suiter"
+(^fIIfW^fIIfW^bD A|D WlU)
+
+"zootaxy"
+% ART
+(GlWQsI Ak\lW^bA)
+
+"zootechnics"
+(ZsAUbD)
+
+"zootheism"
+% ART
+(GlWQsIU|DAr)
+
+"zootomy"
+(GlWQsI ^cRs)
+
+"zoril"
+% CONCRETE ANIMAL MATERIAL 
+(XlAXgR|)
+
+"zoroaster"
+% HUMAN
+(XlIlWbUz\f)
+
+"zoroastrian"
+% HUMAN
+(XlIlWbUz\fAr ArGl)
+
+"zoroastrianism"
+% ART
+(XlIlWbUz\fAr)
+
+"zouave"
+(XsWbRzRjW)
+
+"zucchetta"
+(XbAWzD GsAfD)
+
+"zucchetto"
+(XbAWzD GsAfD)
+
+"zulu"
+% HUMAN
+(XsIIs UbIbQ)
+
+"zwinglian"
+(YzR|WAzII|]bWz| ArGl)
+
+"zygoma"
+% CONCRETE MATERIAL ANIMAL
+(AlbWGcSj)
+
+"zygosis"
+(XfR^bR)
+
+"zygospore"
+(XfR^bRXb)
+
+"zygote"
+% CONCRETE MATERIAL 
+(XfR^bRXb)
+
+"zymase"
+(Y|QbWbXg)
+
+"zyme"
+(^rUl)
+
+"zymogen"
+(Y|QlWlAgD)
+
+"zymologist"
+% HUMAN
+(RbI^r^bAXb)
+
+"zymology"
+% ART
+(RbI^r^bA)
+
+"zymometer"
+(RbI^rAk)
+
+"zymosis"
+(RbI^r)
+
+"zymurgy"
+% ART
+(WdWXl^bA)
+
+"zythum"
+% FOOD
+(AlGc W|X|R\zWz| QcAXs)
+
+"zzz"
+([sI[sI)

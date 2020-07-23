@@ -1,0 +1,194 @@
+
+"odd"
+# odd footer : ^lIUs BlI|]rWf
+# odd header : ^lIUs QfI|Wf
+# odd length : ^lIUs A|IW|
+# odd parity : ^lIUs ]cI|\|
+# odd positive acknowledge : ^lIUs AzWXfW WzWGbR
+
+"odd-even"
+# odd-even check : ^lIYbA AfQUb
+
+"odd-numbered"
+# odd-numbered : ^lIUsWz|
+
+"offline"
+# offline : Wl]zIbW|D
+# offline processing : Wl]zIbW|D ZfI|
+
+"one-dimensional"
+# one-dimensional language : 1ZbWsfD WfDWf
+
+"online"
+# online : WlDIbW|D
+# online backup : WlDIbW|D RcAWfR
+# online data entry : WlDIbW|D XbIr W|RIjA
+# online data file : WlDIbW|D XbIr ]bW|I
+# online document : WlDIbW|D QsDUf
+# online documentation : WlDIbW|D QsDUf
+# online field total : WlDIbW|D ]|IGz ^bRAk
+# online help : WlDIbW|D GlWsQQbI
+# online help support : WlDIbW|D GlWsQQbI X|WsfD
+# online information : WlDIbW|D XfWRl
+# online migration : WlDIbW|D W|Xs
+# online processing : WlDIbW|D ZfI|
+# online reversal SSP : WlDIbW|D RbDXfD SSP
+# Online Routing : WlDIbW|D XbAWfR AjWIl X|XfW
+# online save file : WlDIbW|D RlAlbD ]bW|I
+# online storage : WlDIbW|D A|WfAXbWZ|
+# online system : WlDIbW|D U|Uz\gQ
+# online terminal test : WlDIbW|D GbDQbIA| U|^fQ
+# online test : WlDIbW|D U|^fQ
+# online test section : WlDIbW|D U|^fQ AsWjA
+# online test system : WlDIbW|D U|^fQ U|Uz\gQ
+# online testing : WlDIbW|D U|^fQ
+
+"open"
+# open code : AcRbW [lGz
+# Open Data Path : AcRbW XbIr AjWIl
+# open data set : AcRbW XbIr Ug\z
+# open error : AcRbW WlIw
+# open field : AcRbW ]|IGz
+# open file : WjII|D ]bW|I
+# open interface : AcRbW W|D\f]gW|Uz
+# open item : Wl]zD ]sQQlA
+# open item method : Wl]zD ]sQQlA RbWU|A
+# open list : AcRbW W|IIbQ]r
+# open load : Wl]zD Rs^b
+# open mode : WjII|Q QlGz
+# open numbering : AcRbW RfD^l QcA|Q
+# open operation : Wl]zD XbAWfR
+# open order : Wl]zD WlGf
+# open order material file : Wl]zD WlGf XbXc ]bW|I
+# open order operation description : Wl]zD WlGf XbAWfRQjW
+# open order/back order : Wl]zD WlGf/RcAWlGf
+# open overdue orders : DbRA| AjWAlb Wl]zD WlGf
+# open shop : AcRbW XbAWfRXbW
+# open subroutine : AcRbW RsUlAIs\|D
+# open system interconnection : AcRbW U|Uz\gQ UbW^lXfRUlA
+# open system network support : AcRbW U|Uz\gQ Dg\zWsf[z X|WsfD
+# open system transport and session support : AcRbW U|Uz\gQ W|GlW Q|Z UgUjD X|WsfD
+# Open Systems Interconnection : AcRbW U|Uz\gQ WjDAjI AwWdA
+# open wire : AcRbWUfD
+
+"operable"
+# operable program : WsDWrW AbDzW^bD ]zIlAzIcQ
+# operable time : GlWXbA AbDzW U|AbD
+
+"operating"
+# operating diskette : XlXbA G|Uz[gU
+# operating environment : XlXbA ^lbDAjW
+# operating image : XlXbA WjWUbW
+# operating mode : WsDWjW QlGz
+# operating procedure : XlXbA XfIZb
+# operating state : XbAGlW UbW\c
+# operating system : WsDWjWZgXg
+# operating system label : WsDWrW U|Uz\gQ IgW|RzI
+# operating system load library : WsDWrW U|Uz\gQ IlGz IbW|RzIfI|
+# operating system option : WsDWrW ZgXg UfD\cA
+# Operating System : WsDWrW U|Uz\gQ
+# Operating System/Virtual Storage 1 : Operating System/Virtual Storage 1
+# Operating System/Virtual Storage 2 : Operating System/Virtual Storage 2
+# operating system/2 : WsDWrW U|Uz\gQ/2
+# operating system/400 : WsDWrW U|Uz\gQ/400
+# operating time : XbAGlW U|AbD
+
+"operational"
+# operational : XlXbAWz|
+# operational environment : GlWXbA ^lbDAjW
+# operational expression : WjDUbDU|A
+# operational interface : XlXbA XfRUlA
+# operational mode : GlWXbA QlGz
+# operational prototype : XlXbA WsfD^jW
+# operational right : XlXbA AsfD^bD
+# operational security procedure : XlXbA RlWbD XfIZb
+# operational sign : WjDUbD Rs^l
+# operational unit number : XlXbA XbWZ| RfD^l
+# operational data : XlXbA GgW|\f
+
+"opposite"
+# opposite control field : WjA XgWf ]|IGz
+
+"optical"
+# optical character recognition : AlbW^bA QsDXb W|DX|
+# optical scanner : AlbW^bA XsUb XbWZ|
+# optical scanning : AlbW^bA XsUb
+
+"optimal"
+# optimal : Zl|XfAWz|
+# optimal index structure : Zl|XfA UcAW|D AsXl
+
+"optional"
+# optional : UfD\cAXfAW|D
+# optional feature : UfD\cA A|DzW
+# optional label : UfD\cA IgW|RzI
+# optional network facilities : Dg\zWsf[z UfD\cA A|DzW
+# optional operation : WlRUjD XbAWfR
+# optional program tape : UfD\cA ]zIlAzIcQ \gW|]z
+# optional SSP : UfD\cA SSP
+# optional user facilities : UfD\cAXfAW|D UbWrWXb A|DzW
+# optional user facility : UfD\cAXfA UbWrWXb A|DzW
+# optional word : UfD\cAWf
+
+"orderly"
+# orderly closedown : XfWUbW ]kX|
+# orderly shutdown : XfWUbW ]kUlc
+
+"ordinal"
+# ordinal : UfUs
+# ordinal number : UfUs
+# ordinal type : UfUs Ww^jW
+
+"ordinary"
+# ordinary : \lWUbW
+# ordinary application : \lWUbW XfAWrWWfRQs
+# ordinary identifier : W|IRbD ID
+# ordinary symbol : \lWUbW A|^l
+# ordinary token : W|IRbD \l[zD
+
+"organizing"
+# organizing applications : XfAWrW WfRQs AsUfW
+# organizing users : UbWrWXb AsUfW
+
+"original"
+# original diskette : WsfDRlD G|Uz[gU
+# original application program : Zl|Zl XfAWrWWfRQs ]zIlAzIcQ
+# original data : ZlA| XbIr
+# Original Equipment Manufacturer : WsfDXbWR| UcWUbDXb
+# original error : AzDRlDXfA WlIw
+# original subarea : WsfDXfQ RsUlAWjWWjA
+# original value : ZlA| AbRU
+
+"outbound"
+# outbound : Wl|^dW
+# outbound chain : Wl|^dW WjDUlc
+# outbound console data : Wl|^dW [lDUlI XbIr
+# outbound FM : Wl|^dW FM
+# outbound message : Wl|^dW QgUgX|
+# outbound mixed data : DbAbDzD ^lD^bR XbIr
+# outbound pacing : Wl|^dW ]gW|U|W
+# outbound RU : Wl|^dW RU
+# outbound structured field : Wl|Rs AsXl ]|IGz
+# outbound 3270DS structured field : Wl|^dW 3270DS AsXl^lb ]|IGz
+
+"outgoing"
+# outgoing : ZsIIjA
+# outgoing access : ZsIIjA XfRAzD
+# outgoing group : ZsIIjA Zs|AzRRs
+# outgoing mail : UlWU|D Ws]jD
+# outgoing trunk : ZsIIjA \zIfW[z
+
+"outstanding"
+# outstanding : Q|ZfI|
+# outstanding credit : Q|ZfI| U|DWrW
+# outstanding orders : Q|ZfI| WlGf
+
+"overall"
+# overall structure : XfDZg AsXl
+
+"overlapped"
+# overlapped span of control : XgWf XsWZfR RfQWs|
+
+"overlapping"
+# overlapping field : XsWZfR ]|IGz
+# overlapping operation : XsWRlA XbAWfR

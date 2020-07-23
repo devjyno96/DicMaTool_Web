@@ -1,0 +1,2255 @@
+"Greek"
+ar (AzI|W|UzWz|)
+ap (AzI|W|UzW|Gb)
+
+"gabby"
+ar (UsGbUsIfWsD)
+ap (UsGbUsIfRGb)
+
+"gabled"
+ar (RbAAlWW| W|VDzD)
+ap (RbAAlWW| W|VGb)
+
+"gadget-crazy"
+ar (A|AkWg Q|Z|D)
+ap (A|AkWg Q|Z|Gb)
+
+"gadgety"
+ar (A|AkWz|)
+ap (A|AkW|Gb)
+
+"gaga"
+ar (WfI|UfAWzD)
+ap (WfI|UfAGb)
+# ^go gaga over (VERB) : WjIAlbW^bGb
+# ^go gaga over A (VERB) : [(ADJUNCT A/Wg) WjIAlbW^b<VERB>]/Gb
+
+"gainful"
+ar (W|W|AW| W|VDzD)
+ap (W|W|AW| W|VGb)
+
+"gainly"
+ar (\cGlDb GlWXbAW| WbIzQGbWsD)
+ap (\cGlDb GlWXbAW| WbIzQGbRGb)
+
+"gaitered"
+ar (AbARbDWzI Z|D)
+ap (AbARbDWzI Z|Gb)
+
+"gala"
+ar (ZsAXgWz|)
+ap (ZsAXgW|Gb)
+
+"galactic"
+ar (XfXWz|)
+ap (XfXW|Gb)
+
+"galeate"
+ar (\sAs QlWdWWz|)
+ap (\sAs QlWdWW|Gb)
+
+"galeated"
+ar (\sAs QlWdWWz|)
+ap (\sAs QlWdWW|Gb)
+
+"galenic"
+ar (ZlAzD QlA]|Wz|)
+ap (ZlAzD QlA]|W|Gb)
+
+"galenical"
+ar (ZlAzD QlA]|Wz|)
+ap (ZlAzD QlA]|W|Gb)
+
+"galilean"
+ar (AbII|IIgWlWz|)
+ap (AbII|IIgWlW|Gb)
+
+"galilean"
+ar (AbII|II|Wz|)
+ap (AbII|II|W|Gb)
+
+"gallant"
+ar (V|AV|A^bD)
+ap (V|AV|A^bGb)
+
+"galleried"
+ar (^lbIbWW| W|VDzD)
+ap (^lbIbWW| W|VDzD)
+
+"gallic"
+ar (AlWlIWz|)
+ap (AlWlIW|Gb)
+
+"gallican"
+ar (]zIbWUz ZfDXsArW|Gb)
+
+"gallinacean"
+ar (GbIAWz|)
+ap (GbIAW|Gb)
+
+"gallinaceous"
+ar (GbIAWz|)
+ap (GbIAW|Gb)
+
+"gallionic"
+ar (DcWGbQ^bD)
+ap (DcWGbQ^bGb)
+
+"gallophile"
+ar (]zIbWUzIzI Xl^Wb^bDzD)
+ap (]zIbWUzIzI Xl^Wb^bGb:ADJ->VERB)
+
+"gallophobe"
+ar (]zIbWUzIzI U|I^Wf^bDzD)
+ap (]zIbWUzIzI U|I^Wf^bGb:ADJ->VERB)
+
+"gallows-ripe"
+ar (ArUs^jWWg Zf^cWd ^bI)
+ap (ArUs^jWWg Zf^cWd ^bGb:ADJ->VERB)
+
+"gallus"
+ar (WbAGbWAb\WzD)
+ap (WbAGbWAb\Gb)
+
+"galoshed"
+ar (GfUU|DWzI U|DWzD)
+ap (GfUU|DWzI U|DGb)
+
+"galvanic"
+ar (WwXfDA|Wz|)
+ap (WwXfDA|W|Gb)
+
+"galvanical"
+ar (WwXfDA|Wz|)
+ap (WwXfDA|W|Gb)
+
+"galvanometric"
+ar (AfQIwAkWz|)
+ap (AfQIwAkW|Gb)
+
+"galvanoplastic"
+ar (XfDA| ]bDUsIWz|)
+ap (XfDA| ]bDUsIW|Gb)
+
+"gambian"
+ar (AbQR|WbWz|)
+ap (AbQR|WbW|Gb)
+
+"gamblesome"
+ar (GlRbAWzI XzIA|DzD)
+ap (GlRbAWzI XzIA|Gb:ADJ->VERB)
+
+"game"
+ar (UbDdW^bD)
+ap (UbDdW^bGb)
+# ^die game (VERB) : Bz\Dc RsD\s^bGb
+
+"game-ending"
+ar (AgW|QWzI Bz\DcDzD)
+ap (AgW|QWzI Bz\DcGb)
+
+"gamesome"
+ar (XbWDbDWzI Xl^Wb^bDzD)
+
+"gammy"
+ar (RsIAsW|D)
+ap (RsIAsW|Gb)
+
+"gamy"
+ar (UbDdWAbQ DcQUcAb DbDzD)
+ap (UbDdWAbQ DcQUcAb DbGb:ADJ->VERB)
+
+"gangling"
+ar (^lI|^lI|^bAl [| [zD)
+ap (^lI|^lI|^bAl [|Ab [zGb)
+
+"gangly"
+ar (^lI|^lI|^bD)
+ap (^lI|^lI|^bGb)
+
+"gangreous"
+ar (VfAWzD)
+ap (VfAGb)
+
+"gapless"
+ar (Y|XWfX|D \zQW| WfRUDzD)
+ap (Y|XWfX|D \zQW| WfRUGb)
+
+"gapped"
+ar (WjA|XfA| AsQfW HsI^I|D)
+ap (WjA|XfA| AsQfW HsI^I|Gb)
+
+"gappy"
+ar (WjDIbAW| WfRUDzD)
+ap (WjDIbAW| WfRUGb)
+
+"gargantuan"
+ar (AfGc^bD)
+ap (AfGc^bGb)
+
+"garish"
+ar (RfDYfAAfI|DzD)
+ap (RfDYfAAfI|Gb:ADJ->VERB)
+
+"garlicky"
+ar (QbDzIAlb Ab\WzD)
+ap (QbDzIAlb Ab\Gb)
+
+"garrulous"
+ar (UsGbUzIfWsD)
+ap (UsGbUzIfRGb)
+
+"gas-efficent"
+ar (WjDIr ^rWwIW| XfAWzD)
+ap (WjDIr ^rWwIW| XfAGb)
+
+"gas-fired"
+ar (AbUz WjDIrIzI UbWrW^bD)
+ap (AbUz WjDIrIzI UbWrW^bGb)
+
+"gaseous"
+ar (AbUz QlWdWWz|)
+ap (AbUz QlWdWW|Gb)
+
+"gasfiable"
+ar (AbUzZgIl RjD^bI Us W|VDzD)
+ap (AbUzZgIl RjD^bI Us W|VGb)
+
+"gash"
+ar (UsGbUzIfWsD)
+ap (UsGbUzIfRGb)
+
+"gasiform"
+ar (AbUz QlWdWWz|)
+ap (AbUz QlWdWW|Gb)
+
+"gasping"
+ar (^fIHfAAfI|DzD)
+ap (^fIHfAAfI|Gb)
+
+"gasproof"
+ar (AbUzAb UcX| WbD^DzD)
+ap (AbUzAb UcX| WbD^Gb)
+
+"gassy"
+ar (AbUzX|IWz|)
+ap (AbUzX|IW|Gb)
+
+"gastight"
+ar (AbUzAb UcX| WbD^DzD)
+ap (AbUzAb UcX| WbD^Gb)
+
+"gastric"
+ar (Ws|Wz|)
+ap (Ws|W|Gb)
+# gastric fever (NOUN) : XbW\|]sUz
+# gastric juice (NOUN) : Ws| WcA
+# a gastric ulcer (NOUN) : Ws|AsgWdW
+
+"gastritic"
+ar (Ws|WjQWz|)
+ap (Ws|WjQW|Gb)
+
+"gastroenteric"
+ar (Ws|XbWWz|)
+ap (Ws|XbWW|Gb)
+
+"gastronomic"
+ar (WrI|RfRWz|)
+ap (WrI|RfRW|Gb)
+
+"gastronomical"
+ar (WrI|RfRWz|)
+ap (WrI|RfRW|Gb)
+
+"gauche"
+ar (DsDZ| WfRUDzD)
+ap (DsDZ|Ab WfRUGb)
+
+"gaudy"
+ar (^lbIj^bD)
+ap (^lbIj^bGb)
+
+"gaugable"
+ar (ZzAXfW^bI Us W|VDzD)
+ap (ZzAXfW^bI Us W|VGb)
+
+"gaulish"
+ar (AlWlIUbIbQWz|)
+ap (AlWlIUbIbQW|Gb)
+
+"gaunt"
+ar (WjWs|D)
+ap (WjWs|Gb)
+
+"gauntleted"
+ar (XbWAbRWzI B|D)
+ap (XbWAbRWzI B|Gb)
+
+"gauzy"
+ar (WdIRAl AbRjWsD)
+ap (WdIRAl AbRjRGb)
+
+"gawky"
+ar (WfISbX|D)
+ap (WfISbX|Gb)
+
+"gay"
+ar (QjWIbW^bD)
+ap (QjWIbW^bGb)
+
+# gay cat (NOUN) : ]sUDbA| RsIbWXb
+# gay lady (NOUN) : RbIbQDbD WjXb
+# gay quarters (NOUN) : ^lWGzWAb
+# gay world (NOUN) : ^lWGzWAb
+# gay science (NOUN) : Q|QsD^bA
+# ^lead a gay life (VERB) : GzIHzD UcW^lbIWzI ^bGb
+
+"gazelle-eyed"
+ar (WjWWdWAb\W| DsDQcAb RsGzIfWsD)
+ap (WjWWdWAb\W| DsDQcAb RsGzIfRGb)
+
+"gee-whiz"
+ar (BbQYbA DlIIbIQbD^bD)
+ap (BbQYbA DlIIbIQbD^bGb)
+
+"gelatiniform"
+ar (XgIIb\|D QlWdWWz|)
+ap (XgIIb\|D QlWdWW|Gb)
+
+"gelatinous"
+ar (XgIIb\|D QlWdWWz|)
+ap (XgIIb\|D QlWdWW|Gb)
+
+"gelid"
+ar (WfIWzQAb\WzD)
+ap (WfIWzQAb\Gb)
+
+"geminate"
+ar (VbWWzI W|IsD)
+ap (VbWWzI W|IsGb)
+
+"gemmate"
+ar (VbAW| W|VDzD)
+ap (VbAW| W|VGb)
+
+"gemmiferous"
+ar (RlUfAWzI UbDZsI^bDzD)
+ap (RlUfAWzI UbDZsI^bGb:ADJ->VERB)
+
+"gemmy"
+ar (RlUfAWzI RbAWzD)
+ap (RlUfAWzI RbAGb)
+
+"genderless"
+ar (UfWW| WfRUDzD)
+ap (UfWW| WfRUGb)
+
+"genealogical"
+ar (XlARlWz|)
+ap (XlARlW|Gb)
+# a genealogical table (NOUN) : XlARl
+# a genealogical tree (NOUN) : Ak\lWGl
+
+"general"
+ar (W|IRbDXfAW|D)
+ap (W|IRbDXfAW|Gb)
+# as a general rule (PP->ADV) : W|IRbDXfAWzIl
+# a general affairs (NOUN) : ZlWQs
+# general agent (NOUN) : ZlWGcI|W|D
+# General American (NOUN) : W|IRbD Q|AsAWf
+# general attack (NOUN) : ZlWAlWAjA
+# general concept (NOUN) : W|IRbD AcDjQ
+# General Confession (NOUN) : ZlWAlRcA
+# general dealer (NOUN) : XbR^lbUbW
+# general delivery (NOUN) : WwZ| Ws]jD
+# general editor (NOUN) : ]jDX|RXbW
+# general education (NOUN) : W|IRbDArWwA
+# general election (NOUN) : ZlWUfDAf
+# General Election Day (NOUN) : ZlWUfDAfW|I
+# general headquarters (NOUN) : ZlWUbIjWRs
+# general hospital (NOUN) : WwAAsDRjWWsfD
+# general law (NOUN) : W|IRbDRfR
+# general manager (NOUN) : ZlWX|RcW|D
+# general meeting (NOUN) : ZlW^l|
+# general officer (NOUN) : WwAAsD XbWUfW
+# general opinion (NOUN) : WjIlD
+# general orders (NOUN) : W|IRbD ^bRGlW QjWIjW
+# general outline (NOUN) : AcWr
+# general pardon (NOUN) : \zAUb
+# general practitoner (NOUN) : W|IRbD AcWfRWz|
+# general principles (NOUN) : \lWZ|A
+# general provisions (NOUN) : ZlWZ|A
+# general reader (NOUN) : W|IRbD GlAXb
+# general resemblance (NOUN) : GcGlWUlW|
+# general rules (NOUN) : ZlWZ|A
+# general semantics (NOUN) : W|IRbD Wz|Q|IlD
+# general servant (NOUN) : ^fGzIgU W|IAsD
+# general service (NOUN) : ZlWWkR|Gc
+# General Services Administration (NOUN) : W|IRbD XlGbIRlDRs
+# general shop (NOUN) : UlQc UbWXfQ
+# general store (NOUN) : UlQc XbR^lbXfQ
+# general staff (NOUN) : ZbQQl
+# general strike (NOUN) : ZlW]bWfR
+# general tariff (NOUN) : AsAXfW UgWwI
+# general term (NOUN) : XfDZ|W QjWUb
+# general welfare (NOUN) : GcXsWWz| RlAX|
+# in a general way  (PP->ADV) : W|IRbDXfAWzIl
+# in general (PP->ADV) : W|IRbDXfAWzIl
+# matter of general interest (NOUN) : W|IRbDXfAW|D ^zWQ|
+# the General Assembly (NOUN) : Xs Wz|^l|
+# the General Court (NOUN) : XsWz|^l|
+# the general person (NOUN) : W|IRbDW|D
+# the General Post (NOUN) : ZfURfD RcGbIWs]jD
+# the General Post Office (NOUN) : XsWWbW WsZgAsA
+# the general public (NOUN) : W|IRbD Ub^l|
+# the General Staff office (NOUN) : ZbQQl RlDRs
+# the general studies (NOUN) : W|IRbD ArWdW AlbXfW
+# the general course (NOUN) : W|IRbD ArWdW AlbXfW
+
+"general-purpose"
+ar (GbQlAXfAWz|)
+ap (GbQlAXfAW|Gb)
+
+"generational"
+ar (UgGcWz|)
+ap (UgGcW|Gb)
+
+"generative"
+ar (UcWUfWWz|)
+ap (UcWUfWW|Gb)
+
+"generic"
+ar (UlAUfWWz|)
+ap (UlAUfWW|Gb)
+
+"generous"
+ar (AlbDGc^bD)
+ap (AlbDGc^bGb)
+# ^be generous to A (VERB) : [(ADJUNCT A/WgAg) AlbDGc^b<ADJ>]/Gb
+
+"genetic"
+ar (WwXfD^bAWz|)
+ap (WwXfD^bAW|Gb)
+# genetic engineering (NOUN) : WwXfD AlW^bA
+
+"genetical"
+ar (WwXfD^bAWz|)
+ap (WwXfD^bAW|Gb)
+
+"genevan"
+ar (XgDgRbWz|)
+ap (XgDgRbW|Gb)
+
+"genevese"
+ar (XgDgRbWz|)
+ap (XgDgRbW|Gb)
+
+"genial"
+ar (Z|DXfI^bD)
+ap (Z|DXfI^bGb)
+
+"genial"
+ar (\fAWz|)
+ap (\fAW|Gb)
+
+"geniculate"
+ar (UzIUbWAlbDXfIW| W|VDzD)
+ap (UzIUbWAlbDXfIW| W|VGb)
+
+"geniculated"
+ar (UzIUbWAlbDXfIW| W|VDzD)
+ap (UzIUbWAlbDXfIW| W|VGb)
+
+"genital"
+ar (UcWU|AWz|)
+ap (UcWU|AW|Gb)
+
+"genitival"
+ar (UlAAjAWz|)
+ap (UlAAjAW|Gb)
+
+"genitive"
+ar (UlAAjAWz|)
+ap (UlAAjAW|Gb)
+
+"genoese"
+ar (XgDlWbWz|)
+ap (XgDlWbW|Gb)
+
+"genre"
+ar (W|IUbWUcW^lbIWzI AzI|D)
+ap (W|IUbWUcW^lbIWzI AzI|Gb)
+
+"genteel"
+ar (AbQsDW| Xl^WzD)
+ap (AbQsDW| Xl^Gb)
+
+"gentile"
+ar (R| WwGcW|DWz|)
+ap (R| WwGcW|DW|Gb)
+
+"gentile"
+ar (R| WwGcW|DWz|)
+ap (R| WwGcW|DW|Gb)
+
+"gentle"
+ar (WlDUsD^bD)
+ap (WlDUsD^bGb)
+
+# gentle and simple (NOUN) : UbW^b As|ZfD
+# my gentle readers (NOUN) : AlbDGc^bD GlAXb
+# the gentle craft (NOUN) : DbBU|X|I
+# the gentler sex (NOUN) : WjUfW
+
+"gentlewomanlike"
+ar (UsADjGbWsD)
+ap (UsADjGbRGb)
+
+"genual"
+ar (QsIz]Wz|)
+ap (QsIz]W|Gb)
+
+"genuine"
+ar (X|DYbWz|)
+* ZbQGl|Gb (manner QcDf)
+ap (X|DYbW|Gb)
+
+"geocentric"
+ar (X|AsIzI XsWU|QWzIl ^bD)
+ap (X|AsIzI XsWU|QWzIl ^bGb)
+
+"geocentrical"
+ar (X|AsIzI XsWU|QWzIl ^bD)
+ap (X|AsIzI XsWU|QWzIl ^bGb)
+
+"geodesic"
+ar (ZzAX|^bAWz|)
+ap (ZzAX|^bAW|Gb)
+
+"geodesical"
+ar (ZzAX|^bAWz|)
+ap (ZzAX|^bAW|Gb)
+
+"geodetic"
+ar (ZzAX|^bAWz|)
+ap (ZzAX|^bAW|Gb)
+
+"geodetical"
+ar (ZzAX|^bAWz|)
+ap (ZzAX|^bAW|Gb)
+
+"geodynomic"
+ar (X|As WjA^bAUbWWz|)
+ap (X|As WjA^bAUbWW|Gb)
+
+"geographic"
+ar (X|I|^bAWz|)
+* X|I|XfAW|Gb (community [fQwD|\|)
+ap (X|I|^bAW|Gb)
+# geographic latitude (NOUN) : X|I|^bAXfA Ws|Gl
+# geographic features (NOUN) : X|Ug
+# geographic mile (NOUN) : X|I|XfA QbW|I
+
+"geographical"
+ar (X|I|^bAWz|)
+ap (X|I|^bAW|Gb)
+# geographical latitude (NOUN) : X|I|^bAXfA Ws|Gl
+# geographical features (NOUN) : X|Ug
+# geographical mile (NOUN) : X|I|^bAXfAW|D QbW|I
+
+"geologic"
+ar (X|X|I^bAWz|)
+ap (X|X|I^bAW|Gb)
+# geological map (NOUN) : X|X|IGl
+# geological surveuy (NOUN) : XlUb
+
+"geological"
+ar (X|X|I^bAWz|)
+ap (X|X|I^bAW|Gb)
+# geological map (NOUN) : X|X|IGl
+# geological surveuy (NOUN) : XlUb
+
+"geometric"
+ar (A|^b^bAXfAW|D)
+ap (A|^b^bAXfAW|Gb)
+# geometric mean (NOUN) : GzWR| XsW^bW
+# geometric progression (NOUN) : A|^bAzRUs
+# geometric series (NOUN) : A|^bAzRUs
+# geometric proportion (NOUN) : GzWR| R|Ik
+
+"geometrical"
+ar (A|^b^bAWz|)
+ap (A|^b^bAXfAW|Gb)
+# geometrical mean (NOUN) : GzWR| XsW^bW
+# geometrical progression (NOUN) : A|^bAzRUs
+# geometrical series (NOUN) : A|^bAzRUs
+# geometrical proportion (NOUN) : GzWR| R|Ik
+
+"geometrid"
+ar (XbRfIIg DbR|AlbWz|)
+ap (XbRfIIg DbR|AlbW|Gb)
+
+"geophysical"
+ar (X|As QsII|^bAWz|)
+ap (X|As QsII|^bAXfAW|Gb)
+
+"geopolitic"
+ar (X|XfW^bAWz|)
+ap (X|XfW^bAXfAW|Gb)
+
+"geopolitical"
+ar (X|XfW^bAWz|)
+ap (X|XfW^bAXfAW|Gb)
+
+"geoponic"
+ar (DlWAjWWz|)
+ap (DlWAjWW|Gb)
+
+"georgic"
+ar (DlWUbWz|)
+ap (DlWUbW|Gb)
+
+"geostatic"
+ar (X|WbRWz|)
+ap (X|WbRW|Gb)
+
+"geostationary"
+ar (X|As XfWX| AsgGlUbWWz|)
+ap (X|As XfWX| AsgGlUbWW|Gb)
+
+"geostrophic"
+ar (X|As XbXfDWg Wz|^bD)
+ap (X|As XbXfDWg Wz|^bGb)
+
+"geothermal"
+ar (X|WjIWz|)
+ap (X|WjIW|Gb)
+
+"geotropic"
+ar (AsIX|UfWWz|)
+ap (AsIX|UfWW|Gb)
+
+"geriatric"
+ar (DlW|DRjWWz|)
+ap (DlW|DRjWW|Gb)
+
+"german"
+ar (GlAW|IWz|)
+ap (GlAW|IW|Gb)
+# German measles (NOUN) : ]sWX|D
+# German sheperd dog (NOUN) : GlAW|I Ug]fGzAc
+# German silver (NOUN) : WdWWzD
+# German text (NOUN) : GlAW|I QsDXb ^lbIXb
+# the German Ocean (NOUN) : RsA^c
+
+"germane"
+ar (Q|IXfR^bD AlbDAkAb W|VDzD)
+ap (Q|IXfR^bD AlbDAkAb W|VGb)
+
+"germanic"
+ar (GlAW|IWz|)
+ap (GlAW|IW|Gb)
+
+"germicidal"
+ar (UgAwDWz|)
+ap (UgAwDW|Gb)
+
+"germicide"
+ar (UbIAwDWz|)
+ap (UbIAwDW|Gb)
+
+"germinal"
+ar (WfI|DVbAWz|)
+ap (WfI|DVbAW|Gb)
+# germinal dish (NOUN) : RcRbD
+# germinal vesicles (NOUN) : RcIbD^cA
+
+"germinant"
+ar (VbA\zDzD)
+ap (VbA\zGb:ADJ->VERB)
+
+"germinative"
+ar (WsQ\zDzD)
+ap (WsQ\zGb:ADJ->VERB)
+
+"gerontic"
+ar (DlIjWWz|)
+ap (DlIjWW|Gb)
+
+"gesticulative"
+ar (QlQX|UWz|)
+ap (QlQX|UW|Gb)
+
+"gesticulatory"
+ar (QlQX|UWz|)
+ap (QlQX|UW|Gb)
+
+"get-acquainted"
+ar (W|AUsA^cX|A| Ws|^bD)
+ap (W|AUsA^cX|A| Ws|^bGb)
+
+"get-touch"
+ar (AbWAjW^bD)
+ap (AbWAjW^bGb)
+
+"getatable"
+ar (W|IsI Us W|VDzD)
+ap (W|IsI Us W|VGb)
+
+"getaway"
+ar (GlXsWz|)
+ap (GlXsW|Gb)
+
+"getrich-quick"
+ar (W|I^lbAZfDAzQWz|)
+ap (W|I^lbAZfDAzQW|Gb)
+
+"gettable"
+ar (WfGWzI Us W|VDzD)
+ap (WfGWzI Us W|VGb)
+
+"ghanaian"
+ar (AbDbWz|)
+ap (AbDbW|Gb)
+
+"ghanian"
+ar (AbDbWz|)
+ap (AbDbW|Gb)
+
+"ghastly"
+ar (QsUfWsD)
+ap (QsUfRGb)
+
+"ghostlike"
+ar (WwIjWAb\WzD)
+ap (WwIjWAb\Gb)
+
+"ghostly"
+ar (WwIjWWz|)
+ap (WwIjWW|Gb)
+# ghostly adviser (NOUN) : UfWX|AXb
+# ghostly director (NOUN) : UfWX|AXb
+# ghostly father (NOUN) : UfWX|AXb
+# ghostly comforrt (NOUN) : Ws|WbD
+# ghostly counsel (NOUN) : Ws|WbD
+# our ghostly enemy (NOUN) : WbAQb
+# the ghostly hour (NOUN) : WdUbQAjW
+
+"ghoulish"
+ar (As|U|DAb\WzD)
+ap (As|U|DAb\Gb)
+
+"giant"
+ar (AfGc^bD)
+ap (AfGc^bGb)
+
+"gibbose"
+ar (RsIIlA^bD QlWdWWz|)
+ap (RsIIlA^bD QlWdWW|Gb)
+
+"gibbous"
+ar (RsIIsA^bD QlWdWWz|)
+ap (RsIIsA^bD QlWdWW|Gb)
+
+"giddy"
+ar (^jDA|XzWDbDzD)
+ap (^jDA|XzWW| DbGb:ADJ->VERB)
+# ^feel giddy (VERB) : ^jDA|XzWWzI DzB|Gb
+# ^turn giddy (VERB) : ^jDA|XzWWzI W|IWz[|Gb
+# ^play the giddy goat (VERB) : RbRlX|U^bGb
+# ^act the giddy goat (VERB) : RbRlX|U^bGb
+
+"gifted"
+ar (ZfDRsWz| XcDzWW| W|VDzD)
+ap (ZfDRsWz| XcDzWW| W|VGb)
+
+"gigantic"
+ar (AfW|D Ab\WzD)
+ap (AfW|D Ab\Gb)
+
+"giggly"
+ar (B|IB|IAfI|DzD)
+ap (B|IB|IAfI|Gb:ADJ->VERB)
+
+"gilded"
+ar (AzQRbAWzI W|R^|D)
+ap (AzQRbAWzI W|R^|Gb)
+# gilded spurs (NOUN) : ^sDXbAUbWz| A|XbW
+# gilt spurs (NOUN) : ^sDXbAUbWz| A|XbW
+# gilded vices (NOUN) : Rs^lWz| GlIbA
+# the Gilded Age (NOUN) : ^lAjWA| U|Gc
+# the Gilded Chamber (NOUN) : UbWWsfD
+# the gilded youth (NOUN) : XcUbDAlb X|Ws|Ab W|VDzD XfIQWzD U|DUb
+
+"gilt-edged"
+ar (AbXbWXbI|Wg AzQWzI Z|I^bD)
+ap (AbXbWXbI|Wg AzQWzI Z|I^bGb)
+
+"gimcrack"
+ar (VbAsIjIl Af\RlA|QbD Xl^WzD)
+ap (VbAsIjIl Af\RlA|QbD Xl^Gb)
+
+"gimcracky"
+ar (VbAsIjWz|)
+ap (VbAsIjW|Gb)
+
+"gimpy"
+ar (XfIIzQRbIW|Wz|)
+ap (XfIIzQRbIW|W|Gb)
+
+"gingery"
+ar (UcWAbWWz|)
+ap (UcWAbWW|Gb)
+
+"gingival"
+ar (W|UQlQWz|)
+ap (W|UQlQW|Gb)
+
+"giocoso"
+ar (Ww[lc^bAl QjWIbW^bD)
+ap (Ww[lc^bAl QjWIbW^bGb)
+
+"gipsyfied"
+ar (X|RU|]sWWz|)
+ap (X|RU|]sWW|Gb)
+
+"girly-girly"
+ar (WbXs UlDj\|Ab DbDzD)
+ap (WbXs UlDj\|Ab DbGb:ADJ->VERB)
+
+"giveaway"
+ar (HfIW|Il ]bDzD)
+ap (HfIW|Il ]bIGb:ADJ->VERB)
+
+"given"
+ar (XsWfX|D)
+ap (XsWfX|Gb)
+# || given that | (CONJ) : ^bGbQjD
+
+"glabrous"
+ar (\fIW| WfRUDzD)
+ap (\fIW| WfRUGb)
+
+"glace"
+ar (QcBzIfRAl WwDW| DbDzD)
+ap (QcBzIfRAl WwDW| DbGb:ADJ->VERB)
+
+"glacial"
+ar (WfIWzQWz|)
+ap (WfIWzQW|Gb)
+
+"glaciated"
+ar (R|W^b XbAWrWWzI RbGWzD)
+ap (R|W^b XbAWrWWzI RbGGb)
+
+"glad"
+ar (A|SzD)
+* XfWGbRGb (eye DsDX|U)
+ap (A|SzGb)
+
+# ^be glad SENT (VERB->ADJ) : [(ADJUNCT SENT/^cUf) A|Sz<ADJ>]/Gb
+# ^be glad THAT_CLAUSE (VERB->ADJ) : [(ADJUNCT THAT_CLAUSE/^cUf) A|Sz<ADJ>]/Gb
+//# ^be glad TO_INF (VERB->ADJ) : [(COMP TO_INF/^bAgGl|Wf) A|Sz<ADJ>]/Gb
+# ^be glad at A (VERB) : [(ADJUNCT [(OBJ A/IzI) GzG<VERB>]/^bAl) A|Sf^b<VERB>]/Gb
+//# ^be very glad TO_INF (VERB->ADJ) : [(ADJUNCT TO_INF/^bAg Gl|Wf) (MODS [QlRU|<ADV>]) A|Sz<ADJ>]/Gb
+# ^be glad for A (VERB->ADJ) : [(ADJUNCT A/HcQsDWg) A|Sz<VERB>]/Gb
+# || glad to meet you | (SENT) : (DECL [QbDDbUf RbDAbR<ADJ>]/Gb)
+
+"gladiatorial"
+ar (AfQ\sUbWz|)
+ap (AfQ\sUbW|Gb)
+
+"gladsome"
+ar (A|SzD)
+ap (A|SzGb)
+
+"glairy"
+ar (^z|DXbWs| QlWdWWz|)
+ap (^z|DXbWs| QlWdWW|Gb)
+
+"glamorous"
+ar (QcIjAWg ZbD)
+ap (QcIjAWg ZbGb)
+
+"glancing"
+ar (RfDYfAW|DzD)
+ap (RfDYfAW|Gb:ADJ->VERB)
+
+"glandered"
+ar (R|XfRjWWg AfII|D)
+ap (R|XfRjWWg AfII|Gb)
+
+"glanderous"
+ar (UfDUbWWz|)
+ap (UfDUbWW|Gb)
+
+"glandiform"
+ar (AjDAlb QlWdWWz|)
+ap (AjDAlb QlWdWW|Gb)
+
+"glandular"
+ar (UfD QlWdWWz|)
+ap (UfD QlWdWW|Gb)
+
+"glanulous"
+ar (UfD QlWdWWz|)
+ap (UfD QlWdWW|Gb)
+
+"glare"
+ar (RfDYfAW|Al QcBzIfWsD)
+ar (RfDYfAW|Al QcBzIfRGb)
+
+"glaring"
+ar (RbDYbARbDYbA R|ZDbDzD)
+ap (RbDYbARbDYbA R|ZDbGb:ADJ->VERB)
+
+"glary"
+ar (RfDYfAW|DzD)
+ap (RfDYfAW|Gb:ADJ->VERB)
+
+"glassy"
+ar (WwI| QlWdWWz|)
+ap (WwI| QlWdWW|Gb)
+
+"glaucomatous"
+ar (DlADcXbWWz|)
+ap (DlADcXbWW|Gb)
+
+"glaucous"
+ar (DlA^l|UcAWz|)
+ap (DlA^l|UcAW|Gb)
+
+"glazy"
+ar (WwI| Ab\WzD)
+ap (WwI| Ab\Gb)
+
+"gleamy"
+ar (R|ZW| RfDGzAW|DzD)
+ap (R|ZW| RfDGzAW|Gb:ADJ->VERB)
+
+"gleeful"
+ar (QcWs A|Sf^bDzD)
+ap (QcWs A|Sf^bGb:ADJ->VERB)
+
+"gleesome"
+ar (QcWs A|Sf^bDzD)
+ap (QcWs A|Sf^bGb:ADJ->VERB)
+
+"glenoid"
+ar (Wd\Al WlQlA^bD)
+ap (Wd\Al WlQlA^bGb)
+
+"glib"
+ar (XbI XlXbIAfI|DzD)
+ap (XbI XlXbIAfI|Gb:ADJ->VERB)
+
+"glimmering"
+ar (AbQsIAbQsI R|Z|DzD)
+ap (AbQsIAbQsI R|Z|Gb:ADJ->VERB)
+
+"glittering"
+ar (R|ZDbDzD)
+ap (R|ZDbGb:ADJ->VERB)
+
+"glittery"
+ar (R|ZDbDzD)
+ap (R|ZDbGb:ADJ->VERB)
+
+"glitzy"
+ar (^lbIj^bD)
+ap (^lbIj^bGb)
+
+"global"
+ar (X|AsUbWWz|)
+* AzIIlRfI^bGb (company ^l|Ub)
+* XfDUgAkWz| (economy AjWXg) (web QbW) (market U|XbW) (glut ZsWRsD^bD AlWAzR) (area X|WjA)
+* XfDZgXfAW|Gb (provider AlWAzRXb) (employee ]|AlWrWW|D)
+ap (AlWQlWdWW|Gb)
+
+"globate"
+ar (AlWQlWdWWz|)
+ap (AlWQlWdWW|Gb)
+
+"globetrotting"
+ar (UgAk AlbDAlbW Wj^cWWz|)
+ap (UgAk AlbDAlbW Wj^cWW|Gb)
+
+"globoid"
+ar (AfWz| AlWQlWdWWz|)
+ap (AfWz| AlWQlWdWW|Gb)
+
+"globose"
+ar (AlWQlWdWWz|)
+ap (AlWQlWdWW|Gb)
+
+"globular"
+ar (AlWQlWdWWz|)
+ap (AlWQlWdWW|Gb)
+
+"globulous"
+ar (UlAsWz|)
+ap (UlAsW|Gb)
+
+"glomerate"
+ar (AlWQlWdWWzIl Gl|D)
+ap (AlWQlWdWWzIl Gl|Gb)
+
+"gloomy"
+ar (WfGsWsD)
+ap (WfGsRGb)
+
+"glorious"
+ar (WjWAlbWUzIfWsD)
+ap (WjWAlbWUzIfRGb)
+
+# Glorious Revolution (NOUN) : QjWWk^jAQjW
+
+"glossarial"
+ar (Wf^s|Wz|)
+ap (Wf^s|W|Gb)
+
+"glossy"
+ar (AlbW\cAW| DbDzD)
+ap (AlbW\cAW| DbGb:ADJ->VERB)
+
+"glottal"
+ar (UfWQsDWz|)
+ap (UfWQsDW|Gb)
+
+"glowing"
+ar (RcAWjIWz|)
+ap (RcAWjIW|Gb)
+
+"glucosic"
+ar (]lGlGbWWz|)
+ap (]lGlGbWW|Gb)
+
+"gluey"
+ar (WbArWz|)
+ap (WbArW|Gb)
+
+"glum"
+ar (QsHsAHsA^bD)
+ap (QsHsAHsA^bGb)
+
+"glutenous"
+ar (AzIIsWs\gDQlWdWWz|)
+ap (AzIIsWs\gDQlWdWW|Gb)
+
+"glutinous"
+ar (WbArX|IWz|)
+ap (WbArX|IW|Gb)
+
+"gluttonous"
+ar (AgAfIGzD)
+ap (AgAfIGzIGb)
+
+"glycogenic"
+ar (GbWWzI ^jWUfW^bDzD)
+ap (GbWWzI ^jWUfW^bGb:ADJ->VERB)
+
+"glycolic"
+ar (AzII|[lIWz|)
+ap (AzII|[lIW|Gb)
+
+"glycosuric"
+ar (GbWDrWz|)
+ap (GbWDrW|Gb)
+
+"glyphic"
+ar (UbW^jWQsDXbWz|)
+ap (UbW^jWQsDXbW|Gb)
+
+"glytic"
+ar (XlAbAWz|)
+ap (XlAbAW|Gb)
+
+"gnarled"
+ar (QbG| \sUfWW|Wz|)
+ap (QbG| \sUfWW|W|Gb)
+
+"gnarly"
+ar (QbG| \sUfWW|Wz|)
+ap (QbG| \sUfWW|W|Gb)
+
+"gnathic"
+ar (\fAWz|)
+ap (\fAW|Gb)
+
+"gnawing"
+ar (VlDzD)
+ap (VlGb:ADJ->VERB)
+# gnawing animal (NOUN) : UfIZ| GlWQsI
+
+"gnomic"
+ar (AzQWfDWg AlbD^bD)
+ap (AzQWfDWg AlbD^bGb)
+# gnomic poetry (NOUN) : AjAWfDU|
+
+"gnomical"
+ar (AzQWfDWg AlbD^bD)
+ap (AzQWfDWg AlbD^bGb)
+# gnomical poetry (NOUN) : AjAWfDU|
+
+"gnomish"
+ar (XbAWzD GlBcR| Ab\WzD)
+ap (XbAWzD GlBcR| Ab\Gb)
+
+"gnostic"
+ar (AzDlU|Uz]bWz|)
+ap (AzDlU|Uz]bW|Gb)
+
+"gnostic"
+ar (AzDlU|Uz]bWz|)
+ap (AzDlU|Uz]bW|Gb)
+
+"go-ahead"
+ar (XfDX|D^bDzD)
+ap (XfDX|D^bGb:ADJ->VERB)
+
+"go-as-you-please"
+ar (QsAk^l|AXfAW|D)
+ap (QsAk^l|AXfAW|Gb)
+
+"goatish"
+ar (WjQUlAb\WzD)
+ap (WjQUlAb\Gb)
+
+"goaty"
+ar (WjQUlAb\WzD)
+ap (WjQUlAb\Gb)
+
+"god-awful"
+ar (U|Q^bD)
+ap (U|Q^bGb)
+
+"god-given"
+ar (^bDbD|QWgAgUf RbGWzD)
+ap (^bDbD|QWgAgUf RbGGb)
+
+"godabout"
+ar (^bDAb^| DlIIf GbD|DzD)
+ap (^bDAb^| DlIIf GbD|Gb:ADJ->VERB)
+
+"goddamned"
+ar (XfXsRbGWzD)
+ap (XfXsRbGGb)
+
+"godforsaken"
+ar (^bDbD|QWz| RfI|QWzI RbGWzD)
+ap (^bDbD|QWz| RfI|QWzI RbGGb)
+
+"godless"
+ar (U|DWz| XlDXcIzI RsW|D^bDzD)
+ap (U|DWz| XlDXcIzI RsW|D^bGb:ADJ->VERB)
+
+"godlike"
+ar (U|D Ab\WzD)
+ap (U|D Ab\Gb)
+
+"godly"
+ar (U|DWzI AlWAjW^bDzD)
+ap (U|DWzI AlWAjW^bGb:ADJ->VERB)
+
+"goethean"
+ar (Al|\gWz|)
+ap (Al|\gW|Gb)
+
+"goethian"
+ar (Al|\gWz|)
+ap (Al|\gW|Gb)
+
+"goggle"
+ar (\s|WfDbWlD)
+ap (\s|WfDbWlGb)
+
+"goggle-eyed"
+ar (\sWRbWWsIDsDWz|)
+ap (\sWRbWWsIDsDW|Gb)
+
+"gogo"
+ar (^lbIA|W|VDzD)
+ap (^lbIA|W|VGb)
+
+"goitrous"
+ar (AbRUbWUfDXlWWz|)
+ap (AbRUbWUfDXlWW|Gb)
+
+"gold"
+ar (AzQWz|)
+ap (AzQW|Gb)
+# gold embargo (NOUN) : AzQ UsZsI AzQX|
+# gold lace (NOUN) : AzQQlWlI
+# gold plate (NOUN) : AzQ U|AA|Iw
+# gold reserve (NOUN) : XfW^lbXsDR|
+# gold cover (NOUN) : XfW^lbXsDR|
+# the gold standard (NOUN) : AzQRlDWs|Xg
+
+"gold-tipped"
+ar (AzQR|Z XlWW| QsIRsI|Ab Rs\WzD)
+ap (AzQR|Z XlWW| QsIRsI|Ab Rs\Gb)
+
+"golden"
+ar (AzQR|ZBbIWz|)
+ap (AzQR|ZBbIW|Gb)
+
+# golden age (NOUN) : ^lbWAzQU|Gc
+# golden balls (NOUN) : XfDGbW]l
+# golden bell (NOUN) : AlIGzDRgI
+# golden bridge (NOUN) : \l|AbAIl
+# golden calf (NOUN) : AzQUlWWbX|
+# golden eagle (NOUN) : AzQGlAUsI|
+# golden goose (NOUN) : ^lbWAzQWbIWzI Db^DzD AfWs|
+# golden key (NOUN) : Dl|QsI
+# golden opinions (NOUN) : XfIZbD
+# golden opportunity (NOUN) : XfI^lWz| A|^l|
+# golden rain (NOUN) : R|WlGzU VlGWbX|DzD RsIBlZ
+# golden remedy (NOUN) : QrWdA
+# golden saying (NOUN) : AzQWfD
+# the Golden Gate (NOUN) : AzQQsDQbD
+# the golden mean (NOUN) : XsWWrW
+# the golden number (NOUN) : AzQUs
+# the golden rule (NOUN) : ^lbWAzQWwI
+
+"golden-mouthed"
+ar (AsRjD Xl^WzD)
+ap (AsRjD Xl^Gb)
+
+"goldfilled"
+ar (AzQWzI W|R^|D)
+ap (AzQWzI W|R^|Gb)
+
+"goluptious"
+ar (QbUW|VDzD)
+ap (QbUW|VGb)
+
+"gonadotropic"
+ar (UcWU|AUfD XbAzAUfWWz|)
+ap (UcWU|AUfD XbAzAUfWW|Gb)
+
+"gone"
+ar (X|DbAbD)
+ap (X|DbAbGb)
+
+"gonorrhoeal"
+ar (W|QX|IWz|)
+ap (W|QX|IW|Gb)
+
+"good"
+ar (Xl^WzD)
+* DbIV|D^bGb (leg GbI|)
+* Hs|WfDbGb (joker XcGbQBsD)
+* UbWGbW^bGb (height Dl]W|) (distance AfI|)
+* WwW|A^bGb (book ZcA) (exercise WsDGlW)
+* Xl^Gb (day DbI) (mark XfQUs) (friend Z|DAs) (manner QcDf) (cast RcWjA)
+* Xl^Gb (thing W|I) (look W|DUbW) (side QjD)
+* XzIAfRGb (cheer XbDZ|) (humor WwQf)
+* ^sIIwW^bGb (lawyer RfRIwIAb) (view XfDQbW) (scientist Alb^bAXb)
+* QbWzQWg GzIGb:ADJ->VERB (month GbI)
+ap (Xl^Gb)
+
+# || good for A {+HUMAN} (SENT) : [(ADJUNCT A/WgAg) XbIGl|D W|IW|<ADJ>]/Gb
+# Good Conduct Medal (NOUN) : UfD^cW ^sDXbW
+# Good Neighbor Policy (NOUN) : UfDI|DXfWZcA
+//# ONE_S best | (NOUN) : [(POSS ONE/Wz|) (POSS [Zl|Al<NOUN>]/Wz|) AfU<NOUN>]
+# ONE_S best days (NOUN) : XfDUfWU|Gc
+# ONE_S best fellow (NOUN) : WcW|D
+# ONE_S best girl (NOUN) : WcW|D
+# a good while | (ADV) : WlIcUGlWWbD
+# ^be as good as A (VERB) : [(ADJUNCT A/QbD[zQ) Xl^<ADJ>]/Gb
+//# ^be good TO_INF (VERB) : [(ADJUNCT TO_INF/^bA|Wg) Xl^<ADJ>]/Gb
+# ^be good at PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) XbI ^b<VERB>]/Gb
+# ^be good at A (VERB) : [(OBJ A/IzI) XbI^b<VERB>]/Gb
+	* [(ADJUNCT A/WgUf) XbI^b<VERB>]/Gb
+	* A (hotel ^l\gI)
+# ^be good for health | (VERB->ADJ) : AfDAbWWg Xl^Gb
+# ^be good for PRESP (VERB->ADJ) : [(ADJUNCT PRESP/^bA|Wg) XfA^bR^b<ADJ>]/Gb
+//# ^be not good enough | (VERB->ADJ) : AbZ|Ab WfRUGb
+// be not good enough TO_INF
+# ^be not very good at A (VERB) : [(ADJUNCT A/Wg) (MODS [AzGbX|<ADV>]) DzWUsA^bX| WbD^<VERB>]/Gb
+# ^be so good as TO_INF (VERB) : [(MODS [Z|DXfI^bAgGl<ADV>]) TO_INF](^bWj/F, Xs/V)/Gb
+# ^be so good enough TO_INF (VERB) : [(MODS [Z|DXfI^bAgGl<ADV>]) TO_INF](^bWj/F, Xs/V)/Gb
+# ^be that good at A (VERB) : [(MODS [Az XfWGlIl<ADV>]) (OBJ A/IzI) XbI^b<VERB>]/Gb
+# ^be very good at A (VERB->ADJ) : [(ADJUNCT A/Wg) (MODS [QcWs<ADV>]) DzWUsA^b<ADJ>]/Gb
+# best man (NOUN) : XfAW|QXb
+# ^feel good | (VERB->ADJ) : QlQW| AbSsD^bGb
+# for good $ (PP->ADV) : WjWWsfD^|
+//# good TO_INF (ADJ) : [(ADJUNCT TO_INF/^bA|Wg) Xl^<ADJ>]/Gb
+# good and bad $ (NOUN) : Xl^Al DbSzD AfU
+# good and collectable (ADV) : ^l|UsAbDzW^bGb
+# good at A (ADJ) : [(OBJ A/IzI) XbI^b<VERB>]/Gb
+# good at PRESP (ADJ) : [(OBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/WzI) XbI ^b<VERB>]/Gb
+# || good afternoon | (SENT) : (DECL [WbDDjW<ADV>])
+# || good evening | (SENT) : (DECL [WbDDjW<ADV>])
+# good bargain (NOUN) : WwI|^bD QcQsI
+# good crop (NOUN) : ]sWXbA
+# good debt (NOUN) : ^l|Us^lbAU|I^bD GcAzQ
+# good harvests (NOUN) : ]sWXbA
+# good luck (NOUN) : ^cWWsD
+# good men and true (NOUN) : ^sIIwW^bD UbIbQGzI
+# || good morning | (SENT) : (DECL [WbDDjW<ADV>])
+# || good night | (SENT) : (DECL [WbDDjW<ADV>])
+# good neighbor policy (NOUN) : UfDI|DXfWZcA
+# good offices (NOUN) : WbIUfD
+# good saying | (NOUN) : AzQWfD
+# good seller (NOUN) : ]bIA| Us|WsD UbW]sQ
+# good sense | (NOUN) : WdWU|A
+# good temper (NOUN) : QjWIbW^bD UfW]sQ
+# good turn (NOUN) : ^lWz|
+# good until cancelled (ADV) : Zs|Ul^bI HcBbX| Ww^r^bGb
+# good word (NOUN) : ZbDUb
+# hold good | (VERB) : ^rIjAW| W|VGb
+# in good time | (PP->ADV) : HcAb Gl|QjD 
+# in the old good days (PP->ADV) : AzI|WsD WkUDbIWg
+//# it ^be good TO_INF (SENT) : 
+[(SUBJ [(RELCL TO_INF/^bDzD) AfU<NOUN>]/DzD) Xl^<ADJ>]/Gb
+# it ^be no good PRESP (SENT) :
+[(SUBJ [(RELCL PRESP/^bDzD) AfU<NOUN>]/DzD) Xl^X| WbD^<ADJ>]/Gb
+# ^keep good | (VERB) : X|UlA^bGb
+# ^look good | (VERB) : Xl^Wb RlW|Gb
+# ^make good | (VERB) : RjDUbW^bGb
+# no better than A (ADV) : (ADJUNCT [(COMP A/Wlb) GbIzQWfRUW|<ADV>])
+# || so far , so good | (SENT) : (DECL [X|AzQBbX|DzD Xl^<ADJ>]/Gb)
+# the best | (NOUN) : AbXbW Xl^WzD AfU
+
+
+"good-conditioned"
+ar (UbW\cAb Xl^WzD)
+ap (UbW\cAb Xl^Gb)
+
+"good-for-nothing"
+ar (VzIQl WfRUDzD)
+ap (VzIQl WfRUGb)
+
+"good-for-nought"
+ar (VzIQl WfRUDzD)
+ap (VzIQl WfRUGb)
+
+"good-hearted"
+ar (Z|DXfI^bD)
+ap (Z|DXfI^bGb)
+
+"good-humored"
+ar (A|RsDW| Xl^WzD)
+ap (A|RsDW| Xl^Gb)
+
+"good-humoured"
+ar (A|RsDW| Xl^WzD)
+ap (A|RsDW| Xl^Gb)
+
+"good-looking"
+ar (WfIAsIW| WkSzD)
+ap (WfIAsIW| WkSzGb)
+
+"good-sized"
+ar (UbWGbW^| [zD)
+ap (UbWGbW^| [zGb)
+
+"good-tempered"
+ar (WlDUsD^bD)
+ap (WlDUsD^bGb)
+
+"goodish"
+ar (VfA Xl^WzD)
+ap (VfA Xl^Gb)
+
+"goodly"
+ar (Q|QlWz|)
+ap (Q|QlW|Gb)
+
+"goodnatured"
+ar (Z|DXfI^bD)
+ap (Z|DXfI^bGb)
+
+"goody"
+ar (UfDIdW^bD Zg ^bDzD)
+ap (UfDIdW^bD Zg ^bGb:ADJ->VERB)
+
+"goody-goody"
+ar (UfDIdW^bD Zg ^bDzD)
+ap (UfDIdW^bD Zg ^bGb:ADJ->VERB)
+
+"gooey"
+ar (BzDXfABzDXfA^bD)
+ap (BzDXfABzDXfA^bGb)
+
+"goofy"
+ar (WfI|UfAWzD)
+ap (WfI|UfAGb)
+
+"goosey"
+ar (AfWs|Ab\WzD)
+ap (AfWs|Ab\Gb)
+
+"goosy"
+ar (AfWs|Ab\WzD)
+ap (AfWs|Ab\Gb)
+
+"gorgeous"
+ar (^lbIj^bD)
+ap (^lbIj^bGb)
+
+"gorsy"
+ar (AbU|AzQXbA^lbWz|)
+ap (AbU|AzQXbA^lbW|Gb)
+
+"gory"
+ar (]|\sUfWW|Wz|)
+ap (]|\sUfWW|W|Gb)
+
+"gossamer"
+ar (XbAWzD AfQ|XsI Ab\WzD)
+ap (XbAWzD AfQ|XsI Ab\Gb)
+
+"gossamery"
+ar (XbAWzD AfQ|XsI Ab\WzD)
+ap (XbAWzD AfQ|XsI Ab\Gb)
+
+"gossiping"
+ar (XbRGbQ ^bDzD)
+ap (XbRGbQ ^bGb:ADJ->VERB)
+
+"gossipry"
+ar (UsGbUzIfWsD)
+ap (UsGbUzIfRGb)
+
+"got-up"
+ar (BsQ|D)
+ap (BsQ|Gb)
+
+"gothic"
+ar (AlG|AWdWU|AWz|)
+ap (AlG|AWdWU|AW|Gb)
+
+"gourmand"
+ar (GcU|A^bDzD)
+ap (GcU|A^bGb:ADJ->VERB)
+
+"gouty"
+ar (\lW]sWUfWWz|)
+ap (\lW]sWUfWW|Gb)
+
+"governable"
+ar (GbUzI|I Us W|VDzD)
+ap (GbUzI|I Us W|VGb)
+
+"governing"
+ar (\lWZ|^bDzD)
+* X|Rc^bGb (presumption AbXfW)
+ap (\lWZ|^bGb:ADJ->VERB)
+
+"government-operated"
+ar (AsAWjWWz|)
+ap (AsAWjWW|Gb)
+
+"government-sponsored"
+ar (XfWRs ^sWsfDWz|)
+ap (XfWRsAb ^sWsfD^bGb)
+
+"government-subsidized"
+ar (XfWRs RlXlWz|)
+ap (XfWRs RlXlW|Gb)
+
+"governmental"
+ar (XfWRsWz|)
+ap (XfWRsW|Gb)
+
+"gowned"
+ar (AbWsDWzI W|RWzD)
+ap (AbWsDWzI W|RGb)
+
+"graceful"
+ar (WsWb^bD)
+ap (WsWb^bGb)
+
+"graceless"
+ar (RfIzUWfRUDzD)
+ap (RfIzUWfRUGb)
+
+"gracile"
+ar (AbDzGbIbD)
+ap (AbDzGbIb^Gb)
+
+"gracious"
+ar (XfQXdD^WzD)
+ap (XfQXdD^Gb)
+# ^be so gracious as TO_INF (VERB) : TO_INF/^bGb
+
+"gradational"
+ar (UsDUfAb W|VDzD)
+ap (UsDUfAb W|VGb)
+
+"gradient"
+ar (Rl^cWUfWWz|)
+ap (Rl^cWUfWW|Gb)
+
+"gradual"
+ar (XfQZbXfAW|D)
+ap (XfQZbXfAW|Gb)
+
+"graduated"
+ar (DsDAzQWzI QcA|D)
+ap (DsDAzQWzI QcA|Gb)
+# graduated customes tariff (NOUN) : AkGbDXfA AlbDUg
+# graduated rates (NOUN) : DsX|DIwI
+# graduated taxation (NOUN) : DsX|DAlbUg
+
+"graham"
+ar (RlI|Il QbDGzD)
+ap (RlI|Il QbDGzIGb)
+
+"grained"
+ar (DbQsUAjIW| W|VDzD)
+ap (DbQsUAjIW| W|VGb)
+
+"grainy"
+ar (W|RUbWWz|)
+ap (W|RUbWW|Gb)
+
+"gram-molecular"
+ar (AzIcQ RsDXbWz|)
+ap (AzIcQ RsDXbW|Gb)
+
+"gram-negative"
+ar (AzIcQ WzQUfWWz|)
+ap (AzIcQ WzQUfWW|Gb)
+
+"gram-positive"
+ar (AzIcQ WdWUfWWz|)
+ap (AzIcQ WdWUfWW|Gb)
+
+"graminaceous"
+ar (]lWb]lI AlbWz|)
+ap (]lWb]lI AlbW|Gb)
+
+"gramineous"
+ar (]lWb]lI AlbWz|)
+ap (]lWb]lI AlbW|Gb)
+
+"graminivorous"
+ar (ZlU|AWz|)
+ap (ZlU|AW|Gb)
+
+"grammarless"
+ar (QsDRfRW| WfRUDzD)
+ap (QsDRfRW| WfRUGb)
+
+"grammartical"
+ar (QsDRfRWz|)
+ap (QsDRfRW|Gb)
+
+"grand"
+ar (WsWGc^bD)
+* WsWXbW^bGb (view XbWAlbD) (palace XbWUl) (banquet QbDZbD)
+* ^sIIwW^bGb (orations WjDUfI) (person UbIbQ)
+* XsWWr^bGb (position Ws|Z|) (question X|IQsD) (man UbIbQ)
+* ZlWAlbIXfAW|Gb (total ^bRAk)
+ap (WsWGc^bGb)
+
+# grand fathering (NOUN) : A|GzAAsfD
+# grand juror (NOUN) : GcRcU|QWsfD
+# grand opera (NOUN) : GcWl]gIb
+# grand piano (NOUN) : AzIcDGz ]|WbDl
+# grand pianoforte (NOUN) : ]jW^jW ]|WbDl
+# grand relief (NOUN) : Dl]WzD GlIWz| WdWAbA
+# grand slam (NOUN) : GcUzW
+# grand style (NOUN) : XbWWfQ^bD Uz\bW|I
+# grand total (NOUN) : ZlWAk
+# grand tour (NOUN) : GcWj^cW
+# the Grand Duchess (NOUN) : GcAlWR|
+# the Grand Duchy (NOUN) : GcAsAAlW
+# the Grand Duke (NOUN) : GcAlW
+# the grand finale (NOUN) : GcGbDWsfDWz| QbA
+# the grand master (NOUN) : A|UbGbDWz| GbDXbW
+# the Grand Old Man (NOUN) : Gc]jWQ|D
+# the Grand Old Party (NOUN) : Q|AsA AlW^lbGbW
+# the grand total (NOUN) : ZlWAk
+
+"grand-ducal"
+ar (GcAlWWz|)
+ap (GcAlWW|Gb)
+
+"grandfatherly"
+ar (^bIWbRfX| Ab\WzD)
+ap (^bIWbRfX| Ab\Gb)
+
+"grandiose"
+ar (UsWAl^bD)
+ap (UsWAl^bGb)
+
+"grandmotherly"
+ar (^bIQfD| Ab\WzD)
+ap (^bIQfD| Ab\Gb)
+
+"grandstand"
+ar (^lbIj^bD)
+ap (^lbIj^bGb)
+
+"graniferous"
+ar (DbGWbIWzI QcXDzD)
+ap (DbGWbIWzI QcXGb:ADJ->VERB)
+
+"granitic"
+ar (^lbAbWWbQWz|)
+ap (^lbAbWWbQW|Gb)
+
+"granivorous"
+ar (AlAU|AWzI QfADzD)
+ap (AlAU|AWzI QfAGb:ADJ->VERB)
+
+"granolithic"
+ar (W|DXl ^lbAbWWbQWz|)
+ap (W|DXl ^lbAbWWbQW|Gb)
+
+"grantable"
+ar (^fWrW^bI Us W|VDzD)
+ap (^fWrW^bI Us W|VGb)
+
+"grantular"
+ar (WbIAcWW|Wz|)
+ap (WbIAcWW|W|Gb)
+
+"grantulated"
+ar (WbIAcWW|Il Gl|D)
+ap (WbIAcWW|Il Gl|Gb)
+
+"granulose"
+ar (WbIAcWW|Wz|)
+ap (WbIAcWW|W|Gb)
+
+"graphic"
+ar (AzIc]|AWz|)
+ap (AzIc]|AW|Gb)
+# graphic accent (NOUN) : WcAUgD\z Rs^l
+# graphic chart (NOUN) : AzIc]z
+# graphic formular (NOUN) : AsXlU|A
+# graphic method (NOUN) : GlU|RfR
+
+"graphical"
+ar (AzIc]|AWz|)
+ap (AzIc]|AW|Gb)
+# graphical analysis (NOUN) : GlU|A^cRs
+
+"graphitic"
+ar (UfAQsAWz|)
+ap (UfAQsAW|Gb)
+
+"grapy"
+ar (]lGlWz|)
+ap (]lGlW|Gb)
+
+"grasping"
+ar (XbRDzD)
+ap (XbRGb:ADJ->VERB)
+
+"grass-roots"
+ar (U|AlIWz|)
+ap (U|AlIW|Gb)
+
+"grassless"
+ar (]sIW| WfRUDzD)
+ap (]sIW| WfRUGb)
+
+"grassy"
+ar (]sIW| QbD^WzD)
+ap (]sIW| QbD^Gb)
+
+"grassy-green"
+ar (ZlIlAUcAWz|)
+ap (ZlIlAUcAW|Gb)
+
+"grateful"
+ar (AlQbWlb^bDzD)
+* AlQbRAg UcWAbA^bGb:ADJ->VERB (heart QbWzQ)
+* XzIAfRGb (walk UbDZcA) (day DbI)
+ap (AlQbWlb^bGb:ADJ->VERB)
+
+# ^be grateful for A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/WfUf) (MODS [AbQUb^bAg<ADV>]) 
+UcWAbA^b<VERB>]/Gb
+# ^be grateful for WHAT_CLAUSE (VERB) : [(ADJUNCT [(COMP [(RELCL WHAT_CLAUSE/^bD) AfU<NOUN>]/Wg) Gc^b<VERB>]/WfUf) (MODS [AbQUb^bAg<ADV>]) UcWAbA^b<VERB>]/Gb
+# ^be grateful to A (VERB) : [(ADJUNCT [(COMP A/WgAg) Gc^b<VERB>]/WfUf) (MODS [AbQUb^bAg<ADV>]) UcWAbA^b<VERB>]/Gb
+# ^be grateful to A for B (VERB) : [(ADJUNCT [(COMP A/WgAg) (COMP B/Wg) Gc^b<VERB>]/WfUf) (MODS [AbQUb^bAg<ADV>]) UcWAbA^b<VERB>]/Gb
+
+"gratifying"
+ar (QbDXlAWzI XsDzD)
+ap (QbDXlAWzI XsGb:ADJ->VERB)
+
+"grating"
+ar (S|AfAAfI|DzD)
+ap (S|AfAAfI|Gb:ADJ->VERB)
+
+"gratuitous"
+ar (QsIrWz|)
+ap (QsIrW|Gb)
+# gratuitous contract (NOUN) : QsUbWAkWdA
+
+"gratulatory"
+ar (ZsA^bWz|)
+ap (ZsA^bW|Gb)
+
+"grave"
+ar (WfQUsA^bD)
+* U|QUbWZ| WbD^Gb (problem QsDXg) (situation Ub\c)
+* X|DX|^bGb (ceremony Wz|U|A) (character UfWAjA)
+* ZbRsD^bGb (sound UlI|) (color UcA)
+ap (WfQUsA^bGb)
+
+"gravel-blind"
+ar (AfWz| XbWD|QWg AbBbWsD)
+ap (AfWz| XbWD|QWg AbBbRGb)
+
+"graveless"
+ar (QsGfQW| WfRUDzD)
+ap (QsGfQW| WfRUGb)
+
+"graven"
+ar (UcA|D)
+ap (UcA|Gb)
+
+"graveyard"
+ar (RbQDzXWzD U|AbDWz|)
+ap (RbQDzXWzD U|AbDW|Gb)
+
+"gravid"
+ar (W|QU|D^bD)
+ap (W|QU|D^bGb)
+
+"gravimetric"
+ar (XsWIdW ZzAXfWWz|)
+ap (XsWIdW ZzAXfWW|Gb)
+
+"gravitational"
+ar (XsWIjAWz|)
+ap (XsWIjAW|Gb)
+
+"gravitative"
+ar (XsWIjAWz| WjW^dWWzI RbGA| Us|WsD)
+ap (XsWIjAWz| WjW^dWWzI RbGA| Us|RGb)
+
+"gray"
+ar (^l|UcAWz|)
+ap (^l|UcAW|Gb)
+# gray experience (NOUN) : WsfDUsA^bD AjW^fQ
+# gray eyes (NOUN) : ^l|UcADsD
+# gray head (NOUN) : RcARbI DlW|D
+# gray hen (NOUN) : AfQWzD Dl|XlWz| Us[fU
+# gray matter (NOUN) : ^l|RcAX|I
+# gray mullet (NOUN) : UsWWf
+# gray pig iron (NOUN) : ^l|UcA UfDZfI
+# the grey past (NOUN) : AlGc
+
+"gray-colored"
+ar (^l|UcAWz|)
+ap (^l|UcAW|Gb)
+
+"grazioso"
+ar (WsWb^bD)
+ap (WsWb^bGb)
+
+"greasy"
+ar (A|IzQWzI RbIzD)
+ap (A|IzQWzI RbIzGb)
+# greasy fritilary (NOUN) : ]rRfQDbR|
+# greasy pole (NOUN) : A|IzQ QlWGsWW|
+
+"great"
+ar ([zD) 
+* AfGc^bGb (promise AbDzWUfW) (tomb QsGfQ)
+* AlAs|^bGb (position Ws|Z|) (family AbQsD) (treasure RlQsI) (art WkUsI)
+* A|]Gb (sympathy GlWXfW)
+* GcGbD^bGb (fish QsIAlA|) (fault ^zQ) (enemy XfA) (pride XbRsU|Q) (danger Ws|^fQ)
+* GcGbD^bGb (weekend XsQbI)
+* QfIGb (distance AfI|)
+* SbIzGb (speed UlAIjA)
+* U|Q^bGb (pain Al\lW) (bloodshed ZsI^jI)
+* WfQZfWDbGb (difficulty WfIjWsQ) (tragedy R|AzA)
+* WsWGc^bGb (clock U|Ak) (heart QbWzQ) (ceremony Wz|U|A) (thought UcWAbA)
+* Ws|Gc^bGb (work WfRXfA) (name W|IzQ) (blacksmith GcXbWXbWW|) (Copernicus [l]gIzD|[sUz)
+* Ws|Gc^bGb (powerhouse Zl|AbW\|Q) (ballerina RbIIgI|Db) (invention RbIQjW) (discovery RbIAjD) (symphony Ar^dWAlA)
+* Ws|Gc^bGb (~ {+HUMAN})  (king WlbW) (novel UlUfI) (painter ^lbAb) (mind QbWzQ)
+* Xl^Gb (idea UcWAbA) (thought UcWAbA) (skill A|UsI)
+* XsWGc^bGb (discussion \lWz|) (mistake U|IUs) (matter QsDXg)
+* [zGb (number Us) (stride AfIWzQ)
+* ^sIIwW^bGb (shooter Uw\f) (series U|I|Xz) (opportunity A|^l|) (pitching ]|Z|W) (way RbWRfR) 
+* ^sIIwW^bGb (team \|Q) (day DbI) (it AzAfU) (play ]zIIgW|) (news DwUz)
+ap ([zGb)
+* GcGbD^bGb (episode Wg]|UlGz) (see RlGb)
+* ^sIIwW^bGb (~ {+HUMAN}) (mood RsDWs|A|) (civilization QsD^lb)
+* Ws|Gc^bGb (Roman IlQbW|D)
+
+# Great Bear (NOUN) : [zD AlQXlb
+# ^be great in A (VERB->ADJ) : [(ADJUNCT A/Wg) Hs|WfDb<ADJ>]/Gb
+# ^be great on A (VERB) : [(ADJUNCT A/Wg) (OBJ [(AMODS [[z<ADJ>]/^bD) AlbDU|Q<NOUN>]/WzI) 
+AbX|<VERB>]/Gb
+# | great | (SENT) : Xl^Gb
+# great circle (NOUN) : [zD WsfD
+# great circle chart (NOUN) : U|QUbGl
+# great circle course (NOUN) : GcAsfD [lWlUz
+# great friend (NOUN) : Z|DWs
+# great gun (NOUN) : DlIIbIQbD^bD W|I
+# great occasion (NOUN) : XsWGcU|A|
+# great toe (NOUN) : WfQX| RbIAbIbA
+# greater than A (ADJ) : [(ADJUNCT A/RlGb) QbD^<ADJ>]/Gb
+# ^have a great notion THAT_CLAUSE (VERB) : [(SCOMP [(RELCL [(SCOMP THAT_CLAUSE/^bGbAl) UcWAbA^b<VERB>]/^bDzD) AjW^dW<NOUN>]/W|) W|V<VERB>]/Gb
+# || it be great | (SENT) : (DECL [^sIIwW^b<ADJ>]/Gb)
+# || just great | (SENT) : WbXs ^sIIwW^bGb
+# ^look great | (VERB) : ^sIIwW^c RlW|Gb
+# | that be great | (SENT) : GcGbD^bGb
+# the Great Basin (NOUN) : Q|AsA UfRsARs
+# the Great Divide (NOUN) : [zD RsDUsAk
+# the Great Powers (NOUN) : WjIAbW
+# the Great White Way (NOUN) : RsIWdUfW AfI|
+# the great Day (NOUN) : Zl|^sWz| U|Q]bDW|I
+# the greater part of A (NOUN) : [(POSS A/Wz|) GcRsRsD<NOUN>]
+# the greatest common divisor (NOUN) : Zl|Gc AlWWdAUs
+# the greatest common measure (NOUN) : Zl|Gc AlWWdAUs
+
+"great-hearted"
+ar (AlAjI^bD)
+ap (AlAjI^bGb)
+
+"greater"
+ar (Gf [zD)
+ap (Gf [zGb)
+
+"greaved"
+ar (XfWAbWW| RbGW|IzI GcD)
+ap (XfWAbWW| RbGW|IzI GcGb)
+
+"grecian"
+ar (AzI|W|UzWz|)
+ap (AzI|W|UzW|Gb)
+# Greek knot (NOUN) : AzI|W|UzUlARbI
+# Grecian nose (NOUN) : AzI|W|Uz [l
+# Grecian slippers (NOUN) : GlWWdWU|AWz| UzII|]f
+
+"greedy"
+ar (\bQU|A^bDzD)
+ap (\bQU|A^bGb:ADJ->VERB)
+# ^be greedy in A (VERB) : [(OBJ A/IzI) \bQU|A^b<VERB>]/Gb
+
+"greek"
+ar (AzI|W|UzWz|)
+ap (AzI|W|UzW|Gb)
+# Greek fire (NOUN) : AzI|W|Uz ^lbWdA
+# Greek fret (NOUN) : ZbDUbIQsDz|
+# Greek gift (NOUN) : DbQWzI ^cZ|IjAl RlDcDzD UfDQsI
+# the Greek Church (NOUN) : AzI|W|Uz Ar^l|
+# the Greek fathers (NOUN) : AzI|W|UzQbIIl XfUsI^bD ZlA|Wz| UzI|W|Uz ArRsGzI
+# Greek rite (NOUN) : AzI|W|UzU|A XfDIk
+
+"greekless"
+ar (AzI|W|UzQbIWzI QlIzDzD)
+ap (AzI|W|UzQbIWzI QlIzGb:ADJ->VERB)
+
+"green"
+ar (DlAUcAWz|)
+* DlAUcAW|Gb (light R|Z) (leaf W|]) (leave W|])
+* UcWA|DfQZ|Gb:ADJ->VERB (young XfIQWzQ)
+* UcWUcW^bGb (wound UbWZf) (memory A|WfA)
+* WfI|UfAGb (person UbIbQ) (mind QbWzQ)
+* W|AX|WbD^Gb (fruit AlbW|I) (liquor UsI)
+* ZbWRcA^bGb (face WfIAsI)
+* ]sIzGb (salad UcIIfGz)
+ap (DlAUcAW|Gb)
+
+
+"green-blind"
+ar (DlAUcA UcAQcWWz|)
+ap (DlAUcA UcAQcWW|Gb)
+
+"greeneyed"
+ar (]sIzD DsDWz|)
+ap (]sIzD DsDW|Gb)
+
+"greenish"
+ar (]sIzUzIzQ^bD)
+ap (]sIzUzIzQ^bGb)
+
+"greensick"
+ar (Ws|^lbWRjWWg AfII|D)
+ap (Ws|^lbWRjWWg AfII|Gb)
+
+"greeny"
+ar (]sIzUzIzQ^bD)
+ap (]sIzUzIzQ^bGb)
+
+"gregarious"
+ar (HgX|Wf UbDzD)
+ap (HgX|Wf UbIGb:ADJ->VERB)
+
+"gregorian"
+ar (IlQb Ar^lbWWz|)
+ap (IlQb Ar^lbWW|Gb)
+
+"gressorial"
+ar (Rl^cWUfWWz|)
+ap (Rl^cWUfWW|Gb)
+
+"gressorious"
+ar (Rl^cWUfWWz|)
+ap (Rl^cWUfWW|Gb)
+
+"grewsome"
+ar (QlRU| QsUfWsD)
+ap (QlRU| QsUfRGb)
+
+"grey"
+ar (^l|UcAWz|)
+ap (^l|UcAW|Gb)
+# grey experience (NOUN) : WsfDUsA^bD AjW^fQ
+# grey eyes (NOUN) : ^lWZcAb ^l|UcAW|D DsD
+# grey head (NOUN) : RcARbI DlW|D
+# grey hen (NOUN) : AfQWzD Us[fU
+# grey matter (NOUN) : ^l|RcAX|I
+# grey pig iron (NOUN) : ^l|UcA UfDZfI
+# the grey past (NOUN) : AlGc
+
+"greybeared"
+ar (^z|D UsWjQWz|)
+ap (^z|D UsWjQW|Gb)
+
+"greyhaired"
+ar (RcARbIWz|)
+ap (RcARbIW|Gb)
+
+"greyheaded"
+ar (RcARbIWz|)
+ap (RcARbIW|Gb)
+
+"greyish"
+ar (XcUR|ZW| GlDzD)
+ap (XcUR|ZW| GlIGb:ADJ->VERB)
+
+"gridlocked"
+ar (AjAXbIl QbA^|D)
+ap (AjAXbIl QbA^|Gb)
+
+"grief-stricken"
+ar (R|\bDWg XbQA|D)
+ap (R|\bDWg XbQA|Gb)
+
+"grievous"
+ar (R|\lW^bD)
+ap (R|\lW^bGb)
+
+"grilled"
+ar (ZbWUbIW| W|VDzD)
+ap (ZbWUbIW| W|VGb)
+
+"grim"
+ar (WfQ^bD)
+ap (WfQ^bGb)
+
+"grimy"
+ar (GfIfWsfX|D)
+ap (GfIfWsfX|Gb)
+
+"grinding"
+ar (AbDzD)
+ap (AbIGb:ADJ->VERB)
+# griding poverty (NOUN) : SjWg UbQsZ|D AbDbD
+# grinding stone (NOUN) : UsUGlI
+# grinding wheel (NOUN) : ^l|XfD UsUGlI
+
+"grisly"
+ar (UlIzQB|Z|DzD)
+ap (UlIzQB|Z|Gb:ADJ->VERB)
+
+"gristly"
+ar (WjDAlIX|IWz|)
+ap (WjDAlIX|IW|Gb)
+
+"gritless"
+ar (QlIcWbIW| WfRUDzD)
+ap (QlIcWbIW| WfRUGb)
+
+"gritty"
+ar (QlIcAb UfBW|D)
+ap (QlIcAb UfBW|Gb)
+
+"groggy"
+ar (R|\zIAfI|DzD)
+ap (R|\zIAfI|Gb:ADJ->VERB)
+
+"grooved"
+ar (^lQW| W|VDzD)
+ap (^lQW| W|VGb)
+
+"groovy"
+ar (^lQWz|)
+ap (^lQW|Gb)
+
+"gross"
+ar (AfZ|D)
+ap (AfZ|IGb)
+# gross average (NOUN) : AlWGlW ^cUlD
+# gross domestic expenditure (NOUN) : AsADc ZlWX|ZsI
+# gross domestic product (NOUN) : AsADc ZlWUcWUbD
+# gross national product (NOUN) : AsAQ|D ZlWUcWUbD
+# gross ton (NOUN) : WjW\lD
+
+"grotesque"
+ar (AzIl\gUz[z ]sWWz|)
+ap (AzIl\gUz[z ]sWW|Gb)
+
+"grottoed"
+ar (GlWAsIWz|)
+ap (GlWAsIW|Gb)
+
+"grotty"
+ar (GfIfWsD)
+ap (GfIfRGb)
+
+"grouchy"
+ar (U|QsIsA^bD)
+ap (U|QsIsA^bGb)
+
+"ground"
+ar (Sb^WzD)
+ap (Sb^Gb)
+
+"ground-to-air"
+ar (X|GcAlWWz|)
+ap (X|GcAlWW|Gb)
+
+"ground-to-ground"
+ar (X|GcX|Wz|)
+ap (X|GcX|W|Gb)
+
+"grounded"
+ar (A|ZlIzI GsD)
+ap (A|ZlIzI GsGb)
+
+"groundless"
+ar (A|ZlAb WfRUDzD)
+ap (A|ZlAb WfRUGb)
+
+"groveling"
+ar (UfIUfI A|DzD)
+ap (UfIUfI A|Gb:ADJ->VERB)
+
+"grovelling"
+ar (UfIUfI A|DzD)
+ap (UfIUfI A|Gb:ADJ->VERB)
+
+"grovy"
+ar (Us]WzIl Gf]W|D)
+ap (Us]WzIl Gf]W|Gb)
+
+"grow-up"
+ar (UfWUsA^bD)
+ap (UfWUsA^bGb)
+
+"growing"
+ar (UfWXbW^bDzD)
+ap (UfWXbW^bGb:ADJ->VERB)
+
+"grown"
+ar (UfWXbW^bD)
+ap (UfWXbW^bGb)
+# the grown ups $ (NOUN) : WfIzDGzI
+
+"grueling"
+ar (A|X|DQcAX|D^bAg ^bDzD)
+ap (A|X|DQcAX|D^bAg ^bGb)
+
+"gtyratory"
+ar (UfD^l|Wz|)
+ap (UfD^l|W|Gb)
+
+"guardant"
+ar (HlARbIl XfWQjDWzI ^dW^bD)
+ap (HlARbIl XfWQjDWzI ^dW^bGb)
+
+"guarded"
+ar (RbW^lGl|Wf W|VDzD)
+* U|DXsW^bGb (welcome ^lbDWjW)
+ap (RbW^lGl|Wf W|VGb)
+
+"guardless"
+ar (X|[|DzD UbIbQW| WfRUDzD)
+ap (X|[|DzD UbIbQW| WfRUGb)
+
+"gubernatorial"
+ar (XsX|UbWz|)
+ap (XsX|UbW|Gb)
+
+"guerilla"
+ar (AgI|IIbWz|)
+ap (AgI|IIbW|Gb)
+
+"guest"
+ar (UlDD|QWrWWz|)
+ap (UlDD|QWrWW|Gb)
+
+"guidable"
+ar (W|DGl^bI Us W|VDzD)
+ap (W|DGl^bI Us W|VGb)
+
+"guided"
+ar (WbDDcIzI RbGWzD)
+ap (WbDDcIzI RbGGb)
+# guided democracy (NOUN) : ArGl Q|DXsXsWz|
+# a guided tour (NOUN) : WbDDcWsfDW| Us^cW^bDzD AlbDAlbW
+
+"guileful"
+ar (Ar^lbI^bD)
+ap (Ar^lbI^bGb)
+
+"guileless"
+ar (AbDAkAb WfRUDzD)
+ap (AbDAkAb WfRUGb)
+
+"guiltless"
+ar (Xl|WfRUDzD)
+ap (Xl|Ab WfRUGb)
+
+"guilty"
+ar (Xl|IzI RfQ^bD)
+ap (Xl|IzI RfQ^bGb)
+# ^be found guilty (VERB) : WwXl|Il ]bDAjIGl|Gb
+# ^be guilty of A (VERB) : [(OBJ [(POSS A/Wz|) Xl|<NOUN>]/IzI) X|U<VERB>]/Gb
+# ^be guilty of PRESP (VERB) : [(OBJ [(RELCL PRESP/^bDzD) Xl|<NOUN>]/IzI) X|U<VERB>]/Gb 
+# guilty deed (NOUN) : RfQ^cW
+# guilty mind (NOUN) : AlWz|
+# guilty intent (NOUN) : AlWz|
+# plead guilty (NOUN) : RlAXl|^bGb
+# plead not guilty (NOUN) : QsXl|W|QWzI U|DI|R^bGb
+
+"gulfy"
+ar (UlWrWGlIW|Ab QbD^WzD)
+ap (UlWrWGlIW|Ab QbD^Gb)
+
+"gulible"
+ar (UlAA| Us|WsD)
+ap (UlAA| Us|RGb)
+
+"gullish"
+ar (WfI|UfAWzD)
+ap (WfI|UfAGb)
+
+"gummatous"
+ar (AlQsXlWWz|)
+ap (AlQsXlWW|Gb)
+
+"gummous"
+ar (AlQsX|IWz|)
+ap (AlQsX|IW|Gb)
+
+"gummy"
+ar (AlQsWz|)
+ap (AlQsW|Gb)
+
+"gumshoe"
+ar (UbIAzDUbIAzD AfGDzD)
+ap (UbIAzDUbIAzD AfGGb)
+
+"gun-shy"
+ar (ZlWUlI|IzI QsUfWsf^bDzD)
+ap (ZlWUlI|IzI QsUfWsf^bGb:ADJ->VERB)
+
+"gung-ho"
+ar (QcWQlAXfAWzIl ZsWU|I^bD)
+ap (QcWQlAXfAWzIl ZsWU|I^bGb)
+
+"gunsandbutter"
+ar (AsDR| Q|DUcWWdWI|RWz|)
+ap (AsDR| Q|DUcWWdWI|RW|Gb)
+
+"gunshot"
+ar (\bD^lbDWg QbXWzD)
+ap (\bD^lbDWg QbXGb)
+
+"gushing"
+ar (SsQWf DbWlDzD)
+ap (SsQWf DbWlGb:ADJ->VERB)
+
+"gushy"
+ar (AlbXbWGl|D QbIWzI ^bDzD)
+ap (AlbXbWGl|D QbIWzI ^bGb:ADJ->VERB)
+
+"gustatory"
+ar (Q|AbAWz|)
+ap (Q|AbAW|Gb)
+
+"gusty"
+ar (GlI]sWW| XbXs RsDzD)
+ap (GlI]sWW| XbXs RsIGb:ADJ->VERB)
+
+"gutsy"
+ar (GcGbQ^bD)
+ap (GcGbQ^bGb)
+
+"guttate"
+ar (QsIRbWWsI QlWdWWz|)
+ap (QsIRbWWsI QlWdWW|Gb)
+
+"guttated"
+ar (QsIRbWWsI QlWdWWz|)
+ap (QsIRbWWsI QlWdWW|Gb)
+
+"gutte"
+ar (QsIRbWWsI QlWdWWz| RbDXfQW| W|VDzD)
+ap (QsIRbWWsI QlWdWWz| RbDXfQW| W|VGb)
+
+"guttural"
+ar (QlAAsQfWWz|)
+ap (QlAAsQfWW|Gb)
+
+"gutty"
+ar (WrWAbQ^bD)
+ap (WrWAbQ^bGb)
+
+"gymnastic"
+ar (ZgXlWz|)
+ap (ZgXlW|Gb)
+
+"gymnospermous"
+ar (DbXbU|AQsIWz|)
+ap (DbXbU|AQsIW|Gb)
+
+"gynecocratic"
+ar (RsW|DXfWZ|Wz|)
+ap (RsW|DXfWZ|W|Gb)
+
+"gynecologic"
+ar (RsW|DAlb Wz|^bAWz|)
+ap (RsW|DAlb Wz|^bAW|Gb)
+
+"gynecological"
+ar (RsW|DAlb Wz|^bAWz|)
+ap (RsW|DAlb Wz|^bAW|Gb)
+
+"gyp"
+ar (AbYbWz|)
+ap (AbYbW|Gb)
+
+"gypseous"
+ar (UfAAlWz|)
+ap (UfAAlW|Gb)
+
+"gyral"
+ar (UfD^l|^bDzD)
+ap (UfD^l|^bGb:ADJ->VERB)
+
+"gyrate"
+ar (DbUfD QlWdWWz|)
+ap (DbUfD QlWdWW|Gb)
+
+"gyrationally"
+ar (UfD^l|Wz|)
+ap (UfD^l|W|Gb)
+
+"gyroidal"
+ar (DbUb QlWdWWz|)
+ap (DbUb QlWdWW|Gb)
+
+"gyroscopic"
+ar (^l|XfDWz|)
+ap (^l|XfDW|Gb)
+
+"gyrostatic"
+ar (XbW|Il Uz\bUWz|)
+ap (XbW|Il Uz\bUW|Gb)

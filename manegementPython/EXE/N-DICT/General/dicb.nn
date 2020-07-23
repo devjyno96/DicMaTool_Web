@@ -1,0 +1,11179 @@
+"B.C"
+% TIME
+(A|WsfDXfD)
+# B.C NUM1 (NOUN) : [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1{+DGTNUM}) DjD<NOUN>] 
+# NUM1 B.C (NOUN) : [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1{+DGTNUM}) DjD<NOUN>] 
+# as early as NUM1 B.C (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [A|WsfDXfD<NOUN>]) 
+    (NMODS NUM1{+DGTNUM}) DjD<NOUN>]) ZlA|<NOUN>]/Wg) 
+# in the year NUM1 B.C (PP->ADV) : (ADJUNCT [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+"B.C."
+% TIME
+(A|WsfDXfD)
+# B.C. NUM1 (NOUN) : [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1{+DGTNUM}) DjD<NOUN>] 
+# NUM1 B.C. (NOUN) : [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1{+DGTNUM}) DjD<NOUN>] 
+# as early as NUM1 B.C. (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [A|WsfDXfD<NOUN>]) 
+    (NMODS NUM1{+DGTNUM}) DjD<NOUN>]) ZlA|<NOUN>]/Wg) 
+# in the year NUM1 B.C. (PP->ADV) : (ADJUNCT [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+"BC"
+% TIME
+(A|WsfDXfD)
+# the NUM1 {+POSSESIVE} BC (NOUN) : [(NMODS [A|WsfDXfD<NOUN>]) (NMODS NUM1{+DGTNUM}) DjDGc<NOUN>] 
+
+"Baal"
+(\cWdWU|D)
+
+"Baalism"
+% ART
+(RbWbIU|D UsWRc)
+
+"Babel"
+% PLACE
+(RbRgI\bR)
+
+"Babylonian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbR|IIlD|WbW|D)
+
+"Baccalaureate"
+% HUMAN
+(RbR|IIlD|WbW|D)
+
+"Bacchanalia"
+% ART
+(RbA[fUz ZsAXg)
+
+"Baconian"
+% HUMAN
+(RgW|[fD ZfI^bAWz| U|DRlWXb)
+
+"Bahaism"
+% ART
+(Rb^bW|Ar)
+
+"Balkan"
+% PLACE
+(RbI[bD RbDGl)
+# the Balkan Mountains (NOUN) : RbI[bD UbDQcA
+# the Balkan Peninsula (NOUN) : RbI[bD RbDGl
+# the Balkans (NOUN) : RbI[bD XgAsA
+
+"Bangladesh"
+% MATERIAL ORGAN PLACE
+(RbWAzIIbGgU|)
+
+"Bank Draft"
+(WzD^cWRbI^cW^lbDWfWzQ)
+
+"Bank of America"
+% ORGAN
+(Bank of America)
+
+"Bank of England"
+% ORGAN
+(WjWAsAWzD^cW)
+
+"Bank of France"
+% ORGAN
+(]zIbWUzWzD^cW)
+
+"Bank of Italy"
+% ORGAN
+(W|\bII|WbWzD^cW)
+
+"Bank of Japan"
+% ORGAN
+(W|IRlDWzD^cW)
+
+"Bank of Japan Law"
+(W|IRlDWzD^cWRfR)
+
+"Bank Return"
+(WjWAsAWzD^cWXsRl)
+
+"Bantu"
+% CONCRETE MATERIAL ORGAN HUMAN
+(RbD\sXlA)
+
+"Bar Association"
+(RjD^lUb ^jR^l|")
+
+"Barcelona"
+% MATERIAL PLACE
+(RbIzUgIIlDb)
+
+"Barcelona Olympic"
+(RbIzUgIIlDb WlII|Q]|A)
+
+"Basel Arrangements"
+(RgW|UzI^jRXfW)
+
+"Basel Agreements"
+(RgW|UzI^jRXfW)
+
+"Bay"
+% PLACE
+(QbD)
+# Bay of ^Naples (NOUN) : Db]lII| QbD
+
+"Beijing"
+% PLACE
+(RgW|X|W)
+
+"Belgian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RgIA|Wg UbIbQ)
+
+"Benelux Customs Union"
+(AlbDUgGlWQcW)
+
+"Berkeley"
+% PLACE
+(Rf[zII|)
+
+"Bethlehem"
+(RgGzIIg^gQ)
+
+"Betty"
+% HUMAN
+(Rg\|)
+
+"Bible"
+% CONCRETE MATERIAL ART 
+(UfWAjW)
+# Bible clerk (NOUN) : UfWAjW DbWGlAUcW
+# Bible society (NOUN) : UfWUf ^jR^l|
+# King James' Bible (NOUN) : ^zQXfWWjA UfWUf
+
+"Biblicist"
+% HUMAN
+(UfWAjW WfQUsXsWz|Xb)
+
+% HUMAN
+(UfWAjW U|DWbWXb)
+
+"Big Board"
+(DwWrAXzWAsfD AfIcUl)
+
+"Bill"
+(Bill)
+# the Bill of Rights (NOUN) : AsfDI|XbWXfD
+# Bill of Exchange (NOUN) : ^lbDWfWzQ
+
+"Bio"
+(UcW)
+# Bio chemical engineering (NOUN) : UcW^lb^bA AlW^bA
+
+"Bio-chemical"
+% ART
+(UcW^lb^bA)
+# Bio-chemical engineering (NOUN) : UcW^lb^bA AlW^bA
+
+"Biro"
+% CONCRETE ANIMAL MATERIAL 
+(RbW|Il)
+
+"Blackhand"
+% ORGAN
+(^zAUsGbD)
+
+"Blackshirt"
+% HUMAN
+(^zAUdVz GbWWsfD)
+
+"Blatter"
+% HUMAN
+(RzIIg\f)
+
+"Bloomberg Radio"
+(RzIIsQRfAz IbG|Wl)
+
+"Board"
+# Board of Labour (NOUN) : DlGlWZfW
+
+"Bobby"
+% HUMAN
+(AjWZbIAlbD)
+
+"Boer"
+% HUMAN
+(RlWf UbIbQ)
+# the Boer War (NOUN) : RlWf XfDXcW
+
+"Bohemian"
+% HUMAN
+(Rl^gQ|Wb UbIbQ)
+
+"Bolivar"
+% PLACE ORGAN
+(RlII|RbWb)
+
+"Bolivian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlII|R|WbWz| UbIbQ)
+
+"Bologna"
+% MATERIAL PLACE
+(RlIIlDd)
+
+"Bolshevik"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlIUkR|[|Wz| W|IWsfD)
+
+"Bolshevism"
+% ART
+(RlIUkR|[|Wz| XfWZcA)
+
+"Bolshevist"
+% HUMAN
+(RlIUkR|[|Wz| W|IWsfD)
+
+"Bonapartism"
+% ART
+(Db]lIIgWlW XfWZcA)
+
+"Border Patrol"
+(AsAAjW AjWR|Gc)
+
+"Boreas"
+(RsA]sWWz| U|D)
+
+"Bornean"
+% HUMAN
+(RlIzDgWlWz| UbIbQ)
+
+"Bosnia"
+% PLACE ORGAN
+(RlUzD|Wb)
+
+"Bosnian"
+(RlUzD|WbWf)
+
+"Boston"
+% PLACE
+(RlUz\lD)
+
+"Boston Globe"
+(RlUz\lD AzIIlRz)
+
+"Boston Municipal Court"
+(RlUz\lD X|RbW RfRWsfD)
+
+"Bostonian"
+% HUMAN
+(RlUz\fDWz| U|Q|D)
+
+"Boswellian"
+% HUMAN
+(RlXzWsgIAb\WzD UbIbQ)
+
+"Bourbon"
+% HUMAN
+(RsIzRlW WlbWAbWz| UbIbQ)
+
+"Bourbonism"
+% ART
+(AzAGbDXfAW|D RlUsXsWz|)
+
+"Bourbonist"
+% HUMAN
+(AzAGbDXfAW|D RlUsXsWz|Xb)
+
+"Brahman"
+% CONCRETE ANIMAL MATERIAL 
+(RzIbWbQbD)
+
+"Brahminist"
+% HUMAN
+(RbIbQsD ArGl)
+
+"Bram"
+(RfQZfD)
+
+"Brama"
+(RfQZfD)
+
+"Bramin"
+% HUMAN
+(RzIbQbD)
+
+"Brazil"
+% ORGAN PLACE
+(RzIbX|I)
+
+"Brazilian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RzIbX|IWz| UbIbQ)
+
+"Breton"
+% CONCRETE MATERIAL HUMAN
+(RzI|\bD| UbIbQ)
+
+"Bretton Woods Agreements"
+(RzIg\lD WsXz ^jRXfW)
+
+"Bretton Woods Monetary System"
+(RzIg\lD WsXz AzQWwWA|As)
+
+"Briareus"
+(RzIbW|WgI|WfUz)
+
+"Brigham Young University"
+(RzI|AfQWjW Gc^bA)
+
+"Britain"
+% PLACE
+(WjWAsA)
+
+"Briticism"
+(WjWAsAWjWWf)
+
+"British"
+% MATERIAL HUMAN
+(WjWAsAW|D)
+
+"British Ambassador"
+% HUMAN
+(WjWAsA GcUb)
+
+"British Embassy"
+(WjWAsA GcUbAlbD)
+
+"British Empire"
+(GcWjWXgAsA)
+
+"British Isles"
+% PLACE
+(WjWAsAUfQ)
+
+"Britisher"
+% HUMAN
+(WjWAsAW|D)
+
+"Britisism"
+(WjWRlDAsA \zAWwWz| QbI)
+
+"Briton"
+% HUMAN
+(WjWAsA UbIbQ)
+
+"Brown"
+(RzIbWsD)
+# Brown Corpus (NOUN) : Brown Corpus
+
+"Briton"
+% HUMAN
+(RzI|\zD UbIbQ)
+# North Briton (NOUN) : Uz[l\zIIbDGzW|D
+
+"Brussels"
+% MATERIAL PLACE ORGAN
+(RzIs|UgI)
+
+"Buddha"
+% CONCRETE MATERIAL HUMAN
+(RsZf)
+
+"Buddhism"
+% MATERIAL ART
+(RsIAr)
+
+"Buddhist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIArGl)
+# Buddhist religion (NOUN) : RsIAr
+
+"Buenos Aires"
+(RsWgDlUz WbW|IgUz)
+
+"Bulgar"
+% HUMAN
+(RsIAbI|WbW|D)
+
+"Bulgarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIAbI|WbW|D)
+
+"Bund"
+% ACTION
+(GlWQcW)
+
+"Bundesbank"
+% MATERIAL ECOLIFE ORGAN
+(UfGlAWz| XsWWbWWzD^cW)
+
+"Bundesrat"
+% ORGAN
+(UbWWsfD)
+
+"Bundestag"
+% ORGAN
+(^bWsfD)
+
+"Bundeswehr"
+% ORGAN
+(WwAAsD)
+
+"Bureau"
+(AlbDI|)
+# Bureau of Land Management (NOUN) : AsA\l AlbDI|ZfW
+
+"Burger King"
+(RfAf[|W)
+
+"Burman"
+% HUMAN
+(RfWfQbW|D)
+
+"Burmese"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfWfQbW|D)
+
+"Busan"
+% PLACE
+(RsUbD)
+
+"Bush"
+% HUMAN
+(RsU|)
+
+"Byzantian"
+% HUMAN
+(R|XbD\|WsQ Wz| UbIbQ)
+
+"Byzantine"
+% HUMAN
+(R|XbD\|WsQWz| UbIbQ)
+
+"Byzantinism"
+(R|XbD\|D ]sW)
+"b"
+(b)
+
+"b-bop"
+(R|RbR)
+
+"b-girl"
+% HUMAN
+(RbWbWz| WjAzR)
+
+"b-school"
+(UbW^bARs)
+
+"baa"
+(QcWc)
+
+"baa-lamb"
+(WdW)
+
+"baas"
+% HUMAN
+(XsW|D)
+
+"babbitt"
+% HUMAN
+(ArWdW WfRUDzD U|IWfRAb)
+
+"babbitt"
+(RcR|U ^bRAzQ)
+
+"babbittry"
+(UlAGl|D Zs|Q|Wz| U|IWfRAb A|X|I)
+
+"babble"
+% CONCRETE MATERIAL ACTION
+(UsGb)
+
+"babbler"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(UsGbXbWW|)
+
+"babbling"
+% CONCRETE MATERIAL 
+(U|IWfRUDzD UlI|)
+
+"babe"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbUDbDWbW|)
+# babes and suckings (NOUN) : ]sUDbA|GzI
+# babe in the woods (NOUN) : UsDX|D^bWj XbI UlADzD UbIbQ
+
+"babiroussa"
+% CONCRETE ANIMAL MATERIAL 
+(QgUGlcX|)
+
+"babirusa"
+% CONCRETE ANIMAL MATERIAL 
+(QgUGlcX|)
+
+"baboo"
+(AsD)
+
+"baboon"
+% CONCRETE ANIMAL MATERIAL 
+(R|R|)
+
+"baby"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbA|)
+# a sleeping baby (NOUN) : XbQXbDzD WbA| 
+# ^give a person the baby to hold (VERB) : DbQWgAg ZcAW|QWzI X|WsGb
+# ^hand over the baby to a person (VERB) : DbQWgAg ZcAW|QWzI X|WsGb
+# ^carry the baby (VERB) : UfWAbU|D W|IWzI HfQb\Gb
+# ^throw out the baby with the bath water (VERB) : XsWWr^bD AfUWzI RsI]|IWr^bD AfUAlb ^bQBg RfI|Gb
+
+"baby-sitter"
+% HUMAN
+(WcRlbXsDzD UbIbQ)
+
+"babyhood"
+% CONCRETE MATERIAL TIME
+(WwDjDA|)
+
+"babyishness"
+(WwZ|)
+
+"baccara"
+(Rc[fIb)
+
+"bacchanal"
+% HUMAN
+(RbA[fUzWz|)
+
+"bacchanalian"
+% HUMAN
+(RbA[fUzWz| U|DGl)
+
+"bacchante"
+% HUMAN
+(RbA[fUzU|DWz| WjUbXg)
+
+"bacco"
+(GbQRc)
+
+"baccy"
+(GbQRc)
+
+"bach"
+% HUMAN
+(GlAU|DXb)
+
+"bachelor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bAUb)
+
+"bachelor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|^lDDbQXb)
+# Bachelor of Arts (NOUN) : QsD^bAUb
+# bachelor's button (NOUN) : UsIg AsA^lb 
+# ^keep bachelor hall (VERB) : GlAU|D UcW^lbIWzI ^bGb
+# ^keep bachelor's hall (VERB) : GlAU|D UcW^lbIWzI ^bGb
+
+"bachelordom"
+% HUMAN
+(ZlWAbA)
+
+"bachelorhood"
+% CONCRETE MATERIAL 
+(GlAU|D)
+
+"bachelorship"
+(^bAUbWz| XbAjA)
+
+"bachelorship"
+% STATE
+(GlAU|D)
+
+"bacillus"
+% CONCRETE ANIMAL MATERIAL 
+(UgAwD)
+
+"back"
+% CONCRETE MATERIAL ANIMAL
+(GzW)
+# at the back of A (ADV) : (ADJUNCT [(POSS A/Wz|) Gs|<NOUN>]/WgUf)
+# at ONE_S back (ADV) : (ADJUNCT [(POSS ONE/Wz|) Gs|<NOUN>]/WgUf)
+# back and belly (NOUN) : GzWAlb Rc
+# back of A (ADV) : (ADJUNCT [(POSS A/Wz|) Gs|<NOUN>]/Wg)
+# back pay (NOUN) : W|QAzQWz| UlAzRX|RsI
+# back to back (ADV) : GzWWzI QbXGcAl
+# ^be on ONE_S back (VERB) : DbQWzI R|DbD^bGb
+# behind ONE_S back (ADV) : DbQQlIIc
+# break ONE_S back (VERB) : GzWSjIzI S|Gb
+# ^break the back of A (VERB) : [(ADJUNCT A/WgAg) (MODS [DfQs<ADV>]) QsAfR<ADJ>]/Gb
+# ^get A back $ (VERB) : [(OBJ A/IzI) GlIIjRbG<VERB>]/Gb
+# ^get ONE_S back up (VERB) : [(OBJ ONE/WzI) UfWDbAg ^b<VERB>]/Gb
+# ^give A {+HUMAN} a back | (VERB) : [(OBJ2 A/WgAg) (OBJ [GzW<NOUN>]/WzI) R|IIjXs<VERB>]/Gb
+# ^give A {+HUMAN} the back | (VERB) : [(OBJ A/IzI) RcRbD^b<VERB>]/Gb
+# in back of A (ADV) : (ADJUNCT [(POSS A/Wz|) Gs|<NOUN>]/WgUf)
+# ^make A {+HUMAN} a back (VERB) : [(OBJ2 A/WgAg) (OBJ [GzW<NOUN>]/WzI) R|IIjXs<VERB>]/Gb
+# on the back of A (ADV) : (ADJUNCT [(POSS A/Wz|) Gs|<NOUN>]/Wg)
+# ^put ONE_S back into A (VERB) : [(ADJUNCT A/Wg) ^|QVz<VERB>]/Gb
+# ^put ONE_S back up (VERB) : [(OBJ ONE/WzI) UfWDbAg ^b<VERB>]/Gb
+# ^see the back of A (VERB) : [(OBJ A/WzI) DcYlZ<VERB>]/Gb
+# ^set ONE_S back up (VERB) : [(OBJ ONE/WzI) UfWDbAg ^b<VERB>]/Gb
+# the back of ONE_S  hand (NOUN) : UlDGzW
+# the back of ONE_S  mind (NOUN) : QbWzQUlA
+# the back of beyond (NOUN) : QfIAl QfD AlU
+
+# ^turn ONE_S  back on A (VERB) : [(OBJ A/WzI) XfRfI|<VERB>]/Gb
+# ^turn ONE_S  back to A (VERB) : [(ADJUNCT A/Wg) (OBJ [GzW<NOUN>]/WzI) GlII|<VERB>]/Gb
+# ^turn the back on A (VERB) : [(OBJ A/WzI) XfRfI|<VERB>]/Gb
+# with ONE_S back to A (ADV) : (ADJUNCT [(ADJUNCT A/Wg) (OBJ [GzW<NOUN>]/WzI) 
+GlII|<VERB>]/^bAl)
+# with ONE_S  back to the wall (ADV) : AsWX|Wg QlIIj
+
+"back-formation"
+% MATERIAL 
+(WjAUfW)
+
+"back-order"
+(ZsAbXsQsD)
+
+"back-stabber"
+% HUMAN
+(XsWUbW QlIdAXb)
+
+"backache"
+% MATERIAL 
+(GzWWz| \lWXzW)
+
+"backband"
+(GzWH|)
+
+"backbench"
+% PLACE
+(^bWsfDWz| Gs|YlA XbI|)
+
+"backbitting"
+% ACTION
+(^fQGbQ)
+
+"backboard"
+% CONCRETE ANIMAL MATERIAL 
+(Gs|]bD)
+
+"backbone"
+% CONCRETE MATERIAL ANIMAL
+(GzWSj)
+# to the backbone (ADV) : SjUUlABbX|
+
+"backchat"
+% ACTION
+(QbIGcBs)
+
+"backcolth"
+(RcAjW)
+
+"backcountry"
+% PLACE
+(U|AlI)
+
+"backdoor"
+(Gs|UQsD)
+# backdoor financing (NOUN) : Gs|UQsDAzQWwW
+# backdoor practice (NOUN) : Gs|UQsDXlXbA
+
+"backdown"
+% ACTION
+(\l|AbA)
+
+"backdrop"
+% CONCRETE MATERIAL 
+(RcAjW)
+
+"backer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^sWsfDXb)
+
+"backfield"
+(UsR|)
+
+"backfire"
+% MATERIAL ACTION
+(QbXRsI)
+
+"backfire"
+% MATERIAL 
+(WjA^rAlbIzI Db^Gb)
+
+"backgammon"
+% MATERIAL 
+(UfWdWXsUbWs|DlIW|)
+
+"background"
+% CONCRETE MATERIAL 
+(RcAjW)
+# ^keep in the background (VERB) : ]rQjDWg DbUfX| WbD^Gb
+# ^stay in the background (VERB) : ]rQjDWg DbUfX| WbD^Gb
+# ^be in the background (VERB) : ]rQjDWg DbUfX| WbD^Gb
+
+"backgrounder"
+% ACTION
+(XfWRsZzAWz| R|AlWU|A A|Xb^l|AjD)
+
+"backhander"
+(WjA\b)
+
+"backhouse"
+% PLACE
+(RbBb\ RjDUl)
+
+"backing"
+% CONCRETE MATERIAL ACTION
+(^s\l|)
+
+"backlands"
+% PLACE
+(DcIwA X|RbW)
+
+"backlane"
+% PLACE
+(Gs|UAlIQlA)
+
+"backlash"
+% MATERIAL 
+(WjA^l|XfD)
+
+"backlist"
+(A|AbDUf)
+
+"backlog"
+% CONCRETE MATERIAL
+([zD XbWXbA)
+# backlog of unfilled orders (NOUN) : UsXsUf
+
+"backout"
+% ACTION
+(ZfI^l|)
+
+"backpack"
+% CONCRETE ANIMAL MATERIAL 
+(XjDbIzDzD X|Q)
+
+"backscratcher"
+(GzWAzIAW|)
+
+"backset"
+% ACTION
+(WjA^cW)
+
+"backsheesh"
+(\|R)
+
+"backshish"
+(\|R)
+
+"backside"
+% CONCRETE MATERIAL 
+(^sRbW)
+
+"backsight"
+% ACTION
+(^sU|)
+
+"backslap"
+% ACTION
+(GzWWzI \sAZ|Q)
+
+"backslash"
+(RcAUzIIcUs|)
+
+"backslider"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\bIbAXb)
+
+"backsliding"
+% MATERIAL ACTION
+(\bIbA)
+
+"backstair"
+% PLACE
+(Gs|UZzWAk)
+
+"backstairs"
+% CONCRETE MATERIAL PLACE
+(Gs|UZzWAk)
+
+"backstay"
+% CONCRETE ANIMAL MATERIAL 
+(Gs|URbGZ|Q)
+
+"backstitch"
+% CONCRETE MATERIAL ACTION
+(RbAWzQX|I)
+
+"backstop"
+% CONCRETE ANIMAL MATERIAL 
+(RcADg\z)
+
+"backstretch"
+(RcAUz\zIgUZ|)
+
+"backstroke"
+% MATERIAL ACTION
+(Gl|Z|A|)
+
+"backswing"
+(RcAUzWs|W)
+
+"backup"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcWbD)
+
+"backward"
+# backward bending supply curve (NOUN) : Gs|UYlAWzIl AsRsIfX|DzD AlWAzRAlAUfD
+# backward country (NOUN) : ^sX|DAsA
+
+"backwardation"
+% ACTION
+(UsGl WjDA|)
+
+"backwardness"
+% MATERIAL 
+(^sX|DUfW)
+# cultural backwardness (NOUN) : QsD^lbXfA ^sX|DUfW
+
+"backwash"
+(WjAIw)
+# backwash effect (NOUN) : WjAIw^rAlb
+
+"backwater"
+(WjAIw)
+# ^live in a backwater (VERB) : Gs|X|D QsD^lb ^lbDAjWUlAWgUf UbIGb
+
+"backwind"
+(WjA]sW)
+
+"backwoods"
+% MATERIAL PLACE
+(Q|AcZfA UbQI|QX|)
+
+"backwoodsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjDAjWWz| XsQ|D)
+
+"backyard"
+% PLACE
+(Gs|HzI)
+
+"bacon"
+% CONCRETE MATERIAL FOOD
+(RgW|[lD)
+# ^bring home the bacon (VERB) : UfWAlW^bGb
+# ^save ONE_S  bacon (VERB) : Ws|^fQ^bD AlR|IzI DfQA|Gb
+
+"bacteria"
+% CONCRETE ANIMAL MATERIAL 
+(RbA\gI|Wb)
+
+"bactericide"
+(UbIAwDXg)
+
+"bacterin"
+(UgAwD RcAU|D)
+
+"bacteriologist"
+% HUMAN
+(UgAwD^bAXb)
+
+"bacteriology"
+% MATERIAL ART
+(UgAwD^bA)
+
+"bacteriophage"
+% CONCRETE ANIMAL MATERIAL 
+(UbIAwDUl)
+
+"bacterioscopy"
+(UgAwD AfQUb)
+
+"bacterium"
+% CONCRETE ANIMAL MATERIAL 
+(RbA\gI|Wb)
+
+"bacteroid"
+(RbA\gIlW|Gz)
+
+"bad"
+(DbSzD AfU)
+# in bad | (ADV) : AlUcW^bWj
+# ^be to the bad (VERB) : R|XW| W|VGb
+# ^go from bad to worse (VERB) : WbA^lb^bGb
+# ^go to the bad (VERB) : ]bQjI^bGb
+# ^take the bad with the good (VERB) : Xl^Al DbSzD W|IWzI GbAjBGb
+
+"bad-loan"
+(RsU|I ZcAsfD)
+
+"badge"
+% CONCRETE MATERIAL 
+(RcX|)
+# a badge of rank (NOUN) : AkAzRXbW
+# ^wear a badge (VERB) : A|XbWWzI GbIGb
+
+"badger"
+% CONCRETE ANIMAL MATERIAL 
+(WlUlI|)
+# the Badger State (NOUN) : Q|AsA Ws|Uz[lDU|DXs
+
+"badger"
+% CONCRETE ANIMAL MATERIAL 
+(^cWUbWW|D)
+
+"badinage"
+% CONCRETE MATERIAL ACTION
+(DlWGbQ)
+
+"badlands"
+% PLACE
+(^lbWQsX|)
+
+"badminton"
+% MATERIAL 
+(RcGzQ|D\fD)
+
+"badness"
+(RsIIdW)
+
+"baedeker"
+(Wj^cW WbDDcUf)
+
+"baff"
+(Rc]z)
+
+"baffle"
+% CONCRETE MATERIAL 
+(XlXfIRjA)
+
+"baffy"
+(DbQs AlI]zZc 4 RfD)
+
+"bag"
+% CONCRETE MATERIAL 
+(AbRbW)
+# NUM1 bag of A (NOUN) : [(POSS [(NMODS NUM1) AbRbW<NOUN>]/Wz|) A]
+# bag and baggage (NOUN) : UlX|]sQ W|IZg
+# bag of bones (NOUN) : WdWs|D UbIbQ
+# bags of time (NOUN) : QbD^WzD U|AbD
+# ^bear the bag (VERB) : XcXfWAsfDWzI Xs|Gb
+# cloth bag (NOUN) : ZfDAbRbW
+# ^empty the bag (VERB) : QlWHbW W|WdA|^bGb
+# ^get the bag (VERB) : ^cAlGl|Gb
+# in the bag (ADV) : UsXsWWg
+# in the bottom of the bag (ADV) : Zl|^sWz| UsGbDWzIlUf
+# ^make a good bag (VERB) : QbD^WzD X|QUzWWzI XbRGb
+# punching bag (NOUN) : ]fDZ|WRcA
+# ^secure a good bag (VERB) : QbD^WzD X|QUzWWzI XbRGb
+# ^set ONE_S  bag for A (VERB) : [(ADJUNCT A/Wg) (OBJ [WdU|Q<NOUN>]/WzI) ]sQ<VERB>]/Gb
+# sleeping bag (NOUN) : Z|QDbW
+# the blue bag (NOUN) : RjD^lUbWrW AbRbW
+# the green bag (NOUN) : RjD^lUbWrW AbRbW
+# the whole bag of tricks (NOUN) : WlDAbX UsGbD
+
+"bag-sleeve"
+(DfIRWzD UlQc)
+
+"bagasse"
+(Ub\bWWzI YbAl DbQWzD BbAX|)
+
+"bagatelle"
+% CONCRETE MATERIAL 
+(^bZbD^WzD AfU)
+
+"bagel"
+% CONCRETE MATERIAL
+(RgW|AzI)
+
+"baggage"
+% CONCRETE ANIMAL MATERIAL 
+(Us^bQsI)
+# baggage allowance (NOUN) : Us^bQsI XsWIdW Xg^bD
+# baggage check (NOUN) : Us^bQsI ]r
+# baggage screener (NOUN) : Us^bQsI AfQUbW|D
+# heavy baggage (NOUN) : Gc ^cWDbW
+# light baggage (NOUN) : Ul ^cWDbW
+# unclaimed baggage (NOUN) : UsZs|W|D WfRUDzD Ul^lbQsI
+
+"baggage-smasher"
+% HUMAN
+(Us^bQsI AkWsfD)
+
+"baggageman"
+% HUMAN
+(Us^bQsI AkWsfD)
+
+"baggagemaster"
+% HUMAN
+(Us^bQsI AkXbW)
+
+"bagger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbIsWg GbQDzD UbIbQ)
+
+"bagginess"
+(Rs]sIWzQ)
+
+"bagging"
+% CONCRETE MATERIAL ACTION
+(XbIsWg Df^A|)
+
+"bagman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wl|Qs ]bDQcWsfD)
+
+"bagnio"
+% PLACE
+(QlAWrA\bW)
+
+"bagpipe"
+% CONCRETE ANIMAL MATERIAL 
+(]sWXfA)
+
+"bagpiper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]sWXfA WjDXsXb)
+
+"baguet"
+% CONCRETE MATERIAL 
+(A|IYsA^bD DgQlBlI)
+
+"bagwig"
+(AbRbI)
+
+"bagworm"
+% ANIMAL
+(GlIlWW| RfIIg)
+
+"baht"
+% CONCRETE UNIT MATERIAL 
+(Rb\z)
+
+"baignoire"
+% PLACE
+(WbIcZzW \zARjIUfA)
+
+"bail"
+% MATERIAL 
+(RlUfA)
+# ^accept bail (VERB) : RlUfAWzI ^fAb^bGb
+# ^allow bail (VERB) : RlUfAWzI ^fAb^bGb
+# ^admit A to bail (VERB) : [(OBJ2 A/WgAg) (OBJ [RlUfA<NOUN>]/WzI) ^fAb^b<VERB>]/Gb
+# ^hold A to bail (VERB) : [(OBJ2 A/WgAg) (OBJ [RlUfA<NOUN>]/WzI) ^fAb^b<VERB>]/Gb
+# bail out (NOUN) : RgW|IWbWsU
+# ^be bail (VERB) : RlUfA RlXzWW|DW| Gl|Gb
+# ^be out on bail (VERB) : RlUfA ZsIWlAXsWW|Gb
+# ^give bail (VERB) : RlUfAAzQWzI DcGb
+# ^offer bail (VERB) : RlUfAAzQWzI DcGb
+# ^go bail for A (VERB) : [(SCOMP [(POSS A/Wz|) (NMODS [RlUfA<NOUN>]) RlXzWW|D<NOUN>]/W|) Gl|<VERB>]/Gb
+# save ONE_S  bail (VERB) : ZsIXfW^bGb
+# forfeit ONE_S  bail (VERB) : ZsIXfW^bX| WbD^Gb
+# take leg bail (VERB) : \bIXs^bGb
+# ^give leg bail (VERB) : \bIXs^bGb
+
+"bailee"
+% HUMAN
+(Us\bAW|D)
+
+"bailer"
+% HUMAN
+(RgW|IIf)
+
+"bailey"
+% PLACE
+(RbBb\RjA)
+# the One Bailey (NOUN) : XsWWbW ^jWUb Xc]bDUl
+
+"bailie"
+% HUMAN
+(U|Wz|WsfD)
+
+"bailiff"
+% HUMAN
+(X|R^cWAlbD)
+
+"bailiwick"
+% ORGAN PLACE
+(XfDQsDRsDWd)
+
+"bailment"
+% ACTION
+(Ws|\bA)
+
+"bailor"
+% HUMAN
+(A|\bAXb)
+
+"bailout"
+% ACTION
+(A|DAzR AsXg)
+
+"bailsman"
+% HUMAN
+(RlUfA RlXzWW|D)
+
+"bairn"
+% HUMAN
+(WwWb)
+
+"bait"
+% CONCRETE MATERIAL 
+(Q|B|)
+# bait advertising (NOUN) : AlbGcAlbWAl
+# ^put a bait (VERB) : Q|B|IzI GbIGb
+
+"baize"
+% CONCRETE MATERIAL 
+(AfZ|D DbUb)
+
+"bake"
+% MATERIAL ACTION
+(SbWAsRA|)
+# bake shop (NOUN) : SbWX|R
+# lobster bake (NOUN) : RbGbUAbXc AsW|
+
+"bakehouse"
+% PLACE 
+(SbWX|R)
+
+"bakelite"
+% MATERIAL 
+(RgW|[zIbW|\z)
+
+"baker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(SbWXgXlWfRXb)
+# baker's dozen (NOUN) : 13 Ac
+# baker's salt (NOUN) : \bDUbD WbQQlDwQ
+
+"bakery"
+% CONCRETE MATERIAL PLACE
+(SbWX|R)
+
+"bakeshop"
+% CONCRETE MATERIAL PLACE
+(SbWX|R)
+
+"baking"
+% MATERIAL 
+(SbWAsRA|)
+
+"baksheesh"
+(\|R)
+
+"bakshish"
+(\|R)
+
+"balalaika"
+% CONCRETE ANIMAL MATERIAL 
+(RbIIbIIbW|[b)
+
+"balance"
+% CONCRETE MATERIAL 
+(AwD^jW)
+# active trade balance (NOUN) : QsWjAUsX|Wz| ^zAXbZfI|
+# adverse balance (NOUN) : QsWjAWjAXl
+# adverse trade balance (NOUN) : UsW|RZlAlb
+# balance at a bank (NOUN) : WzD^cW WkAzQXbDAl
+# balance brought forward (NOUN) : W|WsfIXbDAl
+# balance carried forward (NOUN) : W|WsfIXbDAl
+# balance due (NOUN) : RsXlAWcA
+# balance in hand (NOUN) : ^jDXc XbDAl
+# balance of accounts (NOUN) : AkXfW XbDAl
+# balance of trade (NOUN) : QsWjA UsX|
+# closing balance (NOUN) : QbAbQXbDAl
+# favorable balance of trade (NOUN) : UsZsI ZlAlb
+# favourable balance of trade (NOUN) : UsZsI ZlAlb
+# unclaimed balance (NOUN) : QsZfWAsAkXfWXbDAl
+# unfavorable balance of trade (NOUN) : UsW|R ZlAlb
+# unfavourable balance of trade (NOUN) : UsW|R ZlAlb
+# adverse balance of trade (NOUN) : UsW|R ZlAlb
+# balance of payments (NOUN) : AsAXg UsX|
+# balance of power (NOUN) : UgIjA AwD^jW
+# ^hang in the balance (VERB) : WfDz YlAWzIl A|WsIX| QlIzDzD RsIWbD UbW\cWg W|VGb
+# ^tremble in the balance (VERB) : WfDz YlAWzIl A|WsIX| QlIzDzD RsIWbD UbW\cWg W|VGb
+# ^hold in the balance (VERB) : Q|AjI Gl|D ZcIl DcRfIj GsGb
+# ^hold the balance (VERB) : AjIXfWAsfDWzI AbX|Gb
+# in the balance (ADV) : WfDz YlAGl WbD|D Q|XfW UbW\cIl
+# ^keep ONE_S  balance (VERB) : AwD^jWWzI WwX|^bGb
+# ^lose ONE_S  balance (VERB) : XsWU|QWzI W|I^Gb
+# on balance (ADV) : QlGzD AfUWzI ZbQXbA^bWj
+# on the balance (ADV) : QlGzD AfUWzI ZbQXbA^bWj
+# ^strike a balance (VERB) : GcZb AkUbDWzI ^bGb
+# supply demand balance (NOUN) : UsWr RcIIfDUz
+# ^throw a person off his balance (VERB) : AwD^jWWzI W|I^Ag^bGb
+
+"balancer"
+% HUMAN
+(AlAWkUb)
+
+"balas"
+(As|ZfQXfWUfA)
+
+"balata"
+(RbIIb\b)
+
+"balboa"
+% CONCRETE UNIT MATERIAL 
+(]bDbQbWz| ^lb]kGbDWs|)
+
+"balbriggan"
+% CONCRETE MATERIAL 
+(QgI|WdUz)
+
+"balcony"
+% CONCRETE MATERIAL PLACE
+(RbI[lD|)
+
+"baldachin"
+% CONCRETE ANIMAL MATERIAL 
+(ZfDAc)
+
+"baldaquin"
+(ZfDAc)
+
+"balderdash"
+% CONCRETE MATERIAL 
+(^fUUlI|)
+
+"baldhead"
+(GcQfI|)
+
+"baldness"
+% CONCRETE MATERIAL 
+(RfUWfX|Q)
+
+"baldpate"
+% CONCRETE ANIMAL MATERIAL 
+(GcQfI|)
+
+"baldric"
+(U|AGc)
+
+"bale"
+% CONCRETE ANIMAL MATERIAL 
+(X|QYbA)
+
+"bale"
+% CONCRETE ANIMAL MATERIAL 
+(^cWbA)
+
+"baleen"
+% CONCRETE MATERIAL 
+(AlIc UsWjQ)
+
+"balefire"
+(RlW^lb)
+
+"balefulness"
+% CONCRETE MATERIAL 
+(^cIlWsQ)
+
+"balk"
+% CONCRETE ANIMAL MATERIAL 
+(XbWWc)
+
+"ball"
+% CONCRETE MATERIAL SPORTS
+(AlW)
+# ball and chain (NOUN) : UbUzIWg Ul|UGfWWfI|IzI GbD XlAUlc
+# ball of the eye (NOUN) : DsDWbI
+# ^be on the ball (VERB) : R|D\zQW| WfRUGb
+# ^catch the ball before the bound (VERB) : UfDUsIzI VzGb
+# ^take the ball before the bound (VERB) : UfDUsIzI VzGb
+# ^get the ball rolling (VERB) : QsDXgIzI BfDcGb
+# ^start the ball rolling (VERB) : QfDXf ^bGb
+# ^have the ball at ONE_S  feet (VERB) : UfWAlW^bI A|^l|Ab UcWA|Gb
+# ^have the ball before one (VERB) : Xl^WzD A|^l|Ab QbZ|QDc DsDWb]Wg W|VGb
+# ^keep the ball rolling (VERB) : W|WdA|IzI XbI W|BzIWf DbAbGb
+# ^keep up the ball (VERB) : W|WdA|IzI XbI W|BzIWf DbAbGb
+# ^make balls of A (VERB) : [(OBJ A/WzI) (MODS [GsWAzIAg<ADV>]) QsWZ|<VERB>]/Gb
+# ^make a ball of A (VERB) : [(OBJ A/WzI) (MODS [GsWAzIAg<ADV>]) QsWZ|<VERB>]/Gb
+# no ball (NOUN) : AwZ|A Ws|RbDWz| \sAs
+# on the ball (ADV) : R|D\zQWfRUW|
+# ^play ball (VERB) : AlWDlIW|IzI ^bGb
+# ^take up the ball (VERB) : DbQWz| W|WdA|IzI RbGWbUf W|WfDbAbGb
+# three balls (NOUN) : 3 AcWz| AzQR|Z AlW
+# three golden balls (NOUN) : 3 AcWz| AzQR|Z AlW
+
+"ball-flower"
+% PLANT
+(GsWAzD BlZUlWW| XbWU|A)
+
+"ball-point"
+(RlWlI]gD)
+
+"ballad"
+% CONCRETE MATERIAL 
+(Q|DWr)
+
+"ballade"
+(RbIIbWbGz)
+
+"balladeer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbIIbWbGz U|W|D)
+
+"balladmonger"
+% HUMAN
+(Q|DWr XbAAb)
+
+"balladry"
+% ART
+(Q|DWr)
+
+"ballast"
+% CONCRETE MATERIAL 
+(RcIIfUz\z)
+# in ballst (ADV) : RbGbAX|QQbD U|GAl
+# ^have ballst (VERB) : QbWzQW| WbDXfWGl|Wf W|VGb
+# ^lack ballst (VERB) : QbWzQW| WbDXfWGl|Wf W|VX| WbD^Gb
+
+"ballclub"
+(AsGbD)
+
+"ballerina"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbIIgI|Db)
+# leading ballerina (NOUN) : XsWjA RbIIgI|Db
+
+"ballet"
+% CONCRETE MATERIAL ART
+(RbIIg)
+# ballet dancer (NOUN) : RbIIg GcDUf
+# corps de ballet (NOUN) : RbIIgGbDWsfD
+
+"balletomane"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbIIgAlbW)
+
+"balletomania"
+% HUMAN
+(RbIIgAlbW)
+
+"ballgame"
+(RlIAgW|Q)
+
+"ballhandler"
+(RlI^cDGzIIf)
+
+"ballhandling"
+(RlI^gDGzII|W)
+
+"ballista"
+(Dl]l)
+
+"ballistician"
+% HUMAN
+(\bDGl^bAXb)
+
+"ballistics"
+% MATERIAL ART
+(\bDGl^bA)
+
+"ballistocardiograph"
+(U|QXfDAk)
+
+"ballonet"
+(UlA|DbW)
+
+"balloon"
+% CONCRETE MATERIAL 
+(A|As)
+# balloon riding (NOUN) : ]sWUfD \bA|
+# captive balloon (NOUN) : AkIw A|As
+# nonrigid dirigible balloon (NOUN) : WjDU|A R|^cWUfD
+# rigid dirigible balloon (NOUN) : AjWU|A R|^cWUfD
+# weather balloon (NOUN) : A|UbWAlbDZzAWrW A|As
+
+"ballooner"
+% HUMAN
+(A|As \bRUzWXb)
+
+"balloonfish"
+% CONCRETE ANIMAL MATERIAL FOOD
+(RlAWf)
+
+"ballot"
+% CONCRETE MATERIAL 
+(\s]r)
+# ^cast a ballot (VERB) : \s]r^bGb
+# ^elect by ballot (VERB) : \s]rIl SlRGb
+# ^vote by ballot (VERB) : \s]rIl AjIXfW^bGb
+# ^take a ballot (VERB) : \s]rIzI ^bGb
+
+"ballotage"
+% ACTION
+(AjIUfD \s]r)
+
+"balloting"
+% ACTION
+(\s]r)
+
+"ballpark"
+% CONCRETE ANIMAL MATERIAL 
+(AsXbW)
+
+"ballplayer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdAs^bDzD UbIbQ)
+
+"ballroom"
+% CONCRETE ANIMAL MATERIAL PLACE
+(QsGlU|I)
+# ballroom dance (NOUN) : UbAr GcDUz
+
+"ballsting"
+(RbGbAX|Q XcIr)
+
+"ballyhack"
+(]bQjI)
+
+"ballyhoo"
+% CONCRETE MATERIAL 
+(GcUfDXfD)
+
+"balm"
+% CONCRETE MATERIAL 
+(^dWWw)
+
+"balneology"
+(WlDZfD Z|Ir)
+
+"balneotherapy"
+(WlDZfD WrRfR)
+
+"baloney"
+% CONCRETE MATERIAL 
+(^fUUlI|)
+
+"balsa"
+% CONCRETE MATERIAL PLANT
+(RbIUb)
+
+"balsam"
+% CONCRETE MATERIAL 
+(RbIUbQ)
+# balsam fir (NOUN) : RbIUbQ XfDDbQs
+
+"balsamine"
+% PLANT
+(RlWUfD^lb)
+
+"baluster"
+(XbAWzD A|GsW)
+
+"balustrade"
+% CONCRETE ANIMAL MATERIAL 
+(UlDXbRW|)
+
+"bam"
+(GsD^bD UlI|)
+
+"bambino"
+(WfI|D AzI|UzGl UbW)
+
+"bamboo"
+% CONCRETE MATERIAL PLANT
+(GcDbQs)
+# bamboo shoots (NOUN) : XsAUsD
+# bamboo wares (NOUN) : GcDbQs UgAlW]sQ
+
+"bamboozlement"
+% ACTION
+(UlAWjQfAA|)
+
+"ban"
+% CONCRETE UNIT MATERIAL 
+(AzQX|)
+# ^life a ban (VERB) : ^cAzQ^bGb
+# ^remove a ban (VERB) : ^cAzQ^bGb
+# hunting ban (NOUN) : UbDdWAzQX|
+# nuclear test ban (NOUN) : ^cA U|I^fQ AzQX|
+# ^place under a ban (VERB) : AzQX|^bGb
+# ^put under a ban (VERB) : AzQX|^bGb
+# under ban (ADV) : WfQAzQGl|Wf
+# under the ban (ADV) : WfQAzQGl|Wf
+
+"banality"
+% CONCRETE MATERIAL 
+(]jWRfQ)
+
+"banana"
+% CONCRETE MATERIAL FOOD PLANT
+(RbDbDb)
+# banana oil (NOUN) : RbDbDb A|IzQ
+# a hand of bananas (NOUN) : RbDbDb ^bDUlWW|
+
+"banc"
+% PLACE
+(]bDUbUfA)
+# in banc (ADV) : ]bDUbAb QlGs W|QUfA^bWj
+
+"banco"
+% PLACE
+(]bDUbUfA)
+
+"band"
+% CONCRETE MATERIAL ORGAN
+(RcDGz)
+# ^beat the band (VERB) : R|A|IGg WfRUGb
+# farmer's music band (NOUN) : DlWWbAGc
+# the Band of Hope (NOUN) : UlDjD AzQXsGbD
+# when the band begins to play (ADV) : W|IW| [zAg RfIWfX|I Hc
+
+"band-aid"
+% CONCRETE MATERIAL 
+(RcDGz WgW|Gz)
+
+"bandage"
+% CONCRETE MATERIAL 
+(RsWGc)
+
+"bandana"
+% CONCRETE MATERIAL 
+([zQX|A^bD UlDUsAfD)
+
+"bandanna"
+% CONCRETE MATERIAL 
+([zQX|A^bD UlDUsAfD)
+
+"bandar"
+% ANIMAL
+(WsfDUsWW|)
+
+"bandbox"
+% CONCRETE ANIMAL MATERIAL 
+(XlWW|UbWXb)
+# ^look as if one came out_of a bandbox (VERB) : QbIVsA^bD WlUZbI|QWzI ^bAl W|VGb
+
+"bandeau"
+% CONCRETE ANIMAL MATERIAL 
+(WjXb QfI|Wg GbDzD AbDzD I|RlD)
+
+"banderol"
+(XbAWzD A|)
+
+"banderole"
+(XbAWzD A|)
+
+"bandicoot"
+% CONCRETE ANIMAL MATERIAL 
+(RcDG|[sU)
+
+"bandit"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsRfRXb)
+# mounted bandit (NOUN) : QbXfA
+# a set of bandits (NOUN) : UbDXfAGbD
+# a gang of bandits (NOUN) : UbDXfAGbD
+
+"banditry"
+% ACTION
+(UbDXfA^cWWs|)
+
+"bandmaster"
+(WbAXbW)
+
+"bandog"
+% ANIMAL
+(QcDl^WzD Ac)
+
+"bandoleer"
+% ORGAN
+(\bDWdAGc)
+
+"bandolier"
+% ORGAN
+(\bDWdAGc)
+
+"bandoline"
+(RcDGfII|D)
+
+"bandsman"
+% HUMAN
+(WbAGcWsfD)
+
+"bandstand"
+% CONCRETE MATERIAL PLACE
+(WzQWbAGbW)
+
+"bandwagon"
+% CONCRETE MATERIAL
+(RcDGzZb)
+
+"bandwidth"
+(XfDUlW]lA)
+
+"bandy"
+(^bD ]|IW| BzDzD 2 IwD QbZb)
+
+"bandy"
+(^b[|)
+
+"bandy-ball"
+(^b[|)
+
+"bane"
+% MATERIAL 
+(^cWbA)
+
+"banefulness"
+(WwGlAUfW)
+
+"bang"
+% MATERIAL ACTION
+(AbW\b)
+# ^get a bang on the head (VERB) : QfI|IzI BlbW QbXGb
+# with a bang (ADV) : [lbW^bAl
+
+"bang"
+% MATERIAL ANIMAL
+(AbX|IfD^| BbBWzD Wb]QfI|)
+
+"bang"
+% MATERIAL 
+(W|DGl GcQb)
+
+"bangle"
+% CONCRETE MATERIAL 
+(XbWU|A AlI|)
+
+"banian"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(W|DGl UbWW|D)
+# banian day (NOUN) : AlA|IzI QfAX| WbD^DzD DbI
+# banian hospital (NOUN) : AbZsA RjWWsfD
+
+"banishment"
+% MATERIAL ACTION
+(ZsRbW)
+
+"banister"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD A|GsW)
+
+"banjo"
+% CONCRETE ANIMAL MATERIAL 
+(RcDXlWs)
+
+"banjoist"
+% HUMAN
+(RcDXlWs WjDXsXb)
+
+"bank"
+% CONCRETE ORGAN PLACE ECOLIFE
+(WzD^cW)
+# authorized foreign exchange bank (NOUN) : Wl|AsA^lbD AlWW|D WzD^cW
+# bank acceptance (NOUN) : WzD^cWW|DUsWfWzQ
+# bank acceptance credit (NOUN) : WzD^cWW|DUsU|DWrWXbW
+# bank bill (NOUN) : WzD^cWWfWzQ
+# bank book (NOUN) : WzD^cW\lWXbW
+# bank charges (NOUN) : WzD^cWUsUsIr
+# bank commission (NOUN) : WzD^cWUsUsIr
+# bank credit (NOUN) : WzD^cWU|DWrW
+# bank debentures (NOUN) : AzQWwWZc
+# bank deposits (NOUN) : WzD^cWWkAzQ
+# bank draft (NOUN) : WzD^cW^lbDWfWzQ
+# bank discount (NOUN) : WzD^cW^bIW|D
+# bank examination (NOUN) : WzD^cWAfQUb
+# bank failure (NOUN) : WzD^cW]bUbD
+# bank fusion (NOUN) : WzD^cW^bRRjW
+# bank merger (NOUN) : WzD^cW^bRRjW
+# bank holding company (NOUN) : WzD^cWX|Xs^l|Ub
+# bank holiday (NOUN) : WzD^cW^wW|I
+# bank hours (NOUN) : WzD^cWWjWWfRU|AbD
+# bank of banks (NOUN) : XsWWbWWzD^cW
+# bank of deposit (NOUN) : WkAzQ WzD^cW
+# bank of elevator (NOUN) : UzWAbWA|Wz| WjI
+# bank of issue (NOUN) : X|]kRbI^cW WzD^cW
+# bank of river (NOUN) : AbWGsA
+# bank rate (NOUN) : AlWXfWW|WwI
+# bank rate policy (NOUN) : AlWXfWW|XbXfWZcA
+# bank rate reserve (NOUN) : XsWWbWWzD^cWWkZ|AzQ
+# bank reserve ratio (NOUN) : WkAzQX|RsIXsDR|WwI
+# ^break the bank (VERB) : QsIXsWz| GlDWzI QlWHbW HbGb
+# central bank (NOUN) : XsWWbWWzD^cW
+# central bank rate (NOUN) : AlWXfWW|XbWwI
+# chartered bank (NOUN) : \zA^fWzD^cW
+# designated bank (NOUN) : X|XfWWzD^cW
+# nation's bank (NOUN) : AsAZcA WzD^cW
+# national bank (NOUN) : AsAI|R WzD^cW
+# negotiating bank (NOUN) : QcW|RWzD^cW
+# river bank (NOUN) : AbWGsA
+# the Bank (NOUN) : W|WAzIIcDGz WzD^cW
+# the Bank of England (NOUN) : W|WAzIIcDGz WzD^cW
+# the Federal Reserved Bank (NOUN) : WjDRbW XsDR| WzD^cW
+# the Federal Reserved Bank System (NOUN) : WjDRbW XsDR| WzD^cW
+
+"bankbook"
+% MATERIAL ECOLIFE
+(WzD^cW \lWXbW)
+
+"banker"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(WzD^cWAb)
+# banker's bill (NOUN) : WzD^cWWfWzQ
+# banker to banks (NOUN) : WzD^cWWz| WzD^cW
+# banker's acceptance (NOUN) : WzD^cWAfIcWfWzQ
+# banker's acceptance credit (NOUN) : WzD^cWW|DUsU|DWrWXbW
+# banker's association (NOUN) : WzD^cW^jR^l|
+# banker's bank (NOUN) : WzD^cWWz| WzD^cW
+# banker's credit (NOUN) : WzD^cWU|DWrWXbW
+# banker's guarantee (NOUN) : WzD^cWRlXzW
+# banker's opinion (NOUN) : AfIcWzD^cW]jWAb
+# banker's reference (NOUN) : Xl^l|
+
+"banker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbAWfRGc)
+
+"banking"
+% MATERIAL ECOLIFE
+(WzD^cWWfR)
+# banking account (NOUN) : WzD^cWAkXfW
+# banking capital (NOUN) : WzD^cWAjWWjWXbAzQ
+# banking centre (NOUN) : AzQWwW XsWU|QX|
+# bankiing holiday (NOUN) : WzD^cW^wWfR
+# banking house (NOUN) : WzD^cW
+# banking institution (NOUN) : AzQWwWA|AlbD
+# banking power (NOUN) : GcZsI DzWIjA
+# banking principle (NOUN) : WzD^cWXsWz|
+# banking system (NOUN) : WzD^cWXgGl
+
+"bankroll"
+% MATERIAL ECOLIFE
+(Xc^lbWz| XfZsA)
+
+"bankroller"
+% HUMAN
+(^sWsfDXb)
+
+"bankrupt"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]bUbDXb)
+
+"bankruptcy"
+% MATERIAL ACTION
+(]bUbD)
+# voluntary bankruptcy (NOUN) : W|QWz|]bUbD
+
+"banksia"
+(RgW[zUd)
+
+"banksman"
+% HUMAN
+(AcWWl| AbQGlA)
+
+"banner"
+% CONCRETE MATERIAL 
+(RgDf)
+# banner screen (NOUN) : A| QlWdWWz| AbI|Ac
+# ^follow the banner of A (VERB) : [(ADJUNCT [(NMODS [(POSS A/Wz|) A|URbI<NOUN>]) 
+WbIc<NOUN>]) QlW|<VERB>]/Gb
+# ^join the banner of A (VERB) : [(ADJUNCT [(NMODS [(POSS A/Wz|) A|URbI<NOUN>]) 
+WbIc<NOUN>]) QlW|<VERB>]/Gb
+# ^unfurl ONE_S  banner (VERB) : A|Z|IzI RsDQjW^| ^bGb
+# banner line (NOUN) :  U|DQsDWz| ]rXg
+
+"banneret"
+(XbAWzD A|)
+
+"banneret"
+% HUMAN
+(^s|^bWg U|D^bIzI AfDzI|Al ZsIX|D^bI Us W|VDzD A|Ub)
+
+"bannerette"
+(XbAWzD A|)
+
+"bannerol"
+(XbWA|)
+
+"bannerole"
+(XbWA|)
+
+"bannister"
+% CONCRETE ANIMAL MATERIAL 
+(AkGbD DbDAbD)
+
+"bannock"
+% FOOD
+(AlbXbSbW)
+
+"banns"
+% ACTION
+(AjI^lD WkAl)
+# ^ask the banns (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^call the banns (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^publish the banns (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^put up the banns (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^forbid the banns (VERB) : AjI^lDWg W|Wz|IzI XgA|^bGb
+# ^have ONE_S  banns called (VERB) : AjI^lDWkAlIzI ^cGbIIbAl ^bGb
+# ^have ONE_S  banns asked (VERB) : AjI^lDWkAlIzI ^cGbIIbAl ^bGb
+
+"banquet"
+% CONCRETE MATERIAL 
+(WjD^l|)
+
+"banquette"
+% CONCRETE ANIMAL MATERIAL 
+(A|D Wz|Xb)
+
+"bans"
+% ACTION
+(AjI^lD WkAl)
+# ^ask the bans (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^call the bans (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^publish the bans (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^put up the bans (VERB) : Ar^l|WgUf AjI^lDWzI WkAl^bGb
+# ^forbid the bans (VERB) : AjI^lDWg W|Wz|IzI XgA|^bGb
+# ^have ONE_S  bans called (VERB) : AjI^lDWkAlIzI ^cGbIIbAl ^bGb
+# ^have ONE_S  bans asked (VERB) : AjI^lDWkAlIzI ^cGbIIbAl ^bGb
+
+"banshee"
+(AbXlA XsWWg XsAWzI UbIbQW| W|VGbDzD AfUWzI \lWAlAUlI|Il WkAl^c XsDGbDzD WrXfW)
+
+"banshie"
+(AbXlA XsWWg XsAWzI UbIbQW| W|VGbDzD AfUWzI \lWAlAUlI|Il WkAl^c XsDGbDzD WrXfW)
+
+"bantam"
+% CONCRETE ANIMAL MATERIAL 
+(RcD\fQGbIA)
+
+"bantam-weight"
+(RcD\fQAzR)
+
+"banter"
+% CONCRETE MATERIAL 
+(DlWGbQ)
+
+"banting"
+% CONCRETE ANIMAL MATERIAL 
+(RcD\|W WrRfR)
+
+"bantingism"
+(RcD\|W WrRfR)
+
+"bantling"
+% HUMAN
+(]sUDbA|)
+
+"banyan"
+% CONCRETE PLANT MATERIAL 
+(RgDAlI RlI|Us)
+
+"baobab"
+% CONCRETE PLANT MATERIAL 
+(RbWlRbR DbQs)
+
+"bap"
+% HUMAN
+(XbAWzD IlWsISbW)
+
+"baptism"
+% MATERIAL ACTION
+(UgIk)
+# baptism by immersion (NOUN) : Z|QUs UgIk
+# baptism of effusion (NOUN) : AlbDUs UgIk
+# baptism of blood (NOUN) : ]|Wz| UgIk
+# baptism of fire (NOUN) : ]l^lbWz| UgIk
+
+"baptist"
+% HUMAN
+(Z|QIkArU|DGl)
+# Baptist chruch (NOUN) : Z|QIkAr^l|
+# the Baptists (NOUN) : Z|QIk]b
+
+"baptistery"
+% CONCRETE ANIMAL MATERIAL PLACE
+(UgIkXbW)
+
+"baptistry"
+% PLACE
+(UgIkXbW)
+
+"bar"
+% CONCRETE MATERIAL HOMONYM
+(QbAGcA|)
+# at bar (ADV) : AlWAc RfRXfWWgUf
+# ^be called to the bar (VERB) : RjD^lUbWz| XbAjAWzI WfGGb
+# ^be called before the bar (VERB) : RjD^lUbWz| XbAjAWzI WfGGb
+# ^be admitted to the bar (VERB) : RjD^lUbWz| XbAjAWzI WfGGb
+# ^be called within the bar (VERB) : WlbWU|I RjD^lUbIl W|QQjWGl|Gb
+# behind bars (ADV) : WlAXsWWgUf
+# behind the bars (ADV) : WlAXsWWgUf
+# ^cross the bar (VERB) : XsAGb
+# ^go to the bar (VERB) : RfRXfWRjD^lUbAb Gl|Gb
+# guy bar (NOUN) : AgW|Rb
+# in bar of A (ADV) : (ADJUNCT [(COMP [(OBJ A/WzI) RbWX|^b<VERB>]/A|) Ws|^b<VERB>]/^bWj)
+# ^practise at the bar (VERB) : RjD^lUbIzI AcWfR^bGb
+# ^practice at the bar (VERB) : RjD^lUbIzI AcWfR^bGb
+# prisoner at the bar (NOUN) : ^jWUb ]|AlW|D
+# ^read for the bar (VERB) : RfRXfW RjD^lUbWz| AlWRsIzI ^bGb
+# ^study for the bar (VERB) : RfRXfW RjD^lUbWz| AlWRsIzI ^bGb
+# the bar of the House (NOUN) : X|WRfI XcXcUl
+# trial at bar (NOUN) : ]bDUbXfDWsfD WjIUfA U|QI|
+# trial at the bar (NOUN) : ]bDUbXfDWsfD WjIUfA U|QI|
+# bar gold (NOUN) : AzQAl|
+# the bar of conscience (NOUN) : WdWU|QWz| XgXc
+# the bar of public opinion (NOUN) : WjIlDWz| XgXc
+
+"bar1nn"
+(UlXfI)
+
+"barb"
+% CONCRETE MATERIAL 
+(Q|DzI)
+
+"barb"
+% CONCRETE MATERIAL 
+(RbWbRz)
+
+"barbarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdQbDW|D)
+
+"barbarism"
+% MATERIAL 
+(WdQbD)
+
+"barbarity"
+% CONCRETE MATERIAL 
+(WdQbD)
+
+"barbarization"
+% MATERIAL ACTION
+(WdQbD^lb)
+
+"barbarousness"
+% CONCRETE MATERIAL 
+(WdQbDXfAW|Q)
+
+"barbecue"
+% CONCRETE MATERIAL FOOD
+(RbRg[w)
+
+"barbel"
+% CONCRETE MATERIAL ANIMAL
+(UsWjQ)
+
+"barbell"
+% CONCRETE ANIMAL MATERIAL 
+(RbRgI)
+
+"barber"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|RbIUb)
+# barber college (NOUN) : W|RbI ^bAAr
+# the barber's block (NOUN) : AbRbI AfDzD \zI
+# barber's itch (NOUN) : QlZbW
+# the barber pole (NOUN) : W|RbIUlWz| AbD]bDA|GsW
+# the barber's pole (NOUN) : W|RbIUlWz| AbD]bDA|GsW
+# barber's (NOUN) : W|RbIUl
+
+"barberry"
+% CONCRETE PLANT MATERIAL 
+(QcRbI\lR DbQs)
+
+"barbershop"
+% CONCRETE ANIMAL MATERIAL 
+(W|RbIAlbD)
+
+"barbery"
+% PLANT
+(QcRbI\lR DbQs)
+
+"barbette"
+(]lXlb)
+
+"barbican"
+(Wl|Rl)
+
+"barbital"
+% CONCRETE MATERIAL 
+(UsQjDXg)
+
+"barbiturate"
+% CONCRETE MATERIAL 
+(RbIzR|\sIzUbDWjQ)
+
+"barbola"
+(HbRs\W|D AzI|Q)
+
+"barbule"
+% PLANT
+(XbAWzD A|UAbX|)
+
+"barbwire"
+(ZfIXlQbW)
+
+"barcarol"
+(AlDGlIIbWz| RcUDlIc)
+
+"barcarolle"
+(AlDGlIIbWz| RcUDlIc)
+
+"bard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WzQWwU|W|D)
+# the Bard of Avon (NOUN) : UgW|AUz]|Wf
+
+"bard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsWUgWz| QbAbR)
+
+"bardolatry"
+% ART
+(UkW|AUz]|Wf UsWRc)
+
+"barebone"
+% HUMAN
+(QbIIbBcWW|)
+
+"barefacedness"
+(SfDSfDUzIfWsQ)
+
+"bareness"
+% CONCRETE MATERIAL 
+(DbZg)
+
+"baresark"
+% HUMAN
+(AlbWXfDUb)
+
+"barfly"
+% HUMAN
+(RbWbWz| GbDAlIGzI)
+
+"bargain"
+% CONCRETE MATERIAL 
+(QcQc)
+# bad bargain (NOUN) : R|VbAg UbD QsIAfD
+# bargain day (NOUN) : \zAQcW|I
+# bargain hunting (NOUN) : VbD AbRUWzIl UbA|
+# bargain price (NOUN) : ^bIW|DAbAjA
+# bargain sale (NOUN) : \zAQc
+# losing bargain (NOUN) : R|VbAg UbD QsIAfD
+# ^beat a bargain (VERB) : BbBGb
+# ^buy at a bargain (VERB) : VbAg UbGb
+# ^buy at a good bargain (VERB) : VbAg UbGb
+# ^drive a bargain (VERB) : ^zWXfWWzI ^bGb
+# ^drive a hard bargain (VERB) : QlRU| BbBGb
+# even bargain (NOUN) : ^cGzAWfRUDzD AfIc
+# good bargain (NOUN) : VbD QsIAfD
+# advantageous bargain (NOUN) : VbD QsIAfD
+# into the bargain (ADV) : AgGbAb
+# in the bargain (ADV) : AgGbAb
+# ^make the best of a bad bargain (VERB) : WjAAjWWzI XbI ZfI|^bGb
+# ^strike a bargain (VERB) : QcQcAkWdAWzI QcXGb
+# ^make a bargain (VERB) : QcQcAkWdAWzI QcXGb
+
+"bargainee"
+% HUMAN
+(QcUsW|D)
+
+"bargainer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QcGlW|D)
+
+"bargaining"
+% CONCRETE MATERIAL 
+(AfIc)
+# bargaining chip (NOUN) : WwI|^bD [bWbGz
+# bargaining tariff (NOUN) : ^l^k^jRXfWAlbDUg
+# bargaining theory of wages (NOUN) : XfAzQWz| ArUfRAjIXfWUfI
+# bargaining unit (NOUN) : ArUfRGbDWs|
+# collective bargaining (NOUN) : GbDZgArUfR
+
+"barge"
+% CONCRETE ANIMAL MATERIAL 
+(AfIsURc)
+
+"bargeboard"
+(RbAAlW DfI)
+
+"bargee"
+% HUMAN
+(AfIsURcUbAlW)
+
+"bargeeman"
+% HUMAN
+(AfIsURcUbAlW)
+
+"barghest"
+(As|U|D)
+
+"barguest"
+(As|U|D)
+
+"barilla"
+% PLANT
+(UsUlWDbQsI)
+
+"barite"
+(XsWXfWUfA)
+
+"baritone"
+% CONCRETE ANIMAL MATERIAL 
+(RbI|\lD)
+
+"barium"
+% CONCRETE MATERIAL 
+(RbIwQ)
+
+"bark"
+% MATERIAL PLANT
+(DbQsBfRX|I)
+
+"bark"
+% MATERIAL 
+(GlZGbDRc)
+
+"bark"
+% MATERIAL 
+(X|XDzD UlI|)
+
+"barkeep"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbWbWz| XsW|D)
+
+"barkentine"
+(UgGlZGcWz| RfQUfD)
+
+"barker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|XDzD GlWQsI)
+
+"barkery"
+% PLACE ORGAN
+(QsGsX|I AlWXbW)
+
+"barking"
+(X|XDzD UlI|)
+
+"barley"
+% CONCRETE MATERIAL PLANT FOOD
+(RlI|)
+# barley field (NOUN) : RlI|Rb\
+
+"barley-brake"
+% ACTION
+(UsIIcXbRA|)
+
+"barleycorn"
+% PLANT FOOD
+(RlI|VbI)
+# John Barleycorn (NOUN) : RlI|
+
+"barlow"
+([zD XsQfD| [bI)
+
+"barm"
+% CONCRETE MATERIAL 
+(^rQl)
+
+"barmaid"
+% HUMAN
+(UsIX|RWz| WjAzR)
+
+"barman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbWb\gDGf)
+
+"barmecide"
+% HUMAN
+(R|DQbIIl WzD^kIzI Rg]sDzD UbIbQ)
+# Barmecide's feast (NOUN) : Af\Z|IgQbDWz| ^dWWzW
+
+"barn"
+% CONCRETE MATERIAL PLACE
+(^fUAbD)
+
+"barnacle"
+% CONCRETE ANIMAL MATERIAL 
+(XlAcUbUAbU)
+
+"barnacle"
+% CONCRETE ANIMAL MATERIAL 
+([lX|RAg)
+
+"barnstormer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|RbW WwUgXb)
+
+"barnyard"
+% PLACE
+(^fUAbDWz| Wb]HzI)
+
+"barogram"
+(A|WbR A|IlA)
+
+"barograph"
+% CONCRETE ANIMAL MATERIAL 
+(XbGlWA|IlA A|WbRAk)
+
+"barology"
+% ART
+(XsWIjA^bA)
+
+"barometer"
+(X|]r)
+# a barometer stock (NOUN) : ]rXsDXs
+# barometer stock (NOUN) : ]rXsDXs
+# economic barometers (NOUN) : AjWXgAlbDZzAX|Us
+
+"barometry"
+% ART
+(A|WbR ZzAXfWRfR)
+
+"baron"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQXbA)
+# baron and feme (NOUN) : RsRs
+# baron of beef (NOUN) : UlWz| WdWYlA ^fI|Wz| UbI
+# baron of lamb (NOUN) : WdWWz| WdWYlA ^fI|Wz| UbI
+# a mine baron (NOUN) : AlbWUbDWlbW
+# a coal baron (NOUN) : UfA\bDWlbW
+
+"baronage"
+% HUMAN
+(DbQXbA)
+
+"baroness"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQXbA RsW|D)
+
+"baronet"
+% HUMAN
+(XsDDbQXbA)
+
+"baronetage"
+% HUMAN
+(XsDDbQXbA)
+
+"baronetcy"
+% ORGAN
+(XsDDbQXbAWz| X|Ws|)
+
+"barony"
+% MATERIAL ORGAN PLACE
+(DbQXbAWz| WjWX|)
+
+"baroque"
+% CONCRETE MATERIAL 
+(RbIl[zU|A)
+
+"baroscope"
+(A|WbRAk)
+
+"barouche"
+(4 W|DUzW 4 IwDQbZb)
+
+"barque"
+(GlZGcAb UgAcW|D GlZRc)
+
+"barquentine"
+(UgGlZGcWz| RfQUfD)
+
+"barrack"
+% CONCRETE MATERIAL PLACE
+(QbAUb)
+
+"barracoon"
+% PLACE
+(DlWk UsWrWUl)
+
+"barracoota"
+% ANIMAL
+(BlZ| AlA|)
+
+"barracouta"
+% ANIMAL
+(BlZ| AlA|Iw)
+
+"barracuta"
+% ANIMAL
+(BlZ| AlA|Iw)
+
+"barrage"
+% MATERIAL ACTION
+(W|IXg UbAjA)
+# a barrage of questions (NOUN) : R|URbIAb\WzD X|IQsD
+# barrage of A (NOUN) : [(AMODS [R|URbIAb\<ADJ>]/WzD) A]
+# barrage balloon (NOUN) : RbWAlW A|As
+# ^lift the barrage (VERB) : \bDQbAWz| UbXfW AfI|IzI DzIW|Gb
+
+"barranca"
+% PLACE
+(^jRAlA)
+
+"barrater"
+% HUMAN
+(UlUlW ArUbXb)
+
+"barrator"
+% HUMAN
+(UlUlW ArUbXb)
+
+"barratry"
+(Us^l|Xl|)
+
+"barrel"
+% UNIT CONCRETE MATERIAL 
+(\lW)
+# NUM1 a barrel (NOUN) : [(NMODS [RcIfIGbW<NOUN>]) NUM1]
+# NUM1 barrel a day (NOUN) : [(NMODS [^bIs<NOUN>]) (NMODS NUM1) RcIfI<NOUN>]
+# NUM1 per barrel (NOUN) : [(NMODS [RcIfIGbW<NOUN>]) NUM1]
+# barrel goods (NOUN) : XsIw
+# ^have a person over a barrel (VERB) : XbA|QbIGcIl WsQX|AW|Ag ^bGb
+# barrels of money (NOUN) : QbD^WzD GlD
+
+"barren"
+% MATERIAL PLACE
+(^lbWQsX|)
+
+"barrenness"
+% CONCRETE MATERIAL 
+(^lbW]k)
+
+"barret"
+(XbAWzD QlXb)
+
+"barrette"
+% CONCRETE ANIMAL MATERIAL 
+(Gs|UQfI| ]|D)
+
+"barretter"
+% CONCRETE ANIMAL MATERIAL 
+(AfXs]b XfDIw AfQ]bA|)
+
+"barricade"
+% CONCRETE MATERIAL PLACE
+(RbWZcA)
+
+"barrier"
+% CONCRETE MATERIAL 
+(XbWRjA)
+# barriers to entry (NOUN) : X|RW|RXbWRjA
+# ^put a barrier between A (VERB) : [(OBJ [(POSS A/Wz|) UbW|<NOUN>]/IzI) W|AbD^b<VERB>]/Gb
+# a mountain barrier (NOUN) : ^fQXsD^bD UbDQcA
+# tariff barrier (NOUN) : AlbDUgXbWRjA
+# trade barrier (NOUN) : QsWjAXbW^c
+
+"barring-out"
+(RcZfA ^cWWs|)
+
+"barrister"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfRXfW RjD^lUb)
+
+"barroom"
+% CONCRETE ANIMAL MATERIAL 
+(RbWb)
+
+"barrow"
+% CONCRETE MATERIAL 
+(RsDQr)
+
+"barrow"
+% CONCRETE MATERIAL ANIMAL
+(RsIBbD Us\lcX|)
+
+"barrow"
+% CONCRETE MATERIAL 
+(UlDUsIg)
+
+"barrowful"
+% CONCRETE MATERIAL 
+(UlDUsIg ^bDGc)
+
+"bart's"
+% PLACE ORGAN
+(UfW RbGlIIlQg RjWWsfD)
+
+"bartender"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbWb\gDGf)
+
+"barter"
+% CONCRETE MATERIAL ECOLIFE
+(QsIQsIAr^lbD)
+# barter system (NOUN) : Ar^lbD QsWjAXg
+# barter trade agreement (NOUN) : AsUbW QsWjA ^jRXfW
+# exchange and barter (NOUN) : QsIQsIAr^lbD
+
+"barterer"
+% HUMAN
+(QsIQsIAr^lbDXb)
+
+"bartizan"
+(QbWGc)
+
+"barton"
+% PLACE
+(WbDHzI)
+
+"barycenter"
+(XsWU|Q)
+
+"barycentre"
+(XsWU|Q)
+
+"baryon"
+% CONCRETE MATERIAL 
+(XsWUlI|RXb)
+
+"baryta"
+(XsW\l)
+# baryta paper (NOUN) : UbX|DWrW WsfDX|
+
+"barytes"
+(XsWXfWUfA)
+
+"barytone"
+(RbI|\lD)
+
+"bas-relief"
+% CONCRETE MATERIAL 
+(Wd\WzD GlGWzI UcA|Q)
+
+"basalt"
+% CONCRETE MATERIAL 
+(^jDQsWbQ)
+
+"bascule"
+% PLACE
+(GlAcAr)
+
+"base"
+% CONCRETE MATERIAL PLACE
+(A|Zl)
+# Korean base (NOUN) : ^bDAsA A|X|
+# base of tree (NOUN) : DbQsWz| Q|\GlW
+# base of taxation (NOUN) : AlbUg]rXsD
+# base on balls (NOUN) : UbAs ZsIIs
+# base pay (NOUN) : A|RlDAzR
+# base period (NOUN) : A|XsDU|
+# base price (NOUN) : A|XsDGbDWs|
+# base rate (NOUN) : A|XsD GcZsIAzQI|
+# base wage (NOUN) : A|RlDAzR
+# base wages (NOUN) : A|RlDAzR
+# base year (NOUN) : A|XsDWjDZb
+# ^get to first base (VERB) : 1 IsIl DbWbAbGb
+# ^go to first base (VERB) : 1 IsIl DbWbAbGb
+# ^lay the base of A (VERB) : [(OBJ [(POSS A/Wz|) A|Zl<NOUN>]/IzI) GbB<VERB>]/Gb
+# nuclear base (NOUN) : ^cA A|X|
+
+"base-court"
+% PLACE
+(UfWWz| RbBb\HzI)
+
+"baseball"
+% CONCRETE MATERIAL ACTION
+(WdAs)
+# a baseball park (NOUN) : WdAsXbW
+# baseball game (NOUN) : WdAsAjWA|
+# major league baseball (NOUN) : QgW|XfI|Az WdAs
+
+"baseballer"
+% HUMAN
+(WdAsAjWA|Xb)
+
+"baseballism"
+(WdAs WrWWf)
+
+"baseballist"
+% HUMAN
+(WdAsAjWA|Xb)
+
+"baseboard"
+(XbWU|A DfISbDX|)
+
+"baseburner"
+(XbGlW DbDIl)
+
+"baselessness"
+(A|ZlWfRUWzQ)
+
+"baseline"
+(RgW|Uz IbW|D)
+
+"baseman"
+% HUMAN
+(DcWdUs)
+# NUM1 {+ORDNUM} baseman (NOUN) : [(NMODS NUM1 {-ORDNUM, +DGTNUM}) IsUs<NOUN>]
+
+"basement"
+% CONCRETE MATERIAL PLACE
+(X|^bU|I)
+
+"baseness"
+% CONCRETE MATERIAL 
+(ZfD^bQ)
+
+"bases"
+(A|Zl)
+
+"bash"
+% MATERIAL ACTION
+(AbW\b)
+# ^have a bash at A (VERB) : [(OBJ A/WzI) ^cRl<VERB>]/Gb
+
+"bashaw"
+% HUMAN
+(AfQsI)
+
+"bashfulness"
+% MATERIAL 
+(UsXsRWf^bQ)
+
+"bashi-bazouk"
+% HUMAN 
+(\f[|Wz| R|XfWAwAsD)
+
+"basic"
+(RgW|U|A)
+# basic balance (NOUN) : A|ZlXfAUsX|
+# basic currency (NOUN) : A|XsD\lW^lb
+# basic data (NOUN) : A|ZlXbIr
+# basic discount rate (NOUN) : A|XsD^bIW|DWwI
+# basic industries (NOUN) : A|AbDUbDWfR
+# basic interest rates (NOUN) : AbXsDW|XbWwI
+# basic materials and fuels (NOUN) : WsfDIrR|
+# basic materials industry (NOUN) : X|ZlXbXcUbDWfR
+# basic rate of exchange (NOUN) : A|XsD^lbDU|Ug
+# basic service (NOUN) : A|RlDUfR|Uz
+# basic standard cost (NOUN) : A|XsD]rXsDWsfDAb
+# basic trend (NOUN) : A|Xl
+# basic unit (NOUN) : WsfDGbDWs|
+
+"basicity"
+(WjQA|Gl)
+
+"basification"
+(WjQA|^lb)
+
+"basil"
+% CONCRETE MATERIAL 
+(RcX|I)
+
+"basilica"
+% CONCRETE MATERIAL PLACE
+(^lbGbW)
+
+"basilicon"
+(WjDAl)
+
+"basilisk"
+% CONCRETE ANIMAL MATERIAL 
+(RcX|II|Uz[z)
+
+"basin"
+% CONCRETE MATERIAL 
+(GcWd)
+# collecting basin (NOUN) : XfUsX|
+# setting basin (NOUN) : XfUsX|
+# tidal basin (NOUN) : AcUfDAf
+# soil of the basin (NOUN) : A|XfWz| ^zIA
+
+"basinet"
+(WkU ZfIQl)
+
+"basinet"
+(WwQlZb)
+
+"basinful"
+% CONCRETE MATERIAL 
+(GcWdAbGzA)
+
+"basis"
+% CONCRETE MATERIAL 
+(A|Zl)
+# basis rate (NOUN) : A|RlDXbIr
+# basis salary (NOUN) : A|RlDAzR
+# commercial basis (NOUN) : UbWWfRRgW|Uz
+# on an equal basis  (ADV) : GcGzW^bAg
+# on the basis of A (ADV) : (ADJUNCT [(OBJ A/WzI) A|ZlIl ^b<VERB>]/^bWj)
+# on the war basis (ADV) : XfDU| ZgXgIl
+# on a daily basis (ADV) : W|IGbWWzIl
+# on a routine basis (ADV) : ]jWUbWU|ZfIfQ
+# on a part-time basis (ADV) : U|AbDXgIl
+# on an individual basis (ADV) : AcAcW|DWzI A|XsDWzIl
+# on AJP basis (ADV) : (ADJUNCT [(AMODS AJP/^bD) RbWU|A<NOUN>]/WzIl)
+# on A basis (ADV) : (ADJUNCT [(NMODS A) RbWU|A<NOUN>]/WzIl)
+	* (ADJUNCT [(NMODS A) RbWU|A<NOUN>]/WzIl)
+	* A (weekly XsAzR)
+# on a temporary basis (ADV) : W|QU|XfAWzIl
+# the basis rate (NOUN) : A|RlD WrAzQIwI
+# the basis schedule (NOUN) : A|RlDWrAzQ]r
+
+"basket"
+% CONCRETE MATERIAL 
+(RbAsD|)
+# ^be left in the basket (VERB) : ]bIGb DbQAjX|Gb
+# ^put all ONE_S  eggs in one basket (VERB) : XfDXcUbDWzI \sW|R^bGb
+# the pick of the basket (NOUN) : AlIzAl AlIzD AfU
+
+"basketball"
+% CONCRETE MATERIAL ACTION
+(DlWAs)
+
+"basketful"
+% CONCRETE MATERIAL 
+(RbAsD| AbGzA)
+
+"basketry"
+(RbAsD| XgXbA)
+
+"basketwork"
+(RbAsD| UgAlW)
+
+"basnet"
+(WkU ZfIQl)
+
+"bason"
+(GcWd)
+
+"basque"
+% HUMAN
+(RbUz[z UbIbQ)
+
+"bass"
+% CONCRETE MATERIAL ANIMAL FOOD
+(DlWWfIw)
+
+"bass"
+% CONCRETE MATERIAL FOOD
+(RbUz QcAXs)
+
+"bass"
+% CONCRETE MATERIAL 
+(XfWzQ)
+
+"bass"
+% CONCRETE MATERIAL PLANT
+(ZbQ]|DbQs)
+
+"basset"
+% CONCRETE ANIMAL MATERIAL 
+(DlGs)
+
+"basset"
+% CONCRETE ANIMAL MATERIAL 
+(RcU|\z)
+
+"bassinet"
+% CONCRETE MATERIAL 
+(WwQlZb)
+
+"bassist"
+(RgW|U|Uz\z)
+
+"basso"
+% CONCRETE MATERIAL 
+(XfWzQ)
+# basso profundo (NOUN) : Zl|XfWzQ
+
+"basso-relievo"
+% CONCRETE MATERIAL 
+(Wd\WzD GlGWzI UcA|Q)
+
+"bassoon"
+% CONCRETE ANIMAL MATERIAL 
+(RfUsD)
+
+"bassoonist"
+% HUMAN
+(RfUsD WjDXsXb)
+
+"basswood"
+% CONCRETE MATERIAL PLANT
+(ZbQ]|DbQs)
+
+"bast"
+% PLANT
+(ZbQ]|DbQs)
+
+"bastard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbUcWWb)
+
+"bastardization"
+% MATERIAL ACTION
+(UfXbIl W|DXfW)
+
+"bastardy"
+% CONCRETE MATERIAL HUMAN
+(UfZsI)
+
+"bastinado"
+% CONCRETE ANIMAL MATERIAL ACTION
+(AlDXbW)
+
+"basting"
+% CONCRETE MATERIAL 
+(U|Z|QX|I)
+
+"bastion"
+% CONCRETE MATERIAL 
+(DzWRl)
+
+"bat"
+% CONCRETE ANIMAL MATERIAL HOMONYM SPORTS
+(RbAXs|)
+# bat breaker (NOUN) : AbW\bXb
+# blind as a bat (ADJ) : XbWD|QW|Db GbIzQWfRUGb
+
+# ^cross bats with A (VERB) : [(ADJUNCT A/Alb) U|^bR^b<VERB>]/^bGb
+# ^have bats in the belfry (VERB) : QfI|Ab GlIGb
+# ^go to bat for A (VERB) : [(OBJ A/WzI) WsfDXl^b<VERB>]/^bGb
+# off ONE_S own bat (ADV) : Xg ^|QWzIl
+# off the bat (ADV) : AlG
+
+"bat-pay"
+% ECOLIFE
+(XfDX| UsGbW)
+
+"bat1nn"
+(WdAs RbWQbWW|)
+
+"batch"
+% CONCRETE MATERIAL 
+(^bD Ul\)
+# first batch of A (NOUN) : [(POSS [(NMODS [ZfURfDYc<NOUN>]) RsD<NOUN>]/Wz|) A]
+
+"bate"
+% MIND
+(DlWjWsQ)
+# in a bate (ADV) : ^lbAb DbUf
+
+"bate"
+(\bI^l|WcA)
+
+"bateau"
+% PLACE
+(RbGbAW| ]jW]jW^bD AbWRc)
+# bateau bridge (NOUN) : XsAr
+
+"bath"
+% CONCRETE MATERIAL ACTION
+(QlAWrA)
+# Bath brick (NOUN) : WjWAsAUbD UsUGlI
+# Bath chair (NOUN) : Rb[s|GbII|D Wz|Xb
+# Bath Oliver (NOUN) : R|Uz[|U
+# Bath stone (NOUN) : AfDZsAWrW ^z|D UfAXc
+# Turkish bath (NOUN) : \fWf[|U|A QlAWrA
+# ^be in bath (VERB) : QlAWrA^bGb
+# ^have a bath (VERB) : QlAWrA^bGb
+# hot bath (NOUN) : GfWsDQsI QlAWrA
+# hot spring bath (NOUN) : WlDZfD QlAWrA
+# private bath (NOUN) : XfDWrW QlAWrAU|I
+# public bath (NOUN) : AlWXsW QlAWrA\bW
+# steam bath (NOUN) : XzWA| QlAWrA
+# succession bath (NOUN) : DcWWlD ArGc QlAWrA
+# ^take a bath (VERB) : QlAWrA^bGb
+# ^take the baths (VERB) : WlDZfDWg QlAWrA^bGb
+# the Order of the Bath (NOUN) : RbGz ^sDWs|
+# vapor bath (NOUN) : XzWA| QlAWrA
+
+"bathe"
+% ACTION
+(UsWjW)
+# ^have a bathe (VERB) : UsWjW^bGb
+# ^take a bathe (VERB) : UsWjW^bGb
+
+"bather"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsWjWXb)
+
+"bathhouse"
+% PLACE
+(WrAXbW)
+
+"bathing"
+% ACTION
+(QlAWrA)
+
+"bathing-man"
+% HUMAN
+(QlAWrA\bWWz| AlWrWW|D)
+
+"bathometer"
+(UsU|QZzAIdWA|)
+
+"bathorse"
+% ANIMAL
+(X|QQbI)
+
+"bathos"
+% CONCRETE MATERIAL 
+(XfQAbWRfR)
+
+"bathrobe"
+% CONCRETE ANIMAL MATERIAL 
+(^lbXbWRlA)
+
+"bathroom"
+% CONCRETE MATERIAL PLACE
+(QlAWrAU|I)
+
+"bathtub"
+% CONCRETE ANIMAL MATERIAL 
+(QlAWrA\lW)
+# bathtub gin (NOUN) : X|RWgUf QbDGzD ^bRUfWX|D
+
+"bathymeter"
+(UsU|Q ZzAIdWA|)
+
+"bathymetry"
+% MATERIAL 
+(UsU|Q ZsAIdWUsI)
+
+"bathyscaphe"
+% CONCRETE ANIMAL MATERIAL
+(U|Q^cWrW XbQ^bQ)
+
+"bathysphere"
+% CONCRETE ANIMAL MATERIAL 
+(As^jW XbQUsA|)
+
+"batik"
+% CONCRETE MATERIAL 
+(DbR WjQUcARfR)
+
+"batiste"
+(WjIRAg YbD UbQRg)
+
+"batman"
+% HUMAN
+(GbWRfDRjW)
+
+"baton"
+% CONCRETE MATERIAL 
+(X|^s|RlW)
+# baton charge (NOUN) : AjWZbIWz| UsUb
+# baton gun (NOUN) : Rb\lD ZlW
+# baton sinister (NOUN) : UfXbWz| ]rU|
+
+"batrachia"
+% ANIMAL
+(QsQ|WdWUfIw)
+
+"batsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\bXb)
+
+"batt"
+(W|RsIUlQ)
+
+"batta"
+(XfDU| AbRlW)
+
+"battalion"
+% MATERIAL 
+(GcGc)
+
+"battels"
+(U|AR|)
+
+"batten"
+% CONCRETE MATERIAL 
+(RbG|)
+
+"batten"
+% CONCRETE MATERIAL 
+(XbAWzD DfISbDX|)
+
+"batter"
+% CONCRETE MATERIAL 
+(RbDXsA)
+
+"batter"
+% CONCRETE MATERIAL 
+(WlbDQbD^bD AjWUb)
+
+"batter"
+% CONCRETE MATERIAL HUMAN
+(\bXb)
+# batter's box (NOUN) : \bXbUfA
+
+"battery"
+% CONCRETE MATERIAL 
+(XfDX|)
+# ^change ONE_S  battery (VERB) : AlWAjA RbW^dWWzI RbBsGb
+# storage battery (NOUN) : ZsAXfDX|
+# secondary battery (NOUN) : ZsAXfDX|
+# the Battery (NOUN) : DwWrAU| QcD^b\bDUfQ DbQGbDWz| X|QjW
+# ^turn a person's battery against himself (VERB) : UbWGcRbWWz| DlDRfRWzI WjAW|WrW^bGb
+# a battery of boilers (NOUN) : ^bDXlWz| RlW|IIf
+
+"batting"
+% MATERIAL ACTION
+(\bAjA)
+# batting average (NOUN) : \bWwI
+# batting eye (NOUN) : UfDAsWbD
+# batting order (NOUN) : \bUsD
+
+"battle"
+% MATERIAL ACTION
+(VbWsQ)
+# a sea battle (NOUN) : ^cXfD
+# ^accept battle (VERB) : WzWXfD^bGb
+# ^be killed in battle (VERB) : XfDUb^bGb
+# close battle (NOUN) : XfRXfD
+# decisive battle (NOUN) : AjIXfD
+# ^do battle (VERB) : VbWsQWzI U|XbA^bGb
+# ^fall in battle (VERB) : XfDUb^bGb
+# ^fight a battle (VERB) : ^bDRb\bW VbWsGb
+# ^gain a battle (VERB) : VbWsQWg W|A|Gb
+# general's battle (NOUN) : XfDIdAXfD
+# ^give battle (VERB) : AlWAjA^bGb
+# ^join battle (VERB) : WzWXfD^bGb
+# labor battle (NOUN) : DlGlWRsDXcW
+# labour battle (NOUN) : DlGlWRsDXcW
+# ^lose a battle (VERB) : VbWsQWg X|Gb
+# solder's battle (NOUN) : QsIjAXfD
+# the order of battle (NOUN) : XfD\s UfWjI
+# the battle line (NOUN) : XfDUfD
+# the line of battle (NOUN) : XfDUfD
+
+"battle-ax"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+([zD GlB|)
+
+"battle-axe"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+([zD GlB|)
+
+"battledore"
+% MATERIAL 
+(SbIIc RbWQbWW|)
+# ^play battledore and shuttlecock (VERB) : UfWdW XgA|ZbA|IzI ^bGb
+
+"battlefield"
+% MATERIAL PLACE
+(VbWsQ\f)
+
+"battleground"
+% MATERIAL PLACE
+(VbWsQ\f)
+
+"battlement"
+% CONCRETE ANIMAL MATERIAL 
+(ZlWWbDW| W|VDzD ^wWRjA)
+
+"battleplane"
+(XfD\sA|)
+
+"battleship"
+% CONCRETE ANIMAL MATERIAL 
+(XfD^bQ)
+
+"battlewaggon"
+(XfD^bQ)
+
+"battlewagon"
+(XfD^bQ)
+
+"battue"
+% ACTION
+(QlIW|)
+
+"bauble"
+% CONCRETE MATERIAL 
+(VbAsIj QsIAfD)
+
+"baudechin"
+(ZfDAc)
+
+"baulk"
+(XbW^c)
+
+"baume"
+(R|XsWAkWz|)
+
+"bauxite"
+% CONCRETE MATERIAL 
+(WbIIwQ|DwQWz| WsfDAlbW)
+
+"bavarian"
+% HUMAN
+(RbRbI|Wb UbIbQ)
+
+"bawbee"
+(RbD ]gD|)
+
+"bawd"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]lXs)
+
+"bawdry"
+(WzQGbQ)
+
+"bawl"
+% ACTION
+(Wl|Z|Q)
+
+"bay"
+% CONCRETE ANIMAL MATERIAL PLACE
+(RgW|)
+# ^be at bay (VERB) : QbAGbIzD AlIQlAWg Zf^bGb
+# ^stand at bay (VERB) : QbAGbIzD AlIQlAWg Zf^bGb
+# ^bring to bay (VERB) : QlIWb Df^Gb
+# ^drive to bay (VERB) : QlIWb Df^Gb
+# ^hold at bay (VERB) : QlIWb Df^Wf Dl^Z|X| WbD^Gb
+# ^have at bay (VERB) : QlIWb Df^Wf Dl^Z|X| WbD^Gb
+# ^keep an enemy at bay (VERB) : XfAWzI GbAbWlX| QlU^bAg ^bGb
+# ^hold an enemy at bay (VERB) : XfAWzI GbAbWlX| QlU^bAg ^bGb
+# ^turn to bay (VERB) : QlII|Gb QlU^c RbD^bW^bGb
+# ^come to bay (VERB) : QlII|Gb QlU^c RbD^bW^bGb
+# the Bay State (NOUN) : QcUbZsUgZzXs
+
+"bayberry"
+% CONCRETE PLANT MATERIAL 
+(WsfIAkUs WjIQc)
+
+"bayonet"
+% CONCRETE ANIMAL MATERIAL 
+(ZlWAfQ)
+# at the point of the bayonet (ADV) : QsIjAWzIl
+# by the bayonet (ADV) : QsIjAWzIl
+
+"bayou"
+% CONCRETE MATERIAL PLACE
+(Dz]Ab\WzD ^sQ|)
+# the Bayou State (NOUN) : Q|U|U|]|Xs
+
+"bazaar"
+% CONCRETE MATERIAL PLACE
+(DlZfDU|XbW)
+
+"bazar"
+% CONCRETE MATERIAL PLACE
+(U|XbW)
+
+"bazooka"
+(RbXs[b]l)
+
+"bazookaman"
+% HUMAN
+(RbXs[b]lRjW)
+
+"be-all"
+(XfDZg)
+# be all and end all (NOUN) : XfDZg
+
+"be-in"
+% ORGAN
+(UbAr QlW|Q)
+
+"beach"
+% CONCRETE MATERIAL PLACE
+(^cRjD)
+
+
+"beach-la-mar"
+(UfDbQ \c]jWWdW RbWQjDWz| Ub\sI| WjWWf)
+
+"beachcomber"
+([zD ]bGl)
+
+"beachhead"
+% PLACE
+(UbWIwAAfXfQ)
+
+"beachmaster"
+% HUMAN
+(^cRjWGc X|^s|AlbD)
+
+"beachscape"
+(^cWbD ]sWAjW)
+
+"beachwear"
+(R|Z| WsgWf)
+
+"beacon"
+% CONCRETE MATERIAL 
+(^lcURsI)
+# an aerial beacon (NOUN) : ^bWAlW GzWGc
+# a radio beacon (NOUN) : QsUfD ]rX|
+
+"bead"
+% CONCRETE MATERIAL 
+(AsUzI)
+# ^draw a bead on A (VERB) : [(OBJ A/WzI) (MODS [XbI<ADV>]) AjDdW^b<VERB>]/Gb
+# ^draw a bead upon A (VERB) : [(OBJ A/WzI) (MODS [XbI<ADV>]) AjDdW^b<VERB>]/Gb
+# ^tell ONE_S  beads (VERB) : A|GlQsDWzI Wl|Gb
+# ^count ONE_S  beads (VERB) : A|GlQsDWzI Wl|Gb
+# ^say ONE_S  beads (VERB) : A|GlQsDWzI Wl|Gb
+
+"beadhouse"
+% ORGAN PLACE
+(WdWWwAWsfD)
+
+"beading"
+% CONCRETE MATERIAL 
+(AsUzI UgAlW)
+
+"beadle"
+% HUMAN
+(ArAs X|AWsfD)
+
+"beadledom"
+(^bAzRAlbDI| AzDUfW)
+
+"beadroll"
+(QjWRs)
+
+"beadsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdWWwAWsfD UsWrWXb)
+
+"beadwork"
+(AsUzI UgAlW)
+
+"beagle"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD UbDdWAc)
+
+"beagling"
+% ACTION
+(R|AzIAcIzI UbWrW^bDzD \lB| UbDdW)
+
+"beak"
+% CONCRETE MATERIAL 
+(RsI|)
+
+"beaker"
+% CONCRETE MATERIAL 
+(R|[f)
+
+"beam"
+% CONCRETE MATERIAL 
+(AlbWUfD)
+# abaft the beam (ADV) : RbIl Wj]YlA Gs|Il
+# before the beam (ADV) : RbIl Wj]YlA Wb]WzIl
+# ^get on the beam (VERB) : QbW|[zWz| AbXbW HlAHlA^bAg UlI|Ab GzIWfAbDzD YlAWg UfGb
+# ^kick the beam (VERB) : WbRGlGl|Gb
+# ^strike the beam (VERB) : WbRGlGl|Gb
+# on the beam (ADV) : AsgGlWg WlIIb
+# a beam in ONE_S  eyes (NOUN) : XbA|Gl QlIzDzD [zD AjIXfQ
+# a beam in ONE_S  own eyes (NOUN) : XbA|Gl QlIzDzD [zD AjIXfQ
+# a woman broad in the beam (NOUN) : WfWGfWW|Ab [zD WjXb
+# the beams of smiles (NOUN) : WsUWzQWz| QjWIbW^bD R|Z
+
+"beam-ends"
+% MATERIAL 
+(GzIRlWz| Bz\)
+# on her beam ends (ADV) : AfWz| XfDRlAGl|Wf
+# on ONE_S  beam ends (ADV) : AfWz| XfDRlAGl|Wf
+
+"bean"
+% CONCRETE MATERIAL PLANT FOOD
+([lW)
+# ^get beans (VERB) : BsX|IbQ GzGGb
+# ^give a person beans (VERB) : DbQWzI BsX|XGb
+# ^have too much beans (VERB) : WsfDA|Ab DfQZj ^zIzGb
+# ^know how many beans make five (VERB) : Bl|Ab W|VGb
+# marama bean (NOUN) : QbIbQb [lW 
+# ^not care a bean (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+# ^not know beans (VERB) : WbQsAfUGl QlIzGb
+# small beans (NOUN) : ]b\
+# ^spill the beans (VERB) : R|Q|IWzI \fIWfDl^Gb
+
+"beanbag"
+% CONCRETE ANIMAL MATERIAL 
+(AlWA|)
+
+"beanball"
+(R|DRlI)
+
+"beanery"
+% PLACE
+(VbAsIj WzQU|AXfQ)
+
+"beanfeast"
+(QbWzI XbDZ|)
+
+"beanie"
+% CONCRETE ANIMAL MATERIAL 
+(RsW|DQl)
+
+"beano"
+% MATERIAL 
+(QbWzI XbDZ|)
+
+"beanpod"
+([lWBbAX|)
+
+"beanpole"
+(Rf\|QGc)
+
+"beanstalk"
+([lWXsIA|)
+
+"beany"
+% CONCRETE ANIMAL MATERIAL 
+(RsW|DQl)
+
+"bear"
+% CONCRETE ANIMAL MATERIAL 
+(AlQ)
+# a brown bear (NOUN) : RsIAlQ
+# a polar bear (NOUN) : RsAAzAAlQ
+# a regular bear (NOUN) : QbZ| AlQ Ab\WzD UbIbQ
+# a bear for punishment (NOUN) : ^bAGcIzI XbI AjDG|DzD UbIbQ
+# play the bear with A (VERB) : [(OBJ A/WzI) QbWZj Dl^<VERB>]/Gb
+# polar bear (NOUN) : RsAAzAAlQ
+# the Great Bears (NOUN) : Dc WsWXlb
+# the Little Bears (NOUN) : Ul WsWXlb
+
+"bearbaiting"
+% ACTION
+(AlQDlII|A|)
+
+"bearberry"
+% CONCRETE MATERIAL PLANT FOOD
+(WsfIAwI)
+
+"beard"
+% CONCRETE MATERIAL 
+(\fAUsWjQ)
+# in spite of a person's beard (ADV) : DbQWz| HzUWg AfUzIIf
+# ^speak in ONE_S  beard (VERB) : XsWWfIAfI|Gb
+# to a person's beard (ADV) : DbQWzI QbXGcDl^Al
+
+"bearer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsDRbDW|D)
+# bearer bond (NOUN) : QsA|QjWZcAsfD
+# bearer check (NOUN) : \|ZbQW|DRsIUs]r
+# bearer corps (NOUN) : Ws|UcW AbD^lGc
+# bearer company (NOUN) : Ws|UcW AbD^lGc
+# bearer securities (NOUN) : X|ZbQW|DRsI ZcAsfD
+# bearer checks (NOUN) : QsA|QjW ZcAsfD
+# payable to bearer (NOUN) : X|ZbQW|D X|RsI
+
+"bearing"
+% CONCRETE MATERIAL 
+(XbUg)
+# beyond all bearing (ADV) : GlXf^| ZbQWzI Us WfRUDzD
+# past all bearing (ADV) : GlXf^| ZbQWzI Us WfRUDzD
+# ^bring a person to his bearings (VERB) : DbQWzI AzWgAg XfA^bR^bD XbI|Wg WbDX^|Gb
+# ^consider it in all its bearings (VERB) : WlDAbX RbWQjDWzIl QsDXgIzI AlZbI^bGb
+# ^take it in all its bearings (VERB) : WlDAbX RbWQjDWzIl QsDXgIzI AlZbI^bGb
+# ^have no bearing on the question (VERB) : Az QsDXgWg WbQsIfD AlbDAkGl WfRUGb
+# ^lose ONE_S  bearings (VERB) : RbW^dWWzI QlIzAg Gl|Gb
+# ^be out_of ONE_S  bearings (VERB) : ZfX|IzI QlIzAg Gl|Gb
+# ^take the bearings (VERB) : Ub\cIzI ^lbAW|D^bGb
+
+"bearskin"
+% CONCRETE MATERIAL 
+(AlQ AbXsA)
+
+"beast"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdUs)
+# beast of burden (NOUN) : X|QDbIzDzD X|QUzW
+# beast of draft (NOUN) : X|QDbIzDzD X|QUzW
+# beast of chase (NOUN) : WjRUs
+# beast of pray (NOUN) : QcWUs
+# ^make a beast of ONESELF (VERB) : WdUsUfWWzI RbI^s|^bGb
+# the beast in man (NOUN) : W|DAbDWz| UsUfW
+# wild beast (NOUN) : WdUs
+# the Beast (NOUN) : AzI|UzGlWz| XfA
+
+"beastliness"
+% STATE
+(RsIAjI)
+
+"beat"
+% CONCRETE MATERIAL ACTION
+(HcI|A|)
+# in beat (ADV) : U|AkWz| ZsAb AwZ|AXfAWzIl WsQX|AWjUf
+# out_of beat (ADV) : U|AkWz| ZsAb RsIAwZ|AXfAWzIl WsQX|AWjUf
+# off the beat (ADV) : RbAXbAb AlIzX| WbD^Wb
+# off beat (ADV) : RbAXbAb AlIzX| WbD^Wb
+
+"beat-beat"
+(Q|UbW|I ZsXfARbWRfR)
+
+"beatchick"
+% HUMAN
+(R|\zXlAWz| WjXb)
+
+"beatdom"
+(R|\zXlAWz| Ub^l|)
+
+"beater"
+% CONCRETE ANIMAL MATERIAL 
+(GsGzIA|DzD UbIbQ)
+
+"beatification"
+% MATERIAL 
+(ZsARlAWzI RbGWzQ)
+
+"beating"
+% MATERIAL ACTION
+(GsGzIA|Q)
+# ^give a boy good beating (VERB) : UlDjDWzI ^lGl|Ag QcX|I^bGb
+
+"beatism"
+(R|\z XsWz|)
+
+"beatismist"
+(R|\z XsWz|Xb)
+
+"beatitude"
+(X|RlA)
+
+"beatnik"
+% HUMAN
+(R|\zXlAWz| UbIbQ)
+
+"beau"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQXbZ|DAs)
+
+"beaune"
+(XfA]lGlXsWz| UbW]r)
+
+"beaut"
+(AzDUb^bD AfU)
+
+"beauteousness"
+% CONCRETE MATERIAL 
+(WbIzQGbWsQ)
+
+"beautician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|WrWUb)
+
+"beautification"
+% MATERIAL 
+(Q|^lb)
+
+"beautifier"
+(^lbXbW]sQ)
+
+"beautiful"
+(Q|)
+# ^have an eye for the beautiful (VERB) : U|QQ|WbDW| W|VGb
+
+"beauty"
+% CONCRETE MATERIAL 
+(WbIzQGbWsQ)
+# the wit and beauty of the town (NOUN) : XbWWbDWz| XcXbAbW|DGzI
+
+"beaux"
+% HUMAN
+(QfUXbWW|GzI)
+# beaux yeux (NOUN) : WbIzQGbWsD DsD
+
+"beaux-arts"
+% ART
+(Q|UsI)
+
+"beaver"
+% CONCRETE ANIMAL MATERIAL 
+(R|Rf)
+# ^work like a beaver (VERB) : RsX|IfD^| W|I^bGb
+
+"beaver"
+% CONCRETE ANIMAL MATERIAL 
+(\fARbGW|)
+
+"bebop"
+% MATERIAL 
+(R|RbR)
+
+"bebopper"
+% HUMAN
+(R|RbR AbUs)
+
+"beccafico"
+% ANIMAL
+(Bl|BlI|)
+
+"bechamel"
+% CONCRETE MATERIAL FOOD
+(^z|Al X|D^bD UlUz)
+
+"beck"
+% ACTION
+(AlAcUX|U)
+# ^be at ONE_S  beck (VERB) : DbQW| U|[|DzD GcIl ^bGb
+# ^be at ONE_S  beck and call (VERB) : DbQW| U|[|DzD GcIl ^bGb
+# ^have a person at ONE_S  beck (VERB) : DbQWzI Xg QbWzQGcIl RsIjQfAGb
+
+"beck"
+(U|Dc)
+
+"becket"
+(GbI|Q XsI)
+
+"beckon"
+(U|D^l)
+
+"becoming"
+(UcWUfW)
+
+"becomingness"
+% CONCRETE MATERIAL 
+(WfWsII|Q)
+
+"bed"
+% CONCRETE MATERIAL PLACE
+(Z|QGc)
+# a feather bed (NOUN) : A|U\fI W|RsI
+# ^be brought to bed (VERB) : ^cUbD^bGb
+# ^be brought to bed of a child (VERB) : ^cUbD^bGb
+# ^be confinced to ONE_S  bed (VERB) : RjWWzIl DsWsf W|VGb
+# ^be in bed | (VERB) : XbAl W|VGb {+HAVESLOT}
+# bed and board (NOUN) : UsARbAAlb U|AUb
+# bed of down (NOUN) : WbDIbA^bD U|DRsD
+# bed of flowers (NOUN) : WbDIbA^bD U|DRsD
+# bed of roses (NOUN) : WbDIbA^bD U|DRsD
+# bed of honor (NOUN) : XfDUbXbWz| QsGfQ
+# bed of honour (NOUN) : XfDUbXbWz| QsGfQ
+# bed of thorns (NOUN) : AbU| RbWUfA
+# ^die in ONE_S  bed (VERB) : Xg QjWWg XsAGb
+# ^get out_of bed (VERB) : W|IWfDbGb
+# ^get out_of bed on the right side (VERB) : A|RsDW| Xl^Gb
+# ^get out_of bed on the wrong side (VERB) : A|RsDW| DbSzGb
+# ^go to bed (VERB) : XbIfAbGb
+# ^keep ONE_S  bed (VERB) : RjWWzIl DsWsf W|VGb
+# leather bed (NOUN) : AbXsAWzI GcD Z|QGc
+# ^leave ONE_S  bed (VERB) : A|UbW^bGb
+# ^lie in bed (VERB) : XbQXbI|Wg DsRGb
+# ^make ONE_S  bed (VERB) : XbQXbI|IzI AcGb
+# ^make the bed (VERB) : XbQXbI|IzI AcGb
+# ^put to bed (VERB) : XcWsGb
+# ^separate from bed and board (VERB) : RsRsAb RjIAf^bGb
+# ^sit up in bed (VERB) : XbQXbI|Wg W|IWfDb WbDXGb
+# ^take to ONE_S  bed (VERB) : WbI^WbDsRGb
+
+"bed-in"
+% ACTION
+(Zs|Z|Q ^bWWz|)
+
+"bedbug"
+% CONCRETE ANIMAL MATERIAL 
+(R|DGc)
+
+"bedchamber"
+% CONCRETE ANIMAL MATERIAL 
+(Z|QU|I)
+
+"bedclothes"
+% CONCRETE ANIMAL MATERIAL 
+(Z|QAs)
+
+"bedcover"
+% CONCRETE ANIMAL MATERIAL 
+(Z|QGcRl)
+
+"bedder"
+% HUMAN
+(XbQXbI|IzI XsDR|^bDzD UbIbQ)
+
+"bedding"
+% CONCRETE MATERIAL 
+(Z|QAs)
+
+"bedevilment"
+% STATE
+(As|U|DGzII|Q)
+
+"bedfellow"
+% HUMAN
+(WjDAlbDUfWWzI AbX|D UbIbQ)
+# an awkward bedfellow (NOUN) : Gc^bA| AfRsA^bD UbIbQ
+# a strange bedfellow (NOUN) : UlAQbWzQWzI QlIzI GlWIr
+
+"bedgeter"
+% HUMAN
+(WkUbDWzI YbDzD UbIbQ)
+
+"bedgown"
+(XbQWlU)
+
+"bedlam"
+% CONCRETE ANIMAL MATERIAL 
+(Q|Z|D X|U)
+
+"bedlamite"
+% HUMAN
+(Q|Z|AlbWW|)
+
+"bedlington"
+(RgGzI|W\fD)
+
+"bedmaker"
+% HUMAN
+(Z|QU|I GbQGbW ^bW|D)
+
+"bedmate"
+% HUMAN
+(GlWZ|QXb)
+
+"bedouin"
+% HUMAN
+(RgGzWs|D UbIbQ)
+
+"bedpan"
+(DbDUbWA|)
+
+"bedpiece"
+(RbGZ|Q]bD)
+
+"bedplate"
+(RbGZ|Q]bD)
+
+"bedpost"
+(Z|QGc A|GsW)
+# between you and me and the bedpost (ADV) : WbQsGl QlIzAg
+# in the twinkling of a bedpost (ADV) : UsDU|AAbDWg
+
+"bedrock"
+% CONCRETE MATERIAL 
+(A|Zl)
+# the bedrock price (NOUN) : Zl|Xf AbAjA
+# ^come down to the bedrock (VERB) : X|DUbWWzI RbIA^|Gb ^bD]sD WfRUW| Gl|Gb
+# ^get down to the bedrock (VERB) : X|DUbWWzI RbIA^|Gb
+
+"bedroll"
+(^wGcWrW Z|QAs)
+
+"bedroom"
+% CONCRETE ANIMAL MATERIAL PLACE
+(Z|QU|I)
+
+"bedside"
+% PLACE
+(Z|QGc Aj\)
+# ^be at a person's bedside (VERB) : DbQWz| QfI|Qb\WgUf U|XsWGzIGb
+# ^be by a person's bedside (VERB) : DbQWz| QfI|Qb\WgUf U|XsWGzIGb
+# ^have a good bedside manner (VERB) : ^lbDXbIzI XbI GbIsGb
+
+"bedsitter"
+% PLACE
+(Z|QU|I AjQ AfU|I)
+
+"bedsittingroom"
+% PLACE
+(Z|QU|I AjQ AfU|I)
+
+"bedsore"
+(WrAZbW)
+
+"bedspread"
+% CONCRETE ANIMAL MATERIAL 
+(Z|QGcGf]Ac)
+
+"bedspring"
+% CONCRETE ANIMAL MATERIAL 
+(Z|QGcWz| WrWUsZfI)
+
+"bedstead"
+% CONCRETE ANIMAL MATERIAL 
+(Z|QGc)
+
+"bedstraw"
+% MATERIAL 
+(UlA X|])
+
+"bedtime"
+% MATERIAL TIME
+(Zs|Z|Q U|AbD)
+
+"bedwetting"
+% ACTION 
+(WwDrXzW)
+
+"bee"
+% CONCRETE ANIMAL MATERIAL 
+(RfI)
+# a spelling bee (NOUN) : ZfIXb AjWA|Gc^l|
+# ^have a bee in ONE_S  bonnet (VERB) : QsWfUW|DAb AlIHlI^| UcWAbA^bAl W|VGb
+# ^have a bee in ONE_S  head (VERB) : QsWfUW|DAb AlIHlI^| UcWAbA^bAl W|VGb
+# the queen bee (NOUN) : WjWlbWRfI
+# the working bee (NOUN) : W|IRfI
+# bee bird (NOUN) : RfIXbRW|Uc
+# bee eater (NOUN) : RfIXbRW|Uc
+
+"bee-liner"
+(DbXWzD X|AAs)
+
+"beebread"
+% CONCRETE MATERIAL 
+(BsIRfIWz| U|AIdW)
+
+"beech"
+% CONCRETE MATERIAL PLANT
+(DfGlRbQDbQs)
+
+"beechnut"
+% CONCRETE MATERIAL 
+(DfGl RbQDbQsWz| WjIQc)
+
+"beef"
+% CONCRETE ANIMAL MATERIAL FOOD
+(Ul|AlA|)
+# beef extract (NOUN) : Ul|AlA| WgAUz
+# beef system (NOUN) : RgGlAzRWjXg
+# corned beef (NOUN) : UlAzQWg XfIW|D Ul|AlA|
+# horse beef (NOUN) : QbIAlA|
+# a beef session (NOUN) : RsI]jW \lIl^l|
+
+"beefalo"
+% ANIMAL
+(GzIUlWlb U|AWrWWsWz| ArRcIl UcWA|D Ul)
+
+"beefcake"
+(DbQUfW WwAZg UbX|D)
+
+"beefeater"
+% HUMAN
+(Ul|AlA|IzI QfADzD UbIbQ)
+
+"beefsteak"
+% CONCRETE MATERIAL FOOD
+(GsBfRAg XfQ|D Ul|AlA|UXfQ)
+
+"beehive"
+% CONCRETE ANIMAL MATERIAL 
+(BsIRfIX|R)
+
+"beehouse"
+% PLACE
+(WdWRlWUl)
+
+"beekeeper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdWRlWAb)
+
+"beeline"
+% MATERIAL 
+(X|AUfD)
+# in a beeline (ADV) : W|IX|AUfDWzIl
+# take a beeline for A (VERB) : [(ADJUNCT A/Il) (MODS [HlARbIl<ADV>]) DbWbAb<VERB>]/Gb
+# make a beeline for A (VERB) : [(ADJUNCT A/Il) (MODS [HlARbIl<ADV>]) DbWbAb<VERB>]/Gb
+# strike a beeline for A (VERB) : [(ADJUNCT A/Il) (MODS [HlARbIl<ADV>]) DbWbAb<VERB>]/Gb
+
+"beelzebub"
+% HUMAN
+(QbWlbW)
+
+"beemaster"
+% HUMAN
+(WdWRlWAb)
+
+"beep"
+(S|A UlI|)
+
+"beeper"
+(S|A UlI|IzI DcDzD XbWZ|)
+
+"beer"
+% CONCRETE MATERIAL FOOD
+(QcAXs)
+# ^be in beer (VERB) : QcAXsWg Zs|^cW|VGb
+# beer on draught (NOUN) : UcWQcAXs
+# draught beer (NOUN) : UcWQcAXs
+# black beer (NOUN) : ^zAQcAXs
+# bock beer (NOUN) : GlA^bD QcAXs
+# duck beer (NOUN) : GlA^bD QcAXs
+# double beer (NOUN) : GlA^bD QcAXs
+# Munich beer (NOUN) : Qs|D^gD QcAXs
+# small beer (NOUN) : WdA^bD QcAXs
+# a dark beer (NOUN) : ^zAQcAXs
+# ginger beer (NOUN) : UcWbWWzI Df^WzD ZfWIdWWzQIr
+# ^think small beer of A (VERB) : [(OBJ A/WzI) Wd\XbRWbRl<VERB>]/Gb
+
+"beerbust"
+(QcAXs ]bWb\|)
+
+"beerhouse"
+% PLACE
+(R|Wf ^lWlI)
+
+"beestings"
+(ZfWzQ YbDzD WsWw)
+
+"beeswax"
+% CONCRETE MATERIAL 
+(Q|I\bR)
+
+"beeswing"
+(GfBfWW|)
+
+"beet"
+% CONCRETE MATERIAL PLANT
+(Ub\bWQsWs)
+# ^go to beet red (VERB) : UcSbIAcX|Gb
+# red beets (NOUN) : AzDGc
+# the white beet (NOUN) : Ub\bW QsWs
+# the sugar beet (NOUN) : Ub\bW QsWs
+
+"beetle"
+% CONCRETE ANIMAL MATERIAL 
+(]sWGgWW|)
+# black beetle (NOUN) : X|DG|
+
+"beetlehead"
+% HUMAN
+(WfIAbDW|)
+
+"beetradish"
+% PLANT
+(AzDGc)
+
+"beetroot"
+% CONCRETE MATERIAL 
+(Ub\bWQsWsWz| SsI|)
+
+"beeves"
+% FOOD
+(Ul|AlA|)
+
+"begetter"
+% HUMAN
+(XbU|AWzI Db^DzD UbIbQ)
+
+"beggar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfX|)
+# ^die a beggar (VERB) : AcAUb^bGb
+
+"beggar's-lice"
+% PLANT
+(WlUWg WjIQcAb GbIIbRs\DzD U|AQsI)
+
+"beggar-lice"
+% CONCRETE ANIMAL MATERIAL PLANT
+(WlUWg WjIQcAb GbIIbRs\DzD U|AQsI)
+
+"beggardom"
+(AfX| Ub^l|)
+
+"beggarmyneighbor"
+% ACTION
+(\zIfQ]zDlIW|)
+
+"beggary"
+% CONCRETE MATERIAL STATE
+(AfX|U|DUg)
+
+"begging"
+% CONCRETE MATERIAL 
+(AfX| UcW^lbI)
+
+"beginner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZlRlXb)
+# beginner's luck (NOUN) : ZlU|QXbWz| ^cWWsD
+
+"beginning"
+% CONCRETE MATERIAL 
+(U|XbA)
+# at the beginning (ADV) : ZfWzQWgDzD
+# at the beginning of A (ADV) : (ADJUNCT [(POSS A/Wz|) ZfWzQ<NOUN>]/WgDzD)
+# at the beginning of January $ (ADV) : (ADJUNCT [1WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of February $ (ADV) : (ADJUNCT [2WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of March $ (ADV) : (ADJUNCT [3WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of April $ (ADV) : (ADJUNCT [4WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of May $ (ADV) : (ADJUNCT [5WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of June $ (ADV) : (ADJUNCT [6WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of July $ (ADV) : (ADJUNCT [7WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of August $ (ADV) : (ADJUNCT [8WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of September $ (ADV) : (ADJUNCT [9WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of October $ (ADV) : (ADJUNCT [10WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of November $ (ADV) : (ADJUNCT [11WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of December $ (ADV) : (ADJUNCT [12WsfIWz| ZlUsD<NOUN>]/Wg)
+# at the beginning of year $ (ADV) : (ADJUNCT [WlI^cWz| ZlUsD<NOUN>]/Wg)
+# from beginning to end (ADV) : ZfWzQRs\f Bz\BbX|
+# from the beginning | (PP->ADV) : ZfWzQRs\f
+# from the beginning of A (ADV) : (ADJUNCT [(POSS A/Wz|) ZfWzQ<NOUN>]/Rs\f)
+# in the beginning (ADV) : ZfWzQWgDzD
+# ^make a beginning (VERB) : AcU|^bGb
+# ^rise from humble beginnings (VERB) : R|ZfD^bD X|RWbDWgUf ZsIUg^bGb
+# ^rise from modest beginnings (VERB) : R|ZfD^bD X|RWbDWgUf ZsIUg^bGb
+
+"begohm"
+(10 WfA WlWlQ)
+
+"begonia"
+(Zs^cGbW)
+
+"beguine"
+(RgW|A|D)
+
+"begum"
+% HUMAN
+(WlbWR|)
+
+"behalf"
+% CONCRETE MATERIAL 
+(WsfDXl)
+# in this behalf (ADV) : W|AfUWg Gc^bWj
+# in that behalf (ADV) : XfAfUWg Gc^bWj
+# in behalf of A (ADV) : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+# on behalf of A (ADV) : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+# in ONE_S  behalf (ADV) : (ADJUNCT [(OBJ ONE/IzI) GcU|D^b<VERB>]/Wf)
+# on ONE_S  behalf (ADV) : (ADJUNCT [(OBJ ONE/WzI) Gc]r^b<VERB>]/^bWj)
+
+"behavior"
+% CONCRETE MATERIAL 
+(^cWGlW)
+# behavior pattern (NOUN) : ^cWGlW WdWU|A
+# ^be put on ONE_S  good behavior (VERB) : AzDU|D XsWW|Gb
+# ^be put on ONE_S  best behavior (VERB) : AjDUzR XsWW|Gb
+# business behavior (NOUN) : A|WfRUfW^dW
+# during good behavior (ADV) : WlIRbIzAg ZfU|D^bDzD GlWWbDWzD
+
+"behaviorism"
+% ART
+(^cWGlWXsWz|)
+
+"behaviorist"
+% HUMAN
+(^cWGlWXsWz|Xb)
+
+"behaviourism"
+% ART
+(^cWGlWXsWz|)
+
+"behaviourist"
+% HUMAN
+(^cWGlWXsWz|Xb)
+
+"behemoth"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|^|QlUz)
+
+"behest"
+% CONCRETE MATERIAL ACTION
+(QjWIjW)
+
+"behind"
+% CONCRETE MATERIAL 
+(Gs|)
+
+"behoof"
+(W|W|A)
+# in ONE_S  behoof (ADV) : (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+# for ONE_S  behoof (ADV) : (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+# to ONE_S  behoof (ADV) : (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+# on ONE_S  behoof (ADV) : (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+
+"beige"
+(RgW|X|UcA)
+
+"being"
+% CONCRETE MATERIAL 
+(XlDXc)
+# ^bring a thing into being (VERB) : Db^Gb
+# ^call a thing into being (VERB) : Db^Gb
+# ^come into being (VERB) : \cWfDbGb
+# human being (NOUN) : W|DIw
+# with ONE_S whole being (ADV) : ^lDU|DWz| ^|QWzI A|WsIWj
+
+"bel-esprit"
+(XcUb)
+
+"belch"
+% MATERIAL ACTION
+(\zI|Q)
+
+"belcher"
+(WfIIsAGfIIsA^bAg QsIGzIW|D QlAGlI|)
+
+"beldam"
+% HUMAN
+(Dl]b)
+
+"belfry"
+% CONCRETE MATERIAL 
+(XlWIs)
+
+"belga"
+(RgIAf)
+
+"belief"
+% CONCRETE MATERIAL MIND
+(U|DDjQ)
+# in the belief THAT_CLAUSE (ADV) : 
+  (ADJUNCT [(RELCL THAT_CLAUSE/^bDzD) UcWAbA<NOUN>]/WgUf)
+# to the best of my belief (ADV) : DcAb Q|GDzD RbIlDzD
+# the Belief (NOUN) : UbGlU|DAjW
+
+"believer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|GDzD UbIbQ)
+# believer in A (NOUN) : [(RELCL [(OBJ A/IzI) Q|G<VERB>]/DzD) UbIbQ<NOUN>]
+
+"believing"
+% ACTION
+(Q|GDzD W|I)
+
+"bell"
+% CONCRETE MATERIAL 
+(XlW)
+# a chime of bells (NOUN) : Xl^lbGl|D ^bDRfIWz| XlWUlI|
+# a peal of bells (NOUN) : Xl^lbGl|D ^bDRfIWz| XlWUlI|
+# ^answer the bell (VERB) : UlDD|QWzI WbDDc^bGb
+# ^bear away the bell (VERB) : UbW]sQWzI ZbX|^bGb
+# ^carry away the bell (VERB) : UzWI|WzI ZbX|^bGb
+# ^bear the bell (VERB) : 1 GzWW| Gl|Gb
+# curse with bell book and candles (NOUN) : XlW
+# marriage bells (NOUN) : AjI^lDU|AWz| XlWUlI|
+
+"bell-bottoms"
+(Db]bIRbX|)
+
+"belladonna"
+% CONCRETE MATERIAL 
+(RgIIbGlDb)
+
+"bellboy"
+% HUMAN
+(AzRUb)
+
+"belle"
+% HUMAN
+(Q|Dj)
+# belle amie (NOUN) : Q|QlWz| Z|DAs
+# the belle of society (NOUN) : UbArAkWz| WjWlbW
+
+"belles-lettres"
+% CONCRETE MATERIAL ART
+(QsD^bA)
+
+"belletrist"
+% HUMAN
+(QsD^bAXb)
+
+"bellflower"
+% CONCRETE ANIMAL MATERIAL PLANT
+(ZlIlWBlZ)
+
+"bellhop"
+% HUMAN
+(AzRUb)
+
+"bellicosity"
+% HUMAN
+(^lXfDXfAW|Q)
+
+"belligerence"
+% CONCRETE MATERIAL 
+(^lXfDUfW)
+
+"belligerency"
+% MATERIAL STATE
+(ArXfD UbW\c)
+
+"belligerent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ArXfDAsA)
+
+"bellman"
+% HUMAN 
+(XlWZ|DzD UbIbQ)
+
+"bellow"
+% CONCRETE MATERIAL 
+(UlWz| WsIWzQUlI|)
+
+"bellows"
+% CONCRETE ANIMAL MATERIAL 
+(]sIQs)
+
+"bellpull"
+(XlWWz| GbWA|QXsI)
+
+"bellwether"
+% HUMAN
+(UfDGlXb)
+
+"bellwethers"
+(UfDGlXbGzI) 
+
+"bellwort"
+% PLANT
+(ZlIlWBlZ)
+
+"belly"
+% CONCRETE MATERIAL 
+(Rc)
+# ^have fire in ONE_S  belly (VERB) : WjWAbQWzI RbGAl W|VGb
+# an empty belly (NOUN) : AlWRlA
+# a pot belly (NOUN) : XbWAs\lWRc
+
+"belly-god"
+% HUMAN
+(GcU|AAb)
+
+"belly-landing"
+(GlWZgZbAIwA)
+
+"bellyache"
+(RlA\lW)
+
+"bellyband"
+% CONCRETE ANIMAL MATERIAL 
+(RcUGcBzD)
+
+"bellybutton"
+% MATERIAL ANIMAL
+(RcBlR)
+
+"bellyful"
+(RcAbGzA)
+
+"belongings"
+% MATERIAL ECOLIFE
+(XcUbD)
+
+"beloved"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZlWWc RbGDzD)
+
+"belt"
+% CONCRETE MATERIAL 
+(^fI|H|)
+# belt tightening (NOUN) : AzQWwWA|DZsA
+# ^hit below the belt (VERB) : ^fI|H| WbIcIzI Z|Gb
+# ^strike below the belt (VERB) : ^fI|H| WbIcIzI Z|Gb
+# ^pull ONE_S  belt in (VERB) : WfIjWsI HcIzI GcR|^bGb
+# the marine belr (NOUN) : WjW^c
+# the threemile belr (NOUN) : WjW^c
+# ^tighten ONE_S  belt (VERB) : ^fI|H|IzI XlIIbQcAl U|XbWB|IzI ZbQGb
+# a forest belt (NOUN) : UbQI|QX|Gc
+# the Black Belt (NOUN) : ^zAW|D X|Gc
+
+"belt-out"
+(DlAWbWs\z)
+
+"belt-tightening"
+(Dc]|R)
+
+"belting"
+% CONCRETE MATERIAL 
+(RgI\z XcIr)
+
+"beluga"
+% CONCRETE ANIMAL MATERIAL 
+([zD ZfIAbRUbWWf)
+
+"belvedere"
+% CONCRETE ANIMAL MATERIAL 
+(XfDQbWGc)
+
+"bema"
+% CONCRETE ANIMAL MATERIAL 
+(AbWGbD)
+
+"bemberg"
+(RgQRgIz[z)
+
+"ben"
+(UbDRlWWsI|)
+
+"benadryl"
+(RgDbGzI|I)
+
+"bench"
+% CONCRETE MATERIAL 
+(RgDZ|)
+# ^be raised to the bench (VERB) : ]bDUbIl UzWX|D^bGb
+# ^be elevated to the bench (VERB) : XsArIl UzWX|D^bGb
+# bench lathe (NOUN) : UfDRbD
+# front bench (NOUN) : XfWGbWAbDRsUfA
+# ministerial benches (NOUN) : AsAQsWs|WsfDUfA
+# park bench (NOUN) : AlWWsfD RgDZ|
+# the King's Bench (NOUN) : AlGzWRfRWsfD
+# the Queen's Bench (NOUN) : AlGzWRfRWsfD
+# the Treasury bench (NOUN) : XcQsXbWAlbDUfA
+
+"bencher"
+% HUMAN
+(^bWsfD Wz|WsfD)
+
+"benchmark"
+(RgDZ|Qb[z)
+# benchmark economy (NOUN) : A|XsDAjWXg
+
+"bend"
+% CONCRETE MATERIAL 
+(AsRWzQ)
+# ^go on the bend (VERB) : UsIQbU|Al HfGzIGb
+# on the bend (ADV) : RsXfW UsGbDWzIl
+
+"bender"
+% MATERIAL 
+(AsRsI|DzD A|As)
+
+"benedick"
+% HUMAN
+(AjI^lD^bDzD DbQXb)
+
+"benedictine"
+% HUMAN
+(RgDgG|A\z ^l|WsfD)
+
+"benediction"
+% CONCRETE MATERIAL 
+(ZsARlA)
+
+"benedictus"
+(ZbDUlWAb)
+
+"benefaction"
+% CONCRETE MATERIAL ACTION
+(UfD^cW)
+
+"benefactor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WzDW|D)
+
+"benefactress"
+% HUMAN
+(WzD^kIzI Rg]sDzD WjXb)
+
+"benefice"
+% MATERIAL 
+(UfWX|AIlA)
+
+"beneficence"
+% CONCRETE MATERIAL 
+(UfD^cW)
+
+"beneficiary"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(UsW|AXb)
+
+"benefit"
+% CONCRETE MATERIAL ECOLIFE
+(W|W|A)
+# accident and sickness benefits (NOUN) : UbWRjWUsGbW
+# ^be of benefit to A (VERB) : [(ADJUNCT A/Wg) WwW|A^b<VERB>]/Gb
+# benefit society (NOUN) : AlWXgXl^bR
+# benefit theory (NOUN) : UsW|AXbRsGbQWz| WsfDZ|A
+# benefit thoery of taxation (NOUN) : UgAzQWz| UsW|AXbRsGbQWsfDZ|A
+# financial benefit (NOUN) : XcXfWUbWW|W|A
+# for ONE_S  benefit (ADV) : (ADJUNCT [(OBJ ONE/IzI) Ws|^b<VERB>]/Wf)
+# for the benefit of A (ADV) : (ADJUNCT [(OBJ A/IzI) Ws|^b<VERB>]/Wf)
+# ^give a person the benefit of the doubt (VERB) : Q|U|Q^bD XfQWzI ]|AlWgAg WwI|^bAg ^cUfA^c XsGb
+
+"benevolence"
+% CONCRETE MATERIAL 
+(UfD^cW)
+
+"bengalee"
+% HUMAN
+(RgDAlI UbIbQ)
+
+"bengalese"
+% HUMAN
+(RgDAlI UbIbQ)
+
+"bengali"
+% HUMAN
+(RgDAlI UbIbQ)
+
+"benifit"
+(^k\cA)
+# long-term benifit (NOUN) : XbWA|AbDWz| ^k\cA
+
+"benignancy"
+% CONCRETE MATERIAL 
+(W|DXb^bQ)
+
+"benignity"
+% CONCRETE MATERIAL 
+(W|DXb^bQ)
+
+"benison"
+% CONCRETE MATERIAL 
+(ZsAGl)
+
+"bennet"
+(RgD|U)
+
+"bent"
+% MATERIAL 
+(QbDAlA)
+# ^follow ONE_S  bent (VERB) : Xg UfWQ|GcIl ^bGb
+# to the top of ONE_S  bent (ADV) : ^|QBfU
+
+"benthamism"
+% ART
+(AlWI|UfI)
+
+"benthamite"
+% HUMAN
+(AlWI|XsWz|Xb)
+
+"benthos"
+% MATERIAL PLANT
+(XfUcW UcWQsI)
+
+"benthoscope"
+(^cXf XlUbWrW AbWAs)
+
+"bentwood"
+% PLANT
+(AsRWzD DbQs)
+
+"benzedrine"
+(RgDXfGzI|D)
+
+"benzene"
+% CONCRETE MATERIAL 
+(RgDXgD)
+
+"benzine"
+% CONCRETE MATERIAL 
+(RgDX|D)
+
+"bepo"
+(WsfDXb U|^fQIl)
+
+"bequest"
+% MATERIAL 
+(WwXzW)
+
+"berber"
+% HUMAN
+(RgIzRgIz UbIbQ)
+
+"berceuse"
+(XbXbWAb)
+
+"bere"
+(RlI|)
+
+"bereavement"
+(W|I^WzQ)
+
+"beret"
+% CONCRETE ANIMAL MATERIAL 
+(RgIg QlXb)
+
+"berg"
+(R|WUbD)
+
+"bergamot"
+% PLANT
+(RsIUsAbQDbQs)
+
+"bergsonian"
+% HUMAN
+(RgIzAzUlW ZfI^bAWz| ^bAGl)
+
+"bergsonism"
+(RgIzAzUlW ZfI^bA)
+
+"beriberi"
+% MATERIAL 
+(AbAA|RjW)
+
+"berkelium"
+% CONCRETE MATERIAL 
+(RgIz[gIIwQ)
+
+"berliner"
+% HUMAN
+(RgIzII|D UbIbQ)
+
+"berm"
+(AbUA|I)
+
+"bernese"
+% HUMAN
+(RgIzDUbIbQ)
+
+"berry"
+% CONCRETE MATERIAL 
+(RgI|)
+
+"bersaglieri"
+% HUMAN
+(XfAjARjW)
+
+"berserk"
+% HUMAN
+(Q|Zj DbIHs|DzD)
+
+"berserker"
+% HUMAN
+(WrWQcW^bD XfDUb)
+
+"berth"
+% CONCRETE MATERIAL 
+(Z|QGc)
+# ^give a person a wide berth (VERB) : DbQWzI QfII|^bGb
+# ^give a wide berth to a person keep a wide berth of a person (VERB) : DbQWzI QfII|^bGb
+
+"bertha"
+(IgW|UzWz| A|U)
+
+"berthage"
+% PLACE
+(XfWRbAX|)
+
+"beryl"
+% MATERIAL 
+(DlAXsUfA)
+
+"beryllium"
+% CONCRETE MATERIAL 
+(RgI|IIwQ)
+
+"besetment"
+% ACTION
+(]lWs|)
+
+"besiegement"
+% ACTION
+(]lWs|)
+
+"besieger"
+% HUMAN
+(]lWs|Xb)
+
+"besom"
+(VbI|R|)
+
+"best"
+(Zl|UbW)
+# at its best (ADV) : AbXbW Xl^WzD UbW\cWg
+# at best (ADV) : XbI ^cWd
+# be at ONE_S best (VERB) : X|DAbIzI RbI^s|^bGb
+# ^do ONE_S best (VERB) : Zl|UfDWzI Gb^bGb
+# ^do ONE_S level best (VERB) : ^bDAjIAb\W| XfDIjAWzI Gb^bGb
+# ^get the best of it (VERB) : W|A|Gb
+# ^have the best of it (VERB) : W|A|Gb
+
+# make the best of ONE (VERB) : 
+                    [(OBJ ONE/WzI) (MODS [[zAg<ADV>]) W|WrW^b<VERB>]/Gb
+# ^make the best of ONE_S  way (VERB) : AbIA|IWzI UfGsIzGb
+# to the best of my belief (ADV) : Q|GAl W|VDzD ^bDWgUfDzD
+# to the best of my knowledge (ADV) : WbIAl W|VDzD ^bDWgUfDzD
+# to the best of ONE_S  ability (ADV) : ^|QXbIbDzD GcIl
+# to the best of ONE_S  power (ADV) : ^|QXbIbDzD GcIl
+# ^try ONE_S  best (VERB) : Zl|UfDWzI Gb^bGb
+# ^try ONE_S  best on A (VERB) : [(ADJUNCT A/Wg) Zl|UfDWzI Gb^b<VERB>]/Gb
+# with the best (ADV) : DsAsWgAg QlUX| WbD^Ag
+
+"best-seller"
+(RgUz\z UgIIf)
+
+"bestiality"
+% MATERIAL 
+(UsUfW)
+
+"bestiary"
+(GlWQsI Ws^lbX|R)
+
+"bestowal"
+% MATERIAL ACTION
+(XzWWj)
+
+"bestsellerdom"
+(RgUz\zUgIIfAzR)
+
+"bet"
+% MATERIAL ACTION
+(DcA|)
+
+"beta"
+(Rg\b)
+# beta particle (NOUN) : RgWg\b W|RXb
+# beta rays (NOUN) : RgWg\bUfD
+
+"betatron"
+% CONCRETE ANIMAL MATERIAL 
+(RgWg\b\zIlD)
+
+"betel"
+% CONCRETE ANIMAL MATERIAL PLANT
+(W|DGl ^sZs)
+
+"betony"
+% PLANT
+(AlbA^dWZlUfAXbW)
+
+"betrayal"
+% CONCRETE MATERIAL ACTION
+(RcRbD)
+
+"betrayer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RcU|DXb)
+
+"betrothal"
+% CONCRETE MATERIAL ACTION
+(WdA^lD)
+
+"betrothment"
+% ACTION
+(WdA^lD)
+
+"better"
+% HUMAN
+(DcA|^bDzD UbIbQ)
+
+"better"
+(Gf Xl^WzD AfU)
+# change for the better (NOUN) : ^lXfD
+# for want of a better (ADV) : Gf DbWzD AfUW| WfRUWfUf
+# ^get the better of A (VERB) : [(ADJUNCT A/Wg) W|A|<VERB>]/Gb
+# ^have the better of A (VERB) : [(ADJUNCT A/Wg) W|A|<VERB>]/Gb
+
+"betterment"
+% CONCRETE MATERIAL 
+(AcUfD)
+
+"betting"
+% MATERIAL 
+(DcA|)
+
+"bettor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DcA|^bDzD UbIbQ)
+
+"between-decks"
+(AbR]bD UbW|Wz|)
+
+"betweenmaid"
+% HUMAN
+(^fGzIgUW|I^bDzD ^bDj)
+
+"bevatron"
+% CONCRETE ANIMAL MATERIAL 
+(RgRf\zIlD)
+
+"bevel"
+% CONCRETE MATERIAL 
+(AjWUb)
+# bevel joint (NOUN) : R|UzGzQ^| W|UA|
+
+"beverage"
+% CONCRETE MATERIAL FOOD
+(WzQIr)
+
+"bewilderment"
+% MATERIAL MIND
+(GbW^lbW)
+
+"bewitchment"
+% MATERIAL MIND
+(Qc^lA)
+
+"bey"
+% HUMAN
+(XbWAlbD)
+
+"beylic"
+% ORGAN PLACE
+(XbWAlbDWz| AlbD^bIAs)
+
+"beyond"
+(XfYlA)
+# the back of beyond (NOUN) : UgAkWz| Bz\
+# the beyond (NOUN) : XfUzW
+
+"bezant"
+% MATERIAL 
+(RgXbD\z AzQ^lb)
+
+"bezel"
+% CONCRETE MATERIAL 
+(AjWUbX|D ^zQ)
+
+"bezique"
+% MATERIAL 
+(R|X|[z)
+
+"bezoar"
+(Ws^lbW)
+
+"bhang"
+% CONCRETE MATERIAL PLANT
+(W|DGl GcQb)
+
+"bias"
+% MATERIAL 
+(UfW^dW)
+# ^cut on the bias (VERB) : R|UzGzQ^| XcGbD^bGb
+# without bias and without favor (ADV) : AlW]jWQsUb^bAg
+
+"biathlon"
+(RbW|WfUzIIlD)
+
+"bib"
+% CONCRETE MATERIAL 
+(\fARbGW|)
+# best bib and tucker (NOUN) : DbGzIW| WlU
+
+"bibber"
+% HUMAN
+(UsIAsD)
+
+"bibbing"
+% ACTION
+(WzQXs)
+
+"bibcock"
+(UsGl BlAX|)
+
+"bible"
+% CONCRETE MATERIAL 
+(UfWAjW)
+
+"bibliofilm"
+(GlUf RlAUb ]|IIzQ)
+
+"bibliographer"
+% HUMAN
+(UfXfA ^cXg]jDXb)
+
+"bibliography"
+% ART
+(GlUfQlAIlA)
+
+"bibliolatry"
+% MATERIAL ACTION
+(UfXfA UsWRc)
+
+"bibliomancy"
+(UfWAjWXfQ)
+
+"bibliomania"
+% HUMAN
+(UfXfA UsX|RAlbW)
+
+"bibliophile"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfXfA Wc^lAb)
+
+"bibliophilism"
+(XbWUfRjA)
+
+"bibliophilist"
+% HUMAN
+(UfXfA Wc^lAb)
+
+"bibliophobe"
+% HUMAN
+(UfXfA XzWWlAb)
+
+"bibliopole"
+(UfXfAUbW)
+
+"bibliopoly"
+% ACTION
+(X|DUf QcQc)
+
+"bibliotheca"
+% CONCRETE ANIMAL MATERIAL 
+(XbWUf)
+
+"bibliotherapy"
+% ART
+(GlAUfWrRfR)
+
+"bicameralist"
+% HUMAN
+(WdWWsfDXgIlDXb)
+
+"bicarbonate"
+% CONCRETE MATERIAL 
+(XsW\bDUbDWjQ)
+
+"bice"
+(ZfWUcA AzI|QQsIAbQ)
+
+"bicentenary"
+% ACTION
+(W|RcADjDA|DjQXg)
+
+"bicentennial"
+% CONCRETE TIME MATERIAL ACTION
+(W|RcADjDA|DjQXg)
+
+"biceps"
+% CONCRETE MATERIAL 
+(W|GsAzD)
+
+"bichloride"
+(W|WjQ^lbQsI)
+
+"bichromate"
+(XsW[zIlQUbDWjQ)
+
+"bicker"
+% CONCRETE MATERIAL 
+(QbIGb\sQ)
+
+"bickerer"
+% HUMAN
+(WfDXcWXb)
+
+"biculturialism"
+% ART
+(W|QsD^lb RjWWrWXsWz|)
+
+"bicuspid"
+% CONCRETE MATERIAL 
+(W|GsZ|)
+
+"bicycle"
+% CONCRETE ANIMAL MATERIAL 
+(XbXfDAf)
+
+"bicyclist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbXfDAf \bDzD UbIbQ)
+
+"bid"
+(W|RZbI)
+# best bid (NOUN) : Zl|AlW|RZbI
+# bid price (NOUN) : W|RZbIAbAjA
+# bid rate (NOUN) : Zs|GzA^z|QbWWwI
+# big ticket item (NOUN) : AlAbAjAUbW]sQ
+# make bid for A (VERB) : [(OBJ A/IzI) W|RZbI^b<VERB>]/Gb
+# open bid (NOUN) : AlWAcW|RZbI
+# successful bid (NOUN) : DbAZbI
+
+"bidder"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(AjWQc ZbQAbXb)
+# highest bidder (NOUN) : Zl|AlW|RZbIW|D
+# lowest bidder (NOUN) : Zl|XfW|RZbIW|D
+
+"bidding"
+% CONCRETE MATERIAL ECOLIFE
+(W|RZbI)
+
+"biddy"
+% CONCRETE ANIMAL MATERIAL 
+(WbQ\bIA)
+
+"bidet"
+% CONCRETE ANIMAL MATERIAL 
+(AsARs UgZfAA|)
+
+"biennale"
+(R|WgDbIg)
+
+"biennial"
+% PLANT
+(2 DjDUcW U|AQsI)
+
+"bier"
+(AlbD)
+
+"biff"
+% ACTION
+(AbW\b)
+
+"biffin"
+% PLANT FOOD
+(AfQRsIAWzD WrI|WrW UbAlb)
+
+"bifocal"
+(Gs ZlXfQW| W|VDzD IgDXz)
+
+"bifurcation"
+% MATERIAL 
+(Gs AbIIcIzI W|IsQ)
+
+"big-name"
+% HUMAN
+(QjWUb)
+
+"big-time"
+(XsWWr U|AbD)
+
+"big-timer"
+% HUMAN
+(XsWWrW|DQsI)
+
+"bigamist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsW^lDXb)
+
+"bigamy"
+% MATERIAL ACTION
+(XsW^lD)
+
+"bigaroo"
+% PLANT FOOD
+(RfY|)
+
+"biggie"
+% HUMAN
+(AfQsI)
+
+"biggy"
+% HUMAN
+(AfQsI)
+
+"bighead"
+% MATERIAL 
+([zD QfI|)
+
+"bighorn"
+% CONCRETE ANIMAL MATERIAL 
+(R|A^lWlD)
+
+"bight"
+(^cWbDWz| QbDAlARs)
+
+"bigmouth"
+% HUMAN
+(UsGbXcWW|)
+
+"bigness"
+% CONCRETE MATERIAL 
+([zA|)
+
+"bigot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WlbDAl^bD Q|U|DAb)
+
+"bigotry"
+% MATERIAL ART
+(WlbDAl^bD U|DWbW)
+
+"bigwig"
+% HUMAN
+(Dl]WzD UbIbQ)
+
+"bijou"
+(RlUfA)
+
+"bijouterie"
+(RlUfAIw)
+
+"bike"
+% CONCRETE MATERIAL 
+(XbXfDAf)
+
+"bilabial"
+(WdWUsDWzQ)
+
+"bilberry"
+% CONCRETE MATERIAL PLANT
+(WsfIAwIDbQsUlA)
+
+"bile"
+% CONCRETE MATERIAL 
+(GbQXzR)
+# black bile (NOUN) : WsWsI
+# ^stir ONE_S  bile (VERB) : DbQWz| RsD\lWWzI \fHzI|Gb
+# ^rouse ONE_S  bile (VERB) : DbQWz| RsD\lWWzI \fHzI|Gb
+
+"bilestone"
+(GbQUfA)
+
+"bilge"
+% MATERIAL 
+(AsRWzDRsRsD)
+
+"bilinguist"
+% HUMAN
+(2 AcAsAWfWg DzW\lW^bD UbIbQ)
+
+"biliousness"
+(GbQXzRRjW)
+
+"biliteral"
+(Gs AzIXbWz|)
+
+"bill"
+% CONCRETE MATERIAL 
+(ZfWAsUf)
+# a bill in sets (NOUN) : Ug\zR|I
+# a set of bills (NOUN) : Ug\zR|I
+# agricultural bill (NOUN) : DlWWfRWfWzQ
+# appropriation bill (NOUN) : UgZsIWkUbDWbD
+# accommodation bill (NOUN) : WwW\lWWfWzQ
+# bill accepted (NOUN) : W|DUsWfWzQ
+# bill accompanied by warehouse receipt (NOUN) : ZbWAlXzWAsfDRsWfWzQ
+# bill as collateral (NOUN) : GbQRlWfWzQ
+# bill at sight (NOUN) : W|IIbQ RsI WfWzQ
+# bill broker (NOUN) : R|I RzIl[f
+# bill discounted (NOUN) : ^bIW|DWfWzQ
+# bill for acceptance (NOUN) : W|DUs ZfWAs WfWzQ
+# bill of clearance (NOUN) : ZsI^bW XzWUf
+# bill of credit (NOUN) : U|DWrWXbW
+# bill of debt (NOUN) : ZcQsXzWUf
+# bill on demand (NOUN) : WrAs RsIWfWzQ
+# bill of dishonor (NOUN) : RsGl WfWzQ
+# bill of entry (NOUN) : \lWAlbDXzWUf
+# bill of exchange (NOUN) : ^lbDWfWzQ
+# bill of fare (NOUN) : QgDw
+# bill of health (NOUN) : AfDAbW XzWQjWUf
+# bill of loading (NOUN) : UfD^b XzWAsfD
+# bill of lading (NOUN) : UfD^b XzWAsfD
+# bill of parcels (NOUN) : Ul^bQsI QcGlXzW
+# bill of rights (NOUN) : AsAQ|DWz| A|RlDXfA W|DAsfDWg AlbD^bD UfDWfD
+# bill of sale (NOUN) : QcGlXsW
+# bill of sight (NOUN) : W|QU| WdWIwAU|DAlUf
+# bill of store (NOUN) : XcUsW|RQjDUgXzW
+# bill on malturity (NOUN) : QbDA| RsIWfWzQ
+# bill payable (NOUN) : X|RsI WfWzQ
+# bill payable at a fixed date (NOUN) : ^lbAXfWW|IRsIWfWzQ
+# bill payable at a fixed period after sight (NOUN) : W|IAjD^s XfWA|RsIWfWzQ
+# bill payable at sight after a fixed period (NOUN) : XfWA|^s W|IAjDRsIWfWzQ
+# bill payable to bearer (NOUN) : X|ZbQW|D WfWzQ
+# bill payable to order (NOUN) : X|XfWW|DRsI WfWzQ
+# bill receivable (NOUN) : UsZs| WfWzQ
+# bill receival (NOUN) : UsZs|WfWzQ
+# bill rediscounted (NOUN) : Xc^bIW|DWfWzQ
+# bills only policy (NOUN) : R|IXz WlDI| XfWZcA
+# clean bill (NOUN) : QsXlAfDRs WfWzQ
+# clean bill of exchange (NOUN) : Rl\lW^lbDWfWzQ
+# clean bill of lading (NOUN) : QsXlAfDRsUfD^bXzWAsfD
+# commercial bill (NOUN) : UbWWfRWfWzQ
+# commercial bill eligible for rediscount (NOUN) : Xc^bIW|DXfAAjA UbWWfRWfWzQ
+# discounted bill (NOUN) : ^bIW|D WfWzQ
+# dishonored bill (NOUN) : RsGlWfWzQ
+# ^draw a bill (VERB) : Wb]WzIl WfWzQWzI RbI^cW^bGb
+# electric bill (NOUN) : XfDA| WrAzQ ZfWAsUf
+# endorsed bill (NOUN) : RcUfWfWzQ
+# forged bill (NOUN) : Ws|XlWfWzQ
+# fisheries bill (NOUN) : WfWfRWfWzQ
+# ^fill the billl (VERB) : ^lDXb W|DA|IzI GlAXfQ^bGb
+# ^find a true bill (VERB) : A|UlXbWWzI UsI|^bGb
+# ^foot a bill (VERB) : R|WrWWzI X|RsI^bGb
+# ^foot the bill (VERB) : R|WrWWzI X|RsI^bGb
+# ^ignore the bill (VERB) : A|UlXbWWzI RsW|D^bGb
+# ^lay a bill beffore the Congress (VERB) : Wz|WbDWzI UbWXfW^bGb
+# ^lay a bill beffore the Parliament (VERB) : Wz|WbDWzI UbWXfW^bGb
+# long bill (NOUN) : XbWA| WfWzQ
+# matured bill (NOUN) : QbDA|WfWzQ
+# phone bill (NOUN) : XfD^lb WrAzQ
+# renewal of bill (NOUN) : WfWzQWz| AcUf
+# short bill (NOUN) : GbDA| WfWzQ
+# ^sell a person a bill of bill (VERB) : DbQWzI RsII|^bAg ^bGb
+# sight bill (NOUN) : W|IIbQRsWfWzQ
+# ^take up a bill (VERB) : WfWzQWzI W|DUs^bGb
+# trade bill (NOUN) : QsWjAWfWzQ
+# usance bill (NOUN) : A|^bDRs ^lbDWfWzQ
+
+"billboard"
+% CONCRETE MATERIAL 
+(AlbWAl AgU|]bD)
+
+"billet"
+% CONCRETE ANIMAL MATERIAL 
+(DbAGcA|)
+
+"billet-doux"
+(WjDWc]jDX|)
+
+"billfold"
+% CONCRETE ANIMAL MATERIAL 
+(X|AbR)
+
+"billhead"
+(AkUbDUfWz| UfGs)
+
+"billhook"
+(DbU)
+
+"billiardist"
+% HUMAN
+(GbWAsAb)
+
+"billiards"
+% MATERIAL 
+(GbWAs)
+
+"billing"
+% CONCRETE MATERIAL 
+(UfWjI)
+
+"billingsgate"
+% CONCRETE MATERIAL 
+(UbWUlI|)
+
+"billion"
+% CONCRETE MATERIAL 
+(10 WfA)
+# billions of A (NOUN) : [(NMODS [UsU|RWfA<NOUN>]/Wz|) A]
+
+"billionaire"
+% HUMAN ECOLIFE
+(WfAQbDXbWXb)
+
+"billionth"
+(10 WfA RsDWz| 1)
+
+"billon"
+(WzDWz| ^lb]kWrW ^bRAzQ)
+
+"billow"
+% CONCRETE MATERIAL 
+([zD QsIAjI)
+
+"billposter"
+% HUMAN
+(XfDGbD Rs\W|DzD UbIbQ)
+
+"billsticker"
+% HUMAN
+(XfDGbD Rs\W|DzD UbIbQ)
+
+
+
+"billy-o"
+(billy-o)
+# like billy-o (ADV) : QcWIjI^|
+
+"billycock"
+(XsWUbDQl)
+
+"biltong"
+% FOOD
+(WwA]l)
+
+"bimester"
+% TIME
+(2 AcWsfIAbD)
+
+"bimetal"
+(GsAbX| ^bRAzQ)
+
+"bimetallism"
+% ECOLIFE
+(RlARlDWs|Xg)
+
+"bimetallist"
+% HUMAN
+(RlARlDWs|XgIlDXb)
+
+"bimonthly"
+(AjAWsfIAbD XbRX|)
+
+"bin"
+% CONCRETE MATERIAL 
+([zD UbWXb)
+
+"binary"
+% CONCRETE MATERIAL 
+(W|WsfDZg)
+# binary measure (NOUN) : 2 RbAXb
+# binary star (NOUN) : WjDUfW
+
+"bind"
+% MATERIAL 
+(BzD)
+
+"binder"
+% CONCRETE MATERIAL HUMAN
+(QsBDzD UbIbQ)
+
+"bindery"
+% PLACE ORGAN
+(XgRlDUl)
+
+"binding"
+% CONCRETE MATERIAL 
+(GbDGbD^| QsBA|)
+
+"bindle"
+(GsIGsIQbD Z|QAs)
+
+"bindweed"
+% PLANT
+(QgBlZ)
+
+"bine"
+% PLANT
+(GfWAsI)
+
+"binge"
+% MATERIAL ACTION
+(Ww^zW)
+
+"bingle"
+(WbD\b)
+
+"bingle"
+(Z|[j BbBWzD GbDRbI)
+
+"bingo"
+% MATERIAL 
+(R|WAl)
+
+"binnacle"
+(DbZ|QWz|^bQ)
+
+"binocular"
+% CONCRETE ANIMAL MATERIAL 
+(VbWWbDAjW)
+
+"binomial"
+% MATERIAL 
+(W|^bWU|A)
+
+"bio"
+(UcW)
+# bio chemical engineering (NOUN) : UcW^lb^bA AlW^bA
+
+"bio-chemical"
+% ART
+(UcW^lb^bA)
+# bio-chemical engineering (NOUN) : UcW^lb^bA AlW^bA
+
+"bioastronautics"
+% ART
+(WsXs UcWQsI^bA)
+
+"biochemical"
+(UcW^lb^bA QsIX|I)
+
+"biochemist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UcW^lb^bAXb)
+
+"biochemistry"
+% MATERIAL ART
+(UcW^lb^bA)
+
+"biocide"
+(UcWQsIGlA)
+
+"bioclimatology"
+% ART 
+(UcWQsI A|^s^bA)
+
+"bioconversion"
+(UcWQsI VzIgA|Wz| W|WrW)
+
+"biodynamics"
+% ART 
+(UcW^lbI A|DzW^bA)
+
+"bioengineering"
+% ART 
+(UcWQsI AlW^bA)
+
+"bioethics"
+% ART 
+(UcWQsI WwDI|^bA)
+
+"biogas"
+(UcWQsIAbUz)
+
+"biogenesis"
+% ART 
+(UlAUcWUfI)
+
+"biogeographer"
+% HUMAN
+(UcWQsI X|I|^bAXb)
+
+"biogeography"
+% MATERIAL ART 
+(UcWQsIX|I|^bA)
+
+"biographee"
+% HUMAN
+(XfDA|Wz| XsW|DAlW)
+
+"biographer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfDA| XbAAb)
+
+"biography"
+% CONCRETE MATERIAL 
+(XfDA|)
+
+"biological walfare office"
+(UcWQsI^bAXfDU|I)
+
+"biologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UcWQsI^bAXb)
+
+"biology"
+% MATERIAL ART
+(UcWQsI^bA)
+# molecular biology (NOUN) : RsDXb UcWQsI^bA
+
+"biomechanics"
+% ART
+(UcWQsIWjA^bA)
+
+"biomedicine"
+% ART
+(UcWWz|^bA)
+
+"biometeorology"
+% ART
+(UcWQsI A|UbW^bA)
+
+"biometrics"
+% ART
+(UcWQsI ZzAXfW^bA)
+
+"biometry"
+% ART
+(UcWQsIWjA^bA)
+
+"bionics"
+% ART
+(UcWZgAlW^bA)
+
+"bionomics"
+% ART
+(UcW\c^bA)
+
+"bionomy"
+% ART
+(UcWQjW^bA)
+
+"biophysics"
+% MATERIAL ART
+(UcWQsIQsII|^bA)
+
+"bioplasm"
+(WsfDUcWX|I)
+
+"bioplast"
+(WsfDUcWZg)
+
+"biopsy"
+% MATERIAL 
+(UcWZgXlX|A AfQUb)
+
+"biorhythm"
+(UcWZgXsA|UfW)
+
+"biosatellite"
+(UcWQsI Ws|UfW)
+
+"bioscience"
+% ART
+(UcWQjWAlb^bA)
+
+"biosphere"
+(UcWQsIAsfD)
+
+"biosynthesis"
+(UcWQsI^bRUfW)
+
+"biotech"
+% ART
+(UcWQsIAlW^bA)
+
+"biotechnology"
+% ART
+(UcWQsIAlW^bA)
+
+"biotelemetry"
+(GlWQsI WsfDAjA ZzAXfWRfR)
+
+"biotin"
+% CONCRETE MATERIAL 
+(R|Wl\|D)
+
+"biotite"
+(^zAWsDQl)
+
+"bipartisanship"
+(ZlGbW]b)
+
+"bipartizanship"
+(ZlGbW]b)
+
+"biped"
+% CONCRETE ANIMAL MATERIAL 
+(Gs RbI GlWQsI)
+
+"biplane"
+% CONCRETE ANIMAL MATERIAL 
+(RlAWjRR|^cWA|)
+
+"bipolarity"
+(W|AzAUfW)
+
+"bipolarization"
+(WdWAzA^lb)
+
+"biquadratic"
+(4 Zb RbWXfWU|A)
+
+"birch"
+% CONCRETE ANIMAL MATERIAL PLANT
+(XbXbADbQs)
+
+"birchism"
+% HUMAN
+(RfWfZ| XsWz|)
+
+"bird"
+% CONCRETE ANIMAL MATERIAL 
+(Uc)
+# || a bird in the hand is worth two in the bush || (SENT) : (DECL [(ADJUNCT [UlD WbDWz| Uc ^bDQbI|Ab Us]UlAWz| GsQbI|<NOUN>]/RlGb) DbU<ADJ>]/Gb)
+# a bird of ONE_S  own brain (NOUN) : XbA| XbU|DWz| UcWAbA
+# birds of a feather (NOUN) : Ab\WzD A|UWz| Uc
+# || the early bird catches the worm || (SENT) : (DECL [(MODS [RsX|IfD^cWd QfAAl<ADV>]) UbI<VERB>]/Gb)
+# ^eat like a bird (VERB) : [QfADzD WdWW| XbA<ADJ>]/Gb
+# ^get the bird (VERB) : WdWwIzI GbW^bGb
+# ^give a person the bird (VERB) : DbQWgAg WdWwIzI ]fRsUGb
+# ^kill two birds with one stone (VERB) : W|IUfAW|XlIzI WfGGb
+# old bird (NOUN) : DlIjD^bD UbIbQ
+# the bird of ill omen (NOUN) : RsIA|I^bD Uc
+# the bird of freedom (NOUN) : XbWwWz| Uc
+# the bird of Jove (NOUN) : GlAUsI|
+# the bird of Juno (NOUN) : AlWXbA
+# the bird of Minerva (NOUN) : WlIScQ|
+# the bird of Paradise (NOUN) : AzAIbAXl
+# the bird of peace (NOUN) : R|GsIA|
+# the bird of Washington (NOUN) : Q|AsA GlAUsI|
+# the birds and the bees (NOUN) : UcWU|AWz| A|Zl UbU|I
+# water bird (NOUN) : QsIUc
+
+"bird's-eye"
+% PLANT
+(UfIWcWZl)
+
+"bird's-foot"
+% PLANT
+([lWAlbWz| QlAZl)
+
+"bird's-nest"
+(UcGsWX|)
+
+"bird's-nesting"
+% ACTION
+(UcGsWX| Gs|X|A|)
+
+"bird-brain"
+% HUMAN
+(RbRl)
+
+"bird-foot"
+% PLANT
+([lWAlbWz| QlAZl)
+
+"birdbanding"
+(XlIw ]rX|RfR)
+
+"birder"
+% HUMAN
+(GzIUc UbWwAXb)
+
+"birdhouse"
+% CONCRETE ANIMAL MATERIAL 
+(UcXbW)
+
+"birdie"
+% ANIMAL
+(XbAWzDUc)
+
+"birding"
+% ACTION
+(UcUbDdW)
+
+"birdlime"
+% CONCRETE MATERIAL PLANT
+(BzDBzDW|)
+
+"birdman"
+% HUMAN
+(XlIw WjDAsAb)
+
+"birdman"
+% HUMAN
+(R|^cWAb)
+
+"birdseed"
+% CONCRETE MATERIAL 
+(UcQlW|)
+
+"birdwoman"
+% HUMAN
+(WjIw R|^cWAb)
+
+"biretta"
+% CONCRETE ANIMAL MATERIAL 
+(R|Ig\b QlXb)
+
+"birth"
+% CONCRETE MATERIAL 
+(ZsIUcW)
+# ^give birth to A (VERB) : [(OBJ A/IzI) \bDUcWU|[|<VERB>]/Gb
+	* [(OBJ A/IzI) Db^<VERB>]/Gb
+	* A (~ {+HUMAN})
+
+"birthday"
+% CONCRETE TIME MATERIAL 
+(UcWW|I)
+# birthday book (NOUN) : UcWW|I A|W|RXbW
+# birthday celebration (NOUN) : UcWW|I XbDZ|
+# Happy birthday (VERB) : (DECL [(OBJ [UcWW|I<NOUN>]/WzI) ZsA^b^b<VERB>]/Gb)
+# birthday honors (NOUN) : AsAWlb \bDUcWW|IWg ^cW^bDzD UfXbA
+# birthday party (NOUN) : UcWW|I XbDZ|
+# ONE_S  birthday suit (NOUN) : WbIQlQHsWW|
+# || happy birthday . (VERB) : (DECL [(OBJ [UcWW|I<NOUN>]/WzI) ZsA^b^b<ADJ>]/Gb)
+
+"birthmark"
+% CONCRETE MATERIAL 
+(QlRbD)
+
+"birthplace"
+% MATERIAL PLACE
+(ZsIUcWX|)
+
+"birthright"
+% CONCRETE MATERIAL 
+(\bAlDbD AsfDI|)
+# ^sell ONE_S  birthright for a pottage of lentils (VERB) : ]b\XsA ^bD AzIzUWg XbWXbWz| AsfDI|IzI ]bIGb
+
+"birthstone"
+(\bDUcWUfA)
+
+"biscuit"
+% CONCRETE MATERIAL FOOD
+(R|Uz[|U)
+# ship's buscuit (NOUN) : AfDSbW
+
+"bise"
+% MATERIAL 
+(ZsWsD RsAGlW]sW)
+
+"bisection"
+% CONCRETE ANIMAL MATERIAL 
+(W|RsD)
+
+"bisector"
+(W|GzWRsDUfD)
+
+"bisexual"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdWUfWZg)
+
+"bishop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsAr)
+# bishop's ring (NOUN) : R|UrRWz| RbDX|
+
+"bishopric"
+% MATERIAL 
+(XsArWz| X|AWs|)
+
+"bisk"
+(X|IAzIzU)
+
+"bismuth"
+% CONCRETE MATERIAL 
+(ZbWWjD)
+
+"bison"
+% CONCRETE ANIMAL MATERIAL 
+(GzIUl)
+
+"bisque"
+% CONCRETE MATERIAL 
+(R|Uz[z)
+
+"bisque"
+% CONCRETE MATERIAL 
+(X|IAzIzU)
+
+"bissextile"
+% TIME
+(WwDDjD)
+
+"bister"
+(WbQAbIUcA)
+
+"bistoury"
+(Wl|AlbWrW QgUz)
+
+"bistre"
+(WbQAbIUcA)
+
+"bistro"
+% CONCRETE ANIMAL MATERIAL PLACE
+(QlADlUsIX|R)
+
+"bisulfide"
+(^lbW^lbQsI)
+
+"bisulphate"
+(XsW^lbWUbDWjQ)
+
+"bisulphide"
+(^lbW^lbQsI)
+
+"bisupfate"
+(XsW^lbWUbDWjQ)
+
+"bit"
+% CONCRETE MATERIAL 
+(XbAWzD XlAbA)
+# NUM1 bit of A (NOUN) : [(POSS [(NMODS NUM1) XlAbA<NOUN>]/Wz|) A]
+* [(POSS [(NMODS NUM1) R|\z<NOUN>]/Wz|) A]
+* A (information XfWRl)
+# a bit and a sup (NOUN) : WdAAbDWz| WzQU|A
+# a bit more (ADV) : XlAzQ Gf
+# a bit of A (NOUN) : [(POSS [WdAAbD<NOUN>]/Wz|) A]
+# a bit of all right (NOUN) : ^sIIwW^bD AfU
+# a bit of blood (NOUN) : UsDXlW
+# a good bit (ADV) : Blc WlIcUGlWWbD
+# a little bit (ADV) : WdAAbD
+# a little bit of A (NOUN) : [(POSS A/Wz|) WdAAbD<NOUN>]
+# bit by bit (ADV) : XlAzQV|A
+# ^do ONE_S  bit (VERB) : XbA| RlDRsDWzI Gb^bGb
+# ^draw bit (VERB) : AlS|IzI GbWAj QbIWzI WfAf^bGb
+# ^get the bit between the teeth (VERB) : QbIWzI GzGX| WbD^Gb
+# ^give a person of doing (VERB) : Blc ^|QW| GzIGb
+# quite a bit (ADV) : UbWGbW^|
+# quite a bit of A (NOUN) : [(AMODS [UbWGbW^| QbD^<ADJ>]/Gb) A]
+# ^take the bits (VERB) : XcAbIWzI QsIGb
+# ^take the bit between the teeth (VERB) : QbIWzI GzGX| WbD^Gb
+
+"bitch"
+% CONCRETE ANIMAL MATERIAL 
+(WbQ[c)
+
+"bitcher"
+% HUMAN
+(RsI]jWAb)
+
+"bite"
+% CONCRETE MATERIAL ACTION
+(QsIA|)
+# big bite (NOUN) : GcIdW
+# bit and sup (NOUN) : AbDGbD^bD U|AUb
+# ^make two bits at a cherry (VERB) : ^bDRfDWzIl Gl|I W|IWzI GsRfDWg ^bGb
+# ^make two bits of a cherry (VERB) : ^bDRfDWzIl Gl|I W|IWzI GsRfDWg ^bGb
+
+"biter"
+% HUMAN
+(QsDzD UbIbQ)
+
+(QsIA|)
+
+"bitt"
+(AkXs)
+
+"bitter"
+% CONCRETE MATERIAL 
+(VzD QbU)
+# ^taste the sweets and bitters of life (VERB) : W|DUcWWz| VzDQbU GbDQbUWzI Gb QbURlGb
+
+"bitter-ender"
+% HUMAN
+(Bz\BbX| AsIRlA WbD^DzD UbIbQ)
+
+"bittern"
+% CONCRETE ANIMAL MATERIAL 
+(AbDUs)
+
+"bitterness"
+% CONCRETE MATERIAL 
+(VzD QbU)
+
+"bittersweet"
+% CONCRETE ANIMAL MATERIAL 
+(VzDQbUW| GlDzD GbDQbU)
+
+"bitumen"
+% CONCRETE MATERIAL 
+(WjAZfW)
+
+"bivalve"
+% CONCRETE ANIMAL MATERIAL 
+(VbWAbAIwWz| XlAc)
+
+"bivouac"
+% CONCRETE MATERIAL 
+(DlWjW)
+
+"biweekly"
+(AjAXs ZsI]bDQsI)
+
+"biz"
+(WfRQs)
+
+"bizarreness"
+% CONCRETE MATERIAL 
+(A|Al|^bQ)
+
+"bizarrerie"
+(Al|W|)
+
+"bizonia"
+% PLACE ORGAN
+(UfGlAWz| Q|WjW XfQIjWX|As)
+
+"blab"
+(^f\zD UlI|)
+
+"blabber"
+% HUMAN
+(UsGbXbWW|)
+
+"black"
+% CONCRETE MATERIAL 
+(AfQXfW)
+# black bourse (NOUN) : Wl|AsA^lbD WbQAfIcU|XbW
+# black ink figure (NOUN) : XfAXb
+# black list (NOUN) : WrU|ZbIW|DQjWRs
+# black market (NOUN) : WbQAfIcU|XbW
+# black ^people (NOUN) : ^zAW|DGzI
+# black and white (NOUN) : ^zARcA
+# blacks (NOUN) : ^zAW|D
+# ^prove that black is white (VERB) : ^zAWzI RcAW|IbAl AlX|R^bGb
+# ^take black into white (VERB) : ^zAWzI RcAW|IbAl AlX|R^bGb
+# the blacks (NOUN) : ^zAW|D {+HUMAN,+ANIMAL}
+
+"black-and-tan"
+% ANIMAL
+(\gI|WfAc)
+
+"black-and-white"
+% CONCRETE MATERIAL 
+(W|DUlc)
+
+"blackamoor"
+% HUMAN
+(^zAW|D)
+
+"blackball"
+% MATERIAL ACTION
+(RbDGc \s]r)
+
+"blackballer"
+% HUMAN
+(RbDGc \s]rXb)
+
+"blackberry"
+% CONCRETE MATERIAL PLANT FOOD
+(RzIIcARgI|)
+
+"blackbird"
+% CONCRETE ANIMAL MATERIAL 
+(AfQWzDUc)
+
+"blackbirding"
+% ACTION
+(^zAW|D DlWk WwAl|)
+
+"blackboard"
+% CONCRETE MATERIAL 
+(Z|I]bD)
+# blackboard jungle (NOUN) : ]lAIjA ArU|I
+
+"blackcap"
+% CONCRETE ANIMAL MATERIAL 
+(GcAbI|Ab AfQWzD Uc)
+
+"blackcoat"
+% HUMAN
+(QlAUb)
+
+"blackcock"
+% CONCRETE ANIMAL MATERIAL 
+(AfQWzD QgUGbIAWz| Us[fU)
+
+"blacker"
+% HUMAN
+(AfQAg^bDzD UbIbQ)
+
+"blackface"
+% ANIMAL
+(WfIAsIW| AfQWzD WdW)
+
+"blackfellow"
+% HUMAN
+(WlUz\zIgW|II|Wb \lW|D)
+
+"blackfish"
+% CONCRETE ANIMAL MATERIAL 
+(AfQWzD AlIc)
+
+"blackfoot"
+% HUMAN ORGAN
+(RsAQ| \lW|DWz| ^bD XlWXlA)
+
+"blackguard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIIdWRc)
+
+"blackguardism"
+% ACTION
+(QsIl|^bDWz| ^cWWs|)
+
+"blacking"
+% ACTION
+(AfQAg^bA|)
+
+"blackjack"
+% CONCRETE MATERIAL 
+(QcAXs XlB|)
+
+"blackleg"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbA|AsD)
+
+"blacklist"
+% CONCRETE MATERIAL 
+(RzIIcA I|Uz\z)
+
+"blackmail"
+% MATERIAL ACTION
+(AbIZs|)
+
+"blackmailer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbIZs|Xb)
+
+"blackness"
+% CONCRETE MATERIAL 
+(AfQWzDR|Z)
+
+"blackout"
+% MATERIAL 
+(UlGzW)
+
+"blacksmith"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcXbWXbWW|)
+
+"blacksnake"
+% CONCRETE ANIMAL MATERIAL 
+(AfQXfW RcQ)
+
+"blackthorn"
+% MATERIAL PLANT
+(W|DQlA)
+
+"bladder"
+% CONCRETE MATERIAL 
+(RbWAlbW)
+# gall bladder (NOUN) : VzIAcXzR
+
+"bladderwort"
+(\lWRbI)
+
+"blade"
+% CONCRETE MATERIAL PLANT
+(]sIW|])
+# retractable blade (NOUN) : XfRDzD [bI
+
+"blade"
+% CONCRETE MATERIAL 
+([bIDbI)
+# in the blade (ADV) : W|]W| DbWlb
+# knowing blade (NOUN) : R|D\zQ WfRUDzD UbIbQ
+
+"bladebone"
+% ANIMAL
+(WfBcSj)
+
+"bladesmith"
+% HUMAN
+([bI GcXbWXbWW|)
+
+"blaeberry"
+% PLANT
+(WsfIAwIDbQs)
+
+"blague"
+(DlWGbQ)
+
+"blah"
+(DlWGbQ)
+
+"blain"
+% MATERIAL 
+(QsIX|R)
+
+"blamableness"
+(R|DbD^bIQbD^bQ)
+
+"blame"
+% CONCRETE MATERIAL 
+(R|DbD)
+# ^lay the blame on A (VERB) : [(ADJUNCT A/WgAg) ZcAW|QX|Ws<VERB>]/Gb
+# ^put the blame on A (VERB) : [(OBJ A/IzI) R|DbD^b<VERB>]/Gb
+
+"blamelessness"
+% MATERIAL 
+(AcIRcA^bQ)
+
+"blameworthiness"
+% MATERIAL 
+(ZcAQbWRbGWzIQbD^bQ)
+
+"blancmange"
+% CONCRETE MATERIAL 
+(RzIIfQlDX|)
+
+"blandisher"
+% HUMAN
+(WbZfQAsD)
+
+"blandishment"
+% CONCRETE MATERIAL 
+(WbZfQ)
+
+"blandness"
+% CONCRETE MATERIAL 
+(WlD^lb^bQ)
+
+"blank"
+% CONCRETE MATERIAL 
+(AlWRcA)
+# blank bill (NOUN) : RcAX|WfWzQ
+# blank cheque (NOUN) : RcAX|U|AUs]r
+# blank endorsement (NOUN) : RcAX|U|ARcUf
+# in blank (ADV) : QsA|QjWWzIl
+# order blank (NOUN) : XsQsDWrWX|
+
+
+"blanket"
+% CONCRETE MATERIAL 
+(GbQWr)
+# blanket license (NOUN) : ]lAlbI^fAb
+# blanket mortgate (NOUN) : AlWGlWGbQRl
+# blanket policy (NOUN) : ]lAlbIRl^fQAkWdA
+# blanket price (NOUN) : ^zWXfWAbAjA
+# blanket rate (NOUN) : ZlWAlbIXfARl^fQIr
+# wet blanket (NOUN) : XfXWzD GbQWr
+
+"blanketing"
+(XfD]bRbW^c)
+
+"blankness"
+% MATERIAL 
+(AlWRcA)
+
+"blare"
+% MATERIAL 
+([zAg WsII|DzD UlI|)
+
+"blarney"
+% CONCRETE MATERIAL 
+(WbZfQ)
+
+"blasphemer"
+% HUMAN
+(U|DUfW QlGlAXb)
+
+"blasphemousness"
+(RsIAjW^bQ)
+
+"blasphemy"
+% CONCRETE MATERIAL 
+(QlGlA)
+
+"blast"
+% MATERIAL 
+(GlI]sW)
+# at a blast (ADV) : ^bDUsQWg
+# at full blast (ADV) : XfDIjAWzI Gb^bWj
+# full blast (ADV) : XfDIjAWzI Gb^bWj
+# in full blast (ADV) : XfDIjAWzI Gb^bWj
+# ^be in blast (VERB) : RbIbQWzI RlDcAl W|VGb
+# ^be out_of blast (VERB) : RbIbQWzI AzZ|Al W|VGb
+
+"blast-down"
+(WjAZsX|D ZbAIwA)
+
+"blast-off"
+(RbIUb)
+
+"blasting"
+(]lA]b)
+
+"blastoderm"
+% MATERIAL 
+(]lRcRjA)
+
+"blastula"
+% CONCRETE ANIMAL MATERIAL 
+(]lRc)
+
+"blatancy"
+(HfGzIUfA^bQ)
+
+"blatherskite"
+% CONCRETE MATERIAL 
+(UsGb)
+
+"blaxploitation"
+% ACTION
+(^zAW|DWrW XfW^jW^lb)
+
+"blaze"
+% CONCRETE MATERIAL 
+(RsIBlZ)
+# in a blaze (ADV) : ^lbA \bWlIIb
+# like blazes (ADV) : QcWIjI^|
+
+"blaze"
+% CONCRETE MATERIAL 
+(^z|D RbDXfQ)
+
+"blazer"
+% CONCRETE ANIMAL MATERIAL 
+(RzIIgW|Xf)
+
+"blazer"
+% CONCRETE ANIMAL MATERIAL 
+(]fHzI|DzD UbIbQ)
+
+"blazon"
+% CONCRETE MATERIAL 
+(QsDXbW)
+
+"blazonment"
+% ACTION
+(AlbU|)
+
+"blazonry"
+% CONCRETE MATERIAL 
+(QsDXbW)
+
+"bleach"
+% CONCRETE MATERIAL 
+(]rRcA)
+
+"bleacher"
+% HUMAN
+(]rRcAWfRXb)
+
+"bleacherite"
+% HUMAN
+(Wl|WdUfAWz| AsAjWBsD)
+
+"bleachery"
+% PLACE ORGAN
+(]rRcAXbW)
+
+"bleaching"
+(]rRcARfR)
+
+"bleak"
+% ANIMAL
+(W|WWfAlbWz| QsIAlA|)
+
+"bleakness"
+% MATERIAL 
+(^lbWIdW^bQ)
+
+"bleat"
+(WsIWzQUlI|)
+
+"bleb"
+(QsIX|R)
+
+"bleeder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UcB|)
+# bleeder's disease (NOUN) : ^jIWsRjWWz| UbIbQ
+
+"bleeding"
+% MATERIAL 
+(ZsI^jI)
+
+"blemish"
+% CONCRETE MATERIAL 
+(^zQ)
+
+"blend"
+% MATERIAL 
+(^lD^bR)
+
+"blende"
+(UfQWbWjDAlbW)
+
+"blending"
+(^lD^bR)
+
+"blenny"
+% CONCRETE ANIMAL MATERIAL 
+(Al|GlIbZ|AlbWz| QsIAlA|)
+
+"blessedness"
+% MATERIAL 
+(^cWWsD)
+
+"blessing"
+% CONCRETE MATERIAL 
+(ZsARlA)
+# ^ask the blessing (VERB) : U|AXfDWz| A|GlIzI GzI|Gb
+# ^give the blessing (VERB) : U|AXfDWz| A|GlIzI GzI|Gb
+# ask in disguise (NOUN) : Al|IlRX|QbD W|W|AW| Gl|DzD AjW^fQ
+
+"blight"
+% MATERIAL 
+(QbIIbXsADzD RjW)
+
+"blighter"
+% HUMAN
+(BlIUbDbWsD DlQ)
+
+"blighty"
+% PLACE
+(WjWAsARlD\l)
+
+"blighty"
+% PLACE
+(WjWAsARlD\l)
+
+"blimp"
+% CONCRETE ANIMAL MATERIAL 
+(Ul^jWR|^cWUfD)
+
+"blind"
+% CONCRETE MATERIAL 
+(ZbWdW)
+
+"blindage"
+(RbW\bDRjA)
+
+"blinder"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(^sIIwW^bD AfU)
+
+"blindfold"
+% CONCRETE ANIMAL MATERIAL 
+(DsDAbI|DzD ZfD)
+
+"blinding"
+(RzIIbW|DG|W)
+
+"blindman"
+% HUMAN
+(XbWD|Q)
+# blindman's buff (NOUN) : XbWD|Q DlIW|
+
+"blindness"
+% MATERIAL 
+(DsDW| QfQ)
+
+"blindstory"
+(ZbW WfRUDzD AkZzW)
+
+"blindworm"
+% CONCRETE ANIMAL MATERIAL 
+(RbIWfRUDzD GlQbRcQ)
+
+"blink"
+% MATERIAL 
+(^bDUsDAbD)
+
+"blinkard"
+(DsD BbQYbAW|)
+
+"blinker"
+% CONCRETE MATERIAL HUMAN
+(DsD BbQYbAW|DzD UbIbQ)
+# ^be in blinkers (VERB) : XsWs|Wz| ^jWUgIzI QlIzAl W|VGb
+# ^run in blinkers (VERB) : XsWs|Wz| ^jWUgIzI QlIzAl Hs|Gb
+
+"blip"
+% CONCRETE MATERIAL 
+(IgW|GbWbWz| Uz[zI|W|DWg Db\bDbDzD XfQ)
+
+"bliss"
+% MATERIAL 
+(^cWRlA)
+
+"blissfulness"
+(^cWRlAWg DfQZ|Q)
+
+"blister"
+% CONCRETE MATERIAL 
+(QsIX|R)
+
+"blitheness"
+% MATERIAL MIND
+(Ww[lc^bQ)
+
+"blitz"
+% MATERIAL ACTION
+(XfDAjAXbAXfD)
+
+"blitzflu"
+(XfDAjAUfW Ww^cWUfW AbQA|)
+
+"blitzkrieg"
+% ACTION
+(XfDAjAXfD)
+
+"blizzard"
+% MATERIAL 
+(DsDRlIb)
+
+"bloater"
+% CONCRETE MATERIAL 
+(^sDXg^bD R|WsU)
+
+"blob"
+% MATERIAL 
+(WfIIsA)
+
+"bloc"
+% MATERIAL 
+(GbD)
+# dollar bloc (NOUN) : GbIIbAsfD
+# economic bloc (NOUN) : AjWXgAsfD
+
+"block"
+% CONCRETE MATERIAL 
+(RzIIfA)
+# one block (NOUN) : ^bD RzIIfA
+# a block and tackle (NOUN) : Al]cWlb Al]cUXsI
+# bloc economy (NOUN) : RzIIlA AjWXg
+# building blocks (NOUN) : X|RX|UA|DlIW|Wz| DbQs \lQbA
+# ^cut blocks with a razor (VERB) : WbBbWsD X|UWzI ^bGb
+# ^go to the block (VERB) : GbDGsGgIl WlIzAg Gl|Gb
+# ^come to the block (VERB) : GbDGsGgIl WlIzAg Gl|Gb
+
+"blockade"
+% CONCRETE MATERIAL ACTION
+(RlWUlc)
+# ^break a blockade (VERB) : RlWUlcIzI HsI^Al W|R^bW^bGb
+# economic blockade (NOUN) : AjWXgRlWUlc
+# ^lift a blockade (VERB) : RlWUlcIzI ^cXg^bGb
+# ^raise a blockade (VERB) : RlWUlcIzI ^cXg^bGb
+# ^run a blockade (VERB) : RlWUlcUfDWzI HsI^Gb
+
+"blockader"
+% HUMAN
+(RlWUlcXb)
+
+"blockage"
+% CONCRETE MATERIAL 
+(RlWUlc)
+
+"blockball"
+(XbW^cAs)
+
+"blockbuster"
+% CONCRETE ANIMAL MATERIAL 
+(Gc^jW AlUfWDzW ]lA\bD)
+
+"blockhead"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QfWZfWW|)
+
+"blockhouse"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD WrUc)
+
+"bloke"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlQ)
+
+"blond"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RzIIlDGzWz| UbIbQ)
+
+"blonde"
+% HUMAN
+(AzQRbIWjXb)
+
+"blondness"
+% CONCRETE MATERIAL 
+(AzQUcA)
+
+"blood"
+% CONCRETE MATERIAL 
+(]|)
+# bad blood (NOUN) : DlWjWsQ
+# ill blood (NOUN) : DlWjWsQ
+# blood and iron (NOUN) : AbWAjW^bD QsIjAXfWZcA
+# blood and thunder (NOUN) : ]lAIjA Ww^jIAzA
+# blood in ONE_S  eyes (ADV) : DsDWg ]|URbIWzI UgWsAl
+# blood sugar (NOUN) : ^jIGbW
+# blue blood (NOUN) : AlAs|^bD ZcUcW
+# fresh blood (NOUN) : UcAbXlA
+# new blood (NOUN) : UcAbXlA
+# ^get blood from a stone (VERB) : QsI|^bD X|UWzI ^bGb
+# ^have someONE_S blood on ONE_S  head (VERB) : DbQWz| XsAWzQWg ZcAW|QW| W|VGb
+# in cold blood (ADV) : DcW^lA^bAg
+# in hot blood (ADV) : AjARsD^bWj
+# in warm blood (ADV) : AjARsD^bWj
+# ^let blood (VERB) : RbW^jI^bGb
+# ^make ONE_S  blood run cold (VERB) : WlVbA^bAg ^bGb
+# man of blood (NOUN) : UbIW|DXb
+# prince of the blood (NOUN) : WlbWXb
+# princess of the blood (NOUN) : AlWXs
+# ^run in ONE_S  blood (VERB) : ]|UXsIWzI W|WfRbGGb
+# ^be in ONE_S  blood (VERB) : ]|UXsIWzI W|WfRbGGb
+# ^taste blood (VERB) : ]|QbUWzI WbIGb
+# to the last drop of ONE_S  blood (ADV) : QlAUsQW| Rs\Wf W|VDzD ^bD
+
+"bloodbath"
+(Gc^bAUbI)
+
+"bloodcurdler"
+(XfDWwIXfAW|D W|WdA|)
+
+"bloodhound"
+% CONCRETE ANIMAL MATERIAL 
+(AjWZbIAjD)
+
+"bloodiness"
+(]|\sUfWW|)
+
+"bloodlessness"
+(]|UA|WfRUWzQ)
+
+"bloodletting"
+% MATERIAL 
+(RbW^jI)
+
+"bloodline"
+% CONCRETE MATERIAL 
+(^jI\lW)
+
+"bloodmobile"
+(^jIWcAZb)
+
+"bloodshed"
+% MATERIAL 
+(Ww^jI)
+
+"bloodshedding"
+(Ww^jI)
+
+"bloodstain"
+(]|UXbAsA)
+
+"bloodstock"
+(UsDXlW)
+
+"bloodstone"
+% MATERIAL 
+(^jIUfA)
+
+"bloodsucker"
+% CONCRETE ANIMAL MATERIAL 
+(^zR^jIGlWQsI)
+
+"bloom"
+% CONCRETE MATERIAL PLANT
+(BlZ)
+# ^be in bloom (VERB) : ]|Wf W|VGb
+# ^be out_of bloom (VERB) : HfIWfXj W|VGb
+# in full bloom (PP) : QbDRbI^bWj ^bDZbW
+
+"bloomary"
+(Al|ZfIIl)
+
+"bloomer"
+% CONCRETE ANIMAL MATERIAL 
+(RzIIsWsQf)
+# bloomer car (NOUN) : XfDZb
+
+"bloomer"
+% CONCRETE ANIMAL MATERIAL 
+([zD U|IUs)
+
+"bloomery"
+(Al|ZfIIl)
+
+"bloop"
+(RsI[lc^bD XbRWzQ)
+
+"blooper"
+% MATERIAL 
+(U|IUs)
+
+"blossom"
+% CONCRETE MATERIAL 
+(RlWWlI|)
+# in blossom (ADV) : BlZW| ]|Wf
+# in full blossom (PP) : QbDRbI^bWj
+# little blossom (NOUN) : As|WjWsD Wc
+
+"blot"
+% CONCRETE MATERIAL 
+(WfIIsA)
+
+"blotch"
+% MATERIAL 
+(RsUzIfQ)
+
+"blotter"
+% CONCRETE MATERIAL 
+(WbRX|)
+
+"blouse"
+% CONCRETE ANIMAL MATERIAL 
+(RzIIbWsUz)
+
+"blow"
+% MATERIAL ACTION
+(AbW\b)
+# NUM1 blow (NOUN) : [(POSS [(NMODS NUM1) RfD<NOUN>]/Wz|) W|IAjA<NOUN>] 
+# ^be at blows (VERB) : AjA\s^bAl W|VGb
+# at one blow (ADV) : ^bD GcWg
+# at a blow (ADV) : ^bD GcWg
+# ^deal a blow (VERB) : W|IAjAWzI Ab^bGb
+# ^strike a blow at A (VERB) : [(OBJ2 A/WgAg) (OBJ [W|IAjA<NOUN>]/WzI) Ab^b<VERB>]/Gb
+# ^strike a blow for A (VERB) : [(ADJUNCT A/Wg) ]jDGzI<VERB>]/Gb
+# ^strike a blow against A (VERB) : [(ADJUNCT A/Wg) RbD^bW^b<VERB>]/Gb
+# without striking a blow (ADV) : ^|QGzIW|X| WbD^Al
+
+"blow"
+% MATERIAL 
+(RsIGb)
+# ^go for a blow (VERB) : Ul]sWAbGb
+
+"blowball"
+(UsAlb)
+
+"blower"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(RsDzD UbIbQ)
+
+"blowfish"
+% CONCRETE ANIMAL MATERIAL 
+(]cWZbWWf)
+
+"blowfly"
+% CONCRETE ANIMAL MATERIAL 
+(]bI|)
+
+"blowgun"
+% CONCRETE MATERIAL 
+(Zs|AlbD)
+
+"blowhard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^f]sWUfDW|)
+
+"blowhole"
+(RsDUsAlW)
+
+"blowing"
+(RsDZsI^bDzD UlI|)
+
+"blowmobile"
+(Uz[| XbGlWZb)
+
+"blowoff"
+(RsDZsI)
+
+"blowout"
+% MATERIAL 
+(]bWjI)
+
+"blowpipe"
+% CONCRETE MATERIAL 
+(Zs|AlbD)
+
+"blowup"
+% MATERIAL 
+(]lARbI)
+
+"blubber"
+% CONCRETE MATERIAL 
+(AlIc A|IzQ)
+
+"bluchers"
+% CONCRETE ANIMAL MATERIAL 
+(AsU|A RbDXbW^lb)
+
+"bludgeon"
+% CONCRETE ANIMAL MATERIAL 
+(AlDRlW)
+
+"blue"
+% CONCRETE MATERIAL 
+(]bIbDUcA)
+# the men in blue (NOUN) : UsDAjW
+# blue book (NOUN) : ZfWUf
+
+"blue-black"
+(X|D^bD DbQR|Z)
+
+"blue-chip"
+(RzIIsZ|R)
+
+"bluebeard"
+% HUMAN
+(]sIzDUsWjQWz| UbDbW|)
+
+"bluebell"
+% CONCRETE MATERIAL 
+(RzIIsRgI)
+
+"blueberry"
+% CONCRETE MATERIAL PLANT
+(WsfIAwIDbQs)
+
+"bluebird"
+% CONCRETE ANIMAL MATERIAL 
+(]bIbWUc)
+
+"bluebonnet"
+(ZfWUcAQlXb)
+
+"bluebook"
+(ZfWUf)
+
+"bluebottle"
+% CONCRETE ANIMAL MATERIAL 
+(GbIAsX| AsA^lb)
+
+"bluecoat"
+% HUMAN
+(DbQUcA XgRlAWzI W|RWzD UbIbQ)
+
+"bluefish"
+% CONCRETE ANIMAL MATERIAL 
+(XfDAcWW|)
+
+"bluegrass"
+% PLANT
+(Uc]lWb ]sI)
+# Bluegrass State (NOUN) : Q|AsA [gD\f[| Xs
+# Bluegrass Region (NOUN) : Q|AsA [gD\f[|Wz| XsWRsX|RbW
+
+"bluejacket"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsRjW)
+
+"bluejay"
+% ANIMAL
+(WfZ|)
+
+"blueness"
+% CONCRETE MATERIAL 
+(]sIzQ)
+
+"bluenose"
+% HUMAN
+(ZfWArGlXfAW|D UbIbQ)
+
+"bluepoint"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD AsI)
+
+"blueprint"
+% CONCRETE MATERIAL 
+(ZfWUbX|D)
+
+"blueprinting"
+(ZfWUbX|D)
+
+"blues"
+% MATERIAL HUMAN
+(AzDWs| A|RjW)
+
+"blues"
+% MATERIAL MIND
+(Z|QWsI)
+
+"bluestocking"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsD^bAWzI Xl^Wb^bDzD WjXb)
+
+"bluestone"
+(^lbWUbDGlW)
+
+"bluff"
+% CONCRETE MATERIAL PLACE
+(RjIbW)
+# ^call a person's bluff (VERB) : BzUUsIzI AlWAcU|[|Gb
+
+"bluffness"
+% ACTION
+(^fUgRsI|A|)
+
+"bluing"
+% CONCRETE MATERIAL 
+(ZfWRsD)
+
+"blunder"
+% MATERIAL ACTION
+([zD U|IUs)
+
+"blunderbuss"
+% CONCRETE ANIMAL MATERIAL 
+(Db]bIZlW)
+
+"blunt"
+(GlURbDzI)
+
+"bluntness"
+% CONCRETE MATERIAL 
+(GsD^bQ)
+
+"blur"
+(^zI|Q)
+
+"blurb"
+% CONCRETE MATERIAL 
+(WbDDcQsD)
+
+"blurt"
+(RsIVsA BfDcA|)
+
+"blush"
+% MATERIAL ACTION
+(WfIAsIWzI RsIA^|Gb)
+# at first blush (ADV) : W|IAjD^bWj
+# at the first blush (ADV) : W|IAjD^bWj
+# on first blush (ADV) : W|IAjD^bWj
+# on the first blush (ADV) : W|IAjD^bWj
+# ^put a person to the blush (VERB) : DbQWzI WfIAsIWzI RsIA^|Ag ^bGb
+
+"bluster"
+(AfZ|IAg QlIWbZ|Q)
+
+"blusterer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbD]lA^bD UbIbQ)
+
+"bo"
+(YbA]c)
+
+"boa"
+% CONCRETE ANIMAL MATERIAL 
+(WlbWRcQ)
+
+"boar"
+% CONCRETE ANIMAL MATERIAL 
+(Us\lcX|)
+# boar's head (NOUN) : QgUGlcX| GcAbI|
+
+"board"
+% CONCRETE MATERIAL 
+(RlGz)
+# Economic Planning Board (NOUN) : AjWXg A|^l|AWsfD
+# above board (ADV) : AlWQjWXfWGc^bAg
+# advisory board (NOUN) : XbQsDGbD
+# ^be on board $ (VERB) : \bAl W|VGb
+# ^be on the boards (VERB) : QsGcIzI RbIRGb
+# ^be tread the boards (VERB) : QsGcIzI RbIRGb
+# board and board (ADV) : RcUXfDWzI DbIbD^| ^bWj
+# board and lodging (NOUN) : U|AUbIzI XgAlW^bDzD ^bUsA
+# board by board (ADV) : RcUXfDWzI DbIbD^| ^bWj
+# board by board (ADV) : RcUXfDWzI DbIbD^| ^bWj
+# board on board (ADV) : RcUXfDWzI DbIbD^| ^bWj
+# board room (NOUN) : XsU|AAfIcUlWz| W|R^l|Ul
+# ^come one board (VERB) : As|UfD^bGb
+# drawing board (NOUN) : ^lb]bD
+# ^fall on board of A (VERB) : [(ADJUNCT A/Alb) ZsWGlI^b<VERB>]/Gb
+# ^get on board A (VERB) : [(OBJ A/IzI) \b<VERB>]/Gb
+# ^go by the board (VERB) : RsIfXj RbGbIl HfIWfX|Gb
+
+# on even board with A (ADV) : (ADJUNCT [(ADJUNCT A/Alb) (OBJ [RcUXfD<NOUN>]/WzI)
+ DbIbD^| ^b<VERB>]/^bWj)
+# ^run on board of A (VERB) : [(ADJUNCT A/Alb) ZsWGlI^b<VERB>]/Gb
+# ^sweep the board (VERB) : XfDUzW^bGb
+# the Board of Education (NOUN) : QsDArUfW
+# the Board of Election (NOUN) : UfDAfAlbDI| Ws|WsfD^l|
+# the Board of Trade (NOUN) : UbWQsUfW
+# the board of directors (NOUN) : XsWWjA^l|
+
+"boarder"
+% HUMAN
+(^bUsAW|D)
+
+"boarding"
+% CONCRETE MATERIAL 
+(]bDXb)
+# boarding card (NOUN) : \bRUzWAsfD
+# boarding visit (NOUN) : UzWUfD W|QAfQ
+
+"boarding-out"
+% ACTION
+(Wl|U|A)
+
+"boardinghouse"
+% PLACE
+(^bUsAX|R)
+
+"boardingroom"
+% PLACE
+(W|R^l|XbW)
+
+"boardroom"
+% PLACE
+(W|Ub^l|U|I)
+
+"boardwalk"
+% CONCRETE MATERIAL 
+(]bDXbA|I)
+
+"boarhound"
+% ANIMAL
+(QgUGlcX| UbDdWWrWWz| [zD Ac)
+
+"boast"
+% CONCRETE MATERIAL 
+(XbIbW)
+# ^make a boast of A (VERB) : [(OBJ A/WzI) XbIbW^b<VERB>]/Gb
+
+"boaster"
+% HUMAN
+(^f]sWUfDW|)
+
+"boastfulness"
+% CONCRETE MATERIAL ACTION
+(XbIbW^bA|)
+
+"boasting"
+% CONCRETE MATERIAL
+(AfQbD)
+
+"boat"
+% CONCRETE MATERIAL 
+(RlWs\z)
+# bare boat charter (NOUN) : AlbWrWUfD
+# be in the same boat (NOUN) : ^lbDAjW
+# ^burn ONE_S  boats (VERB) : RcUsX|DWzI Z|Gb
+# ^go by boat (VERB) : RcIzI \bAl AbGb
+# ^have an oar in everyONE_S boar (VERB) : WbQsWz| W|IW|Db ZbQAjD^bGb
+# pleasure boat (NOUN) : WwIbQUfD
+# sightseeing boat (NOUN) : WwIbQUfD
+# ^take a boat (VERB) : RcIzI \bGb
+# ^take a boat ride (VERB) : RcIzI \bGb
+
+"boatage"
+(RcUUbAU)
+
+"boatbill"
+% CONCRETE ANIMAL MATERIAL 
+(^cWlIbA|)
+
+"boatel"
+% PLACE
+(Rl\z \bDzD UbIbQGzIWz| UsARbAUl)
+
+"boater"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(Rl\z \bDzD UbIbQ)
+
+"boatful"
+(^bDRc AbGzA)
+
+"boathouse"
+% CONCRETE ANIMAL MATERIAL 
+(Rl\z ZbWAl)
+
+"boating"
+% MATERIAL ACTION
+(RcUDlIW|)
+# boating party (NOUN) : RcUDlIW|Wz| W|I^cW
+# ^go boating (VERB) : RcUDlIW| AbGb
+
+"boatload"
+(^bD Rc AbGzAWz| X|Q)
+
+"boatman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RcUUbAlW)
+
+"boatmanship"
+% ART
+(XlXfWUsI)
+
+"boatswain"
+% HUMAN
+(AbR]bDXbW)
+
+"bobber"
+% CONCRETE MATERIAL 
+(DbBU|Y|)
+
+"bobbery"
+(WdGbDRfRUfA)
+
+"bobbin"
+% CONCRETE ANIMAL MATERIAL 
+(U|I]c)
+# bobbin lace (NOUN) : UlDWzIl YbD IgW|Uz
+
+"bobbinet"
+(IgW|Uz X|A)
+
+"bobbing"
+(IgW|GbWz| RsIAwZ|A UsU|D)
+
+"bobble"
+(U|IUs)
+
+"bobby"
+% HUMAN
+(UsDAjW)
+
+"bobby-soxer"
+% HUMAN
+(UbZsDA|Wz| UlDj)
+
+"bobcat"
+% CONCRETE ANIMAL MATERIAL 
+(UzIbUlD|)
+
+"bobolink"
+% CONCRETE ANIMAL MATERIAL 
+(Q|U|AXl)
+
+"bobsled"
+% CONCRETE ANIMAL MATERIAL 
+(RlR UzIgGz)
+
+"bobsleigh"
+% CONCRETE ANIMAL MATERIAL 
+(RlR UzIIgW|)
+
+"bobstay"
+(Xg 1 UbXbWWz| X|UcA)
+
+"bobtail"
+% ANIMAL
+(BlI|IzI XbIzD QbI)
+
+"bobwhite"
+% CONCRETE ANIMAL MATERIAL 
+(QgZsIbA|)
+
+"boche"
+% HUMAN
+(GlAW|I UbIbQ)
+
+"bock"
+% CONCRETE MATERIAL FOOD
+(GlA^bD ^zAQcAXs)
+
+"bodement"
+(XfDXl)
+
+"bodhisattva"
+(RlUbI)
+
+"bodice"
+% CONCRETE ANIMAL MATERIAL 
+(RbG|Uz)
+
+"boding"
+(XfDXl)
+
+"bodkin"
+% CONCRETE ANIMAL MATERIAL 
+(GlURbDzI)
+# ^sit bodkin (VERB) : Gs UbIbQ UbW|Wg B|Wf WbDXGb
+# ^ride bodkin (VERB) : Gs UbIbQ UbW|Wg B|Wf \bAl AbGb
+# ^travel bodkin (VERB) : Gs UbIbQ UbW|Wg B|Wf \bAl AbGb
+
+"body"
+% CONCRETE MATERIAL ANIMAL ORGAN
+(QlQ)
+# body and breeches (ADV) : WbXs
+# ^give body and soul to A (VERB) : [(OBJ2 A/WgAg) (OBJ [U|QU|D<NOUN>]/WzI) RbZ|<VERB>]/Gb
+# heirs of ONE_S  body (NOUN) : X|AAk UbWUlAXb
+# ^keep body and soul together (VERB) : AjWs UbIWbAbGb
+# spiritual body (NOUN) : XfWIjWZg
+# the body of Christ (NOUN) : UfWZbDWz| SbW
+
+"bodybuilding"
+% ACTION
+(RlG|R|IG|W)
+
+"bodyguard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlG|AbGz)
+
+"bodysuit"
+(QlQWg ZbA GbIIbRs\DzD WsfD]|Uz)
+
+"boeotian"
+% HUMAN
+(WsGsD^bD UbIbQ)
+
+"boff"
+(]lAUl)
+
+"boffin"
+% HUMAN
+(WjDAsWsfD)
+
+"boffo"
+(]lAUl)
+
+"bog"
+% CONCRETE MATERIAL 
+(Dz])
+
+"bogey"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlA|)
+
+"boggle"
+(U|IUs)
+
+"boggle"
+(WwIjW)
+
+"bogie"
+(GlBcR|)
+
+"bogie"
+(RlWsA| Zb)
+
+"bogle"
+(WwIjW)
+
+"bogtrotter"
+% HUMAN
+(Ul\cAX| XsQ|D)
+
+"bogus"
+# bogus dividend (NOUN) : QsDWfRbIU|A RcGbW
+
+"bogwood"
+(QsG^|D DbQs)
+
+"bogy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlBcR|)
+
+"bohemianism"
+(RbWXlW^bD A|X|I)
+
+"bohunk"
+% HUMAN
+(XsWRs WwIfRZsIU|DWz| Q|UsA^bD W|Q|D DlGlWXb)
+
+"boil"
+% MATERIAL 
+(BzI^WzQ)
+# ^be on the boil (VERB) : BzI^Al W|VGb
+# ^be at the boil (VERB) : BzI^Al W|VGb
+# ^bring to the boil (VERB) : BzI^W|Gb
+# ^come to the boil (VERB) : BzI^A| U|XbA^bGb
+
+"boil"
+% MATERIAL 
+(XlWA|)
+
+"boiler"
+% CONCRETE MATERIAL 
+(RlW|IIf)
+
+"boilermaker"
+% HUMAN
+(RlW|IIfAlW)
+
+"boiling"
+% MATERIAL 
+(BzI^WzQ)
+# the whole boiling (NOUN) : XfDRs
+
+"boisterousness"
+(UbDbWsQ)
+
+"boko"
+% ANIMAL
+([l)
+
+"bola"
+(WlIAbQ|)
+
+"boldface"
+(AlG|A ^lbIXb)
+
+"boldness"
+% CONCRETE MATERIAL 
+(GcGbQ^bQ)
+
+"bole"
+% CONCRETE MATERIAL 
+(DbQsWz| XsIA|)
+
+"bolection"
+(RlIIlA Ul|U|I|)
+
+"bolero"
+% CONCRETE MATERIAL 
+(RlIIgIl)
+
+"bolide"
+(^lbAs)
+
+"boliviano"
+(RlII|R|WbDl)
+
+"boll"
+(GsWAzD Bl\sI|)
+
+"bollard"
+% CONCRETE ANIMAL MATERIAL 
+(RcQcDzD A|GsW)
+
+"bollworm"
+% CONCRETE ANIMAL MATERIAL 
+(QlA^lbV|RfIIg)
+
+"bolo"
+% CONCRETE ANIMAL MATERIAL 
+([zD DbW|]z)
+
+"bolograph"
+(XbA| Xf^bW RlAUbAk)
+
+"bolometer"
+% CONCRETE ANIMAL MATERIAL 
+(Xf^bW RbWUbWjIAk)
+
+"boloney"
+(^fUUlI|)
+
+"bolster"
+% CONCRETE ANIMAL MATERIAL 
+(A|D RgAc)
+
+"bolt"
+% CONCRETE MATERIAL 
+(RlI\z)
+# bolt upright (NOUN) : AlGZs
+# ^do a bolt  (VERB): ScWUlD| Z|Gb
+# ^make a bolt for it (VERB) : ScWUlD| Z|Gb
+# a bolt from the blue (NOUN) : ZfWZfDWz| RjAIjA
+# a bolt from the sky (NOUN) : ZfWZfDWz| RjAIjA
+# ^shoot ONE_S  bolt  (VERB): AsIAWzD ^lbUbIWzI VlGb
+
+"bolter"
+% ANIMAL
+(DcGbGDzD QbI)
+
+"bolthead"
+(RlI\zWz| QfI|)
+
+"bolus"
+% CONCRETE MATERIAL 
+([zD WbIWdA)
+
+"bomb"
+% CONCRETE ANIMAL MATERIAL 
+(]lA\bD)
+
+"bombardier"
+% HUMAN
+(]lAAjAUs)
+
+"bombardment"
+% MATERIAL ACTION
+(]lAjA)
+
+"bombardon"
+(Gc^jW XfWzQ Db]bI)
+
+"bombasine"
+(RbQRfX|D)
+
+"bombast"
+% CONCRETE MATERIAL ACTION
+(^lWfD XbWGbQ)
+
+"bombazine"
+(RbQRfX|D)
+
+"bombe"
+(RlQRz)
+
+"bomber"
+% CONCRETE MATERIAL 
+(]lAAjAA|)
+
+"bombing"
+% MATERIAL ACTION
+(]lAAjA)
+
+"bombproof"
+% CONCRETE ANIMAL MATERIAL 
+(RbWAlW AfDZsA)
+
+"bombshell"
+% CONCRETE MATERIAL 
+(]lA\bD)
+
+"bombsight"
+% CONCRETE ANIMAL MATERIAL 
+(]lAAjA XlXsDA|)
+
+"bombycid"
+% CONCRETE ANIMAL MATERIAL 
+(RbQR|U|Gz)
+
+"bonanza"
+% CONCRETE MATERIAL 
+(DlGbX|)
+# ^be in bonanza (VERB) : DlGbX|IzI QbDDbGb
+# ^strike a bonanza (VERB) : DlGbX|IzI [cGb
+
+"bonanzagram"
+(R|D[bD QgBsA| [s|Xz)
+
+"bonbon"
+% CONCRETE MATERIAL 
+(RlWRlW)
+
+"bond"
+% CONCRETE MATERIAL 
+(AjIUlA)
+# already-issued bonds (NOUN) : A|RbIZc
+# convertible bond (NOUN) : XfD^lbDUbZc
+# coporate bond (NOUN) : UbZc
+# coupon bond (NOUN) : W|XbRsUbZcAsfD
+# debenture bond (NOUN) : QsGbQRlUbZcAsfD
+# domestic bonds (NOUN) : DcAsAZc
+# drawn bond (NOUN) : UbW^lbDGl|D ZcAsfD
+# ex bond (NOUN) : RlUgZbWAlGl
+# external bonds (NOUN) : Wl|AsAZc
+# forged bond (NOUN) : Ws|XlZcAsfD
+# guaranteed bonds (NOUN) : RlXzWRsZcAsfD
+# Government bonds (NOUN) : AsAZc
+# industrial bonds (NOUN) : UbWfRZc
+# irredeemable bonds (NOUN) : QsUbW^lbDAlWZc
+# long-term bonds (NOUN) : XbWA|Zc
+# mortgage bonds (NOUN) : GbQRlRsUbZcAsfD
+# participating bonds (NOUN) : W|W|AZbQWjUbZc
+# registered bonds (NOUN) : A|QjWUbZc
+# ^give bond (VERB) : RlXzW^bGb
+# ^go a person's bond (VERB) : DbQWz| RlXzWWzI UfGb
+
+# out_of bond (ADV) : RlUgZbWAlWgUf
+# uncovered bond (NOUN) : QsGbQRlZcAsfD
+# ^call a bond (VERB) : AlWZc UbW^lbDWz| \lWAlIzI ^bGb
+
+"bond"
+% CONCRETE MATERIAL ACTION
+(GlWQcW)
+
+"bondage"
+% MATERIAL 
+(UlARbA)
+# in bondage (ADV) : Rs\XbR^jUf
+
+"bondholder"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(AlWZcXzWUf UlWwXb)
+
+"bondmaid"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb DlWk)
+
+"bondman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlWDl)
+
+"bondsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlWDl)
+
+"bondstone"
+(W|WzQGlI)
+
+"bondwoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb DlWk)
+
+"bone"
+% CONCRETE MATERIAL ANIMAL
+(Sj)
+# a bone of contention (NOUN) : RsI^lbWz| V|
+# ^cast a bone between (VERB) : UbW|Wg RsI^lbIzI W|IWz[|Gb
+# ^feel in ONE_S  bones (VERB) : ^lbAU|D^bGb
+# ^make old bones (VERB) : XbWUs^bGb
+# skin and bones (NOUN) : SjWlb AbXsA
+# the ten bones (NOUN) : WjIUlDAbIbA
+# to the bone (ADV) : ZfIXf^|
+
+"boneache"
+% ANIMAL
+(AlI\lW)
+
+"boneblack"
+(AlI\bD)
+
+"bonehead"
+% HUMAN
+(GlIGcAbI|)
+
+"boner"
+% MATERIAL ACTION
+(RbRlAb\WzD U|IUs)
+
+"boneset"
+% PLANT
+(UcGzWAlIDbQsI)
+
+"bonesetter"
+(XfWAlIWz|)
+
+"bonesetting"
+(XfWAlI)
+
+"boneshaker"
+(AsU|A XbXfDAf)
+
+"bonfire"
+(^lb\lURsI)
+
+"bongo"
+% CONCRETE ANIMAL MATERIAL 
+([zD WjWWdW)
+
+"bonhomie"
+(WlD^s)
+
+"boniface"
+% HUMAN
+(WjAlbD XsW|D)
+
+"boniness"
+% CONCRETE MATERIAL 
+(SjQbD^WzQ)
+
+"boning"
+% ACTION
+(SjRbIzA|)
+
+"bonism"
+% ART
+(DbAAlbDUfI)
+
+"bonito"
+% CONCRETE ANIMAL MATERIAL 
+(AbGbIcWW|)
+
+"bonne"
+% HUMAN
+(WbW|RlDzD WjXb)
+
+"bonnet"
+% CONCRETE MATERIAL 
+(RlDg\z)
+
+"bonniness"
+(As|WjWsQ)
+
+"bonus"
+% CONCRETE MATERIAL 
+(RlDfUz)
+# bonus dividend (NOUN) : \zARjI RcGbW
+# bonus goods (NOUN) : RlUbW QsIXb
+# bonus share (NOUN) : XzWXfWXs
+# bonus system (NOUN) : UbWWjAzQ XgGl
+# bonus plan (NOUN) : UbWWjAzQ XgGl
+# export bonus (NOUN) : UsZsI XbWIjAzQ
+
+"bonze"
+(XsW)
+
+"bonzoline"
+(W|DXlUbWWb)
+
+"boo"
+% CONCRETE MATERIAL 
+(AjWQjI^bDzD UlI|)
+
+"boob"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WfIAbDW|)
+
+"booboo"
+(U|IUs)
+
+"booby"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(WfIAbDW|)
+
+"boodle"
+(GbDZg)
+
+"boodler"
+% HUMAN
+(Us^l|Xb)
+
+"boogie-woogie"
+% MATERIAL 
+(RsA|WsA|)
+
+"book"
+% CONCRETE MATERIAL 
+(ZcA)
+# NUM1 {-ORDNUM} book {+PLUR} (NOUN) : [(POSS [(NMODS NUM1 {+HALNUM}) AsfD<NOUN>]/Wz|) ZcA<NOUN>]
+# at ONE_S  books (ADV) : AlWRsXsWW|D
+# attandance book (NOUN) : ZsIUfARs
+# book of the hour (NOUN) : U|A|Wg QbXZsWfDcD ZcA
+# book money (NOUN) : WkAzQXc^lb
+# book profit (NOUN) : XbWRsUbWW|W|A
+# book value (NOUN) : XbWRsAbAjA
+# book written in A (NOUN) : [(RELCL [(COMP A/Il) VzWjX|<VERB>]/^bD) ZcA<NOUN>]
+# geography book (NOUN) : X|I|^bA ZcA
+# ^know like a book (VERB) : ^lbD^| WbIAl W|VGb
+# lab book (NOUN) : U|I^fQZcA
+# ^speak like a book (VERB) : UbWUg^| QbI^bGb
+# ^talk like a book (VERB) : HlRbAHlRbA QbI^bGb
+# ^suit ONE_S  book (VERB) : QlAXfAWg GzIWfQbXGb
+# ^swear on the Bible (VERB) : UfWAjWWg UlDWzI WfDXAl QcWUg^bGb
+# telephone book (NOUN) : XfD^lbRfD^lRs
+# the book of life (NOUN) : UcWQjWZcA
+# the Book of Books (NOUN) : UfWUf
+# throw the book at A (VERB) : [(OBJ A/WzI) (MODS [Zl|GcIl<ADV>]) ZfRfI^b<VERB>]/Gb
+
+"book-keeping"
+# commercial book-keeping (NOUN) : UbWWfRRsA|
+
+"bookbinder"
+% HUMAN
+(XgRlDW|D)
+# bookbinder's cloth (NOUN) : XgRlDWrW [zIIlWlGz
+
+"bookbindery"
+% PLACE ORGAN
+(XgRlDUl)
+
+"bookbinding"
+% ACTION
+(XgRlD)
+
+"bookcase"
+% CONCRETE ANIMAL MATERIAL 
+(ZcAXbW)
+
+"bookholder"
+(UfWbD)
+
+"bookie"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfUsIAb)
+
+"booking"
+% CONCRETE MATERIAL 
+(A|XbW)
+
+"bookishness"
+(ZcAWzI Xl^Wb^bDzD)
+
+"bookkeeper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbWRsAkWsfD)
+
+"bookkeeping"
+% MATERIAL ACTION ECOLIFE
+(RsA|)
+# bookkeeping by single entry (NOUN) : GbDU|A RsA|
+# bookkeeping by doubly entry (NOUN) : RlAU|A RsA|
+# double-entry bookkeeping (NOUN) : RlAU|ARsA|
+# single-entry bookkeeping (NOUN) : GbDU|ARsA|
+
+"bookland"
+(\zA^f XbWw RlWwX|)
+
+"booklet"
+% CONCRETE MATERIAL 
+(UlZcAXb)
+
+"booklore"
+% ART
+(GlAUfIl WfGWzD X|U|A)
+
+"booklover"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WcUfAb)
+
+"bookmaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfUsIAb)
+
+"bookmaking"
+% ACTION
+(GlUfXgXbA)
+
+"bookman"
+% HUMAN
+(GlAUfW|D)
+
+"bookmark"
+(RsAQb[z)
+
+"bookmobile"
+% PLACE
+(W|GlW GlUfAlbD)
+
+"bookplate"
+% CONCRETE MATERIAL 
+(XbWUf]r)
+
+"bookrack"
+% PLACE
+(UfAb)
+
+"bookrest"
+% PLACE
+(ZcABlXW|)
+
+"bookseller"
+% HUMAN
+(ZcAXbWUs)
+
+"bookselling"
+% ACTION
+(UfXfA ]bDQc)
+
+"bookshelf"
+% CONCRETE ANIMAL MATERIAL 
+(ZcABlXW|)
+
+"bookshop"
+% CONCRETE ANIMAL MATERIAL PLACE
+(UfXfQ)
+
+"bookslide"
+(XbGlW UfAb)
+
+"bookstall"
+% CONCRETE ANIMAL MATERIAL PLACE
+(U|DQsDUfXfA QcXfQ)
+
+"bookstore"
+% CONCRETE ANIMAL MATERIAL PLACE
+(ZcARbW)
+
+"bookword"
+(ZcARlAl RcWsD QbI)
+
+"bookwork"
+% ART
+(ZcAWg Wz|^bD WjDAs)
+
+"bookworm"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZcARfIIg)
+
+"booloo"
+% HUMAN
+(Gc^bA 1 DjDUcW)
+
+"boom"
+% CONCRETE MATERIAL 
+(RsQ)
+# baby boom (NOUN) : RgW|R| RsQ
+# boom period (NOUN) : ^l^lbWA|
+# building boom (NOUN) : R|IG|WAfDUfI RsQ
+# war book (NOUN) : AsDUsAjWA|
+
+"boom-and-bust"
+(RjIbAAjWA| Gs|Wg HbIzDzD RsIAjWA|)
+
+"boomer"
+% HUMAN
+(RsIbWXb)
+# baby boomer (NOUN) : RgW|R|RsQ UgGc
+
+"boomflanation"
+(^l^lbWA|Wz| W|D]zIIg)
+
+"boomerang"
+% CONCRETE MATERIAL 
+(RsQgIbW)
+# comeback boomerang (NOUN) : GlIWbWlDzD RsQgIbW
+
+"boomlet"
+(WdAAbDWz| ^lAjWA|)
+
+"boomster"
+% HUMAN
+(AjWA|IzI ^lbIA|H|Ag ^bDzD UbIbQ)
+
+"boon"
+% CONCRETE MATERIAL 
+(^k\cA)
+# ^ask a boon of a person (VERB) : DbQWgAg Rs\bA^bGb
+# ^be a great boon to A (VERB) : [(OBJ2 A/WgAg) (SCOMP [(AMODS [[z<ADJ>]/^bD) ^k\cA<NOUN>]/W|) Gl|<VERB>]/Gb
+# ^prove a great boon to A (VERB) : [(OBJ2 A/WgAg) (SCOMP [(AMODS [[z<ADJ>]/^bD) ^k\cA<NOUN>]/W|) Gl|<VERB>]/Gb
+
+"boondocks"
+% MATERIAL PLACE
+(UbDW| QbD^WzD RjAX|)
+
+"boondoggle"
+(XbWU|ABzD)
+
+"boor"
+% HUMAN
+(U|AlIHzA|)
+
+"boost"
+% CONCRETE MATERIAL 
+(Q|IWfWlII|A|)
+# ^give a person a boost (VERB) : DbQWzI Gs|WgUf Q|IWfXsGb
+# production boost (NOUN) : XzWUbD
+
+"booster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^sWsfDXb)
+# booster rocket (NOUN) : XzWUlA Il[gU
+# booster shot (NOUN) : GsRfDYc WkRbWXsUb
+
+"boosterism"
+(UfDXfD)
+
+"boot"
+% CONCRETE MATERIAL 
+(Rs\z)
+# ^bet your boots (VERB) : \zII|QWfRUGb
+# boot and saddle (NOUN) : UzWQbXsDR|Wz| Db]bI
+# ^die in ONE_S  boots (VERB) : RjDUb^bGb
+# ^give the boot (VERB) : ^cAl^bGb
+# ^get the boot (VERB) : Gl|Gb
+# ^have ONE_S  heart in ONE_S  boots (VERB) : AfRWzI QfAAl W|VGb
+# high boots (NOUN) : XbW^lb
+# laced boots (NOUN) : ]jDUbW^lb
+# ^lick the boots of A (VERB) : [(ADJUNCT A/Wg) WbZfQ^b<VERB>]/Gb
+# like old boots (ADV) : QcWIjI^|
+# Over shoew over boots (ADV) : W|WlbWW|QjD ZfIXf^bAg
+# ^pull off ONE_S  boots (VERB) : AsGsIzI XbRWbGbWAj RfUGb
+
+"bootblack"
+% HUMAN
+(AsGsGbBDzD UbIbQ)
+
+"bootee"
+% CONCRETE ANIMAL MATERIAL 
+(WbA| WdWQbI)
+
+"booter"
+% HUMAN
+(ZsAAsUfDUs)
+
+"bootes"
+(QlAGlWXlb)
+
+"booth"
+% CONCRETE MATERIAL 
+(RsUz)
+
+"bootjack"
+% CONCRETE ANIMAL MATERIAL 
+(U|DRfUDzD A|As)
+
+"bootlace"
+% CONCRETE MATERIAL 
+(AsGsBzD)
+
+"bootleg"
+(Q|IUs Xs)
+
+"bootlegger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Q|IQcXb)
+
+"bootlegging"
+% ACTION
+(XsIw Q|IQc)
+
+"bootlessness"
+(QsW|A^bQ)
+
+"bootlick"
+% ACTION
+(WbZfQ)
+
+"bootlicker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbZfQAsD)
+
+"bootlicking"
+% ACTION
+(WbZfQ)
+
+"bootmaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AsGs X|AAlW)
+
+"boots"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(AsGsGbBW|)
+
+"booty"
+% MATERIAL 
+(XfDI|]sQ)
+# ^play booty (VERB) : ]cAfI|Wlb YbAl DbQWzI UlAW|Gb
+
+"booze"
+% CONCRETE MATERIAL FOOD
+(UsI)
+# on the booze (ADV) : QbDZs|^bWj
+
+"boozefighter"
+% HUMAN
+(UsIAlIc)
+
+"boozer"
+% HUMAN
+(UsIBsD)
+
+"bop"
+% MATERIAL 
+(RbR)
+
+"bop"
+% MATERIAL ACTION
+(W|IAjA)
+
+"bopeep"
+(WbWsW)
+
+"bopper"
+% HUMAN
+(RbR AbUs)
+
+"bora"
+(AfDXl^bD ZbD RbIbQ)
+
+"boracite"
+(RbWRsWUfA)
+
+"borage"
+% CONCRETE MATERIAL 
+(WwI|X|Z|)
+
+"borate"
+% CONCRETE MATERIAL 
+(RsWUbDWjQ)
+
+"borax"
+% CONCRETE MATERIAL 
+(RsWUb)
+
+"bordello"
+% PLACE
+(QcWzQAsI)
+
+"border"
+% CONCRETE MATERIAL 
+(AjWAk)
+# U.S. border (NOUN) : Q|AsA AsAAjW
+# on the border of A (ADV) : (ADJUNCT [(POSS A/Wz|) RjDGsI|<NOUN>]/Wg)
+# out_of borders (ADV) : WjWWjA RbBWg
+# out within borders (ADV) : WjWWjA WbDWg
+
+"borderer"
+% HUMAN
+(AsAAjWWz| XsQ|D)
+
+"bordering"
+(AjWAkUfD UfIZ|)
+
+"borderland"
+(AsAAjW)
+
+"borderline"
+% MATERIAL 
+(AjWAkUfD)
+
+"bore"
+% CONCRETE MATERIAL 
+(AsQfW)
+
+"bore"
+% CONCRETE MATERIAL 
+(^cW|I)
+
+"boredom"
+% MATERIAL 
+(U|I^XzW)
+
+"boree"
+% HUMAN
+(HbRsD^bD UbIbQ)
+
+"borer"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(AsQfWWzI ]bDzD UbIbQ)
+
+"boride"
+(RlW^lbQsI)
+
+"boring"
+% MATERIAL ACTION
+(AsQfW HsI^A|)
+# boring from within (NOUN) : DcRsWlb^c AlWXbA
+
+"borneol"
+(WrWDl|)
+
+"bornite"
+(RbDGlWAlbW)
+
+"boron"
+% CONCRETE MATERIAL 
+(RsWUl)
+
+"borough"
+% MATERIAL PLACE ORGAN
+(XbZ| GlU|)
+# Borough Council (NOUN) : As^l|
+# borough English (NOUN) : Zl|WjDUl DbQXb UbWUlAXg
+# ^buy a borough (VERB) : UfDAfAsIzI QcUs^bGb
+# ^own a borough (VERB) : UfDAfAsIzI UlWw^bGb
+# rotten borough (NOUN) : Rs]c UfDAfAs
+
+"borrower"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZbWrWXb)
+
+"borrowing"
+% MATERIAL 
+(ZbWrW)
+
+"borsch"
+% CONCRETE MATERIAL 
+(RlUs|)
+
+"bort"
+(XfX|I GbW|WbQfDGz)
+
+"bortz"
+(XfX|I GbW|WbQfDGz)
+
+"borzoi"
+% CONCRETE ANIMAL MATERIAL 
+(RlXlW|)
+
+"bos"
+(WlUbD)
+
+"bos'n"
+% HUMAN
+(AbR]bDXbW)
+
+"boscage"
+(UbQI|Q)
+
+"bosh"
+% CONCRETE MATERIAL 
+(^f\zD UlI|)
+
+"bosk"
+% PLANT
+(GfQRsI)
+
+"bosket"
+% PLANT
+(GfQRsI)
+
+"bosom"
+% CONCRETE ANIMAL MATERIAL 
+(AbUzQ)
+# in ONE_S  bosom (ADV) : ]lWlW^bWj
+# in the bosom of ONE_S  family (ADV) : WlD AbXlAW| GbDIbD^bD AbWsDGg
+# ^keep in ONE_S  bosom (VERB) : AbUzQUlAWg AbDX|A^c GsGb
+# a friend of ONE_S  bosom (NOUN) : Z|DWs
+# ^take to ONE_S  bosom (VERB) : WbDcIl UbQGb
+
+"bosquet"
+% PLANT
+(GfQRsI)
+
+"boss"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsGsQfI|)
+
+"bossanova"
+(RlUbDlRb)
+
+"bossism"
+% ART
+(GsQlAXgGl)
+
+"bossy"
+% ANIMAL
+(UlWWbX|)
+
+"bosun"
+% HUMAN
+(AbR]bDXbW)
+
+"bot"
+% CONCRETE ANIMAL MATERIAL 
+(Ul|]bI|Wz| AsGfA|)
+
+"botanist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|AQsI^bAXb)
+
+"botany"
+% MATERIAL ART
+(U|AQsI^bA)
+# geographical botany (NOUN) : U|AQsI RsD]l^bA
+# botany wool (NOUN) : ^lXsUbD AlAzR WdWQl
+
+"botch"
+% MATERIAL 
+(RlI]sQWfRUDzD UlQV|)
+
+"botcher"
+% HUMAN
+(Uf\sIzD X|AAlW)
+
+"botchery"
+(^wW^bAg A|WsD XbI|)
+
+"botfly"
+% CONCRETE ANIMAL MATERIAL 
+(QbI]bI|)
+
+"bother"
+% MATERIAL 
+(UfWAbU|Q)
+
+"botheration"
+% MATERIAL 
+(UfWAbU|Q)
+
+"bothie"
+% PLACE
+(WlGsQbAX|R)
+
+"bothy"
+% PLACE
+(WlGsQbAX|R)
+
+"bott"
+% ANIMAL
+(Ul|]bI|Wz| AsGfA|)
+
+"bott"
+(Ul|]bI|Wz| AsGfA|)
+
+"bottle"
+% CONCRETE MATERIAL 
+(RjW)
+# a bottle of beer (NOUN) : ^bDRjWWz| QcAXs
+# ^hit the bottle (VERB) : UsIWzI AlIcIl QbU|Gb
+# ^look for a needle in a bottle of hay (VERB) : ^fUUsAlIzI ^bGb
+# over a bottle (ADV) : UsIWzI QbU|QjDUf
+# over the bottle (ADV) : UsIWzI QbU|QjDUf
+# ^take to the bottle (VERB) : UsIWzI Xl^Wb^bGb
+
+"bottlebrush"
+% CONCRETE ANIMAL MATERIAL 
+(RjWV|UDzD UlI)
+
+"bottleholder"
+% HUMAN
+(AsfD\sUfDUsWz| U|XsWAsD)
+
+"bottleneck"
+% CONCRETE ANIMAL MATERIAL 
+(RjWQlA)
+# bottleneck inflation (NOUN) : WcIlW|D]zIIgW|UjD
+
+"bottlenose"
+% CONCRETE ANIMAL MATERIAL 
+(RjW[l)
+
+"bottom"
+% CONCRETE MATERIAL 
+(Q|\RbGbA)
+# at bottom (ADV) : QbWzQUlAWzD
+# at the bottom of A (ADV) : (ADJUNCT [(POSS A/Wz|) WbIc<NOUN>]/Wg)
+# bottom cargo (NOUN) : Xf^b
+# bottom charter (NOUN) : UfDXfAWrWUfD
+# bottom price (NOUN) : Zl|XfAb
+# bottom up (ADV) : AfBsIl
+# bottom upward (ADV) : AfBsIl
+# buying bottoms (NOUN) : Zl|XfAbAsW|R
+# from the bottom of the heart (ADV) : ZsWU|QWzIl
+# from the bottom of ONE_S  heart (ADV) : ZsWU|QWzIl
+# ^get to the bottom of A (VERB) : [(OBJ [(POSS A/Wz|) X|DUbW<NOUN>]/WzI) AwQjW^b<VERB>]/Gb
+# ^go to the bottom (VERB) : AbIbWbDXGb
+# ^lie in the bottom of the sea (VERB) : ^cXfWg AbIlDl^W|Gb
+# ^reach the bottom (VERB) : DcI|IGcIl DcI|Gb
+# ^send to the bottom (VERB) : AbIbWbDX^|Gb
+# ^shift to the bottom (VERB) : ZfIXf^| XlUb^bGb
+# ^stand on ONE_S  own bottom (VERB) : GlAI|R^bGb
+
+# ^touch bottom (VERB) : XlbZl^bGb
+
+"bottoming"
+(ZlGl WjQUcA)
+
+"bottomry"
+% ECOLIFE
+(UfDRbA XfGbW AkWdA)
+
+"botulin"
+% CONCRETE MATERIAL 
+(Rl\sII|D)
+
+"botuline"
+(Rl\sII|D)
+
+"botulinus"
+% CONCRETE ANIMAL MATERIAL 
+(Rl\sII|DAwD)
+
+"botulism"
+% MATERIAL STATE
+(UlU|X| XsWGlA)
+
+"boudoir"
+% CONCRETE ANIMAL MATERIAL PLACE
+(RsW|DWz| DcU|I)
+
+"bouffe"
+(W|AUbI ^z|AbAzA)
+
+"bougainvillaea"
+(RsAgDR|IIgWb)
+
+"bough"
+% CONCRETE MATERIAL PLANT
+([zD DbQsUAbX|)
+
+"boughpot"
+([zD BlZRjW)
+
+"bougie"
+(RsWsX|)
+
+"bouilli"
+% FOOD
+(UbIQWzD AlA|)
+
+"bouillon"
+% CONCRETE MATERIAL FOOD
+(Ul|AlA|)
+
+"boulder"
+% CONCRETE MATERIAL 
+(GsWAzD GlI)
+
+"boule"
+% ORGAN
+(Wz|^l|)
+
+"boulevard"
+% CONCRETE MATERIAL 
+(DfIRWzD AbIlUsA|I)
+
+"boulter"
+(XsDbA)
+
+"bounce"
+% CONCRETE MATERIAL 
+(RbWsDGz)
+# ^get the bounce (VERB) : ^cAlGbW^bGb
+
+"bouncer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfGc^bD UbIbQ)
+
+"bound"
+% MATERIAL 
+(\s|Q)
+# at a bound (ADV) : GbDRfDWg Hs|Wf
+# with one bound (ADV) : GbDRfDWg Hs|Wf
+# by leaps and bounds (ADV) : ZbAZbA
+# on the bound (ADV) : \s|Wf
+# homeward bound (PP->ADV) : As|^bWWz|
+# ^go beyond the bounds (VERB) : RfQWs|IzI DfQGb
+# ^go outside the bounds (VERB) : RfQWs|IzI DfQGb
+# ^keep within bounds (VERB) : Xg^bD DcWg QfQsIzGb
+# ^know no bounds (VERB) : ^bDGlAb WfRUGb
+# ^put bounds to A (VERB) : [(OBJ A/WzI) Xg^bD^b<VERB>]/Gb
+# ^set bounds to A (VERB) : [(OBJ A/WzI) Xg^bD^b<VERB>]/Gb
+
+"boundary"
+% CONCRETE MATERIAL 
+(AjWAk)
+
+"bounder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RfIzUWfRUDzD DlQ)
+
+"boundlessness"
+(Qs^bD^bQ)
+
+"bounteousness"
+% CONCRETE MATERIAL 
+(XbR|IlWsQ)
+
+"bounty"
+% CONCRETE MATERIAL 
+(RbAWc)
+# bounty jumper (NOUN) : GlDQbD RbGAl \bIXs^bDzD WzWQlRjW
+# the King's bounty (NOUN) : ^bUbAzQ
+# the Queen's bounty (NOUN) : ^bUbAzQ
+# Queen Anne's Bounty (NOUN) : WcD WjWlbWWz| ^bUbAzQ
+
+"bouquet"
+% CONCRETE MATERIAL PLANT
+(BlZGbRbI)
+
+"bourbon"
+% CONCRETE MATERIAL FOOD
+(RfWfR|D Ws|Uz[|)
+
+"bourdon"
+% CONCRETE ANIMAL MATERIAL 
+(RzIzGlD)
+
+"bourg"
+% PLACE
+(WzR)
+
+"bourgeois"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsWUbDAkAzRWz| U|Q|D)
+
+"bourgeois"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(5 ^lWlb 6 ^lWz| XsWAbD ^lbIXb)
+
+"bourgeoisie"
+% MATERIAL ORGAN
+(RsIzXlWb AkAzR)
+
+"bourgeon"
+(VbA)
+
+"bourn"
+(U|Dc)
+
+"bourn"
+(^bDAk)
+
+"bourne"
+(^bDAk)
+
+"bourse"
+% PLACE ORGAN ECOLIFE
+(XzWAsfDAfIcUl)
+
+"bout"
+% CONCRETE MATERIAL 
+(^bD]bDWz| U|^bR)
+# a bout of A (NOUN) : [(POSS [^bDRb\bW<NOUN>]/Wz|) A]
+# ^have a bout with A (VERB) : [(ADJUNCT A/Alb) (OBJ [UzWRs<NOUN>]/IzI) AjIs<VERB>]/Gb
+# in this bout (ADV) : W|HcWg
+
+"boutique"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD AbAg)
+
+"boutonniere"
+% CONCRETE MATERIAL 
+(GbDZs AsQfW)
+
+"bovid"
+% CONCRETE ANIMAL MATERIAL 
+(UlAlbWz| GlWQsI)
+
+"bovine"
+% CONCRETE ANIMAL MATERIAL 
+(UlAlbWz| GlWQsI)
+
+"bovril"
+% FOOD
+(Ul|AlA| WgAUz)
+
+"bow"
+% CONCRETE MATERIAL HOMONYM
+(W|DUb)
+# bow and arrow (NOUN) : ^lbIAlb ^lbUbI
+# bows under (ADV) : HzUGcIl DbWbAbX| WbD^DzD
+# ^make ONE_S  bow (VERB) : UbArAkWg ZfUUfDWzI RlW|Gb
+# ^make a bow (VERB) : AjWIk^bGb
+# on the bows (PP->ADV) : W|QsIXfAWzIl
+# on the bows on (PP->ADV) : AlGXbW
+# port bow (NOUN) : Xlb^jD W|QsI
+# ribbon bow (NOUN) : DbR|QcGzR
+# starboard bow (NOUN) : Ws^jD W|QsI
+# ^take a bow (VERB) : AbIZcWg Gc^bWj GbRIk^bGb
+# the bow of the boat (NOUN) : RcUQfI|
+# violin bow (NOUN) : RbW|WlII|D ^lbI
+# white bow (NOUN) : ^z|D ^lbI
+
+"bow1nn"
+% CONCRETE MATERIAL 
+(^lbI)
+
+"bow2nn"
+(DbR| DgA\bW|)
+
+"bowdlerism"
+(UbAXg XfWXfW)
+
+"bowdlerization"
+% MATERIAL 
+(UbAXg XfWXfW)
+
+"bowel"
+% CONCRETE MATERIAL 
+(XbW)
+# ^bind the bowels (VERB) : UfIUbIzI QbAGb
+# ^loosen the bowels (VERB) : RjDW| \lW^bAg ^bGb
+# ^move the bowels (VERB) : RjDW| \lW^bAg ^bGb
+# ^One's bowels are open (VERB) : RjDW| \lW^bGb
+# ^have loose bowels (VERB) : UfIUb^bGb
+
+"bower"
+% CONCRETE ANIMAL MATERIAL 
+(DbQsUAzDzI)
+
+"bower"
+% CONCRETE ANIMAL MATERIAL 
+(W|QsIGbZ)
+
+"bower"
+% CONCRETE ANIMAL MATERIAL 
+(XcA)
+
+"bowerbird"
+% CONCRETE ANIMAL MATERIAL 
+(]sWXlAlbWz| Uc)
+
+"bowery"
+% PLACE
+(DgGfIIbDGz W|Q|D DlWXbW)
+
+"bowfin"
+% CONCRETE ANIMAL MATERIAL 
+(RlWs]|D)
+
+"bowhead"
+% CONCRETE ANIMAL MATERIAL 
+(UsWjQAlIc)
+
+"bowie"
+(UbDdW[bI)
+# Bowie State (NOUN) : Q|AsA Wb[bDUl Xs
+
+"bowing"
+% ART
+(^lbIWzI VzDzD UlQV|)
+
+"bowknot"
+% CONCRETE ANIMAL MATERIAL 
+(DbR| QcGzR)
+
+"bowl"
+% CONCRETE MATERIAL 
+(AzIzU)
+# a bowl of A (NOUN) : [(POSS [^bD AzIzU<NOUN>]/Wz|) A]
+
+"bowl"
+% CONCRETE MATERIAL 
+(DbQsAlW)
+
+"bowlder"
+(GsWAzDGlI)
+
+"bowleg"
+(WbWAbRbIW|)
+
+"bowler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\sUs)
+
+"bowlful"
+% CONCRETE MATERIAL 
+(^bD UbRbI)
+
+"bowline"
+% CONCRETE ANIMAL MATERIAL 
+(AlI|QcGzR)
+
+"bowling"
+% MATERIAL 
+(AlWAsII|A|)
+
+"bowman"
+% HUMAN
+(Wb]DlXfUDzD UbIbQ)
+
+"bowman"
+% HUMAN
+(^lbI VlDzD UbIbQ)
+
+"bowshot"
+(^lbIWz| UbXfWAfI|)
+
+"bowsprit"
+% CONCRETE ANIMAL MATERIAL 
+(Xg 1 UbXbW)
+
+"bowstring"
+% CONCRETE MATERIAL 
+(^lbIU|Ws|)
+
+"bowwow"
+(Ac X|XDzD UlI|)
+# the bowwow style (NOUN) : GlAGbDXfAW|D \s
+
+"bowyer"
+% HUMAN
+(^lbI QbDGzDzD UbIbQ)
+
+"box"
+% CONCRETE MATERIAL HOMONYM
+(UbWXb)
+# a little box of a place (NOUN) : XlRWzD XbWUl
+# box and needle (NOUN) : DbZ|QRbD
+#' in a box (ADV) : DbDZf^bAg Gl|Wf
+# in the wrong box (ADV) : XbWUlIzI XbIQlU WbIWb
+# mail ^box (NOUN) : WsZg\lW
+# police box (NOUN) : ]bZsIUl
+
+"box1nn"
+(\g)
+
+"boxcar"
+% CONCRETE MATERIAL 
+(WwAc ^lbZb)
+
+"boxer"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(AsfD\sUfDUs)
+# the Boxer rising (NOUN) : RsAZfW UbRjD
+# the Boxer touble (NOUN) : RsAZfW UbRjD
+
+"boxful"
+% CONCRETE MATERIAL 
+(^bD UbWXb AbGzA)
+
+"boxing"
+% MATERIAL 
+(AsfD\s)
+# boxing match (NOUN) : RlAU|W AjWA|
+
+"boxing"
+% MATERIAL 
+(UbWXb BsI|A|)
+
+"boxkeeper"
+% HUMAN
+(\zARjIUfA AkWsfD)
+
+"boxwood"
+% PLANT
+(^l|WdWQlA)
+
+"boy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UlDjD)
+# boy lover (NOUN) : XfIQWzD WcW|D
+# boy husband (NOUN) : XfIQWzD DbQ]jD
+# boy {+POSSESIVE} play (NOUN) : WfI|DWc XbWDbD {-POSSESIVE}
+# my boy (NOUN) : Dc WbGzI
+# native boy (NOUN) : WsfDXsQ|D UlDjD
+
+# boy next door (NOUN) : W|WsUX|R UlDjD
+# yellow boys (NOUN) : AzQ^lb
+
+"boy-friend"
+% HUMAN
+(DbQXb Z|DAs)
+
+"boycott"
+% CONCRETE MATERIAL 
+(RlW|[lU)
+
+"boyfriend"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQXb Z|DAs)
+
+"boyhood"
+% CONCRETE MATERIAL TIME
+(UlDjDA|)
+
+"br'er"
+% HUMAN
+(^jWXg)
+
+"bra"
+% CONCRETE ANIMAL MATERIAL 
+(RzIcX|Wf)
+# bra burner (NOUN) : AlbAjA^bD WjUfW^cRbW WsDGlWAb
+
+"brabble"
+% ACTION
+(QbIGb\sQ)
+
+"brace"
+% CONCRETE MATERIAL 
+(Rf\|QGc)
+
+"bracelet"
+% CONCRETE MATERIAL 
+(]bIY|)
+
+"bracer"
+(X|X|^bDzD AfU)
+
+"brach"
+% ANIMAL
+(WbQ UbDdWAc)
+
+"brachiopod"
+% CONCRETE ANIMAL MATERIAL 
+(WlbDXlAIw)
+
+"brachium"
+% MATERIAL 
+(UbWRbA)
+
+"brachylogy"
+(WfAs UcWIdA)
+
+"bracing"
+% CONCRETE ANIMAL MATERIAL 
+(Rf\|QGc)
+
+"bracken"
+% CONCRETE ANIMAL MATERIAL PLANT FOOD
+(AlUbI|)
+
+"bracket"
+% CONCRETE MATERIAL 
+(RbGZ|QGc)
+
+"bract"
+% CONCRETE MATERIAL 
+(]l)
+
+"bractlet"
+(Ul]l)
+
+"brad"
+% CONCRETE ANIMAL MATERIAL 
+(A|WjAXb QlU)
+
+"bradawl"
+(XbAWzD UlWAlU)
+
+"bradbury"
+(RzIgGzRgI|)
+
+"bradshaw"
+(ZfIGl Wj^cW WbDDc)
+
+"bradycardia"
+(U|QGlW X|WlbD)
+
+"bradyecoia"
+(DbDZfW)
+
+"bradypepsia"
+(Ul^lbRsIIdW)
+
+"brae"
+% CONCRETE MATERIAL PLACE
+(WfDGfA)
+
+"brag"
+% CONCRETE MATERIAL 
+(^f]sW)
+# make brag of A (VERB) : [(OBJ A/WzI) XbIbW^b<VERB>]/Gb
+
+"braggadocio"
+% CONCRETE MATERIAL HUMAN
+(^f]sWUfDW|)
+
+"braggart"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^f]sWUfDW|)
+
+"bragger"
+% HUMAN
+(^f]sWUfDW|)
+
+"braid"
+% CONCRETE MATERIAL 
+(Hb^WbDzIW|D QfI|)
+# gold braid (NOUN) : AzQQlWzI
+# straw braid (NOUN) : Q|IX|]WzIl YbD BzD
+
+"braider"
+% HUMAN
+(BzDWzI YbDzD UbIbQ)
+
+"braiding"
+% CONCRETE MATERIAL 
+(YbD BzD)
+
+"braidism"
+(Zl|QjD)
+
+"brail"
+(RzIgW|I)
+
+"braille"
+(XfQXb)
+
+"braille"
+(XfQXb)
+
+"brain"
+% CONCRETE MATERIAL ANIMAL
+(Dl|)
+# ^beat ONE_S  brains (VERB) : QfI|IzI YbGb
+# ^cudgel ONE_S  brains (VERB) : QfI|IzI YbGb
+# ^rack ONE_S  brains (VERB) : QfI|IzI YbGb
+# ^blow ONE_S  brains out (VERB) : QfI|I VlWb XbUbI^bGb
+# ^call in the best brains (VERB) : DfII| W|DXcIzI QlWzGb
+# ^pick a person's brains (VERB) : DbQWz| X|^kIzI R|IGb
+# ^suck a person's brains (VERB) : DbQWz| X|^kIzI R|IGb
+# ^turn ONE_S  brain (VERB) : QfI|Ab GlIAg ^bGb
+
+"brainfag"
+(Dl|U|DAjW Ul|WdA)
+
+"brainpan"
+(GsAc)
+
+"brainpicker"
+% HUMAN
+(DbQWz| X|^kIzI W|WrW^bDzD UbIbQ)
+
+"brainpower"
+% MATERIAL 
+(X|DzW)
+
+"brainstorming"
+(RzIgW|D Uz\lQ|W)
+
+"brainwashing"
+(UgDl|)
+# brainwashing by TV commercials (NOUN) :  AlbWAlWg Wz|^bD UgDl|AlWXbA
+
+"brainwork"
+(XfWU|DDlGlW)
+
+"brainworker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfWU|DDlGlWXb)
+
+"brake"
+% CONCRETE ANIMAL MATERIAL 
+(RzIgW|[z)
+
+"brakeman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XgGlWUs)
+
+"brakesman"
+(XgGlWUs)
+
+"bramble"
+% PLANT
+(Y|IIg)
+
+"brambling"
+% CONCRETE ANIMAL MATERIAL 
+(Gl|Uc)
+
+"bran"
+(Aj)
+
+"branch"
+% CONCRETE MATERIAL PLACE ORGAN ECOLIFE 
+(AbX|)
+# branch manager (NOUN) : X|XfQXbW
+# branch of science (NOUN) : Alb^bARsDWd
+# branch office (NOUN) : X|XfQ
+# downtown branch (NOUN) : XsWU|QAb X|XfQ
+
+"branchia"
+(WbAbQ|)
+
+"branchiae"
+(WbAbQ|)
+
+"branching"
+% CONCRETE MATERIAL 
+(RsDA|)
+
+"brand"
+% ECOLIFE 
+(UbW]r)
+# brand blotter (NOUN) : AbZsA GlGsA
+# brand from the burning (NOUN) : Ws|\cIlWsD X|AjWWgUf AsZsIGl|D UbIbQ
+# brand from the fire (NOUN) : Ws|\cIlWsD X|AjWWgUf AsZsIGl|D QsIAfD
+# the brand of Cain (NOUN) : [bW|DWz| DbAW|D
+# unified brand (NOUN) : \lWW|IUbW]r
+
+"brander"
+% HUMAN
+(DbAW|D Y|ADzD UbIbQ)
+
+"brandling"
+% ANIMAL
+(X|IfWW|)
+
+"brandy"
+% CONCRETE MATERIAL 
+(RzIcDG|)
+
+"brandy-pawnee"
+% FOOD
+(QsI\bDRzIcDG|)
+
+"bras"
+(RzIcX|Wf)
+
+"brash"
+(AbUzQWbI^W|)
+
+"brash"
+(]b]jD)
+
+"brashness"
+% CONCRETE MATERIAL 
+(UfWAzR^bQ)
+
+"brasier"
+% CONCRETE ANIMAL MATERIAL 
+(^lbIl)
+
+"brasier"
+% CONCRETE ANIMAL MATERIAL 
+(^lbIl)
+
+"brass"
+% CONCRETE MATERIAL 
+(DlUUl|)
+# ^have the brass to do (VERB) : SfDSfDUzIfRAgGl ^bGb
+# the brass (NOUN) : DlUUl| Zs|Xs| WbAA|
+
+"brass-smith"
+% HUMAN
+(DlUUl| UgAlWW|D)
+
+"brassage"
+(^lb]kXsXlIr)
+
+"brassard"
+% CONCRETE ANIMAL MATERIAL 
+(WlbDXbW)
+
+"brassie"
+% CONCRETE ANIMAL MATERIAL 
+(RzIcU|)
+
+"brassiere"
+% CONCRETE ANIMAL MATERIAL 
+(RzIcX|Wf)
+
+"brassiliness"
+(DlUUl|X|I)
+
+"brassware"
+(DlUUl|Xg]sQ)
+
+"brat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(BlQbDjUfA)
+
+"brattice"
+(\lW]sW AbDQbAW| XbWZ|)
+
+"brattice-work"
+(AbDQbAW| AlWUb)
+
+"brattle"
+(GfI[fWGfI[fW)
+
+"braunite"
+(RzIbWsD AlbW)
+
+"bravado"
+(^fUg)
+
+"brave"
+% HUMAN
+(WrWUb)
+
+"bravery"
+% CONCRETE MATERIAL 
+(WrWAbQ)
+
+"bravo"
+(RzIbRl)
+
+"bravura"
+(^lbIj^bD AlA)
+
+"brawl"
+% MATERIAL 
+(Gb\sQ)
+
+"brawler"
+% HUMAN
+(QbIGb\sQ ^bDzD UbIbQ)
+
+"brawn"
+% CONCRETE MATERIAL ANIMAL
+(AzDWwA)
+
+"brawniness"
+(AfDXbW^bQ)
+
+"bray"
+(DbAs| WsIWzQUlI|)
+
+"brayer"
+(RzIgW|Wf)
+
+"brazier"
+% CONCRETE ANIMAL MATERIAL 
+(^lbIl)
+
+"braziery"
+(DlUUl| UgAlW)
+
+"brazilwood"
+% CONCRETE ANIMAL MATERIAL PLANT
+(RzIbX|I GbQlA)
+
+"breach"
+% CONCRETE MATERIAL 
+(AbIIbX|D \zQ)
+
+"bread"
+% CONCRETE MATERIAL FOOD
+(SbW)
+# ^beg ONE_S  bread (VERB) : AfIU|A^bGb
+# bread and butter (NOUN) : 1) Rf\f RbIzD SbW {+SINGULAR, -PLUR} 
+                            2) SbWAlb Rf\f {+PLUR, -SINGULAR}
+# bread and cheese (NOUN) : SbWAlb Z|Xz 
+# bread and milk (NOUN) : WsWwWg XfAU|D SbW
+# bread and salt (NOUN) : SbWAlb UlAzQ
+# bread and sarape (NOUN) : Rf\fIzI UbIYbA RbIzD SbW
+# bread and wine (NOUN) : UfWZbD
+# ^break bread (VERB) : U|AUbIzI ^bGb
+# ^break bread with A (VERB) :[(ADJUNCT A/Alb) (MODS [^bQBg<ADV>]) U|AUb^b<VERB>]/Gb
+# ^cost ONE_S  bread upon the waters (VERB) : WzQGfAWzI Rg]sIGb
+# ^eat the bread of affiction (VERB) : R|ZbQ^bD UcW^lbIWzI ^bGb
+# ^eat the bread of idleness (VERB) : AgWzIzD UcW^lbIWzI ^bGb
+# in bad bread (PP->ADV) : RsI^cW^bAg UbIWb
+# in good bread (PP->ADV) : ^cWRlA^bAg UbIWb
+# ^know on which side ONE_S  bread is buttered (VERB) : XbA|Wz| W|^c \bUbDWg RbIAGb
+# out_of bread (ADV) : RbRXsIW| BzD^Aj
+# ^quarrel with ONE_S  bread and butter (VERB) : RbRXsIW| BzD^A|I X|UWzI ^bGb
+# ^take the bread out_of a person's mouth (VERB) : DbQWz| UcWAkWz| A|IWzI ScWbUGb
+# the bread of life (NOUN) : UcWQjWWz| WdWU|A
+
+"breadbasket"
+% CONCRETE MATERIAL 
+(SbWRbAsD|)
+
+"breadboard"
+% CONCRETE MATERIAL 
+(SbW RbDXsA^bDzD GlQb)
+
+"breadery"
+% PLACE ORGAN
+(SbWAbAg)
+
+"breadfruit"
+% CONCRETE MATERIAL PLANT
+(SbWDbQs)
+
+"breadnut"
+% FOOD
+(RzIgGzDfU)
+
+"breadstuffs"
+(SbWWz| WsfDIr)
+
+"breadth"
+% CONCRETE MATERIAL 
+(]lA)
+# the breadth extreme (NOUN) : XfD]lA
+# to a hair's breadth (ADV) : XlAzQGl \zII|QWfRUW|
+# by a hair's breadth (ADV) : AbBbUzIl
+
+"breadwinner"
+% HUMAN
+(AbXlA RsWdWXb)
+
+"break"
+% MATERIAL 
+(]bAl|)
+# ^be make or break $ (VERB) : ^zWQbWWz| A|IlW|Gb
+# break room (NOUN) : ^wAgU|I
+# coffee break (NOUN) : [f]| RzIgW|[z
+# summer break (NOUN) : WjIzQ ^wAb
+# ^take a break (VERB) : ^wU|AWzI Zs|^bGb
+# without a break (ADV) : AkUlA^bWj
+
+"break-in"
+% MATERIAL 
+(Q|IAl GzIWfAbA|)
+
+"break-promise"
+% HUMAN
+(WdAUlA Ws|RbDXb)
+
+"breakable"
+(BcX|A| Us|WsD)
+
+"breakage"
+% MATERIAL 
+(]bUlD)
+
+"breakaway"
+% MATERIAL 
+(RsDI| XfIGbD)
+
+"breakdown"
+% MATERIAL 
+(AlXbW)
+# breakdown gang (NOUN) : AsAzR XbAWfRGc
+# breakdown test (NOUN) : DcAs U|^fQ
+# breakdown van (NOUN) : WzWAzRXbAWfRZb
+# the breakdown of the talk (NOUN) : ^l|GbQWz| AjIIjI
+
+"breaker"
+% CONCRETE MATERIAL HUMAN
+(]bAl|Xb)
+
+"breakeven"
+(UlDW|ARsDA|)
+# breakeven point (NOUN) : UlDW|ARsDA|XfQ
+
+"breakfast"
+% CONCRETE MATERIAL 
+(WbZ|QU|AUb)
+# after breakfast (PP->ADV) : WbZ|QU|AUb ^sWg
+# ^have breakfast (VERB) : WbZ|QU|AUbIzI ^bGb
+# breakfast cup (NOUN) : WbZ|QU|AUbWrWWz| [zD [lWl]|XbD
+
+"breakfaster"
+% HUMAN
+(XlRbDWzI QfADzD UbIbQ)
+
+"breaking"
+% MATERIAL 
+(]bAl|)
+# breaking in (NOUN) : VfUf A|IGzIW|A|
+
+"breakout"
+% MATERIAL ACTION
+(\bIWlA)
+
+"breakthrough"
+% MATERIAL 
+(GlI]b)
+
+"breakup"
+% MATERIAL 
+(RsDUbD)
+
+"breakwater"
+% CONCRETE ANIMAL MATERIAL 
+(RbW]bXg)
+
+"bream"
+(GlQ|)
+
+"breast"
+% CONCRETE MATERIAL ANIMAL
+(AbUzQ)
+# ^give the breast (VERB) : XfXWzI QfAW|Gb
+# ^make a clean breast of (VERB) : Xl|Gb \fIWfDl^Gb
+# past the breast (ADV) : XfXHfIWfXjUf
+# ^suck the breast (VERB) : XfXWzI SbIGb
+
+"breast-beating"
+% ACTION
+(AbUzQWzI Z|Qj UzI]f^bA|)
+
+"breast-cancer"
+(WwRbWWbQ)
+
+"breastband"
+(AbUzQAfIW|)
+
+"breastbone"
+% ANIMAL
+(AbUzQSj)
+
+"breastpin"
+% CONCRETE MATERIAL 
+(RzIlWsZ|)
+
+"breastplate"
+% CONCRETE ANIMAL MATERIAL 
+(AbUzQRbGW|)
+
+"breastrail"
+(DbDAbD)
+
+"breaststroke"
+% MATERIAL 
+(]jWWjW)
+
+"breastwork"
+% CONCRETE ANIMAL MATERIAL 
+(^wWXbW)
+
+"breath"
+% CONCRETE MATERIAL 
+(UsQ)
+# ^hold ONE_S breath $ (VERB) : UsQWzI QfQZsGb
+# out_of breath (ADJ) : UsQW| ZbGb
+# ^take ONE_S breath away $ (VERB) : BbQYbA DlIIbAg ^bGb
+
+"breath-group"
+(A|U|AAsD)
+
+"breathalyzer"
+% CONCRETE ANIMAL MATERIAL 
+(XsA| AfQUbA|)
+
+"breather"
+% CONCRETE MATERIAL 
+(UsQUs|DzD AfU)
+# ^have a breather $ (VERB) : ^bD UsQ GlII|Gb
+# ^take a breather $ (VERB) : ^bD UsQ GlII|Gb
+
+"breathing"
+% MATERIAL ACTION
+(^l^zR)
+
+"breathlessness"
+(UsQXsAW|Q)
+
+"breccia"
+(AbAIjAWbQ)
+
+"breech"
+% CONCRETE MATERIAL ANIMAL
+(WfWGfWW|)
+# ^wear the breeches (VERB) : DbQ]jDWzI BbIAl QsWAcGb
+
+"breechblock"
+% CONCRETE ANIMAL MATERIAL 
+(Q|XfD)
+
+"breechcloth"
+% CONCRETE ANIMAL MATERIAL 
+(A|XfAs|)
+
+"breechclout"
+% CONCRETE ANIMAL MATERIAL 
+(A|XfAs|)
+
+"breeching"
+(WfWGfWW|H|)
+
+"breechloader"
+(^sXbWZlW)
+
+"breed"
+% CONCRETE MATERIAL 
+(]sQXlW)
+
+"breeder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlWZsA)
+
+"breeding"
+% CONCRETE MATERIAL 
+(WdWWwA)
+# breeding in the line (NOUN) : GlWXlW W|AkWz| RfDU|A
+
+"breeze"
+% MATERIAL 
+(Q|]sW)
+# spring breeze (NOUN) : RlQRbIbQ
+# ^shoot the breeze (VERB) : ^lWfD XbWGbQ^bGb
+
+"breezer"
+(QsAc XbGlWZb)
+
+"breezeway"
+(RlAGl)
+
+"breeziliness"
+(UbDGzIRbIbQ RsIA|)
+
+"brekker"
+(XlRbD)
+
+"brenting"
+(X|RbW QsIr WjDWk RlWUb)
+
+"brethren"
+(GlW]l)
+
+"breve"
+(GbDWzQ A|^l)
+
+"brevet"
+(QjWWkX|DAzR)
+
+"breviary"
+(W|IAlb A|GlUf)
+
+"brevier"
+(RzIgR|Wf ^lbIXb)
+
+"brevity"
+% CONCRETE MATERIAL 
+(AbDAjI^bQ)
+# for brevity (ADV) : AbDGbD^| QbI^bXbQjD
+
+"brewage"
+% FOOD
+(WdWXlXs)
+
+"brewer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdWXlXb)
+# brewer's grains (NOUN) : QcAXs XcAbW
+
+"brewery"
+% MATERIAL PLACE ORGAN
+(WdWXlXbW)
+
+"brewhouse"
+% PLACE ORGAN
+(WdWXlXbW)
+
+"brewing"
+% ACTION
+(WdWXl)
+
+"brewis"
+% FOOD
+(AlA|UAsA)
+
+"brewster"
+% HUMAN
+(WdWXlXb)
+
+"briar"
+% PLANT
+(AbU|DbQs)
+
+"briarroot"
+(RzIbW|Wf SsI|)
+
+"briarwood"
+% CONCRETE MATERIAL PLANT
+(]bW|]zWrW DbQs)
+
+"bribability"
+(QcUsAbDzWUfW)
+
+"bribe"
+% MATERIAL 
+(Dl|QsI)
+
+"bribee"
+% HUMAN
+(Us^l|Xb)
+
+"briber"
+% HUMAN
+(UsIl|Xb)
+
+"bribery"
+% MATERIAL ACTION
+(Dl|QsIUsUs)
+
+"bricabrac"
+(AlIGlW]sQ)
+
+"brick"
+% CONCRETE ANIMAL MATERIAL 
+(RjAGlI)
+
+"brickbat"
+(RjAGlIXlAbA)
+
+"brickfield"
+% PLACE ORGAN
+(RjAGlI AlWXbW)
+
+"brickklin"
+(RjAGlI AsRDzD AbQb)
+
+"bricklayer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjAGlI X|AAlW)
+
+"bricklaying"
+% MATERIAL ACTION
+(RjAGlIVb^A|)
+
+"brickmaker"
+% HUMAN
+(RjAGlIXgXlW|D)
+
+"brickmaking"
+% ACTION
+(RjAGlIXgXl)
+
+"brickmason"
+% HUMAN
+(RjAGlI X|AAlW)
+
+"brickwork"
+% CONCRETE ANIMAL MATERIAL 
+(RjAGlI Vb^A|)
+
+"brickyard"
+% PLACE
+(RjAGlI AlWXbW)
+
+"bricole"
+% CONCRETE ANIMAL MATERIAL 
+(A|UzR)
+
+"bridal"
+% ACTION
+(AjI^lDU|A)
+
+"bride"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DRs)
+
+"bridecake"
+(AjI^lD [gW|[z)
+
+"bridegroom"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DIbW)
+
+"bridesmaid"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|DRs GzIIfI|)
+
+"bridesman"
+% HUMAN
+(U|DIbW GzIIfI|)
+
+"bridewell"
+% PLACE
+(WwZ|XbW)
+
+"bridge"
+% CONCRETE MATERIAL PLACE
+(GbI|)
+# Portugese bridge (NOUN) : ]lIs\sAbIAr
+# Tongho bridge (NOUN) : GlW^l GcAr
+# bridge of boats (NOUN) : XsAr
+# bridge of gold (NOUN) : \l|AbAIl
+# golden bridge (NOUN) : \l|AbAIl
+# steel arch bridge (NOUN) : AbWZfI WbWbZ| GbI|
+
+"bridge"
+% CONCRETE MATERIAL 
+(RzI|UX|)
+
+"bridgeboard"
+(RzI|X|RlGz)
+
+"bridgebuilder"
+% HUMAN
+(XsWAbDXlXfWXb)
+
+"bridgehead"
+% CONCRETE MATERIAL PLACE
+(ArGsRl)
+
+"bridgework"
+% CONCRETE ANIMAL MATERIAL 
+(ArIdW AlWUb)
+
+"bridging"
+% ACTION
+(GbI|Dl^A|)
+
+"bridle"
+% CONCRETE MATERIAL 
+(AsIIg)
+# ^give a horse the bridle (VERB) : AlS|IzI DzXZsGb
+# ^lay the bridle on a horse's neck (VERB) : AlS|IzI DzXZsGb
+
+"bridoon"
+(XbAWzD AsIIg)
+
+"brief"
+% CONCRETE MATERIAL 
+(WrWdA)
+# ^have plenty of briefs (VERB) : Wz|Il|RbGWzD UbAfDW| QbD^Gb
+# ^hold a brief for A {+HUMAN} (VERB) : [(OBJ A/WzI) RjD^l^b<VERB>]/Gb
+
+"briefcase"
+% CONCRETE ANIMAL MATERIAL 
+(UfIw AbRbW)
+
+"briefie"
+(GbD]jDWjW^lb)
+
+"briefing"
+% CONCRETE MATERIAL 
+(RzI|]|W)
+# briefing (NOUN) : RzI|]|W
+
+"briefness"
+% CONCRETE MATERIAL 
+(AbDGbD)
+
+"brier"
+% PLANT
+(AbU|DbQs)
+
+"brierroot"
+% PLANT
+(]bW|]zWrW DbQs)
+
+"brierwood"
+% CONCRETE MATERIAL 
+(SsI|)
+
+"brig"
+% CONCRETE MATERIAL 
+(VbW GlUGcWz| RfQUfD)
+
+"brig"
+% CONCRETE MATERIAL 
+(WjWZbW)
+
+"brigade"
+% MATERIAL 
+(WjGbD)
+
+"brigand"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbDXfA)
+
+"brigandage"
+% ACTION
+(WdA\bI)
+
+"brightness"
+% CONCRETE MATERIAL 
+(RbIAWzQ)
+
+"brill"
+% CONCRETE ANIMAL MATERIAL FOOD
+(AbXbQ|)
+
+"brilliance"
+% CONCRETE MATERIAL 
+(R|ZDbQ)
+
+"brilliancy"
+% CONCRETE MATERIAL 
+(R|ZDbQ)
+
+"brilliant"
+(RzI|II|WfD\z)
+
+"brilliantine"
+% CONCRETE ANIMAL MATERIAL 
+(RzI|II|WfD\|D)
+
+"brim"
+% CONCRETE MATERIAL 
+(AbXbWXbI|)
+
+"brimfulness"
+(AbGzAZbQ)
+
+"brimstone"
+% CONCRETE MATERIAL 
+(Ww^lbW)
+# brimstone and treacle (NOUN) : Ww^lbWGbWUs
+
+"brindle"
+(WfIIsA)
+
+"brine"
+(UlAzQQsI)
+# the foaming brine (NOUN) : AfZ|D RbGb
+
+"bringing-up"
+% ACTION
+(WdWWwA)
+
+"brink"
+% MATERIAL 
+(AbXbWXbI|)
+
+"brio"
+(UcWA|)
+
+"brioche"
+(RzI|WlWsUs|)
+
+"briony"
+% PLANT
+(RbAAlbWz| QbDZl)
+
+"brise-bise"
+([fWf\zD)
+
+"brisket"
+% CONCRETE MATERIAL 
+(AbUzQRsRsD)
+
+"briskness"
+% CONCRETE MATERIAL 
+(^lbIRbI^bQ)
+
+"brisling"
+% CONCRETE ANIMAL MATERIAL FOOD
+(XfWWfI|)
+
+"bristle"
+% CONCRETE MATERIAL 
+(AfUgD \fI)
+# ^set up ONE_S  bristles (VERB) : ^lbDcGb
+# ^set up another's bristles (VERB) : ^lbDbAg ^bGb
+
+"bristletail"
+% CONCRETE ANIMAL MATERIAL 
+(XlQ)
+
+"bristling"
+% ANIMAL FOOD
+(XfWWfI|)
+
+"brit"
+% ANIMAL FOOD
+(XbAWzD XfWWfI|)
+
+"brittle"
+% CONCRETE MATERIAL FOOD
+(RbUbARbUbA^bAg AsWsD GbWAlb)
+
+"brittleness"
+(XbI RsUfX|Q)
+
+"britzka"
+(RzI|UUz[b)
+
+"broach"
+% CONCRETE MATERIAL 
+(UlWAlU)
+
+"broacher"
+(RbIWz|Xb)
+
+"broad"
+(DfIRWzD RsRsD)
+# the Broads (NOUN) : X|RbWWz| ^lUl
+
+"broad-market"
+(Gc^jW U|XbW)
+
+"broadax"
+% CONCRETE ANIMAL MATERIAL 
+(DbIW| DfIRWzD GlB|)
+
+"broadaxe"
+% CONCRETE ANIMAL MATERIAL 
+(DbIW| DfIRWzD GlB|)
+
+"broadbill"
+% CONCRETE ANIMAL MATERIAL 
+(RsI|Ab DfIRWzD Uc)
+
+"broadbrim"
+(ZcWDfIRWzD QlXb)
+
+"broadcast"
+% CONCRETE MATERIAL 
+(RbWUlW)
+# live broadcast (NOUN) : UcWRbWUlW
+
+"broadcaster"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbWUlWXb)
+
+"broadcasting"
+% CONCRETE MATERIAL 
+(RbWUlW)
+
+"broadcloth"
+% CONCRETE MATERIAL 
+(RzIlGzZfD)
+
+"broadhorn"
+(XbAWzD AbWRc)
+
+"broadleaf"
+(DfIRWzD W|]GbQRc)
+
+"broadmindedness"
+(QbWzQW| DfIRWzQ)
+
+"broadsheet"
+(^bDYlAQbD W|DUlcGl|D [zD XlWW|)
+
+"broadside"
+% CONCRETE MATERIAL 
+(RcUXfD)
+
+"broadsword"
+% CONCRETE ANIMAL MATERIAL 
+(DbI]lAW| DfIRWzD [bI)
+
+"broadtail"
+% CONCRETE ANIMAL MATERIAL 
+([bIb[sI)
+
+"brobdingnagian"
+% HUMAN
+(AfW|D)
+
+"brocade"
+% CONCRETE MATERIAL 
+(AzQIbD)
+
+"broccoli"
+% CONCRETE MATERIAL 
+(QlIbDZc)
+
+"broche"
+(DzWIb)
+
+"brochure"
+% CONCRETE MATERIAL 
+(UlZcAXb)
+
+"brock"
+% ANIMAL
+(WlUlI|)
+
+"brocket"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD UbUzQ)
+
+"brocoli"
+(QlIbDZc)
+
+"brogan"
+% CONCRETE ANIMAL MATERIAL 
+(UcWAbXsA AsGs)
+
+"brogue"
+% CONCRETE ANIMAL MATERIAL 
+(WbW|IIbDGz Ub\sI|)
+
+"broil"
+% MATERIAL 
+(^lAUf)
+
+"broil"
+% MATERIAL 
+(AsWsQ)
+
+"broil"
+% MATERIAL ACTION
+(VbWsQ)
+
+"broiler"
+% CONCRETE MATERIAL HUMAN
+(VbWsQBsD)
+
+"brokenness"
+(QlIIbA)
+
+"broker"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(XsWAcW|D)
+# real estate broker (NOUN) : RsGlWUbD XsWAcW|D
+# stock broker (NOUN) : XsU|AXsWAcW|D
+# street broker (NOUN) : XbWWl| AfIc XsWQcW|D
+# curbstone broker (NOUN) : XbWWl| AfIc XsWQcW|D
+
+"brokerage"
+% MATERIAL ECOLIFE
+(XsWAc)
+
+"broking"
+% ECOLIFE
+(XsWAcWfR)
+
+"brolly"
+(WsUbD)
+
+"bromate"
+(Zs|Ul UbDWjQ)
+
+"bromid"
+(Zs|^lbQsI)
+# bromide paper (NOUN) : RzIlQbW|Gz X|
+
+"bromide"
+% CONCRETE MATERIAL 
+(Zs|^lbQsI)
+# bromide paper (NOUN) : RzIlQbW|Gz X|
+
+"bromin"
+(Zs|Ul)
+
+"bromine"
+% CONCRETE MATERIAL 
+(Zs|Ul)
+
+"bromism"
+(Zs|Ul XsWGlA)
+
+"bromyrite"
+(Zs|WzDAlbW)
+
+"bronchitis"
+% MATERIAL 
+(A|AlbDX|WjQ)
+
+"broncho"
+% CONCRETE ANIMAL MATERIAL 
+(WdUcWQbI)
+
+"broncho-pneumonia"
+(A|AlbDX| ]kIjQ)
+
+"bronchoscope"
+(A|AlbDX|AjW)
+
+"bronco"
+% CONCRETE ANIMAL MATERIAL 
+(WdUcWQbI)
+
+"broncobuster"
+% HUMAN
+(XlQbUb)
+
+"brontosaurus"
+% CONCRETE ANIMAL MATERIAL 
+(Dl|IrW)
+
+"bronze"
+% CONCRETE MATERIAL 
+(ZfWGlW)
+
+"brooch"
+% CONCRETE MATERIAL 
+(RzIlWsZ|)
+
+"brood"
+% MATERIAL 
+(^bD QsI|)
+# ^sit on brood (VERB) : WbIWzI ]sQGb
+
+"brooder"
+% CONCRETE ANIMAL MATERIAL 
+(W|DAlW Rs^lbA|)
+
+"brook"
+% CONCRETE MATERIAL 
+(U|Dc)
+
+"brooklet"
+(XbAWzD U|Dc)
+
+"brooklime"
+% PLANT
+(AcRsIWbI]sIUlA)
+
+"broom"
+% CONCRETE ANIMAL MATERIAL 
+(R|UXbIs)
+
+"broomcorn"
+% PLANT
+(R|WlAUsUs)
+
+"broomstick"
+% CONCRETE MATERIAL 
+(R|UXbIs)
+
+"brose"
+(RzIlWsXz)
+
+"broth"
+% CONCRETE MATERIAL FOOD
+(Us]z)
+# a broth of a boy (NOUN) : [lcDbQWb
+
+"brothel"
+% CONCRETE ANIMAL MATERIAL PLACE
+(QcWzQAsI)
+
+"brother"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^jWXg)
+# brother in arms (NOUN) : XfDWs
+# brother of the brush (NOUN) : ^lbAb
+# brother of the quill (NOUN) : ^lbAb
+# brother and sister (NOUN) : ^jWXg XbQc
+# little brother (NOUN) : GlWUcW
+# sister and brother (NOUN) : ^jWXg XbQc
+# older brother (NOUN) : UlDWs| DbQXb ^jWXg
+# three brothers (NOUN) : 3 ^jWXg
+# younger brother (NOUN) : DbQGlWUcW
+
+"brother-german"
+% HUMAN
+(Z|D^jWXg)
+
+"brother-in-law"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQ]jDWz| ^jWXg)
+
+"brotherhood"
+% CONCRETE MATERIAL 
+(^jWXgWc)
+
+"brotherliness"
+% MIND
+(^jWXgWz| WcXfW)
+
+"brougham"
+% CONCRETE MATERIAL 
+(4 IwDQbZb)
+
+"brouhaha"
+(WjIIjI^bD AlbDU|Q)
+
+"brow"
+% CONCRETE MATERIAL ANIMAL
+(DsDVfR)
+# ^knit the brows (VERB) : DsDVfRWzI Y|]sI|Gb
+# ^bend the brows (VERB) : DsDVfRWzI Y|]sI|Gb
+
+"brown"
+% CONCRETE MATERIAL 
+(AbIUcA)
+# ^fire into the brown (VERB) : DbIWbAbDzD UcHgWgAg ZlWWzI VlWbGcGb
+
+"brownie"
+% CONCRETE MATERIAL 
+(XbAWzD WrXfW)
+
+"browning"
+% MATERIAL 
+(XbGlW UlZlW)
+
+"brownness"
+% CONCRETE MATERIAL 
+(AbIUcA)
+
+"brownout"
+% MATERIAL 
+(AjWAk AlbDXg)
+
+"brownstone"
+% CONCRETE MATERIAL 
+(AbIUcAUbWbQ)
+
+"brows"
+% ANIMAL
+(W|Qb)
+
+"browse"
+% CONCRETE MATERIAL PLANT
+(RzIbWsXz)
+# ^be at browse (VERB) : UcVbAWzI QfAAl W|VGb
+
+"browser"
+% ANIMAL
+(RzIbWsXf)
+
+"bruin"
+(AlQUfRbW)
+
+"bruise"
+% MATERIAL 
+(\bRbAUbW)
+
+"bruiser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbWXb)
+
+"bruit"
+(UlQsD)
+
+"brumby"
+% ANIMAL
+(UbDbWsD QbI)
+
+"brummagem"
+(AbYb)
+
+"brunch"
+% CONCRETE MATERIAL FOOD
+(DzXWzD XlRbD)
+
+"brunet"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfQsUzIzQ^bD WjXb)
+
+"brunt"
+(WkRlW)
+# ^bear the brunt of A (VERB) : [(ADJUNCT [(POSS A/Wz|) XfWQjD<NOUN>]/Wg) QbXUf<VERB>]/Gb
+
+"brush"
+% CONCRETE MATERIAL 
+(UlI)
+# at a brush (ADV) : GbDRfDWg
+# at the first brush (ADV) : Zl|ZlWz| UzRAjAWg
+
+"brush-off"
+% MATERIAL ACTION
+(^cAl)
+
+"brush-pencil"
+(^lb]|I)
+
+"brush-up"
+(UlDX|I)
+
+"brushfire"
+% ACTION
+(UlAwQlWz| XfD\s)
+
+"brushing"
+(UlIX|I)
+
+"brushwood"
+% PLANT
+(XbDDbQsAbX|)
+
+"brushwork"
+(AzI|Q)
+
+"bruskness"
+(QsHsAHsA^bQ)
+
+"brusqueness"
+% CONCRETE MATERIAL 
+(QsHsAHsA^bQ)
+
+"brutalism"
+(WdUsUfW)
+
+"brutality"
+% CONCRETE MATERIAL 
+(WdQbDUfW)
+
+"brutalization"
+% MATERIAL 
+(WdQbD^lb)
+
+"brute"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|QUzW)
+# the brute (NOUN) : WdUsUfW
+# the brutes (NOUN) : X|QUzW
+
+"brutishness"
+(X|QUzWAb\WzQ)
+
+"bryology"
+% ART
+(UfD\c^bA)
+
+"bryony"
+(RzI|WlD|Wb)
+
+"bryophyte"
+% CONCRETE ANIMAL MATERIAL 
+(W|B|U|AQsI)
+
+"bryozoan"
+% CONCRETE ANIMAL MATERIAL 
+(W|B|RfIIg)
+
+"bub"
+% HUMAN
+(BlQb)
+
+"bubal"
+% ANIMAL
+(WjWWdW)
+
+"bubalis"
+% ANIMAL
+(WjWWdW)
+
+"bubble"
+% MATERIAL 
+(Af]sQ)
+# ^blow bubbles (VERB) : R|DsRbWWsIWzI RsIGb
+# bubble and squeak (NOUN) : Ul|AlA|Wlb WdWRcZs\s|A|Q
+# bubble company (NOUN) : ]lXs^l|Ub
+# ^prick a bubble (VERB) : R|Ds RbWWsIWzI \s|Aj \fHzI|Gb
+
+"bubble-top"
+(\sQjW ]zIIbUz\|A Gf]Ac)
+
+"bubbler"
+(WzQWrWRsDUs)
+
+"bubbly"
+% CONCRETE MATERIAL FOOD
+(UdQ]gW|D)
+
+"bubbly-jock"
+% ANIMAL
+(Z|IQjDXlWz| Us[fU)
+
+"bubby"
+% HUMAN
+(BlQb)
+
+"bubo"
+(Uf^kUfDXlW)
+
+"bubonocele"
+(Uf^k ^gIzD|Wb)
+
+"buccaneer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^cXfA)
+
+"buccaneering"
+% MATERIAL ACTION
+(^cXfA^cWWs|)
+
+"buccanier"
+% HUMAN
+(^cXfA)
+
+"buccaniering"
+% ACTION
+(^cXfA^cWWs|)
+
+"buccinator"
+(^jRAzD)
+
+"buchmanism"
+% ART
+(Rf[zQfD|XzQ)
+
+"buck"
+% CONCRETE ANIMAL MATERIAL 
+(UsUbUzQ)
+
+"buck-passing"
+% ACTION
+(ZcAW|QXfDAb)
+
+"buckaroo"
+% HUMAN
+([bWsRlW|)
+
+"buckboard"
+% CONCRETE ANIMAL MATERIAL 
+(4 IwD QbZb)
+
+"bucker"
+% ANIMAL
+(UbDbWsD QbI)
+
+"bucket"
+% CONCRETE MATERIAL 
+(QsI\lW)
+# a drop in the bucket (NOUN) : [zD RbGbWz| QsI ^bDRbWWsI
+# bucket shop (NOUN) : WbQAfIcUbW
+# ^give the bucket (VERB) : ^cAl^bGb
+# ^kick the bucket (VERB) : XsAGb
+
+"bucketeer"
+% HUMAN
+(WfW\fI| AfAbDAsD)
+
+"bucketful"
+% CONCRETE MATERIAL 
+(^bD QsI\lW RsD)
+
+"buckeye"
+% CONCRETE MATERIAL 
+(QbIlD|Wg)
+# the Buckeye State (NOUN) : RsAQ| XsWz| UlAZ|W
+
+"buckhorn"
+(UbUzQSsI)
+
+"buckhound"
+(Rf[z^bWsDGz)
+
+"buckjump"
+% ACTION
+(Hs|WfWlIzA|)
+
+"buckle"
+% CONCRETE MATERIAL 
+(Rf[zI)
+
+"buckler"
+% CONCRETE ANIMAL MATERIAL 
+(GsWAzD RbW]c)
+
+"buckmast"
+% HUMAN
+(WdWIwAX|^s|AlbD)
+
+"bucko"
+% HUMAN
+(WdAXbIzI QlUUbIAg AsDzD UbIbQ)
+
+"buckra"
+% HUMAN
+(RcAW|D)
+
+"buckram"
+% CONCRETE MATERIAL 
+(WbQb]l)
+# mem in buckram (NOUN) : AbAlWWz| W|DQsI
+# buckram men (NOUN) : AbAlWWz| W|DQsI
+
+"bucksaw"
+([zD \lR)
+
+"buckshee"
+(\zARjI UsGbW)
+
+"buckshot"
+% CONCRETE ANIMAL MATERIAL 
+(UbUzQUbDdWWrW UbD\bD)
+
+"buckskin"
+% CONCRETE MATERIAL 
+(DlAR|)
+
+"buckstick"
+% HUMAN
+(^f]sWUfDW|)
+
+"buckthorn"
+% PLANT
+(AbIQcDbQs)
+
+"bucktooth"
+(SfGzIfWD|)
+
+"buckwagon"
+(Gc^jW 4 IwDQbZb)
+
+"buckwheat"
+% CONCRETE MATERIAL PLANT FOOD
+(QgQ|I)
+
+"bucolic"
+(QlAAb)
+
+"bud"
+% CONCRETE MATERIAL PLANT
+(VbA)
+# ^be in bud (VERB) : VbAW| \zGb
+# in bud | (PP->ADV PP->ADJ) : 1) VbA\fUf
+2) [VbAW| \z<VERB>]/Gb
+# nip in the bud (VERB) : BlZRlWWlI|W|I Hc HbGb
+
+"budding"
+(VbA\zQ)
+
+"buddle"
+(UgAlbWXl)
+
+"buddleia"
+% CONCRETE ANIMAL MATERIAL 
+(GzWAlWQlAUlA)
+
+"buddoo"
+% HUMAN
+(WbIbR|WbW|D)
+
+"buddy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlWIr)
+# buddy list (NOUN) : RfG| I|Uz\z
+
+"buddy-buddy"
+% HUMAN
+(AbBbWsD Z|DAs)
+
+"budge"
+(WfI|D WdWWz| Ql]|)
+
+"budgereegah"
+% CONCRETE ANIMAL MATERIAL 
+(W|WBl)
+
+"budgerigar"
+% CONCRETE ANIMAL MATERIAL 
+(W|WBl)
+
+"budget"
+% MATERIAL ECOLIFE
+(WkUbD)
+# administrative expense budget (NOUN) : AlbDI|R|WkUbD
+# balanced budget (NOUN) : AwD^jWWkUbD
+# balanced budget multiplier (NOUN) : AwD^jWAkUs
+# budget committee (NOUN) : WkUbDWs|WsfD^l|
+# budget compilation (NOUN) : WkUbD]jDUfW
+# budget cost (NOUN) : WkUbDWsfDAb
+# budget deficit (NOUN) : XfAXbXcXfW
+# budget multiplier (NOUN) : XcXfWUzWUs
+# budget plan (NOUN) : WsfIRsAk
+# budget policy (NOUN) : WkUbD]jDUbWRbWZ|Q
+# budget surplus (NOUN) : ^zAXbXcXfW
+# capital budget (NOUN) : XbRlDXfAX|ZsIWkUbD
+# cash budget (NOUN) : ^jDAzQWkAzQUsX|WkUbD
+# extraordinary budget (NOUN) : \zARjIWkUbD
+# federal budget (NOUN) : Q|WjDRbWWkUbD
+# general budget (NOUN) : ZlWWkUbD
+# master budget (NOUN) : ZlWAlbIWkUbD
+# ^open the budget (VERB) : WkUbDWbDWzI XgZsI^bGb
+# revised budget (NOUN) : UsXfWWkUbD
+# suppliementary budget (NOUN) : RlXfWWkUbD
+# the Budget Message (NOUN) : WkUbD ArUf
+# unified budget (NOUN) : \lW^bRWkUbD
+
+"budgeteer"
+% HUMAN
+(WkUbDWzI YbDzD UbIbQ)
+
+"budlet"
+(WfI|D VbA)
+
+"buff"
+% CONCRETE MATERIAL 
+(AbXsA)
+
+"buffalo"
+% CONCRETE ANIMAL MATERIAL 
+(Rf]bIIl)
+
+"buffcoat"
+(AbXsA [lWs\z)
+
+"buffer"
+% CONCRETE MATERIAL 
+(AbDzD GlAs)
+
+"buffer"
+% CONCRETE MATERIAL 
+(DlQ)
+
+"buffer"
+% CONCRETE MATERIAL 
+(WlbDZsWA|)
+# buffer state (NOUN) : WlbDZsWAsA
+# buffer zone (NOUN) : X|Gc
+# buffer stock (NOUN) : WlbDZsWXcAl
+
+"buffet"
+% CONCRETE MATERIAL PLACE
+(AbDW| U|AGbW)
+
+"buffet"
+% CONCRETE MATERIAL ACTION
+(\bAjA)
+
+"bufflehead"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD WlI|)
+
+"buffo"
+% HUMAN
+(AlbWGc)
+
+"buffoon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbWGc)
+# ^play the buffoon (VERB) : W|AUbIRsI|Gb
+
+"buffoonery"
+% MATERIAL 
+(W|AUbI)
+
+"bug"
+% CONCRETE MATERIAL ANIMAL
+(AlDZsW)
+# ^go bugs (VERB) : Q|Z|Gb
+# ^put a bug in a person's ear (VERB) : DbQWgAg DfDX|U| AjWAl^bGb
+# ^put a bug on a person (VERB) : DbQWzI UlAWjQfAGb
+# ^smell a bug (VERB) : UsUbW^bAg WjA|Gb
+# the bug under the chip (NOUN) : W|QjDWz| QlAXfA
+
+"bugaboo"
+(GlBcR|)
+
+"bugbear"
+(GlBcR|)
+
+"bugger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|WjAXbWW|)
+
+"buggery"
+% MATERIAL ACTION
+(DbQUcA)
+
+"buggy"
+% CONCRETE ANIMAL MATERIAL 
+(AjWQbZb)
+
+"bughouse"
+% PLACE
+(XfWU|DRjWWsfD)
+
+"bughunter"
+% HUMAN
+(AlDZsW^bAXb)
+
+"bughunting"
+% ACTION
+(AlDZsWZcX|R)
+
+"bugle"
+% CONCRETE MATERIAL 
+(AsDGcDb]bI)
+
+"bugle"
+% CONCRETE MATERIAL PLANT
+(BsI]sIAlbWz| U|AQsI)
+
+"bugle"
+% CONCRETE MATERIAL 
+(WwI|Wz| AlbDWlA)
+
+"bugler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Db]bIUs)
+
+"buglet"
+(XbAWzD Db]bI)
+
+"bugloss"
+% PLANT
+(Ul|Uf]sI)
+
+"buhl"
+% PLANT
+(RsWsIUbWAbQ)
+
+"build"
+% CONCRETE MATERIAL 
+(AsXl)
+
+"build-on"
+(XlI|RU|A)
+
+"build-up"
+% MATERIAL 
+(XzWAbW)
+
+"builder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfDZsAXb)
+
+"building"
+% CONCRETE MATERIAL PLACE
+(R|IG|W)
+# ONE_S building (NOUN) : [(POSS ONE_S) AfDQsI<NOUN>]
+# brick building (NOUN) : RjAGlI AfDQsI
+# building cycle (NOUN) : AfDUfIUsD^lbD
+# building lease (NOUN) : AfDZsA RsX|Wz| W|QGcZb
+# building maintenence expenses (NOUN) : AfDQsIWwX|R|
+# building paper (NOUN) : RbWUsX|
+# building permits (NOUN) : AfDUfIXsWW|D AfDQsI
+# building trades (NOUN) : AfDZsAWfR
+# building used in operation (NOUN) : WjWWfRWrWAfDQsI
+# buildings and building fixtures (NOUN) : AfDQsI Q|Z RsUlAUfIR|
+# capitol building (NOUN) : Wz|UbGbW
+# government building (NOUN) : AlbDZfW AfDQsI
+
+"buildup"
+% MATERIAL 
+(XzWAbW)
+
+"built-in"
+(DcXbW)
+
+"bulb"
+% CONCRETE MATERIAL 
+(RfIRz)
+# bulb of the spical cord (NOUN) : WjDUs
+# light bulb (NOUN) : XfDAs
+
+"bulblet"
+(XbAWzD W|DAjW)
+
+"bulbul"
+% CONCRETE ANIMAL MATERIAL 
+(RsIRsI)
+
+"bulge"
+% MATERIAL 
+(GlIZsI)
+
+"bulger"
+(AlWZ|DzD RsRsDW| RlIIlA^bD AlI]zZc)
+
+"bulimia"
+(U|AWrA AlbGbXzW)
+
+"bulimy"
+(U|AWrA AlbGbXzW)
+
+"bulk"
+% CONCRETE MATERIAL 
+(ZgXfA)
+# ^break bulk (VERB) : RcUX|QWzI RsI|A| U|XbA^bGb
+# bulk buying (NOUN) : XfDIdW QcXfQ
+# bulk cargo (NOUN) : ]lXbW^bX| WbD^WzD RcUX|Q
+# bulk fare (NOUN) : GbDZg ^bIW|D ^bWAlW WrAzQ
+# bulk mail (NOUN) : RjIDbR ^bIW|D Ws]jD
+
+# bulk production (NOUN) : GcIdWUcWUbD
+# bulk purchase (NOUN) : UcWUbDQsIWz| XfDIdWQcXfQ
+# in bulk (ADV) : QsBX| WbD^Al
+# price for the bulk (NOUN) : ZlWAlbIAbAjA
+
+"bulkhead"
+% CONCRETE ANIMAL MATERIAL 
+(AbDQbAW|)
+
+"bulkiness"
+% CONCRETE MATERIAL 
+(AfGc^bQ)
+
+"bull"
+% CONCRETE ANIMAL MATERIAL 
+(^lbWUl)
+# like a bull at a gate (ADV) : QcWIjI^|
+# like a bull at a five barred gate (ADV) : QcWIjI^|
+# ^shoot the bull (VERB) : ^f\zD UlI|IzI ^bGb
+# ^take the bull by the horns (VERB) : WrWAbQ^| DbDAsAWg QbXUfGb
+
+"bull's-eye"
+% CONCRETE MATERIAL 
+(^zAXfQ)
+
+"bull-and-cow"
+% ACTION
+(VbWsQ)
+
+"bull-tongue"
+(RlUzR)
+
+"bull-whip"
+(UcWAbXsA ZcY|A)
+
+"bulla"
+% CONCRETE MATERIAL 
+(Us]l)
+
+"bullace"
+% CONCRETE ANIMAL MATERIAL PLANT
+(UfWdW WlWdUDbQs)
+
+"bullbaiting"
+(RsIRgW|\|W)
+
+"bullbat"
+% CONCRETE ANIMAL MATERIAL 
+(VlAGlAUc)
+
+"bulldog"
+% CONCRETE ANIMAL MATERIAL 
+(RsIGlA)
+# bulldog edition (NOUN) : WsfDAfI|Il RbIUlW^bDzD U|DQsDWz| UcRjA]bD
+
+"bulldozer"
+% CONCRETE ANIMAL MATERIAL 
+(\lQlAAlWUbWrW \zIcA\f)
+
+"bullet"
+% CONCRETE ANIMAL MATERIAL 
+(ZlWWbI)
+
+"bullet-drawer"
+(ZlWWbI ScDcDzD A|As)
+
+"bullethead"
+(GsWAzDQfI|)
+
+"bulletin"
+% CONCRETE MATERIAL 
+(AgU|)
+
+"bullfeast"
+(RsI]|Uz\z)
+
+"bullfight"
+% ACTION
+(\sWs)
+
+"bullfighter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(\sWsUb)
+
+"bullfighting"
+% ACTION
+(\sWs)
+
+"bullfinch"
+% CONCRETE ANIMAL MATERIAL 
+(]|I|Uc)
+
+"bullfrog"
+% CONCRETE ANIMAL MATERIAL FOOD
+(U|AWrW AcAsI|)
+
+"bullhead"
+% CONCRETE ANIMAL MATERIAL 
+(AlX|RXbWW|)
+
+"bullheadedness"
+% CONCRETE MATERIAL 
+(AlX|RW| UgQ)
+
+"bullhorn"
+% CONCRETE ANIMAL MATERIAL 
+(^wGcWrW ^lbAUfWA|)
+
+"bullion"
+% CONCRETE MATERIAL 
+(AzQAl|)
+# bullion point (NOUN) : XfW^lbUsUlWXfQ
+
+"bullionism"
+% ART ECOLIFE
+(AzQWzD\lW^lbXsWz|)
+
+"bullionist"
+% HUMAN
+(AzQWzD\lW^lbXsWz|Xb)
+
+"bullishness"
+(AlX|RW| UgQ)
+
+"bullock"
+% CONCRETE ANIMAL MATERIAL 
+(UsUl)
+
+"bullpen"
+(RsI]gD)
+
+"bullroarer"
+(RsIIlIf)
+
+"bullwhack"
+(UlQlIW|ZcY|A)
+
+"bullwhacker"
+% HUMAN
+(UlQlIW|BsD)
+
+"bully"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIIdWRc)
+# bully off (NOUN) : U|^bRAcU|
+# ^play the bully (VERB) : QlRU| SlQDcGb
+
+"bullyboy"
+% HUMAN
+(]lAIjAXlX|AWz| ^bUsW|D)
+
+"bulrush"
+% PLANT
+(AbIGc)
+
+"bulwark"
+% CONCRETE MATERIAL 
+(RlIs)
+
+"bum"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfDGbI)
+# ^go on the bum (VERB) : RbW\bWUcW^lbI^bGb
+
+"bum"
+% CONCRETE MATERIAL ANIMAL
+(AsWGsWW|)
+
+"bumbailiff"
+(X|RGbII|)
+
+"bumble-puppy"
+(RjDZ|A)
+
+"bumblebee"
+% CONCRETE ANIMAL MATERIAL 
+(HbWRfI)
+
+"bumbledom"
+(^bAzRAlbDI|AzDUfW)
+
+"bumbo"
+(RfQRl)
+
+"bumboat"
+(XbAWzD Rc)
+
+"bumf"
+(^lbXbWX|)
+
+"bumkin"
+% HUMAN
+(U|AlIHzA|)
+
+"bummalo"
+(QsIZfDAs)
+
+"bummer"
+% HUMAN
+(AgWzIzQXbWW|)
+
+"bump"
+% MATERIAL 
+(ZsWGlI)
+# ^have no bump of music (VERB) : WzQWbAWz| UlX|IWzD XfD^j WfRUGb
+# bump supper (NOUN) : QbDZbD^l|
+
+"bumper"
+% CONCRETE ANIMAL MATERIAL 
+(RfQ]f)
+
+"bumperettes"
+(RfQ]fIgUZz)
+
+"bumpkin"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|AlIHzA|)
+
+"bun"
+% CONCRETE MATERIAL ANIMAL
+(GbIbQXs|)
+
+"bun"
+% CONCRETE MATERIAL FOOD
+(IlISbW)
+# ^have bun on (VERB) : Zs|^cW|VGb
+# cross bun (NOUN) : U|RXb^jWWzI DsIzDSbW
+# hot cross bun (NOUN) : U|RXb^jWWzI DsIzDSbW
+# ^take the bun (VERB) : 1 GzWWzI ^bGb
+
+"buna"
+(RsDf)
+
+"bunch"
+% MATERIAL 
+(GbRbI)
+# bunch of calico (NOUN) : WjXb
+# bunch of fives (NOUN) : XsQfA
+
+"bunchiness"
+(UlWW| QlWdW)
+
+"bunchlight"
+(UlAAlbW)
+
+"bunco"
+% MATERIAL 
+(UbA|)
+
+"buncombe"
+% CONCRETE MATERIAL 
+(^fUUlI|)
+
+"bund"
+(^cWbD GlIl)
+
+"bundle"
+% CONCRETE MATERIAL 
+(GbRbI)
+# bundle sale (NOUN) : B|Wsf]bIA|
+
+"bundobust"
+(XsDR| ^jRXfW)
+
+"bung"
+% CONCRETE ANIMAL MATERIAL 
+(QbAc)
+
+"bungalow"
+% CONCRETE ANIMAL MATERIAL 
+(RbWAbIIl)
+
+"bunghole"
+(QbAc AsQfW)
+
+"bungle"
+% MATERIAL 
+(Uf\sIzD UlQV|)
+
+"bungler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UlQV|WfRUDzD UbIbQ)
+
+"bungling"
+(Uf\sIzD UlQV|)
+
+"bunion"
+(RfD|WfD)
+
+"bunk"
+% CONCRETE MATERIAL 
+(Z|QGc)
+
+"bunker"
+% CONCRETE MATERIAL 
+([zD \lW)
+# concrete bunker (NOUN) : [lD[zI|\z RfW[f
+
+"bunkhouse"
+(^bRUsAUl)
+
+"bunkie"
+(RfW[z QgW|\z)
+
+"bunkmate"
+% HUMAN
+(RfW[z QgW|\z)
+
+"bunko"
+% MATERIAL 
+(UbA|)
+
+"bunko"
+% MATERIAL 
+(UbA|)
+
+"bunkum"
+% CONCRETE MATERIAL 
+(^fUUlI|)
+
+"bunn"
+% FOOD
+(IlISbW)
+# ^have bun on (VERB) : Zs|^cW|VGb
+# cross bun (NOUN) : U|RXb^jWWzI DsIzDSbW
+# hot cross bun (NOUN) : U|RXb^jWWzI DsIzDSbW
+
+"bunny"
+% ANIMAL
+(\lB|)
+
+"bunt"
+% MATERIAL 
+(^bD AbWsDGg)
+
+"bunt"
+% MATERIAL 
+(^zAUsQjW)
+
+"bunting"
+% CONCRETE ANIMAL MATERIAL 
+(A|URbI)
+
+"bunting"
+% CONCRETE ANIMAL MATERIAL 
+(QcUUc)
+
+"buntline"
+(RfD\zIbW|D)
+
+"buoy"
+% CONCRETE MATERIAL 
+(Rs]r)
+
+"buoyage"
+(Rs]rUfIZ|)
+
+"buoyance"
+(HzDzD ^|Q)
+
+"buoyancy"
+% CONCRETE MATERIAL 
+(HzDzD ^|Q)
+
+"bur"
+% CONCRETE ANIMAL MATERIAL 
+(AbU|)
+
+"burberry"
+(RbWUsRlA)
+
+"burbot"
+% CONCRETE ANIMAL MATERIAL 
+(Ql[c)
+
+"burden"
+% CONCRETE MATERIAL 
+(X|Q)
+# ^be a burden to A (VERB) : [(SCOMP [(POSS A/Wz|) RsGbQ<NOUN>]/W|) Gl|<VERB>]/Gb
+# ^be a burden on A (VERB) : [(SCOMP [(POSS A/Wz|) X|Q<NOUN>]/W|) Gl|<VERB>]/Gb
+# like the burden of oa song (ADV) : QjZRfDW|Al Gl|]sIW|^bWj
+# the burden of proof (NOUN) : AfXzW ZcAW|Q
+
+"burdock"
+% MATERIAL 
+(WsWfW)
+
+"bureau"
+% CONCRETE MATERIAL PLACE ORGAN
+(ZcAUbW)
+# travel bureau (NOUN) : Wj^cW WbDDcUl
+
+"bureaucracy"
+% MATERIAL ART
+(AlbDIrXsWz|)
+
+"bureaucrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbDIr)
+
+"bureaucratese"
+(AlbDIrWrWWf)
+
+"bureaucratism"
+% MATERIAL ART 
+(AlbDIrXsWz|)
+
+"bureaucratist"
+% HUMAN
+(AlbDIrXsWz|Xb)
+
+"bureaux"
+([zD ZcAUbW)
+
+"burel"
+% ANIMAL
+(^|QbIIbWdUbD GzIWdW)
+
+"buret"
+(RwIgU)
+
+"burette"
+% CONCRETE MATERIAL 
+(RwIgU)
+
+"burg"
+% PLACE ORGAN
+(UfWU|)
+
+"burgee"
+(UbQAbAA|)
+
+"burgeon"
+% PLANT
+(VbA)
+
+"burger"
+% FOOD
+(^cQRfAf)
+
+"burgess"
+% HUMAN
+(U|Q|D)
+
+"burgh"
+% PLACE ORGAN
+(XbZ|GlU|)
+
+"burgher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWQ|D)
+
+"burglar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlGsA)
+
+"burglary"
+% MATERIAL HUMAN
+(RbQGlGsA)
+
+"burgomaster"
+% PLACE ORGAN
+(U|XbW)
+
+"burgonet"
+(AbRjWsD \sAs)
+
+"burgoo"
+% CONCRETE MATERIAL 
+(WlWs\zQ|W|I)
+
+"burgundian"
+% HUMAN
+(RfAfDG|Wz| XsQ|D)
+
+"burhel"
+% ANIMAL
+(^|QbIIbWdUbD GzIWdW)
+
+"burial"
+% MATERIAL ACTION
+(XbWIkU|A)
+# the burial at sea (NOUN) : UsXbW
+
+"burier"
+% HUMAN
+(QcXbWXb)
+
+"burin"
+% CONCRETE ANIMAL MATERIAL 
+(XlAbA[bI)
+
+"burl"
+% CONCRETE MATERIAL 
+(QcGzR)
+
+"burlap"
+% CONCRETE MATERIAL 
+(DsIzD UbQRg)
+
+"burlesque"
+% CONCRETE MATERIAL ACTION
+(AlbWGcX|U)
+
+"burley"
+(Q|AsAUbD W|]GbQRc)
+
+"burley"
+(Q|AsAUbD W|]GbQRc)
+
+"burliness"
+% STATE
+(AfDXbW^bQ)
+
+"burly"
+% HUMAN
+(AfDXbW^bD RsIbWXb)
+
+"burn"
+% MATERIAL 
+(^lbUbW)
+
+"burner"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(RfDf)
+# camp burner (NOUN) : [cQ]z RfDf
+
+"burnet"
+% PLANT
+(^lbIbD WlW|]sI)
+
+"burning"
+(WjDUl)
+
+"burnish"
+% CONCRETE MATERIAL 
+(WwD)
+
+"burnisher"
+% HUMAN
+(GbBDzD UbIbQ)
+
+"burnoose"
+(RfDsUz)
+
+"burnous"
+(RfDsUz)
+
+"burnout"
+(WjDUlXfWX|)
+
+"burnsides"
+(AsIgDbIsU)
+
+"burp"
+% MATERIAL ACTION
+(\zI|Q)
+# burp gun (NOUN) : A|AlbDGbDZlW
+
+"burr"
+% CONCRETE MATERIAL 
+(AbU|)
+
+"burr"
+% CONCRETE MATERIAL 
+(Rf)
+
+"burr"
+% CONCRETE MATERIAL 
+(S|AfAAfI|DzD UlI|)
+
+"burrhead"
+% HUMAN
+(^zAW|D)
+
+"burro"
+% CONCRETE ANIMAL MATERIAL 
+(GbWDbAs|)
+
+"burrow"
+% MATERIAL PLACE
+(WzDU|DZf)
+
+"bursa"
+(^lbIWcADbW)
+
+"bursar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^l|AkAlbD)
+
+"bursary"
+% MATERIAL ORGAN ECOLIFE
+(^l|AkAlb)
+
+"burst"
+% MATERIAL 
+(]lARbI)
+# at a burst (ADV) : RsDRbI^bWj
+# at one burst (ADV) : RsDRbI^bWj
+
+"burst-up"
+(]bWjI)
+
+"burster"
+% CONCRETE MATERIAL 
+(XbAWdA)
+
+"burstone"
+(GlIXfIAs)
+
+"burweed"
+% PLANT
+(XbRZl)
+
+"buryat"
+% HUMAN
+(RsI|Wb\zXlA)
+
+"burying"
+% MATERIAL ACTION
+(QcXbW)
+
+"bus"
+% CONCRETE MATERIAL 
+(RfUz)
+# bus for A {+PRNOUN} (NOUN) : [(NMODS [(NMODS A) ^cW<NOUN>]) RfUz<NOUN>]
+
+# sightseeing bus (NOUN) : AlbDAlbW UsD^lbD RfUz
+
+"bus-queue"
+(RfUzIzI A|GbI|DzD UbIbQWz| XsI)
+
+"bus-top"
+(RfUzWz| 2 ZzW XlbUfA)
+
+"busby"
+% CONCRETE ANIMAL MATERIAL 
+(RfUzR| QlXb)
+
+"bush"
+% CONCRETE MATERIAL PLANT
+(AlbDQlA)
+# ^beat around bush (VERB) : DfDXzU| QbI^bGb
+# ^beat about bush (VERB) : GsIIfGcWf QbI^bGb
+# ^beat the bushes (VERB) : Uz[bWs\z^bGb
+
+"bush"
+% CONCRETE MATERIAL 
+(AsQfW WbDYlAWg B|WsDzD AzQUlA\lW)
+
+"Bush"
+(RsU|)
+
+"bushel"
+% CONCRETE UNIT MATERIAL 
+(RsUkI)
+# ^hide ONE_S  light under a bushel (VERB) : AjQUlD^bWj Xg XcDzWWzI AbQZsGb
+# ^hide ONE_S  candle under a bushel (VERB) : AjQUlD^bWj Xg UfD^cWWzI AbQZsGb
+
+"busheler"
+% HUMAN
+(UsUfD^bDzD UbIbQ)
+
+"busheller"
+% HUMAN
+(UsUfD^bDzD UbIbQ)
+
+"busher"
+% HUMAN
+(QbW|Df I|AzWz| UfDUs)
+
+"bushing"
+% CONCRETE ANIMAL MATERIAL 
+(\sAlbD)
+
+"bushman"
+% HUMAN
+(UbQI|QX| AfXsXb)
+
+"bushmaster"
+% ANIMAL
+(RsUs|QbUz\f)
+
+"bushranger"
+% HUMAN
+(UbQI|QX|Wg UbDzD UbIbQ)
+
+"bushveld"
+% PLACE
+(UbQI|QX|Gc)
+
+"bushwhacking"
+(UbQI|QX|GcWz| Wj^cW)
+
+"business"
+% ECOLIFE ORGAN ACTION
+(UbWfR)
+# arbitrage business (NOUN) : XsWAcAfIc
+# bad business (NOUN) : RsII|^bD AfIc
+# ^be all business $ (VERB) : UbWfRWg QlIGs^bGb
+# ^be connected in business with A (VERB) : [(ADJUNCT A/Alb) AfIcAb W|V<VERB>]/Gb
+# brisk business (NOUN) : ^lbI^lbW
+# business administration (NOUN) : AjWWjW^bA
+# business analysis (NOUN) : AjWWjWRsDUfA
+# business barometer (NOUN) : AjWA|X|]r
+# business borrowing (NOUN) : A|WfRZbW|R
+# business capital (NOUN) : A|WfRXbRlD
+# business card (NOUN) : QjW^bQ
+# business center (NOUN) : UbWWfRXsWU|QX|
+# business chance (NOUN) : UbWA|^l|
+# business circles (NOUN) : U|IWfRAk
+# business climate (NOUN) : AjWA|UbW^lbW
+# business collaboration (NOUN) : A|WfR^bRGlW
+# business combination (NOUN) : UbWfRX|]r
+# business comparison (NOUN) : A|WfRR|Ar
+# business corporation (NOUN) : WjWWfRUbW^lbW
+# business correspondence (NOUN) : UbWWfR\lWU|D
+# business cycle (NOUN) : AjWA|UsD^lbD
+# business day (NOUN) : WjWWfRW|I
+# business deposit (NOUN) : WjWWfRUfWWkAzQ
+# business economics (NOUN) : AjWWjW^bA
+# business enterprise (NOUN) : A|WfR
+# business environment (NOUN) : AjWA|UbW^lbW
+# business equipment (NOUN) : A|WfRUfIR|
+# business failure (NOUN) : A|WfR]bUbD
+# business fluctuation (NOUN) : AjWA|RjDGlW
+# business forecasting (NOUN) : AjWA|WkZzA
+# business income (NOUN) : A|WfRUlGzA
+# business inventories (NOUN) : A|WfRXcAl
+# business loan (NOUN) : A|WfRGcRs
+# business man (NOUN) : UbWfRAb
+# business measurement (NOUN) : AjWA|AlbDZzA
+# business meeting (NOUN) : UbWfR ^l|Wz|
+# business motive (NOUN) : WjWWfRGlWA|
+# business of communications (NOUN) : XfWRlUbDWfR
+# business opportunity (NOUN) : UbWA|^l|
+# business practice (NOUN) : UbWAlbDUzR
+# business report (NOUN) : WjWWfRRlAlUf
+# business rival (NOUN) : AjWXcWA|WfR
+# business saving (NOUN) : A|WfRXfZsA
+# business settlement fund (NOUN) : AjIXgXbAzQ
+# business standing (NOUN) : WjWWfRUbW\c
+# business stimulating measure (NOUN) : AjWA|ZlAX|DZcA
+# business tax (NOUN) : UbWfRUg
+# business unionism (NOUN) : AjWXg\sXcWXsWU|QWz| Xl^bRXsWz|
+# business world (NOUN) : XcAk
+# business year (NOUN) : WjWWfRDjDGl
+# ^close a business  (VERB) : AbAgIzI GbGGb
+# ^come to business  (VERB) : W|IWg ZbAUs^bGb
+# ^do business | (VERB) : UbWfRWzI ^bGb
+# ^do dusiness with A (VERB) : [(ADJUNCT A/Wlb) AfIc^b<VERB>]/Gb
+# ^get to business (VERB) : W|IWg ZbAUs^bGb
+# ^go into business (VERB) : U|IWfRAkWg GzIWfAbGb
+# ^go to business (VERB) : ZsIAzD^bGb
+# house of business (NOUN) : WjWWjRUl
+# ^make a great business of it (VERB) : WfIjWsD W|IIl UcWAbA^bGb
+# ^make it ONE_S  business to (VERB) : XbX|D^bWj ^bGb
+# man of business (NOUN) : UbWfRAb
+# ^mean business | (VERB) : X|DXfWW|Gb
+# ^mind ONE_S  own business  (VERB): XbA| ^bIW|IWzI ^bGb
+# on business $ (PP->ADV) : UbWfRUbW
+# ^open a business (VERB) : AbAgIzI WjIGb
+# out_of business (ADV) : ]bUbD^bWj
+# place of business (NOUN) : WjWWjRUl
+# ^proceed to business (VERB) : Wz|UbW|IXfWWg GzIWfAbGb
+# ^setup a business (VERB) : AbAgIzI WjIGb
+# show business (NOUN) : Ur R|XzD|Uz
+# ^take up business (VERB) : Wz|UbW|IXfWWg GzIWfAbGb
+
+"businessman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbWfRAb)
+
+"businessperson"
+% HUMAN
+(UbWfRAb)
+
+"businesswoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb UbWfRAb)
+
+"busing"
+% ACTION
+(RfUz \lW^bA)
+
+"busk"
+(RfUz[z)
+
+"busker"
+% HUMAN
+(HfGlIW| AlbWGc)
+
+"buskin"
+% CONCRETE ANIMAL MATERIAL 
+(RbDXbW^lb)
+# ^put on the buskins (VERB) : R|AzAWzI VzGb
+
+"busload"
+(RfUz ^bDGc RsD)
+
+"busman"
+% HUMAN
+(RfUzWz| UzWQsWsfD)
+
+"buss"
+% MATERIAL 
+(VbWGlZGc WfUfD)
+
+"buss"
+% MATERIAL ACTION
+([|Uz)
+
+"busses"
+(RfUzGzI)
+
+"bust"
+% CONCRETE MATERIAL 
+(U|I]c)
+
+"bust"
+% CONCRETE MATERIAL 
+(^wWUbW)
+
+"bust-up"
+(]bWjI)
+
+"bustard"
+% CONCRETE ANIMAL MATERIAL 
+(RfUz\fGz)
+
+"buster"
+% HUMAN
+(]bAl|Xb)
+
+"bustle"
+% CONCRETE MATERIAL 
+([zD UlGlW)
+
+"bustler"
+% HUMAN
+(UsUfDHfDzD UbIbQ)
+
+"busy"
+% HUMAN
+(^jWUb)
+
+"busybody"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbQWz| ZbQAjD XbI^bDzD UbIbQ)
+
+"busyness"
+% CONCRETE MATERIAL 
+(RbSzQ)
+
+"busywork"
+% MATERIAL 
+(U|AbDWzI ZcWsA| Ws|^c XsWfX|DzD AlbXg)
+
+"but"
+(AzIfDb)
+
+"but"
+% PLACE
+(RbBb\YlA RbW)
+
+"butadiene"
+% MATERIAL 
+(Rs\bG|WgD)
+
+"butane"
+% CONCRETE MATERIAL 
+(Rs\bD)
+
+"butcher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]sXs^bD)
+# butcher bill (NOUN) : ]sXsWz| AkUbDUf
+# butcher meat (NOUN) : X|QUzW AlA|
+# butcher's meat (NOUN) : X|QUzW AlA|
+# butcher shop (NOUN) : ]sXs
+
+"butcherbird"
+% CONCRETE ANIMAL MATERIAL 
+(HcBbZ|)
+
+"butcherer"
+% HUMAN
+(RcAXfW)
+
+"butchery"
+% CONCRETE MATERIAL PLACE
+(GlUbIXbW)
+
+"butler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|RUb)
+# butler's pantry (NOUN) : U|AA|U|I
+
+"butt"
+% CONCRETE MATERIAL 
+(AsIAWzD Bz\)
+
+"butt"
+% CONCRETE MATERIAL 
+(QfI|Il RbGA|)
+
+"butt"
+% CONCRETE MATERIAL 
+([zD UsI\lW)
+
+"butt"
+% CONCRETE MATERIAL 
+(]rXfA)
+
+"butte"
+% PLACE
+(]jWWdWz| Wl|HbD UbD)
+
+"butter"
+% CONCRETE MATERIAL 
+(Rf\f)
+# butter of zinc (NOUN) : WjQ^lbWbWjD
+# ^lay on the butter (VERB) : WbZfQ^bGb
+# ^look as if butter would not melt in ONE_S  mouth (VERB) : U|Z|Q| HgAl W|VGb
+# melted butter (NOUN) : Rf\f UlWlUz
+
+"butterball"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzDWlI|)
+
+"butterbur"
+% PLANT FOOD
+(QfWs|)
+
+"butterburr"
+% PLANT FOOD
+(QfWs|)
+
+"buttercup"
+% CONCRETE ANIMAL MATERIAL 
+(WcA|Q|DbI|WbXcR|)
+
+"butterfat"
+% CONCRETE MATERIAL 
+(WsWwWz| X|RbW)
+
+"butterfingers"
+(RsXsWz|^bD UbIbQ)
+
+"butterfish"
+% CONCRETE ANIMAL MATERIAL 
+(Rf\f]|Us|)
+
+"butterfly"
+% CONCRETE ANIMAL MATERIAL 
+(DbR|)
+
+"butterin"
+% FOOD
+(W|DXlRf\f)
+
+"butterine"
+% FOOD
+(W|DXlRf\f)
+
+"butteriness"
+(Rf\f R|UzU^bQ)
+
+"butteris"
+(QbIAsR BbBDzD A|As)
+
+"buttermilk"
+% CONCRETE MATERIAL FOOD
+(Rf\fIzI ScAl DbD WsWw)
+
+"butternut"
+% CONCRETE MATERIAL FOOD
+(^lGl)
+
+"butterscotch"
+% CONCRETE MATERIAL FOOD
+(Ub\bWAlbXb)
+
+"butterwort"
+% PLANT
+(RfIIgXbRW|XgR|BlZ)
+
+"buttery"
+% CONCRETE MATERIAL PLACE
+(U|AIr]sQ XfXbWU|I)
+
+"buttock"
+% CONCRETE MATERIAL ANIMAL
+(AsWGsWW|)
+
+"button"
+% CONCRETE MATERIAL 
+(GbDZs)
+# Home button (NOUN) : ^lQRf\zD
+# ^have a button short (VERB) : XlQ QlXbIbGb
+# ^have a button loose (VERB) : XlQ QlXbIbGb
+# ^have a button missing (VERB) : XlQ QlXbIbGb
+# ^hold a person by the button (VERB) : DbQWzI Rs\GzIWf Dl^Al A|D W|WdA|IzI ^bGb
+# ^take a person by the button (VERB) : DbQWzI Rs\GzIWf Dl^Al A|D W|WdA|IzI ^bGb
+# on the button (ADV) : XfW^lbA^|
+# ^push the button (VERB) : GbDZsIzI DsIzGb
+# ^press the button (VERB) : GbDZsIzI DsIzGb
+# ^touch the button (VERB) : GbDZsIzI DsIzGb
+
+"button-down"
+(GbDZsIl ZcWsI Us W|VDzD UjZz)
+
+"buttonball"
+% PLANT
+(GbDZsDbQs)
+
+"buttonhole"
+% CONCRETE MATERIAL 
+(GbDZs AsQfW)
+
+"buttonholer"
+% HUMAN
+(UbIbQWzI Rs\GzIAl A|IAg W|WdA|^bDzD UbIbQ)
+
+"buttonhook"
+(GbDZsAfIW|)
+
+"buttress"
+% CONCRETE ANIMAL MATERIAL 
+(Rf\|QRjA)
+
+"butty"
+% HUMAN
+(AbQGlA)
+
+"butyl"
+(Rs\|IA|)
+
+"butyrate"
+(DbAUbDWjQ)
+
+"buy"
+(UbI AfU)
+
+"buyer"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(AsQcXb)
+# buyers' association (NOUN) : AsQc Xl^bR
+# buyers' market (NOUN) : AsQcXbWgAg WwI|^bD U|XbW 
+
+"buying"
+# central buying (NOUN) : X|RXsWQcW|R
+# circular buying (NOUN) : UsD^lbDQcW|R
+# hand-mouth buying (NOUN) : UbWWrWAsQc
+
+"buyout"
+(QcXfQ)
+
+"buzz"
+(Ws|WWs|W UlI|)
+
+"buzzard"
+% CONCRETE ANIMAL MATERIAL 
+(QbIHlWAbI|)
+
+"buzzer"
+% CONCRETE ANIMAL MATERIAL 
+(RfXf)
+
+"buzzwig"
+(\fIW| QbD^WzD [zD AbRbI)
+
+"bvds"
+(DcRlA)
+
+"by"
+(RbW|)
+# by the by (CONJ) : AzIfDGg
+# ^draw a by (VERB) : RsXfDUzWWzI WfGGb
+
+"by"
+(X|WjR)
+
+"by-and-by"
+% CONCRETE MATERIAL TIME
+(Q|Ic)
+
+"by-blow"
+% CONCRETE HUMAN ANIMAL MATERIAL ACTION
+(Wj]WzIl Z|A|)
+
+"by-election"
+% ACTION
+(RlAsfIUfDAf)
+
+"by-end"
+(R|Q|I QlAXfA)
+
+"by-lane"
+% PLACE
+(Wj]A|I)
+
+"by-law"
+% CONCRETE MATERIAL 
+(DcAw)
+
+"by-line"
+% CONCRETE MATERIAL 
+(RjW^cWUfD)
+
+"by-liner"
+(A|QjW A|Ub)
+
+"by-pass"
+% PLACE
+(XbGlWZbWrW Ws^l|Il)
+
+"by-plot"
+(Aj\XsIAfI|)
+
+"by-product"
+% CONCRETE MATERIAL 
+(RsUbDQsI)
+
+"by-road"
+% PLACE
+(UbW|UA|I)
+
+"by-speech"
+% ACTION
+(RbWRcA)
+
+"by-talk"
+% ACTION
+(WjGbQ)
+
+"by-time"
+(WjAb)
+
+"by-your-leave"
+(^fIbA RbGWzQ)
+
+"bye"
+% CONCRETE MATERIAL 
+(RbW|)
+
+"bye-bye"
+% CONCRETE MATERIAL 
+(XbXbWXbXbW)
+# ^go to bye bye (VERB) : XbQXbGb
+
+"byelaw"
+(DcAw)
+
+"bygone"
+(X|DbAbD W|I)
+# let bygones be bygones (SENT) : AlbAfDzD BcBzUW| W|XWfRfI|Xb
+
+"bylaw"
+% CONCRETE MATERIAL 
+(DcAw)
+
+"byname"
+(RsQjW)
+
+"bypass"
+% CONCRETE ANIMAL MATERIAL 
+(Ws^l|Il)
+
+"bypath"
+% PLACE
+(AbDGl)
+
+"byplay"
+(Aj\XsIAfI|)
+
+"byproduct"
+(RsUbDQsI)
+
+"byre"
+% PLACE
+(Wl|WdWAbD)
+
+"bysitter"
+% HUMAN
+(RbWAlbDXb)
+
+"byssinosis"
+(R|U|DlWsU|Uz)
+
+"byssus"
+% CONCRETE MATERIAL 
+(XlAUb)
+
+"bystander"
+% HUMAN
+(RbWAlbDXb)
+
+"bystreet"
+% PLACE
+(AlIQlAA|I)
+
+"bytecode"
+(RbW|\z[lGz)
+
+"byway"
+% CONCRETE MATERIAL PLACE
+(Wj]A|I)
+
+"byword"
+% CONCRETE MATERIAL 
+(UlAGbQ)
+
+"bywork"
+% ACTION
+(RsWfR)
+

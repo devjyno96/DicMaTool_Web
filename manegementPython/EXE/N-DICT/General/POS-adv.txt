@@ -1,0 +1,238 @@
+# about NUM1 ^NOUN {-HUMAN +UNIT} (NOUN ADV) : 1) [(MODS [WdA<ADV>]) (NMODS NUM1) NOUN] 
+                                               2) (ADJUNCT [(MODS [WdA<ADV>]) (NMODS [(NMODS NUM1) NOUN]) XfWGl<NOUN>]/Il)
+
+# about NUM1 ^NOUN {-HUMAN +TIME} (NOUN ADV) : 1) [(MODS [WdA<ADV>]) (NMODS NUM1) NOUN]
+					       2) [(MODS [WdA<ADV>]) (NMODS NUM1) NOUN]
+
+# from abroad (PP->ADV PP->ADJ) : 1) ^cWl|IlRs\f
+2) [^cWl|WgUf Wl<VERB>]/Gb
+
+# from afar (PP->ADV) : QfII|Uf
+
+# NUM1 {-ORDNUM} days ago (ADV ADJ NOUN) : 
+   1) (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) W|I<NOUN>]{+UNIT}) XfD<NOUN>]/Wg)
+   2) (POSS [(COMP [(NMODS [(NMODS NUM1 {+DGTNUM}) W|I<NOUN>]{+UNIT}) XfD<NOUN>]) _<ADJ>]<W|>/Gb)
+
+# NUM1 {-ORDNUM} months ago (ADV ADJ NOUN) : 
+   1) (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) AcWsfI<NOUN>]{+UNIT}) XfD<NOUN>]/Wg)
+   2) (POSS [(COMP [(NMODS [(NMODS NUM1 {+DGTNUM}) AcWsfI<NOUN>]{+UNIT}) XfD<NOUN>]) _<ADJ>]<W|>/Gb)
+
+# NUM1 of ^year ago (ADV NOUN) : 1) (ADJUNCT [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wg)
+   2) [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>] 
+
+# NUM1 {-ORDNUM} years ago (ADJ NOUN ADV) : 
+    1) (POSS [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]/Wz|) {+RESTRIC}
+    2) [(NMODS [(NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) XfD<NOUN>]
+
+# long ago (ADV NOUN) : 1) WlIcXfDWg
+			2) WlIc XfD
+
+# over NUM1 ^year ago (PP->ADV) : (ADJUNCT [(NMODS [(NMODS [(NMODS NUM1) DjD<NOUN>]) W|UbW<NOUN>]) W|XfD<NOUN>]/Wg)
+
+# ahead of A (ADV ADJ) : 1) (ADJUNCT [(NMODS A) Wb]<NOUN>]/Wg)
+                         2) (AMODS [(NMODS A) Wb]<NOUN>]/Wz|)
+
+# aside from A (PP->ADV) : (ADJUNCT [(NMODS A) W|Wl|<NOUN>]/Wg)
+
+# aside from PRESP (PP->ADV) : (ADJUNCT [(NMODS [(RELCL PRESP/^bDzD) AfU<NOUN>]) W|Wl|<NOUN>]/Wg)
+
+# NUM1 block away | (ADJ ADV) : 1) [(COMP [(NMODS NUM1) RzIIlA<NOUN>]) HfIWfX|<ADJ>]/Gb
+                                2) (ADJUNCT [(COMP [(NMODS NUM1) RzIIlA<NOUN>]) HfIWfX|<VERB>]/^bWjUf)
+
+# NUM1 feet away (ADJ ADV) : 1) [(COMP [(NMODS NUM1) ]|\z<NOUN>]) HfIWfX|<ADJ>]/Gb
+                             2) (ADJUNCT [(COMP [(NMODS NUM1) ]|\z<NOUN>]) 
+
+# away from A (ADJ ADV) :  1) [(ADJUNCT A/IlRs\f) HfIWfXj W|V<VERB>]/Gb
+                           2) (ADJUNCT [(ADJUNCT A/IlRs\f) (MODS [QfII|<ADV>]) 
+
+# far away (ADJ ADV) : 1) QfII| HfIWfXj W|VGb
+                       2) QfII| HfIWfXjUf
+
+# not far away (ADJ ADV) : 1) QfII| HfIWfX|X| WbD^Gb 
+                           2) QfII| HfIWfX|X| WbD^WzD AlUWg
+
+# back in the day when SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bDzD) U|XfI<NOUN>]/Wg)
+
+# as before | (PP->ADV) : XfDZfIfQ 
+
+# as never before $ (PP->ADV) : XfDAlbDzD WbXs GbIzAg
+
+# than before $ (PP->ADV) : W|XfDRlGb
+
+# close to A (ADV ADJ) : 1) (MODS [(POSS A/Wz|) AbBbW|<ADV>])
+	2) [(ADJUNCT [(POSS A/Wz|) AbBbW|<NOUN>]/Wg) W|V<ADJ>]/Gb
+
+//# down to A (PP->ADV) : (ADJUNCT [(MODS [WbIcIl<ADV>]) A]/BbX|)
+
+# down under in A (PP->ADV) : (ADJUNCT A/WbIcWgUfDzD)
+
+# early in the NUM1 {+ORDNUM} century (NOUN ADV) : 
+    1) [(NMODS [(NMODS NUM1) UgA|<NOUN>]) ZlRbD<NOUN>]
+
+# enough TO_INF (ADV ADJ) : 
+    1) (ADJUNCT [(ADJUNCT [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) ZsWRsD^|<ADV>]) 
+
+# for ever (PP->ADV) : WjWWsfD^|
+
+#' than ever (PP->ADV) : WfDz HcRlGbGl
+
+//# everywhere SENT (ADV NOUN) : 1) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+//			       2) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>]
+
+# from far away $ (PP->ADV) : QfII|Uf
+
+# from here to A {-ANIMAL} (PP->ADV) : (ADJUNCT [(ADJUNCT [WjA|<NOUN>]/Rs\f) A]/BbX|)
+
+# here in A {-ANIMAL,-TIME,-UNIT} (PP->ADV) : (ADJUNCT [(MODS [WjA|<ADV>]) A]/WgUf)
+
+# || how be A (SENT->ADJ) : (QUES [(SUBJ A/DzD) WfHf^<ADJ>]/Gb)
+
+# how goes it with A (VERB->ADJ) : (QUES [(SUBJ A/DzD) WfHf^<ADJ>]/Gb)
+
+# how many  (NOUN ADJ) : 1) WfIQbDb QbD^WzD Us {+QUESFLAG} 
+	                 2) WfIQbDb QbD^WzD UsWz| {+QUESFLAG} 
+
+# however ADV SENT | (SUBCL->ADV) : (ADJUNCT [(COMP [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^bDGbAl) ^b<VERB>]/WfGl)
+
+# immediately after A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl ^s<NOUN>]/Wg)
+
+# immediately after PRESP (PP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# immediately after SENT (PP->ADV) : (ADJUNCT SENT/^bXbQbXb)
+
+# immediately before A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl XfD<NOUN>]/Wg)
+
+# immediately before PRESP (PP->ADV) : (ADJUNCT PRESP/^bA|XfDWg)
+
+# immediately before SENT (PP->ADV) : (ADJUNCT SENT/^bA|XfDWg)
+
+# instead of A (PP->ADV) : (ADJUNCT [(COMP A) GcU|D<NOUN>]/Wg)
+
+# instead of PRESP (PP->ADV) : (ADJUNCT [(ADJUNCT [(COMPCL PRESP/^bDzD) AfU<NOUN>]) GcU|D<NOUN>]/Wg)
+
+# instead of WHAT_CLAUSE (PP->ADV) : (ADJUNCT [(ADJUNCT [(COMPCL WHAT_CLAUSE/^bDzD) AfU<NOUN>]) GcU|D<NOUN>]/Wg)
+
+# || later in the day $ (PP->ADV) : AzDbI DzXAg 
+
+//# as likely as not | (PP->ADV) : WbQbGl
+
+//# it be likely THAT_CLAUSE (SENT->ADJ) : [THAT_CLAUSE](^bI/F, AfU/N, Ab\/A)/Gb
+
+# as much as A (NOUN ADV) : 1) [(NMODS A) AbIdW<NOUN>]
+                            2) (ADJUNCT A/QbD[zQ)
+
+# too much $ (ADV ADJ) : 1) DfQs QbD^W|
+		       		     2) DfQs QbD^Gb
+
+# ^be no less AJP than A (VERB->ADJ) : [(ADJUNCT [(COMP A) QlUX|WbD^<ADJ>]/Ag) AJP]/^bGb
+
+//# not PP ^but PP1 (PP->ADV) : PP Ab WbD|Ib PP1
+
+//# not PP , ^but PP1 (PP->ADV) : PP Ab WbD|Ib PP1
+
+//# A be not B any more than SENT (SENT->ADJ) : SENT ^bD AfUW| WbD|D AfU ZfIfQ A DzD B Ab WbD|Gb
+
+# || not now (SENT->ADJ) : X|AzQWzD WbD|Gb
+
+# ^be nowhere in sight (VERB->ADJ) : U|WdWg WfRUGb
+
+# ^be badly off $ (VERB->ADJ) : QcWs AbDbD^bGb
+
+# over ^A {+TIME} ago (PP->ADV) : (ADJUNCT [(NMODS [(NMODS A) W|UbW<NOUN>]) W|XfD<NOUN>]/Wg)
+
+# for over ^A {+TIME} (PP->ADV) : (ADJUNCT [(COMP [(NMODS A) W|UbW<NOUN>]) GlWWbD<NOUN>])
+
+//# over ^A {+TIME} (PP NOUN) : 1) A Wg AfIZj
+//			      2) A /W|UbW 
+
+# over once more (PP->ADV) : ^bDRfD W|UbW
+
+# rather than A (PP PP) : 1) (ADJUNCT A/IbA|RlGbDzD)
+ 						  2) (ADJUNCT A/IbA|RlGb)
+
+# until recently | (PP->ADV) : Zl|AzDBbX|
+
+# right after A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl ^s<NOUN>]/Wg)
+
+# right after PRESP (PP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# right after SENT (PP->ADV) : (ADJUNCT SENT/^bXbQbXb)
+
+# right before A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl XfD<NOUN>]/Wg)
+
+# right before PRESP (PP->ADV) : (ADJUNCT PRESP/^bA|X|AXfDWg)
+
+# right before SENT (PP->ADV) : (ADJUNCT SENT/^bA|X|AXfDWg)
+
+# right now (ADV NOUN) : RbIl X|AzQ
+//# right ADV (ADV) : [(MODS [RbIl<ADV>]) ADV]
+
+# round here (ADV ADJ) : 1) W| XsRjDWg
+2) W| XsRjDWg W|VGb
+
+# shortly after A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl ^s<NOUN>]/Wg)
+
+# shortly after PRESP (PP->ADV) : (ADJUNCT PRESP/^bXbQbXb)
+
+# shortly after SENT (PP->ADV) : (ADJUNCT SENT/^bXbQbXb)
+
+# shortly before A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) RbIl XfD<NOUN>]/Wg)
+
+# shortly before PRESP (PP->ADV) : (ADJUNCT PRESP/^bA|X|AXfDWg)
+
+# shortly before SENT (PP->ADV) : (ADJUNCT SENT/^bA|X|AXfDWg)
+
+#' ^be so $ (VERB->ADJ) : AzIf^bGb
+
+//# ^be so ADJ as A (VERB->ADJ) : [(ADJUNCT A/QbD[zQ) ADJ]/^bGb
+
+//# ^be not so ADJ as SENT {-PRES} (VERB->ADJ) : 
+
+# so long as SENT (SUBCL->ADV) : (ADJUNCT [(COMPCL SENT/^bDzD) ^bD<NOUN>])
+
+# so much (ADV ADJ) : 1) QcWs QbD^W| 
+		      2) QcWs QbD^Gb
+
+# | there used ^TO_INF (SENT->ADJ) : [(MODS [XfDWg<ADV>]) TO_INF]/^bGb
+
+# | there ^be A (SENT->ADJ) : [(SUBJ A/Ab) W|V<ADJ>]/Gb
+
+# | there must ^be A (SENT->ADJ) : [(COMP [(SUBJ A/Ab) W|V<ADJ>]/^bQWg) \zII|QWfRU<ADJ>]/Gb
+
+# || from there (PP->ADV) : AfA|Il Rs\f
+
+# over ^there (ADJ ADV) : 1) (ADJUNCT [(ADJUNCT [Xf]jD<NOUN>]/Wg) W|V<VERB>]/^bD)
+		         2) Xf]jDWg
+
+# || there ^be no PRESP (SENT->ADJ) : 
+
+# || there ^be no use PRESP (SENT->ADJ) : [(ADJUNCT PRESP/^cGl) UlWrWWfRU<ADJ>]/Gb
+
+# too ADJ for A TO_INF (ADJ ADV) : 1) [(ADJUNCT [(SUBJ A/Ab) TO_INF]/^bA|Wg) (MODS [DfQs<ADV>]) ADJ]/^bGb 
+			           2) (ADJUNCT [(ADJUNCT [(SUBJ A/Ab) TO_INF]/^bA|Wg) (MODS [QcWs<ADV>]) ADJ]/^bAg)
+
+# twice as ^A as B (NOUN ADV) : 1) [(POSS [(POSS B/Wz|) GsRc<NOUN>]/Wz|) A]
+				2) [(POSS [(POSS B/Wz|) GsRc<NOUN>]/Wz|) A]
+
+# twice as ADJ ^A as SENT (NOUN ADV) : [(AMODS [(ADJUNCT [(RELCL SENT/^bD) AfU<NOUN>]/RlGb) (MODS [GsRc<ADV>]) ADJ]/^bD) A]
+# twice as AJP as A (ADJ) : [(ADJUNCT A/RlGb) (MODS GsRc<ADV>]) AJP]/^bGb
+
+# ^be up to NUM1 A long (VERB->ADJ) : [(ADJUNCT [(NMODS NUM1) A]/BbX|) A|I<ADJ>]/Gb
+
+# ^be up to NUM1 A high (VERB->ADJ) : [(ADJUNCT [(NMODS NUM1) A]/BbX|) Dl]<ADJ>]/Gb
+
+# from A up to B {-ANIMAL -KNUM} (ADV PP->ADV) : (ADJUNCT [(ADJUNCT A/WgUf) 
+B]/BbX|)
+
+# instead of up (PP->ADV) : WlIIbAbDzD GcU|DWg
+
+//# be well | (VERB->ADJ) : XbI W|VGb
+
+# ^be not well at all (VERB->ADJ) : XfD^j XbI W|VX| WbD^Gb {-NEG}
+
+# when or where (NOUN ADV) : 1) HcDb XbWUl
+                              2) WfDXg HlDzD WfG|Uf
+
+# when and where (NOUN ADV) : 1) HcWlb XbWUl
+                              2) WfDXg WfG|Uf
+

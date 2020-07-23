@@ -1,0 +1,8 @@
+statue, dissolve: 동상, 사라지다
+elite: 엘리트
+dam: 댐
+engulf: 뒤덮다
+value investing: 가치 투자
+ultraviolet light: 자외선
+zigzag: 지그재그하다 + verb
+planking: 판자 + noun

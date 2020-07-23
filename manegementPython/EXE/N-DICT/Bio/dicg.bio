@@ -1,0 +1,577 @@
+
+"G"
+# elongation factor G (NOUN) : WjDXbWW|DXbG
+# vitamin G (NOUN) : R|\bQ|D G
+# immunoglobulin G (NOUN) : QjDWjA GbDRcAX|I(W|QwDlAzIIlRsII|D) G
+# immunoglobulin G (NOUN) : QjDWjAAzIIlRsII|DG, IgG
+# elongation factor G (NOUN) : WjDXbW W|DXb G
+
+"G-actin"
+# G-actin (NOUN) : G WcA\|D
+
+"galactocerebroside"
+# galactocerebroside (NOUN) : AbIIbA\lUgIgRzIlUbW|Gz
+
+"galactokinase"
+# galactokinase (NOUN) : AbIIbAGl[bW|DgW|Uz
+
+"galactosamine"
+# galactosamine (NOUN) : AbIIbA\lUbQ|D
+
+"galactosemia"
+# galactosemia (NOUN) : AbIIbA\lUz ^jIXzW, WwXfDUfW AbIIbA\lUz GcUbXbWWc
+
+"galactoside"
+# galactoside (NOUN) : AbIIbA\lUbW|Gz
+
+"galactosyltransferase"
+# galactosyltransferase (NOUN) : AbIIbA\lU|IA|XfDW|^rUl
+
+"gall"
+# crown gall (NOUN) : AzDGsWbQXlW, UsAlbDWlRcXb(U|AQsIXlWWdWWz| W|IXlW)
+
+"gamete"
+# gamete (NOUN) : RcWsXb
+
+"gamma"
+# interferon gamma (NOUN) : W|D\f]gIlD AbQQb 
+# gamma (NOUN) : AbQQb
+# interferon gamma (NOUN) : W|D\f]gIlD AbQQb
+
+"gamma-chain"
+# gamma-chain (NOUN) : AbQQb UbUzI
+
+"gamma-cystathionase"
+# gamma-cystathionase (NOUN) : AbQQb-U|Uz\b\bW|WlDgW|Uz
+
+"gamma-globulin"
+# gamma-globulin (NOUN) : AbQQb-AzIIlRsII|D
+
+"gamma-glutamyl"
+# gamma-glutamyl (NOUN) : AbQQb-AzIIs\bQ|I
+
+"gamma-glutamyltranspeptidase"
+# gamma-glutamyltranspeptidase (NOUN) : AbQQb AzIIs\bQ|I \zIbDUz ]gR\fGgW|Uz
+
+"gamma-glycoprotein"
+# glycine-rich gamma-glycoprotein (NOUN) : AzIIbW|U|D ]sWRs^bD AbQQb^jW GbWGbDRcAX|I
+
+"gamma-lactonase"
+# gamma-lactonase (NOUN) : AbQQb-IbA\lDgW|Uz
+
+"gamma-semialdehyde"
+# gamma-semialdehyde (NOUN) : AbQQb-UgQ|WbIGg^bW|Gz
+
+"gamma-seminoprotein"
+# gamma-seminoprotein (NOUN) : AbQQb-UgQ|Dl]zIl\gW|D
+
+"gamma-undecalactone"
+# gamma-undecalactone (NOUN) : AbQQb-WsDGg[b IbA\lD
+
+"gamma-valerolactam"
+# gamma-valerolactam (NOUN) : AbQQb-RbIIgIl IbA\bQ
+
+"gamma-valerolactone"
+# gamma-valerolactone (NOUN) : AbQQb RbIIgIl IbA\lD
+
+"ganglioside"
+# ganglioside (NOUN) : AbIAzII|WlUbW|Gz
+
+"gangliosidosis"
+# GM2-- gangliosidosis (NOUN) : GM2- AbWAzIW|WlUbW|Gz 
+# GM1-- gangliosidosis (NOUN) : GM1- AbWAzII|WlUbW|Gz
+
+"gas"
+# carrier gas (NOUN) : WsDRbD-A|Zg
+
+"gastrin"
+# gastrin (NOUN) : AbUz\zI|D
+# gastrin (NOUN) : AbUz\zI|D 
+
+"gastrinoma"
+# gastrinoma (NOUN) : AbUz\zI|DlQb
+
+"gastrula"
+# gastrula (NOUN) : WsfDXbWRc, DbWRc
+# gastrula (NOUN) : DbWRc
+
+"gastrulate"
+# gastrulate (NOUN) : WsfDXbW^jWUfW, DbWRcWsDGlW
+
+"gastrulation"
+# gastrulation (NOUN) : WsfDXbW^jWUfW, DbWRcWsDGlW
+
+"gauss"
+# gauss (NOUN) : AbWsUz,XbUlAQ|IGl GbDWs|
+
+"gel"
+# polyacrylamide gel (NOUN) : ]lII| Wb[zI|I WbQbW|GzXgI
+# agarose gel (NOUN) : WbAbIlWsUz XgI
+
+"gelatin"
+# gelatin (NOUN) : XgIIb\|D
+
+"gene"
+# nitrogen fixation gene (NOUN) : X|IUl AlXfW WwXfDXb
+# rec gene (NOUN) : rec WwXfDXb
+# fusion gene (NOUN) : WwW^bR WwXfDXb
+# constant gene (NOUN) : ^bWUbWWwXfDXb, RsIRjDWwXfDXb
+# str- A gene (NOUN) : str-A WwXfDXb
+# replicase gene (NOUN) : Ig]zII|[gW|Uz WwXfDXb
+# mutator gene (NOUN) : GlIWjDRjDW| WwRbI WwXfDXb
+# lethal gene (NOUN) : GcIdW RcWdW
+# immune response inhibiting gene (NOUN) : QjDWjA RbDWzW WfAXg WwXfDXb
+# C gene (NOUN) : C WwXfDXb
+# dominant lethal gene (NOUN) : WsUfW Z|Ub WwXfDXb
+# mos gene (NOUN) : mos WwXfDXb
+# chimera gene (NOUN) : [|QgIb WwXfDXb
+# homeotic gene (NOUN) : ^lQgWl\|A WwXfDXb, UbWU|RbI^jD WwXfDXb
+# immune suppression gene (NOUN) : QjDWjA WfAXg WwXfDXb
+# homeotic gene (NOUN) : W|^jW^lbWwXfDXb
+# myb gene (NOUN) : myb WwXfDXb
+# recombination gene (NOUN) : XcXl^bR WwXfDXb
+# myc gene (NOUN) : myc WwXfDXb
+# erb gene (NOUN) : erbWwXfDXb
+# late gene (NOUN) : ^sA| WwXfDXb
+# luxury gene (NOUN) : IfAXsfI| WwXfDXb
+# compartmentation gene (NOUN) : As^l|A^lbWwXfDXb
+# immune response gene (NOUN) : QjDWjA RbDWzW WwXfDXb
+# somatic cell gene (NOUN) : ZgUg]l WwXfDXb
+# ros gene (NOUN) : ros WwXfDXb
+# sis gene (NOUN) : sis WwXfDXb
+# structural gene (NOUN) : AsXl WwXfDXb
+# histone gene (NOUN) : ^|Uz\lD WwXfDXb
+# immune suppression gene (NOUN) : QjDWjA WfAXg WwXfDXb
+# nif gene (NOUN) : nif WwXfDXb
+# repeated gene (NOUN) : RbDRlA WwXfDXb
+# fibroin gene (NOUN) : ]|RzIlW|D WwXfDXb
+# restriction gene (NOUN) : Xg^bD WwXfDXb
+# immunoglobulin gene (NOUN) : QjDWjA AzIIlRsII|D WwXfDXb
+# myc gene (NOUN) : myc WwXfDXb
+# RNA polymerase gene (NOUN) : RNA ]lII|QfIgW|Uz WwXfDXb
+# artificial gene (NOUN) : W|DAlW WwXfDXb
+# sex determinating gene (NOUN) : UfW AjIXfW WwXfDXb
+# versatile region gene (NOUN) : AbRjDWjA WwXfDXb
+# mosaic gene (NOUN) : QlXbW|[z WwXfDXb
+# recessive lethal gene (NOUN) : WjIUfW Z|Ub WwXfDXb
+# complementary gene (NOUN) : RlXlA WwXfDXb
+# early gene (NOUN) : ZlA| WwXfDXb
+# variable gene (NOUN) : RjDW|UfW WwXfDXb
+# lac regulator gene (NOUN) : lac XlXfIWwXfDXb
+# protein kinase gene (NOUN) : GbDRcAX|I [bW|DgW|Uz WwXfDXb
+# fos gene (NOUN) : fos WwXfDXb
+# histocompatibility gene (NOUN) : XlX|A XfA^bRUfW WwXfDXb
+# supersuppressor gene (NOUN) : ZlWfAXg WwXfDXb
+# D gene (NOUN) : D WwXfDXb
+# blood group gene (NOUN) : ^jIWcA^jW WwXfDXb
+# fps gene (NOUN) : fps WwXfDXb
+# joining gene (NOUN) : WjDAjIWwXfDXb, XlW|D|W WwXfDXb
+# CAT gene (NOUN) : CAT WwXfDXb
+# clock gene (NOUN) : UcWQsIU|Ak WwXfDXb
+# hst gene (NOUN) : hst WwXfDXb
+# constant region gene (NOUN) : XfWUbWWjA WwXfDXb
+# recessive gene (NOUN) : WjIUfW WwXfDXb
+# accessory gene (NOUN) : RlXl WwXfDXb
+# promoter gene (NOUN) : ]zIlQl\fWwXfDXb , XfDUbZlAX|DWwXfDXb
+# ras gene (NOUN) : ras WwXfDXb
+# ribosome gene (NOUN) : IbW|RlUlQ WwXfDXb
+# Rubisco gene (NOUN) : IsR|Uz[l WwXfDXb
+# suppressor gene (NOUN) : WfAXgW|DXb WwXfDXb 
+# src gene (NOUN) : src WwXfDXb
+# gene (NOUN) : WwXfDXb
+# fps gene (NOUN) : fps WwXfDXb
+# rel gene (NOUN) : rel WwXfDXb
+# fos gene (NOUN) : fos WwXfDXb
+# ras gene (NOUN) : IbUz WwXfDXb, ras WwXfDXb
+# erb gene (NOUN) : erb WwXfDXb
+# drug-resistant gene (NOUN) : WdAQsI DcUfW WwXfDXb
+# fms gene (NOUN) : fms WwXfDXb
+# immune response gene (NOUN) : QjDWjA RbDWzW WwXfDXb
+# segmentation gene (NOUN) : ZgXfI ^jWUfW WwXfDXb
+# household gene (NOUN) : AbAk WwXfDXb
+# chrono gene (NOUN) : [zIlDlWwXfDXb, UsQjWWwXfDXb
+# operator gene (NOUN) : XbAGlWW|DXb WwXfDXb
+# homeotic gene (NOUN) : ^lQgWl WwXfDXb, GlWIjI W|^jW^lb WwXfDXb
+# fes gene (NOUN) : fes WwXfDXb
+# ribosomal RNA gene (NOUN) : IbW|RlUlQ RNA WwXfDXb
+# regulator gene (NOUN) : XlXfI WwXfDXb
+# operator gene (NOUN) : XbAGlW WwXfDXb
+# ribosomal protein gene (NOUN) : IbW|RlUlQ GbDRcAX|I WwXfDXb
+# artificial composition of gene (NOUN) : WwXfDXbWz| W|DAlW^bRUfW
+# src gene (NOUN) : src WwXfDXb
+# repressor gene (NOUN) : WfAXg WwXfDXb
+# mildly deleterious gene (NOUN) : WdA Ww^c WwXfDXb
+# marker gene (NOUN) : ]rX| WwXfDXb, ]rU|A WwXfDXb
+# yes gene (NOUN) : yes WwXfDXb
+# globin gene (NOUN) : AzIIlR|D WwXfDXb
+# dominant gene (NOUN) : WsUfW WwXfDXb
+# abl gene (NOUN) : abl WwXfDXb
+
+"genepathy"
+# genepathy (NOUN) : WwXfDXb RjW
+
+"generations"
+# alternation of generations (NOUN) : UgGc ArGc
+
+"genetics"
+# molecular genetics (NOUN) : RsDXb WwXfD^bA
+# somatic cell genetics (NOUN) : ZgUg]l WwXfD^bA
+# population genetics (NOUN) : X|RGbD WwXfD^bA
+# genetics (NOUN) : WwXfD^bA
+# reversed genetics (NOUN) : WjA RbW^dW WwXfD^bA
+
+"genome"
+# genome (NOUN) : AgDlQ 
+# viral genome (NOUN) : RbW|IfUz AgDlQ
+
+"genotoxicity"
+# genotoxicity (NOUN) : WwXfDXb GlAUfW
+# genotoxicity (NOUN) : WwXfDXb UbW^cUfW
+
+"genotype"
+# genotype (NOUN) : WwXfDXb^jW
+
+"gentiobiose"
+# gentiobiose (NOUN) : XgD\|WlR|WlUz
+
+"geraniol"
+# geraniol (NOUN) : XgIbD|WlI
+
+"gestagen"
+# gestagen (NOUN) : XgUz\bXgD, ^lbWZg^lIzQlD QsIX|I
+
+"ghost"
+# ghost (NOUN) : XbD^jW, ^lbD^jW
+
+"gibberellin"
+# gibberellin (NOUN) : X|RgIgII|D
+# gibberellin (NOUN) : X|RgIgII|D
+
+"gigantism"
+# gigantism (NOUN) : AfW|DXzW
+
+"gland"
+# exocrine gland (NOUN) : Wl|RsDR|UfD
+
+"gliadin"
+# gliadin (NOUN) : AzII|WbG|D
+
+"globin"
+# beta globin (NOUN) : Rg\b AzIIlR|D
+# globin (NOUN) : AzIIlR|D
+
+"globlin"
+# corticosteroid-binding globlin (NOUN) : CBG, [lIz\|[lUz\gIlW|Gz AjI^bR AzIIlRsII|D
+
+"globulin"
+# anti-lymphocyte globulin (NOUN) : ALG, ^bWI|Q]zAs AzIIlRsII|D
+# testosterone binding globulin (NOUN) : \gUz\lUz\gIlD AjI^bR AzIIlRsII|D
+# antihemophilic globulin (NOUN) : AHG, ^bW^jIWsRjW(UfW) AzIIlRsII|D
+# thyroxine binding globulin (NOUN) : \|IlAU|D AjI^bR AzIIlRsII|D
+# antihemophilic globulin (NOUN) : ^bW ^jIWsRjW AzIIlRsII|D
+# cold insoluble globulin (NOUN) : CIG, DcWRsIWrWUfW AzIIlRsII|D
+# thyroxine binding globulin (NOUN) : \|IlAU|D AjI^bRGbDRcAX|I
+# anti-lymphocyte globulin (NOUN) : ^bW I|Q]zAs AzIIlRsII|D
+# binding globulin (NOUN) : AjI^bR AzIIlRsII|D
+
+"glomerulonephritis"
+# glomerulonephritis (NOUN) : UbAsZgU|DWjQ
+
+"glomerulus"
+# glomerulus (NOUN) : UbAsZg
+
+"glucagon"
+# glucagon (NOUN) : AzIIs[bAlD
+
+"glucal"
+# glucal (NOUN) : AzIIs[bI
+
+"glucan"
+# glucan (NOUN) : AzIIs[bD
+
+"glucanase"
+# glucanase (NOUN) : AzIIs[bDgW|Uz
+
+"glucitol"
+# glucitol (NOUN) : AzIIsU|\lI
+
+"glucoamylase"
+# glucoamylase (NOUN) : AzIIs[lWbQ|IIgW|Uz
+
+"glucobrassicin"
+# glucobrassicin (NOUN) : AzIIs[lRsIbU|U|D
+
+"glucocerebrosidase"
+# glucocerebrosidase (NOUN) : AzIIs[lUgIgRzIlUbW|GgW|Uz
+
+"glucocorticoid"
+# glucocorticoid (NOUN) : AzIIs[l[lIz \|[lW|Gz, GbWX|I[lIz\|[lW|Gz
+# glucocorticoid (NOUN) : AzIIs[l[lIz\|[lW|Gz
+
+"glucokinase"
+# glucokinase (NOUN) : AzIIs[l[bW|DgW|Uz
+
+"gluconeogenesis"
+# gluconeogenesis (NOUN) : GbWU|DUcW, ]lGlGbW U|DUcW
+
+"gluconolactonase"
+# gluconolactonase (NOUN) : [zIIs[lD-XfXGbW RsD^c^rUl
+
+"glucosamine"
+# glucosamine (NOUN) : AzIIs[lUbQ|D
+# glucosamine (NOUN) : AzIIs[lUbQ|D G1
+
+"glucose"
+# UDP- glucose (NOUN) : UDP-AzIIs[lWlUz(]lGlGbW)
+# glucose (NOUN) : AzIIs[lWlUz, ]lGlGbW 
+# blood glucose (NOUN) : ^jIGbW
+# ADP- glucose (NOUN) : ADP AzIIs[lUz, ADP ]lGlGbW
+
+"glucose-6-phosphatase"
+# glucose-6-phosphatase (NOUN) : 6-W|DUbD ]lGlGbW AbUsRsD^c^rUl
+
+"glucose-6-phosphate"
+# glucose-6-phosphate (NOUN) : 6-W|DUbD ]lGlGbW
+
+"glucosidase"
+# glucosidase (NOUN) : ]zIIs[lU|GgW|Uz, RcGbWZgRsD^c^rUl
+# alpha-- D-- glucosidase (NOUN) : WbI]b-D-AzIIs[lU|GgW|Uz
+# beta-- D-- glucosidase (NOUN) : Rg\b-D-AzIIs[lU|GgW|Uz, Rg\b-D-AzIIs[lUbW|Gz AbUsRsD^c^rUl
+
+"glucosyltransferase"
+# glucosyltransferase (NOUN) : AzIIs[lU|IA| XfDW|^rUl
+
+"glucuronide"
+# glucuronide (NOUN) : AzIIs[sIlD|Gz
+
+"glutamic-oxaloacetate"
+# glutamic-oxaloacetate (NOUN) : AzIIs\bQ|I-WlAUbIIl WbUg\zUbD
+
+"glutamic-pyruvate"
+# glutamic-pyruvate (NOUN) : AzIIs\bQ|I-]bW|IsRzUbD(WjQ)
+
+"glutaminase"
+# glutaminase (NOUN) : AzIIs\bQ|DgW|Uz, AzIIs\bQ|DRsD^c^rUl
+
+"glutamine"
+# glutamine (NOUN) : AzIIs\bQ|D
+
+"glutamyltransferase"
+# glutamyltransferase (NOUN) : AzIIs\bQ|IXfDW|^rUl
+
+"glutamyltranspeptidase"
+# glutamyltranspeptidase (NOUN) : AzIIs\bQ|I\zIcDUz]gR\|GgW|Uz
+
+"glutathione"
+# glutathione (NOUN) : AzIIs\b\|WlD
+# oxidized glutathione (NOUN) : UbD^lb AzIIs\b\|WlD
+# glutathione (NOUN) : AzIIs\b\|WlD
+
+"glutenin"
+# glutenin (NOUN) : AzIIs\gD|D 
+
+"glycal"
+# glycal (NOUN) : AzII|[bI
+
+"glycan"
+# glycan (NOUN) : AzII|[bD
+
+"glyceraldehydephosphate"
+# glyceraldehydephosphate (NOUN) : AzII|UgIbIGg^bW|GzW|DUbD
+
+"glycerol"
+# glycerol (NOUN) : AzIIbW|UgIlI 
+
+"glycerophosphatase"
+# glycerophosphatase (NOUN) : AzIIbW|UgIlI W|DUbDAbUsRsD^c^rUl
+
+"glycerophospholipid"
+# glycerophospholipid (NOUN) : AzIIbW|UgIl]lUz]lX|X|I
+
+"glycinamide"
+# glycinamide (NOUN) : AzIIbW|U|DWbQbW|Gz
+
+"glycine"
+# glycine (NOUN) : AzIIbW|U|D
+
+"glycinin"
+# glycinin (NOUN) : AzIIbW|U|D|D 
+
+"glycitol"
+# glycitol (NOUN) : AzIIbW|U|\lI
+
+"glycocyamine"
+# glycocyamine (NOUN) : AzII|[lU|WbQ|D
+
+"glycogen"
+# glycogen (NOUN) : AzII|[lAgD
+
+"glycogenesis"
+# glycogenesis (NOUN) : GbW^bRUfW, AzII|[lAgD^bRUfW
+
+"glycogenolysis"
+# glycogenolysis (NOUN) : AzII|[lAgD RsD^c
+
+"glycoglycerolipid"
+# glycoglycerolipid (NOUN) : AzIIbW|[lAzIIbW|UgIlX|X|I, AzII|[lGbWX|X|I
+
+"glycol"
+# polyethylene glycol (NOUN) : ]lII|Wg\|IIgD AzIIbW|[lI
+# polyethylene glycol (NOUN) : ]lII|Wg\|IIgD AzIIbW|[lI
+
+"glycolaldehyde"
+# glycolaldehyde (NOUN) : AzII|[lWbIGg^bW|Gz
+
+"glycolipid"
+# blood group active glycolipid (NOUN) : ^jIWcA^jW ^lbIUfW GbWX|X|I
+
+"glycolysis"
+# anaerobic glycolysis (NOUN) : ^jQA|XfA ^cGbW
+# aerobic glycolysis (NOUN) : ^lA|XfA ^cGbW
+
+"glycopeptide"
+# glycopeptide (NOUN) : GbW ]gR\bW|Gz
+# glycopeptide (NOUN) : AzIIbW|[l]gR\bW|Gz
+
+"glycoprotein"
+# plasma glycoprotein (NOUN) : ^jIXbWGbWGbDRcAX|I
+# blood group glycoprotein (NOUN) : ^jIWcA^jW GbWGbDRcAX|I
+# alphal-acid glycoprotein (NOUN) : WbI]b1-UbD GbW GbDRcAX|I, WbI]b1 WgAU|Gz AzIIbW|[l ]zIl\gW|D
+
+"glycosaminoglycan"
+# glycosaminoglycan (NOUN) : AzII|[lUbQ|DlAzII|[bD
+
+"glycosidase"
+# glycosidase (NOUN) : AzII|[lU|GgW|Uz
+
+"glycoside"
+# cardiac glycoside (NOUN) : AbWU|QRcGbWZg
+# glycoside (NOUN) : AzII|[lUbW|Gz
+# methyl glycoside (NOUN) : Qg\|IAzIIbW|[lUbW|Gz, Qg\|IRcGbWZg
+# steroid glycoside (NOUN) : Uz\gIlW|Gz RcGbWZg
+
+"glycosylase"
+# DNA glycosylase (NOUN) : DNA AzIIbW|[lU|IIgW|Uz
+
+"glycosylate"
+# glycosylate (NOUN) : AzIIbW|[lU|IIgW|\z
+
+"glycosylation"
+# glycosylation (NOUN) : AzIIbW|[lU|I^lb, ]lGlGbW^lb
+
+"glycosyltransferase"
+# glycosyltransferase (NOUN) : AzIIbW|[lU|I XfDW|^rUl
+
+"glycylalanine"
+# glycylalanine (NOUN) : AzIIbW|U|IWbIIbD|D
+
+"glycylglycine"
+# glycylglycine (NOUN) : AzIIbW|U|IAzIIbW|U|D
+
+"glyoxalase"
+# glyoxalase (NOUN) : AzII|WlAUbIIgW|Uz
+
+"glyoxysome"
+# glyoxysome (NOUN) : AzIIbW|WlAU|XlQ
+
+"GMP"
+# cyclic GMP (NOUN) : ^lbD^jW GMP
+
+"goiter"
+# goiter (NOUN) : AbRUbWUfDXlW
+
+"gonadotropin"
+# human chorionic gonadotropin (NOUN) : W|DAbD WwWQlUfW UcWU|AUfDXbAzA^lIzQlD
+# chorionic gonadotropin (NOUN) : WwWQlUfW UcWU|AUfD XbAzA ^lIzQlD
+# chorionic gonadotropin (NOUN) : WwWQlUfW AlDbGl\zIl]|D
+# human menopausal gonadotropin (NOUN) : UbIbQWz| ]kAjWAgWz| UcWU|AUfD XbAzA ^lIzQlD
+# human chorionic gonadotropin (NOUN) : UbIbQ XbWQbA UcWU|AUfD XbAzA^lIzQlD
+# pregnant mare serum gonadotropin (NOUN) : W|QQb ^jIZfWUfW AlDbGl\zIl]|D(UcWU|AUfD XbAzA ^lIzQlD)
+# gonadotropin (NOUN) : AlDbGl\zIl]|D, UcWU|AUfD XbAzA^lIzQlD
+
+"gossypol"
+# gossypol (NOUN) : AlU|]lI 
+
+"gout"
+# gout (NOUN) : \lW]sW
+
+"graft"
+# skin graft (NOUN) : ]|RsW|U|A
+
+"gramicidin"
+# gramicidin (NOUN) : AzIbQ|U|G|D
+
+"granule"
+# secretory granule (NOUN) : RsDR| AlbI|R
+# glycogen granule (NOUN) : AzII|[lAgD AlbI|R
+# granule (NOUN) : AlbI|R
+
+"granulocyte"
+# granulocyte (NOUN) : AlbI|RAs
+
+"granum"
+# granum (NOUN) : AzIbDb UgW|RXb
+
+"grapes"
+# bunch of grapes (NOUN) : BOG
+
+"gravis"
+# myasthenia gravis (NOUN) : (XsWXzW) AzDQsIjAXzW
+# myasthenia gravis (NOUN) : XsWXzW AzDQsIjAXzW
+
+"green"
+# indocyanine green (NOUN) : W|DGlU|WbD|D AzI|D
+
+"griseofulvin"
+# griseofulvin (NOUN) : AzI|UgWl]fIR|D
+
+"group"
+# tosyl group (NOUN) : \lU|I AzIsR
+# imidazole group (NOUN) : W|Q|GgXlIA|
+# tosyl group (NOUN) : \lU|IA|
+# Lewis blood group (NOUN) : IsW|Uz ^jIWcA^jW
+# determinant group (NOUN) : AjIXfWAsD
+# t-butoxycarbonyl group (NOUN) : Boc, t-Rs\lAU|[bIzRlD|IA|
+# nucleophilic group (NOUN) : Z|D^cAA|, As^cAA|
+# aryl group (NOUN) : WbI|IA|
+# tosyl group (NOUN) : \lU|IA|
+# prosthetic group (NOUN) : RlAjI WsfDXbGbD
+# p-toluenesulfonyl group (NOUN) : n-]zIIsWgD UsI]lD|IA|
+# sulfhydryl group (NOUN) : UfI]|GzI|I A|
+# haptenic group (NOUN) : ^gR\gDA|
+# retrovirus group (NOUN) : Ig\zIl RbW|IfUzAsD
+# prosthetic group (NOUN) : RlAjI RsDXbXlA
+# thiol group (NOUN) : \|WlIA| 
+# amidino group (NOUN) : WbQ|G|DA|
+# carbamoyl group (NOUN) : [bIzRbQlW|IA|
+# carbamyl group (NOUN) : [bIzRbQ|IA|
+# prosthetic group (NOUN) : RlAjI WsfDXbXlA
+# versatile region gene group (NOUN) : AbRjDWjA WwXfDXbAsD
+
+"growth"
+# point of growth (NOUN) : UfWXbWXfQ
+
+"guanine"
+# guanine (NOUN) : AsWbD|D
+# guanine (NOUN) : AsWbD|D 
+# hypoxanthine guanine (NOUN) : ^bW|]l[zUbD\|D AsWbD|D
+
+"guanosine"
+# cyclic guanosine (NOUN) : ^lbD^jW AsWbDlU|D
+# guanosine (NOUN) : AsWbDlU|D
+# guanosine (NOUN) : AsWbDlU|D
+
+"Guerin"
+# Bacille de Calmette et Guerin (NOUN) : BCG, AjI^cAWz| BCG RcAU|D
+
+"Guideline"
+# NIH Guideline (NOUN) : NIH WwGlX|]r
+# guideline (NOUN) : X|Z|QUf
+
+"gynogenesis"
+# gynogenesis (NOUN) : Xb^cARbIUcW, XbUfWRbIUcW, DbDXb GbDGlA RbIWwA
+
+"gyrase"
+# DNA gyrase (NOUN) : DNA X|IgW|Uz(A|IbWbXg)
+# DNA gyrase (NOUN) : DNA Ws|UbWW|UfWX|I^lb^rUl(ATP UbWrW)
+

@@ -1,0 +1,1757 @@
+"KATUSA"
+% ORGAN
+([b\wUb)
+
+"KEPCO"
+% ORGAN
+(^bDXfD)
+
+"KSD"
+% HUMAN
+(A|QUfWGlW)
+
+"Kabul"
+% PLACE
+([bRsI)
+
+"Kaesong"
+% PLACE
+(AcUfW)
+# Kaesong area (NOUN) : AcUfW X|WjA
+
+"Kalahari"
+% MATERIAL PLACE
+([bIIb^bI|)
+# Kalahari Desert (NOUN) : [bIIb^bI| UbQbA
+# the Kalahari Desert (NOUN) : [bIIb^bI| UbQbA
+
+"Karaoke"
+% PLACE
+(AbIbWl[g)
+
+"Katusa"
+% HUMAN ORGAN
+([b\wUb)
+
+"Kim"
+% HUMAN
+(Kim)
+# Kim Il Sung (NOUN) : A|QW|IUfW
+
+"Kim Jong-il"
+% HUMAN
+(A|QXfWW|I)
+
+"King Edward III"
+% HUMAN
+(WgGzWsfGz 3Ug)
+
+"King Richard"
+% HUMAN
+(I|ZbGzWlbW)
+# King_Richard i (NOUN) : I|ZbGz 1Ug
+# King_Richard I (NOUN) : I|ZbGz 1Ug
+
+"King Sejong"
+% HUMAN
+(UgXlWGcWlbW)
+
+"Koei"
+% PLACE ORGAN
+([lWgW|)
+
+"Koguryo"
+% PLACE ORGAN
+(AlAsIj)
+
+"Koguryo Kingdom"
+(AlAsIj WlbWXl)
+
+"Konami"
+% ORGAN PLACE
+([lDbQ|)
+
+"Korea"
+% CONCRETE MATERIAL PLACE ORGAN
+(^bDAsA)
+# north Korea (NOUN) : RsA^bD
+# south Korea (NOUN) : DbQ^bD
+# the Korea ^Strait (NOUN) : Gc^bD ^c^jR
+# the Republic of Korea (NOUN) : Gc^bDQ|DAsA
+
+"Korea Investment Trusts"
+% ORGAN
+(^bDAsA\sU|D)
+
+"Korean"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bDAsAW|D[^bDAsAWf])
+# Korean team (NOUN) : ^bDAsA\|Q
+# Koreans (NOUN) : ^bDAsAW|D
+# a Korean (NOUN) : ^bDAsAW|D
+# south Korean (NOUN) : ^bDAsAW|D
+
+"Korean National Anthem"
+(WcAsAAb)
+
+"Korean Peninsula"
+% PLACE
+(^bDRbDGl)
+
+"Korean War"
+(^bDAsA XfDXcW)
+
+"Korean-Canadian"
+% HUMAN
+(^bDAsAAk [bDbGbW|D)
+
+"Koreatown"
+% PLACE
+([lI|Wb\bWsD)
+
+"Kosovo"
+% PLACE
+([lUlRl)
+
+"Kremlin"
+% PLACE
+([zIgQzII|D)
+
+"Ksd"
+% HUMAN
+(A|QUfWGlW)
+
+"Kuwait"
+% PLACE
+([sWsgW|\z)
+
+"Kwantung"
+% PLACE
+(AlbDGlW)
+# Kwantung army (NOUN) : AlbDGlWAsD
+# Japanese Kwantung army (NOUN) : W|IRlD AlbDGlWAsD
+
+"Kyongju"
+% MATERIAL PLACE
+(AjWXs)
+# Kyongju_Natioanl_Museum (NOUN) : AjWXs AsAI|R RbAQsIAlbD
+
+"Kys"
+% HUMAN
+(WlIScA GfWZ| A|QWwUfR)
+
+"k"
+% CONCRETE UNIT MATERIAL 
+(k)
+
+"kaaba"
+% PLACE
+([bWbRb U|DXfD)
+
+"kaffir"
+% HUMAN
+([b]|Iz UbIbQ)
+
+"kail"
+% PLANT FOOD
+(WdWRcZs)
+
+"kail"
+% PLANT FOOD
+(WdWRcZsIw)
+
+"kailyard"
+% PLACE
+(ZcUlRb\)
+
+"kaiser"
+% HUMAN
+(^lbWXg)
+
+"kaiserin"
+% HUMAN
+(GlAW|I ^lbW^s)
+
+"kakistocracy"
+% ORGAN
+(WbAGfA XfWZ|)
+
+"kalaazar"
+([bIIbWbYbIz)
+
+"kale"
+% CONCRETE MATERIAL FOOD
+(WdWRcZs)
+
+"kaleidoscope"
+% CONCRETE MATERIAL 
+(QbD^lbAjW)
+
+"kalevala"
+([bIIgRbIIb)
+
+"kaleyard"
+% PLACE
+(ZcUlRb\)
+
+"kaliun"
+([bIIwQ)
+
+"kallikak"
+% HUMAN
+(WfIAbDW|)
+
+"kalogng"
+% ANIMAL
+([zD RbAXs|)
+
+"kalpa"
+(AfR)
+
+"kama"
+([bQb)
+
+"kamasutra"
+% PLACE
+(W|DGlWz| ^|DGs UfWXfD)
+
+"kanaka"
+% HUMAN
+([cDf[f UbIbQ)
+
+"kangaroo"
+% CONCRETE ANIMAL MATERIAL 
+([cWAfIsWs)
+# mother kangaroo (NOUN) : WfQ| [cWAfIs
+
+"kansan"
+% PLACE
+(Q|AsA XsWRsWz| Xs)
+
+"kantian"
+% HUMAN
+([bD\z ^bAGl)
+
+"kantism"
+% ART
+([bD\z ZfI^bA)
+
+"kantist"
+% HUMAN
+([bD\z ^bA]bWz| UbIbQ)
+
+"kaoliang"
+(AlIdW)
+
+"kaolin"
+% CONCRETE MATERIAL 
+(AlIjW\l)
+
+"kapellmeister"
+% HUMAN
+(X|^s|Xb)
+# kapellmeister music (NOUN) : ^jWU|AXfAW|D AsU|A WzQWbA
+
+"kapok"
+% CONCRETE MATERIAL 
+([gW|]lA)
+
+"kappa"
+(AzI|W|Uz XbQlWz| WjIYcXb)
+
+"karakul"
+% CONCRETE ANIMAL MATERIAL 
+([bIb[sI WdW)
+
+"karat"
+% UNIT
+([cIfU)
+
+"karma"
+% MATERIAL 
+(AbIQb)
+
+"karoo"
+(DbQWb]zI|[bWz| AfDXlUfW AlWsfD)
+# the Great Karoo (NOUN) : GcAlWsfD
+
+"kaross"
+(UlQcWfRUDzD Ql]| Wl|\s)
+
+"kart"
+% PLACE
+(GcAlWsfD)
+
+"kartel"
+% PLACE
+(DbQs Z|QGc)
+
+"karyoplasm"
+% CONCRETE MATERIAL 
+(^cAX|I)
+
+"kasbah"
+% PLACE
+(UfWZc)
+
+"kashmir"
+% PLACE
+([cU|Q|Iz)
+
+"kashmiri"
+% HUMAN
+([cU|Q|Iz UbIbQ)
+
+"katangese"
+% HUMAN
+([b\bWAb UbIbQ)
+
+"kathode"
+(WzQAzA)
+
+"katydid"
+% CONCRETE ANIMAL MATERIAL 
+(WjZ|)
+
+"kauri"
+% CONCRETE MATERIAL PLANT
+([bWsI| UlDbQs)
+
+"kaury"
+% PLANT
+([bWsI| UlDbQs)
+
+"kava"
+% PLANT
+(^sZsAlbWz| AlbDQlA)
+
+"kavass"
+% HUMAN
+(QsXbW AjWAlbD)
+
+"kayak"
+% CONCRETE ANIMAL MATERIAL 
+([bWdA)
+
+"kazoo"
+% CONCRETE ANIMAL MATERIAL 
+([bXs)
+# ^tootle ONE_S own kazoo (VERB) : ^f]sWHfIGb
+
+"kea"
+% CONCRETE ANIMAL MATERIAL 
+([gWfW|WBl)
+
+"kedge"
+(XbAWzD GbZ)
+
+"kedgeree"
+([gXfI|)
+
+"keel"
+% CONCRETE ANIMAL MATERIAL 
+(WrWAlI)
+# false keel (NOUN) : RsWrWAlI
+# ^lay down a keel (VERB) : WrWAlIWzI Rs\W|Gb
+
+"keelage"
+(W|R^bWUg)
+
+"keelblocks"
+(WrWAlIGc)
+
+"keelboat"
+(^lbQsI WsDUlWUfD)
+
+"keelson"
+(DcWrWAlI)
+
+"keen"
+% ACTION
+(AlA)
+
+"keener"
+% HUMAN
+(AlABsD)
+
+"keeness"
+% ACTION
+(\lWAlA)
+
+"keep"
+% CONCRETE MATERIAL 
+(RlXlD)
+# ^be in bad keep (VERB) : RlXlDW| XbIQlUGl|Wf W|VGb
+# ^be in low keep (VERB) : RlXlDW| XbIQlUGl|Wf W|VGb
+# ^be in good keep (VERB) : RlXlDW| XbIGl|Wf W|VGb
+# ^be in high keep (VERB) : RlXlDW| XbIGl|Wf W|VGb
+# ^be worth ONE_S keep (VERB) : RlXlD^bI AbZ|Ab W|VGb
+# for keeps (ADV) : WfDXgBbX|Db
+
+"keeper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbDI|W|D)
+# a good keeper (NOUN) : WlIcAbDzD ZcUl
+# a bad keeper (NOUN) : WlIcAbX| WbD^DzD ZcUl
+# Keeper of the Privy Seal (NOUN) : AsAUcAlbD
+# Lord Keeper (NOUN) : AsAUcUbWUf
+
+"keeping"
+% CONCRETE MATERIAL 
+(WwX|)
+
+"keepsake"
+% CONCRETE MATERIAL 
+(A|DjQ]sQ)
+
+"keeshond"
+% CONCRETE ANIMAL MATERIAL 
+([gW|Uz^lDGz Ac)
+
+"keg"
+% CONCRETE MATERIAL 
+(XbAWzD DbQs\lW)
+
+"keloid"
+([gIIlW|Gz)
+
+"kelp"
+% CONCRETE ANIMAL MATERIAL PLANT
+(^cZl)
+
+"kelpie"
+% ANIMAL
+(QsIAs|U|D)
+
+"kelpy"
+% ANIMAL
+(QsIAs|U|D)
+
+"kelt"
+% ANIMAL
+(UbISbX|D WjDWf)
+
+"kelt"
+% HUMAN
+([gI\z UbIbQ)
+
+"keltic"
+([gI\zQbI)
+# the Celtic fringe (NOUN) : [gI\zWl|AlbAW|D
+
+"kemp"
+(AfZ|D \fI)
+
+"ken"
+% MATERIAL PLACE
+(UlAsI)
+
+"kennel"
+% CONCRETE ANIMAL MATERIAL 
+(AcX|R)
+
+"kennel"
+% CONCRETE ANIMAL MATERIAL 
+(GlIbW)
+
+"keno"
+% MATERIAL 
+([gDl)
+
+"kentledge"
+(WrWWz| Ul|UGfWWfI|)
+
+"kentuckian"
+% HUMAN
+([gD\f[|Xs UbIbQ)
+
+"kerchief"
+% CONCRETE ANIMAL MATERIAL 
+(QfI|UUsAfD)
+
+"kerf"
+(XbAsA)
+
+"kermes"
+% ANIMAL
+(WjDX|RfIIg)
+
+"kermess"
+% PLACE ORGAN
+(QjWXfI GcQlAXbW)
+
+"kermis"
+% PLACE ORGAN
+(QjWXfI GcQlAXbW)
+
+"kern"
+(XbWU|A BlI|)
+
+"kernel"
+% MATERIAL 
+(^cAU|Q)
+
+"kerosene"
+% CONCRETE MATERIAL 
+(GzWWw)
+
+"kerry"
+([gIgI|Wf)
+
+"kersey"
+% PLANT
+([fWfX| X|AQsI)
+
+"kestrel"
+% CONCRETE ANIMAL MATERIAL 
+(^lbWXlIlWW|)
+
+"ketch"
+% CONCRETE ANIMAL MATERIAL 
+(As]l^bQ)
+
+"ketchup"
+% CONCRETE MATERIAL FOOD
+([gZfR)
+
+"ketone"
+% CONCRETE MATERIAL 
+([gIlD)
+
+"kettle"
+% CONCRETE ANIMAL MATERIAL 
+(XsXfDXb)
+# a kettle of fish (NOUN) : WdGbDRfRUfA
+
+"kettledrum"
+([g\zIGzIfQ)
+
+"kettleholder"
+(XsXfDXbIzI Xs|DzD ^cWXs)
+
+"kevel"
+(Gc^jW AkUcAXs)
+
+"kewpie"
+([wWs]| W|D^jW)
+
+"key"
+% CONCRETE MATERIAL 
+(WjIUl|)
+# key currency (NOUN) : A|AbD\lW^lb
+# key industry (NOUN) : A|AbDUbDWfR
+# key smith (NOUN) : WjIUl| XgXlWfRXb
+# key variable (NOUN) : A|RlDRjDUs
+# key worker (NOUN) : XsWrDlQsXb
+# ^hold the key to A (VERB) : [(OBJ [(POSS A/Wz|) WjIUl|<NOUN>]/IzI) Xs|Al W|V<VERB>]/Gb
+
+"keyboard"
+% CONCRETE ANIMAL MATERIAL 
+([|RlGz)
+# a keyboard instrument (NOUN) : AfDRbDWbAA|
+
+"keyhole"
+% CONCRETE MATERIAL 
+(WjIUl| AsQfW)
+
+"keyman"
+% HUMAN
+(XsWU|QW|DQsI)
+
+"keynesian"
+% HUMAN
+([gW|DXz^bA]bWz| UbIbQ)
+
+"keynote"
+% CONCRETE MATERIAL 
+(WrX|)
+# keynote address (NOUN) : A|XlWjDUfI
+# keynote speech (NOUN) : A|XlWjDUfI
+
+"keynoter"
+% HUMAN
+(A|Xl WjDUfIXb)
+
+"keystone"
+% CONCRETE MATERIAL 
+(WrX|)
+
+"keyword"
+([|WsfGz)
+
+"kg"
+(kg)
+% UNIT
+
+"khaddar"
+(UlDWzIl YbD QsQjWRg)
+
+"khaki"
+([bWb[|UcA WlUAbQ)
+
+"khalifat"
+% ART
+([bII|]b WsDGlW)
+
+"khamsin"
+([cQU|D WjI]sW)
+
+"khan"
+% CONCRETE ANIMAL MATERIAL PLACE
+(GcUbWWz| UsAUl)
+
+"khan"
+% CONCRETE ANIMAL MATERIAL HUMAN
+([bD)
+
+"khanate"
+% HUMAN
+([bDWz| X|Ws|)
+
+"khansamah"
+% HUMAN
+(X|RUb)
+
+"khedive"
+% HUMAN
+(W|X|R\z ZlWGlA)
+
+"khi"
+(AzI|W|Uz XbQlWz| UzQsI GsYc Xb)
+
+"khmer"
+% ORGAN HUMAN
+([zQgIzXlA)
+
+"kibbutz"
+% PLACE ORGAN
+([|RsZz)
+
+"kibe"
+% MATERIAL 
+(\zD XbAsA)
+# ^tread on ONE_S kibe (VERB) : [(OBJ [(POSS ONE/Wz|) Wb]zD AlU<NOUN>]/WzI) AfDGzI|<VERB>]/Gb
+
+"kibitzer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlIzQWz| AsAjWAsD)
+
+"kibosh"
+(^f\zD UlI|)
+# ^put the kibosh on A (VERB) : [(OBJ A/WzI) (MODS [ZfIXf^|<ADV>]) ^cZ|Ws<VERB>]/Gb
+
+"kick"
+% CONCRETE MATERIAL ACTION
+(ZbA|)
+# free kick (NOUN) : ]zI|[|A
+# kick ball (NOUN) : [|ARlI
+
+"kickback"
+(I|RgW|\z)
+
+"kicker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZbDzD UbIbQ)
+
+"kickoff"
+(U|XbA)
+# the campaign kickoff (NOUN) : UfDAfWz|AcQbA
+
+"kickout"
+([|AWbWs\z)
+
+"kickshaw"
+% CONCRETE MATERIAL 
+(RjIU|A)
+
+"kickstand"
+(Gs|URbGZ|Q UbI)
+
+"kickup"
+(ZbWlII|A|)
+
+"kid"
+% HUMAN CONCRETE ANIMAL MATERIAL 
+(WfI|DWc)
+
+"kiddie"
+% ANIMAL
+(WfI|DWc)
+
+"kiddle"
+(\lWRbI)
+
+"kiddy"
+% ANIMAL
+(WfI|DWc)
+
+"kidnap"
+% ACTION
+(WwAl|)
+
+"kidnaper"
+% HUMAN
+(WwAl|RfQ)
+
+"kidnapper"
+% HUMAN
+(WwAl|RfQ)
+
+"kidney"
+% CONCRETE MATERIAL ANIMAL
+(U|DXbW)
+
+"kidult"
+(AbXlAWrW Ql^fQ WjW^lb)
+
+"kidvid"
+(WfI|DW|WrW \gII|R|XfD]zIl)
+
+"kieselguhr"
+(AlbDUbWAwXl\l)
+
+"kike"
+% HUMAN
+(WwGcW|D)
+
+"kilderkin"
+% CONCRETE UNIT MATERIAL 
+(AbIIlD GzIW| XsWAbDZ|Wz| \lW)
+
+"kill"
+% MATERIAL ACTION
+(XsAW|A|)
+
+"kill-time"
+(U|QU|Q]sIW|)
+
+"killer"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(UbIW|DXb)
+# humane killer (NOUN) : Qs\lW GlUbIA|
+# killer whale (NOUN) : GlIAlIc
+
+"killick"
+(GbZ GcU|D VzDzD GlI)
+
+"killing"
+% MATERIAL ACTION
+(UbI^c)
+
+"killjoy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^zWWzI BcDzD UbIbQ)
+
+"kiln"
+% CONCRETE ANIMAL MATERIAL 
+(AbQb)
+# a brick kiln (NOUN) : RjAGlI AbQb
+# a lime kiln (NOUN) : UfA^l| AbQb
+
+"kilo"
+% CONCRETE UNIT MATERIAL 
+([|IIl)
+
+"kilocalorie"
+% CONCRETE UNIT MATERIAL 
+([|IIl [bIIlI|)
+
+"kilocycle"
+([|IIlUbW|[zI)
+
+"kilogram"
+% CONCRETE UNIT MATERIAL 
+([|IIl AzIcQ)
+
+"kilogrammeter"
+% UNIT
+([|IIlAzIcQQ|\f)
+
+"kilogrammetre"
+% UNIT
+([|IIlAzIcQQ|\f)
+
+"kilohertz"
+% CONCRETE MATERIAL UNIT
+([|IIl^gIzYz)
+
+"kiloliter"
+% CONCRETE UNIT MATERIAL 
+([|IIlI|\f)
+
+"kilolitre"
+% CONCRETE UNIT MATERIAL 
+([|IIlI|\f)
+
+"kilometer"
+% CONCRETE UNIT MATERIAL 
+([|IIlQ|\f)
+
+"kiloton"
+% CONCRETE UNIT MATERIAL 
+(ZfD\lD)
+
+"kilovolt"
+% CONCRETE UNIT MATERIAL 
+([|IIlWlb\z)
+
+"kilowatthour"
+% UNIT
+([|IIlWlb\zU|)
+
+"kilroy"
+% HUMAN
+(AbUbW Q|AsAAsDW|D)
+
+"kilt"
+% CONCRETE ANIMAL MATERIAL 
+([|IGz)
+
+"kilter"
+% STATE
+(WdW^l^bD UbW\c)
+
+"kiltie"
+% HUMAN
+([|I\zIzI W|RWzD UbIbQ)
+
+"kim"
+% HUMAN
+(A|Q)
+# Kim Il Sung (NOUN) : A|QW|IUfW
+
+"kimchi"
+% FOOD
+(A|QZ|)
+
+"kin"
+% CONCRETE MATERIAL HUMAN
+(Z|DZfA)
+
+"kinchin"
+% HUMAN
+(WbW|)
+
+"kind"
+% MATERIAL 
+(XlWIw)
+
+# how ADJ kind of A (NOUN) :
+[(POSS [(RELCL [(MODS [WfIQbDb<ADV>]) ADJ]) XlWIw<NOUN>]/Wz|) A]{+QUESFLAG}
+# a kind of A (NOUN) : [(POSS A/Wz|) W|IXlW<NOUN>]
+* [(NMODS [WfHfD<NOUN>]) A]
+* A (feeling AbQXfW)
+# different kind of ^A (NOUN) : [(POSS [GbIzD XlWIw<NOUN>]/Wz|) A]
+# special kind of ^A (NOUN) : [(POSS [\zARjI^bD XlWIw<NOUN>]/Wz|) A]
+# a certain kind of ^A (NOUN) : [(POSS [WfHfD XlWIw<NOUN>]/Wz|) A]
+# all kinds of ^A  (NOUN) : [(POSS [QlGzD XlWIw<NOUN>]/Wz|) A]
+# ^be kind of A (VERB) : [(MODS [XlQ<ADV>]) (COMP A) _<ADJ>]<W|>/Gb
+# in kind (PP) : RlDX|IXfAWzIl
+# kind of ADJ | (ADJ) : [(MODS [WdAAbD<ADV>]) ADJ]/^bGb
+# many kinds of ^A (NOUN) : [(POSS [QbD^WzD XlWIw<NOUN>]/Wz|) A]
+# some kind of ^A (NOUN) : [(POSS [WfHfD XlWIw<NOUN>]/Wz|) A]
+# such a kind ^A (NOUN) : [(AMODS [W|IfD XlWIw<NOUN>]/Wz|) A]
+	* [(AMODS [(MODS [QcWs<ADV>]) Z|DXfI^b<ADJ>]/Gb) A]
+	* A (spirit WjW^lD)
+# the same kind of A (NOUN) : [(POSS [Ab\WzD XlWIw<NOUN>]/Wz|) A]
+# that kind of ^A (NOUN) : [(POSS [AzIf^bD XlWIw<NOUN>]/Wz|) A]
+# this kind of A (NOUN) : [(POSS [W|If^bD XlWIw<NOUN>]/Wz|) A]
+# what kind of ^A (NOUN) : [(POSS [WfHfD XlWIw<NOUN>]/Wz|) A]{+QUESFLAG} 
+
+"kindergarten"
+% MATERIAL PLACE
+(WwZ|WsfD)
+
+"kindergartener"
+% HUMAN
+(RlQl)
+
+"kindler"
+(RsIVlU|Ac)
+
+"kindliness"
+% CONCRETE MATERIAL MIND
+(Z|DXfI)
+
+"kindling"
+% CONCRETE MATERIAL 
+(XfQ^lb)
+
+"kindness"
+% CONCRETE MATERIAL MIND
+(Z|DXfI)
+# do a kindness to A (VERB) : [(OBJ2 A/WgAg) Z|DXfI^bAg Gc^b<VERB>]/Gb
+# have a kindness for A (VERB) : [(OBJ2 A/WgAg) ^lWz|IzI AbX<VERB>]/Gb
+# have the kindness TO_INF (VERB) : 
+	[(ADJUNCT [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) Z|DXfI^b<ADJ>]/Gb
+# take kindness to A (VERB) : [(OBJ A/WzI) Xl^Wb^b<VERB>]/Gb
+
+"kindred"
+% CONCRETE MATERIAL 
+(^jIWjD)
+
+"kine"
+% CONCRETE ANIMAL MATERIAL 
+(WbQUl)
+
+"kinemacolor"
+(ZfDWjQUcA WjW^lb)
+
+"kinematics"
+% MATERIAL ART
+(WsDGlW^bA)
+
+"kinescope"
+% CONCRETE ANIMAL MATERIAL 
+([|DgUz[lWs]z)
+
+"kinesics"
+% ART
+(GlWXbA^bA)
+
+"kinetics"
+% MATERIAL ART
+(GlWIjA^bA)
+
+"kinetophone"
+(RbIUfW ^lbIGlWUbX|DA|)
+
+"kinetophonograph"
+(RbIUfWWjW^lb ZlbIWjWA|)
+
+"kinetoscope"
+(^lbIGlW UbX|D WjWUbA|)
+
+"king"
+% CONCRETE MATERIAL HUMAN ANIMAL
+(WlbW)
+# King's Advocate (NOUN) : AsAWlbW AlQsD RjD^lUb
+# King's Bench (NOUN) : WlbWXlbRs
+# King's College (NOUN) : Gc^bAWz| ^bAUb
+# King's enemy (NOUN) : XfAAsA
+# King's Engligh (NOUN) : UsDUs^bD WjWWf
+# King Arms (NOUN) : UbWXg
+# King of Britain (NOUN) : Britain WlbW
+# king Sejong (NOUN) : UgXlWGcWlbW
+# king's evidence (NOUN) : AlWRfQXbWgGc^bD AlWUlWz| XzWW|D
+# king's evil (NOUN) : WjDXsZbW
+# king's highway (NOUN) : AsAGl
+# king's peg (NOUN) : UdQ]gW|DAlb RzIcDG|Wz| ^lD^bRXs
+# king's ranson (NOUN) : QbAGc^bD GlD
+# king's weather (NOUN) : [lcZfW^bD DbIV|
+# the king of beasts (NOUN) : RcAUsWz| WlbW
+# the king of birds (NOUN) : RcAXlWz| WlbW
+# the King of day (NOUN) : \cWdW
+# the King of Heaven (NOUN) : U|D
+# the King of herald (NOUN) : UbWXg
+# the King of Kings (NOUN) : UbWXg
+# the king of the forest (NOUN) : Us]Wz| WlbW
+# the king of the jungle (NOUN) : Q|II|QWz| WlbW
+# the King of Waters (NOUN) : AbWWz| WlbW
+# the King's speech (NOUN) : Wz|^l| Ac^l| U|AWz| Z|AWw
+
+"king-bird"
+% PLANT
+(WwIfRUc)
+
+"king-craft"
+% ART
+(Z|AsAUsI)
+
+"king-emper-or"
+% HUMAN
+(WjWAsAWlbW AjQW|DGl ^lbWXg)
+
+"king-fish"
+% ANIMAL
+(WlbWWf)
+
+"king-of-arms"
+(WjWAsA QsDXbWWsfDXbW)
+
+"king-ship"
+% HUMAN
+(WlbWWz| U|DRsD)
+
+"kingcup"
+% CONCRETE ANIMAL MATERIAL PLANT
+(Q|DbI|WbXcR|)
+
+"kingdom"
+% MATERIAL PLACE ORGAN
+(WlbWAsA)
+
+"kingfisher"
+% CONCRETE ANIMAL MATERIAL 
+(Ul|Uc)
+
+"kinglet"
+% CONCRETE ANIMAL MATERIAL 
+(UlWlbW)
+
+"kingliness"
+% MIND
+(WlbWWz| XlDWfQ)
+
+"kingmaker"
+% HUMAN
+(AsAWlbW WlWI|RXb)
+
+"kingpin"
+% CONCRETE ANIMAL MATERIAL 
+(XsWU|QW|DQsI)
+
+"kink"
+% MATERIAL 
+(BlW|Q)
+
+"kino"
+% CONCRETE MATERIAL 
+([|Dl)
+
+"kinsfolk"
+% CONCRETE MATERIAL HUMAN
+(Z|DZfA)
+
+"kinship"
+% CONCRETE MATERIAL HUMAN
+(Z|DZfA AlbDAk)
+
+"kinsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Z|DZfA)
+
+"kinswoman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Z|DZfA)
+
+"kiosk"
+% CONCRETE ANIMAL MATERIAL 
+(XfWXb)
+
+"kiosque"
+(XfWXb)
+
+"kip"
+% CONCRETE UNIT MATERIAL 
+([|R)
+
+"kip"
+% CONCRETE UNIT MATERIAL 
+(^bUsA)
+
+"kipper"
+% CONCRETE MATERIAL FOOD
+(^sDXg^bD ZfWWf)
+
+"kirghiz"
+% HUMAN
+([|IzA|Xz UbIbQ)
+
+"kirk"
+% CONCRETE ANIMAL MATERIAL PLACE
+(Ar^l|)
+
+"kirkman"
+% HUMAN 
+(Uz[l\zIIcDWz| Ar^l|WsfD)
+
+"kirsch"
+% CONCRETE MATERIAL FOOD
+(RfY|UsI)
+
+"kirtle"
+(Uz[fWf\z)
+
+"kismet"
+% MATERIAL 
+(WsDQjW)
+
+"kiss"
+% CONCRETE MATERIAL ACTION
+([|Uz)
+# ^blow a kiss to A (VERB) : [(OBJ2 A/WgAg) [|UzIzI RlDc<VERB>]/Gb
+# ^give a kiss to A (VERB) : [(OBJ2 A/WgAg) [|Uz^b<VERB>]/Gb
+# kiss of death (NOUN) : Z|QjWUbW
+# kiss of peace (NOUN) : Z|DQlAWz| ]lWlW
+
+"kissathon"
+% ACTION
+(XbWU|[bD [|Uz AjWA|)
+
+"kisser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+([|Uz^bDzD UbIbQ)
+
+"kissing"
+% MATERIAL ACTION
+([|Uz^bA|)
+
+"kissmequick"
+% PLANT
+(WdUcWWz| UbQUcAXgR|BlZ)
+
+"kissoff"
+% ACTION
+(^cAl)
+
+"kit"
+% CONCRETE MATERIAL 
+(XbWR|)
+# a first aid kit (NOUN) : WzWAzRZ|IrWdA
+# a ski kit (NOUN) : Uz[|RlA
+# kit inspection (NOUN) : RlAXbW AfQUb
+# the whole kit (NOUN) : XfDRs
+
+"kitchen"
+% CONCRETE ANIMAL MATERIAL PLACE
+(RsWf[)
+
+"kitchen-maid"
+% HUMAN
+(U|AQl)
+
+"kitchener"
+(WrI|WrW ^lbGfA)
+
+"kitchenette"
+% CONCRETE ANIMAL MATERIAL PLACE
+(AbDW| Zs|UbXbW)
+
+"kitchenware"
+% CONCRETE ANIMAL MATERIAL PLACE
+(RsWf[)
+
+"kite"
+% CONCRETE ANIMAL MATERIAL 
+(WjD)
+
+"kitsch"
+% CONCRETE MATERIAL ART
+(XfUlA^bD XbA]sQ)
+
+"kitten"
+% CONCRETE ANIMAL MATERIAL 
+(AlWdWW| UcB|)
+
+"kittiwake"
+% CONCRETE ANIMAL MATERIAL 
+(AbIQcA|Wz| W|IXlW)
+
+"kitty"
+% CONCRETE ANIMAL MATERIAL 
+(AlWdWW| UcB|)
+
+"kitty"
+% CONCRETE ANIMAL MATERIAL 
+(XfAAzQ ^bWWbI|)
+
+"kiwi"
+% CONCRETE ANIMAL MATERIAL PLANT FOOD
+([|Ws|)
+
+"kleenx"
+([zII|DgUUz)
+
+"kleptomaniac"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfIGlAlbW)
+
+"klesha"
+(RfDDl|)
+
+"klieg"
+(AbWIjA^bD Wb[zGzW)
+
+"klip-spring-er"
+% ANIMAL
+(WjWWdW)
+
+"kloof"
+% PLACE
+(^jRAlA)
+
+"klutz"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Uf\sIzD UbIbQ)
+
+"klystron"
+% CONCRETE ANIMAL MATERIAL 
+([zIIbW|Uz\zIl)
+
+"km"
+(km)
+% UNIT
+
+"knack"
+% MATERIAL 
+(A|Ar)
+
+"knacker"
+% HUMAN
+(]gQbGlUbIWfRXb)
+
+"knackery"
+% PLACE
+(]gQb GlUbIXbW)
+
+"knag"
+(DbQsWlWW|)
+
+"knapper"
+(GlI BcDzD QbWZ|)
+
+"knapsack"
+% CONCRETE ANIMAL MATERIAL 
+(RcDbW)
+
+"knapweed"
+% MATERIAL PLANT
+(GbIAsX|AsA^lbUlAWz| U|AQsI)
+
+"knar"
+(WlWW|)
+
+"knave"
+% CONCRETE ANIMAL MATERIAL 
+(WbA^bD)
+
+"knavery"
+(UlAW|QUs)
+
+"knee"
+% CONCRETE MATERIAL ANIMAL
+(QsIz])
+# ^be on ONE_S knees (VERB) : QsIz]WzI BsI^AlW|VGb
+# ^bend the knee to A (VERB) : [(OBJ2 A/WgAg) (ADJUNCT [QsIz]WzI BsI^<VERB>]/^bAl) 
+\bDWsfD^b<VERB>]/Gb
+# ^bow the knee to A (VERB) : [(OBJ2 A/WgAg) (ADJUNCT [QsIz]WzI BsI^<VERB>]/^bAl) 
+\bDWsfD^b<VERB>]/Gb
+# down on ONE_S knees (ADV) : QsIz] BsI^Al
+# ^draw up the knees (VERB) : QsIz]WzI UgWsGb
+# ^drop the knee (VERB) : QsIz] BsI^Gb
+# ^fall one ONE_S knees (VERB) : QsIz] BsI^Gb
+# ^drop the knee (VERB) : QsIz] BsI^Gb
+# ^go one ONE_S knees (VERB) : QsIz] BsI^Gb
+# ^fall on a knee (VERB) : ^bDYlA QsIz]WzI BsI^Gb
+# ^go on a knee (VERB) : ^bDYlA QsIz]WzI BsI^Gb
+# ^get knee to knee with A (VERB) : [(ADJUNCT A/Alb) (ADJUNCT [QsIz]WzI QbXGc<VERB>]/^bAl) Wz|DlD^b<VERB>]/Gb
+# ^give a knee to A (VERB) : [(OBJ A/WzI) (ADJUNCT [QsIz]Wg DsR^|<VERB>]/^bWj) 
+Us|Ag ^b<VERB>]/Gb
+# ^offer a knee to A (VERB) : [(OBJ A/WzI) (ADJUNCT [QsIz]Wg DsR^|<VERB>]/^bWj) 
+Us|Ag ^b<VERB>]/Gb
+# over in the knees (ADV) : QsIz]W| Wb]YlAWzIl AsRWf
+# ^sit knee to knee (VERB) : QsIz]WzI QbXGcAl WbDXGb
+
+"kneecap"
+% CONCRETE MATERIAL ANIMAL
+(UzIAcAlI)
+
+"kneelet"
+(QsIz]RbGW|)
+
+"kneelin"
+(^bWWz| WkRc GgQl)
+
+"kneepad"
+(QsIz]Wg GcDzD AfU)
+
+"kneepan"
+% CONCRETE MATERIAL ANIMAL
+(UzIAcAlI)
+
+"knell"
+(XlWUlI|)
+
+"knest"
+% ORGAN
+(W|UzIbWgI AsA^l|)
+
+"knickknack"
+% CONCRETE MATERIAL 
+(WkSzD XbWDbDAbQ)
+
+"knife"
+% CONCRETE ANIMAL MATERIAL 
+([bI)
+# before you can say knife (ADV) : UsDU|AAbDWg
+# ^cut like a knife (ADJ) : UbIWzI WgDzD GzU^bGb
+# under the knife (ADV) : UsUsIWzI RbGAl
+# war to the knife (NOUN) : ^jIXfD RsDXfD
+
+"knife-board"
+([bIAbDzDGc)
+
+"knight"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(A|Ub)
+
+"knight-er-rant"
+% HUMAN
+(QsUsI Us^cWXb)
+
+"knight-er-rant-ry"
+% ACTION
+(QsUsI Us^cW)
+
+"knight-hood"
+% HUMAN
+(A|UbWz| U|DRsD)
+
+"knightage"
+% ORGAN
+(A|UbGbD)
+
+"knit"
+% CONCRETE MATERIAL 
+(]jDQsI)
+
+"knit-wear"
+(HzAcX|I ^bI WlU)
+
+"knitting"
+% CONCRETE MATERIAL 
+(HzAcX|I UgAlW)
+
+"knob"
+% CONCRETE MATERIAL 
+(^lA)
+
+"knob-bing"
+(ZlXfI GbGzQX|I)
+
+"knobble"
+(XbAWzD ^lA)
+
+"knobkerrie"
+(\sRlW)
+
+"knobstick"
+(Bz\Wg ^lAW| GbII|D QlWGsWW|)
+
+"knock"
+% MATERIAL ACTION
+(Dl[z)
+
+"knock-a-bout"
+(UlIbDUzIfRAl DbD]lA^bD WjDAzA)
+
+"knock-off"
+(XsWX|^bA|)
+
+"knock-over"
+% ACTION
+(AbW\bI)
+
+"knock-up"
+% ACTION
+(WdAU|A WjDUzR)
+
+"knockdown"
+% MATERIAL ACTION
+(HcIf DsR^|A|)
+
+"knocker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GsGzI|DzD UbIbQ)
+
+"knocking"
+% ACTION
+(QsDWzI GsGzI|A|)
+
+"knockkness"
+(WbDWzIl ^s|D GbI|)
+
+"knockout"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlAWbWs\z)
+
+"knoll"
+% CONCRETE MATERIAL 
+(XbAWzD UbD)
+
+"knop"
+(BlZRlWWlI| QlWdWWz| XbWU|A)
+
+"knot"
+% CONCRETE MATERIAL ANIMAL
+(UlDXbRW|)
+
+"knot"
+% CONCRETE MATERIAL 
+(QcGzR)
+
+"knotgrass"
+% MATERIAL PLANT
+(QbG|]sIIw)
+
+"knothead"
+% HUMAN
+(RbRl)
+
+"knothole"
+(WrWW| AsQfW)
+
+"knottiness"
+% CONCRETE MATERIAL 
+(QbG|\sUfWW|)
+
+"knotting"
+(QcGzR)
+
+"knotwork"
+(QcGzRXbWU|A)
+
+"know all"
+% HUMAN
+(RbAU|A^bD UbIbQ)
+
+"know-how"
+% MATERIAL ART
+(X|U|A)
+
+"know-it-all"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbDzD Zg^bDzD UbIbQ)
+
+"knowable"
+(WbI Us W|VDzD W|I)
+
+"knowing"
+% MATERIAL ART
+(WbIQ)
+
+"knowledge"
+% MATERIAL ART
+(X|U|A)
+# ^have full knowledge of A (VERB->ADJ) : [(OBJ A/IzI) (MODS [XbI<ADV>]) WbIAl W|V<VERB>]/Gb
+# ^have knowledge of A (VERB->ADJ) : [(OBJ A/IzI) WbIAl W|V<VERB>]/Gb
+# knowledge industry (NOUN) : X|U|AUbDWfR
+# knowledge society (NOUN) : X|U|AUb^l|
+# to the best of ONE_S knowledge (ADV) : WbDzDRbWg Wz|^bQjD
+# | to ONE_S knowledge (ADV) : WbDzDRbWg Wz|^bQjD
+# without a person's knowledge (ADV) : DbQWgAg WbII|X| WbD^Al
+
+"knuckle"
+% CONCRETE MATERIAL ANIMAL
+(UlDAbIbA AlbDXfI)
+# ^give a rap on the knuckles (VERB) : XsQfAWzIl AbIA|Gb
+# ^get a rap on the knuckles (VERB) : XsQfAWzIl QbXGb
+# knuckle ball (NOUN) : Df[zIRlI
+
+"knuckle-duster"
+(Ul|UXlAbA)
+
+"knucklebone"
+% ANIMAL
+(UlDAbIbA QbG|Sj)
+
+"knucklehead"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbRl)
+
+"knur"
+(WlWW|)
+
+"knurl"
+(QbG|)
+
+"knut"
+% HUMAN
+(QfUXbWW|)
+
+"koa"
+% PLANT
+(Wb[bU|WbWz| W|IXlW)
+
+"koala"
+% CONCRETE ANIMAL MATERIAL 
+([lWbIIb)
+# koala bear (NOUN) : [lWbIIb AlQ
+
+"kobold"
+% ANIMAL
+(XbAWzD QbAs|)
+
+"kodak"
+([lGbA [bWgIb)
+
+"kodak"
+([lGbA [bWgIb)
+
+"koel"
+% ANIMAL
+(SfBsA|Iw)
+
+"kohinoor"
+([lW|DsWsIz)
+
+"kohl"
+([lWsIQfA)
+
+"kohlrabi"
+% CONCRETE MATERIAL PLANT
+(AsAjW WdWRcZs)
+
+"koine"
+% CONCRETE MATERIAL 
+(]rXsD AzI|W|UzQbI)
+
+"kola"
+% CONCRETE ANIMAL MATERIAL 
+([lIIb DbQs)
+
+"kola"
+% CONCRETE ANIMAL MATERIAL 
+([lIIbDbQs)
+
+"kolinsky"
+% ANIMAL
+(U|RgI|Wb GbQR|)
+
+"kolkhoz"
+% MATERIAL PLACE ORGAN
+(X|RGbDDlWXbW)
+
+"kolkhoznik"
+% HUMAN
+(X|RGbD DlWXbWWz| DlGlWXb)
+
+"komsomol"
+% ORGAN
+(AlWUbD ZfWDjD GlWQcW)
+
+"konimeter"
+(QfDX| ZzAXfWA|)
+
+"koniology"
+% ART
+(GcA| WlWjQ^bA)
+
+"konzern"
+([lDZgIzD)
+
+"koodoo"
+% CONCRETE ANIMAL MATERIAL 
+(WfIIsA WjWWdW)
+
+"kook"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Al|Yb)
+
+"koolah"
+% ANIMAL
+([lWbIIb)
+
+"kopec"
+% UNIT
+(UlIjDWz| ^lb]kGbDWs|)
+
+"kopek"
+% CONCRETE UNIT MATERIAL 
+(UlIjDWz| ^lb]kGbDWs|)
+
+"kopje"
+% PLACE
+(XbAWzD WfDGfA)
+
+"koran"
+([lWlIbD)
+
+"korea"
+% PLACE ORGAN
+(^bDAsA)
+# South Korea (NOUN) : DbQ^bD
+# South Korea army (NOUN) : ^bDAsAAsD
+# North Korea (NOUN) : RsA^bD
+# North Korea army (NOUN) : RsA^bDAsD
+# North and South Korea (NOUN) : DbQRsA^bD
+
+"korean"
+% HUMAN
+(^bDAsAW|D)
+# Korean study (NOUN) : ^bDAsA^bA
+# Korean language (NOUN) : ^bDAsAWf
+# the Koreans (NOUN) : ^bDAsA UbIbQGzI
+# Korean Peninsula (NOUN) : ^bDRbDGl
+# two Korean state (NOUN) : DbQRsA^bD
+
+"koreana"
+% ART
+(^bDAsAAlbDAkWz| QsD^fD)
+
+"koreanoloby"
+% ART
+(^bDAsA^bA)
+
+"koruna"
+% CONCRETE UNIT MATERIAL 
+(Zg[lUzIIlRb[|WbWz| ^lb]kGbDWs|)
+
+"kosher"
+% FOOD
+(XfWAjI^bD U|A]sQ)
+
+"kotow"
+(AlGs)
+
+"kotwal"
+% HUMAN
+(AjWZbIUfXbW)
+
+"kotwali"
+% PLACE
+(W|DGlWz| AjWZbIUf)
+
+"koumis"
+([sQ|Uz)
+
+"kourbash"
+(AbXsA ZcY|A)
+
+"kowtow"
+% CONCRETE MATERIAL 
+(AlGs)
+
+"kraal"
+% PLACE
+(ZlDIbA)
+
+"kraft"
+% CONCRETE MATERIAL 
+([zIb]z\z XlWW|)
+
+"krait"
+% CONCRETE ANIMAL MATERIAL 
+(GlAUbWz| W|IXlW)
+
+"kraut"
+% HUMAN
+(GlAW|I UbIbQ)
+
+"kremlin"
+% ORGAN
+(UlIjD XfWRs)
+
+"kremlinologist"
+% HUMAN
+(UlIjDQsDXg XfDQsDAb)
+
+"kremlinology"
+% ART
+(UlIjD^bA)
+
+"kreutzer"
+% PLACE ORGAN
+(WkUDbI GlAW|I)
+
+"krimmer"
+(X|RbWUbDWz| UcB|WdW Ql]|)
+
+"kris"
+(GbDGl)
+
+"krishnaism"
+([zI|UwDf UsWRc)
+
+"kromeski"
+(IfU|WbU|AWz| [zIl[gU)
+
+"kromesky"
+(IfU|WbU|AWz| [zIl[gU)
+
+"krona"
+% CONCRETE UNIT MATERIAL 
+(UzWsgGgDWz| ^lb]kGbDWs|)
+
+"krone"
+% CONCRETE UNIT MATERIAL 
+(GgDQbWb[z)
+
+"kroo"
+% ORGAN
+([zIsWsXlA)
+# kroo boy (NOUN) : [zIsWsXlAWz| XfIQWzDW|
+
+"krooman"
+% HUMAN
+([zIsWs UbIbQ)
+
+"kru"
+% ORGAN
+([zIsWsXlA)
+
+"krypton"
+% CONCRETE MATERIAL 
+([zI|R\lD)
+
+"ksd"
+% HUMAN
+(A|QUfWGlW)
+
+"kshatriya"
+([zUd\zI|Wf)
+
+"kudos"
+% CONCRETE MATERIAL 
+(QjWUfW)
+
+"kufic"
+(AlGc WbIbR|Wb QsDXb)
+
+"kulak"
+% HUMAN
+(WbAX|I RsDlW)
+
+"kultur"
+% ART
+(XfWU|DQsD^lb)
+
+"kulturkampf"
+(QsD^lb\sXcW)
+
+"kumiss"
+([sQ|Uz)
+
+"kumquat"
+% CONCRETE MATERIAL PLANT
+(AzQAwI)
+
+"kumys"
+([sQ|Uz)
+
+"kuomintang"
+% ORGAN
+(AsAQ|DGbW)
+
+"kurbash"
+(AbXsAZcY|A)
+
+"kurd"
+% HUMAN
+([sIzGz UbIbQ)
+
+"kurils"
+% PLACE
+([sWsI|I WjIGl)
+
+"kvetch"
+% HUMAN
+(RsI]jWAb)
+
+"kwawoe"
+(AlbWl|)
+
+"kyanite"
+(DbQXfWUfA)
+
+"kymograph"
+% CONCRETE ANIMAL MATERIAL 
+([bW|Qf AzIc]z)
+
+"kyrie"
+([|I|)
+
+"kys"
+% HUMAN
+(WlIScA GfWZ| A|QWwUfR)

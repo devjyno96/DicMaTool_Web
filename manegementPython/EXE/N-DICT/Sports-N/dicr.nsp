@@ -1,0 +1,163 @@
+"Rangers"
+# Rangers (NOUN) : IgW|DXjUz
+
+"Raptors"
+# Raptors (NOUN) : IcR\fUz
+
+"Rashard Lewis"
+# Rashard Lewis (NOUN) : IgUs|Gz IsW|Uz
+
+"Rasheed Wallace"
+# Rasheed Wallace (NOUN) : IgUs|Gz WsfII|Uz
+
+"Ray Allen"
+# Ray Allen (NOUN) : IgW| WbIIgD
+
+"Red Sox"
+# Red Sox (NOUN) : IgGz UbAUz
+
+"Reds"
+# Reds (NOUN) : IgXz
+
+"Redskin Park"
+# Redskin Park (NOUN) : IgGzUz[|D ]b[z
+
+"Redskins"
+# Redskins (NOUN) : IgGzUz[|DUz
+
+"Reggie Miller"
+# Reggie Miller (NOUN) : IgX| Q|IIf
+
+"Rey Ordonez"
+# Rey Ordonez (NOUN) : IgW| WlGlDgXz
+
+"Rhode Island"
+# Rhode Island (NOUN) : IlGz WbW|IIcDGz
+
+"Rick Dempsy"
+# Rick Dempsy (NOUN) : I|A GgQU|
+
+"Ricky Gutierrez"
+# Ricky Gutierrez (NOUN) : I|[| As\|WgIgXz
+
+"Robinson"
+# Robinson (NOUN) : IlR|DUzD
+
+"Rockets"
+# Rockets (NOUN) : Il[gZz
+
+"Rockies"
+# Rockies (NOUN) : IlA[|Uz
+
+"Rodman"
+# Rodman (NOUN) : IlGzQcD
+
+"Ron Harper"
+# Ron Harper (NOUN) : IlD ^b]f
+
+"Ron Mercer"
+# Ron Mercer (NOUN) : IlD QfUf
+
+"Rookie"
+# Rookie (NOUN) : U|DW|D
+# Rookie of the Year (NOUN) : WlI^cWz| U|DW|D
+
+"Rose Garden"
+# Rose Garden (NOUN) : IlXz AbGzD
+
+"Russell"
+# Russell (NOUN) : IfUgI
+
+"rally"
+# rally (NOUN) : IcII|
+
+"rave"
+# rave (NOUN) : AzAZbD
+
+"rebound"
+# NUM1 rebound (NOUN) : [(NMODS NUM1) I|RbWsDGz<NOUN>]
+# defensive rebound (NOUN) : UsR| I|RbWsDGz
+# offensive rebound (NOUN) : AlWAjA I|RbWsDGz
+# rebound (NOUN) : I|RbWsDGz
+
+"receiver"
+# wide receiver (NOUN) : WlbW|Gz I|U|Rf
+
+"record"
+# best record (NOUN) : Zl|Al A|IlA
+# hitting record (NOUN) : \bAjA A|IlA
+# record overall (NOUN) : XfDZg A|IlA
+
+"regulation"
+# regulation (NOUN) : XfWAw U|AbD
+
+"relief"
+# relief (NOUN) : AsWsfD
+
+"reliever"
+# reliever (NOUN) : AsWsfD\sUs
+
+"replay"
+# replay (NOUN) : I|]zIIgW|
+
+"reserve"
+# reserve (NOUN) : WkR|
+
+"rest"
+# NUM1 day rest (NOUN) : [(NMODS [(NMODS NUM1) W|I<NOUN>]) ^wU|A<NOUN>]
+
+"revenue"
+# revenue (NOUN) : ZlWUsW|R
+
+"reverse"
+# reverse (NOUN) : WjAXfD
+
+"right-hander"
+# right-hander (NOUN) : WlIzDUlDXbRW|
+
+"rim"
+# rim (NOUN) : I|Q
+
+"road"
+# road (NOUN) : UsD^l|
+# road records (NOUN) : WsfDXfWA|IlA
+
+"rookie"
+# rookie (NOUN) : U|DW|D
+
+"room"
+# weight rood (NOUN) : WsgW|\z IsQ
+
+"rotation"
+# rotation (NOUN) : Il\gW|UjD
+# starting rotation (NOUN) : UfDRbI Il\gW|UjD
+
+"rough"
+# rough (NOUN) : If]z
+
+"round"
+# NUM1 {+ORDNUM} round (NOUN) : [(NMODS NUM1) IbWsDGz<NOUN>]
+# bogey-free round (NOUN) : RlA|WfRUDzD IbWsDGz
+# final round (NOUN) : Zl|XlW IbWsDGz
+# practice round (NOUN) : WjDUzR IbWsDGz
+# round (NOUN) : IbWsDGz
+
+"rout"
+# rout (NOUN) : WlbD]c
+
+"row"
+# in a row $ (ADV) : WjDUlAWzIl
+
+"run"
+# NUM1 run (NOUN) : [(NMODS NUM1) XfQ<NOUN>]
+# earned run (NOUN) : XbZcAXfQ
+# go-ahead run (NOUN) : Wb]UfD GzAXfQ
+# home run (NOUN) : ^lQIfD
+# impressive run (NOUN) : W|DUbWXfAW|D WsDWjW
+# run (NOUN) : IfD
+# solo home run (NOUN) : UlIIl ^lQIfD
+# the tying and go-ahead run (NOUN) : GlWXfQAlb WjAXfD GzAXfQ
+# unearned run (NOUN) : R|XbZcAXfQ
+
+"running"
+# running back (NOUN) : IfD|WRcA

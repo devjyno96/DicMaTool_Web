@@ -1,0 +1,448 @@
+
+"radial"
+# radial loop cable  :  RbWUb Is]z [gW|RzI
+
+"rational"
+# rational number  :  WwI|Us
+
+"raw"
+# raw data  :  WsfDU| XbIr
+# raw material  :  WsfDXbXc
+# raw materials inventory  :  WsfDXbXc XcAl
+
+"re-creatable"
+# re-creatable data base  :  XcXbAUfW AbDzW GgW|\b RgW|Uz
+
+"read-only"
+# read-only access  :  W|IAA| XfDWrW XfRAzD
+# read-only access mode  :  W|IAA| XfDWrW XfRAzD QlGz
+# read-only intent  :  W|IAA| XfDWrW Wz|Gl
+# read-only memory  :  W|IAA| XfDWrW A|WfAUlXb
+# read-only storage  :  W|IAA| XfDWrW A|WfA XbWZ|
+# read-only system residence disk  :  W|IAA| XfDWrW
+# Read-Only subpool  :  W|IAA| XfDWrW RsUlA]sI
+
+"readable"
+# readable cluster  :  W|IAA| AbDzW^bD [zIIfUz\f
+
+"ready"
+# ready  :  XsDR|
+# ready condition  :  XbAGlW AbDzW UbW\c
+# ready queue  :  XsDR| GcA|^cWIjI
+# ready task  :  XsDR| \bUz[z
+
+"real"
+# real  :  U|IXg
+# real address  :  U|IXg XsUl
+# real address area  :  U|IXg XsUl WjWWjA
+# real constant  :  U|I UbWUs
+# real cylinder  :  U|IXg U|II|DGf
+# real DASD  :  U|IXg DASD
+# real machine  :  U|IXg A|Ak
+# real memory  :  U|IXg A|WfAXbWZ|
+# real mode  :  U|IXg QlGz
+# real name  :  U|IXgQjW
+# real network address  :  U|IXg Dg\zWsf[z XsUl
+# real number  :  U|IUs
+# real partition  :  U|IXg As^l|A
+# real storage  :  U|IXg A|WfAXbWZ|
+# Real Storage Manager  :  U|IXg A|WfA WjWWjA AlbDI| ]zIlAzIcQ
+# Real Storage Page Table  :  U|IXg A|WfA WjWWjA ]gW|X| \gW|RzI
+# real symmetric matrix  :  U|I GcZ|W ^cWIjI
+# real system resource  :  U|IXg U|Uz\gQ XbWsfD
+# real unit address  :  U|IXg XbWZ| XsUl
+# real variable  :  U|IUs RjDUs
+
+"record"
+# record added  :  ZsAb Ig[lGz
+# record address file  :  Ig[lGz XsUl ]bW|I
+# record area  :  Ig[lGz WjWWjA
+# record available  :  AbWrW Ig[lGz
+# record block  :  Ig[lGz RzIIlA
+# record chain  :  Ig[lGz WjDUlc
+# record chain validation  :  Ig[lGz WjDUlc ^lbAW|D
+# record changed  :  RjDAjW Ig[lGz
+# Record Checking  :  Ig[lGz AfQUb
+# record class  :  Ig[lGz GzWAzR
+# record code  :  Ig[lGz [lGz
+# record control byte  :  Ig[lGz XgWf RbW|\z
+# record count  :  Ig[lGz AkUs
+# Record Counter  :  Ig[lGz AkUsA|
+# record data transmission  :  Ig[lGz XbIr XfDUlW
+# record definition  :  Ig[lGz XfWWz|
+# Record Definition Field  :  Ig[lGz XfWWz| ]|IGz
+# record definition word  :  Ig[lGz XfWWz|Wf
+# record description  :  Ig[lGz UfIQjW
+# record description entry  :  Ig[lGz UfIQjW ^bWQlA
+# record design  :  Ig[lGz UfIAk
+# record exit  :  Ig[lGz ZsIAs
+# record file  :  A|IlA ]bW|I
+# record format  : Ig[lGz WdWU|A
+# record format definition  :  Ig[lGz ^jWU|A XfWWz|
+# record format description  :  Ig[lGz ^jWU|A UfIQjW
+# record format level IDentifier  :  Ig[lGz ^jWU|A UsXsD ID
+# record frame  :  Ig[lGz ]zIgW|Q
+# record gap  :  Ig[lGz AbDAjA
+# record I/O  :  Ig[lGz I/O
+# record ID  :  Ig[lGz ID
+# record ID code  :  Ig[lGz ID [lGz
+# record ID item  :  Ig[lGz ID ^bWQlA
+# record identification code  :  Ig[lGz U|ARjI [lGz
+# record IDentification code  :  Ig[lGz ID [lGz
+# record identifier  :  Ig[lGz U|ARjIXb
+# record identifying indicator  :  Ig[lGz U|ARjI ]rU|
+# Record Insert  :  Ig[lGz UbRW|RA|As
+# record key  :  Ig[lGz [|
+# record layout  :  Ig[lGz UfIAk WdWU|A
+# record length  :  Ig[lGz A|IW|
+# record length indicator  :  Ig[lGz A|IW| ]rU|
+# record length item  :  Ig[lGz A|IW| ^bWQlA
+# record level  :  Ig[lGz UsXsD
+# record level specification  :  Ig[lGz UsXsD Uz]gA
+# record locks  :  Ig[lGz XbQAzQ
+# record mark  :  Ig[lGz ]rU|
+# record mode  :  Ig[lGz RbWU|A
+# record name  :  Ig[lGzQjW
+# record number  :  Ig[lGz RfD^l
+# record operation  :  A|IlA XlXbA
+# record oraganization  :  Ig[lGz AsXl
+# record overflow  :  Ig[lGz DfQZ|Q
+# record prologue  :  Ig[lGz UfIQjW
+# record sampling prompt  :  Ig[lGz ]rRlD ZsZsI ]zIlQ\z
+# record selection  :  Ig[lGz UfD\cA
+# Record Separator  :  Ig[lGz RsDI|Xb
+# record specification  :  Ig[lGz QjWUg
+# record specification structure  :  Ig[lGz QjWUg AsXl
+# record specifics  :  Ig[lGz \zAXfW Ub^bW
+# record structure  :  Ig[lGz AsXl
+# record suspend  :  W|IU|XsWGbD A|IlA
+# record type  :  Ig[lGz ^jW\c
+
+"recoverable"
+# recoverable  :  ^l|RlA AbDzW
+# recoverable ABEND  :  ^l|RlA AbDzW ABEND
+# recoverable catalog  :  ^l|RlA AbDzW [b\bIIlAz
+# recoverable error  :  ^l|RlA AbDzW WlIw
+# recoverable resources  :  RlAAs AbDzW XbWsfD
+# recoverable storage pool  :  ^l|RlA AbDzW A|WfAWjWWjA ]sI
+# recoverable transaction  :  ^l|RlA AbDzW AfIc
+
+"recursive"
+# recursive  :  RbDRlA
+# recursive application call  :  RbDRlA XfAWrWWfRQs ^lZsI
+# recursive function  :  UsD^lbD A|DzW
+# recursive procedure  :  UsD^lbD XfIZb
+# recursive process  :  RbDRlA ZfI|
+# recursive program  :  UsD^lbD ]zIlAzIcQ
+# recursive routine  :  UsD^lbD Is\|D
+# recursive routine call  :  UsD^lbD Is\|D ^lZsI
+# recursive subroutine  :  UsD^lbD RsUlAIs\|D
+
+"redundant"
+# redundant data  :  WjRsD XbIr
+
+"reenterable"
+# reenterable  :  XcX|DW|R AbDzW
+# reenterable load module  :  XcX|DW|R AbDzW IlGz QlGwI
+# reenterable program  :  XcX|DW|R AbDzW ]zIlAzIcQ
+# reenterable routine  :  XcX|DW|R AbDzW Is\|D
+# reenterable subroutine  :  XcX|DW|R AbDzW RsUlAIs\|D
+
+"referential"
+# referential constraint  : ZbQXl XgWdA XlAfD
+# referential integrity  : ZbQXl QsAjIUfW
+# referential structure  : ZbQXl AsXl
+
+"reflective"
+# reflective mark  :  RbDUb ]rU|
+# reflective marker  :  RbDUb Qb[f
+
+"regional"
+# regional address  :  WjWWjADc XsUl
+# regional center  :  ZlWAlbI X|AsA
+
+"relational"
+# relational character  :  AlbDAk Rs^l
+# relational checking  :  AlbDAk AfQUb
+# relational command processor  :  AlbDAk^jW QjWIjW ZfI| ]zIlAzIcQ
+# relational condition  :  AlbDAk XlAfD
+# relational data base  :  AlbDAk GgW|\b RgW|Uz
+# relational data base support  :  AlbDAk GgW|\b RgW|Uz X|WsfD
+# relational data model  : AlbDAk GgW|\b QlGgI
+# relational data extract feature  :  AlbDAk XbIr ZsZsI A|DzW
+# relational database  :  AlbDAk^jW GgW|\b RgW|Uz
+# relational database management system  : AlbDAk GgW|\b RgW|Uz AlbDI| U|Uz\gQ
+# relational expression  : AlbDAkU|A
+# relational extract manager  :  AlbDAk ZsZsI AlbDI| ]zIlAzIcQ
+# relational language  : AlbDAk WfDWf
+# relational model  : AlbDAk QlGgI
+# relational operator  : AlbDAk WjDUbDXb
+# relational table  : AlbDAk]r
+
+"relative"
+# relative address  :  UbWGc XsUl
+# relative addressing  :  UbWGc XsUl X|XfW
+# relative block  :  UbWGc RzIIlA
+# relative block address  :  UbWGc RzIIlA XsUl
+# Relative Byte Address  :  UbWGc RbW|\z XsUl
+# relative coding  :  UbWGc [lG|W
+# relative command  :  UbWGc QjWIjW
+# relative component  :  UbWGc Rs]sQ
+# relative coordinate  :  UbWGc Xlb]r
+# relative data  :  UbWGc XbIr
+# relative data set  :  UbWGc XbIr Ug\z
+# relative end position  :  UbWGc Bz\ Ws|Z|
+# relative error  :  UbWGc WlIw
+# relative file  :  UbWGc ]bW|I
+# relative file number  :  UbWGc ]bW|I RfD^l
+# relative key  :  UbWGc [|
+# relative line number  :  UbWGc ^l|UfD RfD^l
+# relative order  :  UbWGc QjWIjW
+# relative organization  :  UbWGcXfA AsUfW
+# relative path name  :  UbWGc AjWIl QjW
+# relative pattern  :  UbWGc ]c\fD
+# relative positioning  :  UbWGc Ws|Z| X|XfW
+# relative record data set  :  UbWGc Ig[lGz XbIr Ug\z
+# relative record number  :  UbWGc Ig[lGz RfD^l
+# Relative Sequential Access Method  :  UbWGc UsDZb XfRAzD RbWU|A
+# Relative Sequential Data Set  :  UbWGc UsDZb XbIr Ug\z
+# relative size pie  :  UbWGc WsfD^jW Gl]r
+# relative track address  :  UbWGc \zIcA XsUl
+# relative transmission level  :  UbWGc XfDUlW UsXsD
+# relative vector  :  UbWGc RgA\f
+
+"reliable"
+# reliable  :  U|DIl|^bI Us W|VDzD
+# reliable scratch tape  :  W|UbWWfRUDzD Uz[zIcZ| \gW|]z
+
+"relocatable"
+# relocatable  :  XcRcZ| AbDzW
+# relocatable address  :  XcRcZ| AbDzW XsUl
+# relocatable area  :  XcRcZ| AbDzW WjWWjA
+# relocatable expression  :  XcRcZ| AbDzW ]r^jDU|A
+# relocatable library  :  XcRcZ| AbDzW IbW|RzIfI|
+# relocatable library module  : XcRcZ| AbDzW IbW|RzIfI| QlGwI
+# relocatable name  :  XcRcZ| AbDzW W|IzQ
+# relocatable program  :  XcRcZ| AbDzW ]zIlAzIcQ
+# relocatable symbol  :  XcRcZ| AbDzW A|^l
+# relocatable term  :  XcRcZ| AbDzW ^bWQlA
+
+"remaining"
+# remaining hours  :  XbDWj U|AbD
+# remaining sales percent  :  ]bDQc XbDAlWwI
+
+"remote"
+# remote  :  WsfDAjA
+# remote access  :  WsfDAjA XfRAzD
+# Remote Access Computing System  :  WsfDAjA XfRAzD [fQ]w\|W U|Uz\gQ
+# remote adapter  :  WsfDAjA XfRUlAA|
+# remote adapter address  :  WsfDAjA XfRUlAA| XsUl
+# remote attachment  :  WsfDAjA XfRUlA
+# remote batch entry  :  WsfDAjA W|IAlbI ZfI| W|RIjA
+# remote batch job  :  WsfDAjA W|IAlbI ZfI| XbAWfR
+# remote batch processing  :  WsfDAjA W|IAlbI ZfI|
+# remote batch service  :  WsfDAjA W|IAlbI ZfI| UfR|Uz
+# remote batch system  :  WsfDAjA W|IAlbI ZfI| U|Uz\gQ
+# Remote Change Management Server  :  WsfDAjA RjDAjW AlbDI| UfRf
+# remote communication  :  WsfDAjA \lWU|D
+# Remote Communication Unit  :  WsfDAjA \lWU|D XbWZ|
+# remote communications controller  :  WsfDAjA \lWU|D XgWf XbWZ|
+# remote communications unit  :  WsfDAjA \lWU|D XbWZ|
+# remote computer  :  WsfDAjA [fQ]w\f
+# remote computing  :  WsfDAjA AkUbD ZfI|
+# remote computing service  :  WsfDAjA AkUbD ZfI| UfR|Uz
+# remote computing system  :  WsfDAjA AkUbD ZfI| U|Uz\gQ
+# remote console  :  WsfDAjA [lDUlI
+# remote console logon procedure  :  WsfDAjA [lDUlI IlAzWlD XfIZb
+# remote console problem  :  WsfDAjA [lDUlI QsDXg
+# remote control  :  WsfDAjA XgWf
+# remote controller  :  WsfDAjA XgWfA|
+# remote customer password  :  WsfDAjA AlAcA WbQ^l
+# remote data acquisition and control station  :  WsfDAjA XbIr UsX|R Q|Z XgWfXbWZ|
+# remote data base  :  WsfDAjA GgW|\b RgW|Uz
+# remote data processing  :  WsfDAjA XbIr ZfI|
+# remote destination  :  WsfDAjA ZsIIjAZf
+# remote device  :  WsfDAjA XbWZ|
+# Remote Diskette Drive Attachment  :  WsfDAjA G|Uz[gU AsGlWXbWZ| XfRUlAA|As
+# remote display station  :  WsfDAjA ]rU|XbWZ|
+# remote entry  :  WsfDAjA W|RIjA
+# Remote Entry Service  :  WsfDAjA W|RIjA UfR|Uz
+# remote equipment  :  WsfDAjA XbWR|
+# remote file  :  WsfDAjA ]bW|I
+# remote format item  :  WsfDAjA WdWU|A ^bWQlA
+# remote host connection  :  WsfDAjA ^lUz\z WjDAjI
+# remote identifier  :  WsfDAjA U|ARjIXb
+# Remote Information Retrieval and Management System DOS/VS  :  DOS/VS WsfDAjA XfWRl AfQUcA AlbDI| U|Uz\gQ
+# Remote Information Retrieval and Management System OS/VS  :  OS/VS WsfDAjA XfWRl AfQUcA AlbDI| U|Uz\gQ
+# remote Initial Program Load  :  WsfDAjA ZlA| ]zIlAzIcQ IlGz
+# Remote Inquiry Unit  :  WsfDAjA Xl^l| XbWZ|
+# remote IPL  :  WsfDAjA IPL
+# remote IPL requester  :  WsfDAjA IPL I|[sgUz\f
+# remote IPL server  :  WsfDAjA IPL UfRf
+# Remote Job Entry Facility  :  WsfDAjA XbAWfR W|RIjA A|DzW
+# Remote Job Entry Feature  :  WsfDAjA XbAWfR W|RIjA AbDzW A|DzW
+# Remote Job Entry  :  WsfDAjA XbAWfR W|RIjA
+# remote key  :  WsfDAjA [|
+# remote location  :  WsfDAjAX|
+# remote location name  :  WsfDAjAX|QjW
+# remote location session  :  WsfDAjAX| UgUjD
+# Remote Loop Adapter  :  WsfDAjA Is]z XfRUlAA|
+# remote loopback test  :  WsfDAjA Is]z RbD^lbD U|^fQ
+# remote machine  :  WsfDAjA A|Ak
+# remote maintenance  :  WsfDAjA RlUsWwX|
+# remote management  :  WsfDAjA AlbDI|
+# Remote management utility Control Block  :  WsfDAjA AlbDI| Ww\|II|\| XgWf RzIIlA
+# remote meeting  :  WsfDAjA ^l|Wz|
+# Remote Multiplexer  :  WsfDAjA QfI\|]zIIgAUf
+# remote name server  :  WsfDAjAQjW UfRf
+# remote network control program  :  WsfDAjA Dg\zWsf[z XgWf ]zIlAzIcQ
+# remote operation  :  WsfDAjA XlXbA
+# Remote Operation/Support Facility  :  WsfDAjA XlXbA/X|WsfD UfIR|
+# remote operator console facility  :  WsfDAjA XlXbAWsfD [lDUlI A|DzW
+# remote power  :  WsfDAjA XfDWsfD
+# Remote Power and Restart  :  WsfDAjA XfDIjA XgWf Q|Z XcU|GlW XbWZ|
+# Remote Power Off  :  WsfDAjA XfDWsfD XfIGbD
+# Remote PrintManager :  WsfDAjA W|DUlcAlbDI| ]zIlAzIcQ
+# Remote Program Loader  :  WsfDAjA ]zIlAzIcQ IlGf
+# remote select  :  WsfDAjA UfD\cA
+# remote server  :  WsfDAjA UfRf
+# remote service distribution option  :  WsfDAjA UfR|Uz RcRsD A|DzW
+# remote site  :  WsfDAjAX|
+# remote sloop adapter  :  WsfDAjA UzIIs]z XfRUlAA|
+# Remote Spooling Communications Subsystem  :  WsfDAjA Uz]sII|W \lWU|D RsUlAU|Uz\gQ
+# remote spooling communications subsystem:  :  WsfDAjA Uz]sII|W \lWU|D RsUlA U|Uz\gQ
+# remote station  :  WsfDAjAX|AsA
+# Remote Support Center  :  WsfDAjA X|WsfD A|As
+# Remote Support Facility  :  WsfDAjA X|WsfD A|DzW
+# Remote Support Line/Clock Adapter  :  WsfDAjA X|WsfD ^l|UfD/U|AbAA|As XfRUlAA|
+# Remote Support Network  :  WsfDAjA X|WsfD Dg\zWsf[z
+# Remote Switch Attachment  :  WsfDAjA UzWs|Z| XfRUlAA|As
+# remote system  :  WsfDAjA  U|Uz\gQ
+# Remote system console  :  WsfDAjA U|Uz\gQ [lDUlI
+# remote system name  :  WsfDAjAX| U|Uz\gQQjW
+# remote system request  :  WsfDAjA U|Uz\gQ WrAs
+# REmote Technical Assistance  :  WsfDAjA A|UsI X|WsfD XfWRlQbW
+# Remote Technical Assistance and Information Network  :  WsfDAjA A|UsI X|DGbD XfWRl Dg\zWsf[z
+# remote terminal  :  WsfDAjA GbDQbIA|
+# remote terminal access method  :  WsfDAjA GbDQbIA| XfRAzD RbWRfR
+# Remote Terminal Access Method  :  WsfDAjA GbDQbIA| XfRAzD RbWRfR
+# remote terminal command  :  WsfDAjA GbDQbI QjWIjW
+# remote transaction  :  WsfDAjA AfIc
+# Remote Two Channel Switch Control-Additional  :  WsfDAjA 2ZcDfI UzWs|Z| ^lbAXbW XgWfA|
+# Remote Two Channel Switch Control-Basic  :  WsfDAjA 2ZcDfI UzWs|Z| A|RlD XgWfA|
+# remote unit  :  WsfDAjA XbWZ|
+# remote user  :  WsfDAjAX| UbWrWXb
+# remote work station  :  WsfDAjAX| Wsf[zUz\gW|UjD
+# remote work station address  :  WsfDAjAX| Wsf[zUz\gW|UjD XsUl
+# remote 3270  :  WsfDAjA 3270
+
+"repairable"
+# repairable  :  RlAWsfDAbDzW
+# repairable data base  :  RlAWsfD AbDzW GgW|\b RgW|Uz
+
+"repeatable"
+# repeatable read  :  RbDRlA AbDzW W|IAA|
+
+"repetitive"
+# repetitive addressing  :  RbDRlA XsUlX|XfW
+# repetitive loop  :  RbDRlA Is]z
+# repetitive specification  :  RbDRlA X|XfW
+
+"replaceable"
+# replaceable  :  GcZg AbDzW^bD
+# replaceable module  :  GcZg AbDzW^bD QlGwI
+# replaceable parameter  :  GcZgAbDzW QcAcRjDUs
+
+"residual"
+# residual  :  XbDWj
+# residual address table  :  XbDWj XsUl]r
+# residual byte count  :  XbDWj RbW|\z AkUbDUs
+# residual check  :  DbQfX| AfQUb
+# residual error ratio  :  XbDWj WlIwWwI
+# residual standard deviation  :  XbDWj ]rXsD ]jDZb
+# residual status block  :  XbDWj UbW\c RzIIlA
+
+"responsible"
+# responsible for maintaining  :  RlUs WwX| ZcAW|Q
+
+"return"
+# return code  : RlAAs| [lGz
+# return code register  : RlAAs| [lGz IgX|Uz\f
+# return indicator  : RlAAs| ]rU|XbWZ|
+# Return Indicator  : RlAAs| ]rU|A|
+# return key  : return [|
+# return parameter  : RlAAs| QcAcRjDUs
+# return point  : RlAAs|XfQ
+# return point address  : RlAAs|XfQ XsUl
+
+"reusable"
+# reusable  :  XcUbWrW AbDzW^bD
+# reusable data set  :  XcUbWrW AbDzW XbIr Ug\z
+# reusable file  :  XcUbWrW AbDzW ]bW|I
+# reusable program  :  XcUbWrW AbDzW ]zIlAzIcQ
+# reusable routine  :  XcUbWrW AbDzW Is\|D
+
+"reverse"
+# reverse  :  XfD^lbD/Zs|Ul
+# reverse break  :  WjA XsWGbD
+# reverse channel  :  WjA RbW^dW ZcDfI
+# reverse charging  :  UsU|DXb RsGbQ
+# reverse image  :  RbDXfD WjWUbW
+# reverse polish notation  :  ^sWs| ]rA|RfR
+# reverse routing  :  WjA XbAWfR AjWIl X|XfW
+# reverse slant  :  WjA UbUfD
+# reverse time analysis  :  WjAU|AbD RsDUfA
+# reverse video  :  RbDXfD WjWUbW
+
+"reversible"
+# reversible counter  :  AbWjA AkUsA|
+
+"revisable"
+# revisable form text  :  UsXfW AbDzW WsfDQsD
+
+"right"
+# right  :  WlIzDYlA
+# right adjust  :  WlIzDYlA A|XsD XlXfW
+# right arrow  :  WlIzDYlA W|GlW [|
+# right boundary  :  WlIzDYlA AjWAk
+# right hand arrow  :  WlIzDYlA ^lbUbI]r
+# right justified  :  WlIzDYlA XfWIjI
+# right margin  :  WlIzDYlA WjRcA
+# right most  :  AbXbW WlIzDYlA
+# right parenthesis  :  WlIzDYlA AlbI^l
+
+"rotational"
+# rotational delay  :  ^l|XfD \bQUcA X|WjD
+# Rotational Position Sensing  :  ^l|XfDU|A Ws|Z| AbQX|A|As
+
+"round"
+# round  :  XbI|Us ZsAWdA ZfI|
+# round off  :  RbDWlII|Q
+# round robin scheduling  :  IbWsDGz IlR|D Uz[gXwII|W
+# round up  :  RbDWlII|Q
+
+"routine"
+
+# routine : Is\|DWz|
+
+"routing"
+# routing by destination  :  QlAXfAX|RjI AjWIlX|XfW
+# routing by key  :  [|RjI AjWIlX|XfW
+# routing chain validation  :  AlWXfWUf WjDAjI ^lbAW|D
+# routing code  :  AjWIl X|XfW [lGz
+# routing data  :  AjWIl X|XfW XbIr
+# routing definition manager  :  AlWXfW XfWWz| AlbDI| ]zIlAzIcQ
+# routing description  :  AlWXfWUf UfIQjW
+# routing effectivity  :  AlWXfW ^rWwI
+# routing entry  :  AjWIl X|XfW ^bWQlA
+# routing extract  :  AlWXfW RbIZsg
+# routing file  :  AlWXfWUf ]bW|I
+# routing indicator  :  AjWIl ]rU|XbWZ|
+# routing operation description  :  AlWXfWUf XbAWfRQjW
+# routing path  :  X|XfW AjWIl
+# routing qualifier  :  AjWIlX|XfW AwXfWXb
+# routing step  :  AjWIl X|XfW GbDAk
+# routing table  :  AjWIl X|XfW]r
+
+"row-level"
+# row-level (ADJ) : DbXWzD IgRgIWz|

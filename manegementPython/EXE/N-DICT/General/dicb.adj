@@ -1,0 +1,3271 @@
+"Babylonian"
+ar (RbR|IIlD|WbWz|)
+ap (RbR|IIlD|WbW|Gb)
+
+"Baconian"
+ar (RgW|[fDWz|)
+ap (RgW|[fDW|Gb)
+
+"Baltic"
+ar (RbI\|AWz|)
+ap (RbI\|AW|Gb)
+# the Baltic Republic (NOUN) : RbI\|A AlW^lbAsA
+# the Baltic States (NOUN) : RbI\|A XgAsA
+
+"Basque"
+ar (RbUz[z UbIbQWz|)
+ap (RbUz[z UbIbQW|Gb)
+
+"Bavarian"
+ar (RbRbI|WbWz|)
+ap (RbRbI|WbW|Gb)
+
+"Belgian"
+ar (RgIA|WgWz|)
+ap (RgIA|WgW|Gb)
+
+"Belgic"
+ar (RgIA|WgWz|)
+ap (RgIA|WgW|Gb)
+
+"Britannia"
+ar (WjWAsAWz|)
+ap (WjWAsAW|Gb)
+
+"British"
+ar (WjWAsAWz|)
+ap (WjWAsAW|Gb)
+# British Academy (NOUN) : GcWjWAsA^bAUbWsfD
+# British America (NOUN) : WbQgI|[b GcIwA
+# British Association (NOUN) : GcWjWAsA ^bAUsI ^jR^l|
+# British Columbia (NOUN) : [cDbGb UfDbQRsWz| Xs
+# British Empire (NOUN) : GcWjWXgAsA
+# British English (NOUN) : WjWAsA WjWWf
+# British Museum (NOUN) : GcWjWRbAQsIAlbD
+# British wool (NOUN) : \fIW| A|D WdWQl
+# the British Isles (NOUN) : WjWAsA XgGl
+
+"Buddhist"
+ar (RsIArGlWz|)
+ap (RsIArGlW|Gb)
+
+"Bulgar"
+ar (RsIAbI|WbWz|)
+ap (RsIAbI|WbW|Gb)
+
+"Bulgarian"
+ar (RsIAbI|WbWz|)
+ap (RsIAbI|WbW|Gb)
+
+"Byronian"
+ar (RbW|IlD]sWWz|)
+ap (RbW|IlD]sWW|Gb)
+
+"Byronic"
+ar (RbW|IlD]sWWz|)
+ap (RbW|IlD]sWW|Gb)
+
+"Byzantian"
+ar (R|XbD\|WsQWz|)
+ap (R|XbD\|WsQW|Gb)
+# Byzantime architecture (NOUN) : R|XbD\|DU|A AfDZsA
+# Byzantine school (NOUN) : R|XbD\|D ]b
+# the Byzantine Church (NOUN) : AzI|W|UzAr
+# the Byzantine Empire (NOUN) : GlWIlQb XgAsA
+
+"Byzantine"
+ar (R|XbD\|WsQWz|)
+ap (R|XbD\|WsQW|Gb)
+# Byzantime architecture (NOUN) : R|XbD\|DU|A AfDZsA
+# Byzantine school (NOUN) : R|XbD\|D ]b
+# the Byzantine Church (NOUN) : AzI|W|UzAr
+# the Byzantine Empire (NOUN) : GlWIlQb XgAsA
+
+"Byzantinesque"
+ar (R|XbDZ|WsQ ]sWWz|)
+ap (R|XbDZ|WsQ ]sWW|Gb)
+
+"babbling"
+ar (XlXbIXlXbI X|BfIW|DzD)
+ap (XlXbIXlXbI X|BfIW|Gb:ADJ->VERB)
+
+"babyish"
+ar (WfI|DWc Ab\WzD)
+ap (WfI|DWc Ab\Gb)
+
+"baccantic"
+ar (RbA[fUz UsWRcWz|)
+ap (RbA[fUz UsWRcW|Gb)
+
+"baccate"
+ar (XbWAlb QlWdWWz|)
+ap (XbWAlb QlWdWW|Gb)
+
+"bacchanal"
+ar (RbA[fUzWz|)
+ap (RbA[fUzW|Gb)
+
+"bacchic"
+ar (RbA[fUzWz|)
+ap (RbA[fUzW|Gb)
+
+"bacciferous"
+ar (XbWAlbIzI QcXDzD)
+ap (XbWAlbIzI QcXGb:ADJ->VERB)
+
+"bacilliform"
+ar (XbAWzD QbAGc QlWdWWz|)
+ap (XbAWzD QbAGc QlWdWW|Gb)
+
+"back"
+ar (Gs|YlAWz|)
+* Gs|YlAW|Gb (bench XlbUfA) (door QsD) (entrance QsD) (garden HzI) (room RbW) (street AfI|)
+* Wl|X|Gb (road A|I) (country U|AlI)
+* QsAGb (magazine XbRX|) (newspaper U|DQsD) (file UfIwZfI) (mail Ws]jDQsI)
+* Q|II|Gb:ADJ->VERB (pay RlWAzR) (salary RlWAzR) (rent X|RUg)
+* AfBsIlWz| (action ^cWGlW) (current ^zIzQ)
+ap (Gs|YlAW|Gb)
+
+# back action (NOUN) : RbDGlW
+# back consonant (NOUN) : ^sUfI XbWzQ
+# back current (NOUN) : WjAIw
+# || back in A (ADV) : (MODS [(ADJUNCT A/Wg) GlIWbWlbUf<ADV>])
+# back teeth (NOUN) : WfAzQD|
+# back view (NOUN) : Gs|UQlUzR
+# back vowel (NOUN)  : ^sUfI QlWzQ
+# ^be back | (VERB) : GlIWbWlGb
+# ^be back home | (VERB) : X|RWzIl GlIWbWlGb
+# ^be back in the present | (VERB) : ^jDU|IIl GlIWbWlGb
+# ^be back on A (VERB) : [(ADJUNCT A/Wg) GlIWbWl<VERB>]/Gb
+# ^give a back answer (VERB) : QbIGcGbR^bGb
+# ^get back home (VERB) : X|RWzIl GlIWbAbGb
+# ^take the back track (VERB) : GlIWbAbGb
+
+"back-to-back"
+ar (GzWWzI QbXGcD)
+* WjDUlAXfAW|Gb (award UbW) (season U|XzD)
+ap (GzWWzI QbXGcGb)
+
+"backboned"
+ar (GzWSjAb W|VDzD)
+ap (GzWSjAb W|VGb)
+
+"backbreaking"
+ar (^|QW| GzDzD)
+ap (^|QW| GzIGb:ADJ->VERB)
+
+"backed"
+ar (GzWWzI GcD)
+ap (GzWWzI GcGb)
+
+"backhand"
+ar (RcA^cDGzWz|)
+ap (RcA^cDGzW|Gb)
+
+"backless"
+ar (GzWW| WfRUDzD)
+ap (GzWW| WfRUGb)
+
+"backmost"
+ar (QcD Gs|Wz|)
+ap (QcD Gs|W|Gb)
+
+"backstage"
+ar (QsGc Gs|Wg W|VDzD)
+ap (QsGc Gs|Wg W|VGb)
+
+"backstair"
+ar (Gs|ZzWAkWz|)
+ap (Gs|ZzWAkW|Gb)
+
+"backup"
+ar (WkR|Wz|)
+ap (WkR|W|Gb)
+
+"backward"
+ar (Gs|YlAWz|)
+* Gs|X|Gb:ADJ->VERB (student ^bAUcW) (child WbW|) (man UbIbQ)
+* DzXGb:ADJ->VERB (season AkXfI) (spring RlQ) (summer WjIzQ) (fall AbWzI) (winter AjWsI)
+* UsXsRWf^bGb:ADJ->VERB (girl UlDj)
+ap (Gs|YlAW|Gb)
+
+
+"bacony"
+ar (HsWHsW^bAg UbIW| Y|D)
+ap (HsWHsW^bAg UbIW| Y|Gb)
+# bacony liver (NOUN) : R|GcUfW AbDXbW AjW^lb
+
+"bacterial"
+ar (RbA\gI|WbWz|)
+ap (RbA\gI|WbW|Gb)
+
+"bactericidal"
+ar (UbIAwDWz|)
+ap (UbIAwDW|Gb)
+
+"bacteriological"
+ar (UgAwD^bAWz|)
+ap (UgAwD^bAW|Gb)
+
+"bacteroid"
+ar (UgAwD QlWdWWz|)
+ap (UgAwD QlWdWW|Gb)
+
+"bad"
+ar (DbSzD)
+* AlWdA^bGb (weakness WdAXfQ)
+* DbSzGb (weather DbIV|) (back GzW) (side QjD)
+* RsIIdW^bGb (lighting XlQjW) 
+* RsI[lc^bGb (smell DcQUc) (taste QbU)
+* UbW^bGb (food WzQU|A)
+* U|Q^bGb (storm ]lA]sW) (cold AbQA|)
+* WbAUfWW|Gb (disease X|IRjW)
+* \zII|Gb (spelling ZfIXb)
+ap (DbSzGb)
+
+# ^act in bad faith (VERB) : UfWU|IZ| QlU^bD X|UWzI ^bGb
+# bad blood (NOUN) : WbAAbQ
+# bad debt (NOUN) : WbAUfW GcRsAzQ
+# bad disease (NOUN) : UfWRjW
+# bad for A (ADJ) : [(ADJUNCT A/WgAg) DbSz<ADJ>]/Gb
+# bad egg (NOUN) : VfAWzD GbIAdI
+# bad hat (NOUN) : ]sQ^cWW| DbSzD DbQXb
+# bad language (NOUN) : WrAUfI
+# bad times (NOUN) : RsIAjWA|
+# ^be bad for health | (VERB->ADJ) : AfDAbWWg DbSzGb
+# ^feel bad | (VERB) : A|RsDW| WfDYbD^Gb
+# ^get into bad ways (VERB) : Q|Z|Gb
+# ^go bad (VERB->ADJ) : DbSzAg Gl|Gb
+# ^go from bad to worse | (VERB->ADJ) : WbA^lbGl|Gb
+# in a bad way | (PP->ADV) : WjQIjGl|Wf
+# || that is not too bad || (SENT) : (EXCL [AlcDZbD^<ADJ>]/Gb)
+
+"bad-tempered"
+ar (A|RsDW| WfDYbD^WzD)
+ap (A|RsDW| WfDYbD^Gb)
+
+"baddish"
+ar (XlQ DbSzD)
+ap (XlQ DbSzGb)
+
+"baffling"
+ar (XlbXfI U|[|DzD)
+ap (XlbXfI U|[|Gb:ADJ->VERB)
+
+"bagging"
+ar (AsAfI^bDzD)
+ap (AsAfI^bGb)
+
+"baggy"
+ar (Rs]sD)
+ap (Rs]sIGb)
+
+"bailable"
+ar (RlUfA^bI Us W|VDzD)
+ap (RlUfA^bI Us W|VGb)
+
+"bait-and-switch"
+ar (Q|B| UbWUsIWz|)
+ap (Q|B| UbWUsIW|Gb)
+
+"baking"
+ar (SbWWzI AsRDzD)
+ap (SbWWzI AsRGb:ADJ->VERB)
+
+"balanceable"
+ar (AwD^jWWzI XbRWzI Us W|VDzD)
+ap (AwD^jWWzI XbRWzI Us W|VGb)
+
+"balanced"
+ar (AwD^jWW| XbR^|D)
+ap (AwD^jWW| XbR^|Gb)
+
+"balconied"
+ar (RbI[lD|Ab W|VDzD)
+ap (RbI[lD|Ab W|VGb)
+
+"bald"
+ar (GcQfI|Wz|)
+* GbDXlIlRGb (style QsDZg) (sentence QsDXbW)
+* QfI|Ab ^z|Gb (animal GlWQsI)
+* UsQA|RWfRUGb (statement X|DUsI)
+ap (GcQfI|W|Gb)
+
+# bald coot (NOUN) : [zD QsI
+# bald lie (NOUN) : UcSbIAbD AfX|UQbI
+# bald cypress (NOUN) : XsQlA DbQs
+# bald wheat (NOUN) : VbIRlI|
+
+"bald-faced"
+ar (WfIAsIWg ^z|D RbDXfQW| W|VDzD)
+ap (WfIAsIWg ^z|D RbDXfQW| W|VGb)
+
+"baldheaded"
+ar (GcQfI|Wz|)
+ap (GcQfI|W|Gb)
+# ^go baldheaded (VERB) : Qs\fAGcAl GfQRjGzIGb
+
+"baldish"
+ar (WdAAbD GcQfI|Wz|)
+ap (WdAAbD GcQfI|W|Gb)
+
+"baldpated"
+ar (WdAAbD GcQfI|Wz|)
+ap (WdAAbD GcQfI|W|Gb)
+
+"baleful"
+ar (^cIlWsD)
+ap (^cIlRGb)
+
+"balky"
+ar (QfQZs|UfUf DbWbAbX| WbD^DzD)
+ap (QfQZs|UfUf DbWbAbX| WbD^Gb:ADJ->VERB)
+
+"ball-bearing"
+ar (RlWlI RgWfI|WWz|)
+ap (RlWlI RgWfI|WW|Gb)
+
+"ballistic"
+ar (\bDGlWz|)
+ap (\bDGlW|Gb)
+
+"balloon"
+ar (Rs]sD)
+ap (Rs]sIGb)
+
+"ballproof"
+ar (RbW\bDWz|)
+ap (RbW\bDW|Gb)
+
+"bally"
+ar (X|AzUX|AzU^bD)
+ap (X|AzUX|AzU^bGb)
+
+"balmy"
+ar (^dWA|IlWsD)
+ap (^dWA|IlRGb)
+
+"balsamic"
+ar (RbW^dWUfWWz|)
+ap (RbW^dWUfWW|Gb)
+
+"balustraded"
+ar (UlDXbRW|Ab W|VDzD)
+ap (UlDXbRW|Ab W|VGb)
+
+"bamboo"
+ar (GcDbQsIl Gl|D)
+ap (GcDbQsIl Gl|Gb)
+
+"banal"
+ar ([k[kQsAWzD)
+ap ([k[kQsAGb)
+
+"banded"
+ar (GbDAjI^bD)
+ap (GbDAjI^bGb)
+
+"bandy"
+ar (RbBWzIl AsRWzD)
+ap (RbBWzIl AsRGb)
+
+"bandy-legged"
+ar (GbI|Ab RbBWzIl AsRWzD)
+ap (GbI|Ab RbBWzIl AsRGb)
+
+"baneful"
+ar (GlAW|VDzD)
+ap (GlAW|VGb)
+
+"bang-on"
+ar (HbA GzIWfQbXDzD)
+ap (HbA GzIWfQbXGb:ADJ->VERB)
+
+"bang-up"
+ar (AlAzRWz|)
+ap (AlAzRW|Gb)
+
+"banged"
+ar (UsIZs|^bD)
+ap (UsIZs|^bGb)
+
+"bangled"
+ar (]bIY|IzI ^bD)
+ap (]bIY|IzI ^bGb)
+
+"bankable"
+ar (WzD^cWWg GbQRl^bI Us W|VDzD)
+ap (WzD^cWWg GbQRl^bI Us W|VGb)
+
+"bankrupt"
+ar (]bUbD^bD)
+ap (]bUbD^bGb)
+# bankrupt law (NOUN) : ]bUbDRfR
+# ^go bankrupt (VERB) : ]bUbD^bGb
+# ^become bankrupt (VERB) : ]bUbD^bGb
+
+"banksman"
+ar (XsWr^bD)
+ap (XsWr^bGb)
+
+"bantam"
+ar (QlQX|RW| XbAWzD)
+ap (QlQX|RW| XbAGb)
+
+"baptismal"
+ar (UgIkWz|)
+ap (UgIkW|Gb)
+
+"baptistic"
+ar (UgIkWz|)
+ap (UgIkW|Gb)
+
+"baptistical"
+ar (UgIkWz|)
+ap (UgIkW|Gb)
+
+"barbarian"
+ar (Q|AcW|DWz|)
+ap (Q|AcW|DW|Gb)
+
+"barbaric"
+ar (WdQbDW|DWz|)
+ap (WdQbDW|DW|Gb)
+
+"barbarous"
+ar (WdQbDUzIfWsD)
+ap (WdQbDUzIfRGb)
+
+"barbed"
+ar (AbU|Ab W|VDzD)
+ap (AbU|Ab W|VGb)
+# barbed words (NOUN) : AbU| W|VDzDQbI
+# barbed wit (NOUN) : DbI[bIlWsD XcZ|
+
+"bardic"
+ar (WzQWw U|W|DWz|)
+ap (WzQWw U|W|DW|Gb)
+
+"bare"
+ar (RfIAfRfUWzD)
+* R|Gb (room RbW) (cupboard ZbDXbW)
+* W|VDzD AzGcIlWz| (account UfIQjW)
+* DbIAGb (clothes WlU)
+* WdAAbDWz| (hint ^|D\z) (possibility AbDzWUfW) (necessity ]|IUs]sQ)
+* DlAlIXfAW|Gb (dislike ^jQWl)
+ap (RfIAfRfUGb)
+
+# at the bare thought (PP->ADV) : UcWAbAQbD ^cGl
+# bare wall (NOUN) : XbWU|AW| WfRUDzD RjA
+# ^be bare of A (VERB) : [(SCOMP A/Ab) WfRU<VERB>]/Gb
+# bare contract (NOUN) : QsXlAfD AkWdA
+# bare infinitive (NOUN) : to WfRUDzD RsXfWUb
+# ^lay something bare (VERB) : \fDl^Gb
+# ^pick a bone bare (VERB) : SjWg Rs\WzD UbIWzI BcBzUW| RbIIbDcGb
+# with bare hands (PP->ADV) : QcDUlDWzIl
+# with bare life (PP->ADV) : AbDU|D^| QlAUsQQbD UbIWb
+# bare INF (NOUN) : WsfD^jW RsXfWUb
+
+"bare-handed"
+ar (QcDUlDWz|)
+ap (QcDUlDW|Gb)
+
+"bare-knuckle"
+ar (AzIIfRzIzI B|X| WbD^WzD)
+ap (AzIIfRzIzI B|X| WbD^Gb)
+
+"bare-necked"
+ar (QlAWzI GzIfDcD)
+ap (QlAWzI GzIfDcGb)
+
+"bareback"
+ar (WbDXbW WfRUDzD)
+ap (WbDXbW WfRUGb)
+
+"barebacked"
+ar (WbDXbW WfRUDzD)
+ap (WbDXbW WfRUGb)
+
+"bareboat"
+ar (RcQbD R|II|DzD)
+ap (RcQbD R|II|Gb:ADJ->VERB)
+
+"barefaced"
+ar (WfIAsIWzI AbI|X| WbD^WzD)
+ap (WfIAsIWzI AbI|X| WbD^Gb)
+
+"barefisted"
+ar (QcDXsQfAWz|)
+ap (QcDXsQfAW|Gb)
+
+"barefoot"
+ar (QcDRbIWz|)
+ap (QcDRbIW|Gb)
+
+"barefooted"
+ar (QcDRbIWz|)
+ap (QcDRbIW|Gb)
+
+"bargain"
+ar (AbRUVbD)
+ap (AbRUVbGb)
+
+"bark-rigged"
+ar (RbWb[zU|A GlZW| W|VDzD)
+ap (RbWb[zU|A GlZW| W|VGb)
+
+"barking"
+ar (X|XWfGcDzD)
+ap (X|XWfGcGb:ADJ->VERB)
+
+"barky"
+ar (DbQsBfRX|IIl Gf]W|D)
+ap (DbQsBfRX|IIl Gf]W|Gb)
+
+"barnyard"
+ar (^fUAbDWz|)
+ap (^fUAbDW|Gb)
+
+"barometric"
+ar (A|WbRWz|)
+ap (A|WbRW|Gb)
+
+"barometrical"
+ar (A|WbRWz|)
+ap (A|WbRW|Gb)
+
+"baronial"
+ar (DbQXbAWz|)
+ap (DbQXbAW|Gb)
+
+"baroque"
+ar (Al|UbW^bD)
+ap (Al|UbW^bGb)
+
+"barred"
+ar (R|UXbWW| W|VDzD)
+ap (R|UXbWW| W|VGb)
+
+"barreled"
+ar (\lWWg GbQWzD)
+ap (\lWWg GbQGb)
+
+"barrelled"
+ar (\lWWg GbQWzD)
+ap (\lWWg GbQGb)
+
+"barren"
+ar (QgQbIzD)
+ap (QgQbIzGb)
+
+"barytone"
+ar (RbI|\lDWz|)
+ap (RbI|\lDW|Gb)
+
+"basaltine"
+ar (^jDQsWbQWz|)
+ap (^jDQsWbQW|Gb)
+
+"base"
+ar (A|RlDWz|)
+ap (A|RlDW|Gb)
+# base price (NOUN) : A|RlD AbAjA
+# base camp (NOUN) : RgW|Uz [cQ]z
+
+"base-bred"
+ar (ZfD^bAg XbIbD)
+ap (ZfD^bAg XbIbGb)
+
+"base-minded"
+ar (QbWzQW| ZfD^bD)
+ap (QbWzQW| ZfD^bGb)
+
+"baseborn"
+ar (\cUcWW| ZfD^bD)
+ap (\cUcWW| ZfD^bGb)
+
+"based"
+ar (A|Zl^bWj)
+ap (A|Zl^bGb:ADJ->VERB)
+
+"baseless"
+ar (A|ZlAb WfRUDzD)
+ap (A|ZlAb WfRUGb)
+
+"bases-loaded"
+ar (QbDIsWz|)
+ap (QbDIsW|Gb)
+
+"bashful"
+ar (UsXsRWf ^bDzD)
+ap (UsXsRWf ^bGb:ADJ->VERB)
+
+"basic"
+ar (A|RlDXfAW|D)
+* A|RlDXfAW|Gb (factor WrUl) (salary RlWAzR) (principle WsfDI|) (vocabulary Wf^s|)
+* WjQA|UfWW|Gb (nitrogen X|IUl) (slag UzIIcAz) (process ZfI|) (steel AbW)
+ap (A|RlDXfAW|Gb)
+
+# basic exemption (NOUN) : A|ZlAlWXg
+# basic process (NOUN) : WjQA|UfWRfR
+# basic argument (NOUN) : DlDAf
+# basic slag (NOUN) : WjQA|UfW AlbWXc
+# basic group (NOUN) : WjQA|UfWIw
+# basic wages (NOUN) : A|RlD W|QAzQ
+# basic salary (NOUN) : A|RlD RlWAzR
+
+"basilar"
+ar (A|XfWz|)
+ap (A|XfW|Gb)
+
+"basilic"
+ar (WlbWWz|)
+ap (WlbWW|Gb)
+
+"basilical"
+ar (WlbWWz|)
+ap (WlbWW|Gb)
+
+"bass"
+ar (XfWzQWz|)
+ap (XfWzQW|Gb)
+# bass clef (NOUN) : XfWzQRs A|^l
+# bass drum (NOUN) : [zD RsA
+
+"bastard"
+ar (UfXbWz|)
+ap (UfXbW|Gb)
+# bastard charity (NOUN) : Ws|UfD
+# bastard file (NOUN) : DsDW| AsIAWzD XsI
+# bastard stucco (NOUN) : \fIWzD Df^WzD RjA\l
+
+"batchy"
+ar (QfI|Ab GlD)
+ap (QfI|Ab GlIGb)
+
+"bathable"
+ar (QlAWrA^bI Us W|VDzD)
+ap (QlAWrA^bI Us W|VGb)
+
+"bathetic"
+ar (X|DRs^bD)
+ap (X|DRs^bGb)
+
+"batrachian"
+ar (WdWUfIwWz|)
+ap (WdWUfIwW|Gb)
+
+"battered"
+ar (Y|AzIfX|D)
+ap (Y|AzIfY|Gb)
+
+"battle-ready"
+ar (XfD\s XsDR|IzI AbXZsD)
+ap (XfD\s XsDR|IzI AbXZsGb)
+
+"battle-scarred"
+ar (XfDXcWWgUf RbGWzD UbWZfAb W|VDzD)
+ap (XfDXcWWgUf RbGWzD UbWZfAb W|VGb)
+
+"battled"
+ar (^wWRjAW| W|VDzD)
+ap (^wWRjAW| W|VGb)
+
+"battlesome"
+ar (VbWsQWzI Xl^Wb^bDzD)
+ap (VbWsQWzI Xl^Wb^bGb:ADJ->VERB)
+
+"batty"
+ar (RbAXs|Wz|)
+ap (RbAXs|W|Gb)
+
+"bawdy"
+ar (WzQ\bW^bD)
+ap (WzQ\bW^bGb)
+
+"bay"
+ar (XfAAbIUcAWz|)
+ap (XfAAbIUcAW|Gb)
+
+"beaded"
+ar (AsUzIW| GbIIjW|VDzD)
+ap (AsUzIW| GbIIjW|VGb)
+
+"beady"
+ar (AsUzI Ab\WzD)
+ap (AsUzI Ab\Gb)
+
+"beaked"
+ar (RsI|Ab W|VDzD)
+ap (RsI|Ab W|VGb)
+
+"beaky"
+ar (RsI| QlWdWWz|)
+ap (RsI| QlWdWW|Gb)
+
+"beamed"
+ar (GzIRlAb W|VDzD)
+ap (GzIRlAb W|VGb)
+
+"beaming"
+ar (R|ZDbDzD)
+ap (R|ZDbGb:ADJ->VERB)
+
+"beamless"
+ar (GzIRlAb WfRUDzD)
+ap (GzIRlAb WfRUGb)
+
+"beamy"
+ar (R|ZDbDzD)
+ap (R|ZDbGb)
+
+"beany"
+ar (A|WsDZbD)
+ap (A|WsDZbGb)
+
+"bearable"
+ar (ZbQWzI Us W|VDzD)
+ap (ZbQWzI Us W|VGb)
+
+"bearded"
+ar (UsWjQW| W|VDzD)
+ap (UsWjQW| W|VGb)
+
+"beardless"
+ar (UsWjQW| W|VDzD)
+ap (UsWjQW| W|VGb)
+
+"bearish"
+ar (AlQAb\WzD)
+ap (AlQAb\Gb)
+
+"beastly"
+ar (X|QUzWAb\WzD)
+ap (X|QUzWAb\Gb)
+
+"beat-up"
+ar (VfUf DbIAWzD)
+ap (VfUf DbIAGb)
+
+"beaten"
+ar (WfGWfQbXWzD)
+ap (WfGWfQbXGb)
+
+"beatific"
+ar (ZsARlAWzI XsDzD)
+ap (ZsARlAWzI XsGb:ADJ->VERB)
+
+"beatifical"
+ar (ZsARlAWzI XsDzD)
+ap (ZsARlAWzI XsGb:ADJ->VERB)
+
+"beautiful"
+ar (WbIzQGbWsD)
+* GcGbD^bGb (patience ZbQWzIUfW)
+* WbIzQGbRGb (temple U|DXfD)
+* Xl^Gb (weather DbIV|)
+* Zl|AlAzRW|Gb (wine ]lGlXs)
+ap (WbIzQGbRGb)
+# ^be beautiful with A (VERB) : [(SUBJ A/Ab) WbIzQGbR<ADJ>]/Gb
+
+
+"beautyshopped"
+ar (Q|XbWWsfDWgUf QfUWzI DcD)
+ap (Q|XbWWsfDWgUf QfUWzI DcGb)
+
+"becoming"
+ar (WfWsII|DzD)
+ap (WfWsII|Gb:ADJ->VERB)
+
+"bed-side"
+ar (RgAgUQfI|Wz|)
+ap (RgAgUQfI|W|Gb)
+
+"bedding"
+ar (^lbGbDWrWWz|)
+ap (^lbGbDWrWW|Gb)
+
+"bedridden"
+ar (DsWsfQbD W|VDzD)
+ap (DsWsfQbD W|VGb)
+
+"beef-witted"
+ar (QfI|Ab GsD^bD)
+ap (QfI|Ab GsD^bGb)
+
+"beefy"
+ar (UbIY|D)
+ap (UbIY|Gb)
+
+"beery"
+ar (QcAXsWz|)
+ap (QcAXsW|Gb)
+
+"beetle"
+ar (\sA \s|WfDbWlD)
+ap (\sA \s|WfDbWlGb)
+
+"beetle-browed"
+ar (DsDVfRW| \s|WfDbWlD)
+ap (DsDVfRW| \s|WfDbWlGb)
+
+"beetleheaded"
+ar (QfWZfW^bD)
+ap (QfWZfW^bGb)
+
+"beetling"
+ar (\s|WfDbWlD)
+ap (\s|WfDbWlGb)
+
+"befitting"
+ar (WbIQbXWzD)
+ap (WbIQbXGb)
+
+"before-mentioned"
+ar (Wb]Uf QbI^bD)
+ap (Wb]Uf QbI^bGb)
+
+"beforehand"
+ar (W|XfDWz|)
+ap (W|XfDW|Gb)
+# ^be beforehand with the world (VERB) : UsXsWWg WjWwAb W|VGb
+# ^be beforehand with A (VERB) : [(ADJUNCT A/Wg) GcR|^b<VERB>]/Gb
+# ^be beforehand (VERB) : Q|I| GcR|^bGb
+
+"befurred"
+ar (Ql]|XbWU|AWzI GbD)
+ap (Ql]|XbWU|AWzI GbIGb)
+
+"beggarly"
+ar (AfX| Ab\WzD)
+ap (AfX| Ab\Gb)
+
+"beginning"
+ar (U|XbA^bDzD)
+ap (U|XbA^bGb:ADJ->VERB)
+
+"beguiling"
+ar (UlAW|DzD)
+ap (UlAW|Gb:ADJ->VERB)
+
+"behavioral"
+ar (^cWGlWWz|)
+ap (^cWGlWW|Gb)
+
+"behavioristic"
+ar (^cWGlWXsWz|XfAW|D)
+ap (^cWGlWXsWz|XfAW|Gb)
+
+"behavioural"
+ar (^cWGlWWz|)
+ap (^cWGlWW|Gb)
+
+"behind-scenes"
+ar (W|QjDWz|)
+ap (W|QjDW|Gb)
+
+"behind-the-scenes"
+ar (R|Q|IWz|)
+ap (R|Q|IW|Gb)
+
+"behindhand"
+ar (DzXWzD)
+ap (DzXGb)
+# ^be behindhand in ONE_S  circustances (VERB) : UbII|QUbIW|Ab WfIjRGb
+
+"beholden"
+ar (WzD^kIzI W|RWzD)
+ap (WzD^kIzI W|RGb)
+
+"being"
+ar (^jDXcWz|)
+ap (^jDXcW|Gb)
+# for the time being (PP->ADV) : GbWRsDAbD
+
+"belated"
+ar (HcDzXWzD)
+ap (HcDzXGb)
+
+"belfried"
+ar (XlWIsAb W|VDzD)
+ap (XlWIsAb W|VGb)
+
+"believable"
+ar (Q|GWzI Us W|VDzD)
+ap (Q|GWzI Us W|VGb)
+
+"believing"
+ar (U|DWbWW| W|VDzD)
+ap (U|DWbWW| W|VGb)
+
+"beligerent"
+ar (ArXfDXsWWz|)
+ap (ArXfDXsWW|Gb)
+
+"bell-bottom"
+ar (RbX| Bz\W| DbR| QlWdWWz|)
+ap (RbX| Bz\W| DbR| QlWdWW|Gb)
+
+"bell-mouthed"
+ar (W|RW| XlW ZfIfQ UcWA|D)
+ap (W|RW| XlW ZfIfQ UcWA|Gb)
+
+"bell-shaped"
+ar (XlWZfIfQ UcWA|D)
+ap (XlWZfIfQ UcWA|Gb)
+
+"belletristic"
+ar (UsDQsD^bAXfAW|D)
+ap (UsDQsD^bAXfAW|Gb)
+
+"bellicose"
+ar (^lXfDXfAW|D)
+ap (^lXfDXfAW|Gb)
+
+"belllike"
+ar (XlWQlWdWWz|)
+ap (XlWQlWdWW|Gb)
+
+"beloved"
+ar (UbIbW^bDzD)
+* UlXsW^bGb (thing QsIAfD)
+ap (UbIbW^bGb:ADJ->VERB)
+
+"below-line"
+ar (W|QU|Wz|)
+ap (W|QU|W|Gb)
+
+"below-the-line"
+ar (W|QU|Wz|)
+ap (W|QU|W|Gb)
+
+"belted"
+ar (H|IzI GsIzD)
+ap (H|IzI GsIzGb)
+
+"bemedaled"
+ar (^sDXbWWzI GbD)
+ap (^sDXbWWzI GbIGb)
+
+"bench-clearing"
+ar (RgDZ|IzI R|WsDzD)
+ap (RgDZ|IzI R|WsGb)
+
+"bendable"
+ar (AsRsI|I Us W|VDzD)
+ap (AsRsI|I Us W|VGb)
+
+"bended"
+ar (AsRsIfX|D)
+ap (AsRsIfX|Gb)
+
+"benedictional"
+ar (ZsARlAWz|)
+ap (ZsARlAW|Gb)
+
+"benedictory"
+ar (ZsARlAWz|)
+ap (ZsARlAW|Gb)
+
+"beneficed"
+ar (UfWX|AIlAWzI RbGDzD)
+ap (UfWX|AIlAWzI RbGGb:ADJ->VERB)
+
+"beneficent"
+ar (XbUfDU|QW| QbD^WzD)
+ap (XbUfDU|QW| QbD^Gb)
+
+"beneficial"
+ar (WwW|A^bD)
+ap (WwW|A^bGb)
+
+"benevolent"
+ar (XbWcIlWsD)
+ap (XbWcIlRGb)
+
+"benighted"
+ar (RbQW| Gl|D)
+ap (RbQW| Gl|Gb)
+
+"benign"
+ar (XbWcIlWsD)
+ap (XbWcIlRGb)
+
+"benignant"
+ar (W|DXb^bD)
+ap (W|DXb^bGb)
+
+"bent"
+ar (AsRsIfX|D)
+ap (AsRsIfX|Gb)
+
+"benzoic"
+ar (WbDU|A^dWUfWWz|)
+ap (WbDU|A^dWUfWW|Gb)
+
+"beribboned"
+ar (I|RlDWzIl XbWU|A^bD)
+ap (I|RlDWzIl XbWU|A^bGb)
+
+"berserk"
+ar (AlbW]l^bD)
+ap (AlbW]l^bGb)
+
+"berserk"
+ar (QcWIjI^bD)
+ap (QcWIjI^bGb)
+
+"beryline"
+ar (DlAXsUfAWz|)
+ap (DlAXsUfAW|Gb)
+
+"beseeming"
+ar (WfWsII|DzD)
+ap (WfWsII|Gb:ADJ->VERB)
+
+"beseting"
+ar (DzI Rs\WfGbD|DzD)
+ap (DzI Rs\WfGbD|Gb:ADJ->VERB)
+
+"besotted"
+ar (UsI Zs|^bD)
+ap (UsI Zs|^bGb)
+
+"bespectacled"
+ar (WbDAjWWzI B|D)
+ap (WbDAjWWzI B|Gb) 
+
+"bespoke"
+ar (XsQsDWz|)
+ap (XsQsDW|Gb)
+
+"best"
+ar (AbXbW Xl^WzD)
+* AbXbW QbWzQWg GzIGb:ADJ->VERB (month GbI)
+* AbXbW ^sIIwW^bGb (view XfDQbW)
+ap (AbXbW Xl^Gb)
+//# ONE_S best | (NOUN) : [(POSS ONE/Wz|) Zl|AlWz| AfU<NOUN>]
+# ONE_S best days (NOUN) : XfDUfWU|Gc
+# ONE_S best fellow (NOUN) : WcW|D
+# ONE_S best girl (NOUN) : WcW|D
+# best man (NOUN) : XfAW|QXb
+# the best of A (NOUN) : [(RELCL [(MODS [AbXbW<ADV>]) Xl^<ADJ>]/^bD) A]
+# ^do ONE_S best (VERB) : Zl|UfDWzI Gb^bGb
+
+"best-known"
+ar (AbXbW WwQjW^bD)
+ap (AbXbW WwQjW^bGb)
+
+"best-looking"
+ar (AbXbW RlA| Xl^WzD)
+ap (AbXbW RlA| Xl^Gb)
+
+"best-selling"
+ar (RgUz\zUgIIfWz|)
+ap (RgUz\zUgIIfW|Gb)
+
+"bestial"
+ar (X|QUzWWz|)
+ap (X|QUzWW|Gb)
+
+"betrothed"
+ar (WdA^lDWz|)
+ap (WdA^lDW|Gb)
+
+"better"
+ar (RlGb Xl^WzD)
+ap (RlGb Xl^Gb)
+# ONE_S  better feeling (NOUN) : W|DAbDWz| RlDU|Q
+# ^be better $ (VERB->ADJ) : RlGb Xl^Gb
+# ^be better off PRESP (VERB->ADJ) : 
+  [(SCOMP [(RELCL PRESP/^bDzD) AfU<NOUN>]/W|) (MODS [Gf<ADV>]) Xl^<ADJ>]/Gb 
+# ^be better off dead (VERB->ADJ) : XsAWfUf Gf ^cWRlA^bGb
+# ^be better than A (VERB->ADJ) : [(ADJUNCT A/RlGb) Xl^<ADJ>]/Gb
+# ^be better than ONE_S  word (VERB) : WdAUlAW|UbWWzIl XbI^cXsGb
+# ^be the better for it (VERB->ADJ) : AzAfU HcQsDWg Xl^Gb
+# ^be the better for you (VERB->ADJ) : AzAfU HcQsDWg Xl^Gb
+# better off (ADJ) : GfWsA Xl^Gb
+# far better (ADJ) : WbXs Xl^Gb
+//# ^feel better (VERB) : XfDRlGb Xl^Gb
+//# get better | (VERB) : RjWW| DbUGb
+// things will get better
+# the better part of A (NOUN) : [(POSS A/Wz|) \cRbD<NOUN>]
+
+"bettermost"
+ar (Zl|UbWWz|)
+ap (Zl|UbWW|Gb)
+
+"bewildering"
+ar (WfI|GsWXfI[g ^bDzD)
+ap (WfI|GsWXfI[g ^bGb)
+
+"bewitching"
+ar (DfAUWzI ScWbUDzD)
+ap (DfAUWzI ScWbUGb:ADJ->VERB)
+
+"biangular"
+ar (GsAcWz| AbAW| W|VDzD)
+ap (GsAcWz| AbAW| W|VGb)
+
+"biannual"
+ar (1 DjDWg Gs RfDWz|)
+ap (1 DjDWg Gs RfDW|Gb)
+
+"bias"
+ar (WfUAbII|DzD)
+ap (WfUAbII|Gb:ADJ->VERB)
+
+"biased"
+ar (^bDYlAWzIl Z|WsZ|D)
+ap (^bDYlAWzIl Z|WsZ|Gb)
+
+"biaxial"
+ar (ZsAW| GsI W|VDzD)
+ap (ZsAW| GsI W|VGb)
+
+"bibasic"
+ar (WjQA|UfWWz|)
+ap (WjQA|UfWW|Gb)
+
+"biblical"
+ar (UfWAjWWz|)
+ap (UfWAjWW|Gb)
+
+"bibliogrpahic"
+ar (UfX|Wz|)
+ap (UfX|W|Gb)
+
+"bibliogrpahical"
+ar (UfX|Wz|)
+ap (UfX|W|Gb)
+
+"bibliolatrous"
+ar (UfWAjW UsWRcWz|)
+ap (UfWAjW UsWRcW|Gb)
+
+"bibliomaciac"
+ar (XbWUfRjAW| W|VDzD)
+ap (XbWUfRjAW| W|VGb)
+
+"bibliomaniacal"
+ar (XbWUfRjAW| W|VDzD)
+ap (XbWUfRjAW| W|VGb)
+
+"bibliophilistic"
+ar (WcUfAbWz|)
+ap (WcUfAbW|Gb)
+
+"bibulous"
+ar (UsIWzI Xl^Wb^bDzD)
+ap (UsIWzI Xl^Wb^bGb:ADJ->VERB)
+
+"bicameral"
+ar (UbW^b WdWWsfDXgWz|)
+ap (UbW^b WdWWsfDXgW|Gb)
+
+"bicentennial"
+ar (200 XsDjDA|DjQWz|)
+ap (200 XsDjDA|DjQW|Gb)
+
+"bicephalous"
+ar (VbWGsWz|)
+ap (VbWGsW|Gb)
+
+"bicipital"
+ar (VbWGsWz|)
+ap (VbWGsW|Gb)
+
+"bicolor"
+ar (GsR|ZBbIWz|)
+ap (GsR|ZBbIW|Gb)
+
+"bicolour"
+ar (GsR|ZBbIWz|)
+ap (GsR|ZBbIW|Gb)
+
+"biconcave"
+ar (WdWYlAW| WlQlA^bD)
+ap (WdWYlAW| WlQlA^bGb)
+
+"biconvex"
+ar (WdWYlAW| RlIIlA^bD)
+ap (WdWYlAW| RlIIlA^bGb)
+
+"bicultural"
+ar (Gs QsD^lb RjWWrWWz|)
+ap (Gs QsD^lb RjWWrWW|Gb)
+
+"bicuspid"
+ar (SlXlA^bD Gs Bz\W| W|VDzD)
+ap (SlXlA^bD Gs Bz\W| W|VGb)
+
+"biddable"
+ar (WwUsD^bD)
+ap (WwUsD^bGb)
+
+"bidentate"
+ar (W|Ab GsAc W|VDzD)
+ap (W|Ab GsAc W|VGb)
+
+"biennial"
+ar (2 DjDQbGbWz|)
+ap (2 DjDQbGbW|Gb)
+
+"bifid"
+ar (Gs AbIIc DbD)
+ap (Gs AbIIc DbGb)
+
+"biflex"
+ar (Gs AsDGgUf AsRsIfX|D)
+ap (Gs AsDGgUf AsRsIfX|Gb)
+
+"biflorate"
+ar (BlZW| GsI W|VDzD)
+ap (BlZW| GsI W|VGb)
+
+"bifocal"
+ar (Gs ZlXfQW| W|VDzD)
+ap (Gs ZlXfQW| W|VGb)
+
+"bifoliate"
+ar (W|]W| GsAcW|D)
+ap (W|]W| GsAcW|Gb)
+
+"biform"
+ar (Gs ^jW\cIzI AbX|D)
+ap (Gs ^jW\cIzI AbX|Gb)
+
+"bifurcate"
+ar (Gs AbIIcWz|)
+ap (Gs AbIIcW|Gb)
+
+"big"
+ar ([zD)
+* AfQbD^bGb (look WfIAsI) (manner \cGl)
+* AlbDGc^bGb (heart QbWzQ)
+* UfWGc^bGb (party XbDZ|)
+* XsWGc^bGb (problem QsDXg) (event UbAfD) (moment U|A|)
+* XsWWr^bGb (customer AlAcA)
+* [zGb (gain W|W|A) (object QsIZg) (hit ^|\z) (bow XfI)
+* QbD^Gb (salad UcIIfGz) (crowd AsDXsW) (people UbIbQGzI)
+ap ([zGb)
+
+# Big Ben (NOUN) : WjWAsA Wz|UbGbW U|Ak
+# big brother (NOUN) : QbG^jW
+# big business (NOUN) : GcA|WfR
+# big dipper (NOUN) : RsAGsZ|IUfW
+# big game (NOUN) : [zD AjWA|
+# big gun (NOUN) : AfQsI
+# big liar (NOUN) : X|GlA^bD AfX|UQbIXbWW|
+# big pay (NOUN) : AlWcAWz| RlWAzR
+# big sister (NOUN) : DsW|
+# big stick (NOUN) : WbRIjA
+# big talker (NOUN) : ^f]sWXbWW|
+# big toe (NOUN) : WfQX| RbIAbIbA
+# big tree (NOUN) : UgAkUs
+# big word (NOUN) : ^lWfDXbWGbQ
+# || that big ? (SENT) : (QUES [(MODS [AzIf^Ag<ADV>]) [z<ADJ>]/Gb)
+# the Big Apple (NOUN) : GcGl^l|
+# the Big Smoke (NOUN) : IfDGfDWz| UlAZ|W
+
+"big-hearted"
+ar (AlbDGc^bD)
+ap (AlbDGc^bGb)
+
+"big-league"
+ar (XsWr Uz]lZz WjDQcWWz|)
+ap (XsWr Uz]lZz WjDQcWW|Gb)
+
+"big-name"
+ar (WwQjW^bD)
+ap (WwQjW^bGb)
+
+"big-time"
+ar (W|IIwWz|)
+ap (W|IIwW|Gb)
+
+"bigamous"
+ar (XsW^lD^bD)
+ap (XsW^lD^bGb)
+
+"bigoted"
+ar (WlWXlI^bD)
+ap (WlWXlI^bGb)
+
+"bilabial"
+ar (Gs W|RUsIWz|)
+ap (Gs W|RUsIW|Gb)
+
+"bilateral"
+ar (VbWRbWWz|)
+ap (VbWRbWW|Gb)
+
+"biliary"
+ar (GbQXzRWz|)
+ap (GbQXzRW|Gb)
+
+"bilingual"
+ar (2Ac WfDWfWz|)
+ap (2Ac WfDWfW|Gb)
+
+"bilious"
+ar (GbQXzRWz|)
+ap (GbQXzRW|Gb)
+
+"biliteral"
+ar (GsXbIl Gl|D)
+ap (GsXbIl Gl|Gb)
+
+"billed"
+ar (RsI|Ab W|VDzD)
+ap (RsI|Ab W|VGb)
+
+"billionth"
+ar (10 WfAWz|)
+ap (10 WfAW|Gb)
+
+"billowy"
+ar ([zD ]bGlAb Z|DzD)
+ap ([zD ]bGlAb Z|Gb:ADJ->VERB)
+
+"bimanual"
+ar (Gs UlDWzI VzDzD)
+ap (Gs UlDWzI VzGb:ADJ->VERB)
+
+"bimetallic"
+ar (GsAbX| AzQUlAWzIl Gl|D)
+ap (GsAbX| AzQUlAWzIl Gl|Gb)
+
+"bimonthly"
+ar (AjAWsfIWz|)
+ap (AjAWsfIW|Gb)
+
+"bimotored"
+ar (VbWRbIWz|)
+ap (VbWRbIW|Gb)
+
+"binary"
+ar (2AcWz|)
+ap (2AcW|Gb)
+
+"binate"
+ar (VbWUcWWz|)
+ap (VbWUcWW|Gb)
+
+"binaural"
+ar (As|Ab GsI W|VDzD)
+ap (As|Ab GsI W|VGb)
+
+"binding"
+ar (AsUlAIjAW| W|VDzD)
+ap (AsUlAIjAW| W|VGb)
+
+"binocular"
+ar (Gs DsDWz|)
+ap (Gs DsDW|Gb)
+
+"biochemical"
+ar (UcW^lb^bAWz|)
+ap (UcW^lb^bAW|Gb)
+
+"biodegradable"
+ar (UcW^lb^bAXfAWzIl RsD^c AbDzW^bD)
+ap (UcW^lb^bAXfAWzIl RsD^c AbDzW^bGb)
+
+"biodynamic"
+ar (UcW^lbI A|DzW^bAWz|)
+ap (UcW^lbI A|DzW^bAW|Gb)
+
+"biodynamical"
+ar (UcW^lbI A|DzW^bAWz|)
+ap (UcW^lbI A|DzW^bAW|Gb)
+
+"biogenetic"
+ar (UcWQsI RbIUcWUfIWz|)
+ap (UcWQsI RbIUcWUfIW|Gb)
+
+"biographical"
+ar (XfDA|Wz|)
+ap (XfDA|W|Gb)
+
+"biogrpahic"
+ar (XfDA|Wz|)
+ap (XfDA|W|Gb)
+
+"biologic"
+ar (UcWQsI^bAWz|)
+ap (UcWQsI^bAW|Gb)
+
+"biological"
+ar (UcWQsI^bAWz|)
+ap (UcWQsI^bAW|Gb)
+
+# biological tissue (NOUN) : UcWQsI^bAXfA UsX|
+
+"biomechanical"
+ar (UcWQsIWjA^bAXfAW|D)
+ap (UcWQsIWjA^bAXfAW|Gb)
+
+"biomedical"
+ar (UcWWz|^bAWz|)
+ap (UcWWz|^bAW|Gb)
+# biomedical engineering (NOUN) : UcWWz|^bA AlW^bA
+
+"biophysical"
+ar (WsfDUcWX|IWz|)
+ap (WsfDUcWX|IW|Gb)
+
+"biovular"
+ar (W|IbDUcWWz|)
+ap (W|IbDUcWW|Gb)
+
+"biparous"
+ar (^bDRfDWg UcB|IzI GsQbI| Db^DzD)
+ap (^bDRfDWg UcB|IzI GsQbI| Db^Gb:ADJ->VERB)
+
+"bipartisan"
+ar (Gs GbWWz|)
+ap (Gs GbWW|Gb)
+
+"bipartite"
+ar (2RsIl XbAUfWGl|D)
+ap (2RsIl XbAUfWGl|Gb)
+
+"bipartisan"
+ar (Gs GbWWz|)
+ap (Gs GbWW|Gb)
+
+"bipartizan"
+ar (Gs GbWWz|)
+ap (Gs GbWW|Gb)
+
+"biparty"
+ar (Gs GbWWzIl W|IsWfX|DzD)
+ap (Gs GbWWzIl W|IsWfX|Gb:ADJ->VERB)
+
+"biped"
+ar (Gs RbIWz|)
+ap (Gs RbIW|Gb)
+
+"bipedal"
+ar (Gs RbI GlWQsIWz|)
+ap (Gs RbI GlWQsIW|Gb)
+
+"bipetalous"
+ar (GsAcWz| BlZW|]W| W|VDzD)
+ap (GsAcWz| BlZW|]W| W|VGb)
+
+"bipinnate"
+ar (W|^l| WsUbWWz|)
+ap (W|^l| WsUbWW|Gb)
+
+"bipolar"
+ar (Gs AzAW| W|VDzD)
+ap (Gs AzAW| W|VGb)
+
+"birch"
+ar (XbXbADbQsWz|)
+ap (XbXbADbQsW|Gb)
+# white birch (NOUN) : ^z|D XbXbADbQs
+
+"bird's-eye"
+ar (XlAbQXfAW|D)
+ap (XlAbQXfAW|Gb)
+
+"bird-brained"
+ar (WfI|UfAWzD)
+ap (WfI|UfAGb)
+
+"bird-eyed"
+ar (DsDW| WkQ|D^bD)
+ap (DsDW| WkQ|D^bGb)
+
+"birdy"
+ar (RjIDbD)
+ap (RjIDbGb)
+
+"bisectional"
+ar (W|GzWRsD^bD)
+ap (W|GzWRsD^bGb)
+
+"bisexual"
+ar (WdWUfWWz|)
+ap (WdWUfWW|Gb)
+
+"bit"
+ar (WdAAbDWz|)
+ap (WdAAbDW|Gb)
+
+# a bit (ADV) : WdAAbD
+
+"biting"
+ar (QsDzD)
+ap (QsIGb)
+# ^have a bitting tougue (VERB) : U|DIbI^bAg R|BlGb
+
+"bitter"
+ar (VzD)
+* VzIbI|Gb:ADJ->VERB (experience AjW^fQ) (turth X|DU|I) (lesson Ar^sD)
+* R|ZbQ^bGb (war XfDXcW) (fate WsDQjW) (tear DsDQsI)
+* AjA^bGb (argument \lIlD) (fight VbWsQ) (hatred XzWWl)
+* X|GlA^bGb (cold ZsWs|)
+* U|DIbI^bGb (criticism R|]jW)
+* U|Q^bGb (quarrel QbIGb\sQ)
+ap (VzGb)
+
+# to the bitter end (PP->ADV) : XsAWzI HcBbX|
+# bitter winter (NOUN) : X|GlA^| ZsWsD AjWsI
+# bitter grief (NOUN) : R|\bD
+# bitter enemy (NOUN) : ZfIZfDX| WsfDUs
+# bitter word (NOUN) : GlAUfI
+# bitter cup (NOUN) : AlRc
+
+"bitterish"
+ar (VzRVzI^bD)
+ap (VzRVzI^bGb)
+
+"bittersweet"
+ar (GbI[lQ VzRVzI^bD)
+ap (GbI[lQ VzRVzI^bGb)
+
+"bitty"
+ar (XbXbI^bD)
+ap (XbXbI^bGb)
+
+"bituminous"
+ar (WjAZfWX|IWz|)
+ap (WjAZfWX|IW|Gb)
+
+"bivalent"
+ar (2 AbWz|)
+ap (2 AbW|Gb)
+
+"bivalve"
+ar (VbWAbAIwWz|)
+ap (VbWAbAIwW|Gb)
+
+"biweekly"
+ar (AjAXsWz|)
+ap (AjAXsW|Gb)
+
+"biyearly"
+ar (W|IDjDWg GsRfDWz|)
+ap (W|IDjDWg GsRfDW|Gb)
+
+"bizarre"
+ar (A|Al|^bD)
+ap (A|Al|^bGb)
+
+"black"
+ar (AfQWzD)
+* AfQGb (powder AbIs) (outline WwDAlbA)
+* GfIfRGb (hand UlD)
+* WzQWsI^bGb (day DbI)
+* WfGsRGb (water UsQjD) (prospect XfDQbW)
+* WfDYbD^Gb (look WfIAsI)
+* UbWbA^bGb (heart QbWzQ) (lie AfX|UQbI) (crime RfQXl|)
+ap (AfQGb)
+
+# black bourse (NOUN) : WbQAfIcU|XbW
+# black coffee (NOUN) : RzIIcA [f]|
+# black knight (NOUN) : ^zAA|Ub
+# black mark (NOUN) : WlXfQ
+# black race (NOUN) : ^zAW|DXlW
+
+"black-and-blue"
+ar (AfQ]sIzAg Gl|D)
+ap (AfQ]sIzAg Gl|Gb)
+
+"black-and-tan"
+ar (AfQWzD Rb\bWWg AbIUcA QsDz|Ab W|VDzD)
+ap (AfQWzD Rb\bWWg AbIUcA QsDz|Ab W|VGb)
+
+"black-and-white"
+ar (^zARcAWz|)
+ap (^zARcAW|Gb)
+
+"black-eyed"
+ar (DsDW| AfQWzD)
+ap (DsDW| AfQGb)
+
+"black-hearted"
+ar (RcUUlAAfQWzD)
+ap (RcUUlAAfQGb)
+
+"blackfaced"
+ar (WfIAsIW| AfQWzD)
+ap (WfIAsIW| AfQGb)
+
+"blackguard"
+ar (RsIIdW^bD)
+ap (RsIIdW^bGb)
+
+"blackguardly"
+ar (QlUGl|D)
+ap (QlUGl|Gb)
+
+"bladdery"
+ar (A|]lAb W|VDzD)
+ap (A|]lAb W|VGb)
+
+"bladed"
+ar (DbIW| W|VDzD)
+ap (DbIW| W|VGb)
+
+"blamable"
+ar (R|DbD^bIQbD^bD)
+ap (R|DbD^bIQbD^bGb)
+
+"blamed"
+ar (R|IWfQfAWzI)
+ap (AlcV|Q^bGb)
+
+"blameful"
+ar (AlcV|Q^bD)
+ap (AlcV|Q^bGb)
+
+"blameless"
+ar (WbQs Xl|Ab WfRUDzD)
+ap (WbQs Xl|Ab WfRUGb)
+
+"blameworthy"
+ar (ZcAQbW RbGWzI QbD^bD)
+ap (ZcAQbW RbGWzI QbD^bGb)
+
+"bland"
+ar (WlD^lb^bD)
+ap (WlD^lb^bGb)
+
+"blank"
+ar (AlWRcAWz|)
+* AlW^f^bGb (day ^bIs)
+* XbWU|AW| WfRUGb (wall RjA)
+* QfW^bGb (look ]rXfW)
+* UsDXfD^bGb (idot RbRl)
+* WlbDXfD^bGb (impossibility RsIAbDzW) (stupidity WfI|UfAWzQ)
+* RlIbQWfRUGb (effort DlIjA)
+ap (AlWRcAW|Gb)
+
+# blank endorsement (NOUN) : QsA|QjW RcUf
+# blank form (NOUN) : A|W|R WrWX|
+# blank space (NOUN) : WjRcA
+# ^look blank (VERB) : QfW^c W|VGb
+# blank verse (NOUN) : QsWsDU|
+
+"blanket"
+ar (ZlWAlbIXfAW|D)
+ap (ZlWAlbIXfAW|Gb)
+# blanket area (NOUN) : RsIAbZfW X|Gc
+# blanket ballot (NOUN) : WjDA|QjW \s]rWrWX|
+
+"blanky"
+ar (AlWRcAW| QbD^WzD)
+ap (AlWRcAW| QbD^Gb)
+
+"blasphemous"
+ar (U|DWzI QlGlA^bDzD)
+ap (U|DWzI QlGlA^bGb:ADJ->VERB)
+
+"blasted"
+ar (U|GzD)
+ap (U|GzIGb)
+
+"blatant"
+ar (U|BzIfWsD)
+ap (U|BzIfRGb)
+
+"blazing"
+ar (RsI\bDzD)
+ap (RsI\bGb:ADJ->VERB)
+
+"bleached"
+ar (]rRcA^bD)
+ap (]rRcA^bGb)
+
+"bleak"
+ar (^lbWIdW^bD)
+* QcUfRGb (wind RbIbQ)
+* VzIVzI^bGb (mind QbWzQ)
+ap (^lbWIdW^bGb)
+
+"blear"
+ar (^zI|D)
+ap (^zI|Gb)
+
+"blear-eyed"
+ar (DsDW| ^zI|D)
+ap (DsDW| ^zI|Gb)
+
+"bleary"
+ar (DsDW| ^zI|D)
+ap (DsDW| ^zI|Gb)
+
+"bleeding"
+ar (ZsI^jI^bDzD)
+ap (ZsI^jI^bGb:ADJ->VERB)
+
+"blessed"
+ar (U|DUfW^bD)
+ap (U|DUfW^bGb)
+# the Blessed Virgin (NOUN) : UfWQl QbI|Wb
+# a blessed event (NOUN) : ZsIUcW
+# the Islands of the Blessed (NOUN) : AzAIbAUfQ
+# the Isles of the Blessed (NOUN) : AzAIbAUfQ
+
+"blest"
+ar (U|DUfW^bD)
+ap (U|DUfW^bGb)
+# the blest (NOUN) : ^bDzIWg AkU|D WjIf UfWGl
+# the Blest Virgin (NOUN) : UfWQl QbI|Wb
+# a blest event (NOUN) : ZsIUcW
+# the Islands of the Blest (NOUN) : AzAIbAUfQ
+# the Isles of the Blest (NOUN) : AzAIbAUfQ
+
+"blind"
+ar (DsDW| QfD)
+* DsDW| QfIGb (bat RbAXs|)
+* QcWQlAXfAW|Gb (love UbIbW) (tenacity AlX|R) (obedience QcWXlW)
+* QcWW|DWz| (education ArWwA) (asylum Rl^lUl)
+* WfI|QWz| (guess X|QXbA)
+* W|^c^bI Us WfRUGb (story W|WdA|) (passage AsXfI) (reasoning W|Ww)
+* XbI WbDRlW|Gb (way GlIl) (corner Ql\sWW|) (wall RjA)
+ap (DsDW| QfIGb)
+
+# blind to the world (ADJ) : [AlDGzIgQbDGzIg Zs|^b<VERB>]/Gb
+# blind man (NOUN) : QcWW|D
+# blind force (NOUN) : A|AkXfAW|D ^|Q
+# blind purchase (NOUN) : ZsWGlW AsQc
+# blind nail (NOUN) : WzD^jIQlU
+# blind window (NOUN) : XbWU|AWrW ZbW
+# blind seam (NOUN) : AlWAzIzD UlIA|
+# ^go blind (VERB) : U|IQjW^bGb
+# with blind fury (PP->ADV) : QcWIjI^|
+# as blind as a bat  (PP) : [(MODS [XfD^j<ADV>]) RlW|X| WbD^<VERB>]/Gb
+# as blind as a bee  (PP) : [(MODS [XfD^j<ADV>]) RlW|X| WbD^<VERB>]/Gb
+# as blind as a mole  (PP) : [(MODS [XfD^j<ADV>]) RlW|X| WbD^<VERB>]/Gb
+# blind to A (ADJ) : [(OBJ A/IzI) QlIz<VERB>]/Gb
+# blind with A (ADJ) : [(ADJUNCT [(COMP A) HcQsD<NOUN>]/Wg) WbQsAfUGl WbDRlW|<VERB>]/Gb
+
+"blindfold"
+ar (DsDWzI AbI|D)
+ap (DsDWzI AbI|Gb)
+
+"blinding"
+ar (DsDWzI ^jD^lAU|[|DzD)
+ap (DsDWzI ^jD^lAU|[|Gb:ADJ->VERB)
+
+"blinking"
+ar (BbQYbAW|DzD)
+ap (BbQYbAW|Gb:ADJ->VERB)
+
+"blissful"
+ar (^cWRlAWg DfQZ|D)
+ap (^cWRlAWg DfQZ|Gb)
+
+"blistering"
+ar (QsIX|RW| UcWA|Ag ^bDzD)
+* U|IIbI^bGb (attach AlWAjA)
+ap (QsIX|RW| UcWA|Ag ^bGb)
+
+"blithe"
+ar ([lc^lbI^bD)
+ap ([lc^lbI^bGb)
+
+"blithering"
+ar (^f\zD UlI|IzI ^bDzD)
+ap (^f\zD UlI|IzI ^bGb:ADJ->VERB)
+
+"blithesome"
+ar (XzIAfWsD)
+ap (XzIAfRGb)
+
+"bloated"
+ar (Rs]sD)
+ap (Rs]sIGb)
+
+"blockish"
+ar (DbQs\lQbA Ab\WzD)
+ap (DbQs\lQbA Ab\Gb)
+
+"blocky"
+ar (HbWHbIQbA^bD)
+ap (HbWHbIQbA^bGb)
+
+"blodfaced"
+ar (SfDSfDUzIfWsD)
+ap (SfDSfDUzIfRGb)
+
+"blond"
+ar (AzQRbIWz|)
+ap (AzQRbIW|Gb)
+
+"blood-and-thunder"
+ar (]lAIjAAlb Ww^jI\sUfWW|Wz|)
+ap (]lAIjAAlb Ww^jI\sUfWW|W|Gb)
+
+"blood-red"
+ar (]|ZfIfQ RsIAWzD)
+ap (]|ZfIfQ RsIAGb)
+
+"blood-warm"
+ar (^jIWlDWz|)
+ap (^jIWlDW|Gb)
+
+"bloodcurding"
+ar (WlVbA^bAg ^bDzD)
+ap (WlVbA^bAg ^bGb:ADJ->VERB)
+
+"blooded"
+ar (]|IzI AbX|Al W|VDzD)
+ap (]|IzI AbX|Al W|VGb)
+
+"bloodguilty"
+ar (UbIW|DWz|)
+ap (UbIW|DW|Gb)
+
+"bloodless"
+ar (]|UA| WfRUDzD)
+ap (]|UA| WfRUGb)
+
+"bloodshot"
+ar (ZsW^jIGl|D)
+ap (ZsW^jIGl|Gb)
+
+"bloodstained"
+ar (]|UXbAsAW| W|VDzD)
+ap (]|UXbAsAW| W|VGb)
+
+"bloodthirsty"
+ar (]|Wg AsIQXsI|D)
+ap (]|Wg AsIQXsI|Gb)
+
+"bloody"
+ar (]|\sUfWW|Wz|)
+* XbDW|D^bGb (tyrant ]lAAsD) (burglar AbWGl)
+* ^jW]jDWfRUGb (fool RbRl)
+ap (]|\sUfWW|W|Gb)
+
+# ^get a bloody nose from A (VERB) : [(OBJ2 A/WgAg) WfGWfQbX<VERB>]/Gb
+
+"bloody-minded"
+ar (UbIRfI^bD)
+ap (UbIRfI^bGb)
+
+"blooming"
+ar (BlZW| ]|D)
+ap (BlZW| ]|Gb)
+
+"blotched"
+ar (WfIIsAX|D)
+ap (WfIIsAX|Gb)
+
+"blotchy"
+ar (RsUzIfQ \sUfWW|Wz|)
+ap (RsUzIfQ \sUfWW|W|Gb)
+
+"blotto"
+ar (AlDGzIg QbDGzIg Zs|^bD)
+ap (AlDGzIg QbDGzIg Zs|^bGb)
+
+"blowm-up"
+ar (^lbAGc^bD)
+ap (^lbAGc^bGb)
+
+"blown"
+ar (Rs]sD)
+ap (Rs]sIGb)
+
+"blowy"
+ar (RbIbQW| UgD)
+ap (RbIbQW| UgGb)
+
+"blowzed"
+ar (ZfD^bAg RsIAzIg^bD)
+ap (ZfD^bAg RsIAzIg^bGb)
+
+"blowzy"
+ar (ZfD^bAg RsIAzIg^bD)
+ap (ZfD^bAg RsIAzIg^bGb)
+
+"blubber"
+ar (WsIWfGcD)
+ap (WsIWfGcGb)
+
+"blubbery"
+ar (X|RbWW| QbD^WzD)
+ap (X|RbWW| QbD^Gb)
+
+"blue"
+ar (]bIbD)
+* WsWsI^bGb (man UbIbQ)
+* R|AlbDXfAW|Gb (outlook XfDQbW) (future Q|Ic)
+* WzQIbD^bGb (story W|WdA|) (movie WjW^lb)
+* ]bIb^Gb (shirt UjZz) (glass WwI|)
+ap (]bIb^Gb)
+
+# blue in the face  (ADJ) : [(MODS [AjARsD^bWj<ADV>]) Uc]bIcX|<ADJ>]/Gb
+# blue fear (NOUN) : AzAGlWz| AlW]l
+# ^feel blue (VERB) : A|RsDW| WsIXfA^bGb
+# like blue murder (PP->ADV) : XfDUlAIjAWzIl
+# true blue  (ADJ) : [ZsWU|I^b<ADJ>]/Gb
+
+"blue-blooded"
+ar (QjWQsDWz|)
+ap (QjWQsDW|Gb)
+
+"blue-chip"
+ar (^lbAU|I^bD)
+ap (^lbAU|I^bGb)
+
+"blue-collar"
+ar (XbAWfRRlAWz|)
+ap (XbAWfRRlAW|Gb)
+
+"blue-colored"
+ar (]sIzDUcAWz|)
+ap (]sIzDUcAW|Gb)
+
+"blue-eyed"
+ar (]sIzD DsDWz|)
+ap (]sIzD DsDW|Gb)
+
+"blue-ribbon"
+ar (Zl|AlAzRWz|)
+ap (Zl|AlAzRW|Gb)
+
+"blue-sky"
+ar (AfWz| AbZ| WfRUDzD)
+ap (AfWz| AbZ| WfRUGb)
+
+"bluecoated"
+ar (DbQUcA XcRlAWzI W|RWzD)
+ap (DbQUcA XcRlAWzI W|RGb)
+
+"blueish"
+ar (]sIzU^bD)
+ap (]sIzU^bGb)
+
+"bluff"
+ar (XfIRjAWz|)
+ap (XfIRjAW|Gb)
+
+"bluffy"
+ar (XfIRjAAb\WzD)
+ap (XfIRjAAb\Gb)
+
+"bluish"
+ar (]sIzUzIzQ^bD)
+ap (]sIzUzIzQ^bGb)
+
+"blundering"
+ar (Uf\sIzD)
+ap (Uf\sIzGb)
+
+"blunt"
+ar (GsD^bD)
+ap (GsD^bGb)
+
+"blurry"
+ar (GfIfWsfX|D)
+ar (GfIfWsfX|Gb)
+
+"blustering"
+ar (UgZbAg RsIWf Z|DzD)
+ap (UgZbAg RsIWf Z|Gb:ADJ->VERB)
+
+"blusterous"
+ar (AfZ|IWzD)
+ap (AfZ|IGb)
+
+"blustery"
+ar (AfZ|IWzD)
+ap (AfZ|IGb)
+
+"boarish"
+ar (Us\lcX| Ab\WzD)
+ap (Us\lcX| Ab\Gb)
+
+"boastful"
+ar (XbIbW^bDzD)
+ap (XbIbW^bGb:ADJ->VERB)
+# ^be boastful of A (VERB) : [(OBJ A/IzI) XbIbW^b<VERB>]/Gb
+
+"boasting"
+ar (AfQbD^bD)
+ap (AfQbD^bGb)
+
+"boatable"
+ar (AfUzIIf WlIIbAbI Us W|VDzD)
+ap (AfUzIIf WlIIbAbI Us W|VGb)
+
+"bobbed"
+ar (BlI|IzI XbIzD)
+ap (BlI|IzI XbIzGb)
+
+"bobbery"
+ar (U|BzIfWsD)
+ap (U|BzIfRGb)
+
+"bobbish"
+ar (QjWIbW^bD)
+ap (QjWIbW^bGb)
+
+"bobtail"
+ar (BlI|IzI XbIzD)
+ap (BlI|IzI XbIzGb)
+
+"bobtailed"
+ar (BlI|IzI XbIzD)
+ap (BlI|IzI XbIzGb)
+
+"bodeful"
+ar (XfDXlAb Gl|DzD)
+ap (XfDXlAb Gl|Gb:ADJ->VERB)
+
+"bodied"
+ar (AsZg^lb ^bD)
+ap (AsZg^lb ^bGb)
+
+"bodiless"
+ar (QlQ WfRUDzD)
+ap (QlQ WfRUGb)
+
+"bodily"
+ar (U|DZgUbWWz|)
+ap (U|DZgUbWW|Gb)
+# bodily exercise (NOUN) : ZgXl
+# bodily fear (NOUN) : U|DZgWg Gc^bD Ws|^cWz| GsIjWsQ
+
+"boding"
+ar (XfDXlWz|)
+ap (XfDXlW|Gb)
+
+"boffo"
+ar (WsUzWsD)
+ap (WsUzRGb)
+
+"boggy"
+ar (UzRX|Wz|)
+ap (UzRX|W|Gb)
+
+"bogus"
+ar (AbYbWz|)
+ap (AbYbW|Gb)
+
+"bohemian"
+ar (Rl^gQ|WbWz|)
+ap (Rl^gQ|WbW|Gb)
+
+"boiled"
+ar (BzI^W|D)
+ap (BzI^W|Gb)
+
+"boiling"
+ar (BzI^Wf WlIzDzD)
+ap (BzI^Wf WlIzGb:ADJ->VERB)
+
+"boisterous"
+ar (UbDbWsD)
+ap (UbDbRGb)
+
+"bold"
+ar (GcGbQ^bD)
+* WrWA|W|VGb (plan Ak^l|A)
+* RsDRbW^bGb (investigation WjDAs)
+* RlIGzWz| (character QsDXb) (letter QsDXb)
+* AsIAGb (handwriting UfZg) (stroke ]|IZ|)
+* HsIjU^bGb (outline WwDAlbA)
+* Ab]bIzGb (promontory AbR) (cliff XfIRjA)
+* AfUgGb (wind RbIbQ) (fire RsIA|I)
+ap (GcGbQ^bGb)
+
+# bold hussy (NOUN) : QbIAlbIIdWW|
+# bold gaze (NOUN) : RfIzUWfRUW| SbD^|RlA|
+# in bold relief (PP->ADV) : HsIjUW| DsDWg Hz|Ag
+# ^make bold with A (VERB) : [(ADJUNCT A/Wg) (MODS [GcGbQ^bAg<ADV>]) RsG|XZ|<VERB>]/Gb
+# ^put a bold face on A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/Wf) \cWjD^b<ADJ>](^bD/F Zg/N ^b/V)/Gb
+
+"bolivian"
+ar (RlII|R|WbWz|)
+ap (RlII|R|WbW|Gb)
+
+"bolshevik"
+ar (RlIUkR|[|Wz|)
+ap (RlIUkR|[|W|Gb)
+
+"bolshevik"
+ar (RlIUkR|[|Wz|)
+ap (RlIUkR|[|W|Gb)
+
+"bombastic"
+ar (AlbXbWGl|D)
+ap (AlbXbWGl|Gb) 
+
+"bombed"
+ar (AlWUzRWzI RbGWzD)
+ap (AlWUzRWzI RbGGb)
+
+"bombed-out"
+ar (AlWUzRWzIl RsI\bRfI|D)
+ap (AlWUzRWzIl RsI\bRfI|Gb)
+
+"bombproof"
+ar (RbW\bDWz|)
+ap (RbW\bDW|Gb)
+
+"bon"
+ar (Xl^WzD)
+ap (Xl^Gb)
+
+"bonded"
+ar (AlWZcIl RlXzWGl|D)
+ap (AlWZcIl RlXzWGl|Gb)
+
+"bone-dry"
+ar (RbVbA QbIzD)
+ap (RbVbA QbIzGb)
+
+"bone-tired"
+ar (A|X|DQcAX|D^bD)
+ap (A|X|DQcAX|D^bGb)
+
+"boned"
+ar (SjAb ^bD)
+
+"boneheaded"
+ar (WfISbX|D)
+ap (WfISbX|Gb)
+
+"boneless"
+ar (Sj WfRUDzD)
+ap (Sj WfRUGb)
+
+"boneweary"
+ar (A|X|DQcAX|D^bD)
+ap (A|X|DQcAX|D^bGb)
+
+"bonkers"
+ar (Zs|^bD)
+ap (Zs|^bGb)
+
+"bonnie"
+ar (WkSzD)
+ap (WkSzGb)
+
+"bonny"
+ar (WkSzD)
+ap (WkSzGb)
+
+"bony"
+ar (SjWz|)
+ap (SjW|Gb)
+
+"bonzer"
+ar (AzDUb^bD)
+ap (AzDUb^bGb)
+
+"book-learned"
+ar (ZcAWzIlQbD RcWsD)
+ap (ZcAWzIlQbD RcWsGb)
+
+"bookish"
+ar (UfXfAUbWWz|)
+ap (UfXfAUbWW|Gb)
+
+"boom"
+ar (RsQWzI \bD)
+ap (RsQWzI \bGb)
+
+"booming"
+ar (Ws|WWs|WAfI|DzD)
+* XbIGl|Gb:ADJ->VERB (business UbWfR)
+ap (Ws|WWs|WAfI|Gb:ADJ->VERB)
+
+"boon"
+ar (XcQ|W|VDzD)
+ap (XcQ|W|VGb)
+
+"boorish"
+ar (ZlD\|Ab DbDzD)
+ap (ZlD\|Ab DbGb:ADJ->VERB)
+
+"booted"
+ar (AsGsIzI U|DWzD)
+ap (AsGsIzI U|DGb)
+
+"bootleg"
+ar (Q|IQcGl|D)
+ap (Q|IQcGl|Gb)
+
+"bootless"
+ar (QsW|A^bD)
+ap (QsW|A^bGb)
+
+"bootstrap"
+ar (XbGlWWz|)
+ap (XbGlWW|Gb)
+
+"boozy"
+ar (UsIZs|^bD)
+ap (UsIZs|^bGb)
+
+"boracic"
+ar (RsWUlWz|)
+ap (RsWUlW|Gb)
+
+"bordered"
+ar (AbXbWXbI|IzI GbD)
+ap (AbXbWXbI|IzI GbIGb)
+
+"borderline"
+ar (AsAAjWUfDUbWWz|)
+ap (AsAAjWUfDUbWW|Gb)
+
+"boreal"
+ar (RsA]sWWz|)
+ap (RsA]sWW|Gb)
+
+"bored"
+ar (HbRsD^bD)
+ap (HbRsD^bGb)
+
+"boresome"
+ar (X|Is^bD)
+ap (X|Is^bGb)
+
+"boring"
+ar (X|DXfI|DbDzD)
+ap (X|DXfI|DbGb:ADJ->VERB)
+
+"born"
+ar (\cWfDbD)
+* \bAlDbGb (athlete WsDGlW UfDUs) (artist WkUsIAb) (musician WzQWbAAb) (politician XfWZ|Ab) (saint UfWX|AXb)
+* UfDZfAXfAW|Gb (fool RbRl)
+ap (\cWfDbGb)
+
+# a Parisian born and bred (NOUN) : ]bI| RlD\lRbAW|
+# in all ONE_S born days (PP->ADV) : \cWfDbUf X|AzQBbX|
+
+"borrowed"
+ar (R|II|D)
+ap (R|IGb)
+
+"bos-eyed"
+ar (WcBsDsDWz|)
+ap (WcBsDsDW|Gb)
+
+"bosky"
+ar (Us]sIW| WsAfX|D)
+ap (Us]sIW| WsAfX|Gb)
+
+"bosom"
+ar (AbUzQWz|)
+ap (AbUzQW|Gb)
+
+"bosomy"
+ar (Ws|Il RsIIsA^bD)
+ap (Ws|Il RsIIsA^bGb)
+
+"boss"
+ar (W|IIwWz|)
+ap (W|IIwW|Gb)
+
+"bossed"
+ar (WdWAbAWzIl XbWU|A^bD)
+ap (WdWAbAWzIl XbWU|A^bGb)
+
+"bossy"
+ar (WdWAbAWzIl XbWU|A^bD)
+ap (WdWAbAWzIl XbWU|A^bGb)
+
+"bossy"
+ar (GsQlA^cWUgIzI ^bDzD)
+ap (GsQlA^cWUgIzI ^bGb:ADJ->VERB)
+
+"bostonian"
+ar (RlUz\fDWz|)
+ap (RlUz\fDW|Gb)
+
+"boswellian"
+ar (RlXzWsgIAb\WzD)
+ap (RlXzWsgIAb\Gb)
+
+"botanic"
+ar (U|AQsIWz|)
+ap (U|AQsIW|Gb)
+
+"botanical"
+ar (U|AQsIWz|)
+ap (U|AQsIW|Gb)
+
+"botchy"
+ar (DsGfADsGfA A|WsD)
+ap (DsGfADsGfA A|WsGb)
+
+"both"
+ar (WdWYlAWz|)
+* WdWYlAWz| (side ]jD)
+ap (WdWYlAW|Gb)
+# both A and B (NOUN) : [(NMODS A/Wlb) (NMODS B) QlGs<NOUN>]{+PLUR}
+# both ADJ and ^ADJ1 | (ADJ) :  [(ADJUNCT ADJ/^bAl) ADJ1]/^bGb
+# both the ^A (NOUN) :  [(NMODS A) QlGs<NOUN>]{+PLUR}
+# both the ADJ and the ^ADJ1 | (ADJ) :  [(ADJUNCT ADJ/^bAl) ADJ1]/^bGb
+
+"bothersome"
+ar (As|ZbD^WzD)
+ap (As|ZbD^Gb)
+
+"bottle-fed"
+ar (WsWwIl XbIbD)
+ap (WsWwIl XbIbGb)
+
+"bottled"
+ar (RjWWg GbQWzD)
+ap (RjWWg GbQGb)
+
+"bottom"
+ar (Q|\RbGbAWz|)
+ap (Q|\RbGbAW|Gb)
+# bottom drawer (NOUN) : QcD Q|\ UfIbR
+
+"bottomless"
+ar (Q|\RbGbAW| WfRUDzD)
+ap (Q|\RbGbAW| WfRUGb)
+
+"bottommost"
+ar (QcD Q|\RbGbAWz|)
+ap (QcD Q|\RbGbAW|Gb)
+
+"bougeois"
+ar (RsIzXlWbWz|)
+ap (RsIzXlWbW|Gb)
+
+"boughten"
+ar (AbAgWgUf UbD)
+ap (AbAgWgUf UbGb)
+
+"bouncing"
+ar (XbI \s|DzD)
+ap (XbI \s|Gb:ADJ->VERB)
+# Bet bouncing (NOUN) : R|Ds]cIcWW|BlZ
+# Bess bouncing (NOUN) : R|Ds]cIcWW|BlZ
+# bouncing check (NOUN) : RsGlUs]r
+
+"bouncy"
+ar (^lbIRbI^bD)
+ap (^lbIRbI^bGb)
+
+"bound"
+ar (XbWXfW^bD)
+ap (XbWXfW^bGb)
+# ^be bound up in A (VERB) : [(ADJUNCT A/Wg) WjIXsW^bAl W|V<VERB>]/Gb
+# ^be bound up with A (VERB) : [(ADJUNCT A/Wg) XfWU|D]bIIj W|V<VERB>]/Gb
+# bound up with A (ADJ) : [(ADJUNCT A/Alb) (OBJ [W|^c<NOUN>]/IzI) Ab\W| ^b<VERB>]/^bGb
+# ^be bound TO_INF (VERB) : [(SCOMP TO_INF/^bA|Il) Gl|Wf W|V<VERB>]/Gb
+# bound for A (ADJ) : [(ADJUNCT A/Il) ^dW^b<VERB>]/Gb
+# ^be bound for A (VERB) : [(ADJUNCT A/Il) ^dW^b<VERB>]/Gb
+
+"bounden"
+ar (Wz|QsXfAW|D)
+ap (Wz|QsXfAW|Gb)
+
+"boundless"
+ar (Qs^bDWz|) 
+ar (Qs^bDW|Gb)
+
+"bounteous"
+ar (XbR|U|Q A|]WzD)
+ap (XbR|U|Q A|]Gb)
+
+"bountiful"
+ar (XbR|U|Q A|]WzD)
+ap (XbR|U|Q A|]Gb)
+
+"bow-windowed"
+ar (RbBWzIl RsIIsA DbWlD ZbWW| W|VDzD)
+ap (RbBWzIl RsIIsA DbWlD ZbWW| W|VGb)
+
+"bowed"
+ar (BsRsIfX|D)
+ap (BsRsIfX|Gb)
+
+"bowered"
+ar (DbQs AzDzIWz|)
+ap (DbQs AzDzIW|Gb)
+
+"bowery"
+ar (XfWXbAb W|VDzD)
+ap (XfWXbAb W|VGb)
+
+"bowing"
+ar (XfIWzI ^bDzD)
+ap (XfIWzI ^bGb:ADJ->VERB)
+# ^have a bowing acquaintance with A (VERB) : [(AMODS [(ADJUNCT A/Alb) WbI<VERB>]/^bDzD) UbW|<NOUN>]/Gb
+
+"boyish"
+ar (WfI|DWc Ab\WzD)
+ap (WfI|DWc Ab\Gb)
+
+"braceleted"
+ar (]bIY|IzI B|D)
+ap (]bIY|IzI B|Gb)
+
+"brachial"
+ar (]bIWz|)
+ap (]bIW|Gb)
+
+"brachycephalic"
+ar (GbDGsWz|)
+ap (GbDGsW|Gb)
+
+"brachycephalous"
+ar (GbDGsWz|)
+ap (GbDGsW|Gb)
+
+"bracing"
+ar (A|DXbW U|[|DzD)
+ap (A|DXbW U|[|Gb:ADJ->VERB)
+# bracing cable (NOUN) : GbWA|QXsI
+# bracing strut (NOUN) : X|Xs
+
+"brackish"
+ar (UlAzQA|Ab W|VDzD)
+ap (UlAzQA|Ab W|VGb)
+
+"bracteate"
+ar (]lAb W|VDzD)
+ap (]lAb W|VGb)
+
+"brainless"
+ar (QfI|Ab DbSzD)
+ap (QfI|Ab DbSzGb)
+
+"brainy"
+ar (QfI|Xl^WzD)
+ap (QfI|Xl^Gb)
+
+"braky"
+ar (WdWZ|IwAb QbD^WzD)
+ap (WdWZ|IwAb QbD^Gb)
+
+"brambly"
+ar (AbU|GfQRsIW| WsAfX|D)
+ap (AbU|GfQRsIW| WsAfX|Gb)
+
+"branched"
+ar (AbX|Ab W|VDzD)
+ap (AbX|Ab W|VGb)
+
+"branching"
+ar (AbX|Ab DbD)
+ap (AbX|Ab DbGb)
+
+"brand-new"
+ar (WbXs UcIlWsD)
+ap (WbXs UcIlRGb) 
+
+"brandied"
+ar (RzIcDG|Wg GbQAzD)
+ap (RzIcDG|Wg GbQAzGb)
+
+"branny"
+ar (AjWz|)
+ap (AjW|Gb)
+
+"brash"
+ar (UfW XbIDcDzD)
+ap (UfW XbIDcGb:ADJ->VERB)
+
+"brass"
+ar (DlUUl|Il QbDGzD)
+ap (DlUUl|Il QbDGzIGb)
+# don't ^care a brass farthing (VERB) : XlAzQGl AcWz|Z| WbD^Gb
+
+"brass-visaged"
+ar (ZfIQjD]|^bD)
+ap (ZfIQjD]|^bGb)
+
+"brass-wind"
+ar (AzQAlbDWbAA|Wz|)
+ap (AzQAlbDWbAA|W|Gb)
+
+"brave"
+ar (WrWAbQ^bD)
+* ^lbIj^bGb (dress RlAXbW) (appearance Wl|Ql)
+ap (WrWAbQ^bGb)
+
+# a brave new world (NOUN) : ^sIIwW^bD U|DUgAk
+
+"braw"
+ar (WlUZbI|QW| ^lbIj^bD)
+ap (WlUZbI|QW| ^lbIj^bGb)
+
+"brawling"
+ar (U|BzIfWsD)
+ap (U|BzIfRGb)
+
+"brawny"
+ar (AzDWwAW| \bD\bD^bD)
+ap (AzDWwAW| \bD\bD^bGb)
+
+"brazen"
+ar (DlUUl|Il QbDGzD)
+ap (DlUUl|Il QbDGzIGb)
+# the brazen age (NOUN) : ^lbWGlWU|Gc
+
+"brazilian"
+ar (RzIbX|IWz|)
+ap (RzIbX|IW|Gb)
+
+"bread-and-butter"
+ar (GlDRfIA| Ws|^bD)
+ap (GlDRfIA| Ws|^bGb) 
+"breadless"
+ar (SbWW| WfRUDzD)
+ap (SbWW| WfRUGb)
+
+"break-even"
+ar (UsW|RWcAW| X|ZsIWcAAlb QbXQfADzD)
+ap (UsW|RWcAW| X|ZsIWcAAlb QbXQfAGb)
+
+"breakable"
+ar (BcX|A| Us|WsD)
+ap (BcX|A| Us|RGb)
+
+"breakaway"
+ar (RsDI|Gl|D)
+ap (RsDI|Gl|Gb)
+
+"breakneck"
+ar (AzA^| Ws|^fQ^bD)
+ap (AzA^| Ws|^fQ^bGb)
+
+"breasted"
+ar (AbUzQRsRsDWzI GcD)
+ap (AbUzQRsRsDWzI GcGb)
+
+"breath-taking"
+ar (WbUzIWbUzI^bD)
+ap (WbUzIWbUzI^bGb)
+
+"breathed"
+ar (QsUfWWzQWz|)
+ap (QsUfWWzQW|Gb)
+
+"breathing"
+ar (^l^zR^bDzD)
+ap (^l^zR^bGb:ADJ->VERB)
+
+"breathless"
+ar (UsQW| AbSzD)
+ap (UsQW| AbSzGb)
+
+"breathtaking"
+ar (WbUzIWbUzI^bD)
+* WbUzIWbUzI^bGb (performance UfWAlb)
+ap (WbUzIWbUzI^bGb)
+
+"breeched"
+ar (]lQ|Ab GbII|D)
+ap (]lQ|Ab GbII|Gb)
+
+"breechless"
+ar (]lQ|Ab WfRUDzD)
+ap (]lQ|Ab WfRUGb)
+
+"breechloading"
+ar (^sXbWU|AWz|)
+ap (^sXbWU|AW|Gb)
+
+"breezeless"
+ar (RbIbQWfRUDzD)
+ap (RbIbQWfRUGb)
+
+"breezy"
+ar (Q|]sWWz|)
+ap (Q|]sWW|Gb)
+
+"breton"
+ar (RzIz\bDwWz|)
+ap (RzIz\bDwW|Gb)
+
+"bribable"
+ar (Dl|QsIW| ^rAlb W|VDzD)
+ap (Dl|QsIW| ^rAlb W|VGb)
+
+"bricky"
+ar (RjAGlIWz|)
+ap (RjAGlIW|Gb)
+
+"bridal"
+ar (U|DRsWz|)
+ap (U|DRsW|Gb)
+
+"bridgeable"
+ar (GbI|IzI Dl^WzI Us W|VDzD)
+ap (GbI|IzI Dl^WzI Us W|VGb)
+
+"bridle-wise"
+ar (AsIIgWg W|AUsA^bD)
+ap (AsIIgWg W|AUsA^bGb)
+
+"brief"
+ar (AbDGbD^bD)
+* GbDU|AbDWz| (stay ZgIw) (interview W|D\fRw) (life W|DUcW)
+* AbDIdA^bGb (address WjDUfI) (letter ]jDX|)
+* VbIVbIQbXGb (welcom ^lbDWjW)
+ap (AbDGbD^bGb)
+
+# to be brief (PP) : AbDGbD^| QbI^bQjD
+# in brief (PP->ADV) : AbDGbD^| QbI^bQjD
+
+"briefless"
+ar (UlUlWWz|Il|W|DW| WfRUDzD)
+ap (UlUlWWz|Il|W|DW| WfRUGb)
+
+"brigandish"
+ar (UbDXfAAb\WzD)
+ap (UbDXfAAb\Gb)
+
+"bright"
+ar (RbIAWzD)
+* QbIAGb (sound UlI|) (smile Q|Ul) (liquid WcAZg)
+* QjWRcA^bGb (proof XzWAf)
+* QjWIbW^bGb (character UfWAjA)
+* RbIAGb (future Q|Ic) (star RjI) (side QjD)
+* R|ZDbGb (object QsIZg) (reputation QjWUfW)
+* UfDQjW^bGb (color UcABbI) (yellow DlIbW) (red SbIAbW) (blue ]bIbW)
+* WjWI|^bGb (student ^bAUcW) (~ {+HUMAN})
+* WwQbW^bGb (prospect XfDGl) 
+* XcZ|W|VGb (answer GcGbR) (idea UcWAbA)
+* ^lbZbW^bGb (day DbI) (weather DbIV|)
+ap (RbIAGb)
+* WjWI|^bGb (~ {+HUMAN})
+
+# bright and clear (ADJ) : [lcZfW^bGb
+# bright and clever (ADJ) : WjWI|^bGb
+# bright and early (ADV) : WbZ|Q W|IY|A|
+# ^look on the bright side of things (VERB) : UbQsIWzI DbAAlbD^bGb
+
+"bright-eyed"
+ar (DsDW| QbIAWzD)
+ap (DsDW| QbIAGb)
+
+"bright-faced"
+ar (WjWI|^c RlW|DzD)
+ap (WjWI|^c RlW|Gb:ADJ->VERB)
+
+"brilliant"
+ar (R|ZDbDzD)
+* ^sIIwW^bGb (achievement WfRXfA) (mind XcDzW) (idea UcWAbA)
+* HlAHlA^bGb (man UbIbQ) (student ^bAUcW) (researcher WjDAsWsfD)
+ap (R|ZDbGb:ADJ->VERB)
+
+
+"brimful"
+ar (DfQZ|IGzU^bD)
+ap (DfQZ|I GzU^bGb)
+
+"brimless"
+ar (AbXbWXbI|Ab WfRUDzD)
+ap (AbXbWXbI|Ab WfRUGb)
+
+"brimmed"
+ar (\gGsI|Ab W|VDzD)
+ap (\gGsI|Ab W|VGb)
+
+"brimming"
+ar (DfQZ|IGzU^bD)
+ap (DfQZ|I GzU^bGb)
+
+"brimstony"
+ar (Ww^lbWX|IWz|)
+ap (Ww^lbWX|IW|Gb)
+
+"brindled"
+ar (WfIIsAX|D)
+ap (WfIIsAX|Gb)
+
+"brisk"
+ar (^lbIRbI^bD)
+ap (^lbIRbI^bGb)
+# brisk business (NOUN) : ^lbI^lbW
+
+"bristled"
+ar (AbWQlAb W|VDzD)
+ap (AbWQlAb W|VGb)
+
+"bristly"
+ar (\fIW| SbUSbU^bD)
+ap (\fIW| SbUSbU^bGb)
+
+"brittle"
+ar (RsUfX|A| Us|WsD)
+ap (RsUfX|A| Us|RGb)
+
+"broad"
+ar (DfIRWzD)
+* AlbWGc^bGb (ocean GcWdW) (land \lX|) (plain ]jWWd)
+* AlbDGc^bGb (mind QbWzQ)
+* AlbWRfQ^bGb (authority AsfDWs|) (experience AjW^fQ)
+* W|IRbDXfAW|Gb (rule AwZ|A)
+* QjWRcA^bGb (distinction AsRjI) (fact UbU|I)
+* DlAlIXfAW|Gb (hint ^|D\z)
+ap (DfIRGb)
+
+# in a broad daylight (PP->ADV) : AlWAlWWjD^bAg
+# ^have broad views (VERB) : AjD^cAb DfIRGb
+# ^take a broad view of A (VERB) : [(OBJ A/IzI) (MODS []lADfIRAg<ADV>]) Rl<VERB>]/Gb
+# broad dialect (NOUN) : U|Q^bD Ub\sI|
+# broad jest (NOUN) : UbWUzIfWsD DlWGbQ
+# broad vowel (NOUN) : AcAs QlWzQ
+
+"broad-band"
+ar (AlbWGcWjAWz|)
+ap (AlbWGcWjAW|Gb)
+
+"broad-blown"
+ar (^lbIYbA ]|D)
+ap (^lbIYbA ]|Gb)
+
+"broad-brimmed"
+ar (ZcWW| DfIRWzD)
+ap (ZcWW| DfIRGb)
+
+"broad-brush"
+ar (GcAbWWz|)
+ap (GcAbWW|Gb)
+
+"broad-gage"
+ar (AlbWAsgWz|)
+ap (AlbWAsgW|Gb)
+
+"broad-leafed"
+ar (W|]W| DfIRWzD)
+ap (W|]W| DfIRGb)
+
+"broad-leaved"
+ar (W|]W| DfIRWzD)
+ap (W|]W| DfIRGb)
+
+"broad-minded"
+ar (QbWzQ DfIRWzD)
+ap (QbWzQW| DfIRGb)
+
+"broadband"
+ar (AlbWGcWjAWz|)
+ap (AlbWGcWjAW|Gb)
+
+"broadcast"
+ar (RbWUlWWz|)
+ap (RbWUlWW|Gb)
+
+"broadish"
+ar (XlQ DfIRWzD)
+ap (XlQ DfIRGb)
+
+"broadloom"
+ar (]lADfIRAg YbD)
+ap (]lADfIRAg YbGb)
+
+"brobdingnagian"
+ar (AfGc^bD)
+ap (AfGc^bGb)
+
+"brocaded"
+ar (QsDz|IzI GsGzIfX|Ag YbD)
+ap (QsDz|IzI GsGzIfX|Ag YbGb)
+
+"broche"
+ar (WdWGbDWzIl YbD)
+ap (WdWGbDWzIl YbGb)
+
+"broiling"
+ar (Y|DzD GzUW| GfWsD)
+ap (Y|DzD GzUW| GfRGb)
+
+"broke"
+ar (QsW|I]sDW|D)
+ap (QsW|I]sDW|Gb)
+# new broke ground (VERB) : QsW|I]sDW| Gl|Gb
+
+"broken"
+ar (RsUfX|D)
+* BcX|Gb (promise WdAUlA) (window ZbWQsD) (glass WwI|)
+* RsIfX|Gb (leg GbI|) (bone Sj)
+ap (RsUfX|Gb)
+
+# broken chords (NOUN) : RsDUbD ^lbWzQ
+# broken lot (NOUN) : GbDXs
+# broken English (NOUN) : RjDZ|A WjWWf
+# in broken accent (PP->ADV) : WfW\fI| WfXlIl
+# broken meat (NOUN) : \fAY|A| AlA|
+# broken number (NOUN) : Bz\Us
+# broken money (NOUN) : XbDGlD
+# broken words (NOUN) : Hz|WfQHz|WfQ ^bDzD QbI
+# broken sleep (NOUN) : UfDXbQ
+# broken heart (NOUN) : U|IQbW
+# broken man (NOUN) : U|IWz|Wg SbX|D UbIbQ
+# broken soldier (NOUN) : UbWW| AsDW|D
+# broken tea (NOUN) : AbIsZb
+# broken time (NOUN) : WfXsWAbD^bD U|AbD
+# broken water (NOUN) : ZsIIfWW|DzD QsIAjI
+# broken weather (NOUN) : RjDGfAUzIfWsD DbIV|
+
+"broken-down"
+ar (UbDUbDW| RsUfX|D)
+ap (UbDUbDW| RsUfX|Gb)
+
+"broken-hearted"
+ar (UbWU|Q^bD)
+ap (UbWU|Q^bGb)
+
+"broken-winded"
+ar (^fIHfAW|DzD)
+ap (^fIHfAW|Gb:ADJ->VERB)
+
+"bromic"
+ar (Zs|UlIzI ^bQWw^bDzD)
+ap (Zs|UlIzI ^bQWw^bGb:ADJ->VERB)
+
+"bromidic"
+ar (]jWRfQ^bD)
+ap (]jWRfQ^bGb)
+
+"bronchial"
+ar (A|AlbDX|Wz|)
+ap (A|AlbDX|W|Gb)
+
+"bronchitic"
+ar (A|AlbDX|WjQUfWWz|)
+ap (A|AlbDX|WjQUfWW|Gb)
+
+"bronze"
+ar (ZfWGlWWz|)
+ap (ZfWGlWW|Gb)
+# the Bronze Age (NOUN) : ZfWGlWA| U|Gc
+
+"bronzy"
+ar (ZfWGlWWz|)
+ap (ZfWGlWW|Gb)
+
+"brood"
+ar (UcB|IzI A|IzDzD)
+ap (UcB|IzI A|IzGb:ADJ->VERB)
+
+"broody"
+ar (WbIWzI ]sQWzIj ^bDzD)
+ap (WbIWzI ]sQWzIj ^bGb:ADJ->VERB)
+
+"broomy"
+ar (AzQXbA^lbWz|)
+ap (AzQXbA^lbW|Gb)
+
+"brotherly"
+ar (^jWXgWz|)
+ap (^jWXgW|Gb)
+
+"brown"
+ar (AbIUcAWz|)
+ap (AbIUcAW|Gb)
+# ^be in a brown study (VERB) : WsGs[fD| UcWAbAWg XbQAj W|VGb
+# ^do brown (VERB) : AbIUcAWzIl AsRGb
+# ^do up brown (VERB) : BcBzUW| ^cDcGb
+
+"brownish"
+ar (AbIUcAWzI H|D)
+ap (AbIUcAWzI H|Gb)
+
+"brownstone"
+ar (RsWw AkAzRWz|)
+ap (RsWw AkAzRW|Gb)
+
+"browny"
+ar (AbIUcAWz|)
+ap (AbIUcAW|Gb)
+
+"brozen-faced"
+ar (ZfIQjD]|^bD)
+ap (ZfIQjD]|^bGb)
+
+"brumal"
+ar (AfWsIWz|)
+ap (AfWsIW|Gb)
+
+"brunet"
+ar (]|Rs)
+
+"brushing"
+ar (UzZ|DzD)
+ap (UzZ|Gb:ADJ->VERB)
+
+"brushy"
+ar (UlI Ab\WzD)
+ar (UlI Ab\Gb)
+
+"brusk"
+ar (QsHsAHsA^bD)
+ap (QsHsAHsA^bGb)
+
+"brusque"
+ar (QsHsAHsA^bD)
+ap (QsHsAHsA^bGb)
+
+"brutal"
+ar (X|QUzWAb\Gb)
+* XbDW|D^bGb (month GbI)
+ap (X|QUzWAb\Gb)
+
+"brute"
+ar (WdQbDXfAW|D)
+ap (WdQbDXfAW|Gb)
+# brute courage (NOUN) : QbDWrW
+# brute force (NOUN) : ]lAIjA
+
+"brutish"
+ar (X|QUzWAb\WzD)
+ap (X|QUzWAb\Gb)
+
+"bryozoan"
+ar (W|B|RfIIgIwWz|)
+ap (W|B|RfIIgIwW|Gb)
+
+"bubaline"
+ar (Ab\WzD)
+ap (Ab\Gb)
+
+"bubbly"
+ar (Af]sQW| QbD^WzD)
+ap (Af]sQW| QbD^Gb)
+
+"buckish"
+ar (QfU RsI|DzD)
+ap (QfU RsI|Gb:ADJ->VERB)
+
+"buckled"
+ar (QsII|QUl|Ab GbII|D)
+ap (QsII|QUl|Ab GbII|Gb)
+
+"bucktooth"
+ar (WdWZ|A|Wz|)
+ap (WdWZ|A|W|Gb)
+
+"bucolic"
+ar (WdWZ|A|Wz|)
+ap (WdWZ|A|W|Gb)
+
+"bucolic"
+ar (XfDWsfDXfAW|D)
+ap (XfDWsfDXfAW|Gb)
+
+"budded"
+ar (VbA\zD)
+ap (VbA\zGb)
+
+"buddhistic"
+ar (RsZfWz|)
+ap (RsZfW|Gb)
+
+"buddhistical"
+ar (RsZfWz|)
+ap (RsZfW|Gb)
+
+"budding"
+ar (VbA\zA| U|XbA^bDzD)
+ap (VbA\zA| U|XbA^bGb:ADJ->VERB)
+
+"budgetary"
+ar (WkUbDUbWWz|)
+ap (WkUbDUbWW|Gb)
+
+"buffo"
+ar (W|AUbIUzIfWsD)
+ap (W|AUbIUzIfRGb)
+
+"buffy"
+ar (GzIUlAbXsAAb\WzD)
+ap (GzIUlAbXsAAb\Gb)
+
+"bug-eyed"
+ar (\lWRbWWsI DsDWz|)
+ap (\lWRbWWsI DsDW|Gb)
+
+"buggy"
+ar (RfIIg\sUfWW|Wz|)
+ap (RfIIg\sUfWW|W|Gb)
+
+"bughouse"
+ar (AlbWA|Wz|)
+ap (AlbWA|W|Gb)
+
+"build-on"
+ar (XlI|RU|A)
+ap (XlI|RU|AW|Gb)
+
+"built"
+ar (Yb QbXZsDzD)
+ap (Yb QbXZsGb:ADJ->VERB)
+
+"built-in"
+ar (DcXbWGl|D)
+ap (DcXbWGl|Gb)
+
+"built-up"
+ar (YbQbXZsD)
+ap (YbQbXZsGb)
+
+"bulbar"
+ar (W|DAjWWz|)
+ap (W|DAjWW|Gb)
+
+"bulbed"
+ar (AsAzDWz|)
+ap (AsAzDW|Gb)
+
+"bulbiform"
+ar (AsAzDQlWdWWz|)
+ap (AsAzDQlWdWW|Gb)
+
+"bulbifreous"
+ar (AsAzDWzI W|IsDzD)
+ap (AsAzDWzI W|IsGb:ADJ->VERB)
+
+"bulbous"
+ar (AsAzDWz|)
+ap (AsAzDW|Gb)
+
+"bulgy"
+ar (Rs]sD)
+ap (Rs]sIGb)
+
+"bulimic"
+ar (AgAfIGzII|D)
+ap (AgAfIGzII|Gb)
+
+"bulky"
+ar (Rs]|Ab [zD)
+ap (Rs]|Ab [zGb)
+
+"bull"
+ar (Us[fUWz|)
+ap (Us[fUW|Gb)
+# bull dance (NOUN) : UbDcGzI B|I|Wz| GcDUz]bWb\|
+
+"bulldog"
+ar (RsIGlAAb\WzD)
+ap (RsIGlAAb\Gb)
+
+"bullethead"
+ar (QfI|Ab GsWAzD)
+ap (QfI|Ab GsWAzIGb)
+
+"bulletproof"
+ar (RbW\bDWz|)
+ap (RbW\bDW|Gb)
+
+"bullheaded"
+ar (AlX|RUgD)
+ap (AlX|RW| UgGb)
+
+"bullish"
+ar (^lbWUlAb\WzD)
+* ^z|QbWXfAW|Gb (outlook XfDQbW)
+ap (^lbWUlAb\Gb)
+
+"bullnecked"
+ar (QlAW| AsIAWzD)
+ap (QlAW| AsIAGb)
+
+"bully"
+ar (QfUX|D)
+ap (QfUX|Gb)
+
+"bum"
+ar (AbRUVbD)
+ap (AbRUW| VbGb)
+
+"bumper"
+ar (QcWs [zD)
+ap (QcWs [zGb)
+
+"bumper-to-bumper"
+ar (W|UGbIWb XsIX|WzD)
+ap (W|UGbIWb XsIX|UGb)
+
+"bumptious"
+ar (AfQbD^bD)
+ap (AfQbD^bGb)
+
+"bumpy"
+ar (WsI\sWRsI\sW^bD)
+ap (WsI\sWRsI\sW^bGb)
+
+"bunchy"
+ar (UlWW|Ab W|VDzD)
+ap (UlWW|Ab W|VGb)
+
+"bungaloid"
+ar (RbWAbIIlW|Gz U|AWz|)
+ap (RbWAbIIlW|Gz U|AW|Gb)
+
+"bunglesome"
+ar (Uf\sIzD)
+ap (Uf\sIGb)
+
+"bungling"
+ar (Uf\sIzD)
+ap (Uf\sIGb)
+
+"buoyant"
+ar (RsIjAW| W|VDzD)
+ap (RsIjAW| W|VGb)
+
+"burdensome"
+ar (RsGbQW| Gl|DzD)
+ap (RsGbQW| Gl|Gb:ADJ->VERB)
+
+"bureaucratic"
+ar (AlbDIrXfAW|D)
+ap (AlbDIrXfAW|Gb)
+
+"burlesque"
+ar (W|AUbIQbXWzD)
+ap (W|AUbIQbXGb)
+
+"burly"
+ar (\zD\zD^bD)
+ap (\zD\zD^bGb)
+
+"burmese"
+ar (RfWfQbWz|)
+ap (RfWfQbW|Gb)
+
+"burnable"
+ar (\cWsI Us W|VDzD)
+ap (\cWsI Us W|VGb)
+
+"burned-out"
+ar (\bRfI|D)
+ap (\bRfI|Gb)
+
+"burning"
+ar (\bDzD)
+ap (\bGb:ADJ->VERB)
+
+"burnish"
+ar (YbD)
+
+"burnt"
+ar (RsI\bD)
+ap (RsI\bGb)
+# burnt alum (NOUN) : UlQjWRbD
+
+"burnt-out"
+ar (Gb \bRfI|D)
+ap (Gb \bRfI|Gb)
+
+"burry"
+ar (AbU|\sUfWW|Wz|)
+ap (AbU|\sUfWW|W|Gb)
+
+"bursarial"
+ar (^l|AkWz|)
+ap (^l|AkW|Gb)
+
+"bushed"
+ar (A|X|DQcAX|D^bD)
+ap (A|X|DQcAX|D^bGb)
+
+"bushy"
+ar (AlbDQlAW| QsUfW^bD)
+ap (AlbDQlAW| QsUfW^bGb)
+
+"business-critical"
+ar (UbWfR W|QAkXfAW|D)
+ap (UbWfR W|QAkXfAW|Gb)
+
+"businesslike"
+ar (UbQsXfAW|D)
+ap (UbQsXfAW|Gb)
+
+"buskined"
+ar (RbD XbW^lbIzI U|DWzD)
+ap (RbD XbW^lbIzI U|DGb)
+
+"bustling"
+ar (RsDXs^bD)
+ap (RsDXs^bGb)
+
+"busty"
+ar (AbUzQW| ]sWQbD^bD)
+ap (AbUzQW| ]sWQbD^bGb)
+
+"busy"
+ar (RbSzD)
+* RsQR|Gb:ADJ->VERB (street AfI|) (shop UbWXfQ)
+* RbSzGb (schedule W|IXfW)
+ap (RbSzGb)
+
+# ^be busy PRESP (VERB->ADJ) : [(SCOMP PRESP/^bDzIb) RbSz<ADJ>]/Gb
+# ^be busy at A (VERB->ADJ) : [(SCOMP A/Il) RbSz<ADJ>]/Gb
+# ^be busy at PRESP (VERB->ADJ) : [(SCOMP PRESP/^bDzIb) RbSz<ADJ>]/Gb
+# ^be busy with A (VERB->ADJ) : [(SCOMP A/Il) RbSz<ADJ>]/Gb
+# ^be busy with PRESP (VERB->ADJ) : [(SCOMP PRESP/^bDzIb) RbSz<ADJ>]/Gb
+# busy bee (NOUN) : W|IRfIIg
+# busy interfering woman (NOUN) : DbQWz| W|IWg ZbQAjD^bA| Xl^Wb^bDzD WjXb
+# busy tongue (NOUN) : UsGbXbWW|
+# ^keep busy (VERB) : W|IWzI AkUlA^bGb
+# ^keep busy PRESP (VERB->ADJ) : [(SCOMP PRESP/^bDzIb) (MODS [AkUlA<ADV>]) RbSz<ADJ>]/Gb
+# the busy bee (NOUN) : RsX|IfD^bD W|IAsD
+
+"busy-tongued"
+ar (UsGbUzIfWsD)
+ap (UsGbUzIfRGb)
+
+"butcherly"
+ar (GlUbIXb Ab\WzD)
+ap (GlUbIXb Ab\Gb)
+
+"butterfingered"
+ar (Uf\sIzD)
+ap (Uf\sIGb)
+
+"buttery"
+ar (Rf\f Ab\WzD)
+ap (Rf\f Ab\Gb)
+
+"button-down"
+ar (GbDZsIl ZcWsI Us W|VDzD)
+ap (GbDZsIl ZcWsI Us W|VGb)
+
+"button-on"
+ar (GbDZsAb W|VDzD)
+ap (GbDZsAb W|VGb)
+
+"buttonless"
+ar (GbDZsAb WfRUDzD)
+ap (GbDZsAb WfRUGb)
+
+"buttony"
+ar (GbDZs Ab\WzD)
+ap (GbDZs Ab\Gb)
+
+"butyraceous"
+ar (Rf\fUfWWz|)
+ap (Rf\fUfWW|Gb)
+
+"butyric"
+ar (Rf\fWz|)
+ap (Rf\fW|Gb)
+
+"buxom"
+ar (AfDAbW^bAl [lc^lbI^bD)
+ap (AfDAbW^bAl [lc^lbI^bGb)
+
+"buzzing"
+ar (Ws|WWs|WAfI|DzD)
+ap (Ws|WWs|WAfI|Gb:ADJ->VERB)
+
+"bygone"
+ar (AlbAfWz|)
+ap (AlbAfW|Gb)

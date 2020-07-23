@@ -1,0 +1,927 @@
+
+"S"
+# protein S (NOUN) : GbDRcAX|I S
+# hemoglobin S (NOUN) : ^gQlAzIIlR|DS
+# hemoglobin S (NOUN) : ^gQlAzIIlR|D S
+
+"S-adenosylhomocysteine"
+# S-adenosylhomocysteine (NOUN) : S-WbGgDlU|I^lQlU|Uz\gW|D
+
+"S-adenosylmethionine"
+# S-adenosylmethionine (NOUN) : S-WbGgDlU|IQg\|WlD|D
+# S-adenosylmethionine (NOUN) : S-WbGgDlU|IQg\|WlD|D(SAM)
+
+"S-methylcysteine"
+# S-methylcysteine (NOUN) : S-Qg\|IU|Uz\gW|D
+
+"S-transferase"
+# S-transferase (NOUN) : S-XfDW|^rUl
+
+"saccharide"
+# saccharide (NOUN) : Ub[bIbW|Gz, GbWIw
+
+"Saccharomyces"
+# Saccharomyces (NOUN) : ^rQlAwDUlA
+
+"salicin"
+# salicin (NOUN) : UbII|U|D
+
+"salicylaldehyde"
+# salicylaldehyde (NOUN) : UbII|U|I WbIGg^bW|Gz
+
+"salicylate"
+# phenyl salicylate (NOUN) : ]gD|I UbII|U|IUbD
+
+"saligenin"
+# saligenin (NOUN) : UbII|XgD|D
+
+"saline"
+# phosphate-buffered saline (NOUN) : W|DUbDWjQ WlbDZsW U|AWjQUs
+# physiological saline (NOUN) : UcWI| U|AWjQUs
+
+"saliva"
+# saliva (NOUN) : \bWcA
+
+"Salmonella"
+# Salmonella (NOUN) : UbIQlDgIIbUlA
+
+"salt"
+# bile salt (NOUN) : GbQXzRUbDWjQ
+
+"salt-tolerant"
+# salt-tolerant (NOUN) : DcWjQUfW
+# salt-tolerant (NOUN) : DcWjQUfW
+
+"salting-in"
+# salting-in (NOUN) : WjQWrW
+
+"santonin"
+# santonin (NOUN) : UbD\lU|D
+
+"sapogenin"
+# sapogenin (NOUN) : Ub]lXgD|D
+
+"sarcoidosis"
+# sarcoidosis (NOUN) : UbI[lW|GlU|Uz, WwWwAXlWXzW
+
+"sarcolemma"
+# sarcolemma (NOUN) : AzDUfQWwZl, AzDZl
+# sarcolemma (NOUN) : AzDUfQWwQbAAzDZl
+
+"sarcoma"
+# sarcoma (NOUN) : WwAXlW
+
+"sarcoplasma"
+# sarcoplasma (NOUN) : AzD^jWX|I
+
+"sarcosine"
+# sarcosine (NOUN) : UbI[lU|D
+# sarcosine (NOUN) : UbIz[lU|D
+
+"sarcosome"
+# sarcosome (NOUN) : AzDW|RZg, AzDWsfDUfQWwWz| UbI|RZg
+
+"sarkomycin"
+# sarkomycin (NOUN) : UbIz[lQbW|U|D
+
+"scattering"
+# anomalous scattering (NOUN) : W|UbW RsDUbD
+
+"Schizosaccharomyces"
+# Schizosaccharomyces (NOUN) : RsDWjI ^rQl
+
+"science"
+# life science (NOUN) : UcWQjWAlb^bA
+# life science (NOUN) : UcWQjW Alb^bA
+
+"scleroderma"
+# scleroderma (NOUN) : AlW]|XzW, AjW]|XzW
+# systemic scleroderma (NOUN) : XfDU|DUfW AlW]|XzW
+
+"scleroprotein"
+# scleroprotein (NOUN) : AjWGbDRcAX|I
+
+"sclerosis"
+# multiple sclerosis (NOUN) : GbZzW AjW^lbXzW
+# amyotrophic lateral sclerosis (NOUN) : AzDWs|ZsAUfW ZzAUbAAjW^lbXzW
+# multiple sclerosis (NOUN) : GbRbIUfW AjW^lbXzW
+
+"screen"
+# screen (NOUN) : Uz[zI|D, ZbRjA, Zg
+
+"screening"
+# genetic screening (NOUN) : WwXfDXb AfQUb
+# screening (NOUN) : Uz[zI|D|W, Zb]k, UfDRjI
+
+"scurvy"
+# scurvy (NOUN) : Al|^jIRjW
+
+"second"
+# disintegration per second (NOUN) : ZlGbW RsWAl|WwI
+
+"secrete"
+# secrete (NOUN) : RsDR|
+
+"secretin"
+# secretin (NOUN) : Ug[zIg\|D
+
+"secretion"
+# external secretion (NOUN) : Wl|RsDR|
+# secretion (NOUN) : RsDR|
+
+"sedoheptulose"
+# sedoheptulose (NOUN) : UgGl^gR\sIlWlUz
+
+"seed"
+# hybrid seed (NOUN) : XbRXlW XlWXb
+# hybrid seed (NOUN) : XbRXlW XlWXb
+# strophanthus seed (NOUN) : Uz\zIl]bD\bUz XlWXb, Wb]zI|[bUbD GfWAsI ^jRXsAGl V|
+
+"segment"
+# insertional segment (NOUN) : UbRW|R RsDXfI
+
+"self-cloning"
+# self-cloning (NOUN) : XbAb [zIIlD|W
+
+"semipermeability"
+# semipermeability (NOUN) : RbD\sUfW
+
+"semipermeable"
+# semipermeable (NOUN) : RbD\sUfW
+# semipermeable (NOUN) : RbD\sUfW
+
+"senescence"
+# senescence (NOUN) : Dl^lb ^jDUbW
+# cellular senescence (NOUN) : Ug]l Dl^lb
+
+"sensitive"
+# sensitive (NOUN) : Q|DAbQUfW, AbQUsUfW
+# sensitive (NOUN) : Q|DAbQUfW, AbQUsUfW
+
+"sensitivity"
+# radiation sensitivity (NOUN) : RbWUbUfD AbQUsUfW
+# sensitivity (NOUN) : Q|DAbQUfW, AbQUsUfW
+
+"sensitization"
+# sensitization (NOUN) : AbQXbA
+
+"sensitize"
+# sensitize (NOUN) : AbQXbA
+# sensitize (NOUN) : AbQXbA
+
+"sensor"
+# enzyme sensor (NOUN) : ^rUl UgDUf
+# urea sensor (NOUN) : WrUl UgDUf
+# glucose sensor (NOUN) : ]lGlGbW AbQX|A|
+# immune sensor (NOUN) : QjDWjA UgDUf
+# microbial sensor (NOUN) : Q|UcWQsI UgDUf
+
+"separation"
+# phase separation (NOUN) : UbWRsDI|
+# X-Y sperm separation (NOUN) : X-Y XfWXb RsDWjI
+
+"Sephadex"
+# Sephadex (NOUN) : Ug]bGgAUz
+
+"Sepharose"
+# Sepharose (NOUN) : Ug]bIlUz
+# heparin-- Sepharose (NOUN) : ^g]bI|D-Ug]bIlWlUz
+
+"septanose"
+# septanose (NOUN) : UgR\bDlWlUz
+
+"septum"
+# septum (NOUN) : AjARjA, AjAQbA
+
+"sequenator"
+# sequenator (NOUN) : U|[sfDgW|\f
+
+"sequence"
+# Alu sequence (NOUN) : Alu UfWjI
+# highly repetitive DNA sequence (NOUN) : AlR|DGl RbDRlAUfWjI DNA
+# leader sequence (NOUN) : UfDGl UfWjI
+# autonomously replicating sequence (NOUN) : XbA| RlAXg UfWjI
+# amino acid sequence (NOUN) : WbQ|DlUbD RcWjI UsDUf
+# structural sequence (NOUN) : AsXl UfWjI
+# amino acid sequence (NOUN) : WbQ|DlUbD UfWjI
+# inverted repeat sequence (NOUN) : WjARbW^dW RbDRlA WjQA|UfWjI
+# signal sequence (NOUN) : WfAXgW|DXb
+# autonomously replicating sequence (NOUN) : ARS, XbZgRlAXgUfWjI
+# Hogness sequence (NOUN) : ^lAzD|Uz UfWjI
+# Pribnow sequence (NOUN) : ]zI|RzDlWs UfWjI
+# reiterated sequence (NOUN) : RbDRlA UfWjI
+# Shine-- Dalgarno sequence (NOUN) : UfII|RbDRbDWzW
+# insertion sequence (NOUN) : UbRW|R UfWjI
+# inverted repeat sequence (NOUN) : WjAWs| RbDRlA UfWjI
+# consensus sequence (NOUN) : AlW\lW WjQA| UfWjI
+# DNA sequence (NOUN) : DNA WjQA|UfWjI
+# insertion sequence (NOUN) : UbRW|R UfWjI 
+# common sequence (NOUN) : AlW\lWUfWjI
+# Shine-- Dalgarno sequence (NOUN) : SD UfWjI
+# sequence (NOUN) : UfWjI
+# target sequence (NOUN) : ]rXfA UfWjI
+# non-repetitive sequence (NOUN) : R|RbDRlA UfWjI
+# intervening sequence (NOUN) : AcXcUfWjI
+
+"sequencer"
+# amino acid sequencer (NOUN) : WbQ|DlUbD RcWjIUsDUfAjIXfWA|
+# DNA sequencer (NOUN) : DNA WjQA|UfWjIAjIXfWA|(DNA U|[sWfDUfI)
+
+"series"
+# myeloid cell series (NOUN) : AlIUs Ug]lAk
+# aldosterone series (NOUN) : WbIGlUz\gIlI AkWjI
+# lyotropic series (NOUN) : Z|DWcA UsDWjI, W|WcAUsDWjI, W|WrW^cUfW UsDWjI
+# primary histocompatibility complex series (NOUN) : XsWr XlX|AXfA^bRUfW RlA^bRAk
+
+"serine"
+# serine (NOUN) : UgI|D
+# serine (NOUN) : UgI|D
+
+"seroconversion"
+# seroconversion (NOUN) : ^jIZfWRjD^lbD, AbDWjQ HlDzD RcAU|DWg Wz|^bD ^jIZfWRjD^lbD
+
+"serology"
+# serology (NOUN) : ^jIZfW^bA
+
+"serotonoceptive"
+# serotonoceptive (NOUN) : UgIl\lDlUgR\|Rz
+# serotonoceptive (NOUN) : UgIl\lDUsWrWUfWWz|
+
+"serotonoceptivity"
+# serotonoceptivity (NOUN) : UgIl\lDUsWrWUfW
+
+"serotype"
+# serotype (NOUN) : ^jIZfW^jW, UgIl\bW|R
+# serotype (NOUN) : ^jIZfW^jW
+
+"serum"
+# fetal bovine serum (NOUN) : UlWz| \cWb^jIZfW
+# anti-lymphocyte serum (NOUN) : ^bW I|Q]zAs ^jIZfW, ALS
+# anti-lymphocyte serum (NOUN) : ^bW I|Q]zAs ^jIZfW
+# immune serum (NOUN) : QjDWjA ^jIZfW
+
+"sex"
+# determination of sex (NOUN) : UfWAjIXfW
+
+"sheet"
+# antiparallel pleated sheet (NOUN) : WjA]jW^cW ]zII|W|\z U|W|\z
+
+"shift"
+# National Institues of Health shift (NOUN) : AfDAbWXzWX|DWz| AsAXg ^jR^l|
+# red shift (NOUN) : XfAUcAW|GlW
+# blue shift (NOUN) : ZfWUcAW|GlW
+# frame shift (NOUN) : AsXlW|GlW, ^cGlA\zI W|GlW
+
+"shiftdown"
+# shiftdown (NOUN) : RsUsZg DNA
+
+"shiftup"
+# shiftup (NOUN) : UsRbD RbW|IfUz, Ws|UfW RbW|IfUz
+
+"shikonin"
+# shikonin (NOUN) : UfGfD RzIIb\|W
+
+"shock"
+# anaphylatic shock (NOUN) : AlbQ|DZsWAjA, WbD|]|IIbU|Uz Ur[z
+# insulin shock (NOUN) : W|DUwII|D ZsWAjA
+
+"shunt"
+# gamma-aminobutyrate shunt (NOUN) : AbQQb-WbQ|DlDbAUbDAjWIl
+# hexose-monophosphate shunt (NOUN) : WwA\bDGbW GbDW|DUbDAjWIl
+
+"shuttle"
+# glycerol phosphate shuttle (NOUN) : AzIIbW|UgIlI W|DUbD WlbWRlAAlbXfW
+# shuttle (NOUN) : XsDXbI|, XsDWs|Z|
+
+"sialidase"
+# sialidase (NOUN) : U|WbII|GgW|Uz
+
+"sialoglycolipid"
+# sialoglycolipid (NOUN) : UfRzWwD|\z UbW^lXbAWrW
+
+"sickness"
+# serum sickness (NOUN) : ^jIZfWRjW
+
+"siderophilin"
+# siderophilin (NOUN) : UfRzWwD|\z AsXl
+
+"sieve"
+# molecular sieve (NOUN) : RsDXbZg
+
+"SIRS"
+# SIRS (NOUN) : AbWrWUfW QjDWjA RbDWzW WfAXg W|DXb
+
+"site"
+# translation initiation site (NOUN) : RfDWjA AcU| RsWs|
+# sugar chain-binding site (NOUN) : GbWUlc AjI^bR RsWs|
+# specificity determining site (NOUN) : \zAW|UfW AjIXfW RsWs|
+# catalytic site (NOUN) : ZlAQc RsWs|
+# antigen-recognition site (NOUN) : ^bWWsfD W|DU|A RsWs|
+# site (NOUN) : RsWs|
+# aminoacyl-- trna binding site (NOUN) : WbQ|DlWbU|I WsDRbDRNA(tRNA) AjI^bRRsWs|
+# antigen-recognition site (NOUN) : ^bWWsfD U|ARjIRs
+# active site (NOUN) : ^lbIUfW RsWs|
+# substrate-binding site (NOUN) : A|X|I AjI^bR RsWs|
+
+"sitosterol"
+# sitosterol (NOUN) : WfAXgUfW T Ug]l
+
+"situ"
+# in situ (NOUN) : WsfDX|(WsfDUbW\c), XfWUbWUlXcWz|
+# situ (NOUN) : situ(U|\w), UbW\c
+
+"skatole"
+# skatole (NOUN) : Uz[b\lI
+
+"skeleton"
+# cell wall skeleton (NOUN) : Ug]lRjA AlIAjA
+# cell wall skeleton (NOUN) : CWS, Ug]lRjA AlIAjA
+
+"sleep"
+# slow wave sleep (NOUN) : Uf]b UsQjD
+# REM sleep (NOUN) : REM UsQjD
+
+"sludge"
+# activated sludge (NOUN) : ^lbIUfW WlD|
+
+"sociobiology"
+# sociobiology (NOUN) : Ub^l| UcWQsI^bA
+
+"solution"
+# thymidine culture solution (NOUN) : \|Q|G|D RcWdWWcA
+# hypotonic solution (NOUN) : XfXbWWcA
+# hypertonic solution (NOUN) : AlXbWWcA
+# balanced salt solution (NOUN) : AwD^jW WjQIw WrWWcA
+
+"solvolysis"
+# solvolysis (NOUN) : AbWrWQc RsD^c
+# solvolysis (NOUN) : UlIRlIbW|U|Uz, AbWrWUfWRsD^c
+
+"solvolyze"
+# solvolyze (NOUN) : AbWrWQc RsD^c
+
+"soma"
+# soma (NOUN) : Ug]lZg
+
+"somatomammotropin"
+# chorionic somatomammotropin (NOUN) : CS, WwWQlUfW UlQb\lQbQQl\zIl]|D
+
+"somatomedin"
+# somatomedin (NOUN) : UlQb\lQgG|D
+
+"somatostatin"
+# somatostatin (NOUN) : UlQb\lUz\b\|D, UfWXbWWfAXg^lIzQlD
+
+"somatotropin"
+# somatotropin (NOUN) : UlQb\l\zIl]|D, UfWXbW^lIzQlD
+
+"sonicate"
+# sonicate (NOUN) : WzQ]bZfI|
+
+"sonication"
+# sonication (NOUN) : WzQ]bZfI|
+
+"sophorose"
+# sophorose (NOUN) : Ul]lIlUz
+
+"sorbitol"
+# sorbitol (NOUN) : UlIR|\lI
+
+"sort"
+# sort (NOUN) : RsDIw
+
+"sorter"
+# cell sorter (NOUN) : Ug]l XbGlW RsDRjIA|
+# cell sorter (NOUN) : Ug]lRsDIwA|
+# fluorescence-activated cell sorter (NOUN) : ]zIIlIgUbW|D-^lbIUfW^lbGl|D Ug]lRsDIwA|
+# fluorescence activated cell sorter (NOUN) : ^jWAlbW ^lbIUfW^lb Ug]l RsDIwA|
+
+"sorting"
+# sorting (NOUN) : RsDI|
+# chromosome sorting (NOUN) : WjQUcAZg RsDIw
+# cell sorting (NOUN) : Ug]l UfDRjI
+
+"source"
+# carbon source (NOUN) : \bDUlWsfD
+
+"spacing"
+# fibrous long spacing (NOUN) : UfQWwUfW XbW AbDAjA
+# segment long spacing (NOUN) : A|D AbDAjA XfI]jD
+# fibrous long spacing (NOUN) : XbWAbDAjAUfW UfQWw
+
+"specific"
+# antigenically specific (NOUN) : ^bWWsfD \zAW|UfW
+# Ig- E specific (NOUN) : IgE \zAW|XfA
+# specific (NOUN) : \zAW|XfA
+# antigenically specific (NOUN) : ^bWWsfD \zAW|UfW
+
+"specifically"
+# specifically (NOUN) : \zAW|XfA
+
+"specificity"
+# antigenic specificity (NOUN) : ^bWWsfD \zAW|UfW
+# stereochemical specificity (NOUN) : W|RZg ^lb^bAXfA \zAW|UfW
+# tissue specificity (NOUN) : XlX|A \zAW|UfW
+# substrate specificity (NOUN) : A|X|I \zAW|UfW
+# species specificity (NOUN) : XlW \zAW|UfW
+
+"spectrin"
+# spectrin (NOUN) : Uz]gA\zI|D
+
+"spectrometry"
+# field desorption mass spectrometry (NOUN) : XfDAk RbWUzR X|IIdW RsDUfARfR
+# gas chromatography-mass spectrometry (NOUN) : A|Zg[zIlQb\lAzIc]|-X|IIdWRsDUfARfR(X|IIdWRsDAlbWAlbWGlZzAXfWRfR)
+# fast atom bomberdment mass spectrometry (NOUN) : AlUlA WsfDXb ZsWAjA X|IIdW RsDUfARfR
+# chemical ionization mass spectrometry (NOUN) : CI-MS, ^lb^bAXfA W|WlD^lb X|IIdW RsDAlbWRfR, CI-MS
+# electron impact mass spectrometry (NOUN) : XfDXb^rAlb X|IIdW ^zRAlbWRsDUfARfR
+# secondary ion mass spectrometry (NOUN) : W|ZbW|WlD X|IIdW RsDUfARfR
+# field ionization mass spectrometry (NOUN) : XfDAk W|WlD^lb X|IIdW RsDUfARfR
+
+"spectrum"
+# ultraviolet spectrum (NOUN) : XbWl|UfD Uz]gA\zIfQ
+# action spectrum (NOUN) : XbAWrW Uz]gA\zIfQ
+# photochemical action spectrum (NOUN) : AlbW^lb^bA XbAWrW Uz]gA\zIfQ
+# antibacterial spectrum (NOUN) : ^bWAwD Uz]gA\zIfQ
+# fluorescence spectrum (NOUN) : ^jWAlbW Uz]gA\zIfQ
+# visible spectrum (NOUN) : AbU| Uz]gA\zIfQ, AbU|AlbWUfD
+# Moessbauer spectrum (NOUN) : QlWgUzRbWsWf Uz]gA\zIfQ
+
+"spermatozoon"
+# spermatozoon (NOUN) : XfWXb
+
+"spermidine"
+# spermidine (NOUN) : Uz]fQ|G|D
+
+"spermine"
+# spermine (NOUN) : Uz]fQ|D
+
+"spheroplast"
+# spheroplast (NOUN) : As^jWX|I, Uz]gIl]zIIbUz\z
+
+"sphinganine"
+# sphinganine (NOUN) : Uz]|WAbD|D
+
+"sphingenine"
+# sphingenine (NOUN) : Uz]|WAgD|D
+
+"sphingoglycolipid"
+# sphingoglycolipid (NOUN) : Uz]|WAlGbWX|X|I
+
+"sphingolipid"
+# sphingolipid (NOUN) : Uz]|WAlX|X|I
+
+"sphingolipidosis"
+# sphingolipidosis (NOUN) : Dl| Uz]|WAlI|]|GzXzW, Dl|Uz]|WAlX|X|IXzW
+
+"sphingomyelin"
+# sphingomyelin (NOUN) : Uz]|WAlQbW|WgII|D
+
+"sphingophospholipid"
+# sphingophospholipid (NOUN) : Uz]|WAl]lUz]lX|X|I, Uz]|WAlW|DX|X|I
+
+"sphingosine"
+# sphingosine (NOUN) : Uz]|WAlU|D
+
+"spindle"
+# spindle (NOUN) : RbWZsUb, RbWZsZg
+
+"spleen"
+# spleen (NOUN) : R|XbW, X|Ib
+
+"splice"
+# splice (NOUN) : XfR^bR
+
+"splicing"
+# splicing (NOUN) : XfR^bR, Uz]zIIbW|U|W
+
+"sporulate"
+# sporulate (NOUN) : ]lXb ^jWUfW
+
+"sporulation"
+# sporulation (NOUN) : ]lXb ^jWUfW
+
+"spot"
+# hot spot (NOUN) : AlbWjIXfQ, GlIWjDRjDW| GbRbIWjI
+
+"squalane"
+# squalane (NOUN) : Uz[sWbIIgD
+
+"stage"
+# differentiation stage (NOUN) : RsD^lb GbDAk
+
+"stain"
+# periodic acid-- Schiff stain (NOUN) : AlbWlAUlUbD-Us|]zWjQUcA
+
+"staining"
+# negative staining (NOUN) : WzQUfWWjQUcARfR, QcX|IZbAUcARfR
+# periodic acid-- Schiff staining (NOUN) : AlbWlAUlUbD--U|]z WjQUcA
+# negative staining (NOUN) : WjAWjQUcARfR
+# periodic acid-- Schiff staining (NOUN) : AlbWlAUlUbD-Us|]zWjQUcARfR
+
+"standard"
+# safety standard (NOUN) : WbDXfDA|XsD
+
+"Staphylococcus"
+# Staphylococcus (NOUN) : ]lGlUbWAsAwDUlA
+
+"starch"
+# assimilation starch (NOUN) : GlW^lb DlAQbI
+# reserve starch (NOUN) : XfXbW DlAQbI
+
+"starvation"
+# starvation (NOUN) : A|Wb
+
+"state"
+# triplet state (NOUN) : UbQXsW^bW UbW\c, \zI|]zIIgU UbW\c
+
+"stearate"
+# stearate (NOUN) : Uz\gWbIzUbDWjQ 
+
+"stereospecificity"
+# stereospecificity (NOUN) : W|RZg \zAW|UfW
+
+"stereostructure"
+# stereostructure (NOUN) : W|RZg AsXl
+
+"sterile"
+# sterile (NOUN) : RsIW|Q
+# sterile (NOUN) : RsIW|Q
+# sterile (NOUN) : RsIW|Q
+# sterile (NOUN) : RsIW|Q
+
+"sterility"
+# sterility (NOUN) : RsIW|Q
+# sterility (NOUN) : RsIW|Q
+# male sterility (NOUN) : WsWUfW RsIW|Q
+
+"sterilizer"
+# male sterilizer (NOUN) : WsWUfW RsIW|Q^lbXg
+
+"steroid"
+# steroid (NOUN) : Uz\gIlW|Gz
+# plant steroid (NOUN) : U|AQsI Uz\gIlW|Gz
+# biosynthesis of steroid (NOUN) : Uz\gIlW|Gz UcW^bRUfW
+
+"sterol"
+# plant sterol (NOUN) : U|AQsI Uz\gIlI
+
+"stimulator"
+# long acting thyroid stimulator (NOUN) : X|UlAUfW AbRUbWUfD XbAzAXg
+
+"stone"
+# gall stone (NOUN) : \bI^cA
+
+"strain"
+# resistant strain (NOUN) : DcUfWXs
+# cell strain (NOUN) : Ug]lXs
+# elite strain (NOUN) : WsIdWXs
+# sensitive strain (NOUN) : Q|DAbQUfWXs, AbQUsUfWXs
+# wild strain (NOUN) : XfWUbWXs
+# strain (NOUN) : AwDXs
+# high frequency of recombination strain (NOUN) : AlR|DGl XcXl^bRXs
+
+"strand"
+# complemental strand (NOUN) : UbWRlUlc, UbWRlUbUzI
+# lagging strand (NOUN) : IgA|WUbUzI
+# leading strand (NOUN) : I|G|W UbUzI
+
+"streaming"
+# protoplasmic streaming (NOUN) : WsfD^jWX|I WwGlW
+
+"Streptococcus"
+# Streptococcus (NOUN) : WjDUlc (UbW)AsAwD
+
+"streptokinase"
+# streptokinase (NOUN) : Uz\zIgR\l[bW|DgW|Uz
+# streptokinase (NOUN) : Uz\zIgR\l [bW|DgW|Uz
+
+"stress"
+# stress (NOUN) : Uz\zIgUz
+
+"stroma"
+# stroma (NOUN) : Uz\zIlQb
+
+"structure"
+# tertiary structure (NOUN) : UbQZb AsXl
+# quaternary structure (NOUN) : 4Zb AsXl
+# surface structure (NOUN) : ]rQjD AsXl
+# extended X-ray absorption fine structure (NOUN) : WjDXbW WgAUzIgW| ^zRAlbW Q|UgAsXl
+# genetic fine structure (NOUN) : WwXfDXb Q|UgAsXl
+# subunit structure (NOUN) : UfRzWwD|\z AsXl
+# antigenic structure (NOUN) : ^bWWsfD AsXl
+# cap structure (NOUN) : [cR(QlXb) AsXl 
+# stem and loop structure (NOUN) : AbDAlb ^lbDUbWUfD AsXl, Uz\gQ-Is]zAsXl
+# bridged structure (NOUN) : Ar AsXl, GbI| AsXl
+
+"study"
+# phase III study (NOUN) : Xg 2UbW U|^fQ
+# phase II study (NOUN) : Xg 1UbW U|^fQ
+# phase I study (NOUN) : GbDW|I \zAW|UfW ^bW^jIZfW
+# phase IV study (NOUN) : Xg 3UbW U|^fQ
+
+"subculture"
+# subculture (NOUN) : AkGcRcWdW
+# subculture (NOUN) : AkGcRcWdW
+
+"subsite"
+# subsite (NOUN) : XsDXbI|, XsDWs|Z|
+
+"substance"
+# generally recognized as safe substance (NOUN) : WbDXfDUfWW| AlWW|DGl|D QsIX|I
+# optically active substance (NOUN) : AlbW^bA ^lbIUfW QsIX|I
+# pectic substance (NOUN) : ]gA\zQsIX|I
+# ferredoxin reducing substance (NOUN) : ]gIgGlAU|D ^lbDWsfDQsIX|I
+# differentiation-inducing substance (NOUN) : RsD^lb WwGl QsIX|I
+# ferredoxin reducing substance (NOUN) : ]gIzGlAU|D ^lbDWsfD QsIX|I
+# generally recognized as safe substance (NOUN) : WbDXfDUfWW| AlWW|DGl|D QsIX|I
+# cell differentiation inducing substance (NOUN) : Ug]l RsD^lb WwGl QsIX|I
+# slow reacting substance (NOUN) : X|WjDRbDWzWUfWQsIX|I
+# sleep promoting substance (NOUN) : UsQjD ZlAX|D QsIX|I
+# blood group substance (NOUN) : ^jIWcA^jW QsIX|I
+
+"substitution"
+# base substitution (NOUN) : WjQA| Z|^lbD
+# amino acid substitution (NOUN) : WbQ|DlUbD Z|^lbD
+
+"substrate"
+# suicide substrate (NOUN) : ^rUl XbUbI A|X|I
+# leading substrate (NOUN) : UfD^cW A|X|I
+# following substrate (NOUN) : ^sUlAA|X|I
+
+"subtilis"
+# Bacillus subtilis (NOUN) : AlZlAwD
+
+"subunit"
+# subunit (NOUN) : UfRzWwD|\z, Zl|UlGbDRcAX|I AlWWwAjI^bRGbDWs|
+# hemoglobin subunit (NOUN) : ^gQlAzIIlR|D UlGbDWs|
+# regulatory subunit (NOUN) : XlXfI UlGbDWs|
+# catalytic subunit (NOUN) : ZlAQc UlGbDWs|, ZlAQc UfRzWwD|\z
+
+"subutilisin"
+# subutilisin (NOUN) : UwRs\|II|U|D
+
+"sucrase"
+# sucrase (NOUN) : Uw[zIgW|Uz
+
+"sucrose"
+# sucrose (NOUN) : Uw[zIlWlUz
+
+"sugar"
+# UDP-- sugar (NOUN) : UDP--GbW
+# ADP-- sugar (NOUN) : ADPGbW
+# nucleotidyl sugar (NOUN) : Dw[zIIgWl\|G|I-GbW
+# amino sugar (NOUN) : WbQ|DlGbW
+# isomerized sugar (NOUN) : W|UfW^lbGbW
+
+"sulfate"
+# brucine sulfate (NOUN) : ^lbWUbD RzIsU|D
+# keratan sulfate (NOUN) : [gIb\bD ^lbWUbDWjQ
+# sodium dodecyl sulfate (NOUN) : UlG|WsQ GlGgU|I UfI]gW|\z(SDS)
+# isoproterenol sulfate (NOUN) : ^lbWUbD WbW|Ul]zIl\gIgDlI
+# atropine sulfate (NOUN) : Wb\zIl]|D^lbWUbDWjQ
+# active sulfate (NOUN) : ^lbIUfW ^lbWUbD
+# sodium lauryl sulfate (NOUN) : IbWsI|I ^lbWUbDDb\zIwQ
+# proteochondroitin sulfate (NOUN) : ]zIl\gWl[lDGzIlW|\|D ^lbWUbD
+# eserine sulfate (NOUN) : ^lbWUbD WgUgI|D
+# sodium dodecyl sulfate (NOUN) : UlG|WsQ GlGgU|I UfI]gW|\z
+# cerebroside sulfate (NOUN) : UgIgRzIlUbW|Gz ^lbWUbD
+# chondroitin sulfate (NOUN) : [lDGzIlW|\|D ^lbWUbD
+
+"sulfatide"
+# sulfatide (NOUN) : UfI]b\bW|Gz
+
+"sulfide"
+# sulfide (NOUN) : ^lbW^lbQsI, UfI]bW|Gz
+# sodium sulfide (NOUN) : ^lbWUbD Db\zIwQ
+
+"sulfinyl"
+# sulfinyl (NOUN) : UfI]|D|I
+
+"sulfite"
+# sulfite (NOUN) : Wb^lbWUbDWjQ
+
+"sulfonamide"
+# sulfonamide (NOUN) : UfI]lDWbQbW|Gz, UsI^lbXg
+
+"sulfonate"
+# sulfonate (NOUN) : UsI]lDUbD
+
+"sulfotransferase"
+# sulfotransferase (NOUN) : UfI]lXfDW|^rUl
+
+"sulfoxide"
+# dimethyl sulfoxide (NOUN) : GbW|Qg\|I UfI]lAUbW|Gz
+
+"sulfurylase"
+# ATP-- sulfurylase (NOUN) : ATP UfI]sI|IIgW|Uz
+
+"super-mouse"
+# super-mouse (NOUN) : Uw]fUcWXs|
+
+"supernatant"
+# supernatant (NOUN) : UbWZzWWcA, UbWZfW
+
+"superovulation"
+# superovulation (NOUN) : AlbW|WRcIbD
+
+"superoxide"
+# superoxide (NOUN) : ZlUbD^lbQsI
+
+"suppress"
+# suppress (NOUN) : WfAWbR
+
+"suppression"
+# suppression (NOUN) : WfAXg
+# suppression (NOUN) : WfAWbR
+
+"suppressor"
+# ochre suppressor (NOUN) : Wl[f WfAXgW|DXb
+# frame shift suppressor (NOUN) : AsXlW|GlW WfAXgXg, ^cGlA\zI W|GlWRjDW| WfAXgXg
+# suppressor (NOUN) : Uf]zIgUf, WfAXgW|DXb
+# amber suppressor (NOUN) : WgQRf WfAXgXg, W|IzD^cGlAXlWAjIWfAXgXg
+# suppressor (NOUN) : WfAXgW|DXb
+# intergenic suppressor (NOUN) : WwXfDXbAbD WfAXgXb
+# intragenic suppressor (NOUN) : WwXfDXbDc WfAXgXb
+# missense suppressor (NOUN) : AlbWl WfAXgXb
+# nonsense suppressor (NOUN) : DbDUgDUz WfAXgW|DXb, QsWz|Q| WfAXgW|DXb
+
+"surgery"
+# gene surgery (NOUN) : WwXfDXb Wl|Alb
+
+"surveillance"
+# immunological surveillance (NOUN) : QjDWjA AbQU|
+
+"switch"
+# class switch (NOUN) : AkAzRXfD^lbD, AsDXfD^lbD
+
+"symbiont"
+# symbiont (NOUN) : AlWUcWUcWQsI
+
+"symbiosis"
+# symbiosis (NOUN) : AlWUcW^jDUbW
+
+"symbol"
+# genetic symbol (NOUN) : WwXfDXb A|^l
+
+"symmetry"
+# axis of symmetry (NOUN) : GcZ|WZsA
+# rotational symmetry (NOUN) : ^l|XfD GcZ|W
+
+"sympathin"
+# sympathin (NOUN) : WfAXgW|DXb WwGlW|DXb
+
+"synapse"
+# inhibitory synapse (NOUN) : WfAXgUfW U|DcRUz
+# excitatory synapse (NOUN) : ^zWRsDUfW U|DcRUz
+# synapse (NOUN) : (U|DAjWUg]l) XfR^bRRs, U|DcRUz
+# chemical synapse (NOUN) : ^lb^bA U|DcRUz
+# monoamine synapse (NOUN) : QlDlWbQ|D U|DcRUz
+# synapse (NOUN) : XfR^bRRs, U|DcRUz
+# synapse (NOUN) : WfAXgW|DXb RjDW|
+
+"synapsis"
+# synapsis (NOUN) : XfR^bR
+
+"synaptosome"
+# synaptosome (NOUN) : \bW|Ql]lW|Wg\|D
+
+"synconformation"
+# synconformation (NOUN) : \bW|QlU|D
+
+"syndrome"
+# Parkinson syndrome (NOUN) : ]b[|DUzD XzW^sAsD
+# Lesch-- Nyhan syndrome (NOUN) : IgUs|-D|^bD XzW^sAsD, UlWbAlWrUbD^jIXzW
+# Goodpasture's syndrome (NOUN) : AsG]bUz\wWf XzW^sAsD
+# Crigler-- Najjar syndrome (NOUN) : [zI|AzIIf-DbXb XzW^sAsD
+# Turner's syndrome (NOUN) : \fDf XzW^sAsD
+# Klinefelter's syndrome (NOUN) : [zI|Dg]gI\f XzW^sAsD
+# Patau's syndrome (NOUN) : ]b\bWs XzW^sAsD
+# WDHA syndrome (NOUN) : WDHA XzW^sAsD
+# acquired immune deficiency syndrome (NOUN) : ^sZfDUfW QjDWjA AjI]|RXzW
+# acquired immunological deficiency syndrome (NOUN) : AIDS, ^sZfDUfW QjDWjA AjI]|RXzW
+# acquired immunological deficiency syndrome (NOUN) : ^sZfDUfW QjDWjA AjI]|R XzW^sAsD(AIDS)
+# syndrome (NOUN) : XzW^sAsD
+# congenital immunodeficiency syndrome (NOUN) : UfDZfDUfW QjDWjA AjI]|R XzW^sAsD
+# Down's syndrome (NOUN) : GbWsDXzW^sAsD
+# disseminated intravascular coagulation syndrome (NOUN) : ]bXlWUfW ^jIAlbDDc WzWAl XzW^sAsD
+# Bloom's syndrome (NOUN) : RzIIsQ XzW^sAsD
+# immunodeficiency syndrome (NOUN) : QjDWjA AjI]|R XzW^sAsD
+# nephrotic syndrome (NOUN) : U|DXzW^sAsD
+# Lesch-- Nyhan syndrome (NOUN) : UlWb AlWrUbD ^jIXzW, IgUs|-D|^bD XzW^sAsD
+# disseminated intravascular coagulation syndrome (NOUN) : ]bXlWUfW ^jIWcA WzWAl XzW^sAsD
+
+"syngenic"
+# syngenic (NOUN) : GlWAk
+# syngenic (NOUN) : GlWAk
+
+"synkaryon"
+# synkaryon (NOUN) : WwW^bR^cA
+
+"synthase"
+# glutaryl-- Co- A synthase (NOUN) : AzIIs\bI|I Co-A U|D\gW|Uz
+# glutamate synthase (NOUN) : AzIIs\bQUbD ^bRUfW^rUl
+# amino-acid synthase (NOUN) : WbQ|DlUbD ^bRUfW^rUl
+# tryptophan synthase (NOUN) : \zI|R\l]bD U|D\gW|Uz
+# delta-aminolevulinate synthase (NOUN) : GgI\b-WbQ|DlIgRsII|DUbD U|D\gW|Uz
+# prostaglandin synthase (NOUN) : ]zIlUz\bAzIIbDG|D ^bRUfW^rUl
+# amino acid synthase (NOUN) : WbQ|DlUbD U|D\gW|Uz
+# synthase (NOUN) : ^bRUfW ^rUl
+# glycogen starch synthase (NOUN) : AzII|[lAgD DlAQbI ^bRUfW^rUl
+# squalene synthase (NOUN) : Uz[sWbIIgD U|D\gW|Uz
+# thymidylate synthase (NOUN) : \|Q|G|IUbD ^bRUfW^rUl
+# synthase (NOUN) : \bW|IlAzIIlRsII|D
+# spermidine synthase (NOUN) : Uz]fQ|G|D U|D\gW|Uz
+# malate synthase (NOUN) : QbII|DUbD U|D\gW|Uz(U|D\bWbXg)
+# citrate synthase (NOUN) : U|\zIzUbD ^bRUfW^rUl
+# pyruvate synthase (NOUN) : ]bW|IsRzUbD ^bRUfW^rUl
+# ACP synthase (NOUN) : ACP U|D\gW|Uz, ACP U|D\bXg
+# glycogen synthase (NOUN) : AzII|[lAgD ^bRUfW^rUl
+# lactose synthase (NOUN) : IbA\lUz U|D\gW|Uz
+
+"synthesis"
+# DNA synthesis (NOUN) : DNA ^bRUfW
+# peptide synthesis (NOUN) : ]gR\bW|Gz ^bRUfW
+# amino acid synthesis (NOUN) : WbQ|DlUbD ^lb^bA^bRUfW
+# protein synthesis (NOUN) : GbDRcAX|I ^bRUfW
+# Kiliani synthesis (NOUN) : [|II|WbD| ^bRUfW
+# lethal synthesis (NOUN) : Z|Ub ^bRUfW
+# polynucleotide synthesis (NOUN) : ]lII|Dw[zIIgWl\|Gz^bRUfW
+# keratin synthesis (NOUN) : [gIb\|D ^bRUfW
+# novo synthesis (NOUN) : DlRl^bRUfW, U|DUcW^bRUfW
+# de novo synthesis (NOUN) : U|DUcW^bRUfW
+
+"synthesizer"
+# peptide synthesizer (NOUN) : ]gR\bW|Gz ^bRUfWA|
+# DNA synthesizer (NOUN) : DNA ^bRUfWA|
+# automated polynucleotide synthesizer (NOUN) : ^cAUbDXbGlW^bRUfWXbWZ|
+
+"synthetase"
+# carbamoylphosphate synthetase (NOUN) : [bIzRbQlW|IW|DUbD(WjQ) ^bRUfW^rUl
+# fatty acid synthetase (NOUN) : X|RbWUbD ^bRUfW^rUl 
+# adenylosuccinate synthetase (NOUN) : WbGgD|IIlUsAU|DUbD ^bRUfW^rUl
+# glutathione synthetase (NOUN) : AzIIs\b\|WlD ^bRUfW^rUl
+# aminoacyl-- trna synthetase (NOUN) : WbQ|DlWbU|I WsDRbDRNA(tRNA) ^bRUfW^rUl
+# fatty acid synthetase (NOUN) : X|RbWUbD U|D\g\gW|Uz
+# synthetase (NOUN) : AbRUbWUfD XbAzA ^lIzQlD, RsDR|^lIzQlD
+# argininosuccinate synthetase (NOUN) : WbIzA|D|DUsAU|DUbD ^bRUfW^rUl
+# NAD+ synthetase (NOUN) : NAD+^bRUfW^rUl
+# glutamine synthetase (NOUN) : AzIIs\bQ|D ^bRUfW^rUl
+# fatty acid synthetase (NOUN) : X|RbWUbD ^bRUfW^rUl
+# butyryl-- C- oa synthetase (NOUN) : Rs\|II|I-Co A ^bRUfW^rUl
+# gramicidin synthetase (NOUN) : AzIbQ|U|G|D ^bRUfW^rUl
+# malate synthetase (NOUN) : QbII|DUbD ^bRUfW^rUl, QbII|DUbD U|D\g\gW|Uz
+# dihydrofolate synthetase (NOUN) : GbW|^bW|GzIl]lIIgW|\z ^bRUfW^rUl, GbW|^bW|GzIlWjRUbD^bRUfW^rUl
+# peptide synthetase (NOUN) : ]gR\bW|Gz ^bRUfW^rUl
+# acyl-- Co- A synthetase (NOUN) : WbU|I Co-A ^bRUfW^rUl
+# amino acid synthetase (NOUN) : WbQ|DlUbD ^bRUfW^rUl
+# acetyl-- Co- A synthetase (NOUN) : WbUg\|I-Co A ^bRUfW^rUl, WbUg\|I-[l WgW| ^bRUfW^rUl
+
+"syntrophy"
+# syntrophy (NOUN) : WjWWdW AlWUcW
+
+"system"
+# shuttle system (NOUN) : QsIX|IP
+# complement system (NOUN) : RlZgAk
+# open system (NOUN) : AcRbWAk
+# host-vector system (NOUN) : UsAXs-RgA\fAk
+# Bacillus subtilis system (NOUN) : BSAk, AlZlAwDAk
+# cell-free system (NOUN) : QsUg]lAk
+# NADH-C- oq reductase system (NOUN) : NADH-Coq ^lbDWsfD^rUlAk
+# succinate oxidase system (NOUN) : UsAU|DUbD UbD^lb^rUlAk
+# NADH-- oxidase system (NOUN) : NADH UbD^lb^rUlAk
+# peripheral nervous system (NOUN) : QbIZl U|DAjWAk
+# electron transport system (NOUN) : XfDXb XfDGbIAk
+# choline oxidase system (NOUN) : [lII|D UbD^lb^rUlAk
+# cholesterol side-chain cleavage enzyme system (NOUN) : [lIIgUz\gIlI ZzAUlcXfIGbD^rUlAk
+# major histocompatibility system (NOUN) : XsWr XlX|AXfA^bR ^bWWsfDAk
+# biomass conversion utilization system (NOUN) : UcWZgIdW Ar^lbDW|WrWAk
+# immune system (NOUN) : QjDWjAAk
+# sympathetic nervous system (NOUN) : ArAbQ U|DAjWAk
+# system (NOUN) : Ak
+# ATP sythesizing system (NOUN) : ATP^bRUfWAk
+# H-2 system (NOUN) : H-2 Ak
+# ATP regenerating system (NOUN) : ATP XcUcWAk
+# troponin-tropomyosin system (NOUN) : \zIl]lD|D-\zIl]lQbW|WlU|DAk
+# Rh blood group system (NOUN) : Rh U|A ^jIWcA^jW
+# parasympathetic nervous system (NOUN) : RsArAbQ U|DAjWAk
+# Saccharomyces cerevisiae system (NOUN) : ^rQlAwDUlA UgIIgR|U|WbWg(XlW)Ak
+# control protein of complement system (NOUN) : RlZgAkWz| XgWf W|DXb
+# ATP generating system (NOUN) : ATP UcWUfWAk
+# reticuloendothelial system (NOUN) : UgQbW Dc]| Ak\lW
+# reticuloendothelial system (NOUN) : UgQbW Dc]|Ak
+# renin-angiotensin system (NOUN) : IgD|D-WbDX|Wl\gDU|DAk
+# reductase system (NOUN) : ^lbDWsfD^rUlAk
+# computer aided system (NOUN) : [fQ]w\f XbWsfD U|Uz\gQ
+# Escherichia coli K-12 system (NOUN) : GcXbWAwD K-12Ak 
+# kallikrein-kinin system (NOUN) : [bII|[zIgW|D-[|D|DAk
+# microsomal electron transport system (NOUN) : QbW|[zIlUlQWz| XfDXbXfDGbIAk
+# endocrine system (NOUN) : DcRsDR|Ak
+# drug delivery system (NOUN) : WdAQsI XfDGbIZgAk
+# dopaminergic nervous system (NOUN) : Gl]bQ|D XbAGlWUfW(XbAWrWUfW) U|DAjWAk
+# charge-relay system (NOUN) : XfD^b XfD]b U|Uz\gQ
+# actomyosin system (NOUN) : WcA\lQbW|U|DAk
+# cholinergic nervous system (NOUN) : XbAGlWUfW U|DAjWAk
+
+"sythetase"
+# asparagine sythetase (NOUN) : WbUz]bIbX|D ^bRUfW^rUl
+

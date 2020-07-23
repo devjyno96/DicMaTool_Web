@@ -1,0 +1,454 @@
+
+"each"
+(^bDAcWg)
+* AbAAbA (have)
+
+"eagerly"
+(WjIU|Q^|)
+
+"early"
+(W|IY|A)
+# early in A {+TIME} (ADV) : [(MODS A) W|IY|A<ADV>]
+# early in the NUM1 {+ORDNUM} century (NOUN ADV) : 
+    1) [(NMODS [(NMODS NUM1) UgA|<NOUN>]) ZlRbD<NOUN>]
+    2) (ADJUNCT [(NMODS [(NMODS NUM1) UgA|<NOUN>]) ZlRbD<NOUN>])
+
+"earnestly"
+(X|DX|^bAg)
+
+"earthward"
+(HbWYlAWzIl)
+
+"easily"
+(Us|RAg)
+
+"east"
+(GlWYlAWg)
+
+"east-northeast"
+(GlWRsAGlWWzIl)
+
+"east-southeast"
+(GlWDbQGlWWzIl)
+
+"easterly"
+(GlWYlAWg)
+
+"eastward"
+(GlWYlAWzIl)
+
+"easy"
+(]jD^|)
+
+"easylike"
+(Us|RAg)
+
+"eccentrically"
+(Al|W|^bAg)
+
+"ecclesiastically"
+(Ar^l|Wz| AjDX|WgUf)
+
+"economically"
+(AjWXgXfAWzIl)
+
+"edgeways"
+([bIDbIWzI GzIW|GcAl)
+
+"edifyingly"
+(Ar^sDXfAWzIl)
+
+"editorially"
+(]jDX|R XsAbDWzIlUf)
+
+"educationally"
+(ArWwAXfAWzIl)
+
+"effectively"
+(^rAlbXfAWzIl)
+
+"effectually"
+(WlbDXfD^bAg)
+
+"efficiently"
+(DzWIwIXfAWzIl)
+
+"eighteenthly"
+(18 RfDYcWg)
+
+"eighthly"
+(8 RfDYcWg)
+
+"either"
+(Hl^bD)
+
+"elaborately"
+(AlWGzIWj)
+
+"elastically"
+(\bDIjAXfAWzIl U|DZsAUfW W|VAg)
+
+"electively"
+(AlIIbUf UfDAfIl)
+
+"electrically"
+(XfDA|Il)
+
+"elegantly"
+(WsWb^bAg)
+
+"elementally"
+(WrUlXfAWzIl)
+
+"eleventhly"
+(17 RfDYcWg)
+
+"eligibly"
+(XfAGbW^bAg)
+
+"elluptically"
+(\bWsfD^jWWzIl)
+
+"else"
+(Az RbBWg)
+# one else (NOUN) : GbIzD DsAs
+
+"elsewhere"
+(GbIzDAlUWgUf)
+# elsewhere in the world $ (ADV) : UgUbW GbIzDAlUWgUf
+
+"eminently"
+(\bAWsfI^bAg)
+
+"emotionally"
+(XfWUfXfAWzIl)
+
+"emphatically"
+(AbWXl^bWj)
+
+"empirically"
+(AjW^fQXfAWzIl)
+
+"empty-handed"
+(R|DUlDWzIl)
+
+"emulatively"
+(AjWXcW^bWj)
+
+"emulously"
+(AjWXcW^bWj)
+
+"enchantingly"
+(Qc^lAXfAWzIl)
+
+"encouragingly"
+(AjAIj^bWj)
+
+"endemically"
+(X|RbWXfAWzIl)
+
+"endlessly"
+(Bz\WfRUW|)
+
+"endlong"
+(UgIlIl)
+
+"endways"
+(Bz\WzI Ws|Il)
+
+"engagingly"
+(QcIjA W|VAg)
+
+"enigmatically"
+(UsUsBgB|ZfIfQ)
+
+"enjoyably"
+(XzIAfW|)
+
+"enormously"
+(AfGc^bAg)
+
+"enough"
+(ZsWRsD^|)
+//# ADJ enough THAT_CLAUSE (ADJ) : [(SCOMP [(RELCL THAT_CLAUSE/^bI) 
+//    XfWGl<NOUN>]/Il) (MODS [ZsWRsD^|<ADV>]) ADJ]/^bGb {+PSMOD}
+//# ADJ enough TO_INF (ADJ) : [(SCOMP [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) 
+//    (MODS [ZsWRsD^|<ADV>]) ADJ]/^bGb{+PSMOD}
+//# ADJ enough for A TO_INF (ADJ) : [(SCOMP [(RELCL [(SUBJ A/Ab) TO_INF]/^bI) 
+//    XfWGl<NOUN>]/Il) (MODS [ZsWRsD^|<ADV>]) ADJ]/^bGb {+PSMOD}
+//# ADV enough (ADV) : ADV
+# enough ADJ TO_INF (ADJ) : 
+    [(SCOMP [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) (MODS [ZsWRsD^|<ADV>]) ADJ]/^bGb
+# enough THAT_CLAUSE (ADV) : 
+(ADJUNCT [(ADJUNCT [(RELCL THAT_CLAUSE/^bI) XfWGl<NOUN>]/Il) ZsWRsD^|<ADV>]) 
+# enough TO_INF (ADV ADJ) : 
+    1) (ADJUNCT [(ADJUNCT [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) ZsWRsD^|<ADV>]) 
+    2) [(ADJUNCT [(RELCL TO_INF/^bI) XfWGl<NOUN>]/Il) ZsWRsD^b<ADJ>]/Gb
+# enough for A TO_INF (ADV) : 
+    (ADJUNCT [(ADJUNCT [(RELCL [(SUBJ A/Ab) TO_INF]/^bI) XfWGl<NOUN>]/Il) ZsWRsD^|<ADV>])
+
+"ensemble"
+(GlWU|Wg)
+
+"enterprisingly"
+(X|DZs|XfAWzIl)
+
+"enthusiastically"
+(WjIIjI^|)
+
+"entirely"
+(XfDZgXfAWzIl)
+
+"entomologically"
+(AlDZsW^bAUbW)
+
+"entreatingly"
+(WcWsfD^bGzUW|)
+
+"enviously"
+(UcQDcWf)
+
+"envyingly"
+(U|A|^bWj)
+
+"ephemerally"
+(GfUWfRUW|)
+
+"epically"
+(UfUbU|XfAWzIl)
+
+"epigrammatically"
+(AjWAs\sIl)
+
+"episcopally"
+(AbQGlAWzIlUf)
+
+"epochally"
+(^l|AA|XfAWzIl)
+
+"equably"
+(^bDAjIAb\W|)
+
+"equally"
+(Ab\Ag)
+* GlWGzW^bAg (treat)
+"equidistantly"
+(GzWAfI|Wg)
+
+"equitably"
+(AlW]jW^bAg)
+
+"equivalently"
+(GlWGzW^bAg)
+
+"equivocally"
+(WcQc^bAg)
+
+"erectly"
+(AlGZsUfUf)
+
+"erelong"
+(QfIX| WbD^Wb)
+
+"erewhile"
+(XlAzQXfDWg)
+
+"ergo"
+(AzIfQzIl)
+
+"erroneously"
+(XbIQlU^bWj)
+
+"esoterically"
+(R|ArXfAWzIl)
+
+"especially"
+(\zA^|)
+
+"essentially"
+(RlDX|IXfAWzIl)
+
+"eternally"
+(WjWWsfD^|)
+
+"ethically"
+(WwDI|XfAWzIl)
+
+"etymologically"
+(WfWsfDUbWWzIl)
+
+"eugenically"
+(WsUcW^bAXfAWzIl)
+
+"evanescently"
+(GfUWfRUW|)
+
+"evangelically"
+(RlAWzQXsWz|Wg HbIb)
+
+"even"
+(U|QX|Wf)
+* GfWsA (~ {+COMPR})
+# even more (ADV) : GfWsA
+# || even so | (ADV) : AzIf^X|QbD
+# || not even (CONJ) : not even
+
+"evenings"
+(XfDjAWgDzD)
+
+"evenly"
+(]bD]bD^bAg)
+* AwDW|I^bAg (build)
+
+"eventfully"
+(GbUbGbDbD^bAg)
+
+"eventually"
+(AsWAzAXfAWzIl)
+
+"ever"
+(WfDXgDAb)
+
+* WfDXgDAb (~ {+PERFECT})
+* WfDXgDAb (~ {+QUESFLAG})
+
+# as ADJ as ever | (ADJ) : [(MODS [XfDAb\W|<ADV>]) ADJ]/^bGb
+# ever after | (ADV) : ^sWg AkUlA^bWj
+# for ever (PP->ADV) : WjWWsfD^|
+# if ever | (ADV) : UfIUb W|VGb^cGl
+#' more than ever (ADV) : XfDWz| WfDz HcRlGbGl
+#' than ever (PP->ADV) : WfDz HcRlGbGl
+
+"evermore"
+(^bWUbW)
+
+"everyday"
+(QcW|I)
+
+"everywhen"
+(WfDXgGzDX|)
+
+"everywhere"
+(WfG|UfDb)
+* QlGs (look)
+// Everywhere our nature is suffering from pollution!
+//# everywhere SENT (ADV NOUN) : 1) (ADJUNCT [(RELCL SENT/^bDzD) WfG|<NOUN>]/WgUfDb)
+//			       2) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>]
+
+"evidently"
+(RsDQjW^|)
+
+"evil"
+(DbSzAg)
+
+"ex-works"
+(AlWXbWGlIl)
+
+"exactly"
+(XfW^lbA^|)
+
+"exaggeratively"
+(AlbXbWGl|Wf)
+
+"exasggeratedly"
+(AlbXbWGl|Wf)
+
+"exasperatedly"
+(^lbDcWf)
+
+"exceedingly"
+(Al|WXbW^|)
+
+"excellently"
+(WsUs^bAg)
+
+"exceptionally"
+(WkWl|Il)
+
+"excessively"
+(X|DbZ|Ag)
+
+"excitedly"
+(^zWRsD^cUf)
+
+"exclusively"
+(Rc\bXfAWzIl)
+
+"excruciatingly"
+(QlRU| Al|IlRAg)
+
+"excursively"
+(UbDQbD^bAg)
+
+"exhilatingly"
+(A|RsDW| GzIHzAg)
+
+"expansively"
+(]cWZbWXfAWzIl)
+
+"exparte"
+(^bDYlAWgQbD Z|WsZj)
+
+"expectantly"
+(WkA|^bWj)
+
+"expediently"
+(]jDWz|UbW)
+
+"expeditiously"
+(U|DUlA^bAg)
+
+"expensively"
+(AbRUR|VbAg)
+
+"experimentally"
+(U|I^fQXfAWzIl)
+
+"expertly"
+(DzWUsA^bAg)
+
+"explanatorily"
+(UfIQjWWzIl)
+
+"explicitly"
+(QjWRcA^|)
+
+"explosively"
+(]lARbIXfAWzIl)
+
+"expnesively"
+(UbZ|UzIfRAg)
+
+"express"
+(\zARjI^|)
+
+"expressively"
+(]r^jDXfAWzIl)
+
+"expressly"
+(QjWRcA^|)
+
+"extemporarily"
+(XzAUfAWgUf)
+
+"extempore"
+(XsDR|WfRUW|)
+
+"extendedly"
+(AlbWRfQWs|^bAg)
+
+"extensively"
+(DfIRAg)
+
+"externally"
+(Wl|RsXfAWzIl)
+
+"extra"
+(WjRsDWzIl)
+
+"extraordinarily"
+(\zARjI^bAg)
+
+"extremely"
+(AzA^|)
+* U|Q^bAg (move WsQX|AW|Gb)

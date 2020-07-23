@@ -1,0 +1,157 @@
+"Yankee"
+ar (Q|AsAUbIbQ U|AWz|)
+ap (Q|AsAUbIbQ U|AW|Gb)
+
+"Yemenite"
+ar (WkQcDWz|)
+ap (WkQcDW|Gb)
+
+"Yugoslav"
+ar (WwAlUzIIbR|WbWz|)
+ap (WwAlUzIIbR|WbW|Gb)
+
+"yankeefied"
+ar (WdW[|^lb^bD)
+ap (WdW[|^lb^bGb)
+
+"yare"
+ar (XsDR|Ab Gl|D)
+ap (XsDR|Ab Gl|Gb)
+
+"yarn-dyed"
+ar (U|IWzI WjQUcA^bD)
+ap (U|IWzI WjQUcA^bGb)
+
+"yawnful"
+ar (^b]sQDbAg ^bDzD)
+ap (^b]sQDbAg ^bGb:ADJ->VERB)
+
+"yawning"
+ar (^b]sQ^bDzD)
+ap (^b]sQ^bGb:ADJ->VERB)
+
+"yeanling"
+ar (AbUDbD)
+ap (AbUDbGb)
+
+"yearling"
+ar (^bDUbIWz|)
+ap (^bDUbIW|Gb)
+
+"yearlong"
+ar (1DjDAbD AkUlA^bDzD)
+ap (1DjDAbD AkUlA^bGb)
+
+"yearly"
+ar (QcDjDWz|)
+ap (QcDjDW|Gb)
+
+"yearning"
+ar (GlWAjW^bDzD)
+ap (GlWAjW^bGb:ADJ->VERB)
+
+"yearround"
+ar (1DjDXsW AkUlAGl|DzD)
+ap (1DjDXsW AkUlAGl|Gb:ADJ->VERB)
+
+"yeasty"
+ar (^rQlWz|)
+ap (^rQlW|Gb)
+
+"yellow"
+ar (DlIbD)
+* AfRW| QbD^Gb (action ^cWGlW)
+* DlIb^Gb (banner RcDf)
+* UfDXfWXfAW|Gb (newpaper U|DQsD) (magazine XbRX|)
+* U|UcQ^bGb:ADJ->VERB (look ]rXfW)
+ap (DlIb^Gb)
+# yellow leaf (NOUN) : DlIbD W|]
+
+
+"yellow-livered"
+ar (AfRQbD^WzD)
+ap (AfRW| QbD^Gb)
+
+"yellowish"
+ar (DsIzUzIzQ^bD)
+ap (DsIzUzIzQ^bGb)
+
+"yellowy"
+ar (^lbWUcAWz|)
+ap (^lbWUcAW|Gb)
+
+"yeomanly"
+ar (WrWAbQ^bD)
+ap (WrWAbQ^bGb)
+
+"yielding"
+ar (GbUbDWz|)
+ap (GbUbDW|Gb)
+
+"yogic"
+ar (WwAbWz|)
+ap (WwAbW|Gb)
+
+"yolky"
+ar (DlIzDXbWs|Wz|)
+ap (DlIzDXbWs|W|Gb)
+
+"yonder"
+ar (XfYlAWz|)
+ap (XfYlAW|Gb)
+
+"yorkist"
+ar (WrWl[zAbWz|)
+ap (WrWl[zAbW|Gb)
+
+"young"
+ar (XfIQWzD)
+* Uf\sIzGb (technique A|UsI) (act WjDA|)
+* WfI|Gb (whale AlIc) (child WbW|) (son WbGzI) (sister DsW|) (girl UlDj)
+* XfIQGb (Korean ^bDAsAW|D)
+* ZlA|Wz| (nation AsAAb) (civilization QsDQjW)
+ap (XfIQGb)
+
+# ONE_S young man (NOUN) : WjDW|D
+# ONE_S young woman (NOUN) : WjDW|D
+# Young England (NOUN) : WjWAsA ZfWDjDGbW
+# Young Island (NOUN) : WbW|IIcDGz ZfWDjDGbW
+# young man (NOUN) : XfIQWzDW|
+# a young man in a hurry (NOUN) : AzRX|DXfA Ac^jAXb
+# in ONE_S young days (PP->ADV): XfIQWfVWzI HcWgDzD
+#' while young (SUBCL->ADV) : XfIQWzI Hc
+# young adult (NOUN) : ZfWUlDjD
+# young and old (ADV NOUN) : 1) DlUlIzI RsIQsD^bAl 
+			     2) DlUl QlGs
+# young family (NOUN) : WfI|D WbW|GzI
+# young in A (ADJ)  : [(ADJUNCT A/Wg) Uf\sIz<ADJ>]/Gb
+//# young things  (NOUN) : XfIQWzDW|GzI
+
+"youngeyed"
+ar (DsDWg ZlWA|Ab W|VDzD)
+ap (DsDWg ZlWA|Ab W|VGb)
+
+"youngish"
+ar (XlQ XfIQWzD)
+ap (XlQ XfIQGb)
+
+"youngling"
+ar (XfIQWzD)
+ap (XfIQGb)
+
+"your"
+ar (GbWU|DWz|)
+* GbWU|DWz| (portion XbAWfRWz| W|IRsRsD)
+ap (GbWU|DW|Gb)
+
+# A  of your own  (NOUN) : [(POSS [GbWU|D XbU|D<NOUN>]/Wz|) A]
+
+"youthful"
+ar (XfIQWzD)
+* ZfWDjDWz| (ambitions WdQbW)
+* ZlA|Wz| (period U|XfI)
+ap (XfIQGb)
+
+"yummy"
+ar (A|RsDXl^WzD)
+ap (A|RsDW| Xl^Gb)

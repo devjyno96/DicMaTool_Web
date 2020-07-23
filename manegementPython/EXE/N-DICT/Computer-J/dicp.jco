@@ -1,0 +1,422 @@
+
+"pacing"
+# pacing  :  ]gW|U|W
+# pacing group  :  ]gW|U|W AzIsR
+# pacing group size  :  ]gW|U|W AzIsR [zA|
+# pacing response  :  ]gW|U|W WzWGbR
+
+"packing"
+# packing code  :  ]lXbW [lGz
+# packing lists  :  ]c[|W QlAIlA
+
+"paging"
+# paging  :  ]gW|X|W
+# paging activity indexes  :  ]gW|X|W ^lbIGlW UcAW|D
+# paging area  :  ]gW|X|W WjWWjA
+# paging data set  :  ]gW|X|W XbIr Ug\z
+# paging device  :  ]gW|X|W XbWZ|
+# paging partition  :  ]gW|X|W As^l|A
+# paging rate  :  ]gW|X|W WwI
+# paging supervisor  :  ]gW|X|W AbQU| ]zIlAzIcQ
+# paging technique  :  ]gW|X|W A|RfR
+
+"paper"
+# paper : XlWW|
+
+"parallel"
+# parallel  :  RjWIjI
+# parallel adder  :  RjWIjI AbUbDA|
+# parallel addition  :  RjWIjI AbUbD
+# parallel channel  :  RjWIjI ZcDfI
+# parallel computer  :  RjWIjIU|A [fQ]w\f
+# Parallel Data Adapter  :  RjWIjI XbIr XfRUlAA|
+# Parallel Data Extension  :  RjWIjI XbIr ^lbAXbW A|As
+# Parallel Data Timeout  :  RjWIjI XbIr U|^bD A|As
+# parallel dialog box  :  RjW^cW Gc^lb UbWXb
+# parallel DL/I  :  RjWIjI DL/I
+# parallel extend routes  :  RjWIjI ^lbAXbW Is\z
+# Parallel I/O Adapter  :  RjWIjI I/O XfRUlAA|
+# parallel link  :  RjWIjI WjDAjI
+# parallel operation  :  RjWIjI WjDUbD
+# Parallel Print  :  RjWIjI W|DUlcA|
+# parallel processing  :  RjWIjI ZfI|
+# parallel punching  :  RjWIjI ZfDAlW
+# parallel read  :  RjWIjI ]bDGlA
+# parallel search storage  :  RjWIjI \bQUcA A|WfAXbWZ|
+# parallel session  :  RjWIjI UgUjD
+# parallel storage  :  RjWIjI A|WfAXbWZ|
+# parallel terminal  :  RjWIjI XfDUlWU|A GbDQbIA|
+# parallel transmission  :  RjWIjI XfDUlW
+
+"partial"
+# partial  :  RsRsD
+# partial carry  :  RsRsD WlII|QUs
+# partial journal receiver  :  RsRsD XfDfI UsU|DA|
+# partial key  :  RsRsD [|
+# partial name  :  RsRsDQjW
+# partial path  :  RsRsD AjWIl
+# partial record  :  RsRsD Ig[lGz
+# partial ship  :  RsD^bI UfDXfA
+
+"partially"
+# partially resolved  :  RsRsD ^cAjI
+
+"particular"
+# particular  :  \zAXfWWz|
+
+"passive"
+# passive command  :  UsGlWZfI| QjWIjW
+# passive mode  :  UsGlWZfI| QlGz
+# passive station  :  UsGlWAsA
+
+"patching"
+# patching  :  ]cZ|W
+
+"permanent"
+# permanent  :  WjWAs
+# permanent dictionary  :  WjWAs UbXfD
+# permanent error  :  WjWAs WlIw
+# permanent file  :  WjWAs ]bW|I
+# permanent object  :  WjWAs WlRzXgA\z
+# permanent read/write error  :  WjWAs W|IAA|/VzA| WlIw
+# permanent resident volume  :  WjWAs UbWXs RlIIwQ
+# permanent storage  :  WjWAs A|WfAXbWZ|
+# permanent storage assignment  :  WjWAs A|WfA WjWWjA X|XfW
+# permanent user dictionay  :  WjWAs UbWrWXb UbXfD
+# Permanent Virtual Circuit  :  WjWAs AbUbW ^l|Il
+
+"perpendicular"
+# perpendicular  :  UsX|A
+
+"perpetual"
+# perpetual inventory  :  WjWAs XcAl A|IlA
+
+"persistent"
+# persistent environment  :  X|UlA ^lbDAjW
+
+"personal"
+# personal  : AcW|DWrW
+# personal appointment  : AcW|DWrW WdAUlA
+# personal code  : AcW|D [lGz
+# personal computer mode  : AcW|DWrW [fQ]w\f QlGz
+# personal computer utility  : AcW|DWrW [fQ]w\f Ww\|II|\|
+# personal computer  : AcW|DWrW [fQ]w\f
+# personal directory  : AcW|DWrW GzWIlARs
+# personal document  : AcW|DWrW QsDUf
+# personal documnet password  : AcW|DWrW QsDUf WbQ^l
+# personal folder  : AcW|DWrW ]lIGf
+# personal identification number  : AcW|DWrW U|ARjI RfD^l
+# personal mail  :  AcW|DWrW Ws]jD
+# personal services/36  :  AcW|DWrW UfR|Uz/36
+
+"phonetic"
+# phonetic  :  WzQUfW
+
+"physical"
+# physical  : QsII|XfA
+# physical address  : U|IXg XsUl
+# physical back-up  : U|IXg RcAWfR
+# physical characteristics  : U|IXg \zAUfW
+# physical circuit  : U|IXg ^l|UfD
+# physical connection  : U|IXg XfRUlA
+# physical control layer  : U|IXg XgWfZzW
+# physical count  : U|IUbIdW
+# physical data  : U|IXg XbIr
+# physical data base  : U|IXg GgW|\b RgW|Uz
+# physical data base record  : U|IXg GgW|\b RgW|Uz Ig[lGz
+# physical data structure  :  U|IXg XbIr AsXl
+# physical device  :  U|IXg XbWZ|
+# physical device address  :  U|IXg XbWZ| XsUl
+# physical disablement  :  QsII|XfA UbWrWAzQX|
+# physical distribution planning  :  U|IXg RsDRc Ak^l|A
+# physical file  : QsII|XfA ]bW|I
+# physical file member  :  U|IXg ]bW|I AsUfWWsfD
+# physical I/O address  :  U|IXg I/O XsUl
+# physical inventory  :  U|IUb XcAl
+# physical inventory edit  :  U|IUb ]jDX|R
+# physical inventory list  :  U|IUb W|IIbQ]r
+# physical IOCS  :  U|I IOCS
+# physical layer  :  U|IXgZzW
+# physical level  :  U|IXg GbDAk
+# physical link  :  U|IXg WjDAjI
+# physical logging  :  U|IXg A|IlA
+# physical message  :  U|IXg QgUgX|
+# physical organization  :  U|IXg ]jDUfW
+# physical page  :  U|IXg ]gW|X|
+# physical paging  :  U|IXg ]gW|X|W
+# physical pairing  :  U|IXg YbAX|UA|
+# physical PL/I DB  :  QsII| PL/I DB
+# physical quantity  :  U|IUb UsIdW
+# physical record  :  U|IXg Ig[lGz
+# physical security  :  U|IXgXfA RlWbD
+# physical segment  :  U|IXg UgAzQfD\z
+# Physical Services Header  :  U|IXg UfR|Uz ^gGf
+# physical storage  :  U|IXg A|WfAWjWWjA
+# physical storage address  :  U|IXg A|WfAWjWWjA XsUl
+# physical storage block  :  U|IXg A|WfAWjWWjA RzIIlA
+# Physical Storage Table  :  U|IXg A|WfAWjWWjA ]r
+# physical structure  :  U|IXg AsXl
+# physical terminal  :  U|IXg GbDQbIA|
+# physical timer  :  U|IXg AkU|A|
+# physical transaction  :  U|IUb ZfI|
+# physical unit block  :  U|IXg XbWZ| RzIIlA
+# Physical Unit Control Point  :  U|IXg XbWZ| XgWf XsWU|Q
+# physical unit service  :  U|IXg XbWZ| UfR|Uz
+# Physical Unit type  :  U|IXg XbWZ| Ww^jW
+# Physical Unit  :  U|IXg XbWZ|
+# physical variable field  : QsII| RjDUs ]|IGz
+
+"polar"
+# polar chart  :  RbWUb^jW Gl]r
+# polar relay  :  AzA AkXfDA|
+# polar transmission  :  RlAIwU|A XfDUlW
+
+"polish"
+# Polish notation  :  ]lII|Us| ]rA|RfR
+
+"portable"
+# portable  :  ^wGcWrW
+# Portable computer  :  ^wGcWrW [fQ]w\f
+# portable data medium  :  ^wGcWrW XbIr QcZg
+# portable data set  :  ^wGcWrW XbIr Ug\z
+# portable file  :  W|GlW AbDzW  ]bW|I
+# portable package  :  W|GlW AbDzW ]c[|X|
+
+"positional"
+# positional  :  Ws|Z|
+# positional notation  :  XbI|Us ]rA|RfR
+# positional operand  :  Ws|Z| ]|WjDUbDXb
+# positional parameter  :  Ws|Z| QcAcRjDUs
+# positional pattern  :  Ws|Z| ]c\fD
+# positional representation  :  Ws|Z| ]rU|RfR
+
+"positive"
+# positive  : AzWXfW
+# positive number  : WdWUs
+# positive response  : AzWXfW WzWGbR
+# positive value  : WdWUs
+
+"potential"
+# potential  : AbDzWUfW
+# potential error  : XbQXcXfAW|D WlIw
+
+"predictable"
+# predictable  :  WkZzA AbDzW
+
+"preemptable"
+# preemptable  :  UfDZs|^bI Us W|VDzD
+
+"preemptive"
+# preemptive : preemptive^bD
+
+"primary"
+# primary address space  :  1Zb XsUl AlWAbD
+# primary allocation  :  1Zb ^bIGbW
+# primary application  :  1Zb XfAWrWWfRQs
+# Primary Application Block  :  1Zb XfAWrWWfRQs RzIIlA
+# primary application program  :  1Zb WzWWrW ]zIlAzIcQ
+# primary authorization list  :  1Zb AsfD^bD W|IIbQ]r
+# primary axis  :  1Zb ZsA
+# primary code page  :  1Zb [lGz ]gW|X|
+# primary command  :  1Zb QjWIjW
+# Primary Communication Attachment support  :  1Zb \lWU|D XfRUlA X|WsfD
+# primary console  :  1Zb [lDUlI
+# Primary Control Program  :  1Zb XgWf ]zIlAzIcQ
+# Primary Controller Adapter  :  1Zb XgWf XbWZ| XfRUlAA|
+# primary CPU  :  1Zb CPU
+# primary data set group  :  1Zb GgW|\b Ug\z AzIsR
+# primary device  :  1Zb XbWZ|
+# primary directory  :  1Zb GzWIlARs
+# primary display sequence  :  1Zb ^lbQjD UsDUf
+# primary entry point  :  1Zb X|DW|RXfQ
+# primary extended route  :  1Zb ^lbAXbW AjWIl
+# primary file  :  1Zb ]bW|I
+# primary file entry  :  1Zb ]bW|I ^bWQlA
+# primary focal point  :  1Zb XsWXcXfQ
+# primary function  :  1Zb A|DzW
+# primary index  :  1Zb UcAW|D
+# primary input stream  :  1Zb W|RIjA WjI
+# primary IPL source  :  1Zb IPL WsfD
+# primary key  :  1Zb [|
+# primary key encrypting keys  :  1Zb [| WbQ^l^lb [|
+# primary language  :  1Zb WfDWf
+# primary link station  :  1Zb WjDAjI X|AsA
+# Primary Logical Unit  :  1Zb DlDI| XbWZ|
+# primary member  :  1Zb AsUfWWsfD
+# primary menu  :  1Zb QgDw
+# primary node  :  1Zb DlGz
+# primary node ID  :  1Zb DlGz ID
+# primary operator console  :  1Zb XlXbAWsfD [lDUlI
+# primary operator control station  :  1Zb XlXbAWsfD XgWfAsA
+# primary option menu  :  1Zb UfD\cA QgDw
+# primary owner  :  1Zb UlWwXb
+# primary pack master directory  :  1Zb ]cA QbUz\f GzWIlARs
+# primary pages  :  1Zb ]gW|X|Us
+# primary paging device  :  1Zb ]gW|X|W XbWZ|
+# primary partition  :  1Zb As^l|A
+# primary path  :  1Zb AjWIl
+# Primary Program Operator Interface Task  :  1Zb POI  \bUz[z
+# primary processing unit  :  1Zb ZfI| GbDWs|
+# primary program  :  1Zb ]zIlAzIcQ
+# primary PSV  :  1Zb PSV
+# primary rack  :  A|RlD IcA
+# primary record format  :  1Zb Ig[lGz ^jWU|A
+# primary register set  :  1Zb IgX|Uz\f Ug\z
+# primary request  :  1Zb WrAs
+# Primary Return Code  :  1Zb RlAAs| [lGz
+# primary segment  :  1Zb UgAzQgD\z
+# primary space  :  1Zb A|WfA AlWAbD
+# primary space allocation  :  1Zb A|WfA AlWAbD ^bIGbW
+# primary station  :  1Zb X|AsA
+# primary storage  :  1Zb A|WfA WjWWjA
+# primary system  :  1Zb U|Uz\gQ
+# Primary System Control Facility  :  1Zb U|Uz\gQ XgWf A|DzW
+# primary system name  :  1Zb U|Uz\gQQjW
+# primary system operator  :  1Zb U|Uz\gQ XlXbAWsfD
+# primary system operator privilege class  :  1Zb U|Uz\gQ XlXbAWsfD \zAAsfD XlWIw
+# primary task  :  1Zb \bUz[z
+# primary topic  :  1Zb XsXg ^bWQlA
+# primary track  :  1Zb \zIcA
+# primary user disk  :  1Zb UbWrWXb G|Uz[z
+# primary vendor  :  1Zb AlWAzRXb
+# primary virtual address  :  A|RlD AbUbW XsUl
+# primary virtual storage  :  A|RlD AbUbW A|WfA XbWZ|
+# primary volume  :  1Zb RlIIwQ
+# primary window  :  1Zb ZbW
+
+"private"
+# private  :  AcW|DWrW
+# private address space  :  AcW|DWrW XsUl AlWAbD
+# private application  :  AcW|DWrW XfAWrWWfRQs
+# private authority  :  AcW|D AsfD^bD
+# Private Automatic Branch eXchange  :  UbUfI XbGlW AsDcAr^lbD
+# Private Automatic eXchange  :  XfDWrW XbGlW Ar^lbD
+# Private Branch eXchange  :  AcW|DWrW RsDA| Ar^lbD
+# Private Branch eXchange  :  UbUfI AsDc Ar^lbD
+# private code  :  AcRjI [lGz
+# private document  :  AcW|DWrW QsDUf
+# private library  :  AcW|DWrW IbW|RzIfI|
+# private line  :  XfDWrW ^l|UfD
+# private line service  :  XfDWrW ^l|UfD UfR|Uz
+# private point-to-point links  :  XfDWrW X|XfQAbD WjDAjI
+# private resource  :  AcW|DWrW XbWsfD
+# private storage  :  AcW|DWrW A|WfAWjWWjA
+# private telegraph network  :  UbUfI XfDU|D Dg\zWsf[z
+# private volume  :  AcW|D RlIIwQ
+# private wire network  :  UbUfI WwUfD Dg\zWsf[z
+
+"proactive"
+# proactive : UsD^dW
+
+"procedural"
+# procedural alphanumeric  :  XfIZb WjWUsUXb
+# procedural language  :  XfIZb WfDWf
+# procedural programming  :  XfIZb ]zIlAzIcQ|W
+
+"process"
+# process  : ZfI|
+# process access group  :  ]zIlUgUz XfRAzD AzIsR
+# process blocks  :  ZfI| RzIIlA
+# process bound  :  ZfI| XgWdA
+# process control  :  ZfI| XgWf
+# process control block  :  ZfI| XgWf RzIIlA
+# process directory  :  ZfI| GzWIlARs
+# process drawing  :  AlWXfWGl
+# process entry  :  ZfI| W|RIjA
+# process ID  :  ]zIlUgUz ID
+# process identification number  :  ]zIlUgUz U|ARjI RfD^l
+# process indicator  :  ZfI| ]rU| XbWZ|
+# Process Interrupt  :  ZfI| AbIlZcA| A|As
+# Process Interrupt Adapter  :  ZfI| AbIlZcA| XfRUlAA|
+# Process Interrupt-Contact  :  XfRXfQU|A ZfI| AbIlZcA| A|As
+# Process Interrupt-Voltage  :  XfDWbRU|A ZfI| AbIlZcA| A|As
+# process log  :  ]zIlUgUz A|IlARs
+# process mode  :  ZfI| QlGz
+# process monitoring and control  :  AlWXfW AbQU| XgWf
+# process name  : ]zIlUgUz W|IzQ
+# process name value  : ]zIlUgUz W|IzQ AbRU
+# process object  :  ZfI| GcUbW
+# Process Operator Console  :  ZfI| XlXbAWsfD [lDUlI
+# process option  :  ZfI| UfD\cA
+# process option line  :  ZfI| WlRUjD ^cW
+# process planning  :  AlWXfW Ak^l|A
+# process queue  :  ZfI| GcA| ^cWIjI
+# Process resources  :  ZfI| XbWsfD
+# process sheet  :  AlWXfW]r
+# process sheet number  :  AlWXfW]r RfD^l
+# process stage  :  ZfI| GbDAk
+# process state  :  ZfI| UbW\c
+# process statement  :  ZfI| QjWIjWQsD
+# process step  :  AlWXfW GbDAk
+# process structure  :  ZfI| AsXl
+# process system program II  :  ZfI| U|Uz\gQ ]zIlAzIcQ II
+# process termination block  :  ZfI| XlWIr RzIIlA
+# process time  :  AlWXfW U|AbD
+# process cost accumulation  :  AlWXfW WsfDAb DsAk
+# process costing  :  AlWXfW WsfDAb AkUbD
+
+"processing"
+# processing  : ZfI|
+# processing and control element  : ZfI| Q|Z XgWf WrUl
+# processing cycle  : ZfI| XsA|
+# processing intent  : ZfI| Wz|Gl
+# processing level  : ZfI| GbDAk
+# processing level display  : ZfI| GbDAk ^lbQjD
+# processing level indicator  : ZfI| GbDAk ]rU|A|
+# processing limit  : ZfI| ^bDAk
+# processing management  : ZfI| AlbDI|
+# processing module  : ZfI| QlGwI
+# processing priority  : ZfI| WsUfDUsDWs|
+# processing program  : ZfI| ]zIlAzIcQ
+# Processing Program Table  :  ZfI| ]zIlAzIcQ]r
+# processing services  :  ZfI| UfR|Uz
+# processing statement  :  ZfI| QsD
+# Processing Statement Feature  :  ZfI| QjWIjWQsD A|DzW
+# processing table  :  ZfI| \gW|RzI
+# Processing Unit  : ZfI|XbWZ|
+# Processing Unit Expansion  :  XsWWbW WjDUbD ZfI|XbWZ| ^lbAXbWA|As
+# Processing Unit  :  WjDUbD ZfI|XbWZ|
+
+"productive"
+# productive task  :  UcWUbDXfA \bUz[z
+# productive use/non-productive use  :  UcWUbDXfA UbWrW/R|UcWUbDXfA UbWrW
+
+"program-development"
+# program-development environment  : ]zIlAzIcQ AcRbI ^lbDAjW
+
+"programmable"
+# programmable  :  ]zIlAzIcQ AbDzW
+# Programmable buffered terminal  :  ]zIlAzIcQ A|WfAU|A GbDQbIXbWZ|
+# Programmable communication subsystem  :  ]zIlAzIcQ A|WfAU|A \lWU|D RsUlAU|Uz\gQ
+# Programmable control unit  :  ]zIlAzIcQ AbDzW XgWf XbWZ|
+# Programmable data station  :  ]zIlAzIcQ AbDzW GbDQbI XbWZ|
+# programmable operator facility  :  ]zIlAzIcQ AbDzW XlXbAWsfD A|DzW
+# Programmable Store System Subsystem Program Preparation Support  :  3650WrW PSS RsUlAU|Uz\gQ ]zIlAzIcQ XsDR| X|WsfD
+# Programmable work station  :  ]zIlAzIcQ AbDzW Wsf[zUz\gW|UjD
+
+"progressive"
+# progressive overflow  :  WjDUlA X|D^cW DfQZ|Q
+
+"proportional"
+# proportional distribution  :  R|Ik RsD]l
+# proportional font  :  AlWAbDWz| [zA|Ab Ab\WzD ]lD\z
+# proportional spacing  :  R|Ik AlWAbD RcZ|
+
+"protective"
+# protective ground  :  Rl^lWrW XfRX|
+# protective packing  :  Rl^lWrW ]lXbW
+
+"public"
+# public  :  AlWWrW
+# public application  :  AlW\lW XfAWrWWfRQs
+# public authority  :  AlWWrW AsfD^bD
+# public data  :  AlWWrW XbIr
+# Public Data Network  :  AlWWrW XbIr Dg\zWsf[z
+# public data transmission service  :  AlWWrW XbIr XfDUlW UfR|Uz
+# public document  :  AlWWrW QsDUf
+# Public library  :  AlWWrW IbW|RzIfI|
+# Public Message Service  :  AlWAlW XfWRl UfR|Uz
+# public network  :  AlWWrW Dg\zWsf[z
+# public packet-switched network  :  AlWWrW ]c[|U-Ar^lbD \lWU|DQbW
+# Public Switched Network  :  AlWWrW Ar^lbD \lWU|DQbW
+# public volume  :  AlWWrW RlIIwQ

@@ -1,0 +1,310 @@
+
+"national"
+# national : AsAAb
+# national characters : \zAUs QsDXb
+# national language : UbWrW WfDWf
+# national language code page : QlAsAWf [lGz ]gW|X|
+# national language feature : UbWrW WfDWf A|DzW
+# National Language Support : ^bDAzI^lb X|WsfD
+# national language translation table : UbWrW WfDWf RjD^lbD \gW|RzI
+# national requirements feature : AsARjI WrAfD A|DzW
+
+"native"
+# native : AlWw
+# native character set : AlWw QsDXb Ug\z
+# native collating sequence : AlWw RcWjI UsDUf
+# native mode : AlWw QlGz
+# native network : AlWw Dg\zWsf[z
+# native SNA : AlWw SNA
+# native tape attachment : XbA| \gW|]z XfRUlAA|As
+
+"natural"
+# natural language : XbWjD WfDWf
+# natural number : XbWjDUs
+
+"navigational"
+# navigational database : UfD\cA X|D^cW GgW|\b RgW|Uz
+
+"negative"
+# negative : QbW|DfUz
+# Negative AcKnowledge : RsXfW WzWGbR
+# Negative AcKnowledgment character : RsXfW WzWGbR QsDXb
+# negative availability : WjA AbWrWUfW
+# negative polling limit : RsXfW ]lII|W ^bDAk
+# negative response : RsXfW WzWGbR
+# negative SQL code : - SQL [lGz
+
+"negotiable"
+# negotiable bind : XlXfWAbDzW AjI^bR
+
+"neutral"
+# neutral color : XsWAbDUcA
+# neutral transmission : GbDIwU|A XfDUlW
+
+"new"
+# new certainty : U|D ^lbAU|DGl
+# new common carrier : U|DAw Xg 1 XlW XfDA|\lWU|D UbWfRXb
+# new component item : U|DAw Rs]sQ
+# new file : U|DAw ]bW|I
+# new file name : U|DAw ]bW|IQjW
+# new format : U|D^jW
+# new high key : U|DAw UbWWs| [|
+# new member : U|DAw AsUfWWsfD
+# new line key : GbWzQ^cW [|
+# new line : GbWzQ^cW
+# new page : GbWzQ ]gW|X|
+# new parent item : U|DAw Ql]sQQlA
+# new user : UcIlWsD UbWrWXb
+
+"next"
+# next : GbWzQWz|
+# next executable sentence : GbWzQ U|I^cWAbDzW AsQsD
+# next executable statement : GbWzQ U|I^cWAbDzW  QsD
+# next generation : ZbUgGc
+# next group : GbWzQ AzIsR
+# next record : GbWzQ Ig[lGz
+# next system : GbWzQ U|Uz\gQ
+# next system activate : GbWzQ U|Uz\gQ AbGlW
+# next system queue : GbWzQ U|Uz\gQ GcA|^cWIjI
+# next system table : GbWzQ U|Uz\gQ ]r
+
+"no-resettable"
+# no-resettable machine check : RlAWsfD RsIDzW A|Ak W|UbW
+
+"noisy"
+# noisy mode : XbRWzQ QlGz
+
+"nominal"
+# nominal speed : QjWQlA UlAGl
+
+"non-automatic"
+# non-automatic profile : R|XbGlW ]zIl]bW|I
+
+"non-concurrent"
+# non-concurrent resource usage : R|RjW^cW XbWsfD UbWrW
+
+"non-contiguous"
+# non-contiguous file : RsIWjDUlA ]bW|I
+
+"non-destructive"
+# non-destructive cursor : ^lbQjD WwX| [fUf
+# non-destructive cursor adapter : ^lbQjD WwX| [fUf XfRUlAA|
+# non-destructive reading : A|WfAWwX| W|IAA|
+
+"non-dispatchable"
+# non-dispatchable : X|XfW RsIDzW
+
+"non-displayable"
+# non-displayable characters : ]rU|^bI Us WfRUDzD QsDXb
+
+"non-disruptive"
+# non-disruptive transition : R|AcW|R XfDA|
+
+"non-editable"
+# non-editable properties : ]jDX|R RsIDzW \zAUfW
+
+"non-erasable"
+# non-erasable storage : X|WsQ RsIDzW A|WfAXbWZ|
+
+"non-executable"
+# non-executable statement : R|U|I^cWQsD
+
+"non-hierarchical"
+# non-hierarchical fashion : R|AkZzW RbWU|A
+
+"non-interactive"
+# non-interactive job : R|Gc^lbU|A XbAWfR
+# non-interactive program : R|Gc^lbU|A ]zIlAzIcQ
+
+"non-linear"
+# non-linear optimization : R|UfD^jW Zl|XfARfR
+# non-linear programming : R|UfD^jW ]zIlAzIcQ|W
+
+"non-native"
+# non-native network : R|AlWw Dg\zWsf[z
+
+"non-negative"
+# non-negative integer : WzQUsWl| XfWUs
+
+"non-null"
+# non-null : NULLW| WbD|D
+
+"non-numeric"
+# non-numeric data : R| UsUXb XbIr
+# non-numeric entry : R|UsUXb ^bWQlA
+
+"non-pageable"
+# non-pageable area : ]gW|X|W RsIDzW WjWWjA
+
+"non-recoverable"
+# non-recoverable storage pool : ^l|RlA RsIDzW A|WfAWjWWjA ]sI
+
+"non-relocatable"
+# non-relocatable : XcRcZ| RsIDzW
+
+"non-resident"
+# non-resident members : R|UbWXs AsUfWWsfD
+
+"non-simultaneous"
+# non-simultaneous transmission : R|GlWU| XfDUlW
+
+"non-specific"
+# non-specific volume request : R|\zAXfW RlIIwQ WrAs
+
+"non-system"
+# non-system : R| U|Uz\gQ
+
+"non-system-validated"
+# non-system-validated : R| U|Uz\gQ AfQXzW
+
+"non-temporary"
+# non-temporary data set : R|W|IU| XbIr Ug\z
+
+"non-terminating"
+# non-terminating block : R|XlWIr RzIIlA
+
+"non-transmitting"
+# non-transmitting typewriter : R|XfDUlW \bXbA|
+
+"non-transparent"
+# non-transparent : R|\sAlb
+# non-transparent mode : R|\sAlb QlGz
+
+"non-unique"
+# non-unique alternate key : R|AlWw GcZg [|
+
+"nonblocked"
+# nonblocked insert : R| RzIIlA UbRW|R
+
+"noncontiguous"
+# noncontiguous : RsIWjDUlA
+# noncontiguous item : GlAI|R ^bWQlA
+# noncontiguous key : RsIWjDUlA [|
+# noncontiguous keyed file : RsIWjDUlA [| ]bW|I
+
+"nondisruptive"
+# nondisruptive expansion : R|AcW|R ^lbAXbW
+
+"nonexecutable"
+# nonexecutable statement : R|U|I^cWQsD
+
+"noninteractive"
+# noninteractive (ADJ) : R|Gc^lbU|AWz|
+
+"nonloadable"
+# nonloadable character set : IlGzRsIDzW QsDXb Ug\z
+
+"nonnumeric"
+# nonnumeric item : R|UsZ| ^bWQlA
+# nonnumeric literal : R|UsZ| QsDXb
+
+"nonpageable"
+# nonpageable dynamic area : ]gW|X|W RsIDzW GlWXfA WjWWjA
+# nonpageable partition : ]gW|X|W RsIDzW As^l|A
+# nonpageable region : ]gW|X|W RsIDzW WjWWjA
+
+"nonprocedural"
+# nonprocedural element : R|XfIZb WrUl
+# nonprocedural language : QsXfIZb WfDWf
+
+"nonproductive"
+# nonproductive task : R|UcWUbDXfA \bUz[z
+
+"nonprogrammable"
+# nonprogrammable termianl : ]zIlAzIcQ RsIDzW GbDQbIA|
+# nonprogrammable terminal line driver : ]zIlAzIcQ RsIDzW GbDQbIA| ^l|UfD AsGlWXbWZ|
+# nonprogrammable work station : ]zIlAzIcQ RsIDzW Wsf[zUz\gW|UjD
+
+"nonproportional"
+# nonproportional font : AlWAbDWz| [zA|Ab GbIzD ]lD\z
+
+"nonrecoverable"
+# nonrecoverable storage pool : ^l|RlA RsIAbDzW^bD A|WfA XfXbWUl
+
+"nonreflective"
+# nonreflective ink : QsRbDUb W|W[z
+
+"nonrequesting"
+# nonrequesting terminal program : R|WrAs GbDQbIA| ]zIlAzIcQ
+
+"nonreusable"
+# nonreusable : XcUbWrW RsIAb
+# nonreusable disk queuing : XcUbWrWRsIDzW G|Uz[z GcA|^cWIjI ZfI|
+
+"nonsensitive"
+# nonsensitive data : AbQX|RsIDzW XbIr
+
+"nonstandard"
+# nonstandard : R|]rXsD
+# nonstandard job : R|]rXsD XbAWfR
+# nonstandard label : R|]rXsD IgW|RzI
+# nonstandard labeled tape : R|]rXsD IgW|RzI \gW|]z
+
+"nonswappable"
+# nonswappable storage : UzWlbRRsIDzW A|WfAWjWWjA
+
+"normal"
+# normal close : XfWUbWXfAW|D QbAbQ
+# normal control field : W|IRbD XgWf ]|IGz
+# normal disconnected mode : XfWAw XfIGbD QlGz
+# normal distribution : XfWAw RsD]l
+# normal flow : XfWUbW ^zIzQ
+# normal install : XfWUbW UfIZ|
+# normal installation : XfWUbW UfIZ|
+# normal message : XfWUbW QgUgX|
+# normal mode : XfWUbW QlGz
+# normal priority : XfWUbW WsUfDUsDWs|
+# normal priority process : XfWUbW UsDWs| ZfI|
+# normal queue : XfWUbW GcA|^cWIjI
+# normal response : XfWUbW WzWGbR
+# normal response mode : XfWUbW WzWGbR QlGz
+# normal stop : XfWUbW XsWX|
+# normal termination : XfWUbW XlWIr
+# normal virtual storage : W|IRbD AbUbW A|WfA XbWZ|
+# normal way you work : XfWUbWXfAW|D XbAWfR RbWU|A
+# normal weight line : Rl\lWUfD
+
+"numbered"
+# numbered frames : RfD^lUsD ]zIgW|Q
+# numbered option : UsUXb UfD\cA ^bWQlA
+# numbered list : RfD^l W|IIbQ]r
+
+"numeral"
+# numeral : UsUXb
+# numeral system : A|UsRfR
+
+"numeric"
+# numeric array : UsUXb RcWjI
+# numeric bit data : UsUXb R|\z XbIr
+# numeric character : UsUXb
+# numeric character data : UsUXb XbIr
+# numeric character set : UsUXb Ug\z
+# numeric character subset : UsUXb RsUlA Ug\z
+# numeric code : UsUXb [lGz
+# numeric coded character set : UsUXb [lGz Ug\z
+# numeric coding : UsUXb [lG|W
+# numeric constant : UsUXb UbWUs
+# numeric data : UsUXb XbIr
+# numeric data code : UsUXb XbIr [lGz
+# numeric digit : UsUXb G|X|\z
+# numeric edited character : UsUXb ]jDX|R QsDXb
+# numeric edited item : UsUXb ]jDX|R ^bWQlA
+# numeric expression : UsU|A
+# numeric field : UsUXb ]|IGz
+# numeric item : UsUXb ^bWQlA
+# numeric label : UsUXb IgW|RzI
+# numeric literal : UsZ| QsDXb
+# numeric lock : UsUXb XbQAzQ
+# numeric operator : UsUXb WjDUbDXb
+# numeric punch : UsUXb ZfDAlW
+# numeric representation : UsZ| ]rU|
+# numeric separator : UsUXb RsDI|
+# numeric shift : UsUXb W|GlW
+# numeric variable : UsUXb RjDUs
+# numeric word : UsUXbWf
+# numeric value : UsZ|
+
+"numerical"
+# numerical analysis : UsZ| ^cUfA
+# numerical control : UsZ| XgWf
+# numerical quadrature : UsUXb XfARsD

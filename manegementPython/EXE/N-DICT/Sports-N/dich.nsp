@@ -1,0 +1,97 @@
+"Hakeem Olajuwon"
+# Hakeem Olajuwon (NOUN) : ^b[|Q WlIIbXsWsfD
+
+"Hall"
+# Hall of Fame (NOUN) : QjWWkWz| XfDGbW
+
+"Hamblen"
+# Hanblen (NOUN) : ^cQRzIIgD
+
+"Hamilton"
+# Hamilton (NOUN) : ^cQ|I\fD
+
+"Harper"
+# Harper (NOUN) : ^b]f
+
+"Hoosier State"
+# Hoosier State (NOUN) : ^sX|Wf XsI|RGc
+
+"Hornacek"
+# Hornacek (NOUN) : ^lDbUgA
+
+"Houston"
+# Houston (NOUN) : ^wUz\fD
+
+"Houston Rockets"
+# Houston Rockets (NOUN) : ^wUz\fD Il[gZz
+
+"Howard Eisley"
+# Howard Eisley (NOUN) : ^bWsfGz WbW|UzII|
+
+"habit"
+# gambling habit (NOUN) : GlRjA
+
+"half"
+# the bottom half of the inning (NOUN) : Az ^l|Wz| QbIAlWAjA
+# first half (NOUN) : XfDRbD
+# half (NOUN) : ^b]z
+# second half (NOUN) : ^sRbD
+
+"hall-in-one"
+# hall-in-one (NOUN) : ^lIW|DWsfD
+
+"header"
+# header (NOUN) : ^gG|W
+
+"hearing"
+# abeyance pending hearing (NOUN) : X|R^cWXfWX| ZfWQsD^l|
+
+"heavyweight"
+# heavyweight (NOUN) : ^gR|AzR
+# heavyweight champion (NOUN) : ^gR|AzRZcQ]|WfD
+
+"high"
+# carreer high (NOUN) : \lWUbD Zl|Al
+
+"hit"
+# hit (NOUN) : ^|\z
+
+"hitter"
+# designated hitter (NOUN) : X|QjW\bXb
+# hitter (NOUN) : \bXb
+
+"hitting"
+# pinch hitting (NOUN) : Gc\b
+
+"holder"
+# holder (NOUN) : UlWwXb
+
+"hole"
+# hole (NOUN) : ^lI
+# playoff hole (NOUN) : AjIUzW^lI
+
+"home"
+# back home in A (ADV) : (ADJUNCT [(ADJUNCT [(POSS A/Wz|) ^lQ<NOUN>]/Wg) GlIWbWlb<VERB>]/Uf)
+# home (NOUN) : ^lQ
+
+"homer"
+# NUM1 {+ORDNUM} career homer (NOUN) : [(NMODS [\lWUbD<NOUN>]) (NMODS NUM1) ^lQIfD<NOUN>]
+# NUM1 {+ORDNUM} homer (NOUN) : [(NMODS NUM1) ^lQIfD<NOUN>]
+# career homer (NOUN) : \lWUbD ^lQIfD
+# solo homer (NOUN) : UlIIl ^lQIfD
+# three-run homer (NOUN) : 3XfQ ^lQIfD
+
+"hook"
+# hook (NOUN) : ^sA
+
+"hoop"
+# hoop (NOUN) : I|W
+
+"hop"
+# hop (NOUN) : ^lR
+
+"horn"
+# final horn (NOUN) : XlWIr RsXf
+
+"hump"
+# hump (NOUN) : DbDAlbD

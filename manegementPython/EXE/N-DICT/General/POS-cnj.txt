@@ -1,0 +1,1326 @@
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+

@@ -1,0 +1,385 @@
+
+"ideographic"
+# ideographic : IGC
+# ideographic character set : IGC QsDXb Ug\z
+# ideographic conversion : IGC RjD^lbD
+# ideographic data : IGC XbIr
+# ideographic either : IGC HlDzD WjWUsUXb
+# ideographic feature : IGC A|DzW
+# ideographic field : IGC ]|IGz
+# ideographic only : IGC XfDWrW
+# ideographic open : IGC Q|Z WjWUsUXb ^lDWrW
+# ideographic session : IGC UgUjD
+# ideographic sort utility : IGC RsDIw Ww\|II|\|
+# ideographic SSP : IGC SSP
+# ideographic support : IGC X|WsfD
+# ideographic support function : IGC X|WsfD A|DzW
+# ideographic system : IGC U|Uz\gQ
+# ideographic System Spport Program product : IGC SSP
+
+"idle"
+# idle : Ww^w
+# idle character : Ww^w QsDXb
+# idle state : RbWZ| UbW\c
+# idle thread : Ww^r U|I^cW GbDWs|
+# idle time : Ww^w U|AbD
+
+"immediate"
+# immediate : XzAU|
+# immediate access : XzAU| XfRAzD
+# Immediate access FILE : XzAU| XfRAzD ]bW|I
+# immediate access storage : XzAU| XfRAzD A|WfAXbWZ|
+# immediate address : XzAU| XsUl
+# immediate addressing : XzAU| XsUl X|XfW
+# immediate cancel : XzAU| Zs|Ul
+# immediate checkpoint : XzAU| XfQAfQXfQ
+# immediate command : XzAU| QjWIjW
+# immediate control mode : XzAU| XgWf QlGz
+# immediate data : XzAU| XbIr
+# immediate data field : XzAU| XbIr ]|IGz
+# immediate data operand : XzAU| XbIr ]|WjDUbDXb
+# Immediate Device Control Block : XzAU| XbWZ| XgWf RzIIlA
+# immediate environment termination : XzAU| ^lbDAjW XlWIr
+# immediate instruction : XzAU| QjWIjW
+# immediate maintenance : XzAU| RlUs WwX|
+# immediate message : XzAU| QgUgX|
+# immediate operand : XzAU| ]|WjDUbDXb
+# immediate operation : XzAU| XlXbA
+# immediate request mode : XzAU| WrAs QlGz
+# immediate response mode : XzAU| WzWGbR QlGz
+# immediate skip : XzAU| AfDDfHs|A|
+# immediate switching : XzAU| Ar^lbD
+# immediate update : XzAAbA AcWU|D
+
+"imminent"
+# imminent deadlock : A|DAzR ArZbAUbW\c
+
+"imperative"
+# imperative macro : QjWIjW Qb[zIl
+# imperative statement : XfIGc QjWIjWQsD
+
+"implicit"
+# implicit (ADJ) : WbQU|XfAW|D
+# implicit action : DcXc XlZ|
+# implicit address : WbQU| XsUl
+# implicit connection : DcXcXfA XfRUlA
+# implicit control : WbQU| XgWf
+# implicit data item : WbQU| XbIr ^bWQlA
+# implicit declaration : WbQU| UfDWfD
+# implicit dimensioning : DcXcXfA ZbWsfD UfIXfW
+# implicit indentification : WbQU| U|ARjI
+# implicit locking : DcXcXfA XbQAzQ
+# implicit opening : DcXc WjII|Q
+# implicit partition : DcXcXfA As^l|A
+
+"inaccurate"
+# inaccurate : RsXfW^lbA^bD
+
+"inactive"
+# inactive : R|^lbIGlW UbW\cWz|
+# inactive data set : R|^lbIGlW XbIr Ug\z
+# inactive directory : R|^lbIGlW GzWIlARs
+# inactive key : R|^lbIGlW [|
+# inactive line : R|^lbIGlW ^l|UfD
+# inactive link : R|^lbIGlW UbW\c WjDAjI
+# inactive mass storage volume : R|^lbIGlW GcA|WfA WrWIdW RlIIwQ
+# inactive node : R|^lbIGlW UbW\c DlGz
+# inactive page : R|^lbIGlW ]gW|X|
+# inactive partition : R|^lbIGlW As^l|A
+# inactive program : R|^lbIGlW ]zIlAzIcQ
+# inactive record : R|^lbIGlW Ig[lGz
+# inactive state : R|^lbIGlW UbW\c
+# inactive station : R|^lbIGlW GbDQbIA|
+# inactive table : R|^lbIGlW ]r
+# inactive virtual volume : R|^lbIGlW AbUbW RlIIwQ
+
+"inadequate"
+# inadequate : RsXfA^bD
+
+"inclusive"
+# inclusive : ]lAlbIXfAW|D
+# inclusive OR : ]lAlbIXfA DlDI|^lb
+# inclusive reference : ]lAlbIXfA ZbQXl
+# inclusive segment : WjDAlbD UgAzQgD\z
+
+"incompatible"
+# incompatible : ^l^lbDUfWW| WfRUDzD
+
+"incomplete"
+# incomplete migration job : WlbDIrGl|X| WbD^WzD W|Xs XbAWfR
+
+"inconsistent"
+# inconsistent state : RsIW|IZ| UbW\c
+"incorrect"
+# incorrect : RsXfW^lbA^bD
+
+"incremental"
+# incremental computer : XzWRsD [fQ]w\f
+# incremental integrator : XzWRsD XfARsDA|
+# incremental representation : XzWRsD ]rU|RfR
+# incremental resource : XzWRsD XbWsfD
+
+"independent"
+# independent : GlAI|RXfAW|D
+# independent data item : GlAI|R XbIr ^bWQlA
+# independent index : GlAI|R UcAW|D
+# independent Logical Unit : GlAI|R DlDI| XbWZ|
+# independent overflow area : GlAI|R DfQZ|Q WjWWjA
+# independent procedure : GlAI|R XfIZb
+# independent process : GlAI|R ZfI|
+# independent table : GlAI|R ]r
+# independent utility : GlAI|R Ww\|II|\|
+# independent utility program : GlAI|R Ww\|II|\| ]zIlAzIcQ
+# independent variable : GlAI|R RjDUs
+# independent work station user : GlAI|R Wsf[zUz\gW|UjD UbWrWXb
+# Independent Work Station : GlAI|R Wsf[zUz\gW|UjD
+
+"indexed"
+# indexed : UcAW|D^lb
+# Indexed Access Control Block : UcAW|D^lb XfRAzD XgWf RzIIlA
+# indexed access method : UcAW|D^lb XfRAzD RbWU|A
+# indexed address : UcAW|D^lb XsUl
+# indexed data base : UcAW|D^lb GgW|\b RgW|Uz
+# indexed data name : UcAW|D^lb XbIrQjW
+# indexed data set : UcAW|D^lb XbIr Ug\z
+# indexed file : UcAW|D^lb ]bW|I
+# indexed instruction : UcAW|D^lb QjWIjW
+# indexed organization : UcAW|D^lb AsUfW
+# indexed segment : UcAW|D^lb UgAzQgD\z
+# Indexed Sequential Access Method : UcAW|D UsDZb XfRAzD RbWU|A
+# indexed sequential data set : UcAW|D UsDZb XbIr Ug\z
+# indexed sequential file : UcAW|D UsDZb ]bW|I
+# Indexed Sequential File Management System : UcAW|D UsDZb ]bW|I AlbDI| U|Uz\gQ
+# indexed sequential organization : UcAW|D UsDZb AsUfW
+# indexed VTOC : UcAW|D^lb VTOC
+
+"indexing"
+# indexing record : W|DGgAU|W Ig[lGz
+
+"indirect"
+# indirect access : AbDXfR XfRAzD
+# indirect address : AbDXfR XsUl
+# indirect addressing : AbDXfR XsUl X|XfW
+# indirect cost : AbDXfR WsfDAb
+# Indirect Data Address Word : AbDXfR XbIr XsUl GbDWf
+# indirect deactivation : AbDXfR R|^lbIGlW^lb
+# indirect directory : AbDXfR GzWIlARs
+# indirect instruction : AbDXfR QjWIjW
+# indirect user : AbDXfR UbWrWXb
+
+"individual"
+# individual (ADJ) : AcRjIXfAW|Gb
+# individual address : AcRjI XsUl
+# individual order : AcRjI XsQsD
+# individual routing : AcRjI AlWXfW
+
+"indivisible"
+# indivisible (ADJ) : DbDsI Us WfRUGb
+
+"industrial"
+# industrial data processing : UbDWfRWrW XbIr ZfI|
+# Industrial Engineer : UcWUbD A|UsIXb
+# industrial translator system : UbDWfRWrW RjD^lbD U|Uz\gQ
+
+"inefficient"
+# inefficient (ADJ) : R|^rWwIXfAW|Gb
+
+"inexplicable"
+# inexplicable : UfIQjW^bI Us WfRUDzD
+
+"infinite"
+# infinite loop : Qs^bD Is]z
+# infinite pad method : Qs^bD AjRZ|Q RbWU|A
+# infinite range : Qs^bD RfQWs|
+
+"informal"
+# informal system : R|XfWAw U|Uz\gQ
+
+"initial"
+# initial : ZlA|
+# initial application design : ZlA| XfAWrWWfRQs UfIAk
+# initial assembly : ZlA| Xl^bR
+# initial chaining value : ZlA| WjDUlc AbRU
+# initial configuration : ZlA| AsUfW
+# initial delay : ZlA| X|WjD
+# initial delay time : ZlA| X|WjD U|AbD
+# initial diagnosis : ZlA| X|DGbD
+# initial display : ZlA| ]rU| ^lbQjD
+# initial field value : ]|IGz ZlA| AbRU
+# initial group program : ZlA| AzIsR ]zIlAzIcQ
+# initial increment : ZlA| UfIXfW AbRU
+# initial indent : ZlA| ^cW GzIWfVzA|
+# initial load : ZlA| IlGz
+# initial microprogram load abbreviated : ZlA| QbW|[zIl ]zIlAzIcQ XfAXc ZsAWdA
+# initial microprogram load : ZlA| QbW|[zIl ]zIlAzIcQ IlGz
+# Initial Microprogram Load : ZlA| QbW|[zIl ]zIlAzIcQ XfAXc
+# Initial MicroProgram Load : ZlA| QbW|[zIl ]zIlAzIcQ XfAXc
+# initial microprogram loading : ZlA| QbW|[zIl ]zIlAzIcQ XfAXc XbAWfR
+# initial mode : ZlA| QlGz
+# initial output value : ZlA| ZsIIjA AbRU
+# initial parameter : ZlA| QcAc RjDUs
+# initial procedure : ZlA| XfIZb
+# initial process name : ZlA| ZfI|QjW
+# initial program : ZlA| ]zIlAzIcQ
+# initial program load : ZlA| ]zIlAzIcQ IlGz
+# Initial Query : ZlA| Xl^l|
+# initial search : ZlA| \bQUcA
+# initial state : ZlA| UbW\c
+# initial testing : ZlA| AbRU \gUz\z
+# initial value : ZlA| AbRU
+
+"inoperable"
+# inoperable time : AbGlW RsIDzW U|AbD
+
+"insufficient"
+# insufficient : RsI ZsWRsD^bD
+
+"integral"
+# integral boundary : AwXfW ^bDAk
+# Integral Power Supply : RlXl XfDWsfD A|As
+
+"intelligent"
+# intelligent printer : X|DzW W|DUlc XbWZ|
+# Intelligent Printer Data Stream : X|DzW W|DUlc XbWZ| XbIr WjI
+# intelligent remote station support : WsfDAjA X|DzW GbDQbI X|WsfD
+# Intelligent Remote Station System) : XfA WsfDAjAXbWZ| U|Uz\gQ
+# intelligent terminal : X|DzW GbDQbIA|
+# Intelligent Work Station : X|DzW^jW Wsf[zUz\gW|UjD
+
+"interactive"
+# interactive : Gc^lbU|AWz|
+# Interactive Application Facility : Gc^lbU|A XfAWrWWfRQs A|DzW
+# Interactive Chart Utility : Gc^lbU|A Gl]r Ww\|II|\|
+# Interactive Communications Feature : Gc^lbU|A \lWU|D A|DzW
+# interactive computing : Gc^lbU|A [fQ]w\|W
+# Interactive Computing System : Gc^lbU|A [fQ]w\|W U|Uz\gQ
+# interactive CSP/AD dialogue : Gc^lbU|A CSP/AD Gc^lb
+# Interactive Data base Utility : Gc^lbU|A GgW|\b RgW|Uz Ww\|II|\|
+# Interactive Data Definition Utilities : Gc^lbU|A XbIr XfWWz| Ww\|II|\|
+# interactive data entry : Gc^lbU|A XbIr W|RIjA
+# interactive debug : Gc^lbU|A UsXfW
+# Interactive Display Text Facility : Gc^lbU|A WsfDQsD ]rU| A|DzW
+# interactive environment : Gc^lbU|A ^lbDAjW
+# interactive graphic : Gc^lbU|A AzIc]|A
+# Interactive Instructional Authoring System : Gc^lbU|A ^bAUzR AlbXfW U|Uz\gQ
+# Interactive Instructional Presentation System : Gc^lbU|A ^bAUzR AlbXfW XgAlW U|Uz\gQ
+# Interactive Instructional System : Gc^lbU|A ^bAUzR U|Uz\gQ
+# interactive job : Gc^lbU|A XbAWfR
+# Interactive Macro Facility : Gc^lbU|A Qb[zIl A|DzW
+# Interactive Map Definition Feature : Gc^lbU|A GcWzW XfWWz| A|DzW
+# Interactive Personnel System : Gc^lbU|A W|DUb XfWRl U|Uz\gQ
+# interactive problem control system : Gc^lbU|A QsDXgXfQ XgWf U|Uz\gQ
+# Interactive Problem Control System : Gc^lbU|A QsDXg XgWf U|Uz\gQ
+# interactive process : Gc^lbU|A ZfI|
+# interactive processing : Gc^lbU|A ZfI|
+# Interactive Productivity Facility : Gc^lbU|A UcWUbDUfW ^dWUbW A|DzW
+# interactive program : Gc^lbU|A ]zIlAzIcQ
+# interactive PVS : Gc^lbU|A PVS
+# Interactive Query Facility : Gc^lbU|A Xl^l| A|DzW
+# Interactive Routing Data Control : Gc^lbU|A AjWIl X|XfW XbIr AlbDI|
+# interactive session : Gc^lbU|A UgUjD
+# Interactive Storage Management Facility : Gc^lbU|A A|WfA WjWWjA AlbDI| A|DzW
+# Interactive Structured Query Language : Gc^lbU|A AsXl^lb Xl^l| WfDWf
+# interactive subsystem : Gc^lbU|A RsUlAU|Uz\gQ
+# interactive switch : Gc^lbU|A UzWs|Z|
+# interactive syntax checking : Gc^lbU|A AsQsD AfQUb
+# Interactive System Productivity Facility : Gc^lbU|A U|Uz\gQ UcWUbDUfW ^dWUbW A|DzW
+# Interactive Terminal Facility : Gc^lbU|A GbDQbI A|DzW
+# interactive tool : Gc^lbU|A GlAs
+# Interactive Transaction Generator : Gc^lbU|A AfIc UcWUfW ]zIlAzIcQ
+# Interactive Transaction Generator Execution Manager : Gc^lbU|A AfIc UcWUfW A|DzW Us^cW AlbDI|Xb
+# interactive user : Gc^lbU|A UbWrWXb
+# interactive user profile : Gc^lbU|A UbWrWXb ]zIl]bW|I
+
+"intermediate"
+# intermediate : XsWAbDWz|
+# intermediate block check : RzIIlADc Ig[lGz AfQUb
+# intermediate block check character : RzIIlADc Ig[lGz AfQUb QsDXb
+# Intermediate Distributing Frame : XsWAbD RcUfD ]zIgW|Q
+# intermediate file : XsWAbD ]bW|I
+# intermediate function : XsWAbD A|DzW
+# intermediate host node : XsWAbD  Xs DlGz
+# intermediate node : XsWAbD DlGz
+# intermediate point : XsWAbD X|XfQ
+# intermediate routing function : XsWAbD AjWIl X|XfW A|DzW
+# Intermediate Routing Node : XsWAbD AjWIl X|XfW DlGz
+# intermediate SSCP : XsWAbD SSCP
+# Intermediate Status Word : XsWAbD UbW\cWf
+# intermediate storage : XsWAbD A|WfA WjWWjA
+# intermediate system : XsWAbD U|Uz\gQ
+# intermediate total : XsWAbD ^bRAk
+# Intermediate Transmission Block : XsWAbD XfDUlW RzIIlA
+# intermediate work date set : W|QU| XsWAbD ZfI| XbIr Ug\z
+
+"internal"
+# internal : DcRsWz|
+# Internal Air Circulation : DcRsAlWA| UsD^lbDA|
+# Internal Air Isolation : Wl|RsAlWA| ZbGbDA|
+# Internal call : DcRs \lW^lb
+# internal clock : DcRs U|AbA A|As
+# Internal Clock Control : DcRs U|Ak XgWf
+# internal code : DcRs [lGz
+# internal code fix : DcRs [lGz AlXfW
+# internal command : DcRs QjWIjW
+# internal DATA file : DcQs XbIr ]bW|I
+# internal decimal item : DcRs U|RX|D ^bWQlA
+# internal demand : RsGc UsWr
+# internal file : DcRs ]bW|I
+# internal file ID : DcRs ]bW|I ID
+# internal interface : DcRs W|D\f]gW|Uz
+# internal label : DcRs IgW|RzI
+# internal name : DcRsQjW
+# internal object : DcRs WlRzXgA\z
+# internal procedure : DcRs ]zIlU|GwWf
+# internal reader : DcRs W|IAA| ]zIlAzIcQ
+# internal routine : DcRs Is\|D
+# internal security audit : DcRs RlWbD AfQUb
+# internal segment : DcRs UgAzQgD\z
+# internal session manager : DcRs UgUjD AlbDI|Xb
+# internal sign representation : DcRs Rs^l ]rU|
+# internal sort : DcRs RsDIw
+# internal statement number : [fQ]bW|I QsD RfD^l
+# internal storage : DcRs A|WfAXbWZ|
+# internal system failure : U|Uz\gQ DcRs U|I]c
+# internal text : DcRs WsfDQsD
+# internal trace table : DcRs ZsXfA]r
+# internal trade partner : DcRs AfIc UbWGc
+# internal writer : DcRs VzA| ]zIlAzIcQ
+
+"international"
+# International Communication Association : AsAXg \lWU|D ^jR^l|
+# International Electrotechnical Commission : AsAXg XfDA| ]rXsD ^l|Wz|
+# International Federation for Information Processing : XfWRl ZfI| ^bA^l| AsAXgWjD^bR
+# International Organization for Standardization : AsAXg ]rXsD^lb A|As
+# International Telecommunication Union : AsAXg XfDA| \lWU|D WjD^bR
+# International Telegraph and Telephone Consultative Committee : AsAXg XfDU|D XfD^lb XbQsD Ws|WsfD^l|
+
+"interruptable"
+# interruptable : AbIlZcA| AbDzW^bD
+# interruptable state : AbIlZcA| AbDzW UbW\c
+
+"intrinsic"
+# intrinsic : AlWwWz|
+# intrinsic function : AlWw A|DzW
+
+"invalid"
+# invalid : Qs^rWz|
+# invalid bit : Qs^r R|\z
+# invalid exclusive reference : Qs^r^bD Rc\bXfA ZbQXl
+# invalid field : Qs^r ]|IGz
+# invalid key condition : invalid key XlAfD
+# invalid page : Qs^r ]gW|X|
+# invalid protocol type request : WlIw ]zIl\l[lI WrZfW
+# invalid punch : Qs^r ZfDAlW
+# invalid sequence key : Qs^r UsDUf [|
+# invalid target key : Qs^r QlAXfA [|
+# invalid track format : Qs^r \zIcA ^jWU|A
+
+"invoking"
+# invoking block : ^lZsI RzIIlA
+
+"inward"
+# inward WATS : ZbAU|D XfDWrW WATS
+
+"iterative"
+# iterative DO-group : RbDRlA DO AzIsR

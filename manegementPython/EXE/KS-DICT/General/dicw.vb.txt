@@ -1,0 +1,1108 @@
+"wabblge"
+vi (비틀거리다)
+
+"wad"
+vt (뭉치다)
+
+"waddle"
+vt (어기적어기적 걷다)
+
+"wade"
+vt (걸어서 건너다)
+vi (걸어서 건너다)
+
+"wafer"
+vt (봉함지로 봉하다)
+
+"waffle"
+vi (지껄이다)
+
+"waft"
+vt (감돌게 하다)
+vi (떠돌다)
+
+"wag"
+vt (흔들다)
+vi (흔들리다)
+
+"wage"
+vt (전쟁 벌이다)
+* 하다 (assault 맹공격) (war 전쟁) (combat 전투)
+vi (전쟁을 벌이다)
+
+"wager"
+vt (내기걸다)
+vi (걸다)
+# wager on A (VERB) : [(ADJUNCT A/에) (OBJ [돈<NOUN>]/을) 걸<VERB>]/다
+
+"wagon"
+vt (왜건으로 운반하다)
+vi (왜건으로 여행하다)
+
+"wail"
+vt (울부짖다)
+vi (울부짖다)
+
+"wainscot"
+vt (벽판 붙이다)
+# wainscot A (VERB) : [(ADJUNCT A/에) (OBJ [벽판<NOUN>]/을) 붙이<VERB>]/다
+
+"wait"
+vt (기다리다)
+* 기다리다 (turn 차례)
+
+vi (기다리다)
+
+# a wait and see attitude (NOUN) : 관망 태도
+# a wait and see policy (NOUN) : 관망 정책
+# wait ONE_S convenience (VERB) : 남의 형편을 기다리다
+# wait ONE_S orders (VERB) : 남의 명령을 기다리다
+# wait TO_INF (VERB) : [(OBJ TO_INF/하기를) 기다리<VERB>]/다
+# wait a minute | (VERB) : 잠깐 기다리다
+# wait a moment (VERB) : 잠시 기다리다
+# wait about | (VERB) : 서성거리며 기다리다
+# wait and see | (VERB) : 두고 보다
+# wait around | (VERB) : 서성거리며 기다리다
+# wait at table (VERB) : 식사의 시중을 들다
+# wait for A (VERB) : [(OBJ A/를) 기다리<VERB>]/다
+# wait for A {+ANIMAL} TO_INF (VERB) : [(OBJ [(SUBJ A/가) TO_INF]/하기를) 기다리<VERB>]/다
+# wait for PRESP (VERB) : [(OBJ [(RELCL PRESP/하는) 것<NOUN>]/을) 기다리<VERB>]/다
+# wait here | (VERB) : 여기에서 기다리다
+# wait just a moment (VERB) : 잠시만 기다리다
+# wait on A {+HUMAN} (VERB) : [(OBJ [(POSS A/의) 시중<NOUN>]/을) 들<VERB>]/다
+# wait on table (VERB) : 식사의 시중을 들다
+# wait up | (VERB) : 자지 않고 기다리다
+# wait upon A (VERB) : [(POSS A/의) 시중<NOUN>]/을) 들<VERB>]/다
+
+"waive"
+vt (포기하다)
+
+"wake"
+vt (깨우다)
+vi (일어나다)
+
+# wake A up (VERB) : [(OBJ A/를) 깨우<VERB>]/다
+# wake up A {-TIME,-UNIT} (VERB) : [(OBJ A/를) 깨우<VERB>]/다
+# wake up $ (VERB) : 깨어나다
+
+"waken"
+vt (깨우다)
+vi (잠이 깨다)
+
+"wale"
+vt (채찍 자국 내다)
+# wale A (VERB) : [(ADJUNCT A/에) (OBJ [(NMODS [채찍<NOUN>]) 자국<NOUN>]/을) 내<VERB>]/다
+
+"walk"
+vt (걷다 {+IRRINF})
+* 볼넷을 주다 (~ {+PRNOUN}) (batter 타자)
+vi (걷다 {+IRRINF})
+# walk about $ (VERB) : 주위를 걸어다니다
+# walk about A (VERB) : [(OBJ [(POSS A/의) 주위<NOUN>]/를) 걸어다니<VERB>]/다
+* [(OBJ A/를) 걸어다니<VERB>]/다
+* A (room 방)
+# walk around A (VERB) : [(OBJ [(POSS A/의) 주위<NOUN>]/를) 걷<VERB>]/다 {+IRRINF}
+# walk away $ (VERB) : 길을 떠나다
+# walk back and forth to A (VERB) : [(ADJUNCT A/에) 왔다 갔다 하<VERB>]/다
+# walk back to A (VERB) : [(ADJUNCT A/로) (SCOMP [걷<VERB>]/하여서) 돌아오<VERB>]/다
+# walk down A (VERB) : [(OBJ A/를) 걸어 내려오<VERB>]/다 
+# walk in $ (VERB) : 걸어 들어가다
+# walk in A (VERB) : [(ADJUNCT A/에) 걸어들어가<VERB>]/다
+# walk into $ (VERB) : 걸어 들어가다
+# walk into A (VERB) : [(ADJUNCT A/에) 걸어들어가<VERB>]/다
+# walk off $ (VERB) : 걸어서 떠나다
+# walk off A (VERB) : [(ADJUNCT A/에서) 걸어나오<VERB>]/다
+# walk on $ (VERB) : 계속 걷다 {+IRRINF}
+# walk on A (VERB) :
+* [(ADJUNCT A/로) 걷<VERB>]/다
+* A (leg 다리)
+# walk out $ (VERB) : 나가다 
+# walk to $ (VERB) : 걸어들어가다
+# walk to A (VERB) : [(ADJUNCT A/로) 걸어가<VERB>]/다
+# walk up $ (VERB) : 걷다 {+IRRINF}
+# walk up A (VERB) : [(OBJ A/를) 걸어 올라가<VERB>]/다
+# walk up_to A (VERB) : [(ADJUNCT A/에게) (MODS [걸어<ADV>]) 올라오<VERB>]/다
+# walk over to A (VERB) : [(ADJUNCT [(OBJ A/를) 향하<VERB>]/어) 걸어 가<VERB>]/다
+
+"wall"
+vt (벽으로 둘러싸다)
+
+"wallop"
+vi (어기적어기적 걷다)
+
+"wallow"
+vi (딩굴다)
+
+"wallpaper"
+vt (벽지 바르다)
+
+"waltz"
+vt (왈츠로 리이드하다)
+vi (왈츠를 추다)
+
+"wander"
+vt (돌아다니다)
+vi (헤매다)
+
+"wane"
+vi (달이 이지러지다)
+
+"wangle"
+vt (계략으로 손에 넣다)
+vi (빠져나가다)
+
+"want"
+vt (원하다)
+vi (원하다)
+# want A TO_INF (VERB) : [(OBJ [(SUBJ A/가) TO_INF]/하기를) 원하<VERB>]/다
+# want AVP TO_INF (VERB) : [(OBJ TO_INF/하기를) (MODS AVP) 원하<VERB>]/다
+# want PRESP (VERB) : [PRESP](해야/F, 하/V)/다
+# want TO_INF (VERB) : [(OBJ TO_INF/하기를) 원하<VERB>]/다
+# want THAT_CLAUSE (VERB) : [(OBJ THAT_CLAUSE/하기를) 원하<VERB>]/다
+# want for A {+ANIMAL} TO_INF (VERB) : [(OBJ [(SUBJ A/가) TO_INF]/하기를) 원하<VERB>]/다
+# want of A (VERB) : [(ADJUNCT A/로부터) 원하<VERB>]/다
+# what A want B TO_INF (NOUN) : [(RELCL [(SUBJ A/가) (OBJ [(SUBJ B/가) TO_INF]/하기를) 바라<VERB>]/는) 것<NOUN>]
+# what I want to be | (SUBCL->NOUN) : 내가 되고자 하는 것
+
+"wanton"
+vt (낭비하다)
+vi (장난치다)
+
+"war"
+vi (전쟁하다)
+
+"warble"
+vt (지저귀다)
+vi (지저귀다)
+
+"ward"
+vt (지키다)
+# ward off (VERB) : 받아 넘기다
+
+"ware"
+vt (주의하다)
+
+"warehouse"
+vt (창고에 넣다)
+
+"wargame"
+vt (실전모의연습 하다)
+vi (실전모의연습 하다)
+
+"warm"
+vt (데우다)
+vi (따뜻해지다)
+# warm A up a bit (VERB) : [(OBJ A/를) (MODS [조금<ADV>]) 데우<VERB>]/다
+# warm up $ (VERB) : 웜업하다
+# warm up A (VERB) : [(OBJ A/를) 데우<VERB>]/다 
+
+"warn"
+vt (경고하다)
+vi (경고하다)
+# warn THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/을) 경고하<VERB>]/다
+# warn A THAT_CLAUSE (VERB) : [(OBJ2 A/에게) (OBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/을) 경고하<VERB>]/다
+# warn NOUN {+ANIMAL} SENT (VERB) : [(OBJ2 NOUN/에게) (OBJ [(RELCL SENT/하다는) 것<NOUN>]/을) 경고하<VERB>]/다
+# warn A {+ANIMAL} TO_INF (VERB) : [(OBJ2 A/에게) (OBJ [(RELCL TO_INF/할) 것<NOUN>]/을) 경고하<VERB>]/다
+# warn A of B (VERB) : [(ADJUNCT A/에게) (OBJ B/를) 경고하<VERB>]/다
+# warn of A (VERB) : [(OBJ A/를) 경고하<VERB>]/다
+
+"warp"
+vt (휘게 하다)
+vi (휘다)
+
+"warrant"
+vt (정당화하다)
+
+"wash"
+vt (씻다)
+* 씻다 (right 오른손) (left 왼손)
+vi (씻다)
+# be washed away $ (VERB) : 씻겨 나가다
+# wash away A (VERB) : 
+	* [(OBJ A/를) 씻어내<VERB>]/다
+	* A (soil 흙)
+# wash out $ (VERB) : 씻다
+# wash up $ (VERB) : 청소하다
+
+"wassail"
+vi (주연에 참석하다)
+
+"waste"
+vt (낭비하다)
+* 낭비하다 (money 돈)
+* 놓치다 (opportunity 기회)
+vi (낭비되다)
+
+# waste away (VERB) : 쇠약해지다
+# waste ONE_S time PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) (OBJ [(POSS ONE/의)
+시간<NOUN>]/을) 낭비하<VERB>]/다
+# waste ONE_S time in A (VERB) : [(ADJUNCT A/로) (OBJ [(POSS ONE/의) 시간<NOUN>]/을) 낭비하<VERB>]/다
+
+"wastebasket"
+vt (휴지통에 버리다)
+
+"watch"
+vt (보다)
+* 감시하다 (patient 환자) (student 학생)
+* 돌보다 (child 아이)
+* 시청하다 (television 텔레비젼) (TV 텔레비젼)
+vi (보다)
+
+# watch ONE_S step (VERB) : 발밑을 조심하다
+# watch out | (VERB) : 주의하다
+# watch out A (VERB) : [(OBJ A/를) 주의하<VERB>]/다
+# watch out for A (VERB) : [(OBJ A/를) 주의하<VERB>]/다
+
+"water"
+vt (물 주다)
+vi (물 주다)
+# ocean water (NOUN) : 바다
+# water down A (VERB) : [(OBJ A/를) 완화하<VERB>]/다
+
+"watermark"
+vt (투명 무늬 넣다)
+
+"waterproof"
+vt (방수하다)
+
+"waterski"
+vt (수상스키 타다)
+
+"watersoak"
+vt (물에 담그다)
+
+"wattle"
+vt (나뭇가지 엮어 만들다)
+
+"waul"
+vi (야옹야옹 울다)
+
+"wave"
+vt (흔들어 움직이다)
+vi (물결치다)
+* 기복을 이루다 (road 길)
+* 흔들리다 (hand 손) (flag 기)
+
+# wave A away $ (VERB) : [(ADJUNCT A/와) 멀리하<VERB>]/다
+# wave to A {+HUMAN} (VERB) : [(OBJ2 A/에게) (OBJ [손<NOUN>]/을) 흔들<VERB>]/다
+
+"waver"
+vi (흔들리다)
+
+"wax"
+vt (밀 칠하다)
+# wax A (VERB) : [(ADJUNCT A/에) (OBJ [밀<NOUN>]/을) 칠하<VERB>]/다
+
+"waylay"
+vt (숨어서 기다리다)
+
+"weaken"
+vt (약하게 하다)
+vi (약해지다)
+
+"wean"
+vt (젖 떼다)
+# wean A (VERB) : [(OBJ [(POSS A/의) 젖<NOUN>]/을) 떼<VERB>]/다
+
+"wear"
+vt (입다)
+* 걸다 (cross 십자가)
+* 끼다 (glove 장갑)
+* 나타내다 (complexion 표정) (form 모양) (attitude 태도)
+* 달다 (rose 장미) (bell 종)
+* 매다 (belt 벨트)
+* 쓰다 (cap 캡) (glass 안경) (hat 모자) (glasses 안경) (sunglass 선글라스)
+* 신다 (boot 장화) (shoe 신발) (slipper 슬리퍼)
+* 입다 (cloth 옷) (shirt 셔츠) (clothes 옷)
+* 있다 (beard 수염)
+* 차다 (watch 시계) (knife 칼)
+* 머금다 (smile 미소)
+
+vi (입다)
+# wear A away $ (VERB) : [(OBJ A/를) (COMP [닳<VERB>]/게) 하<VERB>]/다
+# wear A down $ (VERB) : [(OBJ A/를) 헤지게하<VERB>]/다
+* [(OBJ A/를) (MODS [지치게<ADV>]) 하<VERB>]/다
+* A (~ {+HUMAN})
+# wear A off $ (VERB) : [(OBJ A/를) (MODS [닳게<ADV>]) 하<VERB>]/다
+# wear A {+HUMAN} out | (VERB) : [(OBJ A/를) (COMP [지치<VERB>]/게) 하<VERB>]/다
+# wear ONE_S  heart upon ONE_S  sleeve (VERB) : 감정을 숨김없이 드러내다
+# wear away $ (VERB) : 닳다 
+# wear away A (VERB) : [(OBJ A/를) (COMP [닳<VERB>]/게) 하<VERB>]/다
+# wear down $ (VERB) : 닳다
+# wear down A (VERB) : [(OBJ A/를) 헤지게하<VERB>]/다
+* [(OBJ A/를) (MODS [지치게<ADV>]) 하<VERB>]/다
+* A (~ {+HUMAN})
+# wear in A (VERB) :
+* [(OBJ [(NMODS A) 옷<NOUN>]/을) 입<VERB>]/다
+* A (white 흰색) (black 검정색) (yellow 노란색) (blue 파란색)
+# wear off $ (VERB) : 닳다 
+# wear off A (VERB) : [(OBJ A/를) (MODS [닳게<ADV>]) 하<VERB>]/다
+# wear on $ (VERB) : 지나다
+# wear out $ (VERB) : 닳다
+# wear out A (VERB) : [(OBJ A/를) (COMP [닳<VERB>]/게) 하<VERB>]/다
+* [(OBJ A/를) (COMP [지치<VERB>]/게) 하<VERB>]/다
+* A (nerve 신경)
+# wear out with age (VERB) : 나이가 들어 지치다
+# wear through the day (VERB) : 그럭저럭 하루를 보내다
+# wear well | (VERB) : 오래 가다
+
+"weary"
+vt (지치게 하다)
+vi (지치다)
+
+"weasel"
+vi (말끝 흐리다)
+
+"weather"
+vt (풍화하다)
+# weather a strom (VERB) : 폭풍우를 뚫고 나아가다
+# weather a point (VERB) : 바람을 향하여 나아가다
+# weather through (VERB) : 폭풍우를 돌파하다
+
+"weatherboard"
+vt (비막이 판자 대다)
+# weatherboard A (VERB) : [(ADJUNCT A/에) (OBJ [(NMODS [비막이<NOUN>]) 판자<NOUN>]/를)
+대<VERB>]/다
+
+"weatherproof"
+vt (비바람에 견디게 만들다)
+
+"weatherstrip"
+vt (틈마개 붙이다)
+# weatherstrip A (VERB) : [(ADJUNCT A/에) 틈마개<NOUN>]/를) 붙이<VERB>]/다
+
+"weave"
+vt (짜다)
+* 치다 (web 거미줄)
+* 엮어내다 (story 이야기) (plan 계획)
+* 끼워넣다 (thought 생각)
+* 앞으로 나아가다 (car 자동차)
+
+vi (천을 짜다)
+
+# weave together A (VERB) : [(OBJ A/를) (MODS [함께<ADV>]) 엮<VERB>]/다
+
+"web"
+vt (거미줄 같이 치다)
+
+"web_cast"
+vt (웹 방송하다)
+vi (웹 방송하다)
+
+"wed"
+vt (결혼시키다)
+vi (결혼하다)
+# wed A (VERB) : [(ADJUNCT A/과) 결혼하<VERB>]/다
+
+"wedge"
+vt (쐐기 박다)
+# wedge A (VERB) : [(ADJUNCT A/에) (OBJ [쐐기<NOUN>]/를) 박<VERB>]/다
+# wedge A away (VERB) : [(OBJ A/를) 밀어 제치<VERB>]/다
+# wedge A off (VERB) : [(OBJ A/를) 밀어 제치<VERB>]/다
+# wedge ONESELF  in A (VERB) : [(ADJUNCT A/에) 파고 들<VERB>]/다
+# wedge A up (VERB) : [(OBJ A/를) (ADJUNCT [쐐기<NOUN>]/로) (MODS [꼭<ADV>]) 죄<VERB>]/다
+
+"weed"
+vt (잡초 뽑다)
+vi (잡초 뽑다)
+
+"ween"
+vt (이라고 생각하다)
+# ween A (VERB) : [(SCOMP A/라고) 생각하<VERB>]/다
+
+"weep"
+vi (눈물 흘리다)
+# weep for joy (VERB) : 너무 기뻐서 울다
+# weep with joy (VERB) : 너무 기뻐서 울다
+# weep Irish (VERB) : 마지못해 울다
+# weep away (VERB) : 눈물로 세월을 보내다
+# weep ONESELF  out (VERB) : 실컷 울다
+# weep ONESELF  to sleep (VERB) : 울다가 잠들다
+# weep out (VERB) : 울면서 말하다
+
+"weigh"
+vt (저울에 달다)
+* 무게 재다 (stone 돌) (potato 감자) (gas 가스)
+* 숙고하다 (fact 사실) (word 단어) (proposal 제안) (alternatives 대안) (motion 동작)
+vi (무게가 나가다)
+# weigh A (VERB) : [(OBJ [(POSS A/의) 무게<NOUN>]/를) 달<VERB>]/다
+* [(ADJUNCT A/만큼) 무게가 나가<VERB>]/다
+* A (penny 페니) (~ {+UNIT})
+* [(OBJ A/를) (MODS [신중히<ADV>]) 고려하<VERB>]/다
+* A (motion 동작)
+# weigh dowm $ (VERB) : 내리 누르다
+# weigh down A (VERB) : [(OBJ A/를) 가라앉히<VERB>]/다
+# weigh heavy on A (VERB) : [(OBJ A/를) (MODS [무겁게<ADV>]) 누르<VERB>]/다
+# weigh in (VERB) : 기수가 시합전에 체중 검사를 받다
+# weigh in with (VERB) : 자랑 삼아 꺼내다
+# weigh on A (VERB) : [(ADJUNCT A/에) (COMP [짐<NOUN>]/이) 되<VERB>]/다
+# weigh on ONE_S  mind (VERB) : 남의 마음을 괴롭히다
+# weigh the thumb (VERB) : 저울눈을 속이다
+# weigh out A (VERB) : [(OBJ A/를) 저울로 달아서 나누<VERB>]/다
+# weigh up (VERB) : 한쪽이 무거워 들리다
+# weigh upon A (VERB) : [(ADJUNCT A/에) (COMP [짐<NOUN>]/이) 되<VERB>]/다
+# weigh with A (VERB) : [(OBJ2 A/에게) 중요하<VERB>]/다
+
+
+"weight"
+vt (무겁게하다)
+
+"welcome"
+vt (환영하다)
+# || welcome to A (SENT) : [(OBJ [(COMPCL [(ADJUNCT A/에) 오<VERB>]/한) 것<NOUN>]/을) 환영하<VERB>]/다
+
+"weld"
+vt (용접하다)
+vi (용접되다)
+
+"well"
+vt (문출하다)
+vi (솟아오르다)
+ 
+"well-design"
+vt (잘 설계하다)
+vi (잘 설계하다)
+
+"welsh"
+vt (사람에게 사기치다)
+vi (사람에게 사기치다)
+
+"welt"
+vt (대다리 대다)
+# welt A (VERB) : [(ADJUNCT A/에) (OBJ [대다리<NOUN>]/를) 대<VERB>]/다
+
+"welter"
+vi (구르다)
+
+"wend"
+vt (향하게 하다)
+vi (나아가다)
+
+"westernize"
+vt (서양식으로 하다)
+
+"wet"
+vt (축이다)
+vi (젖다)
+
+"wet-blanket"
+vt (흥 깨다)
+# wet-blanket A (VERB) : [(OBJ [(POSS A/의) 흥<NOUN>]/을) 깨<VERB>]/다
+
+"wet-nurse"
+vt (유모가 되다)
+# wet-nurse A (VERB) : [(SCOMP [(POSS A/의) 유모<NOUN>]/가) 되<VERB>]/다
+
+"whack"
+vt (세게 때리다)
+vi (세게 때리다)
+
+"whale"
+vi (고래잡이에 종사하다)
+
+"wham"
+vt (세게 부딪치다)
+vi (세게 부딪치다)
+
+"whang"
+vt (찰싹 때리다)
+vi (둥둥 울리다)
+
+"wharf"
+vt (선창에 매다)
+
+"wheal"
+vt (채찍 자국 내다)
+# wheal A (VERB) : [(ADJUNCT A/에) (OBJ [(NMODS [채찍<NOUN>]) 자국<NOUN>]/을) 내<VERB>]/다
+
+"wheedle"
+vt (감언으로 꾀다)
+
+"wheel"
+vt (수레로 나르다)
+vi (선회하다)
+
+"wheelbarrow"
+vt (외바퀴 손수레로 나르다)
+
+"whelm"
+vt (압도하다)
+
+"whelp"
+vt (새끼 낳다)
+vi (새끼 낳다)
+
+"whet"
+vt (벼리다)
+
+"whiff"
+vt (가볍게 불다)
+vi (가볍게 불다)
+# whiff on A (VERB) :
+* [(OBJ A/를) 헛발질하<VERB>]/다
+* A (ball 볼)
+
+"whiffet"
+vt (불어 날리다)
+
+"while"
+vt (빈둥빈둥 보내다)
+
+"whimper"
+vi (흐느껴 훌쩍훌쩍 울다)
+
+"whine"
+vt (처량하게 울다)
+vi (처량하게 울다)
+
+"whinny"
+vt (순하게 울다)
+vi (순하게 울다)
+
+"whip"
+vt (채찍질하다)
+vi (채찍 사용하다)
+# whip in (VERB) : 채찍으로 불러 모으다
+# whip off (VERB) : 채찍으로 쫓다
+# whip out (VERB) : 홱 끄집어내다
+# whip up (VERB) : 말 따위를 채찍질하여 뛰게 하다
+# ^be whipped open (VERB) : 열리게 되다
+
+
+"whiplash"
+vt (채찍 끈으로 때리다)
+
+"whipsaw"
+vt (whipsaw로 켜다)
+
+"whirl"
+vt (빙빙 돌리다)
+vi (빙빙 돌다)
+
+"whirr"
+vi (휙 날다)
+* 윙윙 돌다 (motor 모터)
+vt (휙 날다)
+
+"whisk"
+vt (털다)
+vi (휙 가버리다)
+
+"whisper"
+vt (속삭이다)
+vi (속삭이다)
+
+"whistle"
+vt (휘파람으로 부르다)
+vi (휘파람을 불다)
+
+"whistlestop"
+vi (지방유세 하다)
+
+"white"
+vt (희게하다)
+
+"whiten"
+vt (희게 하다)
+vi (희게 되다)
+
+"whitewash"
+vt (석회도료 바르다)
+# whitewash A (VERB) : [(ADJUNCT A/에) (OBJ [석회도료<NOUN>]/를) 바르<VERB>]/다
+
+"whittle"
+vt (조금씩 깎다)
+vi (조금씩 깎다)
+
+"whiz"
+vi (핑 소리나다)
+
+"wholesale"
+vt (도매로 팔다)
+vi (도매로 팔다)
+
+"whoop"
+vt (외치다)
+vi (외치다)
+# whoop it up $ (VERB) : 야단법석을 떨다
+# whoop things up $ (VERB) : 야단법석을 떨다
+
+"whop"
+vt (때리다)
+vi (때리다)
+
+"whore"
+vi (매춘행위 하다)
+
+"widen"
+vt (넓히다)
+vi (넓히다)
+
+"widow"
+vt (과부로 만들다)
+
+"wield"
+vt (휘두르다)
+
+"wig"
+vt (가발 씌우다)
+# wig A (VERB) : [(OBJ2 A/에게) (OBJ [가발<NOUN>]/을) 씌우<VERB>]/다
+
+"wiggle"
+vt (흔들다)
+
+"wigwag"
+vt (흔들다)
+vi (흔들다)
+
+"wildcat"
+vt (위험한 사업에 손 대다)
+vi (위험한 사업에 손 대다)
+
+"wilder"
+vt (당황케 하다)
+
+"wile"
+vi (속이다)
+
+"will"
+vt (꾀하다)
+vi (할 것이다 : VERB->ADJ)
+# | will you | (SENT) : 하다
+# you would like TO_INF ? (SENT) : (QUES TO_INF/하다{+M_PREC, +S_COLQ})
+# you would ^tell me A ? (SENT) : (IMPR [(OBJ A/를) 알려주<VERB>]/다)
+
+"willow"
+vt (솜틀로 틀다)
+
+"wilt"
+vt (시들게 하다)
+vi (시들다)
+
+"wimple"
+vt (베일로 싸다)
+vi (주름이 가다)
+
+"win"
+vt (이기다)
+* 가지게 되다 (house 집)
+* 거두다 (victory 승리)
+* 도달하다 (conclusion 결론) (peak 정상)
+* 받다 (vacation 휴가) (prize 상) (award 상) (bread 빵)
+* 설득시키다 (audience 청중) (people 사람들)
+* 얻다 (popularity 인기) (reputation 명성) (kindness 친절) (house 집) (fame 명예)
+* 얻다 (role 역할) (happiness 행복) (honor 명성) (agreement 동의) (friend 친구)
+* 얻다 (ruling 판결) (favor 호의) (friendship 우정) (respect 존경) (recognition 인식)
+* 얻다 (seat 좌석) (support 지지) (heart 애정) (supporter 지지자) (friend 친구)
+* 얻다 (~ {+KNUM})
+* 이기다 (race 경주) (fight 싸움) (argument 논쟁) (bet 내기) (election 선거)
+* 차지하다 (title 타이틀) (contract 계약) (place 위치)
+* 획득하다 (crown 왕관) (major 메이져) (curb 제약) (championship 선수권) (belt 띠) 
+* 획득하다 (lottery 복권) (medal 메달) (certificate 증명서)
+
+vi (이기다)
+
+# a theory that wins upon me $ (NOUN) : 내 마음을 끄는 학설
+# win back (VERB) : 되찾다
+# win ONE_S  bread $ (VERB) : 빵 끼니를 벌다
+# win ONE_S  way $ (VERB) : 장애을 헤치고 나아가다
+# win out (VERB) : 성취하다
+# win through (VERB) : 수행하다
+# win over (VERB) : 끌어 들이다
+# win round (VERB) : 자기편에 끌어 넣다
+# win the day $ (VERB) : 이기다
+# win the field $ (VERB) : 이기다
+# win up (VERB) : 일어나다
+
+"wince"
+vi (움츠리다)
+
+"winch"
+vt (윈치로 감아올리다)
+
+"wind"
+vt (감다)
+vi (감기다)
+* 구부러져 있다 (road 길)
+* 굽이치며 흐르다 (river 강)
+
+# wind down (VERB) : 감소하다
+* 쉬다
+* (~ {+HUMAN})
+* 태엽이 풀리다
+* clock
+# wind round a pole (VERB) : 받침대에 감기다
+# wind off (VERB) : 되풀다
+# wind A round ONE_S  fingers (VERB) : [(OBJ A/을) (MODS [마음대로<ADV>]) 주무르<VERB>]/다
+# wind ONESELF  into A (VERB) : [(OBJ [(POSS A/의) 환심<NOUN>]/을) 사<VERB>]/다
+# wind ONE_S  way into A (VERB) : [(OBJ [(POSS A/의) 환심<NOUN>]/을) 사<VERB>]/다
+# wind ONE_S  way (VERB) : 굽이치며 나아가다
+# wind its way (VERB) : 굽이치며 흐르다
+# wind up $ (VERB) : 다 감다
+# wind up A (VERB) : [(OBJ A/를) 진행하<VERB>]/다
+* [(OBJ [(NMODS A) 밥<NOUN>]/을) 주<VERB>]/다
+* A (clock 시계)
+
+"windlass"
+vt (윈치로 감아 올리다)
+vi (윈치로 감아 올리다)
+
+"windmill"
+vt (풍차처럼 돌리다)
+vi (풍차처럼 돌다)
+
+"window"
+vt (창문을 달다)
+
+"window-shop"
+vi (진열창 들여다 보며 다니다)
+
+"windrow"
+vt (줄지어 널다)
+
+"wine"
+vt (포도주 마시다)
+vi (포도주 마시다)
+
+"wing"
+vt (날다)
+vi (날다)
+
+"wink"
+vt (눈 깜박거리다)
+vi (눈 깜박이다)
+
+"winnow"
+vt (조사하다)
+vi (키질하여 가르다)
+
+"winter"
+vt (월동시키다)
+vi (겨울 지내다)
+
+"winterize"
+vt (방한설비 하다)
+# winterize A (VERB) : [(ADJUNCT A/에) (OBJ [방한설비<NOUN>]/를) 하<VERB>]/다
+
+"winterkill"
+vt (얼어 죽게 하다)
+vi (얼어 죽다)
+
+"wipe"
+vt (씻다)
+* 닦다 (mouth 입)
+vi (씻다)
+# wipe ONE_S  eye (VERB) : 남을 야코죽이다
+# wipe ONE_S  eyes (VERB) : 눈을 닦다
+# wipe ONE_S  tears away (VERB) : 눈을 닦다
+# wipe ONE_S  hands of A (VERB) : [(ADJUNCT A/에서) (OBJ [손<NOUN>]/을) 떼<VERB>]/다
+# wipe out A (VERB) : [(OBJ A/를) 없애<VERB>]/다
+# wipe A out (VERB) : [(OBJ A/를) 없애<VERB>]/다
+# wipe ONE_S  hands on a towel (VERB) : 수건으로 손을 닦다
+# wipe ONE_S  hands with a towel (VERB) : 수건으로 손을 닦다
+# wipe out (VERB) : 빼다
+# wipe the floor with A (VERB) : [(OBJ A/을) 참패시키<VERB>]/다
+
+"wire"
+vt (철사로 고정시키다)
+* 고정하다 (nomination 지명)
+vi (전보 치다)
+
+"wiredraw"
+vt (철사로 만들다)
+
+"wireless"
+vt (무선으로 알리다)
+vi (타전하다)
+
+"wiretap"
+vt (도청하다)
+vi (도청하다)
+
+"wis"
+vi (나는 잘 알고 있다)
+
+"wish"
+vt (원하다)
+vi (원하다)
+# wish A TO_INF (VERB) : [(OBJ [(SUBJ A/가) TO_INF]/하기를) 원하<VERB>]/다
+# wish TO_INF (VERB) : [(OBJ TO_INF/하기를) 원하<VERB>]/다
+# wish you a Merry Christmas (VERB) : 성탄 인사를 하다
+#' wish for A (VERB) : [(OBJ A/를) 원하<VERB>]/다
+# wish for A in B (VERB) : [(OBJ [(SUBJ A/가) (ADJUNCT B/에) 있<VERB>]/기를) 원하<VERB>]/다
+# || wish me luck || (SENT) : (IMPR [(ADJUNCT [나<PRON>]/에게) (OBJ [행운<NOUN>]/을) 빌어 주<VERB>]/다)
+
+"witch"
+vt (마술 걸다)
+# witch A (VERB) : [(ADJUNCT A/에) (OBJ [마술<NOUN>]/을) 걸<VERB>]/다
+
+"withdraw"
+vt (빼다)
+* 철수하다 (army 군대) (unit 부대) (force 군대) (USFK 주한미군)
+* 인출하다 (deposit 예금) (money 돈)
+* 취소하다 (promise 약속) (suggestion 제의)
+* 빼았다 (privilege 특권) (favor 은혜)
+* 취하하다 (sue 소송)
+* 철회하다 (order 명령)
+
+vi (물러나다)
+
+"withe"
+vt (등 넝쿨로 묶다)
+
+"wither"
+vt (시들게 하다)
+vi (시들다)
+* 사라져가다 (sound 소리)
+* 바래다 (color 색)
+* 사라지다 (hope 희망)
+
+"withhold"
+vt (억제하다)
+* 보류하다 (letter 서류) (vote 투표)
+
+"withstand"
+vt (저항하다)
+
+"witness"
+vt (목격하다)
+vi (증언하다)
+
+"wive"
+vt (아내로 삼다)
+vi (아내로 삼다)
+
+"wobble"
+vt (흔들리게 하다)
+vi (비틀거리다)
+
+"wolf"
+vi (이리 사냥 하다)
+
+"woman"
+vt (여자처럼 행동시키다)
+
+"womanize"
+vt (여자같이 만들다)
+vi (여자같이 되다)
+
+"wonder"
+vt (궁금해 하다)
+vi (의아하게 여기다)
+* 의심스럽게 여기다 (man 사람)
+# wonder NOUN {+QUOTED} (VERB) : [(SCOMP NOUN/라고) 궁금해 하<VERB>]/다
+# no wonder THAT_CLAUSE (SENT) : [(SUBJ [(RELCL THAT_CLAUSE/하는) 것<NOUN>]/은)
+ (SCOMP [(POSS [의심<NOUN>]/의) 여지<NOUN>]/가) 없<VERB>]/다
+# wonder if SENT (VERB) : [(OBJ [(RELCL SENT/하는) 것<NOUN>]/을) (MODS [의아하게<ADV>]) 여기<VERB>]/다
+# wonder to ONESELF if SENT (VERB) : [(OBJ [(RELCL SENT/하는) 것<NOUN>]/을) 
+(MODS [스스로<ADV>]) (MODS [의아하게<ADV>]) 여기<VERB>]/다
+# wonder whether SENT (VERB) : [(OBJ [(RELCL SENT/하는) 것<NOUN>]/을) 
+(MODS [의아하게<ADV>]) 여기<VERB>]/다
+# wonder why SENT (VERB) : 
+[(OBJ [(RELCL SENT/하는) 이유<NOUN>]/를) 의아하게 여기<VERB>]/다
+
+
+"wont"
+vt (예사로 하다)
+
+"woo"
+vt (구애하다)
+
+"wood"
+vt (장작 공급하다)
+vi (장작 모으다)
+# wood A (VERB) : [(ADJUNCT A/에) (OBJ [장작<NOUN>]/을) 공급하<VERB>]/다
+
+"word"
+vt (말로 표현하다)
+
+"work"
+vt (작동시키다)
+* 가동하다 (plant 발전소)
+* 경영하다 (farm 농장)
+* 경작하다 (soil 토지)
+* 담당하다 (street 도로작업)
+* 만들다 (bracelet 팔찌) (handkerchief 손수건) (dough 반죽)
+* 움직이다 (muscle 근육)
+* 일으키다 (transformation 변화) (change 변화) (miracle 기적)
+* 작동시키다 (engine 엔진)
+
+vi (일하다)
+* 공부하다 (student 학생)
+* 연구하다 (scientist 과학자)
+* 수행되다 (plan 계획)
+* 움직이다 (mind 마음)
+* 일하다 (Korea 한국) (parent 부모) (we 우리) (Korean 한국인)
+* 작용하다 (curiosity 호기심)
+* 작동하다 (it 그것) (device 장치)
+* 일하다 (~ {+ANIMAL})
+
+# be worked out (VERB) : 완성되다
+# work A out (VERB) : [(OBJ A/를) 마치<VERB>]/다
+	* [(OBJ A/를) 마치<VERB>]/다
+	* A (thing 일)
+# work best for A (VERB) : [(ADJUNCT A/에게) (MODS [가장<ADV>]) 좋<ADJ>]/다
+# work on PRESP (VERB) : [(ADJUNCT [(RELCL PRESP/하는) 것<NOUN>]/에) 종사하<VERB>]/다
+# work on A (VERB) : 
+* [(ADJUNCT A/에) (OBJ [영향<NOUN>]/을) 미치<VERB>]/다
+* A (job 일)
+* [(OBJ A/를) 집필하<VERB>]/다
+* A (book 책)
+* [(OBJ A/를) 풀<VERB>]/다
+* A (problem 문제)
+# work out to A (VERB) : [(ADJUNCT A/로) 계산되<VERB>]/다
+# work upon A (VERB) : [(ADJUNCT A/에) (OBJ [영향<NOUN>]/을) 미치<VERB>]/다
+* [(OBJ A/를) 집필하<VERB>]/다
+* A (book 책)
+* [(OBJ A/를) 풀<VERB>]/다
+* A (problem 문제)
+# work out $ (VERB) : 발동하다
+# work out A (VERB) : [(OBJ A/를) 성취하<VERB>]/다
+* [(OBJ A/를) 산출하<VERB>]/다
+* A (difference 격차)
+* [(ADJUNCT A/에) 나가<VERB>]/다
+* A (~ {+TIME})
+# work the room hard (VERB) : 자리를 잡다
+# work together (VERB) : 같이 일하다
+# work up $ (VERB) : 흥분하다
+# work up A (VERB) : [(OBJ A/를) (MODS [차차<ADV>]) 이루<VERB>]/다
+
+"worm"
+vt (서서히 나아가게 하다)
+
+"worrit"
+vt (귀찮게 굴다)
+vi (고민하다)
+
+"worry"
+vt (걱정하다)
+vi (걱정하다)
+# be worried about A (VERB) : [(ADJUNCT [(COMP A/에) 대하<VERB>]/어) 걱정하<VERB>]/다
+# be worried about PRESP (VERB) : (ADJUNCT [(COMP [(RELCL PRESP/하는) 것<NOUN>]/에) 대하<VERB>]/하여) 
+걱정하<VERB>]/다
+# worry about PRESP (VERB) : 
+[(ADJUNCT [(COMP [(RELCL PRESP/하는) 것<NOUN>]/에) 대하<VERB>]/어서) 걱정하<VERB>]/다
+# worry whether SENT (VERB) : 
+[(ADJUNCT [(COMP [(RELCL SENT/하는) 것<NOUN>]/에) 대하<VERB>]/어서) 걱정하<VERB>]/다
+
+"worsen"
+vt (약화하다)
+vi (약화하다)
+* 심화하다 (unemployment 실업)
+
+"worship"
+vt (예배하다)
+vi (예배하다)
+
+"worth"
+vi (일어나다)
+
+"wound"
+vt (상처 입히다)
+vi (상처내다)
+# the wounded $ (NOUN) : 부상자 {+PLUR,+SINGULAR,+SUBJP,+OBJP}
+
+"wow"
+vt (신이 나서 떠들게 만들다)
+# || wow , SENT (SENT) : [(MODS [야<ADV>]{+FRONTADV}) SENT]/하다
+
+"wrangle"
+vt (설복시키다)
+vi (언쟁하다)
+
+"wrap"
+vt (싸다)
+vi (싸다)
+# wrap up $ (VERB) : 휘감다
+# wrap up A (VERB) : [(OBJ A/를) 싸<VERB>]/다
+* [(OBJ A/를) 은폐하<VERB>]/다
+* A (meeting 회의) (investigation 조사)
+* [(OBJ A/를) 결말짓<VERB>]/다
+* A (project 프로젝트) (subject 문제) (dialog 대화)
+
+"wreak"
+vt (토하다)
+
+"wreathe"
+vt (둥글게 만들다)
+vi (서로 얽히다)
+
+"wreck"
+vt (난파시키다)
+vi (난파하다)
+
+"wrench"
+vt (비틀다)
+vi (비틀리다)
+
+"wrest"
+vt (비틀다)
+
+"wrestle"
+vt (씨름하다)
+vi (씨름하다)
+
+"wrick"
+vt (조금 삐게 하다)
+
+"wriggle"
+vt (꿈틀거리게 하다)
+vi (꿈틀거리다)
+
+"wring"
+vt (짜다)
+# wring down (VERB) : 조르다
+# wring in (VERB) : 끼워 넣다
+# wring off (VERB) : 비틀어 끊다
+# wring ONE_S  hands (VERB) : 자기의 손을 쥐어 틀다
+# wring out (VERB) : 짜내다
+# wring up (VERB) : 졸라대다
+
+vi (짜내다)
+
+"wrinkle"
+vt (주름잡다)
+vi (주름지다)
+
+"write"
+vt (쓰다)
+* 그리다 (diagram 도형)
+* 발행하다 (check 수표)
+* 쓰다 (application 신청서) (paper 글) (letter 편지) (composition 교향곡) (play 연극)
+* 쓰다 (page 페이지) (word 글자) (draft 초고) (name 이름) (answer 답장)
+* 쓰다 (thought 생각) (book 책) (story 이야기) (song 노래) (article 기사)
+* 쓰다 (poem 시)
+* 작성하다 (tool 도구) (driver 드라이버) (will 유언)
+
+vi (쓰다)
+# be written all over A (VERB) : [(ADJUNCT A/에) (MODS [뚜렷이<ADV>]) 나타나<VERB>]/다
+# be written in A {-ANIMAL} (VERB) : [(ADJUNCT A/로) 쓰여지<VERB>]/다
+# write THAT_CLAUSE (VERB) : [(SCOMP THAT_CLAUSE/하다고) 쓰<VERB>]/다
+# write A down $ (VERB) : [(OBJ A/를) 기록하<VERB>]/다
+# write A in capital $ (VERB) : [(OBJ A/를) (ADJUNCT [대문자<NOUN>]/로) 쓰<VERB>]/다
+# write A in capital letter $ (VERB) : 
+   [(OBJ A/를) (ADJUNCT [대문자<NOUN>]/로) 쓰<VERB>]/다
+# write down $ (VERB) : 쓰다
+# write down A (VERB) : [(OBJ A/를) 기록하<VERB>]/다
+* [(OBJ A/를) 쓰<VERB>]/다
+* A (poem 시)
+# write down WHAT_CLAUSE (VERB) : [(OBJ [(RELCL WHAT_CLAUSE/하는) 것<NOUN>]/을) 기록하<VERB>]/다 
+# write home $ (VERB) : 집으로 편지를 쓰다
+# write music (VERB) : 작곡하다
+# write off A (VERB) : [(OBJ A/를) 지우<VERB>]/다
+# write on $ (VERB) : 쓰다
+# write out A (VERB) : [(OBJ A/를) 상세히 쓰<VERB>]/다
+# write to A (VERB) :
+* [(ADJUNCT A/에게) 편지를 쓰<VERB>]/다
+* A (~ {+HUMAN})
+# write with $ (VERB) : 쓰다
+
+"writhe"
+vt (뒤틀다)
+vi (몸부림치다)
+
+"wrong"
+vt (나쁜 짓 하다)
+# wrong A {+HUMAN} (VERB) : [(OBJ2 A/에게) (OBJ [(AMODS [나쁘<ADJ>]/한) 짓<NOUN>]/을)
+하<VERB>]/다
+

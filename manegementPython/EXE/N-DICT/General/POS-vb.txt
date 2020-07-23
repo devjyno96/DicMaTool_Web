@@ -1,0 +1,237 @@
+# become acquainted with A (VERB->ADJ) : 
+
+# appear TO_INF (VERB->ADJ) :
+
+# make it appear THAT_CLAUSE (VERB->ADJ) : 
+
+# be down (VERB->ADJ) : Q|\Wg W|VGb
+
+# be on $ (VERB->ADJ) : W|VGb
+
+# be by PRESP (VERB->ADJ) : [(COMP [(ADJUNCT [(COMP [(COMPCL PRESP/^bDzD) AfU<NOUN>]/Wg) Wz|^b<VERB>]/^bD) AfU<NOUN>]) _<ADJ>]<W|>/Gb
+
+# be close enough to A (VERB->ADJ) : [(ADJUNCT A/Wg) (MODS [ZsWRsD^|<ADV>]) AbBbR<ADJ>]/Gb
+
+# be far better off | (VERB->ADJ) : [(MODS [^sfIV|D Gf<ADV>]) Xl^<ADJ>]/Gb 
+
+# be in use | (VERB->ADJ) : UbWrWXsWW|Gb
+
+# be like for A (VERB->ADJ) : [(SCOMP A/Wlb) Ab\<ADJ>]/Gb
+
+# be neither AJP nor AJP1 (VERB->ADJ) : [(ADJUNCT [(ADJUNCT AJP/^bX|Gl) AJP1]/^bX|Gl) WbD^<ADJ>]/Gb 
+
+# be not ADJ but ADJ1 (VERB->ADJ) : [(ADJUNCT ADJ(^bX|/F, WbD^/A)/Al) ADJ1]/^bGb
+
+#' be not so $ (VERB->ADJ) : AzIf^X| WbD^Gb
+
+# be out of town | (VERB->ADJ) : QbWzIWg WfRUGb
+
+# be out_of town | (VERB->ADJ) : QbWzIWg WfRUGb
+
+# be when SENT (VERB->ADJ) : [(COMP [(RELCL SENT/^bI) Hc<NOUN>]) _<ADJ>]<W|>/Gb
+
+# be where SENT (VERB->ADJ) : [(COMP [(RELCL SENT/^bDzD) AlU<NOUN>]) _<ADJ>]<W|>/Gb
+
+# be with NOUN {+HUMAN} (VERB->ADJ) : [(ADJUNCT [(COMP NOUN/Wlb) Ab\W|<ADV>]) W|V<ADJ>]/Gb
+
+# be with NOUN {+PRNOUN} (VERB->ADJ) : [(ADJUNCT [(COMP NOUN/Wlb) Ab\W|<ADV>]) W|V<ADJ>]/Gb
+
+# it become ADJ {-PSIMOD} TO_INF (SENT->VERB) : 
+
+# | i bet you || (SENT->ADV) : \zII|QWfRUW|
+
+# || i bet you || (SENT->ADJ) : \zII|QWfRUGb
+
+# || you bet || (SENT->ADJ) : XfWQbIW|Gb
+
+# busy ONESELF PRESP (VERB->ADJ) : [(SCOMP PRESP/^bDzIb) RbSz<ADJ>]/Gb
+
+# can not but BARE_INF (VERB->ADJ) : 
+
+# can not help PRESP (VERB->ADJ) : 
+
+# cannot help PRESP (VERB->ADJ) : 
+
+# cannot but BARE_INF (VERB->ADJ) : 
+
+# care little for A (VERB->ADJ) : [(COMP [(OBJ A/IzI) (MODS [AfWz|<ADV>]) AfAXfW^b<VERB>]/X|) WbD^<ADJ>]/Gb
+
+# with A closed (PP->ADV) :
+
+# with ONE_S eyes closed | (PP->ADV) : DsDWzI AbQAlUf
+
+# as far as A ^be concerned (SUBCL->ADV) : (MODS [(RELCL [(COMP A/Wg) AlbD^b<VERB>]/^bD) ^bD<NOUN>])
+
+# be covered with A (VERB->ADJ) : [(ADJUNCT A/Il) Gf]Wj W|V<VERB>]/Gb
+
+# deserve TO_INF (VERB->ADJ) : [TO_INF](^bI/F, QbD^b/A)/Gb
+
+# differ one from the other (VERB->ADJ) : UfIlUfIl GbIzGb
+
+# in so doing $ (PP->ADV) : AzIf^Ag ^bWj
+
+# || you do ? (SENT->ADJ) : AzIf^Gb
+
+# dream of A (VERB NOUN) : 1) [(OBJ A/IzI) BsQBs<VERB>]/Gb
+						   2) [(NMODS A/Wz|) BsQ<NOUN>] 
+
+# dream of PRESP (VERB NOUN) : 1) [(OBJ [(RELCL PRESP/^bDzD) BsQ<NOUN>]/WzI) Bs<VERB>]/Gb 
+							   2) [(RELCL PRESP/^bDzD) BsQ<NOUN>]
+
+# i could drink the sea dry (SENT->ADJ) : QlRU| QlAW| QbIzGb
+
+# effect on A (VERB NOUN) : 1) [(ADJUNCT A/Wg) (OBJ [WjW^dW<NOUN>]/WzI) 
+Q|Z|<VERB>]/Gb 
+
+#' equal A (VERB->ADJ) : [(ADJUNCT A/Alb) GlWW|I^b<VERB>]/Gb
+
+#' equal to A (VERB->ADJ) : [(ADJUNCT A/Alb) GlWW|I^b<VERB>]/Gb
+
+# fall back $ (VERB NOUN) : 1) ^s\l|^bGb 2) ^s\l|
+# fall calm $ (VERB) : AbIbWbDXGb
+
+# fall short of A (VERB->ADJ) : [(SCOMP A/Ab) RsXlA^b<ADJ>]/Gb
+
+# feel like PRESP (VERB->ADJ) : [PRESP](^bAl/F, U|]/A)/Gb
+
+# || in what follows $ (PP->ADV) : GbWzQWgUf
+
+//# fuel A : [(ADJUNCT A/Wg) (OBJ [WjDIr<NOUN>]/IzI) Df^<VERB>]/Gb
+
+
+# go like this (VERB->ADJ) : W|Wlb Ab\Gb
+
+#' for granted (PP->ADV) : GbWWjD^bAg
+
+# when ONE grow up $ (SUBCL->ADV) : XbIbUf
+
+# hang on A (VERB->ADJ) : [(ADJUNCT A/Wg) AfIIjW|V<ADJ>]/Gb
+
+# || as it happened | (SUBCL->ADV) : WsWjD^|
+
+# have much to do $ (VERB->ADJ) : ^bI W|IW| QbD^Gb
+
+# have no problem in PRESP (VERB->ADJ) : [(ADJUNCT [(RELCL PRESP/^bDzD) 
+
+# have no trouble in PRESP (VERB->ADJ) : [(ADJUNCT [(RELCL PRESP/^bDzD)
+
+# cannot help PRESP (VERB->ADJ) : 
+
+# A {+HUMAN} be held in B {-KNUM} (SENT->VERB) : [(SUBJ A/Ab) (ADJUNCT B/Wg)
+
+# lack in A (VERB->ADJ) : [(SCOMP A/Ab) QlXbIb<ADJ>]/Gb
+
+# lack A (VERB->ADJ) : [(SCOMP A/Ab) RsXlA^b<VERB>]/Gb
+
+# lay in hiding $ (VERB->ADJ) : UsQWfW|VGb
+
+# lie down $ (VERB->ADJ) : DsWsf W|VGb
+
+# living in A (VERB->ADJ) : [(ADJUNCT A/Wg) AfXs^b<VERB>]/Gb
+
+# there live A (SENT->ADJ) : [(SUBJ A/Ab) UbI<VERB>]/Gb
+
+# make sense (VERB->ADJ) : Wz|Q|Ab W|VGb
+
+# make little sense (VERB->ADJ) : Wz|Q|Ab AfWz| WfRUGb
+
+# make as much sense (VERB->ADJ) : AzQbD[zQ Wz|Q|Ab W|VGb
+
+# need TO_INF (VERB->ADJ NOUN) : 1) [(SCOMP [(RELCL TO_INF/^bI) ]|IWr<NOUN>]/Ab) W|V<ADJ>]/Gb {-PASTPFORM}
+								 2) [(RELCL TO_INF/^bI) ]|IWr<NOUN>]
+
+# need PRESP (VERB->ADJ) : [(SCOMP [(RELCL PRESP/^bI) ]|IWr<NOUN>]/Ab) W|V<ADJ>]/Gb
+
+# be noted for A (VERB -> ADJ) : [(SCOMP A/Il) WwQjW^b<ADJ>]/Gb
+# note THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/^bGbDzD) AfU<NOUN>]/WzI) 
+WwWz|^b<VERB>]/Gb
+
+# pass ONE_S belief $ (VERB->ADJ) : Q|GWzI Us WfRUGb
+
+# pass ONE_S comprehension $ (VERB->ADJ) : W|^c^bX| QlU^bGb
+
+# plan TO_INF (VERB NOUN) : 1) [(ADJUNCT TO_INF/^bIjAl) Ak^l|A^b<VERB>]/Gb 
+			      			2) [(RELCL TO_INF/^bIjDzD) Ak^l|A<NOUN>]
+
+# with NUM1 minutes NUM2 seconds to play (PP->ADV) : (ADJUNCT [(OBJ [(NMODS [(NMODS NUM1) RsD<NOUN>]) (NMODS NUM2) Zl<NOUN>]/IzI) DbQA|<VERB>]/Al)
+
+# A {-HUMAN} please B {+HUMAN} (SENT->ADJ) : [(SUBJ B/DzD) (ADJUNCT [(COMP A) HcQsD<NOUN>]/Wg) A|Sz<ADJ>]/Gb
+
+# be prefixed with A (VERB->ADJ) : [(OBJ A/IzI) (ADJUNCT [Wb]<NOUN>]/Wg) 
+
+# as regards A (PP->ADV) : (ADJUNCT [(COMP A/Wg) AlbD^b<ADJ>]/WfUfDzD)
+
+# remain unchanged (VERB->ADJ) : RjD^bX| WbD^Gb
+
+# remain the same (VERB->ADJ) : RjD^bX| WbD^Gb
+
+# as first reported $ (PP->ADV) : ZfWzQ RlAlGl|D AfUAlb Ab\W|
+
+# in respect of A (PP->ADV) : (ADJUNCT [(POSS A/Wz|) AlbDXfQ<NOUN>]/WgUf)
+
+# without respect to A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) AlIj^bX| WbD^<VERB>]/Al)
+
+# rest on A {+CONCRETE} (VERB->ADJ) : [(ADJUNCT A/Wg) Dl^WjW|V<VERB>]/Gb
+
+# rest on A {-CONCRETE} (VERB->ADJ) : [(ADJUNCT A/Wg) GbIIjW|V<VERB>]/Gb 
+
+# result from A (VERB NOUN) : 1) [(ADJUNCT [(POSS A/Wz|) AjIAlb<NOUN>]/Il) RbIUcW^b<VERB>]/Gb
+					   2) [(ADJUNCT A/IlRs\fWz|) AjIAlb<NOUN>]
+
+# result in A (VERB NOUN) : 1) [(MODS [AjIAlbXfAWzIl<ADV>]) (SCOMP A/Ab) Gl|<VERB>]/Gb
+					   2) [(ADJUNCT A/WgUfWz|) AjIAlb<NOUN>]
+
+# return from A (VERB NOUN) : 1) [(ADJUNCT A/WgUf) GlIWbWl<VERB>]/Gb
+			      2) [(ADJUNCT A/WgUfWz|) As|^bD<NOUN>]
+
+# return to A (VERB NOUN) : 1) [(ADJUNCT A/Il) GlIWbAb<VERB>]/Gb
+		            2) [(ADJUNCT A/IlWz|) As|^bD<NOUN>]
+
+# as seen from A (PP->ADV) : (MODS [(RELCL [(ADJUNCT A/WgUf) Rl<VERB>]) GcIl<NOUN>])
+
+# see A blowed . (SENT->ADJ) : AzAfUQbDWzD HbA X|IUcAW|Gb
+
+# see A damned . (SENT->ADJ) : AzAfUQbDWzD HbA X|IUcAW|Gb
+
+# see A hanged . (SENT->ADJ) : AzAfUQbDWzD HbA X|IUcAW|Gb
+
+# sit up $ (VERB->ADJ) : WbDXWb W|VGb
+
+# speak for itself (VERB->ADJ) : XbQjW^bGb
+
+# stand alone (VERB ADJ) : 1) AlI|R^bGb 
+		           2) GbDGlAWz|
+
+# stretch out (VERB->ADJ) : ]fXj W|VGb
+
+# ^be suited for PRESP (VERB->ADJ) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) XfA^bR^b<ADJ>]/Gb
+
+# ^be suited for A (VERB->ADJ) : [(ADJUNCT A/Wg) XfA^bR^b<ADJ>]/Gb
+
+# ^be well suited for PRESP (VERB->ADJ) : [(ADJUNCT [(COMPCL PRESP/^bDzD) Gg<NOUN>]) (MODS [WbXs<ADV>]) XfA^bR^b<VERB>]/Gb
+
+# ^be well suited for A (VERB->ADJ) : [(ADJUNCT A/Wg) (MODS [WbXs<ADV>]) XfA^bR^b<ADJ>]/Gb
+
+# with no one to talk to $ (PP->ADV) : QbIWzI AfDDgI UbIbQW| WfRUWf
+
+# taste ADJ | (VERB->ADJ) : [(SCOMP [QbU<NOUN>]/W|) ADJ]/^bGb
+
+# in the track of A (PP->ADV) : (ADJUNCT [(OBJ A/IzI) HbIz<VERB>]/WfUf)
+
+# on the track of A (PP->ADV) : (ADJUNCT [(OBJ A/WzI) ZsXfA^b<VERB>]/^bAl)
+
+# be trapped in A (VERB->ADJ) : [(ADJUNCT A/Wg) AbG^j W|V<VERB>]/Gb
+
+# be unknown to A (VERB->ADJ) : [(OBJ2 A/WgAg) WbIIjXj W|V<VERB>](^bX|/F, WbD^/V)/Gb
+
+# use of A (VERB NOUN) : 1) [(OBJ A/IzI) UbWrW^b<VERB>]/Gb
+	2) [(POSS A/Wz|) UbWrW<NOUN>]
+
+# use {+PASTPFORM} to be A (VERB->ADJ) : [(MODS [WsfDIc<ADV>]) (COMP A) _<ADJ>]<W|>/Gb
+
+# use {+PASTPFORM} to be AJP (VERB->ADJ) : 
+
+# vary from A to B (VERB->ADJ) : [(ADJUNCT [(ADJUNCT A/WgUf) B]/BbX|)
+
+# what I want to be | (SUBCL->NOUN) : DcAb Gl|AlXb ^bDzD AfU
+

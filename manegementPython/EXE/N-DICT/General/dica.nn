@@ -1,0 +1,10935 @@
+"A.D"
+(A|WsfD^s)
+% TIME
+# A.D NUM1 (NOUN) : [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>] 
+# NUM1 A.D (NOUN) : [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>] 
+# as early as NUM1 A.D (ADV) : (ADJUNCT [(NMODS [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) ZlA|<NOUN>]/Wg) 
+# in the year NUM1 A.D (PP->ADV) : (ADJUNCT [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+"A.D."
+(A|WsfD^s)
+% TIME
+# A.D. NUM1 (NOUN) : [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>] 
+# NUM1 A.D. (NOUN) : [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>] 
+# as early as NUM1 A.D. (ADV) : (ADJUNCT [(NMODS [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]) ZlA|<NOUN>]/Wg) 
+# in the year NUM1 A.D. (PP->ADV) : (ADJUNCT [(NMODS [A|WsfD^s<NOUN>]) (NMODS NUM1 {+DGTNUM}) DjD<NOUN>]/Wg)
+
+"A.I.D."
+% PLACE ORGAN
+(Q|AsAAsAXgAcRbIAsA)
+
+"A.I.Q."
+(XbGlWUsW|R ^bIGbWXg)
+
+"ACTH"
+% CONCRETE MATERIAL 
+(Dl|^bUsZgWgUf ScDcD ^lIzQlD)
+
+"Achilles"
+(Wb[|IIgUz)
+% HUMAN
+# Achilles tendon (NOUN) : Wb[|IIgUzAfD
+# Achilles' tendon (NOUN) : Wb[|IIgUzAfD
+# the heel of Achilles (NOUN) : AzRUl
+# Achilles heel (NOUN) : AzRUl
+# Achilles' heel (NOUN) : AzRUl
+
+"Adam"
+% CONCRETE HUMAN MATERIAL ANIMAL
+(WbGbQ)
+# Adam and Eve (NOUN) : WbGbQAlb W|Rz
+
+"Adelaide"
+% MATERIAL 
+(WbGgIIgW|Gz)
+
+"Administration & Management"
+(^cWXfW Q|Z AlbDI|)
+
+"Adult Only"
+(UfWW|D XfDWrW)
+
+"Advanced Search"
+(X|DXfD^bD \bQUcA)
+
+"Afghan"
+% HUMAN
+(Wb]zAbDW|D)
+
+"Afghans"
+% HUMAN
+(Wb]zAbDW|DGzI)
+
+"Afghanistan"
+% PLACE ORGAN
+(Wb]zAbD|Uz\bD)
+
+"Africa"
+% CONCRETE MATERIAL PLACE ORGAN
+(Wb]zI|[b)
+
+"Agrarian Revolution"
+(WjWAsAWz| DlWWfR^jAQjW)
+
+"Air China"
+(XsWAsA^bWAlW)
+
+"Air Force"
+(AlWAsD)
+
+"Air Force One"
+(AlWAsD 1^lA|)
+
+"Air France"
+(WgWf ]zIbWUz)
+
+"Albanian"
+% HUMAN 
+(WbIRbD|WbW|D)
+
+"Alexandria"
+% MATERIAL PLACE 
+(WbIIgAUbDGzI|Wb)
+
+"Alexandrine"
+% ART
+(WbIIgAUbDGfAjAW|D)
+
+"Alice"
+% HUMAN
+(WcII|Uz)
+
+"Allies"
+% MATERIAL ORGAN
+(WjD^bRAsA)
+
+"Alington"
+% PLACE
+(WcII|W\fD)
+
+"Alzheimer"
+% HUMAN
+(WbIZz^bW|Qf)
+
+"Alzheimer's"
+(WbIZz^bW|QfRjW)
+
+"America"
+% CONCRETE MATERIAL PLACE ORGAN
+(Q|AsA)
+# North America (NOUN) : RsAQ| 
+# South America (NOUN) : DbQQ|
+# United States of America (NOUN) : Q|^bRXsWAsA
+
+"American"
+% CONCRETE HUMAN  
+(Q|AsAW|D)
+# American selling price (NOUN) : Q|AsA U|XbWAbAjA
+# Pan American Airline (NOUN) : ]cDWbQ ^bWAlWUb
+
+"American Airline"
+(WbQgI|[bD WgWfIbW|D)
+
+"American Civil Liberities Union"
+(Q|AsA U|Q|D XbWw WjDQcW)
+
+"American Depositary Receipts"
+(Q|AsAWk\bAXzWAsfD)
+
+"American Express"
+(WbQgI|[bD W|AUz]zIgUz)
+  
+"American Red Cross"
+% ORGAN
+(Q|AsA XfAU|RXbUb)
+
+"American Stock Exchange"
+(Q|AsA XzWAsfD AfIcUl)
+
+"Amorphous Graphite"
+(U|RXbW^zAWjD)
+
+"Amsterdam"
+% MATERIAL PLACE 
+(WbQUz\gIzGbQ)
+
+"Amtrak"
+% ORGAN
+(WbQ\zIc[z)
+# Amtrak train (NOUN) : WbQ\zIcA WjIZb
+
+
+"Andalusian"
+% HUMAN
+(WbDGbIIsU|Wb UbIbQ)
+# Andalusian fowl (NOUN) : WbDGbIIsU|Wb GbIA
+# Andalusian wool (NOUN) : RsGzIfRAl AbDzD \fIU|I
+
+"Andean"
+% HUMAN
+(WbDGgUz UbDQcAWz| XsQ|D)
+
+"Anglo-Saxon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WcWAzIIlUcAUzD)
+
+"Antarctic"
+% MATERIAL PLACE
+(DbQAzA)
+# Antarctic Ocean (NOUN) : DbQAzA^c
+# the Antarctic Ocean (NOUN) : DbQAzA^c
+
+"Antarctic Ocean"
+% CONCRETE MATERIAL PLACE
+(DbQAzA^c)
+# the Antarctic Ocean (NOUN) : DbQAzA^c
+
+"Antarctica"
+% CONCRETE MATERIAL PLACE
+(DbQAzA GcIwA)
+# continent of Antactica (NOUN) : DbQAzA GcIwA
+
+"Apennines"
+% PLACE
+(Wb]gD|D UbDQcA)
+
+"Appeals"
+(^bWUl)
+# Appeals Court (NOUN) : ^bWUlU|Q
+
+"April"
+% CONCRETE TIME MATERIAL 
+(4 WsfI)
+# April Fool (NOUN) : QbDWsXfI
+
+
+"April Fool"
+(QbDWsXfI)
+
+"Arabs"
+(WbIbRAsAAbGzI)
+
+"Arafat"
+% HUMAN
+(WbIb]b\zWz|XbW)
+
+"Arcadia"
+% MATERIAL PLACE
+(WbIz[bG|Wb)
+
+"Arcadian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbIz[bG|Wb UbIbQ)
+
+"Arctic"
+% MATERIAL PLACE
+(RsAAzA)
+
+"Arctic Tern"
+% ANIMAL
+(RsAAzA AbIQcA|)
+
+"Argentina"
+% MATERIAL PLACE ORGAN
+(WbIz^gD\|Db)
+
+"Arian"
+% HUMAN
+(WbI|WbD UbIbQ)
+
+"Arian"
+% HUMAN
+(WbI|WsUz]b)
+
+"Arianism"
+% ART
+(WbI|WsUz]bWz| ArI|)
+
+"Arizona"
+% PLACE ORGAN
+(WbI|XlDb)
+
+"Arkansan"
+% HUMAN
+(Wb[bDUlXsWz| UbIbQ)
+
+"Arther Anderson"
+% ORGAN
+(WbGfWcDGfUzD)
+
+"Aryan"
+% HUMAN
+(WbI|WbD UbIbQ)
+
+"Asia"
+% CONCRETE MATERIAL PLACE ORGAN
+(WbU|Wb)
+# East Asia (NOUN) : GlWWbU|Wb
+# West Asia (NOUN) : UfWbU|Wb
+# South Asia (NOUN) : DbQWbU|Wb
+# Mid-East Asia (NOUN) : XsWGlW
+# South-West Asia (NOUN) : UfDbQWbU|Wb
+# South-East Asia (NOUN) : GlWDbQWbU|Wb
+
+"Asiad"
+% ACTION
+(WbU|WbD AgW|Q)
+
+"Asian"
+% HUMAN
+(WbU|Wb UbIbQ)
+# Asian Games (NOUN) : WbU|WbD AgW|Q
+# the Asian Games in NUM1 (NOUN) : [(POSS [(NMODS NUM1) DjD<NOUN>]/Wz|) WbU|WbDAgW|Q<NOUN>]
+# Asian society (NOUN) : WbU|Wb Ub^l|
+
+"Asian Development Bank"
+% ORGAN
+(WbU|Wb AcRbI WzD^cW)
+
+"Asian Games"
+% ACTION
+(WbU|WbD AgW|Q)
+# the Asian Games in 1986 (NOUN) : 1986DjD WbU|WbD AgW|Q
+
+"Asian Monetary Unit"
+(WbU|Wb\lW^lbGbDWs|)
+
+"Asian Payment Union"
+(WbU|WbAjIXgGlWQcW)
+
+"Asian Productivity Organization"
+(WbU|WbUcWUbDUfWA|As)
+
+"Asianization"
+% ACTION
+(WbU|Wb^lb)
+
+"Asianness"
+% STATE
+(WbU|Wb UfW)
+
+"Asiatic"
+% HUMAN
+(WbU|Wb UbIbQ)
+
+"Asiaticness"
+% STATE
+(WbU|WbUfW)
+
+"Associated Press"
+(AlbDIjD WfDIlDA|AlbD)
+
+"Association"
+(^jR^l|)
+
+"Assyria"
+% MATERIAL PLACE ORGAN
+(WbUU|I|Wb)
+
+"Assyrian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbUU|I|WbUbIbQ)
+
+"Assyriologist"
+% HUMAN ART
+(WbUU|I|Wb ^bAXb)
+
+"Assyriology"
+% ART
+(WbUU|I|Wb^bA)
+
+"Asuncion"
+(WbUsDU|WlD)
+
+"Athenaeum"
+% PLACE
+(Wb\gDb U|DXfD)
+
+"Atheneum"
+% PLACE
+(Wb\gDb U|DXfD)
+
+"Athenian"
+% CONCRETE HUMAN ANIMAL MATERIAL
+(Wb\gDg UbIbQ)
+
+"Athens"
+% MATERIAL PLACE 
+(Wb\gDg)
+
+"Atlanta"
+% PLACE
+(Wc\zIIbD\b)
+
+"Atlantic"
+% CONCRETE MATERIAL PLACE
+(GcUfWdW)
+# Atlantic Ocean (NOUN) : GcUfWdW
+# Atlantic Charter (NOUN) : GcUfWdW^fDXbW
+
+"Atlantic City"
+% PLACE
+(Wf\zIIcD\|A U|\|)
+
+"Atlantica"
+% ORGAN
+(GcUfWdW UgAk)
+
+"Atlanticism"
+% ART
+(GcUfWdW XsWz|)
+
+"Atlanticist"
+% HUMAN ART
+(GcUfWdWXsWz|Xb)
+
+"Atlantovision"
+% ORGAN
+(GcUfWdW \gIIgR|XjD RbWUlWQbW)
+
+"Athletic Commission"
+(ZgWwAWs|WsfD^l|)
+
+"Atticism"
+% ART
+(Wb\gDg QsD^bAWz| \zAX|I)
+
+"August"
+% CONCRETE TIME MATERIAL 
+(8 WsfI)
+
+
+"Augustinian"
+% CONCRETE HUMAN ANIMAL MATERIAL ART
+(WbWsAsUz\|DsUz ArI|U|DRlWXb)
+
+"Aurora"
+% CONCRETE MATERIAL ANIMAL
+(WjQjWWz| WjU|D)
+
+"Aussie"
+% CONCRETE HUMAN ANIMAL MATERIAL ANIMAL
+(^lXs UbIbQ)
+
+"Auster"
+(DbQ]sW)
+
+"Australasian"
+% HUMAN
+(DbQWdWXsWz| UbIbQ)
+
+"Australia"
+% CONCRETE MATERIAL PLACE ORGAN
+(^lXs)
+
+"Australian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^lXs UbIbQ)
+
+"Australianism"
+% MIND 
+(WlUz\zIgW|II|WbW|D A|X|I)
+
+"Austrian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WlUz\zI|Wb UbIbQ)
+
+"Aztec"
+% HUMAN
+(WbXz\gA UbIbQ)
+
+"a"
+% MATERIAL 
+(a)
+
+"a.m"
+% TIME
+(WlXfD)
+# NUM1 a.m (NOUN) : [(NMODS [WlXfD<NOUN>]) (NMODS NUM1) U|<NOUN>] {+TIME,-SUBJP,-OBJP}
+
+"a.m."
+% TIME
+(WlXfD)
+# NUM1 a.m. (NOUN) : [(NMODS [WlXfD<NOUN>]) (NMODS NUM1) U|<NOUN>] {+TIME,-SUBJP,-OBJP}
+
+"a-bomb"
+(WsfDXb]lA\bD)
+
+"a-bomber"
+(WsfDXb\bD ]lAAjAA|)
+
+"a-control"
+% ORGAN
+(WsfDXbIjA AlbDI|)
+
+"a-frame"
+% PLACE
+(A Xb QlWdWWz| X|R)
+
+"a-test"
+% ART 
+(WsfD]lA U|I^fQ)
+
+"a-weapon"
+(WsfDXbQsA|)
+
+"aardvark"
+% CONCRETE ANIMAL MATERIAL ANIMAL
+(AcQ|XbRW|)
+
+"aardwolf"
+% CONCRETE ANIMAL MATERIAL ANIMAL
+(DzAGc)
+
+"aaron"
+% HUMAN ANIMAL
+(WbIlD)
+
+"aasvogel"
+% ANIMAL
+([lDGlIz)
+
+"aba"
+(UlQcWfRUDzD Af\WlU)
+
+"abaculus"
+(QlXbW|[zWrW \bW|I)
+
+"abacus"
+% CONCRETE ANIMAL MATERIAL 
+(Xs]bD)
+
+"abaddon"
+% PLACE
+(RbGbAWfRUDzD X|WlA)
+
+"abalone"
+% CONCRETE ANIMAL MATERIAL ANIMAL FOOD
+(XfDRlA)
+
+"abandon"
+% CONCRETE MATERIAL ACTION MIND
+(RbWXlW)
+
+"abandonee"
+% HUMAN ACTION
+(]|WwA|Xb)
+
+"abandoner"
+% HUMAN ACTION
+(WwA|Xb)
+
+"abandonment"
+% MATERIAL ACTION
+(]lA|)
+
+"abasement"
+% MATERIAL MIND
+(AsIWrA)
+
+"abashment"
+% MATERIAL MIND
+(DbZWzI RsIA^|Q)
+
+"abatement"
+% CONCRETE MATERIAL 
+(AbQUl)
+# pleas in abatement (NOUN) : AbA^b ^bWRjD
+
+"abatis"
+% ACTION
+(DlAZc)
+
+"abattis"
+% ACTION
+(DlAZc)
+
+"abb"
+(V|XsI)
+
+"abba"
+% HUMAN ANIMAL
+(WbRfX|)
+
+"abbacy"
+% PLACE ORGAN
+(Gc UsGlWsfDXbWWz| AlbD^bIAsWjA)
+
+"abbb"
+(UbRX|I)
+
+"abbess"
+% CONCRETE HUMAN ANIMAL MATERIAL ANIMAL
+(WjXb GcUzWWsfDXbW)
+
+"abbey"
+% CONCRETE MATERIAL PLACE
+(GcUsGlWsfD)
+
+"abbot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcUsGlWsfDXbW)
+
+"abbotship"
+% PLACE ORGAN
+(Gc UsGlWsfDXbWWz| AlbDAs)
+
+"abbreviation"
+% MATERIAL 
+(UcWIdA)
+
+"abbreviator"
+% HUMAN ANIMAL
+(UcWIdAXb)
+
+"abc"
+(WgW| R|W| U|W|)
+# as simple as ABC (ADJ) : [(MODS [WbXs<ADV>]) AbDGbD^b<ADJ>]/Gb
+# as easy as ABC (ADJ) : WbXs Us|RGb
+
+"abdication"
+% CONCRETE MATERIAL ACTION
+(\l|Ws|)
+
+"abdicator"
+% HUMAN ANIMAL
+(]lA|W|D)
+
+"abdomen"
+% CONCRETE MATERIAL ANIMAL
+(Rc)
+
+"abduction"
+% MATERIAL ACTION
+(WwAl|)
+
+"abductor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwAl|Xb)
+
+"abele"
+% PLANT
+(RcAWdW)
+
+"aberdevine"
+% ANIMAL
+(RbWWsIUc)
+
+"aberdonian"
+% HUMAN ANIMAL
+(WcRfG|D UbIbQ)
+
+"abernethy"
+% FOOD
+(HbAHbA^bD R|Uz[gU)
+
+"aberrance"
+% CONCRETE MATERIAL 
+(XfWGlIzI RfUWfDbQ)
+
+"aberrancy"
+% MATERIAL 
+(XfWGlIzI RfUWfDbQ)
+
+"aberration"
+(UbWAwIzI RfUWfDbQ)
+# annual aberration (NOUN) : W|IXsAlbW^cWZb
+# mental aberration (NOUN) : XfWU|DW|UbW
+
+"abeter"
+% HUMAN ANIMAL
+(ArUbXb)
+
+"abetment"
+% CONCRETE MATERIAL 
+(ArUb)
+
+"abetor"
+% HUMAN ANIMAL
+(ArUbXb)
+
+"abeyance"
+% MATERIAL STATE
+(XsWX|)
+# ^be in abeyance $ (VERB) : [XfWX|XsWW|<ADJ>]/Gb
+# ^fall into abeyance $ (VERB) : [XfWX|Gl|<VERB>]/Gb
+# ^hold A in abeyance $ (VERB) : [(OBJ A/WzI) (OCOMP [(AMODS [(MODS [XbQU|<ADV>])
+ Q|XfWW|<ADJ>]/^bD) UbW\c<NOUN>]/Il) Gs<VERB>]/Gb
+# ^leave A in abeyance $ (VERB) : 
+  [(OBJ A/WzI) (OCOMP [(AMODS [(MODS [XbQU|<ADV>]) Q|XfWW|<ADJ>]/^bD) UbW\c<NOUN>]/Il) Gs<VERB>]/Gb
+
+"abhorrence"
+% MATERIAL MIND
+(XzWWl)
+# ^have an abhorrence of A (VERB) : [(OBJ A/WzI) ^jQWl^b<VERB>]/Gb
+# ^hold A in abhorrence $ (VERB) : [(OBJ A/WzI) ^jQWl^b<VERB>]/Gb
+
+"abhorrer"
+% HUMAN ANIMAL 
+(QlRU| U|I^Wf^bDzD UbIbQ)
+
+"abidance"
+% CONCRETE MATERIAL STATE
+(X|UlA)
+
+"abiding"
+% ACTION STATE
+(XsAf)
+
+"abigail"
+% HUMAN ANIMAL
+(U|Dj)
+
+"ability"
+% CONCRETE MATERIAL 
+(DzWIjA)
+# ability to buy (NOUN) : AsQc DzWIjA
+# administrative ability (NOUN) : AjWWjWUsWlbD
+# man of ability (NOUN) : DzWIjAW|VDzD UbIbQ
+# the ability TO_INF (NOUN) : [(RELCL TO_INF/^bDzD) DzWIjA<NOUN>]
+# to the best of ONE_S ability (ADV) : ^|QBfU
+
+"abiogenist"
+% HUMAN ANIMAL
+(XbWjDRbIUcWIlDXb)
+
+"abjection"
+% STATE
+(R|ZfD)
+
+"abjectness"
+% STATE
+(R|ZbQ^bQ)
+
+"abjuration"
+% CONCRETE MATERIAL ACTION
+(]lA| UfDUf)
+# abjuration of the realm (NOUN) : AsAWlbWWz| \l|Ws| UfDWfD
+# oath of abjuration (NOUN) : AlAsA ]lA| UfDUf
+
+"ablactation"
+% STATE
+(W|Ww)
+
+"ablation"
+% MATERIAL ACTION
+(XgAf)
+
+"ablative"
+% MATERIAL ACTION
+(\bIAjA)
+# ablative case (NOUN) : \bIAjA
+# ablative absolute (NOUN) : \bIAjA GlAI|RAs
+
+"ablator"
+(WwWXg QsIX|I)
+
+"ablaut"
+(QlWzQXfD^lbD)
+
+"ablegate"
+% HUMAN ANIMAL
+(Ar^lbW \zAUb)
+
+"ablution"
+% MATERIAL ACTION
+(QlAWrA)
+
+"abnegation"
+% MATERIAL ACTION
+(AfXfI)
+
+"abnegator"
+% HUMAN ANIMAL
+(]lA|Xb)
+
+"abnormalism"
+% STATE
+(W|UbW)
+
+"abnormality"
+% MATERIAL STATE
+(W|UbW)
+
+"abnormity"
+% STATE
+(W|UbW)
+
+"abo"
+% HUMAN ANIMAL
+(WlUz\zIgW|II|Wb WsfDXsQ|D)
+
+"abode"
+% CONCRETE ANIMAL MATERIAL PLACE
+(XsUl)
+# ^make ONE_S abode $ (VERB) : [AfXs^b<VERB>]/Gb
+# ^take up ONE_S abode $ (VERB) : [AfXs^b<VERB>]/Gb
+
+"abolition"
+% MATERIAL ACTION
+(]kX|)
+
+"abolitionism"
+% ACTION
+(]kX|IlD)
+
+"abolitionist"
+% CONCRETE HUMAN ANIMAL MATERIAL ACTION
+(]kX|IlDXb)
+
+"abomination"
+% MATERIAL MIND
+(^jQWl)
+# ^have in abomination $ (VERB) : [QlRU| U|I^Wf^b<VERB>]/Gb
+# ^hold in abomination $ (VERB) : [QlRU| U|I^Wf^b<VERB>]/Gb
+
+"abominator"
+% HUMAN ANIMAL
+(QlRU| U|I^Wf^bDzD UbIbQ)
+
+"aboriginal"
+% HUMAN ANIMAL
+(WsfDXsQ|D)
+
+"aborigines"
+% HUMAN ANIMAL
+(WsfDXsQ|D)
+
+"aborticide"
+% ACTION
+(W|QU|DXsWXfI)
+
+"abortifacient"
+(DbA\cWdA)
+
+"abortion"
+% MATERIAL ACTION
+(WwUbD)
+# criminal abortion (NOUN) : DbA\cXl|
+# illegal abortion (NOUN) : DbA\cXl|
+# ^have an abortion $ (VERB) : [WwUbD^b<VERB>]/Gb
+# ^procure abortion $ (VERB) : [DbA\cU|[|<VERB>]/Gb
+
+"abortion-right"
+(DbA\c AsfDI|)
+
+"abortionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DbA\c UsUsIXb)
+
+"abortive"
+(DbA\cWdA)
+
+"about-face"
+% MATERIAL ACTION
+(Gs|Il GlIA|)
+
+"about-turn"
+% MATERIAL ACTION
+(Gs|Il GlIA|)
+
+"above"
+(UbWA|^bD W|I)
+
+"above-the-line"
+% ECOLIFE
+(AjWUbWAkXfW WkUbD)
+
+"abovestairs"
+% PLACE
+(Ws|ZzW)
+
+"abracadabra"
+% CONCRETE MATERIAL ACTION
+(XsQsD)
+
+"abrahamman"
+% HUMAN ANIMAL
+(Q|Z|AlbWW| AfX|)
+
+"abrasion"
+% MATERIAL STATE
+(RfUAjX|Q)
+
+"abrasive"
+% CONCRETE ANIMAL MATERIAL 
+(WjDQbXg)
+
+"abreaction"
+% MATERIAL ACTION
+(UlUbD XbAWrW)
+
+"abridgement"
+% CONCRETE MATERIAL 
+(WrWdA)
+
+"abridgment"
+% CONCRETE MATERIAL 
+(WrWdA)
+
+"abrogation"
+% MATERIAL ACTION
+(]kA|)
+
+"abruption"
+% ACTION
+(AzRAjA^bD RsDI|)
+
+"abruptness"
+% CONCRETE MATERIAL
+(AbRXbAUzIfWsQ)
+
+"abscess"
+% MATERIAL 
+(DlWWdW)
+
+"abscissa"
+% CONCRETE MATERIAL 
+(^l|WXlb]r)
+
+"abscission"
+% MATERIAL ACTION
+(XfIGbD)
+
+"abscondence"
+% ACTION
+(GlQbW)
+
+"absence"
+% MATERIAL STATE
+(RsXc)
+# absence without leave (NOUN) : QsGbDWl|ZsI
+# after ten years' absence (PP->ADV) : 10 DjDQbDWg
+# during ONE_S absence (PP->ADV) : RsXcXsWWg
+# in ONE_S absence (PP->ADV) : RsXcXsWWg
+# in the absence of A (PP->ADV) : (ADJUNCT [(RELCL [(SUBJ A/Ab) WfRU<ADJ>]/^bI) Hc<NOUN>]/Wg)
+# ^mark the absence $ (VERB) : [ZsIUfAWzI RsIz<VERB>]/Gb
+
+"absent-mindedness"
+% MIND STATE
+(QfW^bQ)
+
+"absentee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIZbQXb)
+# absentee director (NOUN) : R|UbWAzD XsWWjA
+# absentee owner (NOUN) : RsXc X|Xs
+# absentee tactics (NOUN) : AjIUfA XfDIdA
+
+"absenteeism"
+% MATERIAL 
+(RsXc X|Xs XgGl)
+
+"absinth"
+% CONCRETE MATERIAL 
+(WbRVbW\z)
+
+"absinthe"
+% CONCRETE MATERIAL PLANT
+(WbRVbW\z)
+
+"absinthism"
+% STATE
+(WbRUbW\z XsWGlA)
+
+"absolute"
+(XfIGc)
+
+"absolution"
+% MATERIAL 
+(QjDXg)
+
+"absolutism"
+% MATERIAL 
+(XfIGcUfI)
+
+"absolutist"
+% HUMAN ANIMAL
+(XfIGcIlDXb)
+
+"absorbability"
+(^zRUsUfW)
+
+"absorbefacient"
+(^zRUsXg)
+
+"absorbent"
+% CONCRETE MATERIAL 
+(^zRUsXg)
+
+"absorption"
+% MATERIAL ACTION
+(^zRUs)
+
+"abstainer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfIXgAb)
+# a total abstainer (NOUN) : XfIGcAzQXsAb
+
+"abstemiousness"
+% CONCRETE MATERIAL 
+(XfIXg)
+
+"abstention"
+% MATERIAL ACTION
+(XbXg)
+# abstention rate (NOUN) : A|AsfDWwI
+
+"abstergent"
+(UgXfWQsI)
+
+"abstinence"
+% MATERIAL 
+(XfIXg)
+
+"abstract"
+% CONCRETE MATERIAL 
+(WrWdA[ZsUbW])
+# in the abstract (ADV) : W|IlDXfAWzIl
+# ^make an abstract of a book $ (VERB) : [(OBJ [ZcAWz| WrXfQ<NOUN>]/WzI) ZlIlA^b<VERB>]/Gb
+
+"abstraction"
+% CONCRETE MATERIAL 
+(ZsUbW)
+# with an air of abstraction (PP->ADV) : QfW^bD|
+
+"abstractionism"
+% CONCRETE MATERIAL ART
+(ZsUbWXsWz|)
+
+"abstractionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZsUbW]b ^lbAb)
+
+"abstractionmonger"
+% HUMAN ANIMAL
+(AlWUbWAb)
+
+"abstractness"
+% CONCRETE MATERIAL 
+(ZsUbWUfW)
+
+"abstruseness"
+% CONCRETE MATERIAL 
+(U|QWsfD^bQ)
+
+"absurd"
+(RsXlI|)
+
+"absurdism"
+% ART
+(RsXlI|XsWz|)
+
+"absurdist"
+% HUMAN ANIMAL
+(RsXlI|XsWz| XbAAb)
+
+"absurdity"
+% CONCRETE MATERIAL 
+(RsI^bRI|)
+
+"absurdness"
+% CONCRETE MATERIAL 
+(RsI^bRI|^bQ)
+
+"abulia"
+% MATERIAL MIND
+(QsWz|X|)
+
+"abundance"
+% CONCRETE MATERIAL 
+(]sWRs)
+# in abundance (ADV) : QbD^W| DbQWb GlI QbD[zQ
+
+"abuse"
+% CONCRETE MATERIAL 
+(DbQWrW)
+# child abuse (NOUN) : WbGlW ^bAGc
+# human right abuse (NOUN) : W|DAsfDQbIUbI
+# physical abuse (NOUN) : U|DZg ^bAGc
+# sex abuse (NOUN) : UfWXfA^bAGc
+# sexual abuse (NOUN) : UfWXfA^bAGc
+
+"abutilon"
+% PLANT
+(WfXfAs| UlAWz| U|AQsI)
+
+"abutment"
+% CONCRETE MATERIAL STATE
+(W|DXfR)
+
+"abutter"
+% HUMAN ANIMAL
+(W|WsU X|Xs)
+
+"abysm"
+% PLACE
+(U|QWjD)
+
+"abyss"
+% MATERIAL PLACE
+(U|QWjD)
+
+"abyssinian"
+(WbR|U|D|Wb UbIbQ)
+
+"acacia"
+% CONCRETE MATERIAL PLANT
+(Wb[bU|Wb)
+
+"academe"
+% MATERIAL PLACE ORGAN ART
+(^bAWsfD)
+
+"academese"
+% ART
+(^bAUsI WrWWf)
+
+"academia"
+% MATERIAL ART
+(^bAAk)
+
+"academic"
+% CONCRETE HUMAN ANIMAL MATERIAL ART
+(^bAUcW)
+# academic interests (NOUN) : ^bAWsfD AjWWjW GbDZg
+# academic year (NOUN) : ^bADjDGl
+
+"academical"
+(Gc^bA WkRlA)
+
+"academician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wb[bGgQ| ^l|WsfD)
+
+"academicism"
+% ART
+(XfD\lWXsWz|)
+
+"academy"
+% CONCRETE MATERIAL ART
+(^bAWsfD)
+# the Academy (NOUN) : WlbWI|R Q|UsIWsfD
+# Academy award (NOUN) : Wb[bGgQ| UbW
+
+"acaleph"
+% ANIMAL FOOD
+(^c]bI|)
+
+"acanthus"
+% PLANT
+(Wb[bDGfUz)
+
+"acatalepsy"
+% ART
+(RsIAbX|IlD)
+
+"accelerant"
+(ZlAX|DXg)
+
+"acceleration"
+% CONCRETE MATERIAL 
+(AbUlA)
+# acceleration error (NOUN) : AlUlAWlZb
+# accelaration principle (NOUN) : AbUlAGlWsfDI|
+
+"accelerator"
+% CONCRETE ANIMAL MATERIAL 
+(AbUlAXb)
+# accelerator effect (NOUN) : AlUlAGl^rAlb
+# accelerator theory (NOUN) : AbUlAGlW|IlD
+
+"accelerometer"
+% CONCRETE ANIMAL MATERIAL 
+(AbUlAGlAk)
+
+"accent"
+% CONCRETE MATERIAL 
+(WbAUgD\z)
+# accent mark (NOUN) : WbAUgD\z Rs^l
+
+"accentuation"
+(WzQWz| WfAWdWRfR)
+
+"acceptability"
+% CONCRETE MATERIAL 
+(UsIbA^bI Us W|VWzQ)
+
+"acceptance"
+% CONCRETE MATERIAL ACTION
+(UsIbA)
+# acceptance of persons (NOUN) : WjAUfW
+# acceptance speech (NOUN) : UsIbA WjDUfI
+# ^find general acceptance (VERB) : [W|IRbDWgAg ZbDUfWRbG<VERB>]/Gb
+# ^gain general acceptance (VERB) : [W|IRbDWgAg ZbDUfWRbG<VERB>]/Gb
+# ^win general acceptance (VERB) : [W|IRbDWgAg ZbDUfWRbG<VERB>]/Gb
+# with acceptance (ADV) : UfDUfD^|
+
+"acceptation"
+% CONCRETE MATERIAL 
+(Wz|Q|)
+
+"acceptor"
+% HUMAN ANIMAL
+(UsIbAXb)
+
+"access"
+% CONCRETE MATERIAL ACTION
+(XfRAzD)
+# ^gain access to A (VERB) : [(ADJUNCT A/Wg) XfRAzD^b<VERB>]/Gb
+# ^obtain access to A (VERB) : [(ADJUNCT A/Wg) ZsIW|R^b<VERB>]/Gb
+# ^give access to A (VERB) : [(ADJUNCT A/Wg) (OBJ [XfRAzD<NOUN>]/WzI) ^fIbA^b<VERB>]/Gb
+# ^have access to A (VERB) : [(ADJUNCT A/Wg) XfRAzD^b<VERB>](^bI/F, Us/N, W|V/V)/Gb
+# within easy access of A (ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Il) Us|RAg AbI Us W|V<VERB>]/^bD) AlU<NOUN>]/Wg)
+
+"accessary"
+(WcAUgUfI|)
+
+"accessibility"
+% CONCRETE MATERIAL 
+(XfRAzDUfW)
+
+"accession"
+% CONCRETE MATERIAL 
+(GlGbI)
+# accession book (NOUN) : UsDbR GlUf GcXbW
+# accession number (NOUN) : UsDbRRfD^l
+
+"accessory"
+% CONCRETE MATERIAL 
+(WcAUgUbI|)
+
+"accidence"
+% ART
+(Wf^jWIlD)
+
+"accident"
+% MATERIAL ACTION
+(UbAl)
+# by accident (ADV) : WsWjD^|
+# by a mere accident (ADV) : WsWjD^|
+# chapter of accidents (NOUN) : AbX|AbX| RsI^cW
+
+# have an accident with A {-ANIMAL} (VERB) : [(SCOMP A/Ab) (OBJ [UbAl<NOUN>]/IzI) GbW^b<VERB>]/Gb
+* [(OBJ [(NMODS A) UbAl<NOUN>]/IzI) GbW^b<VERB>]/Gb
+* A (plane R|^cWA|)
+# ^meet witn an accident (VERB) : [^l|WWcAWzI QbDDb<VERB>]/Gb
+# inevitable accident (NOUN) : RsIAb^bWIjA
+# road accident (NOUN) : Ar\lWUbAl
+# without accident (ADV) : QsUb^|
+
+"accidental"
+(WsWjD^bD)
+
+"accidie"
+% MIND
+(AgWzIzQ)
+
+"acclaim"
+% CONCRETE MATERIAL ACTION
+(GcAbIZc)
+
+"acclamation"
+% CONCRETE MATERIAL ACTION
+(GcAbIZc)
+
+"acclimation"
+(Uc ^lbDAjW UsDWzW)
+# acclimation fever (NOUN) : ]sW\l WjIRjW
+
+"acclimatization"
+(Uc ^lbDAjW UsDWzW)
+# acclimatization fever (NOUN) : ]sW\l WjIRjW
+
+"acclivity"
+% CONCRETE MATERIAL 
+(R|\bI)
+
+"accolade"
+% CONCRETE MATERIAL ACTION
+(XbAWs| UsWj)
+# ^receive the accolade (VERB) : [DbW|\z XbAWs|IzI RbG<VERB>]/Gb
+
+"accommodation"
+% CONCRETE MATERIAL 
+(XfAWzW)
+# accommodation bill (NOUN) : WwW\lWWfWzQ
+# accommodation note (NOUN) : WwW\lWWfWzQ
+# accommodation ladder (NOUN) : RcUXfDWg WlIIbAbDzD UbGbI|
+# accommodation road (NOUN) : \zAUfI GlIl
+# accommodation train (NOUN) : Rl\lWWjIZb
+# accommodation unit (NOUN) : X|R
+
+"accommodator"
+% HUMAN ANIMAL
+(XfAWzWXb)
+
+"accomopanyist"
+% HUMAN ANIMAL
+(RbDXsXb)
+
+"accompaniment"
+% CONCRETE MATERIAL 
+(RsUlAQsI)
+
+"accompanist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbDXsXb)
+
+"accomplice"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWRfQXb)
+
+"accomplishment"
+% MATERIAL 
+(UfWZs|)
+
+"accord"
+% CONCRETE MATERIAL 
+(W|IZ|)
+# ^be in accord with A (VERB) : [(ADJUNCT A/Wlb) (OBJ [Xl^lb<NOUN>]/IzI) W|Is<VERB>]/Gb 
+# ^be out_of accord with A (VERB) : [(ADJUNCT A/Alb) W|IZ|Gl|<VERB>](^bX|/F, WbD^/A)/Gb
+# ^be of one accord (VERB) : [W|IZ|Gl|Wf W|V<VERB>]/Gb
+# of ONE_S own accord (ADV) : XbRbIXfAWzIl
+# of its own accord (ADV) : XbRbIXfAWzIl
+# with one accord (ADV) : ^bD QbWzQ ^bDHzUWzIl
+
+"accordance"
+% CONCRETE MATERIAL 
+(W|IZ|)
+# in accordance with A (ADV) : (ADJUNCT [(ADJUNCT A/Alb) W|IZ|^b<ADJ>]/^bWj)
+
+"accordianist"
+% HUMAN ANIMAL
+(Wb[lG|WfD WjDXsXb)
+
+"accordion"
+% CONCRETE ANIMAL MATERIAL 
+(Wb[lG|WfD)
+# accordian door (NOUN) : WjIQjD XfRWfX|DzD QsD
+# accordian pleats (NOUN) : XlRGbIbD XsIzQ
+
+"account"
+% CONCRETE MATERIAL HOMONYM
+(AkUbD)
+# ONE_S account (NOUN) : [(POSS ONE/Wz|) AkXlb<NOUN>]
+# account {+PLUR} (NOUN) : WzD^cWAkXfW
+# account at bank (NOUN) : WzD^cWAkXfW
+# account book (NOUN) : ZsIDbRRs
+# account day (NOUN) : ^l|AkW|I
+# account in arrear (NOUN) : XbAzQAkXfW
+# account in transit (NOUN) : Q|GbIAkXfW
+# account number (NOUN) : WzD^cWAkXlbRfD^l
+# account sales (NOUN) : QcUbWAkUbDA|
+# account title (NOUN) : AkXfWAlbQlA
+# account with A (NOUN) :
+* [(POSS A/Wz|) WzD^cWAkXlb<NOUN>]
+* A (bank WzD^cW)
+# accounts due (NOUN) : Q|UsAzQ
+# accounts payable (NOUN) : X|RsIAkXfW
+# accounts receivable (NOUN) : UsZs|AkXfW
+# accounts sections (NOUN) : ^l|AkAlb
+# advance account (NOUN) : GcRsAkXfW
+# agent account (NOUN) : GcI|XfQAkXfW
+# an account of WHAT_CLAUSE (NOUN) : [(ADJUNCT WHAT_CLAUSE/WgGc^bD) UfIQjW<NOUN>]
+# appropriation account (NOUN) : UsW|ARcGbWAkXfW
+# ^ask an account (VERB) : [(OBJ [AkUbDUf<NOUN>]/IzI) ZfWAs^b<VERB>]/Gb
+# at all accounts (ADV) : RbDGzU|
+# at any account $ (PP->ADV) : WfHf^bD AjWWsWgGl
+# ^balance accounts (VERB) : [ZfWUbD^b<VERB>]/Gb
+# bank account (NOUN) : WzD^cW AkXfW
+# ^be in account with A (VERB) : [(ADJUNCT A/Alb) AfIc^bAl W|V<VERB>]/Gb
+# ^be of no account $ (VERB) : XsWWr^bX| WbD^Gb
+# blocked account (NOUN) : RlWUlcAkXfW
+# bring a person to account (VERB) : DbQWgAg ZcAW|QWzI QsGGb
+# brought for account (NOUN) : Wl|UbWQcW|R
+# brought for cash (NOUN) : ^jDAzQQcW|R
+# by all accounts (ADV) : DsAsWgAg GzIWfGl
+# call a person to account (VERB) : DbQWgAg ZcAW|QWzI ^cQjWWzI WrAs^bGb
+# cast accounts (VERB) : AkUbD^bGb
+# ^charge it to ONE_S account (VERB) : [(ADJUNCT [(POSS ONE/Wz|) AkUbD<NOUN>]/Wg) GbI<VERB>]/Gb
+# checking account (NOUN) : GbWXlbWkAzQ
+# ^close an account with A (VERB) : [(ADJUNCT A/Alb) (OBJ [AfIc<NOUN>]/IzI) BzD^<VERB>]/Gb
+# constrast account (NOUN) : GcXlAkXfW
+# current account (NOUN) : GbWXlbAkXfW
+# demand an account (VERB) : AkUbDUfIzI ZfWAs^bGb
+# domestic account (NOUN) : AsADcWkAzQAkXfW
+# ^find no account in A (VERB): [(SCOMP A/WzD) GzAGl|I AfUW| WfRU<VERB>]/Gb
+# for account of A (ADV) : (ADJUNCT [(POSS A/Wz|) UgQ<NOUN>]/WzIl)
+# from all accounts (ADV) : DsAsWgAg GzIWfGl
+# ^give a bad account of A (VERB): [(OBJ A/WzI) ^fIHzG<VERB>]/Gb
+# ^give a poor account of A (VERB): [(OBJ A/WzI) ^fIHzG<VERB>]/Gb
+# ^give a good account of A (VERB) : [(OBJ A/WzI) W|AjDc<VERB>]/Gb
+# ^give an account of A (VERB): [(OBJ A/WzI) UfIQjW^b<VERB>]/Gb
+# ^give an account of what SENT (VERB) : 
+  [(OBJ [(RELCL SENT/^bD) AfU<NOUN>]/WzI) UfIQjW^b<VERB>]/Gb
+# go to ONE_S account  (VERB): XfUzWWg AbGb
+# go to ONE_S long account  (VERB): XfUzWWg AbGb
+# hand in ONE_S accounts  (VERB): XfUzWWg AbGb
+# ^have an account with A (VERB): [(ADJUNCT A/Alb) AfIcAb W|V<VERB>]/Gb
+# hold of no account (VERB) : ^bZbD^Ag RlGb
+# itemised account (NOUN) : ^bWQlADcWjAAjIXfW
+# keep accounts (VERB) : Z|Rs^bGb
+# ^lay ONE_S account with A (VERB) : [(OBJ A/WzI) A|Gc^b<VERB>]/Gb
+# ^make little account of A (VERB) : [(OBJ A/WzI) XsWWrU| ^bX| WbD^<VERB>]/Gb
+# ^make much account of A (VERB) : [(OBJ A/WzI) XsWWrU| ^b<VERB>]/Gb
+# ^make no account of A (VERB) : [(OBJ A/WzI) XsWWrU| ^b<VERB>]/Gb
+# money of account (NOUN) : AkXfW^lb]k
+# newspaper ^account (NOUN) : U|DQsD A|Ub
+# nostro account (NOUN) : XbUbAkXfW
+# not on any account (ADV) : AjI[l WbD^Gb
+# of much account (ADJ) : XsWWr^bGb
+# of no account (ADJ) : ^bZbD^Gb
+# on a person's account (ADV) : DbQWz| R|WrWWzIl
+# on account (ADV) : AkWdAAzQWzIlUf
+# on account of (ADV) : HcQsDWg
+# on all accounts (ADV) : RbDGzU|
+# on every account (ADV) : RbDGzU|
+# on no account (ADV) : AjI[l WbD^Gb
+# on ONE_S own account (ADV) : GlAI|R^bWj
+# on that account (ADV) : AzAfU HcQsDWg
+# on this account (ADV) : W|AfU HcQsDWg
+# pay an account (VERB) : UgQWzI QbZ|Gb
+# put it to a person's account (VERB) : DbQWz| UgQWg Z|Rs^bGb
+# put it down to a person's account (VERB) : DbQWz| UgQWg Z|Rs^bGb
+# render an account (VERB) : AjIUbD RlAlIzI ^bGb
+# send an account (VERB) : ZfWUbDUfIzI RlDcGb
+# ^settle an account with A (VERB) : [(ADJUNCT A/Alb) (OBJ [UgQ<NOUN>]/WzI) 
+ZfWUbD^b<VERB>]/Gb
+# ^square an account with A (VERB) : [(ADJUNCT A/Alb) (OBJ [UgQ<NOUN>]/WzI) ZfWUbD^b<VERB>]/Gb
+# ^take A into account $ (VERB) : [(OBJ A/IzI) AlIj^b<VERB>]/Gb 
+# ^take account of A (VERB) : [(OBJ A/IzI) AlIjWg Df^<VERB>]/Gb
+# ^take into account $ (VERB) : AlIjWg Df^Gb
+# ^take into account A (VERB) : [(OBJ A/IzI) AlIj^b<VERB>]/Gb
+# ^take no account of A (VERB) : [(OBJ A/WzI) QsU|^b<VERB>]/Gb
+# the great account (NOUN) : Zl|^sWz| U|Q]bD
+# the last account (NOUN) : Zl|^sWz| U|Q]bD
+# turn to account (VERB) : W|WrW^bGb
+# turn to good account (VERB) : W|WrW^bGb
+# vostro account (NOUN) : UbWGcRbWAkXfW
+
+"account1nn"
+% ECOLIFE
+(^l|Ak)
+
+"account2nn"
+% ECOLIFE
+(AkXlb)
+
+"account3nn"
+% STATE
+(W|Ww)
+
+"account4nn"
+% ACTION
+(UfIQjW)
+
+"accountability"
+% CONCRETE MATERIAL 
+(ZcAW|Q)
+
+"accountancy"
+% MATERIAL ECOLIFE
+(^l|AkX|A)
+
+"accountant"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(^l|AkUb)
+# accountant general (NOUN) : ^l|AkAlbXbW
+# certified public accountant (NOUN) : AlWW|D^l|AkUb
+# chartered accountant (NOUN) : \zA^f^l|AkUb
+
+"accounting"
+% CONCRETE MATERIAL ECOLIFE
+(^l|Ak)
+# accounting book (NOUN) : ^l|AkXbWRs
+# accounting firm (NOUN) : ^l|AkRfRW|D
+# accounting official (NOUN) : ZsIDbRAlbDI|
+# accounting period (NOUN) : ^l|AkA|AbD
+# accounting price (NOUN) : AkUbDAbAjA
+# accounting procedure (NOUN) : ^l|AkXfIZb
+# accounting regulations (NOUN) : ^l|AkAwXfW
+# accounting report (NOUN) : ^l|AkRlAl
+# accounting year (NOUN) : ^l|AkDjDGl
+# cost accounting (NOUN) : WsfDAb^l|Ak
+# individuals accounting (NOUN) : AcW|D AsXlb
+# national income accounting (NOUN) : AsAQ|DUlGzA^l|Ak
+# social accounting (NOUN) : Ub^l|^l|Ak
+
+"accouterments"
+(RlAXbW)
+
+"accoutrements"
+(RlAXbW)
+
+"accretion"
+% MATERIAL 
+(XzWGc)
+
+"accrual"
+% MATERIAL 
+(XzWAb)
+
+"acculturation"
+% MATERIAL ART
+(QsD^lbUfRZs|)
+
+"accumulation"
+% MATERIAL 
+(ZsAXfA)
+# accumulation of capital (NOUN) : XbRlDZsAXfA
+
+"accumulator"
+% CONCRETE ANIMAL MATERIAL 
+(ZsAXfAXb)
+
+"accuracy"
+% CONCRETE MATERIAL 
+(XfW^lbA)
+
+"accusation"
+% CONCRETE MATERIAL ACTION
+(AlRbI)
+# under an accusation (ADV) : AlUlGl|Wf
+
+"accusative"
+% MATERIAL 
+(GcAjA)
+
+"accused"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]|AlW|D)
+
+"accuser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlRbIW|D)
+
+"ace"
+% CONCRETE MATERIAL 
+(WgW|Uz)
+# play ONE_S ace well (VERB) : DsDZ| SbIzAg Wb]Gs|IzI XbI XcGb
+# ^be within an ace of death (VERB) : [XsA<VERB>](^bI/F, SfD^b/A)/Gb
+# ^be within an ace of being killed (VERB) : [XsA<VERB>](^bI/F, SfD^b/A)/Gb
+
+"acedia"
+% MATERIAL STATE
+(AgWzIzQ)
+
+"aceldama"
+% PLACE
+(Ww^jIWz| HbW)
+
+"acerbity"
+% CONCRETE MATERIAL 
+(VzD QbU)
+
+"acetabulum"
+% ANIMAL
+(SbI]bD)
+
+"acetal"
+(WbUg\bI)
+
+"acetate"
+% CONCRETE MATERIAL 
+(ZlUbDWjQ)
+
+"acetification"
+(Zl^lb)
+
+"acetone"
+% MATERIAL 
+(WbUg\lD)
+# acetone body (NOUN) : WbUg\lD Zg
+
+"acetyl"
+(WbUg\|I)
+
+"acetylene"
+% CONCRETE MATERIAL 
+(WbUg\|IIgD)
+
+"achaean"
+% HUMAN ANIMAL
+(WbAbWd UbIbQ)
+
+"achaian"
+% HUMAN ANIMAL
+(WbAbWd UbIbQ)
+
+"ache"
+% MATERIAL MIND
+(Wb]zQ)
+# head ache (NOUN) : Gs\lW
+
+"achene"
+% CONCRETE MATERIAL PLANT
+(UsAlb)
+
+"achievement"
+% MATERIAL 
+(UfWZs|)
+# achievement age (NOUN) : ^bAIjA A|XsD WjDIjW
+# achievement quotient (NOUN) : UfWXfAX|Us
+# achievement test (NOUN) : ^bAIjAAlUb
+
+"achromaticity"
+(UsUcAUfW)
+
+"achromatism"
+(UsUcAUfW)
+
+"achromycin"
+(Wb[zIlQbW|U|D)
+
+"acid"
+% CONCRETE MATERIAL 
+(UbD)
+# acid rain (NOUN) : UbDUfWR|
+
+"acidhead"
+% HUMAN ANIMAL
+(^lbDAbAXg UbWWrWXb)
+
+"acidification"
+(UbDUfW^lb)
+
+"acidimeter"
+(UbDXfWIdWA|)
+
+"acidity"
+% CONCRETE MATERIAL 
+(U|DQbU)
+
+"acidosis"
+% STATE
+(UbDAlbGbXzW)
+
+"acinus"
+(Ul^cAAlb)
+
+"ack-ack"
+% CONCRETE ANIMAL MATERIAL 
+(AlUb]l)
+
+"ackemma"
+% TIME
+(WlXfD)
+
+"acknowledgement"
+% ACTION
+(UzWW|D)
+# bow ONE_S acknowledgements (VERB) : ^fI|IzI AsR^j W|DUb^bGb
+# in acknowledgement of A (ADV) : (ADJUNCT [(OBJ A/WzI) UzWW|D^b<VERB>]/^bWj)
+
+"acme"
+% MATERIAL STATE
+(XfIXfW)
+
+"acne"
+% MATERIAL 
+(WjGzIzQ)
+
+"acolyte"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(U|Xg)
+
+"aconite"
+% CONCRETE ANIMAL MATERIAL PLANT
+(Wb[lD|U)
+
+"acorn"
+% PLANT FOOD
+(Gl\lI|)
+# acorn cup (NOUN) : BbAXfWW|
+# sweet acorn (NOUN) : QlQ|IXbURbRDbQsWz| WjIQc
+
+"acotyledon"
+% PLANT
+(QsXbWjR U|AQsI)
+
+"acoumeter"
+(ZfWIjAAk)
+
+"acoustic"
+% ART
+(WzQ^dW^bA)
+
+"acoustician"
+% HUMAN ANIMAL
+(WzQ^dW^bAXb)
+
+"acousticon"
+(RlZfWA|)
+
+"acoustics"
+% MATERIAL 
+(WzQ^dW^bA)
+
+"acquaintance"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbDzD UbIbQ)
+# ^cultivate ONE_S acquaintance (VERB) : [(SCOMP [(OBJ ONE/WzI) WbI<VERB>]/^bIjAl) WcVz<VERB>]/Gb
+# ^cut ONE_S acquaintance with (VERB) : [(ADJUNCT ONE/Alb) XfIAr^b<VERB>]/Gb
+# ^drop ONE_S acquaintance with (VERB) : [(ADJUNCT ONE/Alb) XfIAr^b<VERB>]/Gb
+# ^gain aquaintance with A (VERB->ADJ) : [(OBJ A/WzI) WbI<VERB>]/Gb
+# ^have a slight acquaintance with A (VERB->ADJ) : [(OBJ A/WzI) (MODS [XlQ<ADV>])
+ WbIAl W|V<VERB>]/Gb
+# ^have an intimate acquaintance with A (VERB->ADJ) : [(OBJ A/WzI) (MODS [XbI<ADV>]) WbIAl W|V<VERB>]/Gb
+# have a wide acquaintance (VERB->ADJ) : ArXgAb DfIRGb
+# have a wide circle of acquaintances (VERB->ADJ) : ArXgAb DfIRGb
+# ^make the acquaintance of A (VERB->ADJ) : [(OBJ A/IzI) WbIAg Gl|<VERB>]/Gb
+# make ONE_S acquaintance (VERB->ADJ) : [(ADJUNCT [DbQ<NOUN>]/Alb) WbI<VERB>](Ag/F, Gl|/V)/Gb
+# seek the acquaintance of a person (VERB->ADJ) : [(ADJUNCT [DbQ<NOUN>]/Alb) WbI<VERB>](Ag/F, Gl|/V)/Gb
+# seek ONE_S acquaintance (VERB->ADJ) : [(ADJUNCT [DbQ<NOUN>]/Alb) WbI<VERB>](Ag/F, Gl|/V)/Gb
+# strike up an acquaintance (VERB->ADJ) : WbIAgGl|Gb
+# ^renew ONE_S acquaintance with A (VERB) : [(ADJUNCT A/Alb) 
+(OBJ [WkUXfW<NOUN>]/WzI) (MODS [UcIlW|<ADV>]) ^b<VERB>]/Gb
+
+"acquaintanceship"
+% CONCRETE MATERIAL 
+(WbDzD UbW|)
+
+"acquaintedness"
+(WbIQ)
+
+"acquest"
+(Zs|GzAQsI)
+
+"acquiescence"
+% CONCRETE MATERIAL ACTION
+(QsAXlW)
+
+"acquirement"
+% MATERIAL ACTION
+(Zs|GzA)
+
+"acquisition"
+% MATERIAL ACTION
+(^l|AGzA)
+
+"acquisitiveness"
+% MATERIAL MIND
+(WrAU|Q)
+
+"acquittal"
+% MATERIAL 
+(QsXl|RbWQjD)
+
+"acquittance"
+% CONCRETE MATERIAL 
+(UlQjI)
+
+"acre"
+% CONCRETE UNIT MATERIAL 
+(WgW|[f)
+# God's Acres (NOUN) : QrX|
+
+"acreage"
+% CONCRETE MATERIAL 
+(WgW|[f Us)
+
+"acridine"
+(Wb[zI|G|D)
+
+"acridity"
+% CONCRETE MATERIAL 
+(U|DIbI^bQ)
+
+"acridness"
+% CONCRETE MATERIAL 
+(U|DIbI^bQ)
+
+"acrimony"
+% CONCRETE MATERIAL 
+(\lWIjI)
+
+"acro-theater"
+(AlAWk)
+
+"acrobat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlAWkUb)
+
+"acrobatics"
+% MATERIAL 
+(AlAWk)
+
+"acrogen"
+% PLANT
+(XfWUcWU|AQsI)
+
+"acrolith"
+% ANIMAL
+(QfI|)
+
+"acromegalic"
+% HUMAN ANIMAL
+(UfDGbDR|GcXzWWz| UbIbQ)
+
+"acromegaly"
+% MATERIAL 
+(UfDGbDR|GcXzW)
+
+"acronym"
+% MATERIAL 
+(GsXbWf)
+
+"acrophobia"
+% MATERIAL MIND
+(AlUl AlW]lXzW)
+
+"acropolis"
+% CONCRETE ANIMAL MATERIAL 
+(UfWZc)
+
+"acrostic"
+% CONCRETE MATERIAL 
+(AbA ^cWWz| ZfUAzIXbIzI QlWzQjD QbIW| Gl|DzD U|)
+
+"acrylic"
+% CONCRETE MATERIAL 
+(Wb[zI|I UsX|)
+
+"act"
+% CONCRETE MATERIAL ACTION
+(^cWWs|)
+# Act of God (NOUN) : RsIAb^bWIjA
+# NUM1 {-ORDNUM} acts (NOUN) : [(NMODS NUM1 {+DGTNUM}) QbA<NOUN>]
+# act and deed (NOUN) : XzWAf
+# act of God (NOUN) : RsIAb^bWIjA
+# act of Congress (NOUN) : RfRIjW
+# act of Parliament (NOUN) : RfRIjW
+# act of Providence (NOUN) : RsIAb^bWIjA
+# act of grace (NOUN) : \zAUb
+# act of war (NOUN) : XfDXcW ^cWWs|
+# get into the act (VERB) : Ak^l|AWg ^bD QlAU B|Gb
+# the Acts (NOUN) : UbGl^cWX|D
+# the Acts of the Apostles (NOUN) : UbGl^cWX|D
+
+"actability"
+% STATE
+(UbWWjD AbDzW^bQ)
+
+"acth"
+(Dl|^bUsZgWgUf ScDcD ^lIzQlD)
+
+"actin"
+(WbA\|D)
+
+"acting"
+% MATERIAL ACTION
+(AlWWjD)
+
+"actinia"
+% CONCRETE ANIMAL MATERIAL 
+(QbIQ|XbI)
+
+"actinism"
+(^lb^bAUfD XbAWrW)
+
+"actinium"
+% CONCRETE MATERIAL 
+(WbA\|DwQ)
+
+"actinometer"
+% CONCRETE ANIMAL MATERIAL 
+(^lb^bA AlbWIdWAk)
+
+"actinomycin"
+% CONCRETE MATERIAL 
+(WbA\|DlQbW|U|D)
+
+"actinotherapy"
+% ACTION
+(RbWUbUfD Z|Ir)
+
+"actinozoan"
+% CONCRETE ANIMAL MATERIAL 
+(^lb^jWZsW)
+
+"action"
+% CONCRETE MATERIAL ACTION
+(^cWGlW)
+# in action (PP->ADV PP->ADJ) : 1) ^lbIGlW^bWj
+2) [^lbIGlWXsWWg W|V<VERB>]/Gb
+# action of mind (NOUN) : XfWU|DXfA ^lbIGlW
+# action of the bowels (NOUN) : RjD\lW
+# bring an action against a person (VERB) : UlUlWWzI XgA|^bGb
+# bring into action (VERB) : XfD\sWg ZbQAbU|[|Gb
+# come into action (VERB) : XfD\sWg ZbQAb^bGb
+# concerted action (NOUN) : W|IZ|Gl|D ^cWGlW
+# clear for action (VERB) : XfD\s XsDR|IzI ^bGb
+# deffered asset (NOUN) : W|WjDXbUbD
+# file an action against a person (VERB) : UlUlWWzI XgA|^bGb
+# have an action against a person (VERB) : UlUlWWzI XgA|^bGb
+# line of action (NOUN) : XbAWfRAk\lW
+# man of action (NOUN) : ^lbIGlWAb
+# put in action (VERB) : U|IZfDWg WlIQA|Gb
+# put into action (VERB) : U|IZfDWg WlIQA|Gb
+# put out_of action (VERB) : WsQX|AW|X| WbD^Ag ^bGb
+# rouse to action (VERB) : RsDA|U|[|Gb
+# see action (VERB) : XfD\sWg ZbQAb^bGb
+# take a action (VERB) : XlZ|IzI Zs|^bGb
+# take actions (VERB) : XlZ|IzI Zs|^bGb
+
+"activation"
+% MATERIAL 
+(^lbIUfW^lb)
+
+"activator"
+% CONCRETE MATERIAL 
+(^lbIUfWXg)
+
+"active"
+% CONCRETE MATERIAL 
+(^lbIGlWRsDXb)
+
+"activeness"
+% CONCRETE MATERIAL 
+(^lbIGlWUfW)
+
+"activism"
+% MATERIAL ART
+(^cWGlWXsWz|)
+# social activism (NOUN) : Ub^l| ^cWGlWXsWz|
+# student activism (NOUN) : ^bAUcW WsDGlW
+# student social activism (NOUN) : ^bAUcW Ub^l| ^cWGlWXsWz|
+
+"activismist"
+% HUMAN ANIMAL
+(^cWGlWXsWz|Xb)
+
+"activist"
+% HUMAN
+(^lbIGlWAb)
+
+"activity"
+% MATERIAL ACTION
+(^lbIGlW)
+# activity analysis (NOUN) : ^lbIGlWRsDUfA
+# classroom activity (NOUN) : ^bAAzR^lbIGlW
+# commercial activity (NOUN) : UbW^lbIGlW
+# manufacturing activity (NOUN) : XgXl^lbIGlW
+# mental activity (NOUN) : XfWU|D^lbIGlW
+# production activity (NOUN) : UcWUbD^lbIGlW
+
+"acton"
+(AbRWlU UlAWg W|RDzD ^l\WlU)
+
+"actor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RcWs)
+# bad actor (NOUN) : Q|GWzI Us WfRUDzD UbIbQ
+
+"actress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjRcWs)
+
+"acts"
+(^cWWs|)
+
+"actualist"
+% HUMAN ANIMAL
+(^jDU|IXsWz|Xb)
+
+"actuality"
+% CONCRETE MATERIAL 
+(^jDU|I)
+
+"actualization"
+% MATERIAL 
+(^jDU|I^lb)
+
+"actuary"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(Rl^fQAkI|Ub)
+
+"actuation"
+% MATERIAL 
+(ZsWGlWXbAWrW)
+
+"actuator"
+(WcA\wWgW|\f)
+
+"acuity"
+(DbI[bIlWsQ)
+
+"acumen"
+% MATERIAL 
+(DbI[bIlWsQ)
+
+"acupressure"
+% ACTION
+(X|WbR)
+
+"acupuncture"
+(Z|QIrRfR)
+
+"acupuncturist"
+% HUMAN ANIMAL
+(Z|QUsIUb)
+
+"acuteness"
+% CONCRETE MATERIAL 
+(DbI[bIlWsQ)
+
+"ad"
+% CONCRETE MATERIAL 
+(AlbWAl)
+# ad lib (NOUN) : XzA^zWXfA WjDXs
+
+"ad-column"
+(AlbWAlIbD)
+
+"ad-craft"
+(AlbWAl Zs|AzRWfR)
+
+"ad-rate"
+(AlbWAlIr)
+
+"ad-writer"
+% HUMAN ANIMAL
+(AlbWAl QsDWbD XbAUfWXb)
+
+"adacity"
+(GcGbQ)
+
+"adage"
+% CONCRETE MATERIAL 
+(AzQWfD)
+
+"adagency"
+% ECOLIFE
+(AlbWAl Gc^cWWfR)
+
+"adagent"
+% HUMAN ANIMAL
+(AlbWAl Gc^cWWfRXb)
+
+"adalin"
+(WbGbII|D)
+
+"adamant"
+(AzQAbWUfA)
+# as hard as adamant (ADJ) : AjDAlQsR|^bGb
+
+"adamite"
+% HUMAN ANIMAL
+(WbGbQWz| XbUlD)
+
+"adamsite"
+% STATE
+(XcZcA| GlAAbUz)
+
+"adaptability"
+% CONCRETE MATERIAL 
+(XfAWzWUfW)
+
+"adaptation"
+% CONCRETE MATERIAL 
+(XfAWzW)
+
+"adapter"
+% CONCRETE ANIMAL MATERIAL 
+(AcXbAXb)
+
+"adaption"
+(XfAWzW)
+
+"adaptor"
+% CONCRETE ANIMAL MATERIAL 
+(AcXbAXb)
+
+"add"
+% CONCRETE MATERIAL
+(ZsAbWsfDAl)
+
+"add-on"
+(ZsAb)
+
+"addax"
+% CONCRETE ANIMAL MATERIAL 
+([zD WjWWdW)
+
+"addend"
+(AbUs)
+
+"addendum"
+% CONCRETE MATERIAL 
+(RsIlA)
+
+"adder"
+% CONCRETE ANIMAL MATERIAL 
+(AkUbDA|)
+
+"adder"
+% CONCRETE ANIMAL MATERIAL 
+(UbIQlUb)
+
+"adder's-tongue"
+% PLANT
+(DbGlAlUbI| UbQUlAW| WdWZ|U|AQsI)
+
+"addict"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbWdA XsWGlAXb)
+
+"addiction"
+% MATERIAL ACTION
+(\bQD|A)
+
+"addition"
+% CONCRETE MATERIAL 
+(ZfQAbQsI)
+# in addition $ (ADV) : [Hl^bD<ADV>]
+# in addition to A (PP->ADV) : (ADJUNCT [(COMP A) W|Wl|Wg<ADV>])
+# in addition to PRESP (PP->ADV) : (ADJUNCT [(COMP [(COMPCL PRESP/^bI) SsD<NOUN>]/QbD) WbD|<ADJ>]/Ib)
+
+"additional"
+(RsAbQsI)
+
+"additive"
+% CONCRETE MATERIAL 
+(RsAbQsI)
+
+"address"
+% CONCRETE MATERIAL HOMONYM
+(XsUl)
+# forwarding address (NOUN) : Ws]jD XsUl
+# televised address (NOUN) : TVRbWUlW WjDUfI
+# welcoming address (NOUN) : ^lbDWjW WjDUfI
+
+"address1nn"
+% ART ACTION
+(WjDUfI)
+
+"addressee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsU|DW|D)
+
+"addresser"
+% HUMAN ANIMAL
+(RbIU|DW|D)
+
+"addressing machine"
+(XsUl XbGlWW|DUlcA|)
+
+"addressograph"
+(XsUl XbGlWW|DUlcA|)
+
+"addressor"
+% HUMAN ANIMAL
+(RbIU|DW|D)
+
+"adduction"
+% ACTION
+(W|DWrW)
+
+"adenine"
+(WbGgD|D)
+
+"adenoids"
+(WbGgDlW|Gz)
+
+"adept"
+% HUMAN ANIMAL
+(QjWW|D)
+
+"adequacy"
+% CONCRETE MATERIAL 
+(XfAGbW^bQ)
+
+"adequateness"
+% MATERIAL 
+(XfAGbW^bQ)
+
+"adherence"
+% CONCRETE MATERIAL 
+(AlUs)
+
+"adherent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bD]jD)
+
+"adhesion"
+% CONCRETE MATERIAL 
+(XfQZbA)
+# give in ONE_S adhesion to the treaty (VERB) : XlWdA AbQcWWzI \lWAl^bGb
+
+"adhesive"
+% CONCRETE MATERIAL 
+(XfRZbAXg)
+
+"adiantum"
+% PLANT 
+(UbWAzD ZlUlA)
+
+"adieu"
+% CONCRETE MATERIAL ACTION
+(XbARjI)
+
+"adipocere"
+(U|IbR)
+
+"adipose"
+(X|RbW)
+
+"adiposity"
+% CONCRETE MATERIAL 
+(R|QbDXzW)
+
+"adit"
+(W|RAs)
+# have free adit (VERB) : QbWzQGcIl GzDbGzIGb
+
+"aditorial"
+(DlDUfIAlbWAl)
+
+"adjacency"
+% CONCRETE MATERIAL 
+(W|DXfR)
+
+"adjective"
+% MATERIAL 
+(^jWWrWUb)
+
+"adjournment"
+% MATERIAL ACTION
+(WjDA|)
+
+"adjudgement"
+% ACTION
+(]bDAjI)
+
+"adjudgment"
+% ACTION
+(]bDAjI)
+
+"adjudication"
+% MATERIAL ACTION
+(]bDAjI)
+
+"adjudicator"
+% HUMAN ANIMAL
+(]bDAjIXb)
+
+"adjunct"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsAbQsI)
+# adjunct professor (NOUN) : RsArUs
+
+"adjuration"
+% MATERIAL ACTION
+(\bDWsfD)
+
+"adjuster"
+% HUMAN ANIMAL
+(XlXfWXb)
+# average adjuster (NOUN) : ^cUlDXfWUbDW|D
+
+"adjustment"
+% ACTION 
+(XlXfW)
+# adjustment account (NOUN) : XfWI|AkXfW
+# adjustment board (NOUN) : XlXfWWs|WsfD^l|
+# adjustment process (NOUN) : XlXfWAlbXfW
+# bad account (NOUN) : AjIUlDAkXfW
+# heavy-load adjustment (NOUN) : XsWRs^bXlXfW
+# monetary adjustment (NOUN) : AzQWwWXlXfI
+# year-end adjustment (NOUN) : DjDQbIXlXfW
+
+"adjustor"
+% HUMAN ANIMAL
+(XlXfWXb)
+
+"adjutancy"
+% HUMAN
+(RsAlbDWz| X|A)
+
+"adjutant"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(RsAlbD)
+
+"adjuvant"
+% CONCRETE MATERIAL 
+(GlWsQW| Gl|DzD AfU)
+
+"adlet"
+(XbAWzD AlbWAl)
+
+"adman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbWAl AsfDWwWsfD)
+
+"admass"
+% HUMAN ANIMAL
+(QcUz[lQWg XbI GlWWr^bDzD GcXsW)
+
+"admeasurement"
+(^bIGbW)
+
+"adminicle"
+(GlWsQ)
+
+"administration"
+% MATERIAL 
+(AlbDI|)
+# NOUN {+PRNOUN} administration {-POSSESIVE} (NOUN) : [(NMODS NOUN) ^cWXfWRs<NOUN>]
+
+"administrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^cWXfWAlbD)
+# administrator bond (NOUN) : XcUbDZfI|W|DXzW
+# administrator in bankrupcy (NOUN) : ]bUbDAlbDI|W|D
+
+"administratorship"
+% HUMAN
+(^cWXfWAlbDWz| X|AWs|)
+
+"administratrix"
+% HUMAN ANIMAL
+(WjXbAlbDI|Xb)
+
+"admirableness"
+(^sIIwW^bQ)
+
+"admiral"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(XgGlA)
+# Board of Admirals (NOUN) : ^cAsD XbWAlbD^l|Wz|
+# Loard High Admiral (NOUN) : ^cAsDGcU|D
+
+"admiralship"
+% HUMAN
+(^cAsDXgGlAWz| X|A)
+
+"admiralty"
+% ORGAN
+(^cAsD RlDRs)
+# Lords Commissioners of the Admiralty (NOUN) : ^cAsDRlDRs Wz|WsfD
+# the Court of the Admiralty (NOUN) : ^cUb Xc]bDUl
+# the First Lord of the Admiralty (NOUN) : ^cAsDGcU|D
+
+"admiration"
+% MATERIAL MIND
+(AbQ\bD)
+# in admiration of A (ADV) : (ADJUNCT [(OBJ A/WzI) Z|WZbD^b<VERB>]/^bWj)
+# note of admiration (NOUN) : AbQ\bDRs^l
+# to admiration (ADV) : ^sIIwW^bAg
+# with admiration (ADV) : AbQ\bD^bWj
+
+"admirer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsWRcXb)
+
+"admissibility"
+(^fWrW)
+
+"admission"
+% CONCRETE MATERIAL 
+(^fAb)
+# Admission Day (NOUN) : AbAXsWz| ^bRXsWAsA ZbQAb A|DjQW|I
+# admission fee (NOUN) : W|RXbWIr
+# admission temporaire (NOUN) : AbUsW|R^fAb
+# admission ticket (NOUN) : W|RXbWAsfD
+# charge admission (VERB) : W|RXbWIrIzI RbGGb
+# gain admission (VERB) : W|RXbWWzI ^fAbRbGGb
+# obtain admission (VERB) : W|RXbWWzI ^fAbRbGGb
+# ^give free admission to A (VERB) : [(OBJ A/WzI) (MODS [XbWwIl<ADV>]) W|RXbWU|[|<VERB>]/Gb
+# make an admission of the fact to a person (VERB) : UbU|IWzI DbQWgAg AlRcA^bGb
+
+"admittance"
+% CONCRETE MATERIAL 
+(W|RXbW)
+# No admittance (NOUN) : W|RXbWUbXfI
+
+"admixture"
+% MATERIAL 
+(^lD^bR)
+
+"admonisher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^sDAkXb)
+
+"admonishment"
+% CONCRETE MATERIAL ACTION
+(\bW|IzQ)
+
+"admonition"
+% CONCRETE MATERIAL ACTION
+(\bW|IzQ)
+
+"admonitor"
+% HUMAN ANIMAL
+(ZsWAlXb)
+
+"ado"
+% MATERIAL ACTION
+(UlGlW)
+# make much ado (VERB) : RfRUfAWzI HfIGb
+# have much ado (VERB) : RfRUfAWzI HfIGb
+# with much ado (ADV) : WdGbDRfRUfA^bQj
+# without more ado (ADV) : Az W|UbW RjIW|I WfRUW|
+
+"adobe"
+% CONCRETE MATERIAL 
+(WfGlR| XfQ\l)
+
+"adolescence"
+% CONCRETE MATERIAL 
+(ZfWDjDA|)
+
+"adolescency"
+(ZfWDjDA|)
+
+"adolescent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZfWDjD)
+
+"adoptee"
+% HUMAN ANIMAL 
+(WdWXb)
+
+"adopter"
+% HUMAN ANIMAL 
+(Zc\cAXb)
+
+"adoption"
+% MATERIAL ACTION
+(W|RWdW)
+# adoption agency (NOUN) : WdWXb WbIUfDA|AlbD
+
+"adorableness"
+(UsWRc^bI QbD^bQ)
+
+"adoration"
+% MATERIAL MIND
+(XlDAjW)
+
+"adorer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsWRcXb)
+
+"adornment"
+% CONCRETE MATERIAL 
+(BsQ|A|)
+
+"adrenal"
+% CONCRETE MATERIAL 
+(RsU|D)
+
+"adrenalin"
+% CONCRETE MATERIAL 
+(WbGzIgDbII|D)
+
+"adrenaline"
+% CONCRETE MATERIAL 
+(WbGzIgDbII|D)
+
+"adriamycin"
+(WbGzI|WbQbW|U|D)
+
+"adroitness"
+% MATERIAL STATE
+(UlQV|W|VWzQ)
+
+"adsorption"
+% MATERIAL 
+(^zRZbA)
+
+"adulation"
+% MATERIAL ACTION
+(WbZfQ)
+
+"adulator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbZfQBsD)
+
+"adult"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfWW|D)
+# adult only (NOUN) : UfWW|D XfDWrW
+# adult tooth (NOUN) : WjWAsZ|
+# mentally retarded adult (NOUN) : XfWU|DXfA Q|UfWUsA UfWW|D
+
+"adulterant"
+(^lD^bRQsI)
+
+"adulteration"
+% MATERIAL 
+(^lD^bR)
+
+"adulterator"
+% HUMAN ANIMAL
+(XlWdA]sQ XgXlXb)
+
+"adulterer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbDRs)
+
+"adulteress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbDRs)
+
+"adulterine"
+(XlWbA]sQ)
+
+"adultery"
+% MATERIAL 
+(AbD\lW)
+# ^commit adultery with A {+HUMAN} (VERB) : [(ADJUNCT A/Alb) AbD\lW^b<VERB>]/Gb
+
+"adulthood"
+% CONCRETE MATERIAL STATE
+(UfWW|DW|Q)
+# reach adulthood (VERB) : UfWW|DW| Gl|Gb
+
+"adumbration"
+(WwDAlbA QrUb)
+
+"adurol"
+(WbGwIlI)
+
+"advance"
+% CONCRETE MATERIAL 
+(XfDX|D)
+# advance refunding (NOUN) : UbXfDZbZg
+# be on the advance (VERB) : QsIAbAb WlIzDzD AjW^dWW|Gb
+# early advance (NOUN) : W|IzD WdAX|D
+# encourage a person's advances (VERB) : DbQWz| XfRAzDWzI XlXbW^bGb
+# in advance (ADV) : Q|I|
+# in advance before SENT (SUBCL->ADV) : [(ADJUNCT SENT/^bA|Wg) Wb]Uf<ADV>]
+# in advance of (ADV) : RlGb DbWbAbUf
+# in advance of A (ADV ADJ) : 1) (ADJUNCT [(ADJUNCT A/RlGb) Wb]Uf<VERB>]/^bWjUf) 
+                              2) [(ADJUNCT A/RlGb) Wb]Uf<VERB>]/Gb
+# great advance (NOUN) : UbWGbW^bD RbIXfD
+# repel a person's advances (VERB) : DbQWz| XfRAzDWzI QsII|Z|Gb
+
+"advancement"
+% CONCRETE MATERIAL 
+(RbIXfD)
+
+"advantage"
+% CONCRETE MATERIAL 
+(W|XfQ)
+# gain an advantage over a person (VERB) : DbQWzI DzWAb^bGb
+# win an advantage over a person (VERB) : DbQWzI DzWAb^bGb
+# ^take a person at advantage (VERB) : DbQWz| ^fIzI Y|IzGb
+# ^take advantage of A (VERB) : [(OBJ A/IzI) W|WrW^b<VERB>]/Gb
+	* [(OBJ A/IzI) UlAW|<VERB>]/Gb
+	* A (~ {+HUMAN})
+# ^take full advantage of A (VERB) : [(OBJ A/IzI) (MODS [XbI <ADV>]) W|WrW^b<VERB>]/Gb
+# to advantage (ADV) : WwI|^bAg
+# turn to advantage (VERB) : WwI|^bAg W|BzIGb
+# with advantage (ADV) : WwI|^bAg
+
+"advantageousness"
+% CONCRETE MATERIAL 
+(WwI|^bQ)
+
+"advent"
+% MATERIAL 
+(ZsI^jD)
+
+"adventism"
+% ART
+(AzI|UzGl XcI|QUfI)
+
+"adventismist"
+% HUMAN ANIMAL
+(AzI|UzGl XcI|QIlDXb)
+
+"adventure"
+% MATERIAL 
+(Ql^fQ)
+
+"adventurer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Ql^fQAb)
+
+"adventuress"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WjXb Ql^fQAb)
+
+"adventurism"
+% ART
+(Ql^fQXsWz|)
+
+"adventurismist"
+% HUMAN
+(Ql^fQXsWz|Xb)
+
+"adventurist"
+% HUMAN
+(WjUfW Ql^fQAb)
+
+"adventurousness"
+% CONCRETE MATERIAL 
+(Ql^fQWzI Xl^Wb^bDzD AfU)
+
+"adverb"
+% MATERIAL 
+(RsUb)
+# interrogative adverb (NOUN) : Wz|QsD RsUb
+# relative adverb (NOUN) : AlbDAkRsUb
+
+"adversary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfA)
+# the Adversary (NOUN) : WbAQb
+
+"adversative"
+(RbDWz|Wf)
+
+"adverseness"
+(RbDGc)
+
+"adversity"
+% MATERIAL STATE
+(WjAAjW)
+
+"advertence"
+% MATERIAL 
+(XsWz|)
+
+"advertency"
+% MATERIAL 
+(XsWz|)
+
+"advertisement"
+% CONCRETE MATERIAL ACTION
+(AlbWAl)
+# advertisement column (NOUN) : AlbWAlIbD
+# advertisement mail (NOUN) : AlbWAlWs]jD
+# ^put an advertisement in A (VERB) : [(ADJUNCT A/Wg) (OBJ [AlbWAl<NOUN>]/IzI)
+ Dc<VERB>]/Gb
+# ^insert an advertisement in A (VERB) : [(OBJ A/Wg) (OBJ [AlbWAl<NOUN>]/IzI)
+ Dc<VERB>]/Gb
+
+"advertiser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlbWAlXb)
+
+"advertising"
+% CONCRETE MATERIAL ACTION
+(AlbWAl)
+# ONE_S advertising (NOUN) : [(POSS ONE/Wz|) AlbWAl<NOUN>] 
+# a magazine advertising (NOUN) : XbRX| AlbWAl
+# advertising department (NOUN) : AlbWAl RsUf
+# competitive advertising (NOUN) : AjWXcWXfAAlbWAl
+# misleading advertising (NOUN) : ^fWs|AlbWAl
+
+"advertizement"
+% ACTION
+(AlbWAl)
+# advertizement column (NOUN) : AlbWAlIbD
+# advertizement mail (NOUN) : AlbWAlWs]jD
+
+"advertizing"
+% MATERIAL ACTION
+(AlbWAl)
+# a magazine advertizing (NOUN) : XbRX| AlbWAl
+# advertizing department (NOUN) : AlbWAl RsUf
+
+"advice"
+% CONCRETE MATERIAL ACTION
+(ZsWAl)
+# act on advice (VERB) : ZsWAlWg HbIzGb
+# advice and pay (NOUN) : \lWX|RsI
+# advice of arrival (NOUN) : GlZbA\lWX|
+# advice slip (NOUN) : \lWX|XfD]r
+# by a person's advice (ADV) : DbQWz| ZsWAlIzI RbGAl
+# on a person's advice (ADV) : DbQWz| ZsWAlIzI RbGAl
+# follow a person's advice (VERB) : DbQWz| AsfDAlIzI HbIzGb
+# give a person a piece of advice (VERB) : DbQWgAg ^bDQbG| ZsWAl^bGb
+# give a person a bit of advice (VERB) : DbQWgAg ^bDQbG| ZsWAl^bGb
+# give a person a word of advice (VERB) : DbQWgAg ^bDQbG| ZsWAl^bGb
+# take a person's advice (VERB) : DbQWz| ZsWAlIzI RbGWbGzIW|Gb
+
+"advisabilitiy"
+(AsfD^bI QbD^bQ)
+
+"advisableness"
+(RbIbQX|A^bQ)
+
+"advisee"
+% HUMAN
+(X|GlRbGDzD ^bAUcW)
+
+"advisement"
+% CONCRETE MATERIAL 
+(UsAAl)
+
+"adviser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZsWAlXb)
+# legal adviser (NOUN) : RfRIwI AlQsD
+# student adviser (NOUN) : ^bAUcW X|Gl UfDUcW
+
+"advisor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZsWAlXb)
+# legal advisor (NOUN) : RfRIwI AlQsD
+
+"advocacy"
+% CONCRETE MATERIAL ACTION
+(X|X|)
+
+"advocate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjDIlDXb)
+# Judge Advocate (NOUN) : RfRQsAlbD
+# Lord Advocate (NOUN) : AfQZbIZlWXbW
+# free market advocate (NOUN) : XbWwU|XbW WlW^lIlDXb
+
+"advocator"
+% HUMAN
+(XsZbWXb)
+
+"advowson"
+(QlAUbXsZfDAsfD)
+
+"adynamia"
+% STATE
+(Ul|WdA)
+
+"adytum"
+(WbDYlA)
+
+"adz"
+% CONCRETE ANIMAL MATERIAL 
+(UlDGlB|)
+
+"adze"
+% CONCRETE ANIMAL MATERIAL 
+(UlDGlB|)
+
+"aeger"
+(X|DGbDUf)
+
+"aegis"
+% CONCRETE ANIMAL MATERIAL 
+(RbW]c)
+
+"aegrotat"
+(X|DGbDUf)
+
+"aeolic"
+(W|WlII|Wb Ub\sI|)
+
+"aeolipile"
+(^l|XfDXbWZ|)
+
+"aeolipyle"
+(^l|XfDXbWZ|)
+
+"aeon"
+% CONCRETE MATERIAL TIME
+(WjWAs)
+
+"aeration"
+(AlWA|Wg Vl|Q)
+
+"aerator"
+(\lW]sWA|)
+
+"aerial"
+% CONCRETE ANIMAL MATERIAL 
+(WbD\gDb)
+
+"aerialist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWXsW AlAWkUb)
+
+"aeriality"
+(AlWA| Ab\WzD UfWX|I)
+
+"aerie"
+(Dl]WzD AlUWg W|VDzD GsWX|)
+
+"aerification"
+(AlWA|IzI ZcWsA|)
+
+"aero"
+(^bWAlWA|)
+
+"aeroballistics"
+% ART
+(^bWAlW \bDGl^bA)
+
+"aerobatics"
+% MATERIAL ACTION
+(AlAWk R|^cW)
+
+"aerobe"
+% CONCRETE ANIMAL MATERIAL 
+(^lA|UfW UgAwD)
+
+"aerobee"
+(U|D^jW Il[gU)
+
+"aerobics"
+% MATERIAL 
+(WgWfIlR|AUz)
+
+"aerobiology"
+(GcA|AsfD UcWQsI^bA)
+
+"aeroboat"
+(R|^cW XfW)
+
+"aerobomb"
+(]lAAjA\bD)
+
+"aerobus"
+(WjAcAA|)
+
+"aerocade"
+(R|^cWA| ]jDGc)
+
+"aerocamera"
+(^bWAlW UbX|DA|)
+
+"aerocraft"
+(^bWAlWA|)
+
+"aerocycle"
+(Ul^jW ^gII|[lR\f)
+
+"aerodrome"
+% CONCRETE ANIMAL MATERIAL 
+(AlW^bW)
+
+"aerodynamics"
+% ART
+(A|Zg WjA^bA)
+
+"aerodyne"
+(XsW ^bWAlWA|)
+
+"aeroembolism"
+% MATERIAL STATE
+(AlWA| UcAXfDXzW)
+
+"aerofoil"
+% CONCRETE ANIMAL MATERIAL 
+(DbIAc)
+
+"aerogram"
+% CONCRETE MATERIAL 
+(QsUfD XfDRl)
+
+"aerograph"
+(QsUfDXfDU|D)
+
+"aerographer"
+(UbWAlW A|UbW AlbDZzARjW)
+
+"aerogun"
+(AlUb]l)
+
+"aerohydroplane"
+(UsUbW R|^cWA|)
+
+"aerolite"
+% CONCRETE MATERIAL 
+(WsDUfA)
+
+"aerolith"
+(WsDUfA)
+
+"aerologist"
+% HUMAN
+(A|UbW QsII|^bAXb)
+
+"aerology"
+% ART
+(A|UbWQsII|^bA)
+
+"aeromap"
+(R|^cW X|Gl)
+
+"aeromechanic"
+% HUMAN
+(R|^cWA| A|UsIXb)
+
+"aeromechanics"
+% MATERIAL ART
+(^bWAlW WjA^bA)
+
+"aeromedicine"
+% ART
+(^bWAlW Wz|^bA)
+
+"aerometer"
+(WdWA|Ak)
+
+"aerometry"
+(A|Zg ZzAXfW)
+
+"aeromobile"
+(AlWXsW XbGlWZb)
+
+"aeronaut"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|^cWUfD XlXlWUb)
+
+"aeronautics"
+% MATERIAL ART
+(^bWAlWUsI)
+
+"aeronomy"
+% ART
+(ZlAlZzW GcA| QsII|^bA)
+
+"aeropause"
+(GcA| AkQjD)
+
+"aerophone"
+(AlWXsW QsUfD XfD^lbA|)
+
+"aerophotography"
+% ART
+(^bWAlW UbX|DUsI)
+
+"aeroplane"
+% CONCRETE ANIMAL MATERIAL 
+(R|^cWA|)
+# by aeroplane (ADV) : R|^cWA|Il
+# take aeroplane (VERB) : R|^cWA|Wg \bGb
+
+"aeropolitics"
+% ACTION
+(AsAXg ^bWAlW XfWZcA)
+
+"aerosol"
+% CONCRETE MATERIAL 
+(WgWfIlUlI)
+
+"aerospace"
+% PLACE
+(WsXs)
+
+"aerostat"
+(AjW ^bWAlWA|)
+
+"aerostation"
+(AjWA|As XlXlW)
+
+"aerotherapy"
+(AlWA| Z|IrRfR)
+
+"aerotrain"
+(WgWfIl \zIgW|D)
+
+"aeroview"
+(AlWXsW RsAbQGl)
+
+"aery"
+(R|^jDU|IXfAW|D)
+
+"aesthete"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WwQ|XsWz|Xb)
+
+"aestheticism"
+% ART
+(WwQ|XsWz|)
+
+"aesthetics"
+% MATERIAL ART
+(Q|^bA)
+
+"aestivation"
+(^bQjD)
+
+"aetiology"
+% MATERIAL ART
+(WsfDW|DIlD)
+
+"afateware"
+(QbDlZfIfQ RlW|Ag WgDbQgIWzI Z|I^bD Ul|AzIzU)
+
+"affability"
+% CONCRETE MATERIAL 
+(Rs\W|QUfWW| W|VWzQ)
+
+"affair"
+% CONCRETE MATERIAL 
+(UbAfD)
+# an affair of honor (NOUN) : AjI\s
+# a man of affairs (NOUN) : UbQsAb
+# a pretty state of affair (NOUN) : QlRU| DbDZf^bD UbW\c
+# economic affairs (NOUN) : AjWXg QsDXg
+# human affair (NOUN) : UbIbQW|I
+# love affair (NOUN) : WjDWc AlbDAk
+# love affair with A (NOUN) : [(ADJUNCT A/WlbWz|) UbIbW<NOUN>]
+# the state of affairs (NOUN) : Ub\c
+# wind up ONE_S affairs (VERB) : WfRQs Gs| ZfI|IzI ^bGb
+
+"affect"
+% MATERIAL 
+(WjW^dW)
+
+"affectation"
+% CONCRETE MATERIAL 
+(W|DZg^bA|)
+# without affectation (ADV) : UlIX|A^|
+
+"affection"
+% CONCRETE MATERIAL MIND
+(WcXfW)
+
+"affiance"
+% MIND
+(U|DIl|)
+
+"affiant"
+% HUMAN
+(UfDUf AsUsIUf XbAUfWXb)
+
+"affidavit"
+% CONCRETE MATERIAL 
+(UfDUf AsUsIUf)
+# affidavit of support (NOUN) : XcXfW RlXzWUf
+# swear an affidavit (VERB) : AsUsIUfWg AfX|UW| WfRUWzQWzI UfDUf^bGb
+# make an affidavit (VERB) : AsUsIUfWg AfX|UW| WfRUWzQWzI UfDUf^bGb
+# take an affidavit (VERB) : AsUsIUfWg AfX|UW| WfRUWzQWzI UfDUf^bGb
+# take an affidavit (VERB) : AsUsIUfIzI RbGGb
+
+"affiliate"
+% ORGAN
+(AlbDAk GbDZg)
+
+"affiliation"
+% CONCRETE MATERIAL 
+(W|R^l|)
+
+"affinity"
+% CONCRETE MATERIAL 
+(Z|DQ|I^bQ)
+
+"affirmance"
+(AzWXfW)
+
+"affirmant"
+(^lbAWfDXb)
+
+"affirmation"
+% CONCRETE MATERIAL 
+(^lbAWfD)
+
+"affirmative"
+% CONCRETE MATERIAL 
+(AzWXfW)
+# answer in the affirmative (VERB) : AzWXfW^bGb
+
+"affix"
+% MATERIAL 
+(RsZbA)
+
+"affixture"
+(ZfQAbQsI)
+
+"afflatus"
+(WjWAbQ)
+
+"affliction"
+% MATERIAL MIND
+(AlDl|)
+
+"affluence"
+% MATERIAL STATE
+(]sWWr)
+
+"afflux"
+(WwW|R)
+
+"afforestation"
+(XlI|Q)
+
+"affranchisement"
+% STATE
+(^cRbW)
+
+"affray"
+% CONCRETE MATERIAL ACTION
+(VbWsQ)
+
+"affricate"
+% MATERIAL 
+(]bZbIWzQ)
+
+"affricative"
+% MATERIAL 
+(]bZbIWzQ)
+
+"affright"
+% MIND
+(AlW]l)
+
+"affront"
+% CONCRETE MATERIAL MIND
+(QlWrA)
+# put an affront upon (VERB) : QlWrA^bGb
+# offer an affront to (VERB) : QlWrA^bGb
+# suffer an affront (VERB) : QlWrA GbW^bGb
+
+"affusion"
+% MATERIAL 
+(AlbDUsU|A)
+
+"afghan"
+% CONCRETE MATERIAL HUMAN
+(Wb]zAbD|Uz\bD UbIbQ) 
+
+"afghani"
+% CONCRETE UNIT MATERIAL 
+(Wb]zAbD|Uz\bDWz| ^lb]kGbDWs|)
+
+"africa"
+% PLACE
+(Wb]zI|[b)
+
+"africanism"
+(Wb]zI|[bQbI\s)
+
+"afrikaans"
+(]rXsD DgGfIIbDGzQbI)
+
+"afrikander"
+% HUMAN
+(DbQWb]zI|[b \cUcWWz| RcAW|D)
+
+"afrikaner"
+% HUMAN
+(DbQWb]zI|[b \cUcWWz| RcAW|D)
+
+"afro"
+% CONCRETE MATERIAL 
+(Wb]zI|[b ^zAW|DU|A ^gWfUz\bW|I)
+
+"afro-american"
+% HUMAN
+(WbQgI|[b ^zAW|D)
+
+"afro-americanese"
+(WbQgI|[b ^zAW|D WjWWf)
+
+"after-recording"
+(ZlbIWjW^s DlAWzQ)
+
+"after-tax"
+(Ug^s)
+
+"afterbirth"
+% CONCRETE MATERIAL HUMAN
+(WwRlAXb)
+
+"afterbody"
+(GlWZg)
+
+"afterbrain"
+% ANIMAL
+(^sDl|)
+
+"afterburner"
+% CONCRETE ANIMAL MATERIAL 
+(^sA| WjDUlA|)
+
+"afterburning"
+(XcWjDUl)
+
+"aftercare"
+% ACTION
+(Ub^sZfI|)
+
+"afterclap"
+% STATE
+(HzURbBWz| AjIAlb)
+
+"aftercost"
+(Ub^sWz| R|WrW)
+
+"aftercrop"
+(AzIsAbIW|)
+
+"afterdamp"
+(^sRbIAbUz)
+
+"aftereffect"
+(Wj]b)
+
+"afterglow"
+(XfDjADlI)
+
+"aftergrass"
+(AzIsAbIW|)
+
+"aftergrowth"
+(GsRfDYc DbDzD AfU)
+
+"afterimage"
+(XbDUbW)
+
+"afterlife"
+% CONCRETE MATERIAL TIME
+(DcUg)
+
+"afterlight"
+(XfDjADlI)
+
+"aftermarket"
+(UsI|WrW]sQ U|XbW)
+
+"aftermath"
+% MATERIAL 
+(Wj]b)
+
+"afternoon"
+% CONCRETE TIME MATERIAL 
+(Wl^s)
+
+# early that afternoon (NOUN ADV) : AzDbI Wl^s W|IY|A 
+# early this afternoon (NOUN ADV) : WlDzI Wl^s W|IY|A 
+# every afternoon (NOUN ADV) : QcW|I Wl^s
+# in the afternoon (PP->ADV) : Wl^sWg
+# late afternoon (NOUN ADV) : DzXWzD Wl^s {+RESTRIC}
+# later that afternoon (ADV) : AzDbI Wl^s DzXAg
+# later this afternoon (ADV) : WlDzI Wl^s DzXAg
+# one afternoon (NOUN ADV) : WfDz Wl^s {+RESTRIC} 
+# that afternoon (NOUN ADV) : AzDbI Wl^s {+RESTRIC}
+# this afternoon (NOUN ADV) : WlDzI Wl^s {+RESTRIC}
+# tomorrow afternoon (NOUN ADV) : DcW|I Wl^s {+RESTRIC}
+# yesterday afternoon (NOUN ADV) : WfXg Wl^s {+RESTRIC}
+# Monday afternoon (NOUN ADV) : WsfIWrW|I Wl^s
+# Tuesday afternoon (NOUN ADV) : ^lbWrW|I Wl^s
+# Wednesday afternoon (NOUN ADV) : UsWrW|I Wl^s
+# Thursday afternoon (NOUN ADV) : QlAWrW|I Wl^s
+# Friday afternoon (NOUN AD) : AzQWrW|I Wl^s
+# Saturday afternoon (NOUN ADV) : \lWrW|I Wl^s
+# Sunday afternoon (NOUN ADV) : W|IWrW|I Wl^s
+"afternooner"
+(UfAAbD)
+
+"afterpains"
+% STATE
+(UbD^sWz| X|D\lW)
+
+"afterpiece"
+(YbIQbA^bD ^z|AzA)
+
+"aftershock"
+% MATERIAL 
+(WjX|D)
+
+"aftertaste"
+(Gs|UQbU)
+
+"afterthought"
+(HcDzXWzD UcWAbA)
+
+"aftertime"
+% TIME
+(^sUDbI)
+
+"afterward"
+% TIME
+(DcUg)
+
+"afterwards"
+% TIME
+(DcUg)
+
+"afterwit"
+(Gs|UAsWI|)
+
+"afterword"
+% TIME
+(^sA|)
+
+"afterworld"
+% TIME
+(^sUg)
+
+"afteryears"
+% TIME
+(QbDDjD)
+
+"aga"
+(AlAlbD)
+
+"agamogenesis"
+(QsUfW UcWU|A)
+
+"agape"
+% MIND
+(GlW]lWc)
+
+"agar"
+% CONCRETE MATERIAL PLANT FOOD
+(WsQsUAbUbI|)
+
+"agar-agar"
+% CONCRETE MATERIAL PLANT FOOD
+(WsQsUAbUbI|)
+
+"agaric"
+% PLANT FOOD
+(UfWdWUlWW|)
+
+"agate"
+% MATERIAL 
+(QbDl)
+
+"agave"
+% CONCRETE PLANT MATERIAL 
+(WrWUfIIbD)
+
+"age"
+% CONCRETE MATERIAL TIME
+(DbW|)
+# ONE_S old age (NOUN) : DlDjD
+# age of Discovery (NOUN) : AcZfAU|Gc
+# age of discovery (NOUN) : AcZfAU|Gc
+# at the age of NUM1 (PP->ADV) : (ADJUNCT [(NMODS NUM1 {+DGTNUM}) Ug<NOUN>]/Wg)
+# ^be about ONE_S age $ (VERB->ADJ) : [(POSS ONE/Wz|) DbW|W|<ADJ>]/Gb
+# computer age (NOUN) : [fQ]w\f U|Gc
+
+# for ONE_S age (PP->ADV) : (ADJUNCT [(COMP [(POSS ONE/Wz|) DbW|<NOUN>]/Wg) R|^b<VERB>]/WfUf)
+# for ages (PP->ADV) : QjZDjDAbD
+# ice age (NOUN) : R|W^bU|Gc
+# in all ages (ADV) : WkDb X|AzQW|Db 
+# ^live in an age $ (VERB) : ^bDU|GcWg UbIGb
+# machine age (NOUN) : A|Ak U|Gc
+# modern age (NOUN) : ^jDGc
+# present age (NOUN) : ^jDGc
+# the age of A {-HUMAN} (NOUN) : [(POSS A/Wz|) U|Gc<NOUN>] 
+* [(POSS A/Wz|) DbW|<NOUN>] 
+* A (earth X|As)
+# the age of NUM1 {-ORDNUM} (NOUN) : [(NMODS NUM1{+DGTNUM}) UbI<NOUN>]
+# the age of consent (NOUN) : UzWDbA WjDIjW
+# the age of discretion (NOUN) : RsDRjI WjDIjW
+# the atomic age (NOUN) : WsfDXb U|Gc
+# with age (ADV) : DlIjW \bUWzIl
+
+"agedness"
+% CONCRETE MATERIAL 
+(DlIjW)
+
+"ageing"
+(Dl^lb)
+
+"ageism"
+% ART
+(DlW|D ZbRjI)
+
+"agency"
+% MATERIAL HUMAN
+(Gc^cWXb)
+# agency agreement (NOUN) : GcI|XfQAwWdA
+# agency loan (NOUN) : GcI|GcRs
+# agency marketing (NOUN) : ]bDQcGcI|XfQ
+# agency shop (NOUN) : Xl^bRGcI|AlWXbW
+# defense agency (NOUN) : RbWWs|RlDRs
+# intelligence agency (NOUN) : XfWRlA|AlbD
+# planning agency (NOUN) : A|^l|AAsA
+# transit agency (NOUN) : Ar\lWA|AlbD
+
+"agenda"
+% MATERIAL 
+(^jRWz| Ub^bW)
+
+"agendum"
+(^jRWz| Ub^bW)
+
+"agene"
+(UbQWjQ^lb X|IUl)
+
+"agent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WgW|XfD\z)
+# advertising agent (NOUN) : AlbWAlGcI|WfR
+# agent commission (NOUN) : GcI|XfQUsUsIr
+# agents of production (NOUN) : UcWUbDWrUl
+# buying agent (NOUN) : AsQcGcI|XfQ
+# clearing agent (NOUN) : GcI|Ar^lbDWzD^cW
+# co-authenticating agent (NOUN) : WjDUfGcI|W|D
+# collecting agent (NOUN) : UsAzQGcI|W|D
+# countersigning agent (NOUN) : RsUfGcI|W|D
+# del credere agent (NOUN) : QcXsX|RsIDzWIjARlXzWGcI|W|D
+# distributing agent (NOUN) : ]bDQcGcI|XfQ
+# forwarding agent (NOUN) : \lWWsDWfRXb
+# general agent (NOUN) : ZlWGcI|XfQ
+# insurance agent (NOUN) : Rl^fQGcI|XfQ
+# ticket agent (NOUN) : Qc]r ^l|Ub
+
+"agglomeration"
+% MATERIAL 
+(WzWX|RXbAWrW)
+
+"agglutination"
+% MATERIAL 
+(ArZbA)
+
+"aggrandizement"
+% MATERIAL 
+(XzWGc)
+
+"aggravation"
+% CONCRETE MATERIAL 
+(WbA^lb)
+
+"aggravator"
+(GfWsA WbA^lbU|[|DzD AfU)
+
+"aggregate"
+% CONCRETE MATERIAL 
+(X|R^bR)
+# in the aggregate (ADV) : XfDZgIlUf
+
+"aggregation"
+% MATERIAL 
+(X|R^bR)
+
+"aggression"
+% CONCRETE MATERIAL ACTION
+(Z|QIdA)
+$ aggression by A (NOUN) : [(ADJUNCT A/Wz|) Z|QIdA<NOUN>]
+
+"aggressiveness"
+% CONCRETE MATERIAL 
+(AlWAjAUfW)
+
+"aggressor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Z|QIdAXb)
+
+"agility"
+% CONCRETE MATERIAL 
+(A|Q|D)
+
+"aging"
+(Dl^lb)
+
+"agio"
+% MATERIAL ECOLIFE
+(^lbDAzQ UsUsIr)
+# agio theory (NOUN) : W|XbXsW|DU|ZbUfI
+
+"agiotage"
+% ECOLIFE
+(^lbDXfDWfR)
+
+"agitation"
+% MATERIAL 
+(GlWWr)
+
+"agitator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfDGlWXb)
+
+"agitprop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UfDGlWAlb UfDXfD)
+
+"aglet"
+% CONCRETE MATERIAL 
+(XbWU|A Ul|Rs\W|)
+
+"agnail"
+(UlDAfUzIfQ|)
+
+"agnate"
+% CONCRETE MATERIAL HUMAN
+(RsAkZ|DXlA)
+
+"agnation"
+% CONCRETE MATERIAL HUMAN
+(DbQAk Z|DXlA)
+
+"agnomen"
+(DgYc W|IzQ)
+
+"agnostic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsIAbX|IlDXb)
+
+"agnosticism"
+% MATERIAL ART
+(RsIAbX|IlD)
+
+"agony"
+% MATERIAL MIND
+(Al\lW)
+# the Agony (NOUN) : UsDbDXfD AzI|UzGlWz| AlQ|D
+
+"agoraphobia"
+% MATERIAL MIND
+(AlbWXbW AlW]lXzW)
+
+"agouti"
+% CONCRETE ANIMAL MATERIAL 
+(GzIXs|)
+
+"agouty"
+% ANIMAL
+(GzIXs|)
+
+"agraffe"
+(XbAWzD BfAUl|)
+
+"agrarian"
+% HUMAN
+(\lX| AwDRsD IlDXb)
+
+"agrarianism"
+% ART
+(\lX| AwDRsDIlD)
+
+"agreeableness"
+% CONCRETE MATERIAL 
+(XfA^bR)
+
+"agreement"
+% ACTION STATE MIND
+(GlWWz|)
+# ^arrive at an agreement (VERB) : ^jRXfWW| UfWI|RGl|Gb
+# ^be in agreement | (VERB) : GlWWz|^bGb
+# ^be in agreement with A (VERB) : [(ADJUNCT A/Wlb) W|IZ|^b<VERB>]/Gb
+# ^be in good agreement with A (VERB) :
+	[(ADJUNCT A/Wlb) (MODS [XbI<ADV>]) W|IZ|^b<VERB>]/Gb
+# ^be in agreement over A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/Wf) GlWWz|^b<VERB>]/Gb
+# ^be in substantial agreement over A (VERB) :
+[(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/Wf) (ADJUNCT [A|RlDXfA<NOUN>]/Il) GlWWz|^b<VERB>]/Gb
+# bilateral agreement (NOUN) : VbWQs^jRXfW
+# bilateral clearing agreement (NOUN) : VbWQsXfA XfWUbD^jRXfW
+# by agreement (PP->ADV) : ^bRWz|Il
+# by mutual agreement (PP->ADV) : ^bRWz|Il
+# ^come to an agreement (VERB) : ^jRXfWW| UfWI|RGl|Gb
+# ^come to an agreement on A (VERB) : [(ADJUNCT A/WgGc^bD) (OBJ [^jRXfW<NOUN>]/WzI) QcX<VERB>]/Gb
+# gentleman's agreement (NOUN) : U|DUb^jRXfW
+# in agreement with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) W|IZ|^b<VERB>]/^bWj)
+# in good agreement with A (PP->ADV) : (ADJUNCT [(ADJUNCT A/Wlb) (MODS [XbI<ADV>]) W|IZ|^b<VERB>]/^bWj)
+# ^make an agreement (VERB) : ^bRWz|^bGb
+# ^make an agreement with A (VERB) : [(ADJUNCT A/Alb) (OBJ [AkWdA<NOUN>]/WzI) QcX<VERB>]/Gb
+# peace agreement (NOUN) : ]jW^lb ^jRXfW
+# ^reach an agreement (VERB) : GlWWz|^bGb
+# strategic agreement (NOUN) : XfDIdAXfA Xg^w
+# three-way agreement (NOUN) : 3Xb ^bRWz|
+
+"agribusiness"
+% MATERIAL 
+(DlWWfR AlbDIjDUbDWfR)
+
+"agrichemical"
+(DlWWdA)
+
+"agriculture"
+% MATERIAL 
+(DlWWfR)
+
+"agriculturist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlWWfR XlWUbXb)
+
+"agrimony"
+% MATERIAL PLANT
+(X|]U|DDbQsI)
+
+"agrimotor"
+(DlWAjWWrW \zIcA\f)
+
+"agro-industry"
+(DlWUbDWfR)
+
+"agrobiology"
+% ART
+(DlWWfR UcWQsI^bA)
+
+"agronomics"
+% ART
+(DlW^bA)
+
+"agronomist"
+% HUMAN
+(DlWAjW^bAXb)
+
+"agronomy"
+% ART
+(DlWAjWRfR)
+
+"agrotechny"
+% ART
+(DlWUbDQsI AbAlW^bA)
+
+"ague"
+% CONCRETE MATERIAL STATE
+(^bAX|I)
+
+"ahimsa"
+% ART
+(R|]lAIjA)
+
+"ai"
+% CONCRETE ANIMAL MATERIAL 
+(UgUlDAbIbADbQsDzIRl)
+
+"aid"
+% CONCRETE MATERIAL 
+(GlWsQ)
+# aid station (NOUN) : AsAzRZ|IrUl
+# bilateral aid (NOUN) : W|AsAAbDWsfDXl
+# ^call in ONE_S aid (VERB) :  [(OBJ [(POSS ONE/Wz|) GlWsQ<NOUN>]/WzI) ZfW^b<VERB>]/Gb
+# ^come to ONE_S aid (VERB) : 
+[(ADJUNCT [(COMP [(OBJ ONE/WzI) GlR<VERB>]/A|) Ws|^b<VERB>]/Wf) Wl<VERB>]/Gb
+# concessional aid (NOUN) : soft^bD XlAfDWg Wz|^bD ^jRXl
+# first aid (NOUN) : AsAzR Z|Ir
+# in aid of A (ADV) : (ADJUNCT [(OBJ A/WzI) GlRA| Ws|^b<VERB>]/^bWj)
+# with the aid of A (ADV) : (ADJUNCT [(POSS A/Wz|) GlWsQ<NOUN>]/Il)
+# by the aid of A (ADV) : (ADJUNCT [(POSS A/Wz|) GlWsQ<NOUN>]/Il)
+
+"aide"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsAlbD)
+# Gore aides (NOUN) : AlWfWz| RlXlbAlbD
+
+"aide-de-camp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsAlbD)
+
+"aidman"
+% HUMAN
+(Ws|UcWRjW)
+
+"aiglet"
+% CONCRETE MATERIAL 
+(XbWU|A Ul|Rs\W|)
+
+"aigret"
+% CONCRETE MATERIAL ANIMAL
+(RcAIl)
+
+"aigrette"
+% CONCRETE MATERIAL ANIMAL
+(RcAIl)
+
+"aiguille"
+% PLACE
+(SrXlASrXlA^bD RlWWsI|)
+
+"aiguillette"
+(XbWU|AUsI)
+
+"aileron"
+% CONCRETE ANIMAL MATERIAL 
+(RlXlDbIAc)
+
+"ailment"
+% MATERIAL STATE
+(RjW)
+
+"aim"
+% CONCRETE MATERIAL 
+(QlAXfA)
+# aim and end (NOUN) : AsWAzAWz| QlA]r
+# attain ONE_S aim (VERB) : AjDdWW| QbXGb
+# miss ONE_S aim (VERB) : AjDdWW| R|UDbAbGb
+# take aim (VERB) : AjDdW^bGb
+# take aim at A (VERB) : [(OBJ A/IzI) AjDdW^b<VERB>]/Gb
+# take a good aim (VERB) : AjDdW^bGb
+# with the aim of doing (ADV) : ^bI QlAXfAWzIl
+# without aim (ADV) : QlAXfAWfRUW|
+
+"aiming"
+(AjDdW)
+
+"aimlessness"
+(QlAXfAW| WfRUWzQ)
+
+"aino"
+% HUMAN
+(WbW|Ds)
+
+"ainu"
+% HUMAN
+(WbW|Ds)
+
+"air"
+% CONCRETE MATERIAL 
+(AlWA|)
+# air base (NOUN) : AlWAsDA|X| 
+# air conditioning (NOUN) : WgWf[fD
+# air contamination (NOUN) : GcA|WlWjQ
+# air France (NOUN) : WgWf ]zIbWUz
+# air of excitement (NOUN) : ^zWRsDGl|D RsDWs|A|
+# air letter (NOUN) : ^bWAlWWs]jD
+# air raid (NOUN) : AlWUzR 
+# air traffic control (NOUN) : ^bWAlW\lWXg
+# air transport (NOUN) : ^bWAlW
+# airs and graces (NOUN) : WdQXfD^bDZg ^bDzD \cGl
+# aristocratic air (NOUN) : As|XlAXfAW|D \cGl
+# ^assume airs (VERB) : XgDZg^bGb
+# ^beat the air (VERB) : ^fAlWWzI Z|Gb
+# ^build CASTLES in the air (VERB) : AlWUbWWg XbQA|Gb
+#' by air | (PP->ADV) : R|^cWA|Il
+# change of air (NOUN) : XfDX|
+# country air (NOUN) : AlXbWWz| AlWA|
+# float on air (VERB) : A|Sf DbIHs|Gb
+
+# ^give air to A (VERB) : [(OBJ A/IzI) RbI]r^b<VERB>]/Gb
+# ^give the air (VERB) : ^cAl^bGb
+# ^get the air (VERB) : GbW^bGb
+# ^give ONESELF  airs (VERB) : XgDZg^bGb
+# ^go up in the air (VERB) : ^zWRsD^bGb
+# ^grab a handful of air (VERB) : AzRRzIgW|[zIzI AfIGb # ^hit the air (VERB) : RbWUlW^bGb # hot air (NOUN) : WjIA|
+#' in the air $ (PP->ADV) : AlWXsWWgUf
+# in the open air $ (PP->ADV) : WlAWl|Wg
+#' off the air (PP->ADV) : RbWUlW Gl|X| WbD^DzD
+#' on air (PP->ADV) : Wz|A| WdWWdW^bWj
+# || on the air | (SENT) : RbWUlWXsW
+#' on the air (PP->ADV) : RbWUlWXsW
+# ^put on airs (VERB) : SlQDcGb
+# ^take the air $ (VERB) : Wl|ZsI^bGb
+# ^take to the air $ (VERB) : RbWUlW^bGb
+# ^tread on air $ (VERB) : A|Sf DbIHs|Gb
+# ^walk on air $ (VERB) : A|Sf DbIHs|Gb
+# up in the air $ (PP->ADV) : AlWXsWWg
+# with an air $ (PP->ADV) : XbU|DW|VAg
+# with a sad air $ (PP->ADV) : ]zIW| XsAWf
+
+"air-bridge"
+(AlWXsW AbAr)
+
+"air-conditioning"
+% CONCRETE ANIMAL MATERIAL 
+(AlWA| XlXfI DcWRbW XbWZ|)
+
+"air-cooling"
+% ART
+(AlWA| DcWAbARfR)
+
+"air-freight"
+(^bWAlWGcQsI)
+
+"air-raid"
+(AlWUzR)
+
+"airbag"
+(WgWfRcA)
+
+"airball"
+(WgWfRlI)
+
+"airboat"
+(]zIl]gIIf RlWs\z)
+
+"airbrush"
+(WgWfRzIfU|)
+
+"airbus"
+(WgWfRfUz)
+
+"aircast"
+(RbWUlW)
+
+"aircraft"
+% CONCRETE MATERIAL 
+(^bWAlWA|)
+
+"aircraftman"
+% HUMAN
+(^bWAlWRjW)
+
+"aircraftsman"
+% HUMAN
+(^bWAlWRjW)
+
+"aircrew"
+% HUMAN
+(^bWAlWA| \bRUzWWsfD)
+
+"airdrome"
+% CONCRETE ANIMAL MATERIAL PLACE
+(R|^cWXbW)
+
+"airdrop"
+(AlWXsW \s^b)
+
+"airedale"
+(WgWfGgW|I)
+
+"airer"
+(AfDXl XbWZ|)
+
+"airfare"
+(^bWAlW WrAzQ)
+
+"airfield"
+% CONCRETE ANIMAL MATERIAL PLACE
+(R|^cWXbW)
+
+"airfight"
+(AlWXsWXfD)
+
+"airflow"
+% MATERIAL 
+(A|Iw)
+
+"airfoil"
+% CONCRETE ANIMAL MATERIAL 
+(DbIAc)
+
+"airframe"
+(A|Zg)
+
+"airfreight"
+(^lbQsI AlWUs)
+
+"airfreighter"
+(^lbQsI UsUlWA|)
+
+"airglow"
+(WdAlbW)
+
+"airgraph"
+(^bWAlW ZsAUb Ws]jD)
+
+"airhead"
+(DbA^b ArGsRl)
+
+"airiness"
+% CONCRETE MATERIAL 
+(^lbDA|Ab XbI Gl|Q)
+
+"airing"
+% CONCRETE MATERIAL 
+(AlWA|Wg Vl|A|)
+
+"airlift"
+(AlWXsW RlAzR)
+
+"airline"
+% CONCRETE MATERIAL 
+(XfWA|^bWAlW)
+# airline Swiss (NOUN) : UzWs|Uz^bWAlW
+
+"airliner"
+% CONCRETE ANIMAL MATERIAL 
+(^bWAlWA|)
+
+"airmail"
+(^bWAlW Ws]jD)
+
+"airman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|^cWUb)
+
+"airmanship"
+% ART
+(R|^cWUsI)
+
+"airometer"
+(WdWA|Ak)
+
+"airpart"
+% PLACE
+(UlR|^cWXbW)
+
+"airplane"
+% CONCRETE MATERIAL 
+(R|^cWA|)
+
+"airplank"
+(RbI]bD)
+
+"airport"
+% CONCRETE MATERIAL PLACE
+(AlW^bW)
+# international airport (NOUN) : AsAXgAlW^bW
+# national airport (NOUN) : AsAXgAlW^bW
+
+"airscape"
+(AlWXsW RsAbQGl)
+
+"airscrew"
+% CONCRETE ANIMAL MATERIAL 
+(]zIl]gIIf)
+
+"airshed"
+% PLACE
+(^bWAlWA| AjADbRAl)
+
+"airship"
+% CONCRETE ANIMAL MATERIAL 
+(R|^cWUfD)
+
+"airsickness"
+% MATERIAL 
+(^bWAlWRjW)
+
+"airspace"
+(WjWAlW)
+
+"airspeed"
+(^bWUlA)
+
+"airstrike"
+(AlWUzR)
+
+"airstrip"
+% CONCRETE ANIMAL MATERIAL PLACE
+(AbUfI ^lbIXsIl)
+
+"airwave"
+(AlWXsW]b)
+
+"airway"
+% CONCRETE MATERIAL
+(^bWAlWIl)
+# airway bill (NOUN) : ^bWAlWXzWAsfD
+# the Imperial Airways (NOUN) : WjWAsA ^bWAlW ^l|Ub
+
+"airwoman"
+% HUMAN
+(WjIw R|^cWUb)
+
+"airworthiness"
+% STATE
+(Dc^bWUfW)
+
+"aisle"
+% CONCRETE MATERIAL PLACE
+(\lWIl)
+
+"ait"
+% PLACE
+(AbW UlAWz| XbAWzD UfQ)
+
+"aithbone"
+% ANIMAL
+(RlIA|Sj)
+
+"ala"
+% ANIMAL
+(DbIAc)
+
+"alabaster"
+% CONCRETE MATERIAL 
+(UfI^lbUfAAl)
+
+"alacrity"
+% CONCRETE MATERIAL 
+(Q|D^lbI)
+# with alacrity (ADV) : Q|D^lbI^|
+
+"alameda"
+% PLACE
+(AbIlUsA|I)
+
+"alamo"
+% PLANT
+(DfIRWzDW|] WdWRfGzI)
+
+"alamode"
+(WdIRWzD AfQWzD QjWXs)
+
+"alarm"
+% CONCRETE MATERIAL 
+(AjWRl)
+# ^give the alarm $ (VERB) : AjWRl^bGb
+# ^raise an alarm $ (VERB) : AjWRl^bGb
+#' in alarm $ (ADV) : DlIIbUf
+# ^ring the alarm $ (VERB) : AjWXlWWzI WsII|Gb
+# ^take alarm $ (VERB) : BbQYbA DlIIbGb
+# ^take the alarm $ (VERB) : BbQYbA DlIIbGb
+
+"alarmism"
+% MIND
+(A|Ws)
+
+"alarmist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AsDAfAXfW^bDzD UbIbQ)
+
+"alarum"
+(AjWRlA|)
+# alarums and excursions (NOUN) : DbD\s
+
+"alaskan"
+% HUMAN 
+(WbIIcUz[b UbIbQ)
+
+"alb"
+(XbWRcAWz|)
+
+"albacore"
+% CONCRETE ANIMAL MATERIAL 
+(GbIbWWf)
+
+"albata"
+(WdWWzD)
+
+"albatross"
+% CONCRETE ANIMAL MATERIAL 
+(AlIZ|UAfI|)
+
+"albiness"
+% HUMAN 
+(RcA]|XzWWg AfII|D WjXb)
+
+"albinism"
+% MATERIAL STATE
+(]|Rs UcAUl AjI]|RXzW)
+
+"albino"
+% HUMAN 
+(RcAW|D)
+
+"albion"
+(WcIR|WfD)
+
+"albite"
+(XlXbWUfA)
+
+"album"
+% CONCRETE MATERIAL 
+(WcIRfQ)
+
+"albumen"
+% CONCRETE MATERIAL 
+(WbIWz| ^z|DXbWs|)
+
+"albumin"
+% CONCRETE MATERIAL 
+(WbIRsQ|D)
+
+"albuminoid"
+% CONCRETE MATERIAL 
+(AjW GbDRcAX|I)
+
+"albuminuria"
+% STATE
+(GbDRcADrXzW)
+
+"alburnum"
+(RjDXc)
+
+"alcahest"
+(QbDQsI WwW^lbWcA)
+
+"alcaide"
+% HUMAN
+(WrUc UbIjWAlbD)
+
+"alcalde"
+% HUMAN
+(Xc]bDAlbDWzI AjQ^bD U|XbW)
+
+"alcayde"
+% HUMAN
+(WrUc UbIjWAlbD)
+
+"alchemist"
+% HUMAN
+(WjDAzQUsIUb)
+
+"alchemy"
+% MATERIAL 
+(WjDAzQUsI)
+
+"alcohol"
+% CONCRETE MATERIAL 
+(WbI[lI)
+
+"alcoholic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbI[lI XsWGlA ^lbDXb)
+# Alcoholics Anonymous (NOUN) : WbI[lI XsWGlA RbWX| ^jR^l|
+
+"alcoholism"
+% MATERIAL STATE
+(WbI[lI XsWGlA)
+
+"alcoholismist"
+% HUMAN 
+(WbI[lI XsWGlA ^lbDXb)
+
+"alcoholometer"
+(WbI[lI R|XsWAk)
+
+"alcometer"
+(Zs|GlAk)
+
+"alcoran"
+% ART
+([lIbD)
+
+"alcove"
+% CONCRETE MATERIAL 
+(XbAWzD RbW)
+
+"aldehyde"
+% CONCRETE MATERIAL 
+(WbIGg^|Gz)
+
+"alder"
+% CONCRETE MATERIAL PLANT
+(WlI|DbQs)
+
+"alderman"
+% HUMAN
+(U|Wz|^l| Wz|WsfD)
+
+"aldermanry"
+% HUMAN
+(U|Wz|^l| Wz|WsfDX|A)
+
+"alderney"
+% ANIMAL
+(WlWlIGfD| XlWWz| XfXUl)
+
+"aldershot"
+% ORGAN PLACE
+(RjWWjW)
+
+"ale"
+% CONCRETE MATERIAL FOOD
+(QcAXs)
+
+"aleconner"
+% HUMAN
+(XsIwAfQUbAlbD)
+
+"alegar"
+(WjUA|IzQZl)
+
+"alehouse"
+% PLACE
+(QcAXs ^lWlI)
+
+"alembic"
+(XzWIwA|)
+
+"alert"
+% CONCRETE MATERIAL 
+(AjWAl)
+
+"alertness"
+% CONCRETE MATERIAL 
+(R|D\zQWfRUWzQ)
+
+"aleut"
+% HUMAN
+(WfIIsWsUfD WjIGlWz| UbIbQ)
+
+"aleutian"
+% HUMAN
+(WfIIsWsUjD WjIGlWz| XsQ|D)
+# the Aleutian Islands (NOUN) : WjIIsWsUjD WjIGl
+
+"alewife"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(QcAXsX|R Wz| WbDXsW|D)
+
+"alexandrite"
+% MATERIAL 
+(WbIIgAUbDGf RlUfA)
+
+"alexia"
+% MATERIAL STATE
+(GlAUf RsIDzWXzW)
+
+"alexin"
+(WbIIgAU|D)
+
+"alexipharmic"
+(^cGlAXg)
+
+"alfalfa"
+% CONCRETE MATERIAL PLANT
+(XbXsAcXbI|)
+
+"algae"
+% CONCRETE ANIMAL MATERIAL PLANT
+(^cZl)
+
+"algebra"
+% MATERIAL ART
+(GcUs^bA)
+
+"algebraist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcUs^bAXb)
+
+"algerian"
+(WbIXgI|WbWz|)
+
+"algidity"
+(Wl^bD)
+
+"algol"
+(WbIAlI)
+
+"algologist"
+% HUMAN
+(XlIw^bAXb)
+
+"algology"
+% ART
+(XlIw^bA)
+
+"algometer"
+(\lWAbAAk)
+
+"algonkian"
+% HUMAN
+(WbIAlW[|WbD WfXlAWz| RsAQ| \lW|D)
+
+"algonkin"
+% HUMAN
+(WbIAlW[|WbD WfXlAWz| RsAQ| \lW|D)
+
+"algonquian"
+% HUMAN
+(WbIAlW[|WbD WfXlAWz| RsAQ| \lW|D)
+
+"algonquin"
+(WbIAlW[|WbD WfXlAWz| RsAQ| \lW|D)
+
+"algorism"
+(WbIbR|WbU|A A|UsRfR)
+# cipher in algorism (NOUN) : WjW
+
+"algorithm"
+% MATERIAL ART
+(WbIAlI|XzQ)
+
+"alguazil"
+% HUMAN 
+(AjWZbIAlbD)
+
+"algum"
+(RcAGbD)
+
+"alias"
+% MATERIAL 
+(RjIQjW)
+
+"alibi"
+% CONCRETE MATERIAL 
+(WbII|RbW|)
+
+"alidad"
+(U|XsDWz|)
+
+"alidade"
+(U|XsDWz|)
+
+"alien"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wl|AsAW|D)
+# alien property (NOUN) : Wl|AsAW|DXcUbD
+# ailen tax (NOUN) : Wl|AsAW|DW|RAsAUg
+
+"alienability"
+(WdWGl AbDzWUfW)
+
+"alienage"
+(Wl|AsAW|DW|Q)
+
+"alienation"
+% MATERIAL 
+(HbGlII|Q)
+
+"alienator"
+% HUMAN
+(UlWl|RbGDzD UbIbQ)
+
+"alienee"
+% HUMAN
+(WdWUsW|D)
+
+"alienism"
+% ART
+(XfWU|DRjW WjDAs)
+
+"alienist"
+% HUMAN
+(XfWU|DRjW XfDQsD Wz|Ub)
+
+"alienor"
+% HUMAN
+(WdWGlW|D)
+
+"alignment"
+% CONCRETE MATERIAL 
+(W|IIjI XfWIjI XfWGlD^bD UfD DlUfD UfIXfW)
+
+"aliment"
+% CONCRETE MATERIAL 
+(WjWWdWQsI)
+
+"alimentation"
+(WjWWdW)
+
+"alimentotherapy"
+(U|AW| WrRfR)
+
+"alimony"
+% MATERIAL 
+(RjIAf UsGbW)
+
+"alinement"
+% MATERIAL 
+(W|IIjI XfWIjI)
+
+"aliped"
+% ANIMAL 
+(W|AXlA GlWQsI)
+
+"aliquant"
+% CONCRETE MATERIAL 
+(DbDsI Us WfRUDzD Us)
+
+"aliquot"
+% CONCRETE MATERIAL 
+(DbDsI Us W|VDzD Us)
+
+"alizarin"
+(WbII|XbI|D)
+
+"alkahest"
+(QbDQsI WwW^lbWcA)
+
+"alkalescence"
+(WbI[bII|UfW)
+
+"alkali"
+% CONCRETE MATERIAL 
+(WbI[bII|)
+
+"alkalinity"
+(WbI[bII|UfW)
+
+"alkaloid"
+% CONCRETE MATERIAL 
+(WbI[bIIlW|Gz)
+
+"alkanet"
+(WbI[bDb)
+
+"alkoran"
+% ART
+([lIbD)
+
+"alky"
+(WbI[lWlI)
+
+"all"
+(QlGzD AfU)
+# all along (ADV) : XzA
+# all and sundry (NOUN) : AbAXb XfDRs
+# all at once (ADV) : QlGs GlWU|Wg
+
+# all in all (NOUN) : XfDRs
+# ^all of A (NOUN) : [(NMODS A) XfDRs<NOUN>] 
+* [(NMODS A) QlGs<NOUN>] 
+* A (~ {+HUMAN})
+# all gone (NOUN) : QcX|D
+# all over $ (ADV) : DfII|
+# all over the country (PP->ADV) : XfDAsAWg AfIZj
+# all over the shop (ADV) : ^lDIbD^bWj
+
+# all the further (NOUN) : AzAIjA
+# all the rage (ADV) : [zAgWw^cW^bWj
+# all the time (ADV) : AzUbW| XsA
+# all the way (ADV) : GlXsWDcDc
+# all together (ADV) : QlGs ^bQBg
+# all told (NOUN) : ZlWAk
+# all up (ADV) : RlIXbW GbRlWb
+# at all $ (ADV) : XfD^j
+# best of all (NOUN ADV) : 1) AbXbW Xl^WzD AfU 
+                           2) AbXbW
+# most of all (ADV) : QsWfURlGbGl
+# not at all $ (ADV) : XfD^j
+#' for all $ (PP->ADV) : AzIfQWgGl RsIAs^bAl
+# once for all (ADV) : W|RfDQbD
+
+"all-in"
+(DbD\s)
+
+"all-inclusive principle"
+(]lAlbIXsWz|)
+
+"all-outer"
+% HUMAN
+(ZfIXf XfWZcA XsZbWXb)
+
+"all-product"
+% CONCRETE MATERIAL
+(QlGzD Xg]sQ)
+
+"all-purpose"
+(QbDDzW)
+# all-purpose balance sheet (NOUN) : QbDDzWGcZbGcXl]r
+# all-round price (NOUN) : ]bAjAXfA XfI^bAbAjA
+
+"all-rounder"
+% HUMAN
+(QbDDzWWz| UbIbQ)
+
+"all-time"
+# all-time high (NOUN) : Zl|AlA|IlA
+# all-time low (NOUN) : Zl|XfA|IlA
+
+"all-up"
+(XfDR| XsWIdW)
+
+"allantois"
+(WrQbA)
+
+"allegation"
+% CONCRETE MATERIAL 
+(X|DUsI)
+
+"allegiance"
+% CONCRETE MATERIAL MIND
+(ZsWUfW)
+
+"allegorist"
+% HUMAN
+(]sWWwAb)
+
+"allegory"
+% CONCRETE MATERIAL 
+(]sWWw)
+
+"allelomorph"
+(UbWGc^jWX|I)
+
+"alleluia"
+(^bIIgIIsWd)
+
+"allelujah"
+(^bIIgIIsWd)
+
+"allemande"
+% CONCRETE MATERIAL 
+(WbIIgQbWGz)
+
+"allergy"
+% MATERIAL 
+(WbIIgIzA|)
+
+"alleviation"
+% CONCRETE MATERIAL 
+(AjWAbQ)
+
+"alleviative"
+(AjWAbQ U|[|DzD AfU)
+
+"alleviator"
+% HUMAN
+(AjWAbQ U|[|DzD UbIbQ)
+
+"alley"
+% CONCRETE MATERIAL ORGAN
+(GlWQcWAsA)
+
+"alley"
+% CONCRETE MATERIAL 
+(XlRWzDA|I)
+# up ONE_S alley (ADJ) : [Zs|Q|Wg QbX<VERB>]/Gb
+
+"alleyway"
+% CONCRETE MATERIAL PLACE
+(Gs|UAfI|)
+
+"allhallows"
+% TIME
+(QbDUfWXfI)
+
+"alliance"
+% CONCRETE MATERIAL ORGAN
+(GlWQcW)
+# Alliance for Progress (NOUN) : RbIXfDWzI Ws|^bD GlWQcW
+# the Holy Alliance (NOUN) : U|DUfW GlWQcW
+# a triple alliance (NOUN) : UbQAsA GlWQcW
+
+"alligation"
+(^lD^bRRfR)
+
+"alligator"
+% CONCRETE ANIMAL MATERIAL 
+(WbAWf)
+
+"alliteration"
+% CONCRETE MATERIAL 
+(GsWsD)
+
+"allium"
+(]bUlA)
+
+"allocation"
+% CONCRETE MATERIAL 
+(RcGbW)
+# allocation of resources (NOUN) : XbWsfDRcRsD
+
+"allocator"
+% HUMAN
+(RcGbWXb)
+
+"allocution"
+% ACTION
+(^sDU|)
+
+"allodium"
+(WlbDXfD UbWwX|)
+
+"allogamy"
+(\b^lbUsXfW)
+
+"allomerism"
+(W|X|I GlW^jW)
+
+"allomorphism"
+(GlWX|I W|Zg)
+
+"allonge"
+(Gc]|I)
+
+"allonym"
+(AbQjW)
+
+"allopathy"
+(GcXsW WrRfR)
+
+"allophane"
+(WcIIf]gW|D)
+
+"allophone"
+(W|WzQ)
+
+"allophylian"
+% HUMAN
+(WbI|WbDQ|Z UgQWfXlAWg UlA^bX| WbD^DzD UbIbQ)
+
+"allotment"
+% CONCRETE MATERIAL 
+(^bIGbW)
+# allotment letter (NOUN) : XsU|A^bIGbW \lWX|XbW
+
+"allotrope"
+(GlWUlZg)
+
+"allotropism"
+(GlWX|I W|Zg)
+
+"allotropy"
+(GlWX|I W|Zg)
+
+"allottee"
+% HUMAN
+(^bIGbWWzI RbGDzD UbIbQ)
+
+"allover"
+(XfDQjDWg AfIZ|D ZfD)
+
+"allowance"
+% CONCRETE MATERIAL 
+(^fWrW)
+# allowance demand (NOUN) : AbRUBbBA|
+# allowance for price increase (NOUN) : QsIAbUsGbW
+# allowance for uncollectable accounts (NOUN) : GcUlDZsWGbW
+# allowance for write-offs (NOUN) : AjIUlD^bIGbWAzQ
+# an allowance for long service (NOUN) : WjDAlWAbRlW
+# at no allowance (ADV) : ZsWRsD^|
+# family allowance (NOUN) : AbXlAUsGbW
+# make allowances for A (VERB) : [(OBJ A/WzI) ZbQXbA^b<VERB>]/Gb
+# retiring allowance (NOUN) : \l|X|AUsGbW
+
+"alloy"
+% MATERIAL 
+(^bRAzQ)
+
+"allseed"
+% PLANT
+(]sIV|)
+
+"allspice"
+% CONCRETE MATERIAL PLANT FOOD
+(]|QgD\lWs AlZs)
+
+"allure"
+% CONCRETE MATERIAL MIND
+(QcIjA)
+
+"allurement"
+% MATERIAL MIND
+(Ww^lA)
+
+"allurer"
+% HUMAN
+(Ww^lAXb)
+
+"allusion"
+% CONCRETE MATERIAL MIND
+(WbQU|)
+
+"alluvia"
+(ZsWXfAZzWGzI)
+
+"alluvion"
+% MATERIAL 
+(GzIW|Z|Q)
+
+"alluvium"
+(ZsWXfAZzW)
+
+"ally"
+% CONCRETE HUMAN ANIMAL MATERIAL ORGAN
+(GlWQcWAsA)
+# the Allies (NOUN) : WjD^bRAsA
+
+"allyl"
+(WbII|I)
+
+"alma"
+(Qs^z|)
+
+"almanac"
+% CONCRETE MATERIAL 
+(WjDAbQ)
+
+"almandine"
+(As|UfAIwUfA)
+
+"almandite"
+(As|UfAIwUfA)
+
+"almightiness"
+(XfDDzW)
+
+"almirah"
+(WlUXbW)
+
+"almond"
+% CONCRETE MATERIAL PLANT FOOD
+(WbQlDGz)
+
+"almoner"
+(Wz|IrAlbDIjD Ub^l|RlAX|Ub)
+
+"almonry"
+(U|QsI RsDRcUl)
+
+"alms"
+% MATERIAL 
+(As^l]sQ)
+
+"almsdeed"
+(XbUfD ^cWWs|)
+
+"almsgiver"
+% HUMAN
+(XbUfDAb)
+
+"almsgiving"
+(XbUfD)
+
+"almshouse"
+(AsR|DWsfD)
+
+"almsman"
+% HUMAN
+(As^lIzI RbGDzD R|DQ|D)
+
+"almswoman"
+% HUMAN
+(As^lIzI RbGDzD AbDbD^bD WjXb)
+
+"almug"
+(RcAGbD)
+
+"alnico"
+(WbID|[l)
+
+"aloe"
+(Dl^l|)
+
+"aloeswood"
+% PLANT
+(W|DGlUbD ^dWQlA)
+
+"aloha"
+% CONCRETE MATERIAL 
+(UbIbW)
+# aloha shirt (NOUN) : WbIIl^b UdVz
+# the Aloha State (NOUN) : ^bWlbW|Xs
+
+"aloneness"
+(Wl|IlWsQ)
+
+"aloofness"
+% CONCRETE MATERIAL 
+(QsAlbDU|Q)
+
+"alopecia"
+% STATE
+(WsfD^jW \bIQlXzW)
+
+"alp"
+% CONCRETE MATERIAL PLACE
+(Dl]WzD UbD)
+# alps on alps (NOUN) : ZfRZfR^bD XsDRlW
+# the Alps (NOUN) : WbI]zUz UbDQcA
+
+"alpaca"
+% CONCRETE ANIMAL MATERIAL 
+(WbI]b[b)
+
+"alpenglow"
+(WbZ|QDlI)
+
+"alpenhorn"
+(WbI]gD^lD)
+
+"alpenstock"
+(X|]bWW|)
+
+"alpha"
+% MATERIAL 
+(WbI]b)
+# Alpha and Omega (NOUN) : ZfWzQAlb Bz\
+# alpha particle (NOUN) : WbI]b W|RXb
+# alpha rays (NOUN) : WbI]bUfD
+# alpha rhythm (NOUN) : WbI]b I|GzQ
+# alpha wave (NOUN) : WbI]b I|GzQ
+
+"alphabet"
+% CONCRETE MATERIAL 
+(WbI]bRgU)
+# Korean alphabet (NOUN) : ^bDAzI XbQl
+# phonetic alphabet (NOUN) : ]rWzQ QsDXb
+
+"alpine"
+% PLANT
+(AlUbD U|AQsI)
+
+"alpinist"
+% HUMAN
+(WbI]zUz GzWUbDAb)
+
+"alps"
+% PLACE
+(WbI]zUz UbDQcA)
+
+"alsatian"
+% HUMAN
+(WbIUbUz UbIbQ)
+
+"also-ran"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GzWUsWg GzIX| QlU^bD QbI)
+
+"alt"
+(WbI\l)
+# in alt (ADV) : AlWzQWzIl
+
+"altaic"
+(WbI\bW| WfXlA)
+
+"altair"
+(AjDWsUfW)
+
+"altar"
+% CONCRETE MATERIAL 
+(XgGbD)
+# lead a woman to the altar (VERB) : WfHfD WjXbWlb AjI^lD^bGb
+
+"altarpiece"
+(XgGbDWz| Gs|]jD)
+
+"altazimuth"
+% CONCRETE ANIMAL MATERIAL 
+(AjWWs|Wz|)
+
+"alterant"
+(RjDX|IXg)
+
+"alteration"
+% CONCRETE MATERIAL 
+(RjDAjW)
+
+"alterative"
+(RjDX|IXg)
+
+"altercation"
+% CONCRETE MATERIAL 
+(QbIGb\sQ)
+
+"alternant"
+(ArGc ^bQUs)
+
+"alternate"
+% CONCRETE MATERIAL 
+(GcI|)
+
+"alternation"
+% CONCRETE MATERIAL 
+(Ar^l)
+# alternation of generations (NOUN) : UgGc ArRfD
+
+"alternative"
+% MATERIAL 
+(GcWbD)
+# forgone alternative (NOUN) : W|IXfW^bD ^cWGlWWg HbIzDzD R|WrWWzI UbWU|I^bD GcWbD
+
+"alternator"
+% CONCRETE ANIMAL MATERIAL 
+(ArIwA|)
+
+"althorn"
+(WbI\l ^lIzD)
+
+"altimeter"
+% CONCRETE ANIMAL MATERIAL 
+(AlGlAk)
+
+"altimetry"
+(AlAbA ZzAIdW)
+
+"altitude"
+% CONCRETE MATERIAL 
+(AlGl)
+# altitude flight (NOUN) : AlGl R|^cW
+# altitude record (NOUN) : AlGl A|IlA
+# altitude sickness (NOUN) : AlAlWRjW
+
+"alto"
+% CONCRETE MATERIAL 
+(WbI\l)
+
+"alto-cumulus"
+(AlXfAWsD)
+
+"alto-relievo"
+% CONCRETE MATERIAL 
+(AlWdWAbA)
+
+"alto-stratus"
+(AlZzWWsD)
+
+"altogether"
+% MATERIAL 
+(XfDZg)
+
+"altometer"
+(AlGlAk)
+
+"altruism"
+% CONCRETE MATERIAL ART
+(Wc\bXsWz|)
+
+"altruismist"
+% HUMAN
+(Wc\bXsWz|Xb)
+
+"alum"
+% CONCRETE MATERIAL 
+(QjWRbD)
+
+"alum"
+% CONCRETE MATERIAL HUMAN
+(^bAUcW)
+
+"alumina"
+% CONCRETE MATERIAL 
+(RbD\l)
+
+"aluminate"
+(WbIIsQ|DUbDWjQ)
+
+"aluminium"
+% CONCRETE MATERIAL 
+(WbIIsQ|DwQ)
+
+"aluminum"
+% CONCRETE MATERIAL 
+(WbIIsQ|DwQ)
+
+"alumite"
+(WbIIsQbW|\z)
+
+"alumna"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bAUcW)
+
+"alumnus"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^bAUcW)
+
+"alumroot"
+% PLANT
+(RfQWz| As|UlA)
+
+"alunite"
+(WbIIsQbW|\z)
+
+"alveolus"
+% CONCRETE MATERIAL 
+(RfIX|R AsQfW)
+
+"alzheimer"
+(WbIZz^bW|Qf)
+
+"am"
+% TIME
+(WlXfD)
+# NUM1 am (NOUN) : [(NMODS [WlXfD<NOUN>]) NUM1]
+
+"amadavat"
+% CONCRETE ANIMAL MATERIAL 
+(RbWWsIUc R|UsU^bD Uc)
+
+"amah"
+% HUMAN
+(WwQl)
+
+"amalgam"
+(WbQbIAbQ)
+
+"amalgamation"
+% MATERIAL 
+(WbQbIAbQWzIl QbDGzIA|)
+
+"amalgamator"
+(^lD^wWA|)
+
+"amanuensis"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]|IA|Xb)
+
+"amaranth"
+% CONCRETE PLANT MATERIAL 
+(WjWWsfD^| U|GzIX| WbD^DzD BlZ)
+
+"amaryllis"
+% CONCRETE ANIMAL MATERIAL 
+(WbQbI|II|Uz)
+
+"amasser"
+(ZsAXfAXb)
+
+"amassment"
+(ZsAXfA)
+
+"amateur"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbQb\wWf)
+# amateur Athletic Union (NOUN) : Q|AsA ZgWwA^jR^l|
+# amateur dramatic club (NOUN) : UlW|D WjDAzA [zIIfR
+# amateur theatricals (NOUN) : UlW|DAzA
+
+"amateurishness"
+(WbQbZwWfGbWsQ)
+
+"amateurism"
+(WbQb\sWf WjDWk)
+
+"amativeness"
+(^lUcAXfAW|Q)
+
+"amatol"
+(AlUfWDzW ]lAWdA)
+
+"amaurosis"
+(^zADcXbW)
+
+"amaze"
+% MIND
+(AjWWbA)
+
+"amazement"
+% MATERIAL MIND
+(AjWWbA)
+# in amazement (ADV) : GcAjW U|IUcA^bWj
+# to ONE_S amazement (ADV) : DlIIbRAgGl
+
+"ambages"
+% PLACE
+(Ws^l|XfAW|D A|I)
+
+"ambassador"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcUb)
+# ambassador at large (NOUN) : QsW|QUl GcUb
+# ambassador extraordinary and plenipotentiary (NOUN) : \zAQjW XfDAsfDGcUb
+# ordinary ambassador (NOUN) : ]bDI| GcUb
+# resident ambassador (NOUN) : XsZb GcUb
+# roving ambassador (NOUN) : UsD^l| GcUb
+
+"ambassadorship"
+% HUMAN
+(GcUbWz| X|A)
+
+"ambassadress"
+% HUMAN
+(WjGcUb)
+
+"amber"
+% CONCRETE MATERIAL 
+(^lRbA)
+# amber fauna (NOUN) : ^lRbA UlAWg GzIWf W|VDzD GlWQsI
+# amber flora (NOUN) : ^lRbA UlAWg GzIWf W|VDzD U|AQsI
+
+"ambergris"
+% CONCRETE MATERIAL 
+(WrWWjD^dW)
+
+"ambiance"
+% MATERIAL 
+(^lbDAjW)
+
+"ambidexter"
+(WdWUsXbRW|)
+
+"ambidexterity"
+(WdWUsXbRW|W|Q)
+
+"ambience"
+% MATERIAL 
+(^lbDAjW)
+
+"ambiguity"
+% CONCRETE MATERIAL 
+(Ql^l^bQ)
+
+"ambit"
+(XsWz|)
+
+"ambitendency"
+(UfIl UbWRbDGl|DzD AjW^dWWz| AlWXlD)
+
+"ambition"
+% CONCRETE MATERIAL MIND
+(WdQbW)
+
+"ambitiousness"
+% CONCRETE MATERIAL MIND
+(WdU|QQbDQbD^bQ)
+
+"ambivalence"
+% MATERIAL 
+(WdWQjD AbZ|)
+
+"ambiversion"
+% MIND
+(WdW^dW UfWAjA)
+
+"amble"
+% MATERIAL 
+(ZzAGcRl)
+
+"amblyopia"
+(WdAU|)
+
+"ambo"
+% CONCRETE MATERIAL 
+(GlAAjWGc)
+
+"ambrosia"
+% CONCRETE MATERIAL FOOD
+(U|DWz| WzQU|A)
+
+"ambry"
+(ZbDXbW)
+
+"ambsace"
+(RsIWsD)
+
+"ambucopter"
+(AsAzRWrW ^gII|[lR\f)
+
+"ambulance"
+% CONCRETE ANIMAL MATERIAL 
+(AsAzRZb)
+
+"ambulation"
+(Rl^cW)
+
+"ambulatory"
+(RlAGl)
+
+"ambuscade"
+(QcRlA)
+
+"ambush"
+% MATERIAL ACTION
+(QcRlA)
+# fall into an ambush (VERB) : RlARjWWg AjIIjGzIGb
+# lie in ambush (VERB) : QcRlA^bGb
+# hide in ambush (VERB) : QcRlA^bGb
+# lay an ambush (VERB) : RlARjWWzI GsGb
+# make an ambush (VERB) : RlARjWWzI GsGb
+
+"ambusher"
+% HUMAN
+(QcRlA^bDzD UbIbQ)
+
+"ambushment"
+% ACTION
+(QcRlA)
+
+"ameer"
+% HUMAN
+(^l|ArAsAWz| WlbW)
+
+"amelioration"
+% MATERIAL 
+(AcIdW)
+
+"ameliorator"
+% HUMAN
+(AcIdWXb)
+
+"amen"
+(WbQgD)
+
+"amenability"
+% CONCRETE MATERIAL 
+(UsDXlW)
+
+"amendment"
+% MATERIAL 
+(AcXfW)
+# Eighteenth Amendment (NOUN) : AzQXsRfR
+# Twenty first Amendment (NOUN) : AzQXsRfR ]kX|RfR
+
+"amends"
+% MATERIAL 
+(RlUbW)
+# make amends (VERB) : RlUbW^bGb
+# make amends for (VERB) : RlUbW^bGb
+
+"amenity"
+% CONCRETE MATERIAL MIND
+(A|RsD Xl^WzQ)
+# exchange amenities (VERB) : Ar^lbD^bGb
+# amenity ship (NOUN) : Ws|QsDUfD
+
+"amenorrhoea"
+% STATE
+(WsfIAjW RsIUsD)
+
+"ament"
+% CONCRETE MATERIAL HUMAN
+(XfWU|D RbAWdAWb)
+
+"amentia"
+% STATE
+(XfWU|D RbAWdA)
+
+"amerasian"
+% HUMAN
+(Q|AsAW|DAlb GlWWdWW|DAbDWz| ^lD^jIWb)
+
+"amercement"
+% MATERIAL 
+(RfIAzQ^jW)
+
+"america"
+% ORGAN PLACE
+(Q|AsA)
+
+"american"
+% HUMAN
+(Q|AsAW|D)
+
+"americana"
+(WbQgI|[bQsD^fD)
+
+"americanism"
+% ART
+(Z|DQ|XsWz|)
+
+"americanization"
+(Q|AsA As|^lb)
+
+"americanologist"
+% HUMAN
+(Q|AsA XfWZ| WjDAsAb)
+
+"americanophile"
+% HUMAN
+(Q|AsA ZbDQ|Ab)
+
+"americium"
+% CONCRETE MATERIAL 
+(WbQgI|UwQ)
+
+"amerind"
+% HUMAN
+(WbQgI|[b \lW|D)
+
+"amerindian"
+% HUMAN
+(WbQgI|[b \lW|D)
+
+"amesace"
+(RsIWsD)
+
+"amethyst"
+% MATERIAL 
+(XbUsXfW)
+# Oriental Amethyst (NOUN) : XbUcA Ub]bW|Wf
+
+"ametropia"
+(RsXfWU|)
+
+"amharic"
+(WbQ^bIbQbI)
+
+"amiability"
+% CONCRETE MATERIAL MIND
+(As|WjQUfW)
+
+"amiableness"
+% MIND
+(As|WjQUfW)
+
+"amianthus"
+(UfAQjD)
+
+"amiantus"
+(UfAQjD)
+
+"amicability"
+% CONCRETE MATERIAL MIND
+(Ws^l)
+
+"amicableness"
+% CONCRETE MATERIAL MIND
+(Ws^lXfAW|Q)
+
+"amice"
+([b\lII|AArWz| UbXgAb WfBcWg AfIZ|DzD ^z|D UbQRg)
+
+"amide"
+(WbQ|Gz)
+
+"amidin"
+(WbQ|G|D)
+
+"amidol"
+(WbQ|GlI)
+
+"amigo"
+% HUMAN
+(Z|DAs)
+
+"amine"
+% CONCRETE MATERIAL 
+(WbQ|D)
+
+"amir"
+% HUMAN
+(^l|ArAsAWz| WlbW)
+
+"amirate"
+% ORGAN PLACE
+(\l^sAsA)
+
+"amitabha"
+(WbQ|\b)
+
+"amitosis"
+(QsUb RsDWjI)
+
+"amity"
+% CONCRETE MATERIAL MIND
+(Z|DQlA)
+# in amity (ADV) : UbW| Xl^Ag
+
+"ammeter"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(XfDIwAk)
+
+"ammo"
+% CONCRETE ANIMAL MATERIAL 
+(\bDWdA)
+
+"ammon"
+% ART
+(\cWdWU|D)
+
+"ammonal"
+(AbWIjA ]lAWdA)
+
+"ammonia"
+% CONCRETE MATERIAL 
+(WbQQlD|Wb)
+
+"ammoniac"
+% CONCRETE MATERIAL 
+(WbQQlD|Wb AlQs)
+
+"ammonite"
+% ANIMAL
+(WbQQlD XlAc)
+
+"ammonium"
+(WbQQlDwQ)
+
+"ammunition"
+% CONCRETE ANIMAL MATERIAL 
+(\bDWdA)
+# ammunition belt (NOUN) : \bDWdAGc
+# ammunition pouch (NOUN) : XsQfD|
+# ammunition wagon (NOUN) : Zb
+# ammunition boots (NOUN) : AsD^lb
+# ammunition bread (NOUN) : AsDWrWSbW
+# ammunition hats (NOUN) : AsDQl
+# ammunition industry (NOUN) : AsDUs AlWWfR
+
+"amnesia"
+% MATERIAL 
+(A|WfAIjA UbWU|I)
+
+"amnesty"
+% CONCRETE MATERIAL 
+(UbQjD)
+# Amnesty International (NOUN) : AsAXg UbQjD Ws|WsfD^l|
+
+"amnion"
+(WdWQbA)
+
+"amoeba"
+% CONCRETE ANIMAL MATERIAL 
+(WbQgWgRb)
+
+"amon"
+% ART
+(\cWdWU|D)
+
+"amorce"
+(XbWDbDAbQ AsfDZlWWz| Dl|AlbD)
+
+"amorist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^lUcAAb)
+
+"amorousness"
+% MATERIAL 
+(^lUcAXfAW|Q)
+
+"amorphism"
+(QsXfW^jW)
+
+"amortisation"
+(RsGlWUbD WdWGl)
+
+"amortization"
+% MATERIAL 
+(RsGlWUbD WdWGl)
+
+"amortizement"
+(RsGlWUbD WdWGl)
+
+"amount"
+% CONCRETE MATERIAL 
+(WdW)
+# a large amount of A (NOUN) : [(AMODS [QbD^<ADJ>]/^bD) A]
+# about the same amount of A (NOUN) : [(POSS [(AMODS [(MODS [GcIdA<ADV>]) Ab\<ADJ>]/^bD) WdW<NOUN>]/Wz|) A]
+# amount brought backward (NOUN) : ^sA|XlWsfI
+# amount brought forward (NOUN) : XlA|XlWsfI
+# amount payable (NOUN) : UgWz| ^lbDWsfD
+# amount receivable (NOUN) : UsZs|AzQ
+# approximate amount (NOUN) : AcUbDWcA
+# assessed amount (NOUN) : AwXfWWcA
+# great amount of A (NOUN) : [(POSS [(AMODS [WfQZfWDb<ADJ>]/^bD) WdW<NOUN>]/Wz|) A]
+# in amount (ADV) : ZlWAkIl
+# in large amount $ (PP->ADV) : GbIdWWzIl
+# in tiny amount $ (PP->ADV) : UlIdWWzIl
+# insured amount (NOUN) : Rl^fQAzQWcA
+# to the amount of (ADV) : ZlWAkBbX|
+
+"amour"
+(WjDWcUbAfD)
+
+"amp"
+% CONCRETE UNIT MATERIAL 
+(XzW]lAA|)
+
+"amperage"
+(WbQ]gWfUs)
+
+"ampere"
+% CONCRETE UNIT MATERIAL 
+(WbQ]gWf)
+
+"amperemeter"
+(XfDIwAk)
+
+"ampersand"
+(WcQ]fUcDGz)
+
+"amphibia"
+% ANIMAL
+(WdWUfIw)
+
+"amphibian"
+% CONCRETE ANIMAL MATERIAL 
+(WdWUf GlWQsI)
+
+"amphibiology"
+% ART
+(WdWUfIw^bA)
+
+"amphibole"
+(AbAUfQUfA)
+
+"amphibology"
+(WfDWfWz| Ql^l^bQ)
+
+"amphibrach"
+(GbDXbWGbDAjA)
+
+"amphicar"
+(UsIwAWdWWrW XbGlWZb)
+
+"amphigory"
+% CONCRETE MATERIAL 
+(QsWz|Q|^bAl W|AUbIQbXWzD QsDXbW)
+
+"amphigouri"
+(QsWz|Q|^bAl W|AUbIQbXWzD QsDXbW)
+
+"amphimixis"
+(WdWUfW ^lD^bR)
+
+"amphioxus"
+% CONCRETE ANIMAL MATERIAL 
+(^lbIWwWf)
+
+"amphiprostyle"
+(WdW^dWRcU|A)
+
+"amphisbaena"
+% ANIMAL
+(Wb]Gs|Wg QfI|Ab W|VDzD RcQ)
+
+"amphitheater"
+% CONCRETE ANIMAL MATERIAL 
+(WsfD^jW AjWA|XbW)
+
+"amphitheatre"
+(WsfD^jW AjWA|XbW)
+
+"amphora"
+% CONCRETE ANIMAL MATERIAL 
+(UlDXbRW|Ab GsI GbII|D ^bWWbI|)
+
+"ampicillin"
+(WbQ]|U|II|D)
+
+"ampleness"
+% CONCRETE MATERIAL 
+(]sWRs^bQ)
+
+"amplification"
+% CONCRETE MATERIAL 
+(XzW]lA)
+
+"amplifier"
+% CONCRETE MATERIAL 
+(XzW]lAA|)
+
+"amplitude"
+% CONCRETE MATERIAL 
+([zA|)
+# amplitude modulation (NOUN) : X|D]lA RjDXl
+
+"ampoule"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD RjW)
+
+"ampul"
+(XbAWzD RjW)
+
+"ampule"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD RjW)
+
+"ampulla"
+% CONCRETE MATERIAL 
+(GbDX|)
+
+"amputation"
+% MATERIAL 
+(XfIGbD)
+
+"amputator"
+% HUMAN
+(XfIGbD UsUsIXb)
+
+"amputee"
+% HUMAN
+(XfIGbD UsUsIWzI RbGDzD UbIbQ)
+
+"amtrac"
+(UsIwA WdWWrW \zIcA\f)
+
+"amtrac"
+% ORGAN
+(XfDAsA ZfIGlWjAcAAlWUb)
+
+"amulet"
+% CONCRETE MATERIAL 
+(RsXfA)
+
+"amusement"
+% MATERIAL MIND
+(XzIAfWsQ)
+# amusement and restaurant tax (NOUN) : Wj^cWWzQU|AWfR
+# amusement industry (NOUN) : WlIbAUbDWfR
+
+"amygdala"
+(]jDGl)
+
+"amyl"
+(WbQ|I)
+
+"amylase"
+(WbQ|IIbWbXg)
+
+"amyloid"
+(WbQbIIlW|Gz)
+
+"amylopsin"
+(WbQ|IIlRU|D)
+
+"ana"
+% MATERIAL 
+(WfIlA)
+
+"anabaptism"
+% ART
+(XcZ|QIk)
+
+"anabaptist"
+% HUMAN
+(XcZ|QIkAr]bWz| ArGl)
+
+"anabas"
+(GzWQlAWf)
+
+"anabasis"
+(X|DAsD)
+
+"anabolism"
+% MATERIAL 
+(GlW^lbXbAWrW)
+
+"anabranch"
+(X|Iw)
+
+"anachronism"
+% MATERIAL ART
+(U|Gc ZbAWl)
+
+"anachronistic"
+(U|GcZbAWlWz| AfDQsI)
+
+"anacoluthon"
+% CONCRETE MATERIAL 
+(]bAjA AsQsD)
+
+"anaconda"
+% CONCRETE ANIMAL MATERIAL 
+(WbDb[lDGb)
+
+"anacreontic"
+% ART
+(WbDb[zIgWlDZgWz| U|)
+
+"anadem"
+(^lbAlbD)
+
+"anaemia"
+% MATERIAL STATE
+(R|D^jIXzW)
+
+"anaglyph"
+(Wd\WzD RsXl)
+
+"anagram"
+(ZfIXb RbBsA| DlIW|)
+
+"anagrammatism"
+(WfAsWz| ZfIXb RbBsA|)
+
+"analecta"
+(WfIlA)
+
+"analects"
+(WfIlA)
+
+"analeptic"
+(AbWXbWXg)
+
+"analgesia"
+% STATE
+(\lWAbAUbWU|I)
+
+"analgesic"
+% CONCRETE MATERIAL 
+(X|D\lWXg)
+
+"analog"
+(WbDbIIlAz)
+# analog type (NOUN) : WbDbIIlAz ^jW\c
+
+"analogism"
+% ART
+(WwZs ZsI|)
+
+"analogist"
+% HUMAN
+(WwZsIlDXb)
+
+"analogousness"
+(WwUbUfW)
+
+"analogue"
+% CONCRETE MATERIAL 
+(WwUbQsI)
+# analogue type (NOUN) : WbDbIIlAz ^jW\c
+
+"analogy"
+% CONCRETE MATERIAL 
+(WwUb)
+# by analogy (ADV) : WwZsWg Wz|^bWj
+# forced analogy (NOUN) : QsI|^bD WwZs
+
+"analphabetic"
+% HUMAN
+(QsU|AXb)
+
+"analysand"
+% HUMAN
+(XfWU|DRsDUfA GcUbWXb)
+
+"analysis"
+% MATERIAL 
+(RsDUfA)
+# aggregate economic analysis (NOUN) : ZlWZgXfAAjWXgRsDUfA
+# cost analysis (NOUN) : WsfDAbRsDUfA
+# credit analysis (NOUN) : U|DWrWRsDUfA
+# ex-ante and ex-post analysis (NOUN) : UbXfDUb^sRsDUfA
+# market analysis (NOUN) : U|XbWRsDUfA
+# qualitative analysis (NOUN) : XfWUfW RsDUfA
+# quantitative analysis (NOUN) : XfWIdW RsDUfA
+# semantic analysis (NOUN) : Wz|Q| RsDUfA
+# syntactic analysis (NOUN) : AsQsD RsDUfA
+
+"analyst"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsDUfAXb)
+# banking analyst (NOUN) : WzD^cW RsDUfAAb
+
+"analytics"
+% ART
+(^cUfA^bA)
+
+"analyzer"
+% CONCRETE ANIMAL MATERIAL 
+(RsD^cXb)
+
+"anamorphosis"
+% CONCRETE MATERIAL 
+(WlcUbW)
+
+"ananas"
+% CONCRETE MATERIAL PLANT FOOD
+(]bW|DWc]zI)
+
+"ananias"
+% HUMAN
+(AfX|UQbIXbWW|)
+
+"anapaest"
+% CONCRETE MATERIAL 
+(GbDGbDXbWAjA)
+
+"anapest"
+% CONCRETE MATERIAL 
+(GbDGbDXbWAjA)
+
+"anaphora"
+% CONCRETE MATERIAL 
+(ZfUQfI| WfAsWz| RbDRlA)
+
+"anaplasty"
+% MATERIAL ART
+(XfW^jWWl|AlbUsI)
+
+"anarch"
+% HUMAN
+(RbDIbDWz| XsQlXb)
+
+"anarchism"
+% MATERIAL ART
+(QsXfWRs XsWz|)
+
+"anarchy"
+% MATERIAL STATE
+(QsXfWRsUbW\c)
+
+"anastigmat"
+(UsZbArXfWIgDXz)
+
+"anastomosis"
+% MATERIAL 
+(XfR^bR)
+
+"anastrophe"
+% CONCRETE MATERIAL ART
+(GlZ|RfR)
+
+"anastrophy"
+% ART
+(GlZ|RfR)
+
+"anathema"
+% CONCRETE MATERIAL MIND
+(XfXs)
+
+"anathematization"
+(XfXs)
+
+"anatomist"
+% HUMAN
+(^cRs^bAXb)
+
+"anatomy"
+% CONCRETE MATERIAL 
+(^cRs)
+
+"ancestor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlUbW)
+
+"ancestress"
+% HUMAN
+(WjXbXlUbW)
+
+"ancestry"
+% CONCRETE MATERIAL 
+(UfDXl)
+
+"anchor"
+% CONCRETE MATERIAL 
+(GbZ)
+# be at anchor (NOUN) : [zD GbZ
+# lie at anchor (NOUN) : [zD GbZ
+# ride at anchor (NOUN) : [zD GbZ
+# cast anchor (VERB) : GbZWzI DcI|Gb
+# drop anchor (VERB) : GbZWzI DcI|Gb
+# come to anchor (VERB) : XfWRbA^bGb
+# drag cnahor (VERB) : ]rIw^bGb
+# foul anchor (NOUN) : GbZW| WfIA^j W|VDzD GbZ
+# kedge anchor (NOUN) : XbAWzD GbZ
+# let go the anchor (VERB) : GbZWzI DcI|Gb
+# sheet anchor (NOUN) : R|UbWWrW [zD GbZ
+# weigh anchor (VERB) : GbZWzI WlII|Gb
+
+"anchorage"
+% MATERIAL 
+(XfWRbA)
+
+"anchoress"
+% HUMAN
+(WjXbWzDXb)
+
+"anchoret"
+% HUMAN
+(WzDXb)
+
+"anchorite"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WzDXb)
+
+"anchovy"
+% CONCRETE ANIMAL MATERIAL 
+(WcDZlWsR|)
+# anchovy sauce (NOUN) : WcDZlWsR| UlWlUz
+
+"anchylosis"
+(ArZbA)
+
+"anchylosis"
+(ArZbA)
+
+"ancient"
+(A|URbI)
+
+"ancient"
+% HUMAN
+(AlGcW|D)
+# the Ancient of Days (NOUN) : ^bDbD|Q
+# the ancients (NOUN) : AlGc QsDQjWW|D
+
+"ancientness"
+% CONCRETE MATERIAL 
+(WlIcGl|Q)
+
+"ancientry"
+(WlIcGl|Q)
+
+"ancle"
+% ANIMAL
+(RbIQlA)
+
+"ancon"
+% ANIMAL
+(]bIBsQZ|)
+
+"ancress"
+% HUMAN
+(WjXbWzDXb)
+
+"andante"
+(WbDGbD\gXl)
+
+"andantino"
+(WbDGbD\|DlXl)
+
+"andesite"
+(WbDUbDWbQ)
+
+"andiron"
+% CONCRETE ANIMAL MATERIAL 
+(XbWXbARbGZ|QUl|)
+
+"androgen"
+% CONCRETE MATERIAL 
+(WbDGzIlAgD)
+
+"android"
+% CONCRETE ANIMAL MATERIAL 
+(W|DXlW|DAbD)
+
+"androsterone"
+% CONCRETE MATERIAL 
+(WbDGzIlUz\gIlD)
+
+"anecdotage"
+(W|I^lbX|R)
+
+"anecdote"
+% CONCRETE MATERIAL 
+(W|I^lb)
+
+"anecdotist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|I^lbIzI W|WdA|^bDzD UbIbQ)
+
+"anemia"
+% MATERIAL 
+(R|D^jIXzW)
+
+"anemograph"
+(XbGlW ]sWIjA A|IlAAk)
+
+"anemometer"
+% CONCRETE ANIMAL MATERIAL 
+(]sWIjAAk)
+
+"anemometry"
+% MATERIAL 
+(]sWIjA ZzAXfWRfR)
+
+"anemone"
+% CONCRETE ANIMAL MATERIAL 
+(WbDgQlDg)
+
+"aneroid"
+(WbDgIlW|Gz ZfWWsAk)
+
+"anesthesia"
+% MATERIAL 
+(QbZs|)
+
+"anesthetic"
+% CONCRETE MATERIAL 
+(QbZs|Xg)
+
+"anesthetist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QbZs|Ub)
+
+"anesthetization"
+(QbZs|U|[|A|)
+
+"aneurism"
+(GlWQcAIw)
+
+"aneurysm"
+(GlWQcAIw)
+
+"anfractuosity"
+(AsIAlA)
+
+"angary"
+(R|UbWX|WWrW)
+
+"angel"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZfDUb)
+# angel cake (NOUN) : [bUz\gIIb
+# angel of death (NOUN) : XsAWzQWz| UbXb
+# angel's visit (NOUN) : XlQZfIfQ WfRUDzD UbQsI
+# angel visit (NOUN) : XlQZfIfQ WfRUDzD UbQsI
+# fallen angel (NOUN) : \bIbA^bD ZfDUb
+# evil angel (NOUN) : \bIbA^bD ZfDUb
+# Fools rush in where angels fear to tread (SENT) :  
+(DECL [^bIsUAbWWbX| RfQ QsUfWsD XsI QlIz<VERB>]/Gb)
+# ONE_S evil angel (NOUN) : WbAQb
+# ONE_S good angel (NOUN) : Us^lU|D
+# ONE_S guardian angel (NOUN) : Us^lU|D
+
+"angeleno"
+% HUMAN
+(IlUzWcDXgIIgUz U|Q|D)
+
+"angelfish"
+% CONCRETE ANIMAL MATERIAL 
+(AzAIbAWf)
+
+"angelica"
+% CONCRETE MATERIAL 
+(WbDXgII|[b)
+
+"angelolatry"
+% ART
+(ZfDUb UsWRc)
+
+"angelus"
+% ART
+(UbQXlW A|Gl)
+
+"anger"
+% MATERIAL MIND
+(DlWjWsQ)
+# in anger (PP->ADV) : UfWDbUf
+# ^put A into anger (VERB) : [(OBJ A/IzI) (OCOMP [DlWjWsf^b<VERB>]/Ag) ^b<VERB>]/Gb
+
+"angina"
+% MATERIAL 
+(^sGsWjQ)
+
+"angiosperm"
+% CONCRETE ANIMAL MATERIAL PLANT
+(]|Xb U|AQsI)
+
+"angle"
+% MATERIAL 
+(AbAGl)
+# ^get a new angle on A (VERB) : [(OBJ A/WzI) (ADJUNCT [(AMODS [Uc<ADJ>]) AlbDXfQ<NOUN>]/WgUf) Rl<VERB>]/Gb
+# ^use a new angle on A (VERB) : [(OBJ A/WzI) (ADJUNCT [(AMODS [Uc<ADJ>]) AlbDXfQ<NOUN>]/WgUf) Rl<VERB>]/Gb
+# take the angle (VERB) : AbAGlIzI XcGb
+
+"angle"
+% MATERIAL 
+(DbBU|)
+# brother of the angle (NOUN) : DbBU|UAsD
+
+"angle"
+% MATERIAL HUMAN
+(WcWAzIXlA UbIbQ)
+
+"angledozer"
+(RsIGlWsXf)
+
+"angler"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(DbBU|UAsD)
+
+"angles"
+% HUMAN
+(WcWAzIXlA)
+
+"anglesite"
+(^lbWUbD WjDAlbW)
+
+"angleworm"
+% CONCRETE ANIMAL MATERIAL 
+(X|IfWW|)
+
+"anglian"
+% HUMAN
+(WcWAzI UbIbQ)
+
+"anglic"
+(WjWWfWz| ZfIXbIzI AcIdW^bD AsAXg RlXlWf)
+
+"anglican"
+% HUMAN
+(WjWAsA AsAArGl)
+
+"anglicanism"
+% ART
+(WjWAsA Ar^l|XsWz|)
+
+"anglicism"
+(WjWAsA]sW)
+
+"anglicist"
+% HUMAN
+(WjWWf ^bAXb)
+
+"angling"
+% MATERIAL 
+(DbBU|X|I)
+
+"anglist"
+% HUMAN
+(WjWAsA^bA ^bAXb)
+
+"anglistics"
+% ART
+(WjWWf^bA)
+
+"anglo-american"
+% HUMAN
+(WjWAsAAk Q|AsAW|D)
+
+"anglo-catholic"
+% HUMAN
+(WjWAsA [b\lII|A]b)
+
+"anglo-french"
+(WcWAzIIl ]zIbWUz QbIWz|)
+
+"anglo-indian"
+% HUMAN
+(W|DGlWg UbDzD WjWAsAW|D)
+
+"anglo-saxon"
+% HUMAN
+(WcWAzIIl UcAUzDW|D)
+
+"anglo-saxonism"
+% MIND
+(WjWAsAW|D A|X|I)
+
+"anglomania"
+% MIND
+(WjWAsA U|QZs|)
+
+"anglomaniac"
+% HUMAN
+(WjWAsA U|QZs|Xb)
+
+"anglophil"
+% HUMAN
+(Z|DWjW]bWz| UbIbQ)
+
+"anglophile"
+% HUMAN
+(Z|DWjW]bWz| UbIbQ)
+
+"anglophobe"
+% HUMAN
+(WjWAsAWzI ^jQWl^bDzD UbIbQ)
+
+"anglophobia"
+% MATERIAL MIND
+(WjWAsA ^jQWl)
+
+"anglophone"
+% HUMAN
+(WjWWf UbWrWXb)
+
+"angola"
+% ORGAN PLACE
+(WbWAlIIb)
+
+"angora"
+(WbWAlIb)
+
+"angostura"
+(WbWAlUz\zIb Us]|)
+
+"angstrom"
+% CONCRETE UNIT MATERIAL 
+(WlWUz\zIlQ)
+
+"anguish"
+% MATERIAL MIND
+(Al\lW)
+# in anguish (ADV) : AlQ|D^bWj
+
+"angularity"
+% CONCRETE MATERIAL 
+(QlDbQ)
+
+"angulation"
+% MATERIAL 
+(QlDbAg ^bA|)
+
+"anhydrid"
+(QsUsQsI)
+
+"anhydride"
+(QsUsQsI)
+
+"anhydrite"
+(QsUs UfAAl)
+
+"anil"
+% CONCRETE MATERIAL PLANT
+(UfW|DGlUbD AlbDQlA)
+
+"anilin"
+(WbD|II|D)
+
+"aniline"
+(WbD|II|D)
+
+"anility"
+(DlQbW)
+
+"anima"
+(WjW^lD)
+
+"animadversion"
+% CONCRETE MATERIAL ART
+(R|]jW)
+
+"animal"
+% CONCRETE ANIMAL MATERIAL 
+(GlWQsI)
+# animal husbandry (NOUN) : ZsAUbD
+# animal spirits (NOUN) : ^jIA|
+# land animal (NOUN) : WwAUbW GlWQsI
+# wild animal (NOUN) : WdUcW GlWQsI
+# meat-eating animal (NOUN) : WwAU|A GlWQsI
+
+"animalcule"
+% CONCRETE ANIMAL MATERIAL 
+(AzAQ| GlWQsI)
+
+"animalier"
+% HUMAN
+(GlWQsI^lbAb)
+
+"animalism"
+% ART
+(UsWrAXsWz|)
+
+"animalist"
+% HUMAN
+(UsWrAXsWz|Xb)
+
+"animality"
+(GlWQsIUfW)
+
+"animalization"
+% MATERIAL 
+(GlWQsI^lb)
+
+"animation"
+% CONCRETE MATERIAL 
+(WcD|QgW|UjD)
+# with animation (ADV) : WjIU|Q^|
+
+"animator"
+% HUMAN
+(WgD|QgW|\f)
+
+"anime"
+% CONCRETE MATERIAL 
+(WbD|Qg)
+
+"animist"
+% HUMAN
+(QsI^lbIIlD U|DRlWXb)
+
+"animosity"
+% CONCRETE MATERIAL MIND
+(WbAWz|)
+# regional animosity (NOUN) : X|WjAAbQXfW
+
+"animus"
+% MATERIAL MIND
+(WbAWz|)
+
+"anion"
+% CONCRETE MATERIAL 
+(WzQW|WlD)
+
+"anise"
+% CONCRETE MATERIAL PLANT
+(WbD|Uz)
+
+"aniseed"
+% CONCRETE MATERIAL PLANT
+(WbD|Uz WjIQc)
+
+"anisette"
+% CONCRETE MATERIAL 
+(WbD|Uz UsI)
+
+"anker"
+(WcW[f)
+
+"ankle"
+% CONCRETE MATERIAL 
+(RbIQlA)
+
+"anklebone"
+% CONCRETE MATERIAL ANIMAL
+(RlAUbSj)
+
+"anklet"
+% CONCRETE MATERIAL 
+(RbIQlA XbWU|A)
+
+"ankylosis"
+(ArZbA)
+
+"anna"
+(WcDf)
+
+"annalist"
+% HUMAN
+(WjDGcA| ]jDXb)
+
+"annals"
+% CONCRETE MATERIAL 
+(WjDGcA|)
+
+"annamese"
+% HUMAN
+(WbDDbQW|D)
+
+"annamite"
+% HUMAN
+(WbDDbQW|D)
+
+"annates"
+(UfWX|A Zs|W|Q ^sWz| ZfU^c UsW|R)
+
+"annealing"
+% MATERIAL 
+(GbDIjD)
+
+"annex"
+% CONCRETE MATERIAL 
+(RsAbQsI)
+
+"annexation"
+% MATERIAL 
+(^bRRjW)
+
+"annexe"
+(RsAbQsI)
+
+"annihilation"
+% MATERIAL 
+(XfDQjI)
+
+"annihilator"
+% HUMAN
+(QjIXlWXb)
+
+"anniversary"
+% CONCRETE TIME MATERIAL 
+(A|DjQW|I)
+
+"annotation"
+% CONCRETE MATERIAL 
+(XsUfA)
+
+"annotator"
+% HUMAN
+(XsUfAXb)
+
+"announcement"
+% CONCRETE MATERIAL 
+(AlWAl)
+# press announcement (NOUN) : QcUz[fQ RbI]r
+
+"announcer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbDbWsDUf)
+
+"annoy"
+(UfWAbU|Q)
+
+"annoyance"
+% MATERIAL 
+(UfWAbU|Q)
+# put a person to annoyance (VERB) : DbDZf^bAg ^bGb
+# to ONE_S annoyance (ADV) : DbDZf^bAgGl
+
+"annual"
+% CONCRETE MATERIAL PLANT
+(W|IDjDUcW U|AQsI)
+# hardly annual (NOUN) : WlDU|IW| ]|IWr WfRUDzD U|AQsI
+
+"annuitant"
+% HUMAN
+(WjDAzQUsIjWXb)
+
+"annuity"
+% MATERIAL 
+(WjDAzQ)
+# annuity for life (NOUN) : XlWU|DWjDAzQ
+# annuity in possession (NOUN) : X|AU|RsIWjDAzQ
+# annuity in reversion (NOUN) : AfZ|WjDAzQ
+# annuity insurance (NOUN) : WjDAzQRl^fQ
+
+"annulet"
+% CONCRETE MATERIAL 
+(XbAWzD AlI|)
+
+"annulment"
+% MATERIAL 
+(Zs|Ul)
+
+"annulus"
+% MATERIAL 
+(AlI|)
+
+"annum"
+% TIME
+(^c)
+# per annum (ADV) : ^bD ^cWg
+
+"annunciation"
+(]lAl)
+# the Annunciation (NOUN) : UfW Us\c AlX|Wz| ZsAXgW|I
+
+"annunciator"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(\lWAlXb)
+
+"anode"
+% CONCRETE ANIMAL MATERIAL 
+(WdWAzA)
+
+"anodyne"
+% CONCRETE MATERIAL
+(X|D\lWWz|)
+
+"anointment"
+% MATERIAL 
+(A|IzQWzI RbIzA|)
+
+"anomalism"
+(RjDZ|A)
+
+"anomaly"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjDZ|A)
+
+"anomie"
+% CONCRETE MATERIAL STATE 
+(Ub^l|XfA QsX|IUf)
+
+"anonym"
+% MATERIAL 
+(W|AQjW)
+
+"anonymity"
+(W|AQjW)
+
+"anonymousness"
+(W|AQjW)
+
+"anopheles"
+% ANIMAL
+(WbDl]gIIgUz QlA|)
+
+"anorak"
+% CONCRETE ANIMAL MATERIAL 
+(WbDlIbA)
+
+"anorexia"
+% STATE
+(U|AWrAAbQ\l|)
+
+"anosmia"
+% MATERIAL STATE 
+(Qs^sAbA)
+
+"anoxia"
+% MATERIAL STATE 
+(QsUbDUlXzW)
+
+"anschluss"
+(AjI^bR)
+
+"answer"
+% CONCRETE MATERIAL 
+(GcGbR)
+# give an answer (VERB) : GcGbR^bGb
+# give an answer to (VERB) : GcGbR^bGb
+# in answer to A (ADV) : (ADJUNCT [(COMP A/Wg) GcGbR^b<VERB>]/^bWj)
+# know all the answers (VERB) : QfI|Ab Xl^Gb
+# make an answer (VERB) : GcGbR^bGb
+# make an answer to (VERB) : GcGbR^bGb
+
+"answerer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^l|GbRXb)
+
+"ant"
+% CONCRETE ANIMAL MATERIAL 
+(AcQ|)
+# have ants in ONE_S pants (VERB) : RsIWbDWzIl WbDXfIRsXfI QlU^bGb
+
+"antacid"
+(UbD XsW^lbQsI)
+
+"antagonism"
+% CONCRETE MATERIAL MIND
+(XfAAcU|Q)
+
+"antagonist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfAGcXb)
+
+"antalkail"
+(WbI[bII| XsW^lbXg)
+
+"antarctic"
+% PLACE
+(DbQAzA)
+
+"antarctica"
+% PLACE
+(DbQAzAGcIwA)
+
+"antarctican"
+% HUMAN
+(DbQAzA UbIbQ)
+
+"ante"
+% MATERIAL 
+(UcIl ]cIzI RbGA|XfDWg AfDzD GlD)
+
+"anteater"
+% ANIMAL
+(AcQ|^bI\A|)
+
+"antecedence"
+% CONCRETE MATERIAL 
+(Wb]UfQ)
+
+"antecedency"
+% CONCRETE MATERIAL 
+(Wb]UfQ)
+
+"antecedent"
+% CONCRETE MATERIAL HUMAN
+(UfD^cWXb)
+
+"antechamber"
+% CONCRETE ANIMAL MATERIAL 
+(GcA|U|I)
+
+"antechapel"
+(WkRcGbW GcA|U|I)
+
+"antedate"
+% TIME
+(U|IXgRlGb Wb]UfD DbIYb)
+
+"antediluvian"
+% HUMAN
+(Gc^lWUs W|XfDWz| UbIbQ)
+
+"antelope"
+% CONCRETE ANIMAL MATERIAL 
+(WjWWdW)
+
+"antenna"
+% CONCRETE ANIMAL MATERIAL 
+(WbD\gDb)
+# antenna circuit (NOUN) : WbD\gDb ^l|Il
+# antenna mine (NOUN) : ZlAAbA A|Il|
+
+"antennule"
+(XbAWzD ZlAAbA)
+
+"antependium"
+(XbWU|A [fRf)
+
+"antepennult"
+(WfQ|WgUf UgRfDYc WzQXfI)
+
+"antepenultimate"
+(WfQ|WgUf UgRfDYc WzQXfI)
+
+"anteriority"
+% CONCRETE MATERIAL 
+(Wb]UfQ)
+
+"anteroom"
+% CONCRETE ANIMAL MATERIAL 
+(Aj\RbW)
+
+"antetype"
+(WsfD^jW)
+
+"anthelion"
+(^lbDW|I)
+
+"anthelmintic"
+(AsZsWXg)
+
+"anthem"
+% CONCRETE MATERIAL 
+(UfWAb)
+# National Anthem (NOUN) : AsAAb
+# national anthem (NOUN) : AsAAb
+# the Royal Anthem (NOUN) : WjWAsA AsAAb
+
+"anther"
+% CONCRETE MATERIAL 
+(WdA)
+
+"anthologist"
+% HUMAN
+(QjWU|UfD ]jDX|RXb)
+
+"anthology"
+% CONCRETE MATERIAL ART
+(QjWU|UfDX|R)
+
+"anthotaxy"
+(^lbUf)
+
+"anthozoa"
+% ANIMAL ART
+(^lbZsWIw)
+
+"anthracene"
+(WbD\zIbUgD)
+
+"anthracite"
+% CONCRETE MATERIAL 
+(QsWjD\bD)
+
+"anthrax"
+% MATERIAL 
+(R|\bIXf)
+# ingaled anthrax (NOUN) : ^l^zRA| \bDXfRjW
+
+"anthropogenesis"
+% ART
+(W|DIw RbIUcWIlD)
+
+"anthropography"
+% ART
+(W|DIwX|)
+
+"anthropoid"
+% CONCRETE ANIMAL MATERIAL 
+(WwW|DWsfD)
+
+"anthropologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(W|DIw^bAXb)
+
+"anthropology"
+% MATERIAL ART
+(W|DIw^bA)
+
+"anthropometry"
+% ART
+(W|DZg ZzAXfW^bA)
+
+"anthropomorphism"
+% MATERIAL 
+(Wz|W|D^lb)
+
+"anthropomorphist"
+% HUMAN
+(U|DW|D GlW^jWIlDXb)
+
+"anthropophagi"
+% HUMAN
+(U|AW|DXlA)
+
+"anthropophagy"
+(U|AW|DWz| ]sWUzR)
+
+"anthropotomy"
+% ART
+(W|DZg ^cRs^bA)
+
+"anti"
+(RbDGcXb)
+
+"anti-art"
+% ART
+(RbDWkUsI)
+
+"anti-communism"
+% ART
+(RbDAlW)
+
+"anti-communist"
+% HUMAN
+(RbDAlWXsWz|Xb)
+
+"anti-icer"
+(R|WAjI RbWX| XbWZ|)
+
+"anti-imperialism"
+% ART
+(RbDXgAsAXsWz|)
+
+"anti-imperialist"
+% HUMAN
+(RbDXgAsAXsWz| Xb)
+
+"anti-oxidant"
+(UbD^lb RbWX|Xg)
+
+"anti-roman"
+% ART
+(WbW\|IlQbW)
+
+"anti-sabbatarian"
+% HUMAN
+(WbDU|AW|I RbDGcXb)
+
+"anti-semite"
+% HUMAN
+(UgQXlA RcZfAXb)
+
+"anti-semitic"
+(WwGcW|DWzI RcZfA^bDzD)
+
+"anti-semitism"
+% ART
+(WwGcW|D RcZfAXsWz|)
+
+"anti-terroism"
+(RbD\gIfXsWz|)
+
+"antiabortion"
+(DbA\c AzQX|)
+
+"antiabortionist"
+% HUMAN
+(DbA\c RbDGcIlDXb)
+
+"antibiotic"
+% CONCRETE MATERIAL 
+(^bWUcWQsIX|I)
+
+"antibody"
+% CONCRETE MATERIAL 
+(^bWGlAUl)
+
+"antic"
+% MATERIAL 
+(W|AUbIQbXWzD AfGlW)
+# play antics (VERB) : W|AUbI RsI|Gb
+
+"anticancer"
+(^bWWbQ)
+
+"anticathode"
+(GcWzQAzA)
+
+"antichrist"
+% HUMAN
+(AzI|UzGlWz| XfA)
+
+"antichristian"
+% HUMAN
+(AzI|UzGl RbDGcXb)
+
+"anticipant"
+% HUMAN
+(WkUbWXb)
+
+"anticipation"
+% MATERIAL 
+(A|Gc)
+# in anticipation (PP->ADV) : Q|I|
+# in anticipation of (PP->ADV) : (ADJUNCT [(OBJ A/IzI) WkAjD^b<VERB>]/^bWj)
+
+"anticipator"
+% HUMAN
+(WkUbWXb)
+
+"anticlericalism"
+% ART
+(ArAsfD RbDGc XsWz|)
+
+"anticlimax"
+% CONCRETE MATERIAL 
+(XfQAbWRfR)
+
+"anticline"
+(RcUb)
+
+"anticoagulant"
+(^bW WzWAlXg)
+
+"anticyclone"
+% MATERIAL 
+(W|U|Q UfD]sW)
+
+"antidepressant"
+(^bWWfAWsIXg)
+
+"antidiphtheritic"
+(G|]z\gI|Wb XsUbXg)
+
+"antidote"
+% CONCRETE MATERIAL 
+(^cGlAXg)
+
+"antiestablishmentarian"
+% HUMAN
+(RbDZgXgXsWz|Xb)
+
+"antifebrile"
+(^cWjIXg)
+
+"antifederalism"
+% ART
+(RbDWjDRbWXsWz|)
+
+"antifederalist"
+% HUMAN
+(RbDWjDRbWXsWz|Xb)
+
+"antifreeze"
+(RsGlWXg)
+
+"antifriction"
+(AbQQbXc)
+
+"antigen"
+% CONCRETE MATERIAL 
+(^bWWsfD)
+
+"antigravity"
+(RbDXsWIjA)
+
+"antihelix"
+(GcW|IwD)
+
+"antihero"
+% HUMAN
+(XsW|DAlWGbRX| WbD^WzD XsW|DAlW)
+
+"antihistamine"
+% CONCRETE MATERIAL 
+(^bW ^|Uz\bQ|DXg) 
+
+"antiknock"
+(WcD\|DlAXg)
+
+"antilogy"
+(XbA| QlUsD)
+
+"antimacassar"
+% CONCRETE ANIMAL MATERIAL 
+(Wz|XbWz| GzWVz|WsAc)
+
+"antimask"
+(QbAAbDWz| AlbWGcDlIW|)
+
+"antimasque"
+(QbAAbDWz| WfI|UAlbWGc W|AUbI)
+
+"antimatter"
+(RbDQsIX|I)
+
+"antimilitarism"
+% ART
+(RbD AsDAsAXsWz|)
+
+"antimilitarist"
+% HUMAN
+(RbD AsDAsAXsWz|Xb)
+
+"antimonarchist"
+% HUMAN
+(AsDXs XfWZ| RbDGcXb)
+
+"antimonsoon"
+(RbDGc AkXfI]sW)
+
+"antimony"
+% CONCRETE MATERIAL 
+(WbD\|QlD)
+
+"antineuralgic"
+(U|DAjW\lWWdA)
+
+"antineutron"
+(RbDXsWUfWXb)
+
+"antinomian"
+% HUMAN
+(U|DWbW X|UbWXsWz|Xb)
+
+"antinomy"
+(W|WwI RcRbD)
+
+"antinovel"
+% ART
+(WbW\|IlQbW)
+
+"antipasto"
+% CONCRETE MATERIAL 
+(XfDZc)
+
+"antipathy"
+% MATERIAL 
+(RbDAbQ)
+
+"antiphlogistic"
+(UlWjQXg)
+
+"antiphlogistine"
+(UlWjQAl)
+
+"antiphon"
+% CONCRETE MATERIAL 
+(WzWGbR UlWAb)
+
+"antiphonal"
+% CONCRETE MATERIAL 
+(ArUlW X|R)
+
+"antiphonary"
+% CONCRETE MATERIAL 
+(ArUlW X|R)
+
+"antiphony"
+% CONCRETE MATERIAL 
+(WzWGbR UlWAb)
+
+"antiphrasis"
+% CONCRETE MATERIAL 
+(WfWz| WjAWrW)
+
+"antipode"
+% CONCRETE MATERIAL 
+(XfWRbDGcWz| AfU)
+
+"antipodes"
+% CONCRETE MATERIAL 
+(GcZfAX|)
+
+"antipole"
+(RbDGcWz| AzA)
+
+"antipolitics"
+% ART
+(RbDXfWZ|)
+
+"antipope"
+% HUMAN
+(GcI|R Ar^lbW)
+
+"antipoverty"
+(R|DAlD \l|Z|)
+
+"antiproton"
+(RbDWdWXb)
+
+"antipyretic"
+% CONCRETE MATERIAL 
+(^cWjIXg)
+
+"antipyrin"
+(WbD\|]|I|D)
+
+"antipyrine"
+(WbD\|]|I|D)
+
+"antiquarian"
+% HUMAN
+(AlIGlW]sQ UsX|RAb)
+
+"antiquarianism"
+(AlIGlW]sQ UsX|RRjA)
+
+"antiquary"
+% HUMAN
+(AlIGlW]sQ WjDAsAb)
+
+"antique"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlQsI)
+
+"antiqueness"
+(Al]sW)
+
+"antiquity"
+% CONCRETE MATERIAL 
+(WlIcGl|Q)
+
+"antirrhinum"
+% MATERIAL 
+(AzQWfZl)
+
+"antirust"
+(DlA RbWX|Xg)
+
+"antiscorbutic"
+(Al|^jIRjW \zA^rWdA)
+
+"antisepsis"
+% MATERIAL 
+(RbWRsRfR)
+
+"antiseptic"
+% CONCRETE MATERIAL 
+(RbWRsXg)
+
+"antiserum"
+% CONCRETE MATERIAL 
+(^bW^jIZfW)
+
+"antislavery"
+% ART
+(DlWkXgGl RbDGc)
+
+"antisocialist"
+% HUMAN
+(RbDUb^l|XsWz|Xb)
+
+"antispasmodic"
+(X|DAjWXg)
+
+"antistrophe"
+(GcXlWbAXfI)
+
+"antithesis"
+% CONCRETE MATERIAL 
+(GcXl)
+
+"antitoxin"
+% CONCRETE MATERIAL 
+(^bWGlAUl)
+
+"antitrade"
+(WjA^bW]sW)
+
+"antitype"
+(WsfD^jW)
+
+"antiworld"
+(RbDUgAk)
+
+"antler"
+% CONCRETE MATERIAL 
+(AbX|X|D SsI)
+
+"antonomasia"
+(^lbDZ|W)
+
+"antonym"
+% MATERIAL 
+(RbDGcQbI)
+
+"antre"
+% PLACE
+(GlWAsI)
+
+"antrum"
+(AlWGlW)
+
+"antu"
+(WcD\s)
+
+"anuran"
+% CONCRETE ANIMAL MATERIAL 
+(WfDwIfD)
+
+"anus"
+% CONCRETE MATERIAL ANIMAL
+(^bWQsD)
+
+"anvil"
+% CONCRETE MATERIAL 
+(QlIs)
+
+"anxiety"
+% MATERIAL MIND
+(AzDU|Q)
+
+"anybody"
+(DsAs)
+
+"anyone"
+% HUMAN ANIMAL
+(DsAs)
+
+"anything"
+(WfHf^bD AfU)
+# ^get anything to do with A (VERB) : [(ADJUNCT A/Wlb) (MODS [WdAAbD<ADV>]) (COMP [UbWAlbD<NOUN>]/W|) W|V<VERB>]/Gb
+
+"anzac"
+(WbDXbA AsDGbD)
+
+"aorist"
+(RsXfWAlbAf)
+
+"aorta"
+% CONCRETE MATERIAL ANIMAL
+(GcGlWQcA)
+
+"aoudad"
+% CONCRETE ANIMAL MATERIAL 
+(WdUcWWz| WdW)
+
+"apache"
+% HUMAN
+(BbW]c)
+# apache dance (NOUN) : DbD]lA^bAg ZsDzD ZsQ
+
+"apache"
+% HUMAN ORGAN
+(Wb]bZ| XlA)
+
+"apanage"
+% PLACE
+(WjWX|)
+
+"aparejo"
+(A|IQb)
+
+"apartheid"
+% MATERIAL ART
+(W|DXlWZbRjI)
+
+"apartment"
+% CONCRETE MATERIAL PLACE
+(Wb]b\z)
+
+"apartotel"
+% PLACE
+(Wb]b\zU|A ^l\gI)
+
+"apathy"
+% CONCRETE MATERIAL MIND
+(DcWGbQ)
+# ^have an apathy to A (VERB) : [(ADJUNCT A/Wg) DcWGbQ^b<VERB>]/Gb
+
+"apatite"
+% CONCRETE MATERIAL 
+(W|D^l|UfA)
+
+"ape"
+% CONCRETE ANIMAL MATERIAL 
+(WsfDUsWW|)
+# lead apes in hell (VERB) : W|IUcW GlAU|DWzIl UbIGb
+# play the ape (VERB) : ^wWDcDcGb
+# say an ape's paternoster (VERB) : ZsWsfUf GfIGfIHfIGb
+
+"apercu"
+% CONCRETE MATERIAL 
+(XsIAfI|)
+
+"aperient"
+(^bXg)
+
+"aperitif"
+% CONCRETE MATERIAL 
+(RbDXs)
+
+"aperture"
+% CONCRETE MATERIAL ANIMAL
+(WbAbI|)
+
+"apery"
+% MATERIAL 
+(^wWDc)
+
+"apex"
+% MATERIAL 
+(XfWXfQ)
+
+"aphaeresis"
+(WfGsWzQ UlU|I)
+
+"aphasia"
+% MATERIAL 
+(U|IWfXzW)
+
+"aphasic"
+% HUMAN
+(U|IWfXzWWz| ^lbDXb)
+
+"aphelion"
+(WsfDW|IXfQ)
+
+"aphesis"
+(GsQlWzQ UlU|I)
+
+"aphis"
+% ANIMAL
+(X|DG|)
+
+"aphonia"
+(QsUfWWzQXzW)
+
+"aphony"
+(QsUfWWzQXzW)
+
+"aphorism"
+% CONCRETE MATERIAL 
+(AjWAs)
+
+"aphorist"
+(AjWAsAb)
+
+"aphrodisiac"
+(Zl|WzQXg)
+
+"aphtha"
+(WbAsZbW)
+
+"apiarist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdWRlWAb)
+
+"apiary"
+(WdWRlWXbW)
+
+"apices"
+(XfWUbWGzI)
+
+"apiculture"
+(WdWRlW)
+
+"apiculturist"
+% HUMAN
+(WdWRlWAb)
+
+"aplanat"
+(QsUsZb IgDXz)
+
+"aplane"
+(WsfDXbIjA R|^cWA|)
+
+"aplomb"
+% CONCRETE MATERIAL 
+(UsX|A)
+
+"apnoea"
+(^l^zR XfWX|)
+
+"apocalypse"
+% MATERIAL 
+(QsAU|)
+
+"apochromat"
+(UcAUsZbIzI WfRUWcD AlAzRIgDXz)
+
+"apocope"
+(WfQ|UlU|I)
+
+"apodosis"
+(XlAfDQsDWz| As|AjI)
+
+"apogamy"
+(QsRc UcWU|A)
+
+"apogee"
+% MATERIAL 
+(Zl|AlXfQ)
+
+"apollyon"
+% HUMAN
+(QbWlbW)
+
+"apologetic"
+(RjDQjW)
+
+"apologetical"
+(RjDQjW)
+
+"apologia"
+% CONCRETE MATERIAL 
+(RjDQjWQsD)
+
+"apologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjDQjWXb)
+
+"apologue"
+% CONCRETE MATERIAL 
+(Ar^sDGbQ)
+
+"apology"
+% CONCRETE MATERIAL 
+(UbAlb)
+# in apology for A (ADV) : (ADJUNCT [(OBJ A/WzI) UbAlb^b<VERB>]/^bWj)
+
+"apolune"
+(WsfDWsfIXfQ)
+
+"apophthegm"
+(AjWAs)
+
+"apophysis"
+(WwWA|)
+
+"apoplectic"
+% HUMAN
+(XlIGl^bI X|AjWW|D)
+
+"apoplexy"
+% MATERIAL 
+(XlIGl)
+
+"aposiopesis"
+% CONCRETE MATERIAL 
+(GlDXfIRfR)
+
+"apostasy"
+% MATERIAL MIND
+(RcU|D)
+
+"apostate"
+% HUMAN
+(RjDXfIXb)
+
+"apostil"
+(RbWXs)
+
+"apostille"
+(RbWXs)
+
+"apostle"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbGl)
+# The Creed (NOUN) : UbGl U|DAjW
+# The Apostles' Creed (NOUN) : UbGl U|DAjW
+# the Apostles (NOUN) : 12 UbGl
+
+"apostleship"
+% HUMAN
+(UbGlWz| U|DRsD)
+
+"apostolate"
+% HUMAN
+(UbGlWz| X|A)
+
+"apostrophe"
+% CONCRETE MATERIAL 
+(Wf]lUz\zIl]|)
+
+"apothecary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WdAXlWUbW)
+
+"apothegm"
+% CONCRETE MATERIAL 
+(AjWAs)
+
+"apothem"
+(RjDU|QAfI|)
+
+"apotheosis"
+% ART
+(U|DAjA^lb)
+
+"appanage"
+(WjWX|)
+
+"apparatchik"
+% HUMAN
+(GlWUbDGbW A|AlbDWsfD)
+
+"apparatus"
+% CONCRETE MATERIAL 
+(A|As)
+
+"apparel"
+% CONCRETE ANIMAL MATERIAL 
+(Wz|UbW)
+
+"apparition"
+% CONCRETE MATERIAL 
+(^lbDWjW)
+
+"apparitor"
+% HUMAN
+(^bAzRAlbDI|)
+
+"appeal"
+% CONCRETE MATERIAL 
+(^lUl)
+# court appeal (NOUN) : ^bWUl
+# court of appeal (NOUN) : AlWUlU|Q Xc]bDUl
+# ^lodge an appeal (VERB) : AlWUl^bGb
+# ^enter an appeal (VERB) : AlWUl^bGb
+# ^make an appeal to A (VERB) : [(ADJUNCT A/Wg) ^lUl^b<VERB>]/Gb
+# the final appeal (NOUN) : Zl|^s UsGbD
+
+"appearance"
+% MATERIAL 
+(Wl|Ql)
+# appearance of A {+PRNOUN} (NOUN) : [(POSS A/Wz|) ZsI^jD<NOUN>]
+# by all appearance (PP->ADV) : WfDHzU RlA|WgDzD
+# by all appearances (PP->ADV) : WfDHzU RlA|WgDzD
+# court appearance (NOUN) : RfRXfWZsI^jD
+# during ONE_S appearance (PP->ADV) : (ADJUNCT [(POSS ONE/Wz|) ZsIUfA<NOUN>]/GlWWbD)
+# ^enter an appearance (VERB) : Db\bDbGb
+# first appearance (NOUN) : ZfURfDYc ZsI^jD
+# for appearance's sake (PP->ADV) : ZgQjDUbW
+# for the sake of appearance (PP->ADV) : ZgQjDUbW
+# ^judge by appearances (VERB) : Wl|QlIl ]bDGbD^bGb
+# ^keep up appearances (VERB) : WfIAsIWzI DcQ|IGb
+# ^make ONE_S appearance (VERB) : WfIAsIWzI DcQ|IGb
+# ^make a fine appearance (VERB) : RlA|Wg Xl^Gb
+# ^make a good appearance (VERB) : RlA|Wg Xl^Gb
+# ^make an appearance (VERB) : WfIAsIWzI DcQ|IGb
+# ^make its first appearance (VERB) : ZfUQlUzRWzI Db\bDcGb 
+# physical appearance (NOUN) : Wl|Ql
+# ^put in ONE_S appearance (VERB) : WfIAsIWzI DcQ|IGb
+# ^put in an appearance (VERB) : WfIAsIWzI DcQ|IGb
+# ^put on the appearance of honesty (VERB) : Af\QbD XfWX|A^bD Zg ^bGb
+# ^save appearances (VERB) : WfIAsIWzI DcQ|IGb
+# to all appearance (PP->ADV) : WfDHzU RlA|WgDzD
+# to all appearances (PP->ADV) : WfDHzU RlA|WgDzD
+
+"appeasement"
+% MATERIAL 
+(Ws|Il)
+
+"appellant"
+% HUMAN 
+(AlWUlW|D)
+
+"appellation"
+% MATERIAL 
+(QjWZ|W)
+
+"appellative"
+(QjWZ|W)
+
+"appellee"
+% HUMAN 
+(]|AlWUlW|D)
+
+"appellor"
+% HUMAN 
+(AlUl W|D)
+
+"appendage"
+% CONCRETE MATERIAL 
+(RsAbQsI)
+
+"appendant"
+(RsUsQsI)
+
+"appendectomy"
+(ZsWUs XfIXg UsUsI)
+
+"appendices"
+(RsAbQsIGzI)
+
+"appendicitis"
+% MATERIAL 
+(ZsWUsWjQ)
+
+"appendix"
+% CONCRETE MATERIAL 
+(RsIlA)
+# ruptured appendix (NOUN) : ]bWjIGl|D QcWXbW
+
+"appentency"
+% MIND 
+(WjIQbW)
+
+"apperception"
+(\lWAbA)
+
+"appertaining"
+(UlUlAQsI)
+
+"appetence"
+% MATERIAL MIND
+(WjIQbW)
+
+"appetite"
+% MATERIAL MIND
+(U|AWrA)
+# carnal appetite (NOUN) : UfWWrA
+# sexual appetite (NOUN) : UfWWrA
+# the appetite of sex (NOUN) : UfWWrA
+# ^be to ONE_S appetite (VERB) : W|RWg QbXGb
+# ^have a good appetite (VERB) : U|AWrAW| Xl^Gb
+# ^have a poor appetite (VERB) : U|AWrAW| DbSzGb
+# ^lose ONE_S appetite (VERB) : U|AWrAWzI W|I^Gb
+# ^sharpen ONE_S appetite (VERB) : U|AWrAWzI WfGGb
+
+"appetizer"
+% CONCRETE MATERIAL 
+(U|AWrAWzI GlGAsDzD AfU)
+
+"applause"
+% ACTION
+(AbIZc)
+# a round of applause (NOUN) : W|IXg^| Z|DzD RbAUs
+
+"apple"
+% CONCRETE MATERIAL FOOD
+(UbAlb)
+# Carthaginian apple (NOUN) : UfAIw
+# Dead Sea apple (NOUN) : UlGlQWz| UbAlb
+# Jew's apple (NOUN) : AbX|
+# apple of love (NOUN) : GlQbGl
+# apple picking (NOUN) : UbAlb XsRA|
+# bitter apple (NOUN) : [lIIlU|DGz WlW|
+# the apple of Sodom (NOUN) : UlGlQWz| UbAlb
+# the apple of the eye (NOUN) : DsDGlWXb
+
+"applesauce"
+% CONCRETE MATERIAL FOOD
+(UbAlb UlWlUz)
+
+"appliance"
+% CONCRETE ANIMAL MATERIAL 
+(A|As)
+# electric appliance (NOUN) : XfDA|A|As
+# household appliance (NOUN) : AbXfWWrWA|
+
+"applicability"
+% CONCRETE MATERIAL 
+(XfAWzWUfW)
+
+"applicant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|WsfDXb)
+
+"application"
+% CONCRETE MATERIAL 
+(WzWWrW[X|WsfD])
+# E-mail application (NOUN) : XfDXbWs]jD WzWWrW ]zIlAzIcQ
+# application blank (NOUN) : U|DZfWWrWX|
+# application of A to B (NOUN) : [(ADJUNCT B/IlWz|) (POSS A/Wz|) XfAWrW<NOUN>]
+# application form (NOUN) : WzWU| WsfDUf
+# client application (NOUN) : [zIIbW|WfD\z WzWWrW ]zIlAzIcQ
+# letter of application (NOUN) : WzWU| WsfDUf
+# ^make an application for A (VERB) : [(OBJ A/IzI) U|DZfW^b<VERB>]/Gb
+
+"appoggiatura"
+% CONCRETE MATERIAL 
+(XbWXfD\bWzQ)
+
+"appointee"
+% HUMAN
+(W|QQjW RbGWzD UbIbQ)
+
+"appointer"
+% HUMAN
+(W|QQjWXb)
+
+"appointment"
+% MATERIAL 
+(WdAUlA)
+# by appointment (ADV) : WdAUlAWg Wz|^bWj
+# cabinet appointment (NOUN) : DcAbA W|QQjW
+# ^keep ONE_S appointment (VERB) : WdAUlAWzI X|[|Gb
+# ^break ONE_S appointment (VERB) : WdAUlAWzI WfA|Gb
+# ^make an appointment with A (VERB) : [(ADJUNCT A/Alb) WdAUlAWzI ^b<VERB>]/Gb
+# ^take up an appointment (VERB) : Zs|W|Q^bGb
+
+"appointor"
+% HUMAN
+(W|QQjWXb)
+
+"apport"
+(^lbDWjW)
+
+"apportionment"
+% MATERIAL 
+(RsDRc)
+
+"appositeness"
+% CONCRETE MATERIAL 
+(XfAXfI^bQ)
+
+"apposition"
+% CONCRETE MATERIAL 
+(RjWIjI)
+# in apposition to A (ADV) : (ADJUNCT [(COMP A/Wlb) GlWAjA<NOUN>]/Il)
+
+"appositive"
+(GlWAjAWf)
+
+"appraisal"
+% CONCRETE MATERIAL ECOLIFE
+(AbRUQcA|A|)
+# appraisal of real estate (NOUN) : RsGlWUbD]jWAb
+# appraisal standard (NOUN) : ]jWAbA|XsD
+# appraisal surplus (NOUN) : ]jWAb^lbDUzWWjAzQ
+
+"appraisement"
+% ECOLIFE
+(AbRUQcA|A|)
+
+"appraiser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]jWAbW|D)
+
+"appreciation"
+% CONCRETE MATERIAL ART
+(AbQUbW)
+# in appreciation of A (ADV) : (ADJUNCT [(OBJ A/WzI) (MODS [ZsWRsD^|<ADV>]) WbI<VERB>]/Al)
+
+"appreciator"
+% HUMAN
+(X|DAbIzI W|^c^bDzD UbIbQ)
+
+"apprehensibility"
+(W|^c ^bI Us W|VWzQ)
+
+"apprehensiveness"
+% MATERIAL MIND
+(WjQIj)
+
+"apprehesion"
+% MIND
+(WsIj)
+# ^be quick of apprehension (VERB) : W|^cAb SbIzGb
+# ^be dull of apprehension (VERB) : W|^cAb SbIzGb
+
+"apprentice"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlXg)
+# apprentice's school (NOUN) : GlXg ^bAAr
+# ^bind a person apprentice to (VERB) : GlXgIl RlDcGb
+# ^be bound to apprentice (VERB) : GlXgAb Gl|Gb
+
+"apprenticeship"
+(GlXg UbIW|)
+# ^serve ONE_S appreticeship (VERB) : GlXg WjD^bDWzI ZcWsGb
+# ^serve out ONE_S appreticeship (VERB) : GlXg WjD^bDWzI ZcWsGb
+
+"approach"
+% MATERIAL 
+(XfRAzD)
+
+"approachableness"
+(AbBbW| ^bA| Us|WsQ)
+
+"approbation"
+% CONCRETE MATERIAL 
+(ZbDUfW)
+
+"appropriateness"
+% CONCRETE MATERIAL 
+(XfAGbW^bQ)
+
+"appropriation"
+% MATERIAL 
+(XfDWrW)
+# appropriation of profit (NOUN) : W|W|AWz| ZfRsD
+# budgetary appropriation (NOUN) : WkUbDWz| RcXfW
+
+"appropriator"
+(XfDWrWXb)
+
+"approval"
+% CONCRETE MATERIAL 
+(UzWW|D)
+# approval sales (NOUN) : U|AlW]sQ]bDQc
+# for your approval | (ADV) : As|^bWz| UzWW|DWzI RbIbQj
+# ^meet with ONE_S approval (VERB) : [(OBJ [(POSS ONE/Wz|) ZbDUfW<NOUN>]/WzI) WfG<VERB>]/Gb
+# with your kind approval | (ADV) : As|^bWz| ZbDUfWWzI WfGWfUf
+
+"approver"
+% HUMAN
+(U|W|DXb)
+
+"approximation"
+% CONCRETE MATERIAL 
+(XfRAzD)
+
+"appulse"
+(AzDXfR)
+
+"appurtenance"
+% CONCRETE MATERIAL 
+(RsUlA]sQ)
+
+"appurtenant"
+(RsUlAQsI)
+
+"apra"
+% ORGAN
+(]gIsWz| ^jAU|D XfWGbWWz| W|IzQ)
+
+"apres-guerre"
+% TIME
+(GcXfD^s)
+
+"apricot"
+% CONCRETE MATERIAL PLANT FOOD
+(UbIAs)
+
+"apriorism"
+% ART
+(UfDZfDUfI)
+
+"apriority"
+(UfDZfDXfAW|Q)
+
+"apron"
+% CONCRETE MATERIAL 
+(Wb]Z|Qb)
+
+"apronful"
+(Wb]Z|Qb AbGzA)
+
+"apse"
+% CONCRETE MATERIAL 
+(^sX|D)
+
+"apsis"
+% CONCRETE MATERIAL 
+(XbWZsAGbD)
+
+"apteryx"
+% CONCRETE ANIMAL MATERIAL 
+([|Ws|)
+
+"aptitude"
+% MATERIAL 
+(UlX|I)
+
+"aptness"
+% CONCRETE MATERIAL 
+(XfA^bRUfW)
+
+"aqua"
+% CONCRETE MATERIAL 
+(QsI)
+# aqua ammonia (NOUN) : WbQQlD|WbUs
+# aqua ammoniae (NOUN) : WbQQlD|WbUs
+
+"aquacade"
+(UsUbW WjDWk)
+
+"aquaculture"
+(WdWU|A)
+
+"aquafarm"
+(WdWU|AXbW)
+
+"aqualung"
+% CONCRETE ANIMAL MATERIAL 
+(UsXsW ^l^zRA|)
+
+"aquamarine"
+% CONCRETE MATERIAL 
+(DbQWlA)
+
+"aquanaut"
+% HUMAN
+(^cXf Wj^cWAb)
+
+"aquaplane"
+(UsUbW ^lbIXsWrW DfISbDX|)
+
+"aquarelle"
+% ART
+(UsZc^lbRfR)
+
+"aquarellist"
+% HUMAN
+(UsZc^lbAb)
+
+"aquarium"
+% CONCRETE ANIMAL MATERIAL 
+(UsXl)
+
+"aquatic"
+% ANIMAL
+(UsUcW GlWQsI)
+
+"aquatint"
+(U|AAbAWr]bD)
+
+"aqueduct"
+% CONCRETE MATERIAL 
+(UsIl)
+# aqueduct bridge (NOUN) : UsIlAr
+
+"aquiculture"
+% ART
+(UsAjWRfR)
+
+"arab"
+% HUMAN
+(WbIbR|Wb UbIbQ)
+# the Arab League (NOUN) : WbIbR WjDQcW
+# the Arab Republic of Egypt (NOUN) : W|X|R\z AlW^lbAsA
+# Arab Republics (NOUN) : WbIbR AlW^lbAsA WjDRbW
+# the Federation of Arab Republics (NOUN) : WbIbR AlW^lbAsA WjDRbW
+
+"arabesque"
+% CONCRETE MATERIAL 
+(WbIbR|WbU|AWz|XbW)
+
+"arabian"
+% HUMAN
+(WbIbR|Wb UbIbQ)
+
+"arabic"
+(WbIbR|WbWf)
+
+"arabist"
+% HUMAN
+(WbIbR|Wb ^bAXb)
+
+"arable"
+(AjWXbAX|)
+# arable land (NOUN) : AjWX|
+
+"arachnid"
+% CONCRETE ANIMAL MATERIAL 
+(AfQ|)
+
+"arachnoid"
+% CONCRETE ANIMAL MATERIAL 
+(AfQ|XsIQbA)
+
+"Arab"
+(WbIbR)
+
+"Arab Monetary Fund"
+(WbIbR\lW^lbA|AzQ)
+
+"Arafat"
+(WbIb]b\z)
+
+"aramaic"
+% ANIMAL
+(WbIbQ QbI)
+
+"araneida"
+(WcIfD|Gf)
+
+"araucaria"
+% PLANT
+(DbQWdW UbQQlA)
+
+"arbalest"
+([zD ^lbI)
+
+"arbalester"
+% HUMAN
+([zD ^lbIWz| UbUs)
+
+"arbiter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsWXcW|D)
+
+"arbitrage"
+% MATERIAL ECOLIFE
+(XsWAc QcQc)
+
+"arbitrament"
+% ACTION
+(XcAjI)
+
+"arbitrariness"
+% ACTION
+(GlAGbD)
+
+"arbitration"
+% CONCRETE MATERIAL ACTION
+(XsWXc)
+# arbitration of exchange (NOUN) : ^lbDWz| XcXfW
+# arbitration in stock and shares (NOUN) : XsU|AWz| XsWAc
+# court of arbitration (NOUN) : XsWXcXc]bDUl
+# ^refer a dispute to arbitration (VERB) : XcWWz|IzI XsWXcWg Rs\W|Gb
+# ^submit a dispute to arbitration (VERB) : XcWWz|IzI XsWXcWg Rs\W|Gb
+
+"arbitrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlXfWXb)
+
+"arbitress"
+% HUMAN 
+(WjXb XsWXcW|D)
+
+"arbor"
+% CONCRETE MATERIAL PLANT
+(UsQlA)
+# Arbor Day (NOUN) : U|AQlAW|I
+
+"arbor"
+% CONCRETE MATERIAL 
+(XfWXb)
+
+"arbor"
+% CONCRETE MATERIAL 
+(ZsA)
+
+"arborescence"
+(UsQlAUbW)
+
+"arboretum"
+% CONCRETE ANIMAL MATERIAL 
+(UsQlAWsfD)
+
+"arboriculture"
+% MATERIAL ART
+(UsQlA XcRc)
+
+"arboriculturist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsQlA XcRcAb)
+
+"arborization"
+(DbQsUAbX| ^jWUbW)
+
+"arborvitae"
+% PLANT
+(UfWdW ZzARcADbQs)
+
+"arbour"
+% CONCRETE ANIMAL MATERIAL 
+(XfWXb)
+
+"arbutus"
+% PLANT
+(ZfIYsAAlbWz| UbWIlA AlbDQlA)
+
+"arc"
+% MATERIAL 
+(^l)
+# diurnal arc (NOUN) : W|IXs ^l
+# nocturnal arc (NOUN) : WdXs ^l
+# arc furnace (NOUN) : WbWb[zIl
+
+"arcade"
+% CONCRETE MATERIAL 
+(Wb[gW|Gz)
+
+"arcadianism"
+% ART
+(XfDWsfDZs|Q|)
+
+"arcanum"
+% CONCRETE MATERIAL 
+(U|DR|)
+
+"arch"
+% CONCRETE MATERIAL 
+(WbWbZ|)
+# memorial arch (NOUN) : A|DjQ QsD
+# triumphal arch (NOUN) : AcUfD QsD
+# railway arch (NOUN) : AsIzQGbI|
+
+"archaeologist"
+% HUMAN
+(AlAl^bAXb)
+
+"archaeology"
+% MATERIAL ART
+(AlAl^bA)
+
+"archaism"
+% ART
+(Wz|AlXsWz|)
+
+"archaist"
+% HUMAN
+(AlWf UbWrWXb)
+
+"archangel"
+% CONCRETE MATERIAL HUMAN
+(GcZfDUb)
+
+"archbishop"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcXsAr)
+
+"archbishopric"
+% HUMAN
+(GcXsArWz| X|A)
+
+"archdeacon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RsXsAr)
+
+"archdeaconry"
+% HUMAN
+(RsXsArWz| X|A)
+
+"archdiocese"
+% MATERIAL 
+(GcXsArWz| AlbDAs)
+
+"archduchess"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcAlWR|)
+
+"archduchy"
+% MATERIAL PLACE ORGAN
+(GcAlWAsA)
+
+"archduke"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GcAlW)
+
+"archdukedom"
+% PLACE ORGAN
+(GcAlWAsA)
+
+"archenemy"
+% HUMAN
+(GcXfA)
+
+"archeologist"
+% HUMAN
+(AlAl^bAXb)
+
+"archeology"
+% MATERIAL ART
+(AlAl^bA)
+
+"archer"
+% HUMAN
+(UbUs)
+
+"archeress"
+% HUMAN
+(WjXb AsWUs)
+
+"archerfish"
+% CONCRETE ANIMAL MATERIAL 
+(UbUsWf)
+
+"archery"
+% MATERIAL ART
+(AsWUsI)
+
+"archetype"
+% CONCRETE MATERIAL 
+(WsfD^jW)
+
+"archfiend"
+% HUMAN 
+(Ub\bD)
+
+"archie"
+(AlUb]l)
+
+"archiepiscopacy"
+% HUMAN
+(GcXsArWz| X|A)
+
+"archil"
+% CONCRETE MATERIAL 
+(XbXsR|Z WjQIr)
+
+"archimandrite"
+% HUMAN 
+(Gc UsGlWsfDXbW)
+
+"archipelago"
+% CONCRETE MATERIAL 
+(AsDGl)
+
+"architect"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AfDZsAAb)
+# the Great Architect (NOUN) : XlQsIXs
+
+"architectonic"
+% ART 
+(AfDZsA^bA)
+
+"architecture"
+% CONCRETE MATERIAL ART
+(Wb[|\gAZj)
+
+"architrave"
+% CONCRETE MATERIAL 
+(]jWRbW)
+
+"archive"
+% CONCRETE ANIMAL MATERIAL 
+(A|IlA)
+
+"archives"
+% CONCRETE MATERIAL 
+(A|IlA)
+
+"archiving"
+(A|IlA RlAlbD)
+
+"archivist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(A|IlA RlAlbDW|D)
+
+"archivolt"
+(XbWU|A ^lWWkZbWGlI|)
+
+"archness"
+% CONCRETE MATERIAL MIND
+(Ar^lbI^bQ)
+
+"archon"
+% HUMAN
+(X|RXfWAlbD)
+
+"archonship"
+% HUMAN
+(X|RXfWAlbDWz| X|A)
+
+"archprelate"
+% HUMAN
+(AlWs| UfWX|AXb)
+
+"archpriest"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XsQlAUb)
+
+"archtraitor"
+% HUMAN
+(Gc RbDWjAXb)
+
+"archway"
+% CONCRETE MATERIAL 
+(WbWbZ|A|I)
+
+"arcograph"
+% HUMAN
+(WsfD^lXb)
+
+"arctic"
+% CONCRETE ANIMAL MATERIAL 
+(RsAAzA)
+
+"arcturus"
+(GcAbAUfW)
+
+"ardency"
+% MIND
+(WjIU|Q)
+
+"ardor"
+% MATERIAL MIND
+(WjIXfW)
+# with ardor (PP) : [WjIU|Q^|<ADV>]
+
+"ardour"
+% MIND
+(WjIXfW)
+# with ardour (ADV) : WjIU|Q^|
+
+"area"
+% CONCRETE MATERIAL HOMONYM PLACE
+(WjWWjA)
+# area bell (NOUN) : X|^b ZsIW|RAsWz| ZlW|DXlW
+# area gate (NOUN) : X|^b ZsIW|RAsWz| \lWWrWQsD
+# area code (NOUN) : X|WjARfD^l
+# backward area (NOUN) : DbA^s X|WjA
+# blighted area (NOUN) : DbA^sX|Gc
+# bonded area (NOUN) : RlUgX|WjA
+# cultural ^area (NOUN) : QsD^lbAsfD
+# fenced area (NOUN) : WsI|
+# highly populated area (NOUN) : W|DAs AlQ|IGl X|WjA
+# land ^area (NOUN) : X|WjA 
+# nonsmoking area (NOUN) : AzQWjD AsWjA
+
+# sleeping area (NOUN) : UsQjDX|WjA
+# subject area (NOUN) : XgQlA RsDWd
+
+
+"area1nn"
+% PLACE
+(X|WjA)
+
+"area2nn"
+(QjDXfA)
+
+"area3nn"
+(RsDWd)
+
+"areaway"
+(RfQWs|)
+
+"areca"
+% CONCRETE PLANT MATERIAL 
+(R|DIbWDbQs)
+
+"arena"
+% CONCRETE MATERIAL PLACE
+(WsfD^jWAjWA|XbW)
+# arena theater (NOUN) : WsfD^jW AzAXbW
+
+"areometer"
+(WcAZg R|XsWAk)
+
+"areopagite"
+% HUMAN 
+(AlGc Wb\gDgWz| WbIgWl]bAlUzWz| Xc]bDAlbD)
+
+"argal"
+% CONCRETE ANIMAL MATERIAL 
+(WdW)
+
+"argala"
+(QsUsI|)
+
+"argali"
+% CONCRETE ANIMAL MATERIAL 
+(WdW)
+
+"argand"
+(WbIzAbWGzW)
+
+"argent"
+(WzD)
+
+"argentine"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(WbIz^gD\|Db UbIbQ)
+# the Argentine (NOUN) : WbIz^gD\|Db
+
+"argentine"
+% CONCRETE ANIMAL MATERIAL 
+(WzDR|Z)
+
+"arghan"
+(DbQQ|UbD U|AQsI UfQWw)
+
+"argil"
+(Gl\l)
+
+"argillite"
+% CONCRETE MATERIAL 
+(XfQ]bDWbQ)
+
+"argive"
+% HUMAN
+(WbIzAlUz UbIbQ)
+
+"argol"
+(AfZ|D XsUfA)
+
+"argon"
+% CONCRETE MATERIAL 
+(WbIzAlD)
+
+"argosy"
+% MATERIAL 
+([zD UbWUfD)
+
+"argot"
+% CONCRETE MATERIAL 
+(WzDWf)
+
+"arguer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(DlDXcWXb)
+
+"argument"
+% CONCRETE MATERIAL ACTION
+(DlDXcW)
+# argument THAT_CLAUSE (NOUN) : [(SCOMP THAT_CLAUSE/^bGbDzD) DlDXcW<NOUN>]
+# ^have an argument with A (VERB) : [(ADJUNCT A/Wlb) WfDXcWWzI ^b<VERB>]/Gb
+# without argument (ADV) : W|Wz| WfRUW|
+
+"argumentation"
+% MATERIAL 
+(W|RIlD)
+
+"argumentativeness"
+% MIND
+(DlDXcW^bA| Xl^Wb^bQ)
+
+"argyria"
+(WzDXsWGlA)
+
+"aria"
+% CONCRETE MATERIAL 
+(WbI|Wb)
+
+"aridity"
+% MATERIAL 
+(AfDXl)
+
+"aridness"
+% MATERIAL 
+(AfDXl^bQ)
+
+"ariel"
+% ANIMAL
+(WjWWdW)
+
+"aries"
+(RcAWdWAsW)
+
+"arietta"
+% CONCRETE MATERIAL 
+(WbI|Wg\b)
+
+"aril"
+(AbXlW]|)
+
+"arista"
+(BfBzIfA|)
+
+"aristocracy"
+% MATERIAL ART
+(As|XlA XfWZ|)
+# aristocracy of labor (NOUN) : DlGlW
+
+"aristocrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(As|XlA)
+
+"aristocratism"
+% ART
+(As|XlA XsWz|)
+
+"aristotelean"
+% HUMAN
+(WbI|Uz\l\gIIgUz ^bA]bWz| UbIbQ)
+
+"aristotelian"
+% HUMAN
+(WbI|Uz\l\gIIgUz ^bA]bWz| UbIbQ)
+
+"aristotelianism"
+% ART
+(WbI|Uz\l\gIIgUz ZfI^bA)
+
+"arithmetic"
+% MATERIAL ART
+(UbDUs)
+
+"arithmetician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UbDUsAb)
+
+"arithmometer"
+(AkUbDA|)
+
+"ark"
+% CONCRETE MATERIAL 
+(RbWXs)
+# the Ark of Testimony (NOUN) : AkWdAWz| Asg
+# the Ark of the Covenant (NOUN) : AkWdAWz| Asg
+
+"arkie"
+% HUMAN
+(Wb[bDUlZsIU|DWz| HzDcA| DlWRs)
+
+"arles"
+(ZbAUsAzQ)
+
+"arm"
+% CONCRETE MATERIAL ANIMAL
+(]bI)
+# ^put ONE_S arms around A {+ANIMAL} (VERB) : [(OBJ A/IzI) BjWbD<VERB>]/Gb
+# ONE_S right arm (NOUN) : WlIzD]bI
+# ^appeal to arms (VERB) : QsIjAWg ^lUl^bGb
+# arm in arm (ADV) : ]bIYbWWzI B|Al
+# arms and the man (NOUN) : QsA|Wlb UbIbQ
+# arms control (NOUN) : AsDR| Xg^bD
+# ^be bred to arms (VERB) : AsDUb ArWwAWzI RbGGb
+# ^be up in arms (VERB) : QsA|IzI GzIAl W|IWfUfGb
+# ^bear arms (VERB) : QsXbW^bGb
+# ^bear arms against A (VERB) : [(ADJUNCT A/Alb) VbWs<VERB>]/Gb
+# better arm | (NOUN) : WlIzD ]bI
+# by arms (ADV) : QsIjAWzIl
+# ^call to arms (VERB) : GlWWsfD^bGb
+# ^carry arms (VERB) : QsA|IzI XbRGb
+# ^change arms (VERB) : ZlWWzI RbBsfQgGb
+# child in arms (NOUN) : AbUDbD WbA|
+# deeds of arms (NOUN) : Qs^sD
+# ^fold ONE_S arms (VERB) : ]bIYbWWzI B|Gb
+# ^get under arms (VERB) : QsXbW^bGb
+# ^give ONE_S arms (VERB) : ]bIWzI DcQ|IGb
+# ^give up ONE_S arms (VERB) : ^bWRlA^bGb
+# ^go to arms (VERB) : QsIjAWg ^lUl^bGb
+# ^have a child in ONE_S arms (VERB) : WbW|IzI WbDAl W|VGb
+# ^hold a person at ONE_S length (VERB) : DbQWzI AbBbW|^bX| WbD^Gb
+# in ONE_S arms (ADV) : ]bIWbDWg
+# in arms | (ADV) : QsXbW^bAl
+# infant in arms (NOUN) : AbUDbD WbA|
+# ^keep a person at ONE_S length (VERB) : DbQWzI AbBbW|^bX| WbD^Gb
+# ^lay down ONE_S arms (VERB) : QsA|IzI RfI|Gb
+# ^lie upon ONE_S arms (VERB) : QsXbW^bD ZcIl XbGb
+# man at arms (NOUN) : XfDUb
+# ^make a long arm (VERB) : ]bIWzI DcSfGGb
+# ^offer ONE_S arms (VERB) : ]bIWzI DcQ|IGb
+# passage at arms (NOUN) : DlDXcW
+# ^rise in arms (VERB) : QsA|IzI GzIAl W|IWfUfGb
+# small arms (NOUN) : ^wGc RjWA|
+# suspension of arms (NOUN) : ^wXfD
+# ^take arms (VERB) : QsA|IzI GzIGb
+# ^take the arm (VERB) : DcQ|D ]bIWzI Rs\XbRGb
+# ^take up arms (VERB) : QsA|IzI GzIGb
+# the fore arm (NOUN) : XfDRbA
+# the secular arm (NOUN) : UlAAsfD
+# under ONE_S arm (ADV) : AjGzIbWW|Wg
+# under arms | (ADJ) : [QsXbW^b<VERB>]/Gb
+# ^welcome with open arms (VERB) : Gs UlDWzI RfII|Al ^lbDWjW^bGb
+# with ONE_S arms folded (PP->ADV) : ]bIYbWWzI B|Al
+# with folded arms (ADV) : ]bIYbWWzI B|Al
+# within arm's reach (ADV) : UlDW| Q|Z|DzD AlUWg
+
+"arm-twisting"
+(AbWWr)
+
+"arm-wrestling"
+(]bIV|IzQ)
+
+"armada"
+% MATERIAL 
+(^bQGc)
+# the Armada (NOUN) : QsXfA^bQGc
+# the Invincible Armada (NOUN) : QsXfA^bQGc
+# the Spanish Armada (NOUN) : QsXfA^bQGc
+
+"armadilio"
+% ANIMAL
+(WbIzQbG|IIl)
+
+"armageddon"
+% PLACE
+(GcXlWQbI)
+
+"armament"
+% CONCRETE MATERIAL 
+(AsDR|)
+
+"armature"
+% CONCRETE ANIMAL MATERIAL 
+(AbRWlU)
+
+"armchair"
+% CONCRETE ANIMAL MATERIAL 
+(WbDIbAWz|Xb)
+
+"armenian"
+% HUMAN
+(WbIzQgD|WbWz| UbIbQ)
+
+"armet"
+(ZfIQl)
+
+"armful"
+% CONCRETE MATERIAL 
+(^bD ]bI AbGzA)
+
+"armhole"
+% CONCRETE MATERIAL 
+(X|DGlW)
+
+"armiger"
+% HUMAN
+(A|UbWz| AbRWlUGzIAl GbD|DzD UbIbQ)
+
+"arming"
+% MATERIAL 
+(QsXbWWzI AbXZsA|)
+
+"arminian"
+% HUMAN
+(WbIzQ|D|WsUzWz| U|DXb)
+
+"armistice"
+% MATERIAL 
+(^wXfD)
+# Armistice Day (NOUN) : 1 ZbGcXfDWz| ^wXfD A|DjQW|I
+
+"armlet"
+% CONCRETE MATERIAL 
+(]bIY|)
+
+"armload"
+(^bDWbIzQWz| RsDIdW)
+
+"armoire"
+(WlUXbW)
+
+"armor"
+% CONCRETE MATERIAL 
+(AbRWlU)
+
+"armor"
+% CONCRETE MATERIAL 
+(AbRWlU)
+
+"armor-bearer"
+% HUMAN
+(A|UbWz| AbRWlU U|XlW)
+
+"armorer"
+% HUMAN
+(AbRWlU XgXlXb)
+
+"armorial"
+(QsDXbWX|R)
+
+"armoring"
+(QsXbW)
+
+"armory"
+% CONCRETE MATERIAL ART
+(QsDXbW^bA)
+
+"armory"
+% CONCRETE MATERIAL PLACE
+(RjWA|Al)
+
+"armour"
+% CONCRETE ANIMAL MATERIAL 
+(AbRWlU)
+
+"armourer"
+% HUMAN
+(AbRWlU XgXlXb)
+
+"armouring"
+(QsXbW)
+
+"armoury"
+% CONCRETE MATERIAL PLACE
+(RjWA|Al)
+
+"armpit"
+% CONCRETE MATERIAL ANIMAL
+(AjGzIbW Q|\)
+# up to the armpits (ADV) : WlbDXfD^|
+
+"armrest"
+% CONCRETE ANIMAL MATERIAL 
+(]bIAfIW|)
+
+"arms"
+% CONCRETE MATERIAL 
+(QsA|)
+# arms control (NOUN) : AsDR| Xg^bD
+# arms cut (NOUN) : AsDR| AbQZsA
+# arms embargo (NOUN) : QsA| UsZsI AzQX|
+
+"army"
+% MATERIAL ORGAN HUMAN ANIMAL
+(AsDGc)
+# Chinese army (NOUN) : XsWAsAAsD
+# ^be in the army (VERB) : WwAAsDWz| AsDW|DW|Gb
+# ^enter the army (VERB) : WwAAsDWg W|RGc^bGb
+# ^join the army (VERB) : WwAAsDWg W|RGc^bGb
+# joint army (NOUN) : WjD^bRAsD
+# ^go into the army (VERB) : WwAAsDWg W|RGc^bGb
+# ^raise an army (VERB) : AsDUbIzI W|IWz[|Gb
+# ^serve in the army (VERB) : RjWWjAWg RlAQs^bGb
+# volunteer army (NOUN) : Wz|WrWAsD
+
+"arnica"
+% CONCRETE MATERIAL 
+(WbIzD|[b)
+
+"aroma"
+% CONCRETE MATERIAL 
+(^dWA|)
+
+"aromatic"
+(^dWA|IlWsD AfU)
+
+"arousal"
+% MATERIAL MIND
+(AbAUfW)
+
+"arpeggio"
+(WbIz]gX|Wl)
+
+"arquebus"
+(^lbUzWZlW)
+
+"arrack"
+(WbIbAUsI)
+
+"arraignment"
+% CONCRETE MATERIAL 
+(Xl|UbW W|DRs)
+
+"arrangement"
+% CONCRETE MATERIAL 
+(XfWGlD)
+# buy-back arrangement (NOUN) : AsQcRbD^lbDXlAfD
+# seating arrangement (NOUN) : XlbUfARcZ|
+
+"arras"
+% CONCRETE MATERIAL 
+(WcIfUzZfD)
+
+"array"
+% CONCRETE MATERIAL 
+(XfWIjI)
+# an array of (ADV) : XsA DzIWfUfD
+# ^set in array (VERB) : RcWjI^bGb
+
+"arrayal"
+(RcWjI)
+
+"arrear"
+(X|Zg)
+# ^fall into arrears (VERB) : X|Zg Gl|Gb
+# in arrear of (ADV) : RlGb DzXWfUf
+# in arrear with payment (ADV) : X|RsIW| DzXWfXjUf
+# in arrear with work (ADV) : W|IW| DzXWfXjUf
+# in arrears with payment (ADV) : X|RsIW| DzXWfXjUf
+# in arrears with work (ADV) : W|IW| DzXWfXjUf
+# ^work off arrears (VERB) : W|I^cUf Gs|X|D AfUWzI ^l|RlA^bGb
+
+"arrearage"
+(X|Zg)
+
+"arrest"
+% MATERIAL ACTION
+(Zg]l)
+# house arrest (NOUN) : WjDAzQ
+# ^make an arrest (VERB) : Zg]l^bGb
+# under arrest (ADV) : AsAzQ Gl|Wf
+
+"arrestee"
+% HUMAN
+(]|Zg]lXb)
+
+"arrester"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(Zg]lXb)
+
+"arrestment"
+% ACTION
+(Zg]l)
+
+"arrestor"
+% HUMAN
+(Zg]lXb)
+
+"arriere-pensee"
+% MIND
+(UlAUgQ)
+
+"arris"
+(QlUfI|)
+
+"arrival"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlZbA)
+# arrival contracts (NOUN) : UfDQsI WdAXfW
+# arrival sales (NOUN) : UfDQsI QcQc
+# arrival list (NOUN) : GlZbA UzWAcA QjWRs
+# cash on arrival (NOUN) : ZbA^bRsI
+# new arrival (NOUN) : UcIl WlD UbIbQ
+# on arrival (ADV) : GlZbA^bXbQbXb
+# on arrival in A (PP) : (ADJUNCT [(COMP A/Wg) GlZbA^b<VERB>]/XbQbXb)
+
+# upon ONE_S arrival (PP->ADV) : GlZbAXzAU|
+
+"arriviste"
+% HUMAN
+(WdU|QAb)
+
+"arrogance"
+% CONCRETE MATERIAL MIND
+(ArQbD)
+
+"arrogancy"
+% MIND
+(ArQbD)
+
+"arrogation"
+% MATERIAL ACTION
+(UbZ|W)
+
+"arrondissement"
+(Xs)
+
+"arrow"
+% CONCRETE MATERIAL 
+(^lbUbI)
+# an arrow and a bow (NOUN) : ^lbIAlb ^lbUbI
+# arrow and bow (NOUN) : ^lbIAlb ^lbUbI
+# the broad arrow (NOUN) : AsIAWzD ^lbUbIZlA QlWdWWz| GlXbW
+# the broad arrow head (NOUN) : AsIAWzD ^lbUbIZlA QlWdWWz| GlXbW
+
+"arrowhead"
+% MATERIAL 
+(^lbUbIZlA)
+# arrowheaded characters (NOUN) : UfI^jW QsDXb
+
+"arrowroot"
+% PLANT
+(Z|IA)
+
+"arroyo"
+% CONCRETE MATERIAL PLACE
+(XlRWzD AlIYbA|)
+
+"ars"
+% ART
+(WkUsI)
+
+"arse"
+% CONCRETE MATERIAL ANIMAL
+(AsWGsWW|)
+
+"arsenal"
+% CONCRETE MATERIAL PLACE
+(RjWA|Al)
+
+"arsenate"
+(R|UbDWjQ)
+
+"arsenic"
+% CONCRETE MATERIAL 
+(R|Ul)
+
+"arsenite"
+(WbR|UbDWjQ)
+
+"arsis"
+(AbWWzQRs)
+
+"arson"
+% MATERIAL 
+(RbW^lb)
+
+"arsonist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RbW^lbRfQ)
+
+"art"
+% CONCRETE MATERIAL ART
+(WkUsI)
+# Bachelor of Arts (NOUN) : QsD^bAUb
+# Chinese art (NOUN) : XsWAsA WkUsI
+# Korean art (NOUN) : ^bDAsA WkUsI
+# Japanese art (NOUN) : W|IRlD WkUsI
+# Master of Arts (NOUN) : QsD^bA UfAUb
+# applied art (NOUN) : WzWWrWWkUsI
+# art of PRESP (NOUN) : [(RELCL PRESP/^bDzD) UlQV|<NOUN>]
+# art and craft (NOUN) : Q|UsIAlb AlWWk
+# art and literature (NOUN) : Q|UsIAlb QsD^bA
+# art and part (NOUN) : RbWXlXl|
+# art critic (NOUN) : Q|UsI R|]jWAb
+# art director (NOUN) : Q|UsI AbQGlA
+# art for art's sake (NOUN) : WkUsI X|UbWXsWz|
+# art for art school (NOUN) : WkUsIX|UbW]b
+# art for life's sake (NOUN) : W|DUcWWzI Ws|^bD WkUsI
+# art gallery (NOUN) : Q|UsIAlbD
+# art needlework (NOUN) : Q|UsI XbUs
+# art school (NOUN) : Q|UsI ^bAAr
+# art title (NOUN) : Wz|XbW XbQbA
+# black art (NOUN) : QbUsI
+# by art (PP) : (ADJUNCT [W|DAlW<NOUN>]/Il)
+# decorative art (NOUN) : XbWU|A Q|UsI
+# fine art (NOUN) : Q|UsI
+# industrial art (NOUN) : AlWWk
+# liberal art (NOUN) : W|DQsDAlb^bA
+# the fine arts (NOUN) : Q|UsI
+# the graphic arts (NOUN) : W|DUlc Q|UsI
+# the liberal arts (NOUN) : ArWdW AlbQlA
+# useful arts (NOUN) : AlWWk
+# work of art (NOUN) : WkUsI]sQ
+
+"artefact"
+% CONCRETE MATERIAL 
+(W|DAlWQsI)
+
+"artel"
+% ORGAN
+(AlWUbDDlGlWXl^bR)
+
+"arterialization"
+(XfWQcA^jIWz| GlWQcA^jI^lb)
+
+"arteriosclerosis"
+% MATERIAL 
+(GlWQcA AjW^lbXzW)
+
+"arteritis"
+(GlWQcAWjQ)
+
+"artery"
+% CONCRETE MATERIAL ANIMAL
+(GlWQcA)
+
+"artfulness"
+% CONCRETE MATERIAL ACTION
+(UsIZcAWzI RsI|Q)
+
+"arthralgia"
+(AlbDXfI\lW)
+
+"arthritis"
+% MATERIAL 
+(AlbDXfIWjQ)
+
+"arthropod"
+% CONCRETE ANIMAL MATERIAL 
+(XfIX| GlWQsI)
+
+"artichoke"
+% CONCRETE MATERIAL PLANT
+(WdWWfWAfW[s|)
+
+"article"
+% CONCRETE MATERIAL 
+(A|Ub)
+# articles of association (NOUN) : XfWAlbD
+# articles of partnership (NOUN) : Xl^bRAwWdA
+# articles of war (NOUN) : WwA^cAsDXlIk
+# article not for sale (NOUN) : R|Qc]sQ
+# ^be under articles to (VERB) : AkWdA^bAl AjDUzRAlW DlIzUWzI ^bGb
+# City article (NOUN) : AjWXgA|Ub
+# dangerous money (NOUN) : Ws|^fQQsI
+# leading article (NOUN) : UbUfI
+# the Thirty nine Articles (NOUN) : 39 AcXl
+
+"articulation"
+% CONCRETE MATERIAL 
+(WwXfIWzQ)
+
+"articulator"
+% HUMAN
+(RbIWzQW| HlAHlA^bD UbIbQ)
+
+"artifact"
+% CONCRETE MATERIAL 
+(W|DAlWQsI)
+
+"artifice"
+% MATERIAL 
+(A|UsI)
+
+"artificer"
+% HUMAN
+(A|UsIXb)
+# the Great Artificer (NOUN) : XlQsIXs
+
+"artificial"
+(W|DAlWQsI)
+
+"artificiality"
+% CONCRETE MATERIAL 
+(W|DWs|XfAW|Q)
+
+"artillerist"
+% HUMAN
+(]lUs)
+
+"artillery"
+% CONCRETE MATERIAL 
+(]l)
+# heavy artillery (NOUN) : XsW]lRjW
+# field artillery (NOUN) : Wd]lRjW
+
+"artilleryman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(]lRjW)
+
+"artiness"
+% ACTION
+(Q|UsIAbW|DZg ^bQ)
+
+"artiodactyl"
+% CONCRETE ANIMAL MATERIAL 
+(WsXgGlWQsI)
+
+"artiodactyla"
+% ANIMAL
+(WsXgGlWQsI)
+
+"artisan"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|AAlW)
+
+"artist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WkUsIAb)
+# cubist artist (NOUN) : W|RZg]b WkUsIAb
+
+"artiste"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WkDzWW|D)
+
+"artistry"
+% MATERIAL ART
+(WkUsIXfA UlQV|)
+
+"artlessness"
+% CONCRETE MATERIAL 
+(UlRbA^bQ)
+
+"artmobile"
+(XbGlWZb ^lbIbW)
+
+"artsaker"
+% HUMAN 
+(WkUsI X|UbWXsWz|Wz| R|]jWAb)
+
+"artwork"
+(UbR^lb)
+
+"arum"
+% MATERIAL 
+(WbIsQ)
+# arum lily (NOUN) : UfWdW QsI\lIbD
+
+"asafetida"
+% CONCRETE MATERIAL 
+(WbWs|)
+
+"asbestos"
+% CONCRETE MATERIAL 
+(UfAQjD)
+
+"asbestosis"
+(UfAQjDZ|QZbAXzW")
+
+"asbestus"
+(UfAQjD)
+
+"ascarid"
+% ANIMAL
+(^l|ZsW)
+
+"ascendancy"
+% CONCRETE MATERIAL 
+(UgIjA)
+
+"ascendant"
+(WsDUs)
+# in the ascendant (ADV) : UgIjAWzI AbX|Al
+# the lord of the ascendant (NOUN) : UsXlbUfW
+
+"ascendency"
+(UgIjA)
+
+"ascendent"
+(WsDUs)
+# in the ascendent (ADV) : UgIjAWzI AbX|Al
+# the lord of the ascendent (NOUN) : UsXlbUfW
+
+"ascension"
+% MATERIAL 
+(UbWUzW)
+# the Ascension Day (NOUN) : AzI|UzGl UzWZfDXg
+
+"ascensiontide"
+% TIME
+(UzWZfDXfI)
+
+"ascent"
+% CONCRETE MATERIAL 
+(UbWUzW)
+
+"ascertainment"
+(^lbAW|D)
+
+"ascetic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AzQWrAXsWz|Xb)
+
+"asceticism"
+% CONCRETE MATERIAL ART
+(AzQWrAXsWz|)
+
+"ascidian"
+% CONCRETE ANIMAL MATERIAL 
+(WsIfWUsgWW|)
+
+"ascites"
+% ACTION
+(RlAUs)
+
+"ascription"
+% MATERIAL 
+(As|UlA)
+
+"ascus"
+(XbDbW)
+
+"asdic"
+% CONCRETE ANIMAL MATERIAL 
+(XbQUs^bQ \bQX|A|)
+
+"asepsis"
+% MATERIAL STATE
+(QsAwDUbW\c)
+
+"aseptic"
+(RbWRsXg)
+
+"asexuality"
+(QsUfWUcWU|A)
+
+"ash"
+% CONCRETE MATERIAL 
+(Xc)
+# ^be burnt to ashes (VERB) : QlWHbW \bRfI|Gb
+# ^be reduced to ashes (VERB) : QlWHbW \bRfI|Gb
+# ^lay in ashes (VERB) : \cWsfUf XcIzI QbDGzIGb
+# ^bring back the ashes (VERB) : UfIWrA^bGb
+# ^turn to dust and ashes (VERB) : ^fQs^cX|Gb
+# lump of ash (NOUN) : ]k^f
+
+"ash-gray"
+(^l|RcAUcA)
+
+"ash-grey"
+(^l|RcAUcA)
+
+"ashcake"
+% FOOD
+(AsWsD WlAUsUs AlbXb)
+
+"ashlar"
+% CONCRETE MATERIAL 
+(HfDcDGlI)
+
+"ashlar-work"
+% ACTION
+(UlDX|IGlI Vb^A|)
+
+"ashlaring"
+(AbAUfA)
+
+"ashler"
+(HfDcDGlI)
+
+"ashman"
+% HUMAN
+(ZfWUlRs)
+
+"ashtray"
+% CONCRETE ANIMAL MATERIAL 
+(XcHfIW|)
+
+"aside"
+% CONCRETE MATERIAL 
+(RbWRcA)
+
+# aside from A (ADV) : (ADJUNCT [(NMODS A) W|Wl|<NOUN>]/Wg)
+	* (ADJUNCT [(OBJ A/IzI) XgWl|^b<VERB>]/Al)
+	* A (~ {+HUMAN})
+# set aside (VERB) : QsU|^bGb
+# ^set aside A (VERB) : [(OBJ A/IzI) QsU|^b<VERB>]/Gb
+
+"asininity"
+% MIND
+(WlbDAl)
+
+"asker"
+% HUMAN
+(X|IQsDXb)
+
+"asking"
+% CONCRETE MATERIAL ACTION
+(As^bA|)
+# asking price (NOUN) : ^lAb
+# for the asking (ADV) : AlWYbIl
+
+"asp"
+% CONCRETE ANIMAL MATERIAL 
+(XbAWzD GlAUb)
+
+"asp"
+% CONCRETE PLANT MATERIAL 
+(]l]zIIb)
+
+"asparagus"
+% CONCRETE MATERIAL PLANT FOOD
+(WbUz]bIbAfUz)
+
+"aspect"
+% CONCRETE MATERIAL 
+(AlbDXfQ)
+# aspect ratio (NOUN) : XlW^l|WR|
+# ^assume a new aspect (VERB) : UcIlWsD AsAQjDWzI H|Gb
+# ^take on a new aspect (VERB) : UcIlWsD AsAQjDWzI H|Gb
+
+"aspen"
+% CONCRETE PLANT MATERIAL 
+(]l]zIIb)
+
+"asperges"
+(UfWUsUbI]lU|A)
+
+"aspergillum"
+(UfWUs UbI]l WrWA|)
+
+"asperity"
+(AfZ|IWzQ)
+
+"aspersion"
+% CONCRETE MATERIAL ACTION
+(R|RbW)
+
+"asphalt"
+% CONCRETE MATERIAL 
+(WbUz]bI\z)
+
+"asphaltum"
+(WbUz]bI\z)
+
+"asphodel"
+% PLANT
+(UsUfD^lb)?
+
+"asphyxia"
+(X|IU|A)
+
+"asphyxiation"
+% MATERIAL 
+(X|IU|A)
+
+"asphyxiator"
+(X|IU|A XbWZ|)
+
+"asphyxy"
+(X|IU|A)
+
+"aspic"
+% CONCRETE MATERIAL FOOD
+(AlA| XgII|)
+
+"aspic"
+% CONCRETE MATERIAL ANIMAL
+(XbAWzD GlAUb)
+
+"aspidistra"
+% PLANT
+(Wj]IbD]sI)
+
+"aspirant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(X|QbWXb)
+
+"aspirate"
+(A|WzQ)
+
+"aspiration"
+% CONCRETE MATERIAL MIND
+(WjIQbW)
+
+"aspirator"
+% CONCRETE ANIMAL MATERIAL 
+(^zRZsIA|)
+
+"aspirin"
+% CONCRETE MATERIAL 
+(WbUz]|I|D)
+
+"ass"
+% CONCRETE ANIMAL MATERIAL 
+(AsWGsWW|)
+# ass backwards (ADV) : AfBsIl
+# ^break ONE_S ass (VERB) : ]|IUbXfAWzIl AjDG|Gb
+# ^kiss a person's ass (VERB) : AsRU|IAfI|Gb
+# on ONE_S ass (ADV) : WfWGfWRbWWbIzI Y|^Wf
+# pain in the ass (NOUN) : U|DAjWX|I
+
+"ass"
+% CONCRETE ANIMAL MATERIAL 
+(DbAs|)
+# an ass in a lion's skin (NOUN) : UbXbWz| AbXsAWzI VzD DbAs|
+# ^make an ass of a person (VERB) : DbQWzI RbRlZs|AzRWzI ^bGb
+# ^make an ass of ONESELF  (VERB) : WsUWzQAfI|Ab Gl|Gb
+# ^play the ass (VERB) : RbRlAb\WzD X|UWzI ^bGb
+# the Asses' bridge (NOUN) : GbWDbAs|Wz| GbI|
+
+"ass-kisser"
+% HUMAN
+(WbZfQBsD)
+
+"assafetida"
+(WbWs|)
+
+"assafoetida"
+(WbWs|)
+
+"assagai"
+(\sZbW)
+
+"assailant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AlWAjAXb)
+
+"assart"
+% ACTION
+(AcAbD)
+
+"assassin"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbQUbIXb)
+# the Assassins (NOUN) : WbQUbI R|Q|IAjIUbGbD
+
+"assassination"
+% MATERIAL ACTION
+(WbQUbI)
+
+"assassinator"
+% HUMAN
+(WbQUbIXb)
+
+"assault"
+% MATERIAL ACTION
+(QcWAlWAjA)
+# assault and battery (NOUN) : ]lA^cW As\b
+# ^make an assault upon A (VERB) : [(OBJ A/WzI) UzRAjA^b<VERB>]/Gb
+# ^take a fortress by assault (VERB) : AbWUzR^bWj WrUcIzI XfQIjW^bGb
+
+"assaulter"
+% HUMAN
+(UzRAjAXb)
+
+"assay"
+% MATERIAL ACTION
+(U|AzQ)
+# ^do ONE_S assay (VERB) : ^bI Us W|VDzD GgBbX| ^bGb
+
+"assaying"
+% ART
+(U|AzQRfR)
+
+"assegai"
+(\sZbW)
+
+"assemblage"
+% CONCRETE MATERIAL HUMAN
+(AsDXsW)
+
+"assembler"
+% CONCRETE MATERIAL HUMAN
+(XlI|RAlW)
+
+"assembly"
+% CONCRETE MATERIAL 
+(X|R^l|)
+# assembly line (NOUN) : XlI|RIbW|D
+# assembly process (NOUN) : XlI|RAlWXfW
+
+"assemblyman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Wz|WsfD)
+
+"assent"
+% CONCRETE MATERIAL ACTION
+(GlWWz|)
+# assent and consent (NOUN) : Wz|^l|Wz| GlWWz|
+# by common assent (ADV) : QlGs W|IZ|^bWj
+# with one assent (ADV) : QbDXbW W|IZ|Il
+
+"assentation"
+% ACTION
+(Rs^lbDl|GlW)
+
+"assenter"
+% HUMAN
+(ZbDGlWXb)
+
+"assentient"
+% HUMAN
+(GlWWz|Xb)
+
+"assentor"
+% HUMAN
+(ZbDGlWXb)
+
+"assertion"
+% CONCRETE MATERIAL ACTION
+(XsXbW)
+
+"assertiveness"
+% CONCRETE MATERIAL MIND
+(GbD^l^bQ)
+
+"assertor"
+% HUMAN
+(XsXbWXb)
+
+"assessment"
+% CONCRETE MATERIAL ACTION
+(RsAlb)
+# assessment insurance (NOUN) : RsAlbU|A Rl^fQ
+
+"assessor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UgWcA UbXfWXb)
+
+"assessorship"
+% HUMAN
+(UgWcA UbXfWXb XbAjA)
+
+"asset"
+% CONCRETE MATERIAL ECOLIFE
+(XcUbD)
+# assets and liabilities (NOUN) : XbUbDAlb RsZc
+# asset settlement (NOUN) : XbUbDAjIXg
+# deffered assets (NOUN) : W|WjDXbUbD
+# earning assets (NOUN) : UsW|AXbUbD
+# fixed assets (NOUN) : AlXfWXbUbD
+# hidden assets (NOUN) : WzDD|AXbUbD
+# human cultural asset (NOUN) : W|DAbD QsD^lbXc
+# liquid assets (NOUN) : WwGlWXbUbD                             
+# pledged assets (NOUN) : GbQRlXbUbD
+# quick assets (NOUN) : GbWXlbXbUbD                              
+# tangible assets (NOUN) : Ww^jWXbUbD      
+# unlisted assets (NOUN) : XbWRsWz| XbUbD
+
+"assets"
+% ECOLIFE
+(XbUbD)
+# assets and liabilities (NOUN) : XbUbDAlb RsZc
+# circulating assets (NOUN) : WwGlWXbUbD
+# cultural assets (NOUN) : QsD^lbXc
+# personal assets (NOUN) : GlWUbD
+# real assets (NOUN) : RsGlWUbD
+
+"asseveration"
+% CONCRETE MATERIAL ACTION
+(GbDWfD)
+
+"assiduity"
+% CONCRETE MATERIAL 
+(AzDQjD)
+# with assiduity (ADV) : WjIU|Q^|
+
+"assiduousness"
+% CONCRETE MATERIAL 
+(RsX|IfD^bQ)
+
+"assign"
+% HUMAN 
+(WdWUsW|D)
+
+"assignation"
+% MATERIAL 
+(X|XfW)
+
+"assignee"
+% HUMAN 
+(WdWUsW|D)
+
+"assigner"
+% HUMAN 
+(WdWGlW|D)
+
+"assignment"
+% CONCRETE MATERIAL 
+(X|XfW)
+# homework assignment (NOUN) : UsAXg
+
+"assignor"
+% HUMAN 
+(WdWGlW|D)
+
+"assimilability"
+(GlW^lb AbDzWUfW)
+
+"assimilation"
+% MATERIAL 
+(GlW^lb)
+
+"assimilationist"
+% HUMAN 
+(GlW^lb XfWZcA XsWz|Xb)
+
+"assimilator"
+% HUMAN 
+(GlW^lb^bDzD UbIbQ)
+
+"assist"
+% MATERIAL ACTION
+(WsfDXl)
+
+"assistance"
+% CONCRETE MATERIAL ACTION
+(WsfDXl)
+# bilateral technical assistance (NOUN) : W|AsAAbDA|UsI^jRXl
+
+"assistant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XlUs)
+# assistant to A {+HUMAN} for B (NOUN) : [(POSS [(ADJUNCT B/WgGc^bD) A]/Wz|) RlXlbAlbD<NOUN>]
+
+"assistant governor"
+(RsX|Ub)
+
+"assister"
+% HUMAN 
+(WsfDXlXb)
+
+"assistor"
+% HUMAN 
+(RbWXlXb)
+
+"assize"
+% ACTION 
+(U|QI|)
+# assize town (NOUN) : UsD^l| Xc]bD AcXfW GlU|
+# the Great Assize (NOUN) : Zl|^sWz| U|Q]bD
+
+"associability"
+% STATE 
+(ArAbQUfW)
+
+"associate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Z|DAs)
+
+"association"
+% CONCRETE MATERIAL 
+(WjD^bR)
+# association book (NOUN) : Us\cARlD
+# association copy (NOUN) : Us\cARlD
+# customer's association (NOUN) : UlR|XbXl^bR
+# producer's association (NOUN) : UcWUbDXbXl^bR
+# in association with A (ADV) : (ADJUNCT [(COMP A/Wlb) AlWGlW<NOUN>]/Il)
+
+"associationism"
+% ART
+(WjDUbWXsWz|)
+
+"associationist"
+% HUMAN
+(Xl^bRWz| W|IWsfD)
+
+"associator"
+% HUMAN
+(GlWIr)
+
+"assonance"
+% CONCRETE MATERIAL 
+(WzQWz| WwUb)
+
+"assortment"
+% MATERIAL 
+(RsDIw)
+
+"assuagement"
+% MATERIAL 
+(WlbD^lb)
+
+"assuasive"
+(WlbD^lbXg)
+
+"assumpsit"
+(W|DUs UlUlW)
+
+"assumption"
+% ACTION STATE MIND 
+(AbXfW)
+# on the assumption that (ADV) : W|IbDzD AbXfWWbIc
+
+"assurance"
+% CONCRETE MATERIAL ECOLIFE
+(RlXzW)
+# ^give an assurance (VERB) : RlXzW^bGb
+# ^have full assurance that (VERB) : W|IbDzD AfUWzI ZsWRsD^| ^lbAU|D^bAl W|VGb
+# ^have the assurance to do (VERB) : SfDSfDUzIfRAgGl ^bGb
+# ^make assurance doubly sure (VERB) : XsWz|Wg XsWz|IzI Gf^bGb
+# ^make assurance double sure (VERB) : XsWz|Wg XsWz|IzI Gf^bGb
+# with assurance (ADV) : ^lbAU|DWzI AbX|Al
+
+"assuredness"
+(^lbAU|I^bQ)
+
+"assurer"
+% HUMAN
+(RlXzWXb)
+
+"assuror"
+% HUMAN
+(RlXzWXb)
+
+"astaticism"
+(QsXfWWs|)
+
+"astatine"
+% CONCRETE MATERIAL 
+(WbUz\b\|D)
+
+"aster"
+% CONCRETE PLANT MATERIAL 
+(^cAsA)
+# the China aster (NOUN) : AlbBlZ
+
+"asterisk"
+% CONCRETE MATERIAL 
+(RjI]r)
+
+"asterism"
+(Ug RjI]r)
+
+"asteroid"
+% CONCRETE MATERIAL 
+(UlWwUfW)
+
+"asthenia"
+% MATERIAL 
+(Ul|WdA)
+
+"asthma"
+% MATERIAL 
+(ZfDU|A)
+
+"asthmatic"
+% HUMAN 
+(ZfDU|A ^lbDXb)
+
+"astigmatism"
+% MATERIAL 
+(DbDU|)
+
+"astonishment"
+% MATERIAL MIND
+(AjWWbA)
+# in astonishment (PP->ADV) : BbQYbA DlIIbUf
+# with astonishment (ADV) : BbQYbA DlIIbUf
+# to ONE_S astonishment (ADV) : DlIIbRAgGl
+
+"astrachan"
+(WbUz\zIb[bD Ql]|)
+
+"astragal"
+% CONCRETE MATERIAL 
+(AsUzIUfD)
+
+"astragalus"
+% CONCRETE MATERIAL 
+(AfAlI)
+
+"astrakhan"
+(WbUz\zIb[bD Ql]|)
+
+"astriction"
+(Xg^bD)
+
+"astrictive"
+(UsIjQXg)
+
+"astringency"
+% STATE
+(UsIjQUfW)
+
+"astringent"
+% CONCRETE MATERIAL 
+(UsIjQXg)
+
+"astrionics"
+(WzWWrW XfDXb AlW^bA)
+
+"astro"
+% HUMAN
+(WsXsR|^cWUb)
+
+"astrobiology"
+% ART
+(WsXs UcWQsI^bA)
+
+"astrochemistry"
+% ART
+(ZfDZg ^lb^bA)
+
+"astrodome"
+(ZfDZg AlbDZzAZbW)
+
+"astrodynamics"
+% ART
+(ZfDZg WjA^bA)
+
+"astrogation"
+(WsXs Wj^cW)
+
+"astrogator"
+% HUMAN
+(WsXs Wj^cWXb)
+
+"astrograph"
+(ZfDZg ^bWRfRGl)
+
+"astrolabe"
+(ZfDZg AlbDZzAWz|)
+
+"astrologer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfQUfWAb)
+
+"astrology"
+% MATERIAL ART
+(XfQUfW^bA)
+
+"astrometeorology"
+% ART
+(ZfDZg A|UbW^bA)
+
+"astrometer"
+(ZfDZg AlbWGl ZzAXfWA|)
+
+"astrometry"
+% ART
+(ZfDZg ZzAXfW)
+
+"astronaut"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsXs R|^cWUb)
+
+"astronautics"
+% MATERIAL ART
+(WsXs ^bWRfR)
+
+"astronautrix"
+% HUMAN
+(WjIw WsXs R|^cWUb)
+
+"astronavigation"
+% MATERIAL ART
+(ZfDQsD ^bW^cRfR)
+
+"astronett"
+% HUMAN
+(WjIw WsXs R|^cWUb)
+
+"astronomer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZfDQsD^bAXb)
+
+"astronomy"
+% MATERIAL ART
+(ZfDQsD^bA)
+
+"astrophotography"
+% ART
+(ZfDZg UbX|DUsI)
+
+"astrophotometer"
+(ZfDZg AlbWGlAk)
+
+"astrophysicist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(ZfDZg QsII|^bAXb)
+
+"astrophysics"
+% MATERIAL ART
+(ZfDZg QsII|^bA)
+
+"astuteness"
+% MATERIAL STATE
+(A|Q|D^bQ)
+
+"asylum"
+% CONCRETE MATERIAL PLACE
+(UsWrWUl)
+# orphan asylum (NOUN) : AlWbWsfD
+# foundling asylum (NOUN) : WwAWbWsfD
+
+"asymmetry"
+% CONCRETE MATERIAL STATE
+(RsIAwD^jW)
+
+"asymptote"
+% MATERIAL 
+(XfQAzDUfD)
+
+"asyndeton"
+(AlbDAkGcQjWUb)
+
+"at-bat"
+(\bUfA)
+
+"at-home"
+(AbXfWXfA ZlGc^l|)
+
+"atabrine"
+(Wb\bRzI|D)
+
+"ataraxia"
+% MIND
+(QsAbQGlW)
+
+"ataraxy"
+% MIND
+(QsAbQGlW)
+
+"atavism"
+% MATERIAL 
+(AjAUg WwXfD)
+
+"ataxia"
+% MATERIAL 
+(WsDGlW U|IXl)
+
+"ataxy"
+(WsDGlW U|IXl)
+
+"atebrine"
+(Wb\bRzI|D)
+
+"atelier"
+% MATERIAL 
+(Wb\zII|Wg)
+
+"athanasia"
+% STATE
+(RsIQjI)
+
+"athanasy"
+% STATE
+(RsIQjI)
+
+"atheism"
+% MATERIAL ART
+(QsU|DIlD)
+
+"atheist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(QsU|DIlDXb)
+
+"athermancy"
+% STATE
+(RsI\sWjIUfW)
+
+"atherosclerosis"
+% MATERIAL 
+(GlWQcAAjW^lbXzW)
+
+"athlete"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WsDGlWUfDUs)
+# athlete's foot (NOUN) : QsXlQ
+# athlete's heart (NOUN) : U|QXbW R|Gc
+# professional athlete (NOUN) : ]zIlUfDUs
+# total of NUM1 athletes (NOUN) : [(POSS [(NMODS [ZlW<NOUN>]) (NMODS NUM1) QjW<NOUN>]/Wz|) UfDUsGzI<NOUN>]
+
+"athleticism"
+(WsDGlW AjWA|)
+
+"athletics"
+% MATERIAL 
+(WsDGlW AjWA|)
+
+"athodyd"
+% CONCRETE MATERIAL 
+(IcQXg\z)
+
+"atlantic"
+% PLACE
+(GcUfWdW)
+# atlantic ocean (NOUN) : GcUfWdW
+
+"atlantis"
+% PLACE
+(DbQUbWXs)
+
+"atlas"
+% CONCRETE MATERIAL 
+(X|GlZcA)
+
+"atman"
+(UsQ)
+
+"atmology"
+% ART
+(UsXzWA|^bA)
+
+"atmosphere"
+% MATERIAL 
+(GcA|)
+# earth's atmosphere (NOUN) : X|AsWz| GcA|AsfD
+# friendly atmosphere (NOUN) : Ws^lXfAW|D RsDWs|A|
+# hostile atmosphere (NOUN) : XfAWz|Wz| RsDWs|A|
+
+"atmospherics"
+% MATERIAL 
+(AlWXfD)
+
+"atoll"
+% CONCRETE MATERIAL PLACE
+(^lbDUbW UbD^lGl)
+
+"atom"
+% CONCRETE MATERIAL 
+(WsfDXb)
+# not an atom of (ADV) : WzD XlAzQGl WfRUGb
+
+"atom-bomb"
+(WsfDXb]lA\bD)
+
+"atomics"
+% ART
+(WsfDXb^bA)
+
+"atomism"
+% ART
+(WsfDXbIlD)
+
+"atomismist"
+% HUMAN
+(WsfDXbIlDXb)
+
+"atomization"
+% MATERIAL 
+(WsfDXb^lb)
+
+"atomizer"
+% CONCRETE ANIMAL MATERIAL 
+(RsDQsA|)
+
+"atomy"
+(WsfDXb)
+
+"atonalism"
+% HUMAN
+(QsXlXsWz|)
+
+"atonality"
+(QsXlUfW)
+
+"atonement"
+% MATERIAL 
+(RlUbW)
+
+"atony"
+% MATERIAL MIND
+(QsA|DXbW)
+
+"atrition"
+(QbZbI)
+
+"atrium"
+% CONCRETE MATERIAL PLACE
+(AbWsDGgHzI)
+
+"atrociousness"
+% CONCRETE MATERIAL MIND
+(^wWWbA^bQ)
+
+"atrocity"
+% CONCRETE MATERIAL MIND
+(XbDW|D)
+
+"atrophy"
+% MATERIAL 
+(Ws|ZsA)
+
+"atropine"
+% CONCRETE MATERIAL 
+(Wb\zIl]|D)
+
+"atropism"
+% STATE
+(Wb\zIl]|D XsWGlA)
+
+"attache"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Us^cWWsfD)
+# commercial attche (NOUN) : UbWQsAlbD
+# military attache (NOUN) : GcUbAlbD Rs WwAAsD QsAlbD
+# naval attache (NOUN) : AlWUbAlbD Rs ^cAsD QsAlbD
+
+"attachment"
+% CONCRETE MATERIAL 
+(RsZbA)
+# attachment of property (NOUN) : XcUbDWz| ZbARs
+# ^form an attachment for A (VERB) : [(OBJ A/WzI) Xl^Wb^bAg Gl|<VERB>]/Gb
+# ^form an attachment to A (VERB) : [(OBJ A/WzI) Xl^Wb^bAg Gl|<VERB>]/Gb
+
+"attack"
+% MATERIAL ACTION
+(AlWAjA)
+# attack {PLUR+} on A (NOUN) : [(ADJUNCT A/IlWz|) AlWAjA<NOUN>]
+# ^advance to the attack (VERB) : X|DAjA^bGb
+# ^deliver an attack against A (VERB) : [(OBJ A/WzI) AlWAjA^b<VERB>]/Gb
+# ^deliver an attack on A (VERB) : [(OBJ A/WzI) AlWAjA^b<VERB>]/Gb
+# grenade attack (NOUN) : UsIw\bDAlWAjA
+# ground attack (NOUN) : X|UbWAlWAjA
+# heart attack (NOUN) : U|QXbW QbR|
+# ^make an attack against A (VERB) : [(OBJ A/WzI) AlWAjA^b<VERB>]/Gb
+# ^make an attack on A (VERB) : [(OBJ A/WzI) AlWAjA^b<VERB>]/Gb
+
+"attacker"
+% HUMAN ORGAN
+(AlWAjAXb)
+
+"attainability"
+% MATERIAL 
+(GlGbI^bI AbDzWUfW)
+
+"attainder"
+% MATERIAL ACTION
+(AsfDI| RbA\bI)
+
+"attainment"
+% MATERIAL ACTION
+(GbIUfW)
+
+"attar"
+(XbWQ| A|IzQ)
+
+"attempt"
+% MATERIAL ACTION
+(U|Gl)
+
+
+# in an attempt TO_INF (PP->ADV) : (ADJUNCT [(RELCL TO_INF/^bDzD) U|Gl<NOUN>]/Il)
+# ^make an attempt (VERB) : U|Gl^bGb
+# ^make an attempt TO_INF (VERB) : 
+  [(OBJ [(RELCL TO_INF/^bDzD) AfU<NOUN>]/WzI) U|Gl^b<VERB>]/Gb
+
+"attendance"
+% MATERIAL ACTION
+(ZsIUfA)
+# annual attendance (NOUN) : DjDAbD AlAcAUs
+# attendance at A (NOUN) : [(ADJUNCT A/WgWz|) ZsIUfA<NOUN>]
+# ^be in attendance on a person (VERB) : DbQWz| U|XsWWzI GzIAlW|VGb
+# ^dance attendance on a person (VERB) : DbQWz| R|WwIzI QbXZsGb
+# ^give good attendance (VERB) : XbI UfR|Uz^bGb
+
+"attendant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(Us^cWWsfD)
+# department store attendant (NOUN) : RcA^lbXfQWsfD
+
+"attendee"
+% HUMAN 
+(ZbQUfAXb)
+
+"attender"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AbQU|W|D)
+
+"attention"
+% CONCRETE MATERIAL ACTION
+(XsWz|)
+# ^arrest attention (VERB) : XsWz|IzI BzIGb
+# ^attract attention (VERB) : XsWz|IzI BzIGb
+# ^draw attention (VERB) : XsWz|IzI BzIGb
+# ^call away the attention (VERB) : XsWz|IzI HbDGgIl GlII|Gb
+# ^call ONE_S attention (VERB) : [(OBJ [(POSS ONE/Wz|) XsWz|<NOUN>]/IzI) ^lbDA|U|[|<VERB>]/Gb
+# ^come to attention (VERB) : ZbIkWz| XbUgIzI Zs|^bGb
+# ^devote ONE_S attention to A (VERB) : [(ADJUNCT A/Wg) XfDDjQ^b<VERB>]/Gb
+# ^direct ONE_S attention to A (VERB) : [(OBJ A/WzI) WjDAs^b<VERB>]/Gb
+# ^give ONE_S attention to A (VERB) : [(ADJUNCT A/Wg) XsWz|^b<VERB>]/Gb
+# ^give attention to A (VERB) : [(ADJUNCT A/Wg) XsQlA^b<VERB>]/Gb
+# media attention (NOUN) : WfDIlDWz| AlbDU|Q
+# medical attention (NOUN) : Wz|Ir X|DZbI
+# ^pay attention to A (VERB) : [(ADJUNCT A/Wg) XsQlA^b<VERB>]/Gb
+# ^pay attention to | (VERB) : XsQlA^bGb
+# ^pay close attention to A (VERB) : [(ADJUNCT A/Wg) (MODS [QjDQ|I^|<ADV>]) 
+XsQlA^b<VERB>]/Gb
+# ^pay attention to WHAT_CLAUSE (VERB) : [(ADJUNCT [(RELCL WHAT_CLAUSE/^bD) 
+             AfU<NOUN>]/Wg) XsQlA^b<VERB>]/Gb
+# ^pay ONE_S attentions to A (VERB) : [(OBJ2 A/WgAg) (MODS [XfWXsW^|<ADV>]) Gc^b<VERB>]/Gb
+# ^receive immediate attention (VERB) : XzAU| Z|IrIzI RbGGb
+# ^stand at attention (VERB) : ZbIjXbUgIzI Zs|^bGb
+# ^turn ONE_S attention to A (VERB) : [(OBJ A/WzI) WjDAs^b<VERB>]/Gb
+
+"attentiveness"
+% MATERIAL 
+(XsWz| A|]WzQ)
+
+"attenuant"
+(^z|UfAXg)
+
+"attenuation"
+% CONCRETE MATERIAL 
+(^z|UfA)
+
+"attenuator"
+(AbQUl|A|)
+
+"attest"
+% CONCRETE MATERIAL
+(XzWQjW)
+
+"attestation"
+% CONCRETE MATERIAL 
+(XzWQjW)
+
+"attester"
+(W|R^l|XzWW|D)
+
+"attestor"
+(W|R^l|XzWW|D)
+
+"attic"
+% CONCRETE MATERIAL PLACE
+(GbIbA)
+# the attics (NOUN) : X|RsWQ|\ZzW
+
+"attire"
+% CONCRETE ANIMAL MATERIAL 
+(ZbI|QUc)
+
+"attitude"
+% CONCRETE MATERIAL 
+(\cGl)
+# ONE_S attitude of mind (NOUN) : U|QXfA \cGl
+# kind attitude (NOUN) : Z|DXfI^bD \cGl
+# ^strike an attitude (VERB) : XgDZg^bGb
+
+"attitudinizer"
+% HUMAN
+(XgDZg^bDzD UbIbQ)
+
+"attorney"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RjD^lUb)
+
+# district attorney (NOUN) : X|RbWAfQUb
+# circuit attorney (NOUN) : X|RbWAfQUb
+# letter of attorney (NOUN) : Ws|W|QXbW
+# patent attorney (NOUN) : \zA^fRjDI|Ub
+# power of attorney (NOUN) : GcI| Ws|W|QAsfD
+
+"attorneyship"
+% HUMAN
+(GcI|W|DWz| X|AWs|)
+
+"attornment"
+% ACTION ECOLIFE
+(WdWGl)
+
+"attractant"
+(WwW|D QsIX|I)
+
+"attracter"
+% HUMAN
+(QcIjAW|VDzD UbIbQ)
+
+"attraction"
+% STATE MIND 
+(QcIjA)
+
+"attractiveness"
+% CONCRETE MATERIAL 
+(BzIWfGbWA|DzD ^|Q)
+
+"attractor"
+% HUMAN
+(QcIjAW|VDzD UbIbQ)
+
+"attribute"
+% CONCRETE MATERIAL 
+(UlAUfW)
+
+"attribution"
+% MATERIAL 
+(GlII|A|)
+
+"attributive"
+(^bDXfWUb)
+
+"attunement"
+(XlWwI)
+
+"aubade"
+(UcRjAWz| DlIc)
+
+"auberge"
+% PLACE
+(WjW|DUsA)
+
+"aubergine"
+% CONCRETE MATERIAL 
+(AbX|)
+
+"aubrietia"
+% PLANT
+(U|RXb^lbAlbWz| AlbDUbW U|AQsI)
+
+"auburn"
+(GbAbIUcA)
+
+"auction"
+% CONCRETE MATERIAL ECOLIFE
+(AjWQc)
+# Dutch auction (NOUN) : AbRUWzI DcI|RsIzDzD AjWQc
+# auction block (NOUN) : AjWQcGc
+# auction bridge (NOUN) : RzI|X| DlIW|
+# ^buy a thing at auction (VERB) : AjWQcIl UbGb
+# ^sell a thing at auction (VERB) : AjWQcIl ]bIGb
+# ^buy a thing by auction (VERB) : AjWQcIl UbGb
+# ^sell a thing by auction (VERB) : AjWQcIl ]bIGb
+# public auction (NOUN) : AlWQc
+# ^put up at auction (VERB) : AjWQcWg Rs\W|Gb
+# ^put up to auction (VERB) : AjWQcWg Rs\W|Gb
+
+"auctioneer"
+% HUMAN
+(AjWQcW|D)
+# auctioneer hammer (NOUN) : AjWQcWz| RbWQbWW|
+
+"audaciousness"
+% CONCRETE MATERIAL MIND
+(GcGbQ^bQ)
+
+"audacity"
+% CONCRETE MATERIAL MIND
+(GcGbQQsVbW)
+
+"audibility"
+(AbZfWUfW)
+
+"audibleness"
+(AbZfW)
+
+"audience"
+% CONCRETE MATERIAL HUMAN 
+(ZfWXsW)
+# Hispanic audience (NOUN) : Uz]gW|DAk ZfWXsW
+# ^be received in audience (VERB) : WbI^jDWzI ^fIbARbGGb
+# ^be admitted in audience (VERB) : WbI^jDWzI ^fIbARbGGb
+# ^give audience to A (VERB) : [(OBJ A/WzI) GzIWfXs<VERB>]/Gb
+# in general audience (ADV) : AlWAlWWjD^|
+# in open audience (ADV) : AlWAlWWjD^|
+# in the audience of (ADV) : DbQW| GzGDzDGgUf
+# in a person's audience (ADV) : DbQW| GzGDzDGgUf
+
+"audio"
+% CONCRETE MATERIAL 
+(WlG|Wl)
+# audio on demand (NOUN) : XsQsD^jW WlG|Wl
+
+"audio-visual"
+(U|ZfWAbA ArXc)
+
+"audiometer"
+% CONCRETE ANIMAL MATERIAL 
+(ZfWIjAAk)
+
+"audion"
+(X|DAlWAlbD AfQ]bA|)
+
+"audiophile"
+% HUMAN
+(^bW|]bW| Wc^lAb)
+
+"audiospectrograph"
+(RsDWzQ A|IlAXbWZ|)
+
+"audiotape"
+(WzQUfW DlAWzQ \gW|]z)
+
+"audiotypist"
+% HUMAN
+(ZfWZs| \bW|]|Uz\z)
+
+"audiphone"
+(RlZfWA|)
+
+"audit"
+% MATERIAL ECOLIFE
+(^l|Ak AbQUb)
+# audit ale (NOUN) : GlA^bD QcAXs
+
+"auditing"
+% ECOLIFE
+(^l|Ak AbQUb)
+
+"audition"
+% MATERIAL 
+(ZfWIjA)
+
+"auditor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(^l|Ak AfQUbAlbD)
+
+"auditorium"
+% CONCRETE MATERIAL PLACE
+(ZfWXsWUfA)
+
+"auditory"
+% HUMAN
+(ZfWXsW)
+
+"auditress"
+% HUMAN
+(WjXb RbWZfWW|D)
+
+"augend"
+(]|AbUbDUs)
+
+"auger"
+% CONCRETE MATERIAL 
+(DbUb UlWAlU)
+
+"aught"
+% CONCRETE MATERIAL 
+(WjW)
+
+"augite"
+(^s|UfA)
+
+"augment"
+(XfRGs QlWzQXb)
+
+"augmentation"
+% MATERIAL 
+(XzWAb)
+
+"augmentative"
+(XzWGcUb)
+
+"augur"
+(RlAXfQAlbD)
+
+"augury"
+% CONCRETE MATERIAL 
+(XfQ)
+
+"august"
+% TIME
+(8WsfI)
+# on August NUM1 , NUM2 (PP->ADV) : (ADJUNCT [(NMODS [(NMODS NUM2) DjD<NOUN>])
+ (NMODS [(NMODS [8<NOUN>]) WsfI<NOUN>]) (NMODS NUM1) W|I<NOUN>]/Wg)
+
+"augustness"
+(Ws|WfQ)
+
+"auk"
+% CONCRETE ANIMAL MATERIAL 
+([zD RbGb WlI|)
+
+"auklet"
+% CONCRETE ANIMAL MATERIAL 
+(RbGb Ul|WlI|)
+
+"aunt"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(UsAQl)
+
+"auntie"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(WbXsQQb)
+
+"aunty"
+% HUMAN
+(WbXsQQb)
+
+"aura"
+% CONCRETE MATERIAL 
+(Q|Qr^bD RsDWs|A|)
+
+"aureola"
+(^sAlbW)
+
+"aureole"
+% MATERIAL 
+(^sAlbW)
+
+"aureomycin"
+(WlIgIl QbW|U|D)
+
+"auricle"
+% CONCRETE MATERIAL ANIMAL
+(Wl|W|)
+
+"auriscope"
+(AfQW|AjW)
+
+"aurist"
+% HUMAN
+(W|AlbWz|)
+
+"aurochs"
+% CONCRETE ANIMAL MATERIAL 
+(UfRs WwIfRWz| GzIUl)
+
+"aurum"
+(AzQ)
+
+"auscultation"
+% MATERIAL ACTION
+(ZfWX|D)
+
+"auscultator"
+% HUMAN
+(ZfWX|DXb)
+
+"auspice"
+% CONCRETE MATERIAL 
+(XfDXl)
+# under favorable auspices (ADV) : Xl^WzD X|WXl UlAWgUf
+# under favourable auspices (ADV) : Xl^WzD X|WXl UlAWgUf
+
+"auspiciousness"
+% STATE
+(AjWUbUzIfWsQ)
+
+"austereness"
+% CONCRETE MATERIAL MIND
+(WfQAjA)
+
+"austerity"
+% CONCRETE MATERIAL MIND
+(WfQAjA)
+# austerity budget (NOUN) : A|DZsAWkUbD
+# austerity measures (NOUN) : A|DZsAXfWZcA
+
+"austronesian"
+% HUMAN
+(WlUz\zIlDgU|Wb WfXlA)
+
+"autacoid"
+% CONCRETE MATERIAL 
+(^lIzQlD)
+
+"autarchy"
+% MATERIAL ORGAN
+(GlAXc XfWZ|)
+
+"autarky"
+% ECOLIFE
+(AjWXgXfA XbAzRXbXlA) 
+# autarky economy (NOUN) : AjWXgXfA XbAzRXbXlA
+
+"authentication"
+% CONCRETE MATERIAL 
+(XzWQjW)
+
+"authenticator"
+% HUMAN
+(XzWQjWXb)
+
+"authenticity"
+% CONCRETE MATERIAL 
+(^lbAU|IUfW)
+
+"author"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XfXb)
+# the author of evil (NOUN) : QbWlbW
+# the Author of our being (NOUN) : XlQsIXs
+# the author of the mischief (NOUN) : QlUGl|D XbWDbDWz| XbWRlDW|D
+
+"authoress"
+% HUMAN
+(WjIw XbAAb)
+
+"authoritarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(AsfDWs| XsWz|Xb)
+# authoritarian rule (NOUN) : GlAXcXfA X|Rc
+
+"authoritarianism"
+% MATERIAL ART
+(AsfDWs|XsWz|)
+
+"authoritativeness"
+(AsfDWs|)
+
+"authority"
+% CONCRETE MATERIAL 
+(AsfDWs|[GbWAsA])
+# authorities concerned (NOUN) : ^cGbWAlbDZfW
+# authority to pay (NOUN) : WfWzQX|RsI UsAsfDUf
+# authority to purchase (NOUN) : WfWzQQcW|R UsAsfDUf 
+# ^have no authority over A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bWj) (COMP [AsfDWs|<NOUN>]/Ab) WfRU<VERB>]/Gb
+# ^have no authority with A (VERB) : [(ADJUNCT [(COMP A/Wg) Gc^b<VERB>]/^bWj) (COMP [AsfDWs|<NOUN>]/Ab) WfRU<VERB>]/Gb
+# housing authority (NOUN) : Xs\cAGbWAsA
+# intelligence authority (NOUN) : XfWRlRs
+# local authority (NOUN) : X|RbWAlbDZfW
+# on ONE_S own authority (ADV) : GlAGbDWzIl
+# on good authority (ADV) : ^lbAU|I^bD UlU|A\lWWgUf
+# on the authority of A (ADV) : (ADJUNCT [(OBJ A/WzI) AzDAfIl ^b<VERB>]/^bWj)
+# ragulating authority (NOUN) : XlXfWIjA
+# the authority TO_INF (NOUN) : [(RELCL TO_INF/^bDzD) AsfDWs|<NOUN>]
+# the civil authorities (NOUN) : ^cWXfW GbWAsAXb
+# the military authorities (NOUN) : AsD GbWAsAXb
+# with authority (ADV) : AsfDWs|W|VAg
+
+"authorization"
+% CONCRETE MATERIAL ACTION
+(Ws|W|Q)
+
+"authorship"
+% MATERIAL 
+(XfXbAXbW|Q)
+
+"autism"
+% MATERIAL STATE
+(Xb]kUfW)
+
+"auto"
+% CONCRETE ANIMAL MATERIAL 
+(XbGlWZb)
+
+"auto-attendant"
+(XbGlW WbDDc)
+
+"auto-dafe"
+(Ub^jWUfDAl)
+
+"auto-erotism"
+% MIND
+(XbA| UcAXfW)
+
+"autobahn"
+% CONCRETE MATERIAL PLACE
+(XbGlWZb AlUlAGlIl)
+
+"autobicycle"
+(WlWl\lRbW|)
+
+"autobike"
+(Wl\lRbW|)
+
+"autobiographer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(XbUfXfD XbAXb)
+
+"autobiography"
+% CONCRETE MATERIAL ART
+(XbUfXfD)
+
+"autoboat"
+(RbIGlWA|UfD)
+
+"autobus"
+% CONCRETE ANIMAL MATERIAL 
+(RfUz)
+
+"autocade"
+(XbGlWZb ^cWIjI)
+
+"autocamp"
+(XbGlWZb Wj^cWXbWrW [cQ]zXbW)
+
+"autocar"
+(XbGlWZb)
+
+"autochthon"
+% HUMAN
+(WsfDXsQ|D)
+
+"autochthonism"
+(\lZbA)
+
+"autocide"
+% ACTION
+(XbGlWZb XbUbI)
+
+"autoclave"
+% CONCRETE ANIMAL MATERIAL 
+(AlWbRUl\)
+
+"autocracy"
+% MATERIAL ORGAN
+(GlAXc XfWZ|)
+
+"autocrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(GlAXc AsDXs)
+
+"autocycle"
+(Wl\lRbW|)
+
+"autodidact"
+% HUMAN
+(GlA^bAXb)
+
+"autodrome"
+% PLACE
+(XbGlWZb AjWXsXbW)
+
+"autodyne"
+(Wl\lGbW|D UsU|DXbWZ|)
+
+"autogamy"
+(XbAbUcWU|A)
+
+"autogenesis"
+(XbWjD RbIUcW)
+
+"autogeny"
+(XbA| RbIUcW)
+
+"autogiro"
+(WlWl\lXbW|IlWs)
+
+"autograph"
+% CONCRETE MATERIAL 
+(Xb]|IUfQjW)
+
+"autography"
+(Xb]|I QsDUf)
+
+"autogravure"
+% ART
+(UbX|D]bD XlAbARfR)
+
+"autohypnosis"
+(XbA| Zl|QjD)
+
+"autoinfection"
+(XbA| AbQWjQ)
+
+"autoinoculation"
+(XbA|XfRXlW)
+
+"autointoxication"
+(XbAb XsWGlA)
+
+"autoist"
+% HUMAN
+(XbGlWZb UbWWrWXb)
+
+"autokinesis"
+(XbGlW WsDGlW)
+
+"autolysis"
+(XbA|RsD^c)
+
+"automaker"
+(XbGlWZb XgXlWfRXb)
+
+"automat"
+% CONCRETE ANIMAL MATERIAL 
+(XbGlW ]bDQcA|)
+
+"automata"
+(XbGlWXbWZ|)
+
+"automatic"
+% CONCRETE MATERIAL 
+(XbGlW A|Ak)
+
+"automaticity"
+(XbGlWUfW)
+
+"automaticity"
+(XbGlWUfW)
+
+"automation"
+% MATERIAL 
+(XbGlW)
+# office automation (NOUN) : UbQs XbGlW^lb
+# factory automation (NOUN) : AlWXbW XbGlW^lb
+# home automation (NOUN) : AbUb XbGlW^lb
+
+"automatism"
+(XbGlWUfW)
+
+"automatograph"
+(XbGlW A|IlAA|)
+
+"automaton"
+% CONCRETE ANIMAL MATERIAL 
+(XbGlW XbWZ|)
+
+"autome"
+% PLACE
+(W|GlW Xs\cA)
+
+"autometer"
+(XbGlWZb UlAGlAk)
+
+"automobile"
+% CONCRETE MATERIAL 
+(XbGlWZb)
+# luxury automobile (NOUN) : AlAzR UzWWrWZb
+
+"automobilism"
+(XbGlWZbWz| UbWrW)
+
+"automobilist"
+% CONCRETE MATERIAL HUMAN
+(XbGlWZb UbWWrWXb)
+
+"autonomist"
+% HUMAN
+(XbZ|IlDXb)
+
+"autonomy"
+% MATERIAL ORGAN
+(XbZ|)
+
+"autonym"
+(RlDQjW)
+
+"autopista"
+% PLACE
+(AlUlAGlIl)
+
+"autopilot"
+(XbGlWXlXlWA|) 
+
+"autoplasty"
+(XbA|XlX|A ^jWUfWUsI)
+
+"autopolo"
+(XbGlWZbIzI \bAl^bDzD ]lIIl)
+
+"autopsy"
+% ACTION
+(AfQU|)
+
+"autoroute"
+% PLACE
+(AlUlAGlIl)
+
+"autostrada"
+% PLACE
+(AlUlAGlIl)
+
+"autotoxin"
+(XbAb GlAUl)
+
+"autotoxis"
+(XbAb XsWGlA)
+
+"autotrasformer"
+(GbDAsfD RjDWbRA|)
+
+"autotruck"
+(^lbQsI XbGlWZb)
+
+"autotype"
+(Wl\l\bW|]z)
+
+"autotypogrpahy"
+(Wl\l\bW|]z]bDUsI)
+
+"autovert"
+% HUMAN
+(W|A|XfAW|D WsDXfDUs)
+
+"autoxidation"
+(XbGlW UbD^lb)
+
+"autumn"
+% CONCRETE TIME MATERIAL 
+(AbWzI)
+
+"autumnation"
+(ZsUcA^lb)
+
+"autunite"
+(W|D^l|WsIbDwQAlbW)
+
+"auxiliary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(RlXlXb)
+
+"auxin"
+% CONCRETE MATERIAL 
+(WlWlAU|D)
+
+"avail"
+% CONCRETE MATERIAL ECOLIFE
+(W|W|A)
+# ^be of avail (VERB) : VzIQlAb W|VGb
+# ^be of no avail (VERB) : XfD^j VzIQlWfRUGb
+# ^be of little avail (VERB) : AfWz| VzIQlWfRUGb
+# to no avail (ADV) : ^fUGl|Ag
+# without avail (ADV) : ^fUGl|Ag
+
+"availability"
+% CONCRETE MATERIAL 
+(WwWrWUfW)
+
+"availableness"
+(WwWrW^bQ)
+
+"avalanche"
+% MATERIAL 
+(UlcGl)
+# avalanche blast (NOUN) : DsDUb\c
+
+"avant-courier"
+% HUMAN
+(UfDAsXb)
+
+"avant-garde"
+(XfDWs|)
+
+"avarice"
+% CONCRETE MATERIAL MIND
+(\bQWrA)
+
+"avariciousness"
+% CONCRETE MATERIAL MIND
+(\bQWrA)
+
+"avatar"
+% HUMAN
+(AsfD^lb)
+
+"ave"
+(^lbDWjW W|DUb)
+
+"avenger"
+% HUMAN
+(RlAUsXb)
+
+"avens"
+(WcR|DXz)
+
+"aventurine"
+% MATERIAL 
+(UbAzQUfA)
+
+"avenue"
+% CONCRETE MATERIAL PLACE
+(GcIl)
+# an avenue to success (NOUN) : UfWAlWWg W|IzDzD A|I
+# ^explore every avenue (VERB) : WlDAbX UsGbDWzI Gb VzGb
+
+"average"
+% CONCRETE MATERIAL 
+(]jWAwD)
+# arithmetic average (NOUN) : UbDUsI]jWAwD
+# general average (NOUN) : W|IRbD]jWAwD
+# harmonic average (NOUN) : Xl^lb]jWAwD
+# industrial average (NOUN) : UbDWfR]jWAsD
+# weighted average (NOUN) : AbXsW]jWAwD
+
+"averager"
+% HUMAN ECOLIFE
+(^cUlD ZfWUbDW|D)
+
+"averment"
+% CONCRETE MATERIAL ACTION
+(WfDQjW)
+
+"averseness"
+% MIND
+(^jQWl)
+
+"aversion"
+% MATERIAL MIND
+(^jQWl)
+# aversion therapy (NOUN) : ^jQWlAbQ WrRfR
+# my pet version (NOUN) : WbXs U|I^WzD AfU
+
+"aves"
+% ANIMAL
+(XlIw)
+
+"avesta"
+(XgDGz WbRgUz\b)
+
+"aviarist"
+% HUMAN
+(WcAzQAb)
+
+"aviary"
+% CONCRETE ANIMAL MATERIAL PLACE
+([zD UcXbW)
+
+"aviation"
+% MATERIAL ACTION
+(R|^cW)
+# aviation association (NOUN) : R|^cW^jR^l|
+# aviation meet (NOUN) : R|^cWAjWA|^l|
+# aviation badge (NOUN) : ^bWAlWA|XbW
+# aviation cap (NOUN) : R|^cWQl
+# aviation corps (NOUN) : ^bWAlWGc
+# aviation ground (NOUN) : R|^cWXbW
+# aviation medicine (NOUN) : ^bWAlWWz|^bA
+# civil aviation (NOUN) : Q|DAbD R|^cW
+
+"aviator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(R|^cWAb)
+
+"aviatress"
+% HUMAN
+(WjIw R|^cWAb)
+
+"aviatrix"
+% HUMAN
+(WjIw R|^cWAb)
+
+"aviculture"
+(UcA|IzA|)
+
+"avidity"
+% MATERIAL MIND
+(WrAAs)
+# with avidity (ADV) : WjIU|Q^|
+
+"aviette"
+(AzIIbW|GfU|A Ul^jW R|^cWA|)
+
+"avifauna"
+% HUMAN
+(XlIwUbW)
+
+"avionics"
+% ART
+(^bWAlW XfDXbAlW^bA)
+
+"aviso"
+(AlWQsDUf RbIUlW)
+
+"avitaminosis"
+(R|\bQ|D AjI]|RXzW)
+
+"avocado"
+% CONCRETE MATERIAL PLANT
+(WbRl[bGz DbQs)
+
+"avocation"
+% MATERIAL 
+(RsWfR)
+
+"avocet"
+% CONCRETE ANIMAL MATERIAL 
+(Gl|SsI|XbWGbI|QsIHgUc)
+
+"avoidance"
+% CONCRETE MATERIAL ACTION
+(Gl]|)
+
+"avoirdupois"
+% CONCRETE MATERIAL 
+(UbW^jW)
+
+"avoset"
+% ANIMAL
+(Gl|SsI|XbWGbI|QsIHgUc)
+
+"avouchment"
+% ACTION
+(GbDWfD)
+
+"avowal"
+% CONCRETE MATERIAL ACTION
+(AlWWfD)
+
+"avulsion"
+% ACTION
+(XbRWbZcA|)
+
+"awakening"
+% MATERIAL ACTION
+(BcA|)
+
+"award"
+% CONCRETE MATERIAL ACTION
+(UbW)
+# the hero fund award (NOUN) : WjWWsW A|AzQUbW
+# award ceremony (NOUN) : U|UbWU|A
+
+"awardee"
+% HUMAN
+(UsUbWXb)
+
+"awarder"
+% HUMAN
+(U|UbWXb)
+
+"awareness"
+% ACTION MIND 
+(W|DU|A)
+
+"away"
+(WsfDXfWU|^bR)
+
+"awe"
+% MATERIAL MIND
+(GsIjWsQ)
+# ^be in awe of A (VERB) : [(OBJ A/WzI) GsIjWsf^b<VERB>]/Gb
+# ^stand in awe of A (VERB) : [(OBJ A/WzI) GsIjWsf^b<VERB>]/Gb
+# ^be struct with awe (VERB) : Ws|WfQWg DsII|Gb
+# ^keep a person in awe (VERB) : DbQWzI DzI GsIjWsf^bAg ^bGb
+# ^with awe (ADV) : Ws|WfQWg DsII|Gb
+
+"awfulness"
+% MIND
+(GsIjWsQ)
+
+"awkwardness"
+% CONCRETE MATERIAL 
+(RlA|^wW^bQ)
+
+"awl"
+% CONCRETE ANIMAL MATERIAL 
+(UlWAlU)
+
+"awn"
+(BbBzIbA|)
+
+"awning"
+% CONCRETE ANIMAL MATERIAL 
+(ZbW|I)
+
+"awol"
+% HUMAN
+(QsGbD AjIAzDXb)
+
+"awolism"
+% ACTION
+(QsGbD AjIAzD)
+
+"ax"
+% CONCRETE ANIMAL MATERIAL 
+(GlB|)
+# ^get the ax (VERB) : QlAW| XbII|Gb
+# ^hang up ONE_S ax (VERB) : VzIGgWfRUDzD Ak^l|AWzI XsWX|^bGb
+# ^have an ax to grind (VERB) : HbD UlAUgQW| W|VGb
+# ^put the ax in the helve (VERB) : WfIjWsD QsDXgIzI ^cAjI^bGb
+# ^give the ax (VERB) : ^cAl^bGb
+
+"axe"
+% CONCRETE ANIMAL MATERIAL 
+(GlB|)
+# ^get the axe (VERB) : QlAW| XbII|Gb
+# ^hang up ONE_S axe (VERB) : VzIGgWfRUDzD Ak^l|AWzI XsWX|^bGb
+# ^have an axe to grind (VERB) : HbD UlAUgQW| W|VGb
+# ^put the axe in the helve (VERB) : WfIjWsD QsDXgIzI ^cAjI^bGb
+# ^give the axe (VERB) : ^cAl^bGb
+
+"axeman"
+% HUMAN
+(GlB|IzI VzDzD UbIbQ)
+
+"axes"
+(GlB|Wz| RlAUs^jW)
+
+"axestone"
+(WlA)
+
+"axgrinder"
+% HUMAN
+(WzQ^wW^bD UbIbQ)
+
+"axil"
+(WjRWcA)
+
+"axilla"
+% CONCRETE MATERIAL ANIMAL
+(AjGzIbWW|)
+
+"axinite"
+(WlA)
+
+"axiom"
+% CONCRETE MATERIAL 
+(WsfDI|)
+
+"axis"
+% CONCRETE MATERIAL 
+(ZsA)
+
+"axle"
+% CONCRETE ANIMAL MATERIAL 
+(ZbZsA)
+
+"axletree"
+% CONCRETE ANIMAL MATERIAL 
+(AsIGc)
+
+"axman"
+% HUMAN
+(GlB|IzI VzDzD UbIbQ)
+
+"axman"
+% HUMAN
+(GlB|IzI VzDzD UbIbQ)
+
+"axolotl"
+% CONCRETE ANIMAL MATERIAL 
+(WcAUlIIl\zI)
+
+"axon"
+% CONCRETE MATERIAL 
+(ZsAUcA)
+
+"axone"
+(ZsAUcA)
+
+"axstone"
+(WlA)
+
+"axstone"
+(WlA)
+
+"ay"
+% ACTION
+(ZbDUfW)
+# the ayes and noes (NOUN) : ZbDUfWAlb RbDGc
+
+"ayah"
+% HUMAN
+(^bDj)
+
+"ayatollah"
+(WbWd\lIIb)
+
+"aye"
+% ACTION
+(ZbDUfW)
+# the ayes and noes (NOUN) : ZbDUfWAlb RbDGc
+
+"aye-aye"
+% CONCRETE ANIMAL MATERIAL 
+(GbIbQXs|WsfDUsWW|)
+
+"azalea"
+% CONCRETE MATERIAL PLANT
+(X|DGbIIc)
+
+"azan"
+(A|GlWz| XlW)
+
+"azimuth"
+% MATERIAL 
+(RbWWs|AbA)
+# azimuth compass (NOUN) : RbWWs| DbZ|QWz|
+# azimuth stabilizer (NOUN) : RbWWs|WbDXfWA|
+# azimuth circle (NOUN) : RbWWs|AsfD
+
+"azobenzene"
+(WbXl RgDXgD)
+
+"azobenzol"
+(WbXl RgDXgD)
+
+"azure"
+% CONCRETE MATERIAL 
+(^bDzIUcA)
+
+"azurite"
+(DbQGlWAlbD)
+
+"azym"
+% FOOD
+(^rUlIzI Df^X| WbD^WzD SbW)
+
+"azyme"
+% FOOD
+(^rUlIzI Df^X| WbD^WzD SbW)

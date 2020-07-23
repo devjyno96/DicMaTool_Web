@@ -1,0 +1,63 @@
+
+"valid"
+# valid (ADJ) : Ww^r^bGb
+# valid/invalid (ADJ) : Ww^r^bD/Ww^r^bX| WbD^WzD
+# valid / invalid (ADJ) : Ww^r^bD / Ww^r^bX| WbD^WzD
+# valid application name  : Ww^r^bD XfAWrWWfRQsQjW
+# valid choice emphasis  : Ww^r UfD\cA AbWXl
+# valid choice symbol  : Ww^r UfD\cA A|^l
+# valid daycode  : Ww^r DbIYb [lGz
+# valid exclusive reference  : Ww^r^bD Rc\bXfA ZbQXl
+# valid mixed string  : Ww^r^bD ^lD^bR QsDXbWjI
+# valid startup parms  : Ww^r^bD U|XbA QcAcRjDUs
+
+"variable"
+# variable  : RjDUs
+# variable asset  : WwGlW XbUbD
+# variable capacity  : AbRjD AlWXfW DzWIjA
+# variable cell size  : AbRjD UgI [zA|
+# variable code  : RjDUs [lGz
+# variable connector  : AbRjD WjDAjIXb
+# variable cost  : RjDGlW WsfDAb
+# variable data contents  : RjDUs XbIr DcWrW
+# variable declaration  : RjDUs UfDWfD
+# variable definition table  : RjDUs XfWWz| \gW|RzI
+# variable drawer  : AbRjD UfIbR
+# variable field  : AbRjD ]|IGz
+# variable field edit definition  : RjDUs ]|IGz ]jDX|R XfWWz|
+# variable field naming screen  : RjDUs ]|IGzQjW W|RIjA ^lbQjD
+# variable format  : AbRjD ^jWU|A
+# variable format message  : AbRjD ^jWU|A QgUgX|
+# variable length  : AbRjD A|IW|
+# variable length feed  : AbRjD A|IW| [bGz XsW|R A|As
+# variable length field  : AbRjD A|IW| ]|IGz
+# variable length item  : AbRjD A|IW| ^bWQlA
+# variable length record  : AbRjD A|IW| Ig[lGz
+# variable length string  : AbRjD A|IW| QsDXbWjI
+# variable output speed  : ZsIIjA UlAGl UfD\cAA|As
+# variable parameter  : RjDUs QcAcRjDUs
+# variable pattern  : RjDUs ]c\fD
+# variable point  : AbRjD UlUsXfQ
+# variable point representation  : AbRjD UlUsXfQ ]rU|
+# variable recording area  : AbRjD A|IlA WjWWjA
+# variable resister  : AbRjD Xf^bWA|
+# variable service  : RjDUs UfR|Uz
+# variable symbol  : AbRjD A|^l
+# variable width forms tractor  : AbRjD ]lA WrWX| AjDW|D A|As
+# Variable Width Forms Tractor with Separator  : AbRjD ]lA WrWX| AjDW|D A|As
+# Variable Word Length  : AbRjDWf A|IW|
+
+"vertical"
+# vertical array  : UsX|A RcWjI
+
+"virtual"
+# Virtual Machine Facility/370  : VM/370
+
+"visible"
+# visible region  : AbU| WjWWjA
+
+"visual"
+# Visual Readout  : W|IAA| ]rU|A|As
+# visual scanner  : AlbW^bAU|A XsUb XbWZ|
+# visual table of contents  : GlU|A QlAZb
+

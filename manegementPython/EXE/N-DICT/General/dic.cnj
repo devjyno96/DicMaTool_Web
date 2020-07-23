@@ -1,0 +1,326 @@
+","
+* (VP) (VP) : Al
+* (AP) (AP) : Al
+$ DEFAULT : ,
+
+"after"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bD) ^s<NOUN>]/Wg)
+# soon after SENT (SUBCL->ADV) : (ADJUNCT [(RELCL SENT/^bD) RbIl ^s<NOUN>]/Wg)
+
+"against"
+$ DEFAULT : (ADJUNCT VP/^bA|BbX|WgDzD)
+
+"albeit"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bGbAl) ^b<VERB>]/GfIbGl)
+
+"also"
+$ DEFAULT : AzI|Al Hl^bD
+
+"altho"
+$ DEFAULT : (ADJUNCT VP/^bIX|IbGl)
+
+"although"
+$ DEFAULT : (ADJUNCT VP/^bIX|IbGl)
+
+"and"
+* (NP NP) () : Wlb
+* (VP VP) () : Al 
+* (VP[IMPR] SENT[DECL]) () : AzIfQjD
+* (VP[COMPLZ] VP[COMPLZ]) () : Alb
+* (AP AP) () : Al 
+* (NP VP) () : Wlb
+* (RLCL RLCL) () : Al
+* (RLCL[COMPLZ] RLCL) () : Alb
+* (SENT RLCL) () : Al
+$ DEFAULT : AzI|Al
+# more and more (ADJ ADV) : 1) GfWsA Gf QbD^Gb
+                            2) XfQXfQ Gf
+# and so on (NOUN) : AzI|Al Az RbBWz| AfUGzI
+
+"as"
+//* (VP[PRES]) (VP[FUTURE]) : (ADJUNCT [(COMPCL VP/^bDzD) GcIl<NOUN>])
+//* (VP) (VP[PASSIVE]) : (ADJUNCT [(COMPCL VP/^bDzD) GcIl<NOUN>])
+//* (VP[SBEGIN]) (VP) : (ADJUNCT [(SCOMP VP/^bQWg) HbIz<VERB>]/Wb)
+//* (VP[NEG]) (VP) : (ADJUNCT [(SCOMP VP/^bQWg) HbIz<VERB>]/Wb)
+$ DEFAULT :(ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>])
+# as ADV as SENT (ADV) : [(ADJUNCT [(RELCL SENT/^bDzD) AfU<NOUN>]/ZfIfQ) ADV]
+
+"as_if"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bD) AfU<NOUN>]/ZfIfQ)
+
+"as_long_as"
+$ DEFAULT : ^bDzD^bD
+
+"as_soon_as"
+$ DEFAULT : (ADJUNCT [VP](^bXb/F, Qb/A)/Xb)
+
+"as_though"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bD) AfU<NOUN>]/ZfIfQ)
+
+"as_well_as"
+* (NP NP) () : (ADJUNCT [(COMP A/SsDQbD) WbD|<ADJ>]/Ib)
+* (PP PP) () : (ADJUNCT [(COMP PP/SsDQbD) WbD|<ADJ>]/Ib)
+* (AJP AJP) () : (ADJUNCT [(COMP [(COMP AJP/^bI) SsD<NOUN>]/QbD) WbD|<ADJ>]/Ib)
+* (VP VP) () : (ADJUNCT [(COMP [(COMP VP/^bI) SsD<NOUN>]/QbD) WbD|<ADJ>]/Ib)
+$ DEFAULT : (ADJUNCT [(COMP A/SsDQbD) WbD|<ADJ>]/Ib)
+
+"because"
+$ DEFAULT : (ADJUNCT [(COMP VP/^bA|) HcQsD<NOUN>]/Wg)
+# not because SENT but because SENT1 (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) SENT1]/^bA|) HcQsD<NOUN>]/Wg)
+# not because SENT but because VP (SUBCL->ADV) : (ADJUNCT [(COMP [(ADVCL [(SUBJ [(COMP SENT/^bA|) HcQsD<NOUN>]/W|) WbD|<ADJ>]/Ib) VP]/^bA|) HcQsD<NOUN>]/Wg)
+
+"before"
+$ DEFAULT : (ADJUNCT [(COMP VP/^bA|) XfD<NOUN>]/Wg)
+# before PRESP (SUBCL->ADV) : (ADVCL [(COMP PRESP/^bA|) XfD<NOUN>]/Wg)
+# immediately before SENT (SUBCL->ADV) : (ADVCL [(COMP SENT/^bA|) RbIl XfD<NOUN>]/Wg)
+
+"both"
+$ DEFAULT : WdWYlA QlGs
+# both PP and PP1 (PP->ADV) : (ADJUNCT [(CMODS PP) (MODS [AzI|Al<ADV>]) (CMODS PP1) _<NOUN>]) 
+
+"but"
+* (VP VP) () : X|QbD
+* (VP[COMPLZ] VP[COMPLZ]) () : X|QbD
+* (AP AP) () : X|QbD 
+* (RLCL RLCL) () : X|QbD
+* (RLCL[COMPLZ] RLCL) () : X|QbD
+* (SENT RLCL) () : X|QbD
+$ DEFAULT : AzIfDb
+# || but for A (ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+# || but not for A (SUBCL->ADV) : (DECL [(ADVCL [(OBJ A/IzI) Ws|^b<VERB>]/WfUfAb) WbD|<ADJ>]/Gb)
+# can not but ^BARE_INF (VERB) : [BARE_INF](^bX|/F, WbD^/A ^bI/F, Us/N, WfRU/V)/Gb
+# cannot but ^BARE_INF (VERB) : [BARE_INF](^bX|/F, WbD^/A ^bI/F, Us/N, WfRU/V)/Gb
+# nobody could be but SENT (SENT) : [BARE_INF](^bX|/F, WbD^/A ^bI/F, Us/N, WfRU/V)/Gb
+# there is no A but VP (SENT) : [(SUBJ [(RELCL VP(X|/F, WbD^/V)/^bDzD) A]/DzD) WfRU<VERB>]/Gb
+
+"either"
+$ DEFAULT : Hl^bD
+# either AVP or AVP1 (ADV) : [(CMODS AVP) (MODS [^lAWzD<ADV>]) (CMODS AVP1) _<ADV>]
+
+"even_if"
+$ DEFAULT : ^bIX|IbGl
+
+"even_though"
+$ DEFAULT : (ADVCL [(COMP VP/^bQWgGl) RsIAs^b<VERB>]/Al)
+
+"even_when"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>]/WgGl)
+
+"except"
+$ DEFAULT : (ADVCL [(OBJ [(RELCL VP/^bDzD) AfU<NOUN>]/WzI) XgWl|^b<VERB>]/Al)
+
+"for"
+$ DEFAULT : ^bQzIl
+
+"however"
+$ DEFAULT : ^cGl
+# however ADV ^SENT (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) SENT]/^cGl)
+# however ADV A may ^VP (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (MODS ADV) (SUBJ A/Ab) VP]/^cGl)
+# however ADJ A may ^be (SUBCL->ADV) : (ADVCL [(MODS [WbQsI|<ADV>]) (SUBJ A/Ab) ADJ]/^cGl)
+
+"if"
+$ DEFAULT : ^bGbQjD 
+# as if (CONJ) : (ADJUNCT [(COMPCL VP/^bD) AfU<NOUN>]/ZfIfQ)
+# even if (CONJ) : (ADJUNCT [(COMP VP/^bQWgGl) RsIAs^b<VERB>]/Al)
+# if SENT or not | (SUBCL->ADV) : (ADVCL [(COMP SENT/^bGzDX|) WbD|<ADJ>]/GzDX|)
+# | if any | (ADV) : , ^lAU| W|VGfIbGl,
+# | if ever | (ADV) : , WfDXgDAb AzIcVGfIbGl,
+# if not the ADJ {+SUPER} | (ADV) : (ADJUNCT [(MODS [AbXbW<ADV>]) ADJ](X|DzD/F, WbD^/A)/GfIbGl)
+# if not for A (SUBCL->ADV) : (ADVCL [(SUBJ A/Ab) WfRU<ADJ>]/GbQjD)
+# if on A (SUBCL->ADV) : (ADVCL A/WgUfIbQjD)
+# what if SENT ? (SENT) : (QUES [(ADVCL [(MODS [QbDW|I<ADV>]) SENT]/^bGbQjD) WfHf^Ag ^b<VERB>]/Gb {+QUESFLAG, -PAST, -MODAL})
+
+"just_as"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/ZfIfQ)
+
+"just_before"
+$ DEFAULT : (ADJUNCT [(COMP VP/^bA|) RbIl XfD<NOUN>]/Wg)
+
+"lest"
+$ DEFAULT : (ADJUNCT VP(^bX|/F, WbD^/A)/GlIlA)
+
+"like"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/ZfIfQ)
+
+"neither"
+$ DEFAULT : (ADJUNCT VP(X|/F, WbD^/V))
+
+"nisi"
+$ DEFAULT : (ADJUNCT [(SUBJ [(COMP VP/^bDzD) AfU<NOUN>]/W|) WbD|<ADJ>]/QjD)
+
+"nor"
+* (NP) (NP) : Gl
+$ DEFAULT : ^bAl
+# nor can SENT (VERB) : [(MODS [Hl^bD<ADV>]) SENT](^bI/F, Us/N, WfRU/A)/Gb
+# || nor did I || (SENT) : (DECL [(SUBJ [Db<PRON>]/Gl) WbD|<ADJ>]/Gb)
+
+"notand"
+* (NP NP) () : (ADJUNCT [(COMP A/Ab) WbD|<ADJ>]/Al)
+* (INFCL INFCL) () : (ADJUNCT INFCL(X|/F, WbD^/V)/Al)
+* (VP VP) () : (ADJUNCT VP(X|/F, WbD^/V)/Al)
+* (AP AP) () : (ADJUNCT AP(X|/F, WbD^/V)/Al)
+$ DEFAULT :  (ADJUNCT VP(X|/F, WbD^/V)/Al)
+
+"notwithstanding"
+$ DEFAULT : (ADJUNCT [(COMP VP/^bQWgGl) RsIAs^b<VERB>]/Al)
+
+"now_that"
+$ DEFAULT : ^bD|Bb
+
+"once"
+$ DEFAULT : ^bQjD
+
+"only_if"
+$ DEFAULT : ^bGbQjD 
+
+"or"
+* (NP NP) () : Db
+* (AP AP) () : AfDb
+* (VP[IMPR] SENT[DECL]) () : AzIf^X| WbD^WzQjD
+* (VP VP) () : AfDb
+* (RLCL RLCL) () : AfDb
+$ DEFAULT : HlDzD
+# or so | (ADJ) : [GcIdA<ADV>]
+
+"provided"
+$ DEFAULT : ^bGbQjD
+
+"providing"
+$ DEFAULT : ^bGbQjD
+
+"qua"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/IlUf)
+
+"rather"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+
+"rather_than"
+* (NP NP) () : IbA| RlGb
+* (VP VP) () : ^bA| RlGb
+$ DEFAULT : IbA| RlGb
+
+"save"
+$ DEFAULT : (ADJUNCT [(OBJ [(COMPCL VP/^bDzD) AfU<NOUN>]/WzI) XgWl|^b<VERB>]/Al)
+
+"since"
+* (VP[PRES]) () : ^bD|Bb
+* () (VP[COMPLETE]) : (ADJUNCT [(COMPCL VP/^bD) W|^s<NOUN>]/Il)
+* () (come arrive go) : (ADJUNCT [(COMPCL VP/^bD) W|^s<NOUN>]/Il)
+$ DEFAULT : (ADJUNCT [(COMP VP/^bA|) HcQsD<NOUN>]/Wg)
+# A {+TIME} have PASTP since SENT {+PAST} (SENT) : [(ADJUNCT [(COMPCL SENT/^bD) X|<NOUN>]) (COMP A/Ab) PASTP]/^bGb
+# it be A {+TIME} since SENT {+PAST} (SENT) : [(ADJUNCT [(COMPCL SENT/^bD) X|<NOUN>]) (SUBJ A/Ab) Gl|<VERB>]/Gb
+
+"so"
+$ DEFAULT : ^bGlIlA
+# so far as (CONJ) : (ADJUNCT [(COMP VP/^bDzD) ^bD<NOUN>])
+# so much that A {+HUMAN} may well VP (ADV) : 
+(MODS [(ADJUNCT [(RELCL [(SUBJ [(COMPCL [(SUBJ A/Ab) VP]/^bDzD) AfU<NOUN>]/W|) GbWWjD^b<ADJ>]/^bI) XfWGl<NOUN>]/Il) QbD^W|<ADV>])
+# so that A may VP (ADV) : (ADVCL [(SUBJ A/Ab) VP]/^bGlIlA)
+
+"so_long_as"
+$ DEFAULT : ^bDzD^bD
+
+"so_that"
+$ DEFAULT : ^bGlIlA
+
+"supposing"
+$ DEFAULT : ^bGbQjD
+
+"than"
+* (VP) (VP) : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+* (NP) (VP) : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+* (NP) (SENT) : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+* (AVP) (SENT) : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+* (AJP) (SENT) : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+$ DEFAULT : RlGb
+# more NOUN than is needed (NOUN) : [(RELCL [(ADJUNCT [(RELCL []|IWr^b<ADJ>]/^bD) AfU<NOUN>]/RlGb) (MODS [Gf<ADV>]) QbD^<ADJ>]/^bD) NOUN]
+# more ADJ {-RESTRIC} than VP (ADJ) : [(ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb) (MODS [Gf<ADV>]) ADJ]/^bGb 
+# less ADJ {-RESTRIC} than VP (ADJ) : [(ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb) (MODS [GfI<ADV>]) ADJ]/^bGb 
+# than before | (PP->ADV) : (ADJUNCT [XfD<NOUN>]/RlGb)
+
+"that"
+* (RLCL) (WHCL) : (ADJUNCT VP/^bDzDX|)
+$ DEFAULT : [(COMPCL VP/^bGbDzD) AfU<NOUN>]
+# in order that A may VP (PP) : (ADVCL [(SUBJ A/Ab) VP]/^bGlIlA)
+# than VP (ADV) : (ADJUNCT [(COMPCL VP/^bDzD) AfU<NOUN>]/RlGb)
+
+"tho"
+$ DEFAULT : (ADJUNCT [(COMP VP/^bQWgGl) RsIAs^b<VERB>]/Al)
+
+"though"
+$ DEFAULT : (ADJUNCT [(COMP VP/^bQWgGl) RsIAs^b<VERB>]/Al)
+# || though ADJ | (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+# though ADJ || (SUBCL->ADV) : (ADJUNCT ADJ/^bX|QbD)
+# even though (CONJ) : (ADJUNCT [(COMP VP/^bQWgGl) RsIAs^b<VERB>]/Al)
+# || though of course SENT (SUBCL->ADV) :  (ADJUNCT [(MODS [QsIIlD<ADV>]) SENT]/^bX|QbD)
+
+"till"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>]/BbX|)
+
+"unless"
+$ DEFAULT : (ADJUNCT VP(^bX|/F, WbD^/A)/QjD)
+# unless otherwise indicated $ (SUBCL) : GbIzDQbIW| WfRUWzQjD
+
+"unlike"
+$ DEFAULT : (ADJUNCT [(COMP [(COMPCL VP/^bDzD) AfU<NOUN>]/Alb) GbIz<ADJ>]/WfUf)
+
+"until"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>]/BbX|)
+
+"until_after"
+$ DEFAULT : (ADJUNCT [(RELCL VP/^bD) ^s<NOUN>]/BbX|)
+
+"what"
+$ DEFAULT : [(COMPCL VP/^bDzD) AfU<NOUN>]
+
+"when"
+* (VP[FUTURE]) () : ^bQjD
+* (VP[KNUM]) () : ^bI
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>])
+# || when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+# when ADJ || (SUBCL->ADV) : (ADJUNCT [(RELCL ADJ/^bI) Hc<NOUN>])
+# even when SENT (ADV) : (ADVCL [(RELCL [(MODS [U|QX|Wf<ADV>]) SENT]/^bI) Hc<NOUN>]/WgGl)
+# when in doubt (SUBCL->ADV) : Wz|QsDW| DbQjD
+# || when in A (SUBCL->ADV) : (ADJUNCT [(RELCL [(ADJUNCT A/Wg) W|V<ADJ>]/^bI) Hc<NOUN>])
+
+"whenas"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>])
+
+"whenever"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bI) Hc<NOUN>]/QbGb)
+
+"where"
+$ DEFAULT : ^bDzD
+
+"whereas"
+$ DEFAULT : (ADJUNCT [(RELCL VP/^bDzD) RbDQjD<NOUN>]/Wg)
+
+"wherever"
+$ DEFAULT : (ADJUNCT [(SUBJ [(COMPCL VP/^bDzD) AlU<NOUN>]/W|) WfG|W|<ADJ>]/GzD)
+//# wherever SENT (SUBCL->ADV NOUN) :
+//     1) (ADJUNCT [(COMP [(RELCL SENT/^bDzD) WfG|<NOUN>]) _<ADJ>]<W|>/GzDX|)
+//    2) [(RELCL SENT/^bDzD) QlGzD AlU<NOUN>]
+
+"whether"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bGzD) AbD<NOUN>]/Wg)
+# on whether TO_INF (PP) : (ADJUNCT [(COMPCL [(RELCL [(RELCL TO_INF/^bIX|) WbD|<ADJ>]/^bI) X|<NOUN>]/Wg) Gc^b<ADJ>]/^bWj)
+# whether PP ^or PP1 (SUBCL) : (ADJUNCT [(CMODS PP) (MODS [^lAWzD<ADV>]) (CMODS PP1) _<NOUN>])
+# whether SENT or not (PP->ADV PP->NOUN) : 1) (ADJUNCT [(COMP SENT/^bGzD) WbD|<ADJ>]/GzD)
+                           2) (ADJUNCT [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bIX|)
+#' about whether SENT (PP) : (ADJUNCT [(COMPCL [(RELCL [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bI) X|<NOUN>]/Wg) Gc^b<ADJ>]/^bWj)
+# whether TO_INF (NOUN) : (ADJUNCT TO_INF/^bDzDX|)
+# whether TO_INF or not (NOUN) : (ADJUNCT [(COMP TO_INF/^bDzDX|) WbD|<ADJ>]/^bDX|)
+
+"whether_or_not"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bGzD) AbD<NOUN>]/Wg)
+# about whether_or_not SENT (PP) : (ADJUNCT [(COMPCL [(RELCL [(RELCL SENT/^bIX|) WbD|<ADJ>]/^bI) X|<NOUN>]/Wg) Gc^b<ADJ>]/^bWj)
+
+"while"
+$ DEFAULT : (ADJUNCT [(COMPCL VP/^bDzD) GlWWbD<NOUN>])
+
+"whiles"
+$ DEFAULT : (ADJUNCT VP(^bX|/F, WbD^/V)/AlUf)
+
+"yet"
+* (VP VP) () : X|QbD
+$ DEFAULT : AzIfDb
