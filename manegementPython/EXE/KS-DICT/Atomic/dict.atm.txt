@@ -1,0 +1,471 @@
+
+"table"
+# periodic table (NOUN) : 주기율표
+
+"tail"
+# tail (NOUN) : 단말배출물
+# tail (NOUN) : 꼬리
+# tail (NOUN) : 폐기재
+
+"tailing"
+# tailing (NOUN) : 광미
+
+"taking"
+# physical inventory taking (NOUN) : 실재 재고주사
+
+"tamper"
+# tamper (NOUN) : 반사체
+
+"tank"
+# calandria tank (NOUN) : 칼렌드리아 탱크
+# core tank (NOUN) : 로심탱크
+# lid tank (NOUN) : 리드 탱크
+# condensate storage tank (NOUN) : 압축저장탱크
+# ballast tank (NOUN) : 밸러스트 탱크
+# decay tank (NOUN) : 감쇄탱크
+# surge tank (NOUN) : 조압수조
+# tank (NOUN) : 탱크
+# jet ballast tank (NOUN) : 제트 폭발탱크
+
+"tantalum"
+# tantalum (NOUN) : 탄탈륨
+
+"target"
+# target (NOUN) : 표적
+# target (NOUN) : 타겟
+
+"technique"
+# inspection technique (NOUN) : 사찰기술
+# dose prediction technique (NOUN) : 선량 예측법
+# pulsed neutron technique (NOUN) : 펄스 중성자 기술
+
+"technology"
+# safeguard technology (NOUN) : 보장조치 기술
+
+"telescope"
+# counter telescope (NOUN) : 원격 계수기,
+
+"teletherapy"
+# teletherapy (NOUN) : 원격 방사선치료
+
+"temper"
+# temper (NOUN) : 가열
+
+"temperature"
+# operating temperature (NOUN) : 운전온도
+# ion temperature (NOUN) : 이온 온도
+# nil ductility temperature (NOUN) : 급성 파괴온도
+# peak clad temperature (NOUN) : 첨두 피복 온도,최고피복재 온도
+# neutron temperature (NOUN) : 중성자 온도
+# inlet temperature (NOUN) : 입구온도
+# ductile-brittle-transition temperature (NOUN) : DBTT
+# critical temperature (NOUN) : 임계온도
+# absolute temperature (NOUN) : 절대온도
+# ignition temperature (NOUN) : 점화온도
+
+"tempering"
+# tempering (NOUN) : 조질
+
+"tensor"
+# pressure tensor (NOUN) : 압력 텐서
+
+"tent"
+# isolation tent (NOUN) : 격리도구
+# tent (NOUN) : 텐트
+
+"test"
+# variable test (NOUN) : 변수실험
+# in-pile loop test (NOUN) : 원자로내 루프시험
+# loss of fluid test (NOUN) : 유체 손실검증
+# irradiation test (NOUN) : 조사시험
+# radiographic test (NOUN) : 방사선 검사
+# in vitro test (NOUN) : 체외 검사,시험관 시험
+# nuclear test (NOUN) : 핵검사
+# in-pile test (NOUN) : 원자로내 시험
+# out-pile test (NOUN) : 로외 시험
+# attribute test (NOUN) : 속성시험
+# surveillance test (NOUN) : 감시시험
+# loop test (NOUN) : 루프시험
+# non-destructive test (NOUN) : 비파괴 검사
+# nuclear weapons test (NOUN) : 핵무기 실험
+# in vivo test (NOUN) : 생체내 검사
+# bulk test (NOUN) : 대량 차폐시험
+# cold test (NOUN) : 저온시험
+
+"testing"
+# materials testing (NOUN) : 재료시험
+
+"tetrafluoride"
+# uranium tetrafluoride (NOUN) : 사불화 우라늄
+
+"tetroxide"
+# uranium tetroxide (NOUN) : 사산화 우라늄
+
+"thallium"
+# thallium (NOUN) : 셀륨
+
+"theorem"
+# Fano's theorem (NOUN) : 파너이론
+
+"theory"
+# group theory (NOUN) : 군이론
+# diffusion theory (NOUN) : 확산이론
+# quantum theory (NOUN) : 양자론
+# one-group theory (NOUN) : 단일군이론
+# group theory (NOUN) : 군이론
+# multigroup theory (NOUN) : 다군이론
+# transport theory (NOUN) : 수송이론
+
+"therapy"
+# telecobalt therapy (NOUN) : 텔레코발트 치료법
+# interstitial therapy (NOUN) : 조직내 조사치료
+# radiation therapy (NOUN) : 방사선 치료
+# convergent beam therapy (NOUN) : 집광조사법
+# neutron capture therapy (NOUN) : 중성자 포획 치료법
+# rotation therapy (NOUN) : 회전 조사법
+
+"theratron"
+# theratron (NOUN) : 셀라트론
+
+"thermalization"
+# thermalization (NOUN) : 열화
+# thermalization (NOUN) : 열중성자화
+
+"thermalize"
+# thermalize (NOUN) : 열중성자화
+# thermalize (NOUN) : 열화
+
+"thermions"
+# emit thermions (NOUN) : 열전자방출
+
+"thermocouple"
+# boron thermocouple (NOUN) : 붕소 온도계
+# thermocouple (NOUN) : 열전대,열전도 온도기
+# sheathed thermocouple (NOUN) : 피복 열전대,피복형 열전대
+# chromel-alumel thermocouple (NOUN) : 크로멜-아루멜 열전대
+
+"thermodynamics"
+# thermodynamics (NOUN) : 열력학
+
+"thermoelectrically"
+# generate thermoelectrically (NOUN) : 열전기전환
+
+"thermometer"
+# gamma thermometer (NOUN) : 감마선 온도계
+
+"thermonuclear-reactor"
+# controlled thermonuclear-reactor (NOUN) : 제어 열핵 원자로
+
+"thermopile"
+# neutron thermopile (NOUN) : 중성자 열전대열
+# thermopile (NOUN) : 열전기더미
+
+"theta-pinch"
+# theta-pinch (NOUN) : 세타핀치
+# hard core theta-pinch (NOUN) : 강체심 쎄타 조임
+
+"thicken"
+# thicken (NOUN) : 농집
+# thicken (NOUN) : 농후화
+
+"thickener"
+# thickener (NOUN) : 농축기
+
+"thickening"
+# thickening (NOUN) : 농후화
+# thickening (NOUN) : 농집
+
+"thorium"
+# thorium (NOUN) : 토륨
+
+"threshold"
+# neutron-fission threshold (NOUN) : 중성자-핵분열 문턱치
+
+"through"
+# break through (NOUN) : 약진,돌파구
+# break through (NOUN) : 돌파
+
+"throughput"
+# throughput (NOUN) : 통과량
+# annual throughput (NOUN) : 연간 처리량
+
+"thucholite"
+# thucholite (NOUN) : 써콜라이트
+
+"timbering"
+# mine timbering (NOUN) : 광 지지
+# mine timbering (NOUN) : 광 지지목재
+
+"time"
+# detection time (NOUN) : 검출시간
+# energy exchange time (NOUN) : 에너지 교한시간
+# travel time (NOUN) : 주행시간
+# doubling time (NOUN) : 증배시간
+# critical time (NOUN) : 임계시간
+# conversion time (NOUN) : 전환시간
+# transit time (NOUN) : 주행시간
+# neutron flux time (NOUN) : 중성자속 시간
+# generation time (NOUN) : 일세대기간
+# recovery time (NOUN) : 회복시간
+# mean free time (NOUN) : 평균 자유시간
+# response time (NOUN) : 응답시간
+# rise time (NOUN) : 입상 시간
+# moderation time (NOUN) : 감속시간
+# lethal time (NOUN) : 치사시간
+# collisional relaxation time (NOUN) : 충돌완화시간
+# cooling time (NOUN) : 냉각기간
+# generation time (NOUN) : 세대시간,세대간격
+# generation time (NOUN) : 세대시간
+# median lethal time (NOUN) : 반 치사선량
+# prompt neutron generation time (NOUN) : 즉발중성자 생성 시간
+# clipping time (NOUN) : 절단회로 시간
+# diffusion time (NOUN) : 확산시간
+# median lethal time (NOUN) : 50%치사시간
+# doubling time (NOUN) : 증식시간,이배가시간
+# first arrival time (NOUN) : 초기 도착시간
+
+"timer"
+# timer (NOUN) : 타이머
+
+"tin"
+# tin (NOUN) : 주석
+
+"titanium"
+# titanium (NOUN) : 티타늄
+
+"titration"
+# chemical titration (NOUN) : 화학적정
+
+"Tokamak-60"
+# JAERI Tokamak-60 (NOUN) : JAERI(일본원자력연구소 ) 토카막-60(융합로)
+
+"tomography"
+# emission computed tomography (NOUN) : 방사선 컴푸터식 단층촬영법
+# tomography (NOUN) : X선 단층 촬영법
+# tomography (NOUN) : 단층촬영법
+# transmission computed tomography (NOUN) : 투과형 컴퓨터 단층촬영
+# computed tomography (NOUN) : 컴퓨터 단층촬영
+
+"torbernite"
+# torbernite (NOUN) : 토오버나이트
+
+"torus"
+# axisymmetric torus (NOUN) : 축대칭 원환체
+# Jaeri Fusion Torus (NOUN) : JAERI 융합용기
+
+"total"
+# account total (NOUN) : 계량 통계
+
+"tower"
+# cooling tower (NOUN) : 냉각탑
+# cooling tower (NOUN) : 냉각탑
+
+"toxicity"
+# chemical toxicity (NOUN) : 화학적독성
+
+"traceability"
+# traceability (NOUN) : 가추적성
+
+"tracer"
+# tracer (NOUN) : 추적기
+# stable tracer (NOUN) : 안정추적자
+# chemical tracer (NOUN) : 화학적 추적자
+# intrinsic tracer (NOUN) : 내부추적자
+
+"track"
+# track (NOUN) : 궤도
+
+"transfer"
+# linear energy transfer (NOUN) : 선 에너지 전달
+# mass transfer (NOUN) : 질량전달
+# linear energy transfer (NOUN) : 선형 에너지 전달
+# mass transfer (NOUN) : 질량전달
+# boiling heat transfer (NOUN) : 비등 열전달
+# internal transfer (NOUN) : 내부이동
+
+"transform"
+# rotational transform (NOUN) : 회전변환
+# transform (NOUN) : 변환
+
+"transformation"
+# canonical transformation (NOUN) : 정준변환
+# nuclear transformation (NOUN) : 핵변환
+# transformation (NOUN) : 변환
+
+"transient"
+# power transient (NOUN) : 출력과도변동
+
+"transit"
+# transit (NOUN) : 전이
+# transit (NOUN) : 천이
+# transit (NOUN) : 전이
+# transit (NOUN) : 천이
+
+"transition"
+# transition (NOUN) : 전이
+# Fermi transition (NOUN) : 페르미 천이
+# forbidden transition (NOUN) : 금제천이
+# forbidden transition (NOUN) : 금제전이
+# transition (NOUN) : 천이
+# isomeric transition (NOUN) : 이성체전이
+# allowed transition (NOUN) : 허용전이
+# phase transition (NOUN) : 상전이
+# isomeric transition (NOUN) : 이성체 천이
+
+"transport"
+# heat transport (NOUN) : 열전송
+
+"transportability"
+# transportability (NOUN) : 전달가능성
+
+"transportable"
+# transportable (NOUN) : 전달가능성
+# transportable (NOUN) : 전달가능성
+
+"transportation"
+# fuel transportation (NOUN) : 연료전송
+
+"trap"
+# trap (NOUN) : 트랩
+# cold trap (NOUN) : 저온정지
+# hot trap (NOUN) : 고온시 긴급정지
+# vapor trap (NOUN) : 기포 긴급정지
+# cold trap (NOUN) : CT,저온정지
+# steam trap (NOUN) : 증기 트랩
+
+"trapped-particle-instable"
+# trapped-particle-instable (NOUN) : 포획된 입자 불안정
+# trapped-particle-instable (NOUN) : 포획된 입자 불안정
+
+"treatment"
+# off-gas treatment (NOUN) : 기체폐기물 처리
+# thermal treatment (NOUN) : 열처리
+# off-gas treatment (NOUN) : 배기처리
+
+"Treaty"
+# Partial Test Ban Treaty (NOUN) : 부분적 핵실험 정지조약
+# Non- Proliferation Treaty (NOUN) : 핵 확산방지 조약
+# Non- Proliferation Treaty (NOUN) : 핵 비확산 조약
+# Seabed Treaty (NOUN) : 해저조약
+# Outer Space Treaty (NOUN) : 대기권외 조약
+
+"tributylphosphate"
+# tributylphosphate (NOUN) : 3중부탄 인산염
+
+"trioxide"
+# uranium trioxide (NOUN) : 삼산화 우라늄
+
+"trip"
+# trip (NOUN) : 긴급정지
+# trip (NOUN) : 차단
+# trip (NOUN) : 긴급정지
+
+"triplet"
+# triplet (NOUN) : 삼중항
+# triplet (NOUN) : 삼중선
+
+"TRISO"
+# TRISO (NOUN) : 삼중 피복연료
+
+"tritium"
+# tritium (NOUN) : 삼중수소
+
+"triton"
+# triton (NOUN) : 삼중수소핵
+# triton (NOUN) : 삼중수소핵
+# triton (NOUN) : 삼중양자
+
+"tscheffkinite"
+# tscheffkinite (NOUN) : 췌프카나이트
+
+"tub"
+# mine tub (NOUN) : 광차
+
+"tube"
+# rotation anode X-ray tube (NOUN) : 회전 양극 X선관
+# boron trifluoride counter tube (NOUN) : 붕산 삼중플르오르 화합물 계수관
+# pneumatic tube (NOUN) : 기송관
+# GM counter tube (NOUN) : GM 계수관
+# fission counter tube (NOUN) : 핵분열 계수관
+# pressure tube (NOUN) : 압력관
+# X-ray tube (NOUN) : X 선 관
+# tube (NOUN) : 관
+# calandria tube (NOUN) : 칼렌드리아 관
+# wrapper tube (NOUN) : 포장지 튜브??
+# curved exposure tube (NOUN) : 경사조사관
+# point counter tube (NOUN) : 점 계수관
+# dip tube (NOUN) : 경사각 관
+# decade counting tube (NOUN) : 10진계수관
+# counter tube (NOUN) : 계수관
+# double focus tube (NOUN) : 이초점관
+# Geiger-- Mueller counter tube (NOUN) : 지거-뮬러 계수관
+# self-quenched counter tube (NOUN) : 자기-소멸 계수관
+# self-rectifying tube (NOUN) : 자기-정류형 X선관
+# cathode ray tube (NOUN) : CRT,음극선관
+# photomultiplier tube (NOUN) : 광전자 증배관
+# vacuum tube (NOUN) : 진공관
+# accelerating tube (NOUN) : 가속관
+# 2pi counter tube (NOUN) : 2파이 계수관
+# cathode-ray tube (NOUN) : 음극선관
+# through tube (NOUN) : 관통관
+# neutron counter tube (NOUN) : 중성자 계수관
+# Coolidge tube (NOUN) : 쿠울리지 관
+# separation tube (NOUN) : 분리관
+# cooling tube (NOUN) : 냉각관
+# boron trifluoride counter tube (NOUN) : BF3계수관
+# line focus tube (NOUN) : 선상 초점관
+# 4pi counter tube (NOUN) : 4파이 계수관
+
+"tuff"
+# tuff (NOUN) : 응회암
+
+"tuff-breccia"
+# tuff-breccia (NOUN) : 응회질 각력암
+
+"tumor"
+# malignant tumor (NOUN) : 악성 종양
+
+"tungsten"
+# tungsten (NOUN) : 텅스텐
+# tungsten (NOUN) : 텅스텐
+
+"turbine"
+# potassium vapor turbine (NOUN) : 칼륨 기체 터빈
+# gas turbine (NOUN) : 기체터빈
+# steam turbine (NOUN) : 증기터바인
+# direct coupled gas turbine (NOUN) : 직결 가스터빈
+# atomic gas turbine (NOUN) : 원자력 가스 터빈
+
+"turboblower"
+# turboblower (NOUN) : 터보강풍기
+
+"turbogenerator"
+# turbogenerator (NOUN) : 터보 발전기
+
+"twin"
+# twin (NOUN) : 쌍결정 형성
+# twin (NOUN) : 쌍결정 형성
+
+"twinning"
+# twinning (NOUN) : 쌍결정형성
+
+"two-phase"
+# two-phase (NOUN) : 이상
+# two-phase (NOUN) : 이상
+
+"two-stream-instable"
+# two-stream-instable (NOUN) : 복류 불안정성,이상류 불안정성
+# two-stream-instable (NOUN) : 복류 불안정
+
+"type"
+# integral type (NOUN) : 적분방식
+# auto well type (NOUN) : 자동우물형
+# surface barrier type (NOUN) : 표면장벽형
+# drifted type (NOUN) : 편류형
+# spectral shift type (NOUN) : 분광 편향형
+# swimming pool type (NOUN) : 잠수형
+# self-powered type (NOUN) : 자기-출력형
+# type (NOUN) : 형
+# transmission type (NOUN) : 투과형
+# emission type (NOUN) : 방사형
+

@@ -1,3 +1,7 @@
+import subprocess
+import os
+
+
 class transferDic :
     KS_DIC_FOLDER = "KS-DICT"
     N_DIC_FOLDER = "N-DICT"
@@ -31,8 +35,10 @@ class transferDic :
             "tel" : "Telecom"
         }
 
+    """
     def __init__(self):
         print("init")
+    """
 
 
     def Search(self, data):
@@ -71,8 +77,9 @@ class transferDic :
         NDicFullFileName += fileName
         KSDicFullFileName += fileName
         KSDicFullFileName += '.txt'
-        print(NDicFullFileName)
-        print(KSDicFullFileName)
+
+
+        self.generateKSDicFile(folderName, fileName)
 
 
     def Update(self, word, genericPOS, domainPOS):
@@ -87,18 +94,27 @@ class transferDic :
 
     def generateKSDicFile(self, folderName, fileName):
         alterFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\" + fileName
-        cnExe = "EXE\\cn.exe"
-        cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
+        relativePath = "\\DicMaTool_Web\\manegementPython\\EXE\\"
+        # cnExe = "EXE\\cn.exe"
+        cnExe = "cn.exe"
+        # cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
         # process run cn.exe (argument is cnArgument)
+        subprocess.run([ relativePath + cnExe, "-nc", relativePath + alterFullFileName,  relativePath+ fileName + ".jh"])
 
-        ksExe = "EXE\\kscode.exe"
-        ksArgument = "-jk " + fileName + ".jh" + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName +'.txt'
+        # ksExe = "EXE\\kscode.exe"
+        ksExe = "kscode.exe"
+        # ksArgument = "-jk " + fileName + ".jh" + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName + '.txt'
         # process run kscode.exe (argument is ksArgument)
+        subprocess.run([relativePath + ksExe, "-jk", relativePath + fileName + ".jh", relativePath + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName + '.txt'])
 
+        # FILE delete fileName+".jh"
+        removeFileName = relativePath + fileName + ".jh"
+        if os.path.isfile(removeFileName) :
+            os.remove(removeFileName)
 
-        print("generateKsDicFile")
 
 if __name__ == "__main__" :
     testClass = transferDic()
     testData = {'word': 'test', 'generics': '', 'domains': 'atm (atomic)'}
     testClass.Search(testData)
+
