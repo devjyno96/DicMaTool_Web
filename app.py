@@ -14,9 +14,7 @@ def index():
 def postSearch():
     search = request.get_json() #json 데이터를 받아옴
     transfer = TranferDicTool.transferDic()
-    transfer.Search(search)
-
-    result = "result"
+    result = transfer.Search(search)
     searchResult = {'dicInfoDetails' : result}
     return jsonify(searchResult) # 받아온 데이터를 다시 전송
 
