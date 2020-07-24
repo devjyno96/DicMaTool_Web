@@ -74,12 +74,44 @@ class transferDic :
             fileName += firstLetter
         fileName += '.'
         fileName += newDomainPOS
+
         NDicFullFileName += fileName
+
         KSDicFullFileName += fileName
         KSDicFullFileName += '.txt'
 
+        relativePath = "\\DicMaTool_Web\\manegementPython\\EXE\\"
+        # when KS Dic file doesn't exist, generate file from N Dic file
+        if not os.path.isfile(relativePath + KSDicFullFileName):
+            self.generateKSDicFile(folderName, fileName)
+            # Print file generated massageBox
 
-        self.generateKSDicFile(folderName, fileName)
+        if not os.path.isfile(relativePath + KSDicFullFileName):
+            print(KSDicFullFileName + " doesn't exist")
+            # process end
+
+        key = "\"" + word + "\""
+        # ANSI is to need decoded by mbcs
+        # allReadLines = open(relativePath + KSDicFullFileName, encoding="mbcs")
+        allReadLines = open(relativePath + KSDicFullFileName)
+        allLines = allReadLines.readlines()
+        index = 0
+        #Is key in the list?
+        if key+"\n" in allLines:
+            index = allLines.index(key+"\n")
+        else:
+            print(word + " is not in dictionaly")
+            # process end
+
+        # get key's means
+        result = allLines[index]
+        for reads in allLines[index+1:] :
+            if(reads[0] == '"'):
+                break
+            else :
+                result += reads
+
+        return result
 
 
     def Update(self, word, genericPOS, domainPOS):
@@ -99,7 +131,7 @@ class transferDic :
         cnExe = "cn.exe"
         # cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
         # process run cn.exe (argument is cnArgument)
-        subprocess.run([ relativePath + cnExe, "-nc", relativePath + alterFullFileName,  relativePath+ fileName + ".jh"])
+        subprocess.run([relativePath + cnExe, "-nc", relativePath + alterFullFileName,  relativePath+ fileName + ".jh"])
 
         # ksExe = "EXE\\kscode.exe"
         ksExe = "kscode.exe"
@@ -115,6 +147,6 @@ class transferDic :
 
 if __name__ == "__main__" :
     testClass = transferDic()
-    testData = {'word': 'test', 'generics': '', 'domains': 'atm (atomic)'}
+    testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
     testClass.Search(testData)
 
