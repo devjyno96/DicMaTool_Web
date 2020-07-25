@@ -145,7 +145,7 @@ class transferDic :
             else :
                 resultDict['result'] += reads
 
-        return result
+        return resultDict
 
 
     def Update(self, word, genericPOS, domainPOS):

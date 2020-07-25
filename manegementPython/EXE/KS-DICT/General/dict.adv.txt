@@ -1,0 +1,430 @@
+
+"tabularly"
+(테이블 모양으로)
+
+"tacitly"
+(묵묵히 암암리에)
+
+"tactically"
+(전술적으로)
+
+"tactually"
+(촉감으로)
+
+"takingly"
+(상냥하게)
+
+"tall"
+(터무니없이)
+
+"tamely"
+(길들어서)
+
+"tandem"
+(세로 나란히 서서)
+
+"tangentially"
+(접선 적으로)
+
+"tantalizingly"
+(애태우듯이)
+
+"taperingly"
+(점점 가늘게 차차 줄여서)
+
+"tardily"
+(굼뜨게)
+
+"tartly"
+(시큼하게)
+
+"tastily"
+(풍미있게)
+
+"taunt"
+(의장을 모두 갖추고)
+
+"tauntingly"
+(힐책하여)
+
+"tearing"
+(무섭게)
+
+"teasingly"
+(성가시게)
+
+"technically"
+(기술적으로)
+
+"technologically"
+(기술적으로)
+
+"tediously"
+(지루하게)
+
+"teetotally"
+(절대 금주적으로)
+
+"telegraphically"
+(전신 으로)
+
+"tellingly"
+(유효하게)
+
+"temperately"
+(온화하게)
+
+"temporally"
+(일시적으로)
+
+"temporarily"
+(일시적으로)
+
+"tenderly"
+(상냥하게)
+
+"tenthly"
+(열번째에)
+
+"termagantly"
+(입심 사납게)
+
+"terminally"
+(종말에)
+
+"terrestrially"
+(지구상으로)
+
+"terribly"
+(몹시)
+
+"textually"
+(원문 그대로)
+
+"thankfully"
+(감사하여)
+
+"that"
+(그만큼)
+
+"that_is"
+(그러므로)
+
+"thatis"
+(그로므로)
+
+"the"
+(그 만큼)
+
+"themselves"
+(그들 스스로)
+
+"then"
+(그리고 나서)
+//* 그러면 (~ {+SBEGIN})
+* 그러면 (~ {+FRONTADV})
+# just then (ADV) : 바로 그 때
+
+"thence"
+(거기서부터)
+
+"thenceforth"
+(그때부터)
+
+"theologically"
+(신학상으로)
+
+"theoretically"
+(이론적으로)
+# | there used ^TO_INF (SENT->ADJ) : [(MODS [전에<ADV>]) TO_INF]/하다
+# | there ^be A (SENT->ADJ) : [(SUBJ A/가) 있<ADJ>]/다
+# | there must ^be A (SENT->ADJ) : [(COMP [(SUBJ A/가) 있<ADJ>]/함에) 틀림없<ADJ>]/다
+
+"there"
+(거기에서)
+* 거기에 (come go arrive live bury sit visit 있다)
+// be 를 뺏음 : there I am a student.
+
+//# || SENT {+NEG} , be there ? (SENT) :  (QUES [(DECL SENT) 그렇지 않<ADJ>]/다)
+//# || SENT {-NEG} , be not there ? (SENT) : (QUES [(DECL SENT) 그렇지 않<ADJ>]/다)
+# || down there | (ADV) : 거기서
+# || from there (PP->ADV) : 거기로 부터
+# out there (ADV) : 거기에
+# over ^there (ADJ ADV) : 1) (ADJUNCT [(ADJUNCT [저편<NOUN>]/에) 있<VERB>]/한)
+		         2) 저편에
+# || there ^be no PRESP (SENT->ADJ) : 
+[(SUBJ [(RELCL PRESP/하는) 것<NOUN>]/는) 불가능하<ADJ>]/다
+# || there ^be no one but VP (SENT) : 
+[(SUBJ [(RELCL VP(하지/F, 않/V)/하는) 사람<NOUN>]/는) 없<ADJ>]/다
+# || there ^be no use PRESP (SENT->ADJ) : [(ADJUNCT PRESP/해도) 소용없<ADJ>]/다
+
+"thereabout"
+(그 근처에)
+
+"thereafter"
+(그 뒤로는)
+
+"thereat"
+(거기서)
+
+"thereby"
+(따라서)
+
+"therefor"
+(그 때문에)
+
+"therefore"
+(그러므로)
+
+"therefrom"
+(거기서부터)
+
+"therein"
+(그 속에)
+
+"thereinafter"
+(후문에)
+
+"thereinbefore"
+(전문에)
+
+"thereinto"
+(그곳으로)
+
+"thereof"
+(그것을)
+
+"thereon"
+(그 위에)
+
+"thereout"
+(그것으로부터)
+
+"thereto"
+(거기에)
+
+"theretofore"
+(그보다 먼저)
+
+"thereunder"
+(그 아래에)
+
+"thereupon"
+(그 후)
+
+"therewith"
+(그것과 함께)
+
+"thermostatically"
+(온도 조절장치에 의하여)
+
+"thickly"
+(두껍게)
+
+"thieveryly"
+(살금살금)
+
+"thinly"
+(얇게)
+
+"third"
+(세째로)
+
+"third-hand"
+(두 사람을 거쳐)
+
+"thirstily"
+(목마르게)
+
+"this"
+(이만큼)
+
+"thither"
+(저기에)
+
+"thoroughly"
+(철저하게)
+
+"though"
+(비록)
+
+"thrice"
+(세번)
+
+"throttlehold"
+(통하여)
+
+"through"
+(통하여)
+# ^be through $ (VERB) : [마치<VERB>]/다
+# ^be through with A (VERB) : [(OBJ A/를) 끝마치<VERB>]/다
+	* [(OBJ A/를) 다 보<VERB>]/다
+	* A (newspaper 신문)
+"throughout"
+(모조리)
+
+"thumping"
+(맹렬히)
+
+"thundering"
+(천둥 처럼)
+
+"thus"
+(그래서)
+
+"thwart"
+(가로질러)
+
+"thwartingly"
+(반대하여)
+
+"ticktack"
+(똑딱똑딱하며)
+
+"tidily"
+(단정하게)
+
+"tight"
+(단단히)
+
+"tightly"
+(꼭)
+* 단단히 (secure)
+
+"tiptop"
+(더할 나위 없이)
+
+"today"
+(오늘)
+
+"together"
+(함께)
+# || birds of a feather flock together | (SENT) : (DECL [유유상종<NOUN>])
+# ^get things together (VERB) : 함께하다
+# together with A (ADV) : (ADJUNCT [(COMP A/와) 함께<ADV>])
+
+"tolerably"
+(용인할 수 있을 만큼)
+
+"tomorrow"
+(내일)
+
+"tonight"
+(오늘밤)
+
+"too"
+(매우)
+//* 또한 (~ {-NEG})
+* 또한 (~ {+FRONTADV})
+* 또한 (~ {+COMMOD})
+* 또한 (know)
+* 너무 (~ {+NEG})
+* 매우 (~ {+ADJ})
+//* 매우 (heavy deep high far)
+//* 매우 (hard long many small big good confident expensive)
+
+//# SENT , too (SENT) : (DECL [(MODS [또한<ADV>]) SENT]/하다)
+# ^be too ADJ for A | (VERB) : [(ADJUNCT [(COMP A/에) 비하<VERB>]/어) (MODS [너무<ADV>]) ADJ]/하다
+# ^be too ADJ for A TO_INF (VERB) : [(ADJUNCT [(MODS [너무<ADV>]) ADJ]/해서) (COMP A/가) TO_INF] (할/F, 수/N, 없/V)/다
+# ^be too ADJ TO_INF (VERB) : [(ADVCL [(MODS [너무<ADV>]) ADJ]/해서) TO_INF] (할/F, 수/N, 없/V)/다
+# ^be too AJP TO_INF (VERB) : [(ADVCL [(MODS [너무<ADV>]) AJP]/해서) TO_INF] (할/F, 수/N, 없/V)/다
+# ^be never too ADJ TO_INF (VERB) : [(SUBJ [(COMPCL [(ADJUNCT [(RELCL TO_INF(하지/F, 못하/V)/할) 정도<NOUN>]/로) ADJ]/한) 것<NOUN>]/은) 아니<ADJ>]/다
+# ^VP too ADV for A TO_INF (VERB) : [(ADJUNCT [(MODS [너무<ADV>]) (MODS ADV) VP]/해서) (SUBJ A/가) TO_INF] (할/F, 수/N, 없/V)/다
+# ^VP too ADV TO_INF (VERB) : [(ADJUNCT [(MODS [너무<ADV>]) (MODS ADV) VP]/해서) TO_INF] (할/F, 수/N, 없/V)/다
+# || me , too  | (SENT) : (DECL [(SUBJ [나<PRON>]/도) 그렇<ADJ>]/다)
+# || me too | (SENT) : (DECL [(SUBJ [나<PRON>]/도) 그렇<ADJ>]/다)
+# much too (ADV) : 아주
+# || that is too bad | (SENT) : (DECL [안되<ADJ>]/하군요{+PAST})
+# too ADJ A TO_INF (NOUN) : [(AMODS [(ADJUNCT TO_INF/하기에는) (MODS [너무<ADV>]) ADJ]/한) A]
+# too ADJ TO_INF (ADJ) : [(ADVCL [(MODS [너무<ADV>]) ADJ]/해서) TO_INF] (할/F, 수/N, 없/V)/다
+# too ADJ for A TO_INF (ADJ ADV) : 1) [(ADJUNCT [(SUBJ A/가) TO_INF]/하기에) (MODS [너무<ADV>]) ADJ]/하다 
+			           2) (ADJUNCT [(ADJUNCT [(SUBJ A/가) TO_INF]/하기에) (MODS [매우<ADV>]) ADJ]/하게)
+# too ADJ A for B TO_INF (NOUN) : [(AMODS [(ADJUNCT [(SUBJ B/가) TO_INF]/하기에) (MODS [너무<ADV>]) ADJ]/한) A]
+
+"too-too"
+(극단으로)
+# too ADJ ^A (NOUN) : [(AMODS [(MODS [매우<ADV>]) ADJ]/한) A]
+
+"topsy-turvy"
+(거꾸로)
+
+"totally"
+(완전히)
+
+"touchingly"
+(측은하게)
+
+"toweringly"
+(동의어)
+
+"traditionally"
+(전통적으로)
+
+"transitively"
+(타동적으로)
+
+"transparently"
+(투명하게)
+
+"tremendous"
+(굉장히)
+
+"tremendously"
+(굉장히)
+
+"trickily"
+(속여서)
+
+"trimly"
+(정돈되어)
+
+"triply"
+(세 겹으로)
+
+"trippingly"
+(재빨리 경쾌하게)
+
+"troppo"
+(너무)
+
+"true"
+(진실하게)
+
+"truly"
+(진실로)
+
+"trustily"
+(충실하게)
+
+"trustingly"
+(신용 하여)
+
+"truthfully"
+(정직하게)
+
+"twelvefold"
+(배로)
+
+"twice"
+(두번)
+* 두배 (be)
+
+# more than twice ^A (NOUN) : [(POSS A/의) 두배 이상<NOUN>]
+// [(POSS [(NMODS [두배<NOUN>]) 이상<NOUN>]/의) A]
+# twice NUM1 (NOUN) : [(POSS NUM1/의) 두배<NOUN>])
+# twice a A (ADV) : (MODS [(COMP A/에) 두번<ADV>])
+	* (ADJUNCT [(ADJUNCT A/에) (NMODS NUM1) 번<NOUN>])
+	* A (hour 한 시간) (day 하루) (month 한 달) (year 일년) (~ {+TIME})
+# twice a day (ADV) : 하루에 두번
+# twice as ^A as B (NOUN ADV) : 1) [(POSS [(POSS B/의) 두배<NOUN>]/의) A]
+				2) [(POSS [(POSS B/의) 두배<NOUN>]/의) A]
+# twice as ADV | (ADV) : (ADJUNCT [(MODS [두배<ADV>]) ADV])
+# twice as ADV as A (ADV) : [(ADJUNCT A/보다) (MODS [두배<ADV>]) ADV]
+# twice as ADJ ^A as SENT (NOUN ADV) : [(AMODS [(ADJUNCT [(RELCL SENT/한) 것<NOUN>]/보다) (MODS [두배<ADV>]) ADJ]/한) A]
+# twice as AJP as A (ADJ) : [(ADJUNCT A/보다) (MODS 두배<ADV>]) AJP]/하다
+
+"typically"
+(일반적으로)
+
+"typographical"
+(포학하게)

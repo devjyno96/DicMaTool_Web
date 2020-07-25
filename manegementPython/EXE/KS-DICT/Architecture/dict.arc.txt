@@ -1,0 +1,1109 @@
+
+"t"
+# t (NOUN) : 두께
+
+"T-beam"
+# T-beam (NOUN) : T형보
+
+"T-joint"
+# T-joint (NOUN) : T형연결
+
+"T-loading"
+# T-loading (NOUN) : T 하중
+
+"T-shape"
+# T-shape (NOUN) : T형
+
+"T-square"
+# T-square (NOUN) : 
+# shifting T-square (NOUN) : 경사판 T자
+
+"tab"
+# end tab (NOUN) : 엔드 탭
+
+"table"
+# steam table (NOUN) : 온장고
+# drop leaf table (NOUN) : 
+# vibration table (NOUN) : 진동대
+# cooking table (NOUN) : 조리대
+# rotary table (NOUN) : 회전 테이블
+# night table (NOUN) : 나이트 테이블
+# groundwater table (NOUN) : 지하수면
+# sewing table (NOUN) : 엮음대
+
+"tacheometer"
+# tacheometer (NOUN) : 
+
+"tachometer"
+# tachometer (NOUN) : 회전속도계
+
+"tamp"
+# tamp (NOUN) : 탬프
+
+"tamper"
+# tamper (NOUN) : 탬퍼
+
+"tamping"
+# slope tamping (NOUN) : 경사 탬핑
+# clay tamping (NOUN) : 점토다짐
+# rod tamping (NOUN) : 막대 탬핑
+# tamping (NOUN) : 다지기
+
+"tandem"
+# tandem (NOUN) : 
+
+"tangent"
+# tangent (NOUN) : 접선
+
+"tank"
+# oil service tank (NOUN) : 오일 공급 탱크
+# drainage tank (NOUN) : 배수탱크
+# tank (NOUN) : 탱크
+# aeration tank (NOUN) : 폭기조
+# heat storaging tank (NOUN) : 축열조
+# separate tank (NOUN) : 분류탱크
+# expansion tank (NOUN) : 팽창탱크
+# septic tank (NOUN) : 부패조
+# water meter tank (NOUN) : 수량계 탱크
+# expansion tank (NOUN) : 팽창탱크
+# pressure tank (NOUN) : 압력탱크
+# pressure water tank (NOUN) : 압력수조
+# steam coil storage tank (NOUN) : 증기코일식저탕조
+# septic tank (NOUN) : 정화조
+# final settling tank (NOUN) : 최종침륜지
+# elevated tank (NOUN) : 고가조
+# roof tank (NOUN) : 옥상탱크
+# elevated water tank (NOUN) : 고가수조
+# septic tank (NOUN) : 정화조
+# flash tank (NOUN) : 증발탱크
+# storage tank (NOUN) : 저장 탱크
+# Imhoff tank (NOUN) : 임호프 탱크
+# head tank (NOUN) : 헤드 탱크
+# primary settling tank (NOUN) : 최적침륜지
+# flush tank (NOUN) : 수세용 탱크
+# septic tank (NOUN) : 정화조
+# sludge-digestion tank (NOUN) : 오니소화탱크
+# return tank (NOUN) : 환수조
+# reducing tank (NOUN) : 감압수조
+# simply septic tank (NOUN) : 간이소화조
+# hot water storage tank (NOUN) : 적양조
+
+"tap"
+# unfreezable tap (NOUN) : 부동성 탭
+# tap (NOUN) : 탭
+# tap (NOUN) : 탭
+# table tap (NOUN) : 테이블 탭
+
+"tape"
+# cloth tape (NOUN) : 헝겊 테이프
+# steel tape (NOUN) : 강테이프
+# steel tape (NOUN) : 강테이프
+# steel tape (NOUN) : 강철 테이프
+# tape (NOUN) : 테이프
+
+"taper"
+# taper (NOUN) : 테이퍼
+
+"taper-foot"
+# taper-foot (NOUN) : 
+
+"tapestry"
+# tapestry (NOUN) : 타페스트리
+# tapestry (NOUN) : 타페스트리
+
+"tar"
+# road tar (NOUN) : 도로용타르
+# coal tar (NOUN) : 코울타르
+# tar (NOUN) : 타르
+
+"tare"
+# tare (NOUN) : 자중
+
+"target"
+# target (NOUN) : 표적
+
+"tatami"
+# tatami (NOUN) : 
+
+"tax"
+# house tax (NOUN) : 가옥세
+
+"taxiway"
+# taxiway (NOUN) : 유도로
+# turnaround taxiway (NOUN) : 회송 택시웨이
+# high speed exit taxiway (NOUN) : 고속이탈도로
+
+"teamster"
+# teamster (NOUN) : 운전수
+
+"technology"
+# technology (NOUN) : 기술
+
+"tee"
+# tee (NOUN) : 티이
+
+"telephone"
+# joining telephone (NOUN) : 곡선전화
+# joining telephone (NOUN) : 가입전화
+
+"telescope"
+# internal focusing telescope (NOUN) : 내부 초점식 망원경
+# side telescope (NOUN) : 측위 망원경
+# top telescope (NOUN) : 항위 망원경
+
+"tellurometer"
+# tellurometer (NOUN) : 텔루로미터
+
+"temper"
+# temper (NOUN) : 
+# temper (NOUN) : 
+# temper (NOUN) : 
+
+"temperature"
+# dry bulb temperature (NOUN) : 건구온도
+# transition temperature (NOUN) : 전이 온도
+# effective temperature (NOUN) : 유효온도
+# indoor design temperature (NOUN) : 실내 온도
+# absolute temperature (NOUN) : 절대 온도
+# outdoor air temperature (NOUN) : 외기온도
+# earth temperature (NOUN) : 지중 온도
+# operative temperature (NOUN) : 효과온도
+# mean radiant temperature (NOUN) : 평균복사열
+# dew point temperature (NOUN) : 이슬점 온도
+# radiant heating of low temperature (NOUN) : 저온 복사 난방
+# operative temperature (NOUN) : 작용온도
+# standard curing temperature (NOUN) : 표준양생온도
+# standard temperature (NOUN) : 표준온도
+# constant temperature (NOUN) : 항온
+# correct temperature (NOUN) : 
+# back side temperature (NOUN) : 이면온도
+# correction for temperature (NOUN) : 온도보정
+# mean radiant temperature (NOUN) : 평균복사온도
+# sensory temperature (NOUN) : 체감온도
+# comfortable temperature (NOUN) : 쾌적온도
+# equivalent temperature (NOUN) : 등가 기온
+# corrected effective temperature (NOUN) : 수정유효온도
+# effective temperature (NOUN) : 감각온도
+# color temperature (NOUN) : 색온도
+# effective temperature (NOUN) : 실효온도
+# wet-bulb temperature (NOUN) : 습구온도
+# air temperature (NOUN) : 기온
+# radiant heating of high temperature (NOUN) : 고온복사난방
+# optimum temperature (NOUN) : 최적온도
+# sol air temperature (NOUN) : 상대 외기 온도
+
+"tempering"
+# tempering (NOUN) : 템퍼링
+# tempering (NOUN) : 템퍼링
+
+"template"
+# template (NOUN) : 형판
+# lettering template (NOUN) : 명판
+
+"templet"
+# templet (NOUN) : 형판
+
+"tenant"
+# tenant (NOUN) : 차지인
+# key tenant (NOUN) : 
+# tenant (NOUN) : 부동산 보유자
+# tenant (NOUN) : 차가인
+
+"tender"
+# guaranty money of tender (NOUN) : 
+# alternative tender (NOUN) : 대안 강선
+# construction tender (NOUN) : 건설공사경쟁입찰
+
+"tendered"
+# successful price tendered (NOUN) : 
+
+"tendon"
+# tendon (NOUN) : 강선
+
+"tenon"
+# dove tenon (NOUN) : 
+# dovetail tenon (NOUN) : 주먹 장부
+# mortice and tenon (NOUN) : 
+# vertical tenon (NOUN) : 수직 장부
+
+"tension"
+# diagonal tension (NOUN) : 사장력
+# simultaneous tension (NOUN) : 동시인장
+# vapor tension (NOUN) : 증기장력
+# tension (NOUN) : 인장
+# surface tension (NOUN) : 표면장력
+
+"tensor"
+# strain tensor (NOUN) : 변형 텐서
+# stress tensor (NOUN) : 응력텐서
+
+"term"
+# load term (NOUN) : 하중항
+
+"terminal"
+# air terminal (NOUN) : 
+# terminal (NOUN) : 단자
+
+"termite"
+# termite (NOUN) : 흰개미
+# termite (NOUN) : 
+
+"terrace"
+# terrace (NOUN) : 테라스
+# river terrace (NOUN) : 하안단구
+# coastal terrace (NOUN) : 해안단구
+
+"terracotta"
+# terracotta (NOUN) : 테라코타
+
+"terrazzo"
+# terrazzo (NOUN) : 테라조
+
+"test"
+# face bend test (NOUN) : 표면 휨 시험
+# shearing test (NOUN) : 전단시험
+# Hubbard field test (NOUN) : 
+# drained triaxial test (NOUN) : 배수삼축시험
+# hardness test (NOUN) : 경도실험
+# mixer performance test (NOUN) : 혼합기성능시험
+# destructive test (NOUN) : 파괴시험
+# pile load test (NOUN) : 말뚝재하시험
+# fire protecting test (NOUN) : 화재방호시험
+# drained shear test (NOUN) : 배수전단시험
+# standard penetration test (NOUN) : 표준관입시험
+# slump test (NOUN) : 슬럼프 시험
+# vane test (NOUN) : 베인시험 
+# moisture test (NOUN) : 함수량시험
+# decantation test (NOUN) : 씻기 시험
+# penetration test (NOUN) : 관입시험
+# air pressure test (NOUN) : 공기압 시험
+# standard test (NOUN) : 표준시험
+# side-bend test (NOUN) : 측곡 시험
+# adhesion test (NOUN) : 부착 시험
+# pile driving test (NOUN) : 항타시험
+# repeated test (NOUN) : 반복시험
+# permeability test (NOUN) : 투수시험
+# shrinkage test (NOUN) : 수축시험
+# drying test (NOUN) : 건조시험
+# aging test (NOUN) : 노화시험
+# undrained shear test (NOUN) : 비배수전단시험
+# waterproof test (NOUN) : 방수시험
+# rock foundation test (NOUN) : 암반시험
+# compression test (NOUN) : 압축시험
+# consolidated quick test (NOUN) : 압밀급속시험
+# boiling test (NOUN) : 끓음 시험
+# swelling test (NOUN) : 흡수팽윤시험
+# consolidation test (NOUN) : 압밀시험
+# standard loading test (NOUN) : 표준재하시험
+# quick shear test (NOUN) : 급속전단시험
+# accelerating test (NOUN) : 가속도 시험
+# soil test (NOUN) : 토질시험
+# drop test (NOUN) : 낙하시험
+# field test (NOUN) : 현장 시험
+# triaxial compression test (NOUN) : 삼축압축시험
+# core test (NOUN) : 코어 시험
+# stripping test (NOUN) : 
+# soil bearing test (NOUN) : 지내력 시험
+# bearing-ratio test (NOUN) : 지지력비시험
+# free bend test (NOUN) : 자유굽힘시험
+# water resistant test (NOUN) : 내수시험
+# flow test (NOUN) : 유동 시험
+# freezing and thawing test (NOUN) : 동결 융해 시험
+# precipitation test (NOUN) : 침강 시험
+# radiationproofing test (NOUN) : 내광성 시험
+# Dutch cone penetration test (NOUN) : 원추관입시험
+# weathering test (NOUN) : 내후도 시험
+# direct shear test (NOUN) : 직접 전단 시험
+# hydrogen test (NOUN) : 수소 시험
+# fire resistance test (NOUN) : 내화 시험
+# Iribarren test (NOUN) : 
+# freezing resistance test (NOUN) : 내한 시험
+# tension test (NOUN) : 인장시험
+# soundness test (NOUN) : 안정성시험
+# shaking test (NOUN) : 진동시험
+# stability test (NOUN) : 안정시험
+# loading test (NOUN) : 하중시험
+# pull-out test (NOUN) : 인발시험
+# setting time test (NOUN) : 응결시험
+# air analysis test (NOUN) : 공기체 시험
+# wetherproof test (NOUN) : 
+# plate bearing test (NOUN) : 평판재하시험
+# tension test (NOUN) : 인장시험
+# root-bend test (NOUN) : 이면굽힘시험
+# impact bending test (NOUN) : 충격굽힘시험
+# in-situ test (NOUN) : 원위치시험
+# hydraulic test (NOUN) : 수압 시험
+# acidproof test (NOUN) : 내산시험
+# impact test (NOUN) : 충격시험
+# load test (NOUN) : 재하시험
+# drop test (NOUN) : 낙하시험
+# heating test (NOUN) : 가열시험
+# sieve-analysis test (NOUN) : 체분석시험
+# fading test (NOUN) : 퇴색 시험
+# durability test (NOUN) : 내구성 시험
+# compaction test (NOUN) : 다짐 시험
+# Brinell test (NOUN) : 브리넬 경도 시험
+# cold bending test (NOUN) : 상온굴곡시험
+# guide bend test (NOUN) : 틀굽힙시험
+# unconfined compression test (NOUN) : 일축압축시험
+# corrossion test (NOUN) : 
+
+"tester"
+# tester (NOUN) : 시험기
+# Charpy tester (NOUN) : 
+
+"tetrapod"
+# tetrapod (NOUN) : 테트라포드
+
+"tex"
+# hard tex (NOUN) : 경질 섬유판
+
+"texture"
+# porphyritic texture (NOUN) : 야장조직
+
+"thalweg"
+# thalweg (NOUN) : 유심선
+
+"theater"
+# theater (NOUN) : 극장
+# arena theater (NOUN) : 원형극장
+# drive-in theater (NOUN) : 
+# experimental theater (NOUN) : 실험그장
+
+"theodolite"
+# theodolite (NOUN) : 경위의
+# theodolite (NOUN) : 경위의
+
+"theorem"
+# addition theorem (NOUN) : 덧셈정리
+# upper bound theorem (NOUN) : 상계정리
+# Bernoulli's theorem (NOUN) : 베르누이 정리
+# addition theorem (NOUN) : 덧셈정리
+# Torricelli's theorem (NOUN) : 토리첼리 이론
+# Castigliano's theorem (NOUN) : 카스틸리아노 정리
+# lower bound theorem (NOUN) : 하계정리
+# reciprocal theorem (NOUN) : 상반 작용의 법칙
+
+"theory"
+# membrane theory (NOUN) : 박막이론
+# shearing strain energy theory (NOUN) : 전단 변형 에너지 이론
+# maximum principal unit strain theory (NOUN) : 최대주변형도이론
+# beam theory (NOUN) : 보이론
+# maximum principal stress theory (NOUN) : 최대응력이론
+# maximum shearing unit stress theory (NOUN) : 최대전단응력도이론
+# infinitesimal deformation theory (NOUN) : 미소변형이론
+# maximum principal stress theory (NOUN) : 최대주응력도이론
+# Coulomb's earth-pressure theory (NOUN) : 쿨롱의 토압론
+# cement-void ratio theory (NOUN) : 시멘트-간극비 이론
+# Rankine's earth-pressure theory (NOUN) : 랜킨토압이론
+# membrane theory (NOUN) : 막이론
+# reciprocal theory (NOUN) : 상반 작용의 정리
+# garden city theory (NOUN) : 전원 도시론
+# Coulomb's earth pressure theory (NOUN) : 쿨롱의 토압론
+# maximum elastic energy theory (NOUN) : 최대탄성에너지이론
+
+"therapy"
+# facility for occupational therapy (NOUN) : 작업요법실
+
+"thermistor"
+# thermistor (NOUN) : 더어미스터
+
+"thermocouple"
+# thermocouple (NOUN) : 열전대
+
+"thermohygrometer"
+# self-recording thermohygrometer (NOUN) : 자기온습도계
+
+"thermometer"
+# resistance thermometer (NOUN) : 저항 온도계
+# mix thermometer (NOUN) : 최고최저온도계
+# Kata thermometer (NOUN) : 카타 온도계
+# globe thermometer (NOUN) : 구 온도계
+# wet-bulb thermometer (NOUN) : 습구온도계
+# dry Kata thermometer (NOUN) : 건카타온도계
+# Kata thermometer (NOUN) : 카타 온도계
+# thermometer (NOUN) : 온도계
+# mercury thermometer (NOUN) : 수은 온도계
+# alcohol thermometer (NOUN) : 알코올 온도계
+# thermo-electric thermometer (NOUN) : 열전온도계
+# bimetal thermometer (NOUN) : 바이메탈 온도계
+# thermocouple thermometer (NOUN) : 열전대온도계
+
+"thermophilically"
+# digest thermophilically (NOUN) : 고온소화
+
+"thermoplastic"
+# thermoplastic (NOUN) : 열소성의
+# thermoplastic (NOUN) : 열소성의
+
+"thermoplasticity"
+# thermoplasticity (NOUN) : 
+
+"thermostat"
+# thermostat (NOUN) : 온도 조절기
+
+"thimble"
+# thimble (NOUN) : 딤블
+# thimble (NOUN) : 딤블
+# thimble (NOUN) : 딤블
+
+"third"
+# middle third (NOUN) : 중앙 삼분점
+
+"thirdly"
+# treat thirdly (NOUN) : 삼차처리
+
+"thixotropy"
+# thixotropy (NOUN) : 틱소트로피
+
+"three-phase"
+# three-phase (NOUN) : 삼상
+
+"throat"
+# actual throat (NOUN) : 실제 목두께
+
+"through"
+# holing through (NOUN) : 
+# hole through (NOUN) : 
+
+"thrust"
+# thrust (NOUN) : 드러스트
+# thrust (NOUN) : 분추력
+
+"thumb"
+# rule of thumb (NOUN) : 엄지손가락 법칙
+
+"thumb-turn"
+# thumb-turn (NOUN) : 
+
+"tide"
+# mean high water spring tide (NOUN) : 대조 평균 만조면
+# mean low water spring tide (NOUN) : 대조 평균 간조면
+# meteorological tide (NOUN) : 기상조
+# astronomical tide (NOUN) : 천체 조수
+
+"tie"
+# form tie (NOUN) : 긴결재
+# snap tie (NOUN) : 스냅 타이
+# shorter tie (NOUN) : 단 띠
+# wire tie (NOUN) : 철사띠
+# gauge tie (NOUN) : 게이지 타이
+# tie (NOUN) : 타이
+
+"tie-back"
+# tie-back (NOUN) : 잡아맴
+
+"tie-bar"
+# tie-bar (NOUN) : 지지봉
+
+"tie-pad"
+# tie-pad (NOUN) : 타이 패드
+
+"tie-plate"
+# tie-plate (NOUN) : 결착판
+
+"tie-tamper"
+# tie-tamper (NOUN) : 
+
+"tightening"
+# temporary tightening (NOUN) : 가 조이기
+
+"tile"
+# clay roof tile (NOUN) : 점토기와
+# rubber tile (NOUN) : 고무 타일
+# plastic tile (NOUN) : 플라스틱 타일
+# red roof tile (NOUN) : 붉은 기와
+# glazed roof tile (NOUN) : 오지기와
+# alundum tile (NOUN) : 알런덤 기와
+# triangle tile (NOUN) : 삼각타일
+# pressed cement roof tile (NOUN) : 압력시멘트기와
+# pan tile (NOUN) : 겉침기와
+# unglazed roof tile (NOUN) : 무유 기와
+# corner cutting tile (NOUN) : 
+# scratch tile (NOUN) : 스크레치 타일
+# metal roof tile (NOUN) : 금속기와
+# rubber tile (NOUN) : 고무타일
+# asphalt tile (NOUN) : 아스팔트 타일
+# clinker tile (NOUN) : 오지타일
+# mosaic tile (NOUN) : 모자이크타일
+# tile (NOUN) : 타일
+# valley tile (NOUN) : 계곡 기와
+# Roman roof tile (NOUN) : 로마식 기와
+# unglazed tile (NOUN) : 무유타일
+# sewer tile (NOUN) : 하수토관
+# cement roof tile (NOUN) : 시멘트 기와
+# English roofing tile (NOUN) : 영국식 기와
+# roofing tile (NOUN) : 기와
+# glazed tile (NOUN) : 오지기와
+# Spanish roof tile (NOUN) : 스페인식 기와
+# roofing tile (NOUN) : 기와
+# glass tile (NOUN) : 유리 타일
+# vitrified tile (NOUN) : 
+# French roof tile (NOUN) : 프렌치 기와
+# carborundum tile (NOUN) : 
+# glazed tile (NOUN) : 
+# roofing tile (NOUN) : 기와
+
+"tiling"
+# layout of tiling (NOUN) : 타일링 배치
+
+"timber"
+# guard timber (NOUN) : 보호목
+# south sea timber (NOUN) : 남양재
+# fire-retardant timber (NOUN) : 내화목재
+# segmental arch timber (NOUN) : 활꼴 아아치 목재
+# north sea timber (NOUN) : 북해목재
+# square timber (NOUN) : 각재
+# conversion of timber (NOUN) : 마름질
+
+"timbering"
+# replacing of timbering (NOUN) : 건축용재의 대체
+# excavate without timbering (NOUN) : 막파기
+# removal of timbering (NOUN) : 목재제거
+# steel arched timbering (NOUN) : 강아치식 지보공
+# replace timbering (NOUN) : 건축용재(목재)를 대신하다
+# arched timbering (NOUN) : 
+# timbering (NOUN) : 동바리
+# branch bar strut type timbering (NOUN) : 
+# excavation without timbering (NOUN) : 막파기
+
+"timbre"
+# timbre (NOUN) : 음색
+
+"time"
+# early finish time (NOUN) : 최단종료일
+# joint aging time (NOUN) : 
+# round-trip time (NOUN) : 일주시간
+# mixing time (NOUN) : 비빔시간
+# equation of time (NOUN) : 균시차
+# livelihood time (NOUN) : 살림
+# early start time (NOUN) : 최단개시일
+# aging time (NOUN) : 노화기간
+# true solar time (NOUN) : 진 태양시
+# setting time (NOUN) : 응결시간
+# cycle time (NOUN) : 순환시간
+# equation of time (NOUN) : 시차
+# optimum reverberation time (NOUN) : 최적잔향시간
+# fire duration time (NOUN) : 화재지속시간
+# mean solar time (NOUN) : 평균일광시간
+# local time (NOUN) : 지방시
+# relaxarion time (NOUN) : 
+# average waiting time (NOUN) : 평균대기시간
+# preheating time (NOUN) : 예열시간
+# reverberation time (NOUN) : 잔향시간
+
+"tingle"
+# clip tingle (NOUN) : 
+
+"tip"
+# tip (NOUN) : 끝
+# electrode tip (NOUN) : 전극 팁
+
+"tippler"
+# tippler (NOUN) : 티플러
+
+"tolelance"
+# election tolelance (NOUN) : 
+
+"tolerance"
+# dimension tolerance (NOUN) : 
+# dimension tolerance (NOUN) : 
+# tolerance (NOUN) : 허용오차
+# basic tolerance (NOUN) : 기본오차
+
+"tone"
+# screen tone (NOUN) : 체의 크기
+# fundamental tone (NOUN) : 기본음
+# warbling tone (NOUN) : 
+# pure tone (NOUN) : 순음
+# tone (NOUN) : 계조
+
+"tong"
+# tong (NOUN) : 박파구
+
+"tonnage"
+# net tonnage (NOUN) : 순톤수
+# gross tonnage (NOUN) : 총 톤수
+# displacement tonnage (NOUN) : 
+
+"tool"
+# carpenter's tool (NOUN) : 목수의 도구
+# mucking tool (NOUN) : 적재도구
+# wood working tool (NOUN) : 목공작업 
+
+"tools"
+# expense of machines and tools (NOUN) : 장비와 도구 비용
+
+"tooth"
+# set tooth (NOUN) : 치진
+
+"toothed-ring-dowel"
+# toothed-ring-dowel (NOUN) : 치형 링다우얼
+
+"top"
+# long log with slender top (NOUN) : 가는정점을가진 긴원목
+# blue top (NOUN) : 
+
+"Topeca"
+# modified Topeca (NOUN) : 수정 토페카
+
+"Topeka"
+# Topeka (NOUN) : 토페카
+
+"torch"
+# oxyacetylene cutting torch (NOUN) : 산소아세틸렌 절단 토오치
+# torch (NOUN) : 토오치
+# cutting torch (NOUN) : 절단 토오치
+
+"torque"
+# torque (NOUN) : 비트는힘
+
+"torrent"
+# torrent (NOUN) : 계류
+
+"torsion"
+# torsion (NOUN) : 비틂
+# torsion (NOUN) : 비틂
+# angle of torsion (NOUN) : 비틀림각
+# angle of torsion (NOUN) : 비틀림각
+# pure torsion (NOUN) : 순수 비틀림
+# center of torsion (NOUN) : 비틀림 중심
+
+"tough"
+# tough (NOUN) : 질긴
+# tough (NOUN) : 질긴
+
+"toughness"
+# toughness (NOUN) : 질김
+
+"tower"
+# cooling tower (NOUN) : 냉각탑
+# tower (NOUN) : 타워
+# control tower (NOUN) : 관제탑
+# memorial tower (NOUN) : 기념탑
+# pile driving tower (NOUN) : 항타탑
+# cooling tower (NOUN) : 냉각탑
+# tower (NOUN) : 탑
+# rolling tower (NOUN) : 로울링 타워
+# intake tower (NOUN) : 취수탑
+# concrete tower (NOUN) : 콘크리트 탑
+# high observing tower (NOUN) : 고측표
+# rolling tower (NOUN) : 이동식타워
+# fire tower (NOUN) : 화재탑
+# smoke tower (NOUN) : 굴뚝
+# radio tower (NOUN) : 
+
+"town"
+# industrial town (NOUN) : 산업도시
+# resort town (NOUN) : 휴양시
+# market town (NOUN) : 시장
+# school town (NOUN) : 학원도시
+# Roman town (NOUN) : 로마식 시내
+# satellite town (NOUN) : 위생도시
+# underground town (NOUN) : 지하시
+
+"townscape"
+# townscape (NOUN) : 도시 경관
+
+"tracery"
+# tracery (NOUN) : 트레이서리
+
+"tracheid"
+# tracheid (NOUN) : 가도관
+
+"track"
+# interruption on the track (NOUN) : 
+# track (NOUN) : 궤도
+# horse racing track (NOUN) : 경마장
+# half track (NOUN) : 반편강
+# bicycle racing track (NOUN) : 경륜장
+# gauge of track (NOUN) : 
+# side track (NOUN) : 측선
+# surfacing of the track (NOUN) : 표면보호
+# surface the track (NOUN) : 표면보호
+# irregularity of track (NOUN) : 
+# track (NOUN) : 궤도
+# track (NOUN) : 트랙
+# temporary track (NOUN) : 가선
+
+"traction"
+# surface traction (NOUN) : 표면력
+# traction (NOUN) : 저면 유동
+
+"tractor"
+# tractor (NOUN) : 트랙터
+
+"traffic"
+# piggy back traffic (NOUN) : 
+# urban traffic (NOUN) : 도시 교통
+# diverted traffic (NOUN) : 운수교통
+# generated traffic (NOUN) : 개발교통
+# line traffic (NOUN) : 선형 교통
+# peak traffic (NOUN) : 절정 교통량
+# direction traffic (NOUN) : 
+# originating traffic (NOUN) : 발생교통
+# local traffic (NOUN) : 국부교통
+# through traffic (NOUN) : 통과 교통
+# one-way traffic (NOUN) : 일방통행
+# induced traffic (NOUN) : 유발교통
+
+"trafficability"
+# trafficability (NOUN) : 
+# trafficability (NOUN) : 
+
+"trailer"
+# trailer (NOUN) : 트레일러
+
+"tram"
+# tram (NOUN) : 시가전차
+
+"transfer"
+# resistance of heat transfer (NOUN) : 열전달저항
+# heat transfer (NOUN) : 열전달
+
+"transformer"
+# transformer (NOUN) : 변압기
+# transformer (NOUN) : 변환자
+# dry transformer (NOUN) : 건식변압기
+# oil-immersed transformer (NOUN) : 유압변압기
+
+"transistor"
+# transistor (NOUN) : 트랜지스터
+
+"transit"
+# rapid transit (NOUN) : 고속철도
+# transit (NOUN) : 대중교통
+# mass transit (NOUN) : 대량 운송 기계
+
+"transit-mixed"
+# transit-mixed (NOUN) : 트랜싯 믹스드
+
+"translation"
+# wave of translation (NOUN) : 이동파
+
+"transmission"
+# coefficient of over-all heat transmission (NOUN) : 열관유율
+# diffused transmission (NOUN) : 확산투과
+# over-all heat transmission (NOUN) : 열관류
+# transmission (NOUN) : 투과
+# coefficient of over-all heat transmission (NOUN) : 운열 계수
+# heat transmission (NOUN) : 운열
+# direct transmission (NOUN) : 직접전동
+# perfectly diffusing transmission (NOUN) : 완전확산투과
+# electric transmission (NOUN) : 전기 전동 장치
+
+"transmit"
+# transmit (NOUN) : 투과하다.
+
+"transmittance"
+# atmospheric transmittance (NOUN) : 대기 투과율
+# direct transmittance (NOUN) : 직접전동
+
+"transmitted"
+# transmitted (NOUN) : 투과하다.
+
+"transom"
+# transom (NOUN) : 중간홈대
+
+"transparency"
+# transparency (NOUN) : 투명도
+
+"transpiration"
+# transpiration (NOUN) : 
+
+"transpire"
+# transpire (NOUN) : 
+# transpire (NOUN) : 
+
+"trap"
+# gasoline trap (NOUN) : 가솔린 트랩
+# trap (NOUN) : 덫
+# drum trap (NOUN) : 드럼 트랩
+# bell trap (NOUN) : 벨트랩
+# S trap (NOUN) : S덫
+# grease trap (NOUN) : 그리이스 트랩
+# steam trap (NOUN) : 증기트랩
+# dip of trap (NOUN) : 
+# double trap (NOUN) : 이중 트랩
+# water seal trap (NOUN) : 수밀봉 트랩
+# trap (NOUN) : 덫
+# trap (NOUN) : 덫
+# float trap (NOUN) : 플로우트 트랩
+# thermostatic steam trap (NOUN) : 열동증기 트랩
+# end trap (NOUN) : 
+# house trap (NOUN) : 하우스 트랩
+# P trap (NOUN) : P덫
+# pipe trap (NOUN) : 
+
+"traverse"
+# open traverse (NOUN) : 개방 트래버어스
+# fixed traverse (NOUN) : 결합트래버스
+# traverse (NOUN) : 트래버어스
+# traverse (NOUN) : 다각 측량
+# course of traverse (NOUN) : 측선
+# closed traverse (NOUN) : 폐합트래버스,다각측량법
+# fixed traverse (NOUN) : 확정 트래버어스
+
+"traversing"
+# traversing (NOUN) : 사활강
+# traversing (NOUN) : 
+
+"travertine"
+# travertine (NOUN) : 트래버어틴
+
+"tread"
+# tread (NOUN) : 답면
+# tread (NOUN) : 답판
+# tread (NOUN) : 
+
+"treasure"
+# national treasure (NOUN) : 국보
+
+"treatment"
+# stress relief heat treatment (NOUN) : 응력제거열처리
+# sewage treatment (NOUN) : 하수처리
+# foundation treatment (NOUN) : 기초처리
+# metal surface treatment (NOUN) : 금속표면처리
+# biological treatment (NOUN) : 생물학적 처리
+# sludge treatment (NOUN) : 오니처리
+# surface treatment (NOUN) : 표면처리
+# complete treatment (NOUN) : 고급처리
+# primary treatment (NOUN) : 일차처리
+
+"tree"
+# deciduous tree (NOUN) : 낙엽수
+# shade tree (NOUN) : 가로수
+# wind-enduring tree (NOUN) : 내풍성 수목
+# broad-leaved tree (NOUN) : 활엽수
+# evergreen tree (NOUN) : 상록수
+
+"tremie"
+# tremie (NOUN) : 트레미
+
+"tremor"
+# preliminary tremor (NOUN) : 초기미동
+
+"trench"
+# trench (NOUN) : 도랑파다
+# trench (NOUN) : 도랑
+# trench (NOUN) : 도랑
+# out-off trench (NOUN) : 지수트렌치
+# trench (NOUN) : 도랑
+# trench (NOUN) : 도랑
+# square trench (NOUN) : 
+
+"trestle"
+# trestle (NOUN) : 트레슬
+
+"triangle"
+# adjustable triangle (NOUN) : 구배정규
+
+"triangulate"
+# triangulate (NOUN) : 삼각측량
+
+"triangulation"
+# station of triangulation (NOUN) : 삼각점
+# first-order triangulation (NOUN) : 일급삼각측량
+# third-order triangulation (NOUN) : 삼등삼각측량
+# fourth-order triangulation (NOUN) : 사등삼각측량
+# radial triangulation (NOUN) : 사선법
+
+"tribune"
+# tribune (NOUN) : 
+
+"tributary"
+# tributary (NOUN) : 지천
+# tributary (NOUN) : 지류
+
+"Triennale"
+# Triennale (NOUN) : 트리날레
+
+"triforium"
+# triforium (NOUN) : 트리포리엄
+
+"trigonometrically"
+# level trigonometrically (NOUN) : 삼각수준측량
+
+"trip"
+# person trip (NOUN) : 사람 트립
+# trip (NOUN) : 트립
+# trip (NOUN) : 트립
+
+"tripod"
+# tripod (NOUN) : 삼발이
+
+"tripper"
+# tripper (NOUN) : 트리퍼
+
+"troffer"
+# air handling troffer (NOUN) : 
+# troffer (NOUN) : 
+
+"trolley"
+# trolley (NOUN) : 트롤리
+# trolley (NOUN) : 트롤리
+
+"trough"
+# trough (NOUN) : 골
+
+"trowel"
+# pointing trowel (NOUN) : 포인팅흙손
+# finish with a trowel (NOUN) : 
+# steel trowel (NOUN) : 
+
+"truck"
+# platform truck (NOUN) : 
+# truck (NOUN) : 트럭
+# agitator truck (NOUN) : 애지테이터 트럭
+# dump truck (NOUN) : 덤프 트럭
+# forklift truck (NOUN) : 포오크리프트 트럭
+
+"truck-crane"
+# truck-crane (NOUN) : 트럭 기중기
+
+"truck-mixer"
+# truck-mixer (NOUN) : 트럭 배합기
+
+"truck-traktor"
+# truck-traktor (NOUN) : 트럭 트랙터
+
+"trunk"
+# elephant trunk (NOUN) : 가스성운
+
+"truss"
+# queen-post truss (NOUN) : 쌍대공 트러스
+# curved-chord truss (NOUN) : 곡현트러스
+# Pratt truss (NOUN) : 교차 트러스
+# parallel chord truss (NOUN) : 평행현재트러스
+# compound truss (NOUN) : 혼합트러스
+# multiple truss (NOUN) : 다중트러스
+# multiple truss (NOUN) : 다중트러스
+# pin-connected truss (NOUN) : 핀연결 트러스
+# king-post truss (NOUN) : 왕대공 트러스
+# horizontal truss (NOUN) : 수평트러스
+# queen post truss (NOUN) : 쌍대공 트러스
+# plane truss (NOUN) : 평면트러스
+# riveted truss (NOUN) : 리벳 트러스
+# double Warren truss (NOUN) : 복식와렌트러스
+# continuous truss (NOUN) : 연속트러스
+# lattice truss (NOUN) : 격자트러스
+# roof truss (NOUN) : 지붕 트러스
+# space truss (NOUN) : 공간트러스
+# hub-meyer truss (NOUN) : 허브 마이어 트러스
+# Warren truss (NOUN) : 와렌 트러스
+# truss (NOUN) : 트러스
+# Fink truss (NOUN) : 핑크 트러스
+# parallel chord truss (NOUN) : 직현 트러스
+# queen post truss (NOUN) : 쌍대공 트러스
+# Howe truss (NOUN) : 
+# main truss (NOUN) : 주트러스
+# roof truss (NOUN) : 지붕틀
+# erection truss (NOUN) : 가설용트러스
+# gable roof truss (NOUN) : 박공지붕트러스
+# stiffening truss (NOUN) : 보강트러스
+# brace of roof truss (NOUN) : 지붕트러스버팀목
+# simple space truss (NOUN) : 단순입체
+
+"tsunami"
+# tsunami (NOUN) : 
+
+"tube"
+# bubble tube (NOUN) : 기포관
+# casing tube (NOUN) : 케이싱튜브
+# stream tube (NOUN) : 유관
+# Pitot tube (NOUN) : 파일럿 관
+# submerged tube (NOUN) : 잠수 튜브
+# sampling tube (NOUN) : 시료채취 튜브
+# Venturi tube (NOUN) : 벤튜리관
+# capillary tube (NOUN) : 모세관 
+
+"tubular"
+# electric resistance welded tubular (NOUN) : 전기저항 용접관
+
+"tuff"
+# tuff (NOUN) : 응회암
+
+"tug"
+# tug (NOUN) : 예선
+# tug (NOUN) : 끌배
+
+"tunnel"
+# diversion tunnel (NOUN) : 가배수 터널
+# drain tunnel (NOUN) : 배수터널
+# test tunnel (NOUN) : 시험터널
+# tunnel (NOUN) : 굴
+
+"turbine"
+# reaction water turbine (NOUN) : 반동수차
+# hydraulic turbine (NOUN) : 수차
+# impulse water turbine (NOUN) : 충동수차
+# Francis turbine (NOUN) : 프란시스 터어빈
+# efficiency of hydraulic turbine (NOUN) : 수압펌프효율
+# turbine (NOUN) : 터어빈
+# Kaplan turbine (NOUN) : 카플란 터빈
+
+"turbo-blower"
+# turbo-blower (NOUN) : 터보 송풍기
+
+"turbo-compressor"
+# turbo-compressor (NOUN) : 터보 압축기
+
+"turf"
+# turf (NOUN) : 잔디밭
+
+"turn"
+# entrance turn (NOUN) : 유입전향
+
+"turnbuckle"
+# turnbuckle (NOUN) : 터언버클
+
+"turnout"
+# unsymmetrical double-curve turnout (NOUN) : 비대칭 이중곡선
+# double curved turnout (NOUN) : 이중곡률분기
+# curved turnout (NOUN) : 곡선분기점
+# turnout (NOUN) : 생산량
+# turnout (NOUN) : 대변소
+# turnout (NOUN) : 생산량
+# run-over-type turnout (NOUN) : 승월분기기
+# simple turnout (NOUN) : 단순생산량
+
+"turnover"
+# turnover (NOUN) : 전달
+# turnover (NOUN) : 완성공사고
+
+"turnpike"
+# turnpike (NOUN) : 유료도로
+
+"turntable"
+# turntable (NOUN) : 회전대
+
+"turss"
+# half-through turss (NOUN) : 홉상준설
+
+"twist"
+# twist (NOUN) : 비틀림
+# twist (NOUN) : 뒤틀림
+# twist (NOUN) : 뒤틀리다.
+
+"type"
+# clover leaf type (NOUN) : 
+# direct access type (NOUN) : 계단실형
+# double loaded corridor type (NOUN) : 중복 하중 복도형
+# packaged type (NOUN) : 패키지형
+# type (NOUN) : 형
+# direct heating type (NOUN) : 직접 가열식
+# fixed temperature type (NOUN) : 정온식
+# overflow type (NOUN) : 무넘이식
+# high strength bolted connection in friction type (NOUN) : 고장력볼트 마찰접합
+# gallery type (NOUN) : 회랑형식
+# platoon type (NOUN) : 
+# duplex type (NOUN) : 중층형
+# activity type (NOUN) : 활성도 타입
+# open stage type (NOUN) : 
+# usual with variation type (NOUN) : 특별교실형
+# building type (NOUN) : 건축형식
+# skip floor type (NOUN) : 
+
+"typhoon"
+# typhoon (NOUN) : 태풍
+

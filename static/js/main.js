@@ -78,11 +78,11 @@ function requestPosTag() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
-            if (response.errors.length != 0){
-                alert(response.errors);
+            if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
+                alert(typeof(response.errors));
                 dom.dicInfoDetails.value = response.errors;
             }
-            dom.dicInfoDetails.value = response.dicInfoDetails;
+            dom.dicInfoDetails.value = response.result;
             // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
             //dom.dicInfoDetailsRight.value = response.dicInfoRight;
             // text.posTagged = response.result;

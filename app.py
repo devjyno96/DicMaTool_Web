@@ -6,6 +6,8 @@ from manegementPython import TranferDicTool
 app = Flask(__name__)
 app.testing = True
 
+transfer = TranferDicTool.transferDic()
+
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -13,9 +15,7 @@ def index():
 @app.route('/postSearch', methods = ['POST'])
 def postSearch():
     search = request.get_json() #json 데이터를 받아옴
-    transfer = TranferDicTool.transferDic()
     result = transfer.Search(search)
-    print(result)
     return jsonify(result) # 받아온 데이터를 다시 전송
 
 
