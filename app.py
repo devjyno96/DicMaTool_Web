@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import json
-from manegementPython import TranferDicTool
+from managementPython import TranferDicTool
 
 app = Flask(__name__)
 app.testing = True

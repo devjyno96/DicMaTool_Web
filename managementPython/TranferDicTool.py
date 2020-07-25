@@ -151,8 +151,12 @@ class transferDic :
     def Update(self, word, genericPOS, domainPOS):
         print("transferDicUpdate")
 
-    def makeGenericDB(self, word, genericPOS, domainPOS):
-        print("transferMakeGenericDB")
+    def makeGenericDB(self):
+        relativePath = "\\DicMaTool_Web\\manegementPython\\EXE\\"
+        fileName = "makeTransDicDB.exe"
+        # os.chdir(os.getcwd())
+        subprocess.run([relativePath + fileName])
+
 
 
     def makeDomainDB(self, word, genericPOS, domainPOS):
@@ -181,6 +185,9 @@ class transferDic :
 
 if __name__ == "__main__" :
     testClass = transferDic()
+    testClass.makeGenericDB()
+    """
     testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
     testClass.Search(testData)
+    """
 
