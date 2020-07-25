@@ -42,17 +42,41 @@ class transferDic :
 
 
     def Search(self, data):
+        """
+
+        :param data: word, generic, domains
+        :type data: dict{str, str, str}
+        :return: result
+        :type return: dict{result : str, error: str}
+        """
+        resultDict = {"result" : "", "errors" : ""}
         word = data['word']
         generic = data['generics']
-        domain = data['domains'][0:3]
+        domain = data['domains'][0:3] # POS = 3 characters
+        errorMSG = ""
         POS = ""
         # generic is none  pos is domain, else pos is generic
+
+        if len(word) == 0:
+            errorMSG = "No Word Specified !!!"
+            resultDict["errors"] = errorMSG
+            return resultDict
+
         if len(generic) == 0 :
             POS = domain
         else :
             POS = generic
 
+        if len(POS) == 0 :
+            errorMSG = "No POS specified !!!"
+            resultDict["errors"] = errorMSG
+            return resultDict
+
+
+
         newDomainPOS = ""
+        # general DIC: nn, vb, ...
+        # domain DIC: sPos == sNewPos
 
         if POS not in self.CONVERT_POS :
             newDomainPOS = POS
@@ -61,6 +85,8 @@ class transferDic :
 
         firstLetter = word[0].lower()
 
+
+        # make dictionary file name in KS DIC folder
         folderName = ""
         if POS not in self.FOLDER_Name :
             folderName = "General"
@@ -84,10 +110,15 @@ class transferDic :
         # when KS Dic file doesn't exist, generate file from N Dic file
         if not os.path.isfile(relativePath + KSDicFullFileName):
             self.generateKSDicFile(folderName, fileName)
+            errorMSG = folderName + "\\" + fileName + " is generated !!!\n"
+            resultDict["errors"] = errorMSG
             # Print file generated massageBox
 
         if not os.path.isfile(relativePath + KSDicFullFileName):
-            print(KSDicFullFileName + " doesn't exist")
+            # print(KSDicFullFileName + " doesn't exist")
+            errorMSG = KSDicFullFileName + " doesn't exist"
+            resultDict["errors"] = errorMSG
+            return resultDict
             # process end
 
         key = "\"" + word + "\""
@@ -100,7 +131,10 @@ class transferDic :
         if key+"\n" in allLines:
             index = allLines.index(key+"\n")
         else:
-            print(word + " is not in dictionaly")
+            # print(word + " is not in dictionaly")
+            errorMSG = word + " is not in dictionaly"
+            resultDict["errors"] = errorMSG
+            return resultDict
             # process end
 
         # get key's means
@@ -109,7 +143,7 @@ class transferDic :
             if(reads[0] == '"'):
                 break
             else :
-                result += reads
+                resultDict['result'] += reads
 
         return result
 
