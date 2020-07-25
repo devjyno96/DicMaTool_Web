@@ -15,8 +15,8 @@ def postSearch():
     search = request.get_json() #json 데이터를 받아옴
     transfer = TranferDicTool.transferDic()
     result = transfer.Search(search)
-    searchResult = {'dicInfoDetails' : result}
-    return jsonify(searchResult) # 받아온 데이터를 다시 전송
+    print(result)
+    return jsonify(result) # 받아온 데이터를 다시 전송
 
 
 @app.route('/getJson', methods = ['get'])

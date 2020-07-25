@@ -12,7 +12,6 @@ let dom = {
     dicInfoDetailsLeft : null,
     dicInfoDetailsRight : null,
     dicInfoDetails : null
-
 };
 
 /**
@@ -78,6 +77,11 @@ function requestPosTag() {
         dataType:'json' ,
         contentType: "application/json",
         success: function (response) {
+            // if error has data => show error msg alert
+            if (response.errors.length != 0){
+                alert(response.errors);
+                dom.dicInfoDetails.value = response.errors;
+            }
             dom.dicInfoDetails.value = response.dicInfoDetails;
             // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
             //dom.dicInfoDetailsRight.value = response.dicInfoRight;
