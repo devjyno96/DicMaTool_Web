@@ -106,7 +106,7 @@ class transferDic :
         KSDicFullFileName += fileName
         KSDicFullFileName += '.txt'
 
-        relativePath = "\\DicMaTool_Web\\manegementPython\\EXE\\"
+        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
         # when KS Dic file doesn't exist, generate file from N Dic file
         if not os.path.isfile(relativePath + KSDicFullFileName):
             self.generateKSDicFile(folderName, fileName)
@@ -131,8 +131,8 @@ class transferDic :
         if key+"\n" in allLines:
             index = allLines.index(key+"\n")
         else:
-            # print(word + " is not in dictionaly")
-            errorMSG = word + " is not in dictionaly"
+            # print(word + " is not in dictionary")
+            errorMSG = word + " is not in dictionary"
             resultDict["errors"] = errorMSG
             return resultDict
             # process end
@@ -152,7 +152,7 @@ class transferDic :
         print("transferDicUpdate")
 
     def makeGenericDB(self):
-        relativePath = "\\DicMaTool_Web\\manegementPython\\EXE\\"
+        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
         fileName = "makeTransDicDB.exe"
         # os.chdir(os.getcwd())
         subprocess.run([relativePath + fileName])
@@ -164,7 +164,7 @@ class transferDic :
 
     def generateKSDicFile(self, folderName, fileName):
         alterFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\" + fileName
-        relativePath = "\\DicMaTool_Web\\manegementPython\\EXE\\"
+        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
         # cnExe = "EXE\\cn.exe"
         cnExe = "cn.exe"
         # cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
@@ -185,9 +185,7 @@ class transferDic :
 
 if __name__ == "__main__" :
     testClass = transferDic()
-    testClass.makeGenericDB()
-    """
+    # testClass.makeGenericDB()
     testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
     testClass.Search(testData)
-    """
 
