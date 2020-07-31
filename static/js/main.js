@@ -45,6 +45,7 @@ function getDomReferences() {
 function registerListeners() {
     dom.searchButton.addEventListener("click", onSearchButtonClick);
     dom.clearButton.addEventListener("click", onClearButtonClick);
+    dom.updateButton.addEventListener("click", onUpdateButtonClick);
 }
 // input values initialize
 function onClearButtonClick(){
@@ -58,6 +59,10 @@ function onClearButtonClick(){
 //search Button Event
 function onSearchButtonClick(){
     requestPosTag();
+}
+//search Button Event
+function onUpdateButtonClick(){
+    requestMakeGenericDB();
 }
 
 //Post function
@@ -89,6 +94,31 @@ function requestPosTag() {
             // text.posTagged = response.result;
             // dom.dicInfoDetailsLeft.innerHTML = text.posTagged;
 
+        }
+    });
+}
+
+function requestMakeGenericDB() {
+
+    $.ajax({
+        type: "POST",
+        url: "/postMakeGenericDB",
+        data: JSON.stringify({}),
+        dataType:'json' ,
+        contentType: "application/json",
+        success: function (response) {
+            // if error has data => show error msg alert
+            dom.dicInfoDetails.value = response.result;
+/*
+            if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
+                alert((response.errors));
+                dom.dicInfoDetails.value = response.errors;
+            }
+            // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
+            //dom.dicInfoDetailsRight.value = response.dicInfoRight;
+            // text.posTagged = response.result;
+            // dom.dicInfoDetailsLeft.innerHTML = text.posTagged;
+*/
         }
     });
 }

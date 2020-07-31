@@ -152,10 +152,23 @@ class transferDic :
         print("transferDicUpdate")
 
     def makeGenericDB(self):
+        resultDict = {"result" : "", "errors" : 0}
+
         relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
         fileName = "makeTransDicDB.exe"
-        # os.chdir(os.getcwd())
-        subprocess.run([relativePath + fileName])
+        location = os.getcwd()
+        os.chdir(relativePath)
+        result = subprocess.run([relativePath + fileName], capture_output= True)
+        output = result.stdout.decode('utf-8')
+        os.chdir(location)
+
+        if "DB open error!" in output:
+            resultDict['result'] = "Make Generic DB Error"
+            resultDict['error'] = 1
+            return resultDict
+
+        resultDict['result'] = "Make Generic DB Complete"
+        return resultDict
 
 
 
@@ -185,7 +198,7 @@ class transferDic :
 
 if __name__ == "__main__" :
     testClass = transferDic()
-    # testClass.makeGenericDB()
-    testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
-    testClass.Search(testData)
+    testClass.makeGenericDB()
+    # testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
+    # testClass.Search(testData)
 
