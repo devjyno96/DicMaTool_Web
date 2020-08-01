@@ -21,6 +21,13 @@ def postSearch():
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 
+@app.route('/postUpdate', methods=['POST'])
+def postUpdate():
+    update = request.get_json()  # json 데이터를 받아옴
+    result = transfer.Update(update)
+    return jsonify(result)  # 받아온 데이터를 다시 전송
+
+
 @app.route('/postMakeGenericDB', methods=['POST'])
 def postMakeGenericDB():
     result = transfer.makeGenericDB()

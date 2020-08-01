@@ -42,14 +42,7 @@ class transferDic :
 
 
     def Search(self, data):
-        """
-
-        :param data: word, generic, domains
-        :type data: dict{str, str, str}
-        :return: result
-        :type return: dict{result : str, error: str}
-        """
-        resultDict = {"result" : "", "errors" : ""}
+        resultDict = {"result" : "", "errors" : "", "foundLine" : 0 , "nextEntryLine" : 0 }
         word = data['word']
         generic = data['generics']
         domain = data['domains'][0:3] # POS = 3 characters
@@ -126,6 +119,7 @@ class transferDic :
         # allReadLines = open(relativePath + KSDicFullFileName, encoding="mbcs")
         allReadLines = open(relativePath + KSDicFullFileName)
         allLines = allReadLines.readlines()
+        test_allLine = allLines
         index = 0
         #Is key in the list?
         if key+"\n" in allLines:
@@ -135,20 +129,25 @@ class transferDic :
             errorMSG = word + " is not in dictionary"
             resultDict["errors"] = errorMSG
             return resultDict
-            # process end
+        resultDict['foundLine'] = index
 
         # get key's means
-        result = allLines[index]
+        resultDict['result'] = allLines[index]
+
+        length = 0
         for reads in allLines[index+1:] :
             if(reads[0] == '"'):
                 break
             else :
                 resultDict['result'] += reads
+                length += 1
+        resultDict['nextEntryLine'] = length
 
         return resultDict
 
 
-    def Update(self, word, genericPOS, domainPOS):
+    def Update(self, replaceData):
+
         print("transferDicUpdate")
 
     def makeGenericDB(self):
@@ -198,7 +197,7 @@ class transferDic :
 
 if __name__ == "__main__" :
     testClass = transferDic()
-    testClass.makeGenericDB()
-    # testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
-    # testClass.Search(testData)
+    # testClass.makeGenericDB()
+    testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
+    testClass.Search(testData)
 

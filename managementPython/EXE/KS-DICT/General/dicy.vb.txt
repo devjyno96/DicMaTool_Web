@@ -1,0 +1,114 @@
+
+"Yankeefy"
+vt (양키화하다)
+
+"yabber"
+vi (수다 떨다)
+
+"yaff"
+vt (개처럼 짓다)
+
+"yak"
+vi (수다 떨다)
+
+"yank"
+vt (홱 끌다)
+vi (홱 끌다)
+
+"yap"
+vi (짖어대다)
+
+"yard"
+vt (울안에 넣다)
+vi (뜰에 모이다)
+
+"yarn"
+vi (이야기 하다)
+
+"yarovize"
+vt (개화 결실 촉진하다)
+
+"yaw"
+vi (좌우로 흔들다)
+
+"yawl"
+vi (짖다)
+
+"yawn"
+vt (하품하면서 말하다)
+vi (하품하다)
+
+"yawp"
+vi (짖다)
+
+"yean"
+vt (낳다)
+vi (낳다)
+
+"yearn"
+vt (절실하게 말하다)
+vi (동경하다)
+# yearn TO_INF   (VERB) : [TO_INF](하고/F, 싶어하/V)/다
+
+"yeast"
+vt (이스트 넣다)
+vi (발효하다)
+
+"yell"
+vi (고함소리를 내다)
+# yell for help  (VERB) : 소리질러 구원을 청하다
+# yell out an oath  (VERB) : 큰소리로 욕설을 퍼붓다
+# yell at A   (VERB) : [(OBJ2 A/에게) 소리치<VERB>]/다
+
+"yellow"
+vt (노랗게 하다)
+vi (노랗게 되다)
+
+"yelp"
+vt (소리쳐 말하다)
+vi (고함을 지르다)
+
+"yen"
+vi (바라다)
+
+"yes"
+vi (예 라고 말하다)
+
+"yield"
+vt (산출하다)
+* 산출하다 (fruit 과일) (result 결과) (syrup 시럽) (product 제품)
+* 야기하다 (profit 이익) (interest 이자) (~ {+KNUM}) (benefit 수익) (fee 요금)
+* 야기하다 (improvement 개선) (information 정보) (insight 통찰) (point 포인트) (data 데이타)
+* 야기하다 (run 점수)
+* 양도하다 (right 권리) (position 지위)
+* 인정하다 (opinion 논점) (assertion 주장)
+* 말하다 (reason 이유)
+
+vi (농작물을 산출하다)
+# yield to A (VERB) :
+* [(ADJUNCT A/에게) 항복하<VERB>]/다
+* A (soldier 군인) (enemy 적)
+* [(OBJ A/를) 참지 못하<VERB>]/다
+* A (curiosity 호기심)
+* [(ADJUNCT A/에) 복종하<VERB>]/다
+* A (coverage 범위)
+# yield under A (VERB) :
+* [(ADJUNCT [(COMP A/에) 못이기<VERB>]/어) 부서지<VERB>]/다
+* A (weight 무게)
+
+"yip"
+vi (깽깽짖다)
+
+"yo-yo"
+vi (요요 가지고 놀다)
+
+"yodle"
+vt (노래하다)
+vi (노래하다)
+
+"yoke"
+vt (멍에 씌우다)
+vi (결합하다)
+
+"yowl"
+vi (짖다)
