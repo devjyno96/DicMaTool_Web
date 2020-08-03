@@ -39,51 +39,46 @@ class transferDic :
     def __init__(self):
         print("init")
     """
-
-
-    def Search(self, data):
-        resultDict = {"result" : "", "errors" : "", "foundLine" : 0 , "nextEntryLine" : 0 }
+    def openDicFile(self, data):
+        resultDict = {"result": "", "error": 0, "message" : "",  "file" : None }
         word = data['word']
         generic = data['generics']
-        domain = data['domains'][0:3] # POS = 3 characters
+        domain = data['domains'][0:3]  # POS = 3 characters
         errorMSG = ""
         POS = ""
         # generic is none  pos is domain, else pos is generic
 
         if len(word) == 0:
-            errorMSG = "No Word Specified !!!"
-            resultDict["errors"] = errorMSG
+            resultDict['error'] = 1
+            resultDict["message"] += "No Word Specified !!!"
             return resultDict
 
-        if len(generic) == 0 :
+        if len(generic) == 0:
             POS = domain
-        else :
+        else:
             POS = generic
 
-        if len(POS) == 0 :
-            errorMSG = "No POS specified !!!"
-            resultDict["errors"] = errorMSG
+        if len(POS) == 0:
+            resultDict['error'] = 1
+            resultDict["message"] += "No POS specified !!!"
             return resultDict
-
-
 
         newDomainPOS = ""
         # general DIC: nn, vb, ...
         # domain DIC: sPos == sNewPos
 
-        if POS not in self.CONVERT_POS :
+        if POS not in self.CONVERT_POS:
             newDomainPOS = POS
-        else :
+        else:
             newDomainPOS = self.CONVERT_POS[POS]
 
         firstLetter = word[0].lower()
 
-
         # make dictionary file name in KS DIC folder
         folderName = ""
-        if POS not in self.FOLDER_Name :
+        if POS not in self.FOLDER_Name:
             folderName = "General"
-        else :
+        else:
             folderName = self.FOLDER_Name[POS]
 
         KSDicFullFileName = self.KS_DIC_FOLDER + "\\" + folderName + "\\"
@@ -104,22 +99,32 @@ class transferDic :
         if not os.path.isfile(relativePath + KSDicFullFileName):
             self.generateKSDicFile(folderName, fileName)
             errorMSG = folderName + "\\" + fileName + " is generated !!!\n"
-            resultDict["errors"] = errorMSG
+            resultDict["message"] = errorMSG
             # Print file generated massageBox
 
         if not os.path.isfile(relativePath + KSDicFullFileName):
             # print(KSDicFullFileName + " doesn't exist")
             errorMSG = KSDicFullFileName + " doesn't exist"
-            resultDict["errors"] = errorMSG
+            resultDict['error'] = 1
+            resultDict["message"] += errorMSG
             return resultDict
             # process end
+        resultDict['file'] = open(relativePath + KSDicFullFileName)
+        return resultDict
+
+
+    def Search(self, data):
+        word = data['word']
 
         key = "\"" + word + "\""
-        # ANSI is to need decoded by mbcs
-        # allReadLines = open(relativePath + KSDicFullFileName, encoding="mbcs")
-        allReadLines = open(relativePath + KSDicFullFileName)
-        allLines = allReadLines.readlines()
-        test_allLine = allLines
+
+        resultDict = self.openDicFile(data)
+        resultDict.update({ "foundLine" : 0 , "nextEntryLine" : 0 })
+        if resultDict['error'] == 1 :
+            return resultDict
+        # print(allReadLines)
+
+        allLines = resultDict['file'].readlines()
         index = 0
         #Is key in the list?
         if key+"\n" in allLines:
@@ -141,14 +146,20 @@ class transferDic :
             else :
                 resultDict['result'] += reads
                 length += 1
-        resultDict['nextEntryLine'] = length
+        resultDict['nextEntryLine'] = length + 1
 
         return resultDict
 
 
     def Update(self, replaceData):
+        resultJson = {"result" : "", "errors" : ""}
+        searchResult = self.Search(replaceData)
 
-        print("transferDicUpdate")
+        print(searchResult['result'])
+        print("searchResult['result']")
+
+
+
 
     def makeGenericDB(self):
         resultDict = {"result" : "", "errors" : 0}

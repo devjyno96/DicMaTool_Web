@@ -1,0 +1,2967 @@
+"Vatican"
+(바티칸)
+
+"Versaille"
+% PLACE
+(베르사이유)
+
+"Vice President"
+(부통령)
+
+"Vice President Al Gore"
+(알 고어 부통령)
+
+"Vietnam"
+(베트남)
+# Vietnam War (NOUN) : 월남전
+
+"Viking"
+(바이킹)
+# the Vikings (NOUN) : 바이킹 족
+
+"Virginia"
+(버지니아)
+# University of Virginia (NOUN) : 버지니아 대학교
+
+"Vladimir Putin"
+% HUMAN
+(블라디미르 푸틴)
+
+"v"
+(v)
+
+"v-bomb"
+(로켓 폭탄)
+
+"v-day"
+% TIME
+(전승기념일)
+
+"v-mail"
+(V-mail)
+
+"v-neck"
+(V-neck)
+
+"v-sign"
+(승리의 표시)
+
+"vacancy"
+% MATERIAL STATE
+(공허)
+# an expression of vacancy (NOUN) : 멍한 표정
+# vacancy of mind (NOUN) : 망연 자실한 상태
+
+"vacation"
+% CONCRETE MATERIAL 
+(휴가)
+# ^be on vacation (VERB->ADJ) : 휴가중이다
+# summer vacation (NOUN) : 여름 휴가
+# winter vacation (NOUN) : 겨울 휴가
+# ^take a vacation (VERB) : 휴가를 얻다
+# the Christmas vacation (NOUN) : 크리스마스 휴가
+# the Easter vacation (NOUN) : 부활절 휴가
+# the Whitsun vacation (NOUN) : 성령 강립제 휴가
+# the long vacation (NOUN) : 장기 휴가
+# the summer vacation (NOUN) : 하계휴가
+# the vacation school (NOUN) : 하기 강습회
+# ^leave on vacation (VERB) : 휴가를 떠나다
+
+"vacationer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(휴가를 얻은 사람)
+
+"vacationist"
+% HUMAN
+(휴가로 노는 사람)
+
+"vacationist"
+% HUMAN
+(휴가를 얻은 사람)
+
+"vacationland"
+% PLACE
+(휴양지)
+
+"vaccination"
+% MATERIAL 
+(왁찐 주사)
+
+"vaccinationist"
+% HUMAN
+(종두론자)
+
+"vaccinator"
+% HUMAN
+(종두의사)
+
+"vaccine"
+% CONCRETE MATERIAL 
+(우두창)
+
+"vaccinee"
+% HUMAN
+(백신 주사를 맞은 사람)
+
+"vaccinia"
+(우두)
+
+"vaccinization"
+(연속 종두)
+
+"vacillation"
+% CONCRETE MATERIAL 
+(동요)
+
+"vacua"
+(진공)
+
+"vacuity"
+% STATE
+(공허)
+# the vacuity of mind (NOUN) : 마음의 공허
+
+"vacuole"
+% MIND
+(공포)
+
+"vacuousness"
+% MATERIAL 
+(공허)
+
+"vacuum"
+% CONCRETE MATERIAL 
+(진공)
+# vacuum gap (NOUN) : 진공의 공간
+
+"vagabond"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(방랑자)
+
+"vagabondage"
+% MATERIAL 
+(방랑 생활)
+
+"vagary"
+% MATERIAL 
+(못된 장난)
+
+"vagina"
+% CONCRETE MATERIAL ANIMAL
+(질)
+
+"vaginitis"
+(질염)
+
+"vagotomy"
+(비주 신경 절제술)
+
+"vagrancy"
+% ACTION
+(방랑)
+
+"vagrant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(방랑자)
+
+"vagueness"
+% CONCRETE MATERIAL 
+(모호함)
+# ^end in vagueness (VERB) : 어물어물 끝나다
+
+"vagus"
+% CONCRETE MATERIAL 
+(미주신경)
+
+"vaingloriousness"
+% MIND
+(허영심이 강함)
+
+"vainglory"
+% CONCRETE MATERIAL MIND
+(자만심)
+
+"vainness"
+(무익)
+
+"vair"
+(다람쥐의 모피)
+
+"valance"
+% CONCRETE ANIMAL MATERIAL 
+(휘장)
+
+"vale"
+% CONCRETE MATERIAL PLACE
+(계곡)
+# this vale of tears (NOUN) : 현세
+# the earthly vale (NOUN) : 현세
+# this vale of woe (NOUN) : 현세
+# the earthly vale (NOUN) : 현세
+# this vale of misery (NOUN) : 현세
+# the earthly vale (NOUN) : 현세
+
+"vale"
+% CONCRETE MATERIAL 
+(작별)
+
+"valediction"
+% MATERIAL 
+(작별)
+
+"valedictorian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(고별의 말)
+
+"valedictorian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(졸업생 대표)
+
+"valence"
+(발렌스)
+
+"valence"
+(원자가)
+
+"valence"
+(휘장)
+
+"valenciennes"
+(팔렌시엔 레이스)
+
+"valerian"
+% PLANT
+(쥐오줌풀)
+
+"valet"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(시종)
+
+"valetudinarian"
+(병약자)
+
+"valetudinarianism"
+(병약)
+
+"valgus"
+(외반족)
+
+"valhalla"
+% PLACE
+(신의 전당)
+
+"valiance"
+% CONCRETE MATERIAL 
+(용감)
+
+"valiancy"
+% CONCRETE MATERIAL 
+(용감)
+
+"valiantness"
+(용감 씩식)
+
+"validation"
+% MATERIAL 
+(검증)
+
+"validity"
+% CONCRETE MATERIAL 
+(정당성)
+# the term of validity (NOUN) : 유효기간
+
+"validness"
+% CONCRETE MATERIAL 
+(정당함)
+
+"valkyr"
+% HUMAN
+(12 시녀중의 한사람)
+
+"valkyrie"
+% HUMAN
+(12 시녀중의 한사람)
+
+"vallation"
+(누벽)
+
+"valley"
+% CONCRETE MATERIAL PLACE
+(골짜기)
+
+"vallum"
+(진영)
+
+"valor"
+% CONCRETE MATERIAL MIND 
+(용기)
+
+"valorization"
+% ECOLIFE
+(물가 안정책)
+
+"valorousness"
+% CONCRETE MATERIAL MIND
+(용감)
+
+"valour"
+% MIND
+(용기)
+
+"valuable"
+(귀중품)
+
+"valuation"
+% MATERIAL 
+(평가)
+# assessed valuation (NOUN) : 평가가치
+# ^put too high a valse on A (VERB) : [(OBJ A/을) 과대평가하<VERB>]/다
+# ^set too high a valse on A (VERB) : [(OBJ A/을) 과대평가하<VERB>]/다
+# valuation of assets (NOUN) : 자산의 평가
+
+"valuator"
+% HUMAN
+(평가자)
+
+"value"
+% STATE ECOLIFE 
+(가치)
+# actual value (NOUN) : 실제가치
+# appraised value (NOUN) : 감정가액
+# approximate value (NOUN) : 근사치
+# ^be of value to A (VERB) : [(ADJUNCT A/에게) 가치가 있<ADJ>]/다
+# book value (NOUN) : 장부 가격
+# break-up value (NOUN) : 정산가치
+# capitalize value (NOUN) : 자본화가치
+# derived value (NOUN) : 파생가치
+# economic value (NOUN) : 경제적 가치
+# expected value (NOUN) : 기대치
+# face value (NOUN) : 액면 가격
+# going value (NOUN) : 경영가치
+# imputed value (NOUN) : 귀속가치
+# insured value (NOUN) : 보험가액
+# intrinsic value (NOUN) : 진가치
+# liquidation value (NOUN) : 청산가치
+# market value (NOUN) : 시장가치
+# negative values (NOUN) : 소극적 가치
+# news value (NOUN) : 보도 가치
+# nominal value (NOUN) : 명목가치
+# of great value (ADJ) : 매우 값지다 
+# ^place a high value on A (VERB) : [(OBJ A/를) (MODS [높게<ADV>]) 평가하<VERB>]/다
+# ^place a high value on WHAT_CLAUSE (VERB) : [(OBJ [(RELCL WHAT_CLAUSE/하는) 것<NOUN>]/을) (MODS [높게<ADV>]) 평가하<VERB>]/다
+# positive values (NOUN) : 적극적 가치
+# propaganda value (NOUN) : 선전 가치
+# salvage value (NOUN) : 잔존가치
+# scarcity value (NOUN) : 희소가치
+# scrap value (NOUN) : 잔존가치
+# ^set a high value on A (VERB) : [(OBJ A/를) (MODS [높게<ADV>]) 평가하<VERB>]/다
+# surplus value (NOUN) : 잉여가치
+# true value (NOUN) : 진가
+# use value (NOUN) : 사용가치
+# utility value (NOUN) : 효용가치
+# value added (NOUN) : 부가가치
+# value added approach (NOUN) : 부가가치접근법
+# value in exchange (NOUN) : 교환가치
+# value in money (NOUN) : 통화가치
+# value in use (NOUN) : 사용가치
+# value of lease (NOUN) : 임대가격
+# value of money (NOUN) : 통화가치
+# value of NUM1 | (NOUN) : [(NMODS [값<NOUN>]) NUM1]
+# value received (NOUN) : 대가영수증
+
+"valuelessness"
+% CONCRETE MATERIAL 
+(하찮음)
+
+"valuer"
+% HUMAN
+(평가자)
+
+"valve"
+% CONCRETE MATERIAL 
+(밸브)
+# safety valve (NOUN) : 안전판
+# valve detector (NOUN) : 진공관 검파기
+# valve set (NOUN) : 진공관 수신기
+
+"valvelet"
+(작은 판)
+
+"valvule"
+(작은 판)
+
+"valvulitis"
+(판막염)
+
+"vamp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(등가죽)
+
+"vamp"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(요부)
+
+"vampire"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(흡혈귀)
+
+"vampirism"
+% ART
+(흡혈귀를 믿기)
+
+"vanadium"
+% CONCRETE MATERIAL 
+(바나듐)
+# vanadium steel (NOUN) : 바나딘강
+
+"vandal"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(반달 사람)
+
+"vandalism"
+(반달 사람의 기질)
+
+"vandragger"
+% HUMAN
+(화물차 도둑)
+
+"vandyke"
+% ART
+(밴다이크작의 그림)
+
+"vane"
+% CONCRETE ANIMAL MATERIAL 
+(바람개비)
+
+"vangee"
+(크랭크 달린 동륜)
+
+"vanguard"
+(전위)
+# ^be in the vanguard of A (VERB) : [(ADJUNCT [(POSS A/의) 진두<NOUN>]/에) 서<VERB>]/다
+# Vanguard Plan (NOUN) : 인공위성 발사 계획
+
+"vanilla"
+% CONCRETE MATERIAL 
+(바닐라)
+
+"vanillin"
+(비닐린)
+
+"vanish"
+(소음)
+
+"vanishment"
+(소멸)
+
+"vanity"
+% CONCRETE MATERIAL 
+(덧없음)
+
+"vantage"
+% CONCRETE MATERIAL 
+(우월)
+
+"vantagein"
+(서브측 점수)
+
+"vantageout"
+(리시브측 점수)
+
+"vapidity"
+(증발)
+
+"vapidness"
+(활기 없음)
+
+"vapor"
+% MATERIAL 
+(증기)
+# water vapor (NOUN) : 수증기
+
+"vaporing"
+% CONCRETE MATERIAL 
+(허세)
+
+"vaporization"
+% MATERIAL 
+(증발)
+
+"vaporizer"
+% HUMAN
+(증발시키는 사람)
+
+"vaporousness"
+(증기 많음)
+
+"vapour"
+% MATERIAL 
+(증기)
+# water vapour (NOUN) : 수증기
+
+"vaquero"
+% HUMAN
+(가축 상인)
+
+"varangian"
+% HUMAN
+(바랑 사람)
+
+"variability"
+% CONCRETE MATERIAL 
+(변하기 위움)
+
+"variable"
+% MATERIAL 
+(변수)
+# autonomous variable (NOUN) : 독립변수
+# explained variable (NOUN) : 피설명변수
+# induced variable (NOUN) : 종속변수
+
+"variableness"
+% CONCRETE MATERIAL 
+(변하기 쉬움)
+
+"variance"
+% CONCRETE MATERIAL 
+(변화)
+# cost variance (NOUN) : 원가차액
+# efficiency variance (NOUN) : 능률차이
+# price variance (NOUN) : 가격차이
+# quantity variance (NOUN) : 수량차이
+# variance of quantity (NOUN) : 변량
+
+"variant"
+% MATERIAL 
+(변체)
+
+"variation"
+% CONCRETE MATERIAL 
+(변화)
+# calendar variations (NOUN) : 휴일변동
+
+"varicella"
+% MATERIAL 
+(수두)
+
+"varicocele"
+(정계정맥류)
+
+"varicosei"
+(정맥휴상 종창)
+
+"varicoseness"
+(정맥류)
+
+"varicosity"
+(정맥휴상 종창)
+
+"variedness"
+% CONCRETE MATERIAL 
+(가지가지)
+
+"variegation"
+% MATERIAL 
+(잡색)
+
+"variety"
+% CONCRETE MATERIAL 
+(다양성)
+# great variety of ^A (NOUN) : [(AMODS [(MODS [매우<ADV>]) 다양하<ADJ>]/한) A]
+# variety of ^A (NOUN) : [(AMODS [다양하<ADJ>]/한) A]
+# variety shop (NOUN) : 잡화점
+
+"variola"
+% MATERIAL 
+(천연두)
+
+"variometer"
+% CONCRETE ANIMAL MATERIAL 
+(자력 변화계)
+
+"variorum"
+(집주판)
+
+"variousness"
+(다양성)
+
+"varix"
+(정맥류)
+
+"varlet"
+(종자)
+
+"varment"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(장난꾸러기)
+
+"varmint"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(장난꾸러기)
+
+"varnish"
+% CONCRETE MATERIAL 
+(와니스)
+# a varnish of civilization (NOUN) : 문명의 허식
+# ^put a varnish on A (VERB) : [(OBJ A/의) 겉치레<NOUN>]/를) 하<VERB>]/다
+
+"varsity"
+(대학)
+
+"vas"
+(맥관)
+# vas deferens (NOUN) : 정관
+
+"vasculum"
+(식물 채집상자)
+
+"vase"
+% CONCRETE ANIMAL MATERIAL 
+(꽃병)
+# vase painting (NOUN) : 꽃병 그림
+
+"vasectomy"
+(정관절제)
+
+"vaseline"
+(와셀린)
+
+"vassal"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(봉신)
+# vassal homage (NOUN) : 신하의 예
+# vassal fealty (NOUN) : 신하의 예
+# vassal state (NOUN) : 속국
+
+"vassalage"
+% MATERIAL 
+(신하임)
+
+"vastitude"
+% HUMAN
+(광대)
+
+"vat"
+% CONCRETE ANIMAL MATERIAL 
+(큰 통)
+
+"vatful"
+(큰 통 가득)
+
+"vatican"
+% PLACE
+(바티칸 궁전)
+# the Vatican Council (NOUN) : 바티칸 공회
+# thunders of the Vatican (NOUN) : 아톨릭 교회의 파문
+
+"vaticanism"
+% ART
+(교황 절대권 주의)
+
+"vaticanist"
+% HUMAN
+(교황 절대권 주의자)
+
+"vaticination"
+% MATERIAL 
+(에언)
+
+"vaudeville"
+% CONCRETE MATERIAL ART
+(음악을 곁들인 소희극)
+# vaudeville house (NOUN) : 보오더빌관
+# vaudeville performance (NOUN) : 보오더빌 흥행
+# vaudeville sketch (NOUN) : 보오더빌 토막극
+
+"vaudevillian"
+% HUMAN
+(보오더빌 배우)
+
+"vault"
+% CONCRETE MATERIAL 
+(둥근 지붕)
+# vault cash (NOUN) : 시재금
+# the vault of heaven (NOUN) : 창공
+
+"vault"
+% CONCRETE MATERIAL 
+(뛰어 넘기)
+# a pole vault (NOUN) : 봉고도
+
+"vaulting"
+(뛰기)
+
+"vaunt"
+(자랑)
+
+"veal"
+% CONCRETE MATERIAL FOOD
+(송아지 고기)
+
+"vebrato"
+(진동)
+
+"vection"
+(병원체 전염)
+
+"vector"
+% MATERIAL 
+(벡터)
+# vector analysis (NOUN) : 벡터 해석
+
+"vedaic"
+(베다말)
+
+"vedas"
+% TIME
+(유럽 전승 기념일)
+
+"vedette"
+% HUMAN
+(기마 초병)
+
+"vedic"
+(베다말)
+
+"vedism"
+% ART
+(베다의 가르침)
+
+"veep"
+% HUMAN
+(부통령)
+
+"veery"
+% CONCRETE ANIMAL MATERIAL 
+(지빠귀)
+
+"vega"
+(베가성)
+
+"vegetable"
+% CONCRETE MATERIAL FOOD
+(야채)
+# forced vegetables (NOUN) : 촉성재배한 야채
+# ^become a mere vegetable (VERB) : 단조로운 생활을 하다
+# green vegetables (NOUN) : 푸성귀
+
+"vegetablize"
+% FOOD
+(식물)
+
+"vegetarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(채식자)
+
+"vegetation"
+% MATERIAL PLANT
+(초목)
+
+"vegetativeness"
+(생장)
+
+"vehemence"
+% CONCRETE MATERIAL 
+(격렬함)
+
+"vehemency"
+(격렬함)
+
+"vehicle"
+% CONCRETE MATERIAL 
+(운반 기구)
+# a motor vehicle (NOUN) : 자동차
+# commercial vehicle (NOUN) : 상용자
+# vehicle currency (NOUN) : 국제거래통화
+
+"veil"
+% CONCRETE MATERIAL 
+(베일)
+# beyond thd veil (PP->ADV) : 저승에
+# ^draw a veil over A (VERB) : [(OBJ A/을) 덮어 가리<VERB>]/다
+# ^draw the veil over A (VERB) : [(OBJ A/을) 덮어 가리<VERB>]/다
+# ^drop a veil (VERB) : 베일을 드리다
+# ^raise a veil (VERB) : 베일을 걷어 올리다
+# ^pass the veil (VERB) : 저승에 가다
+# ^take the veil (VERB) : 수도원에 들어가다
+# ^throw a veil over A (VERB) : [(OBJ A/을) (SCOMP [(OBJ [베일<NOUN>]/을) 덮<VERB>]/하여) 가리<VERB>]/다
+# under ter veil of A (PP->ADV) : (ADJUNCT [(AMODS A/라는) 미명 아래<NOUN>])
+
+"veiling"
+% CONCRETE MATERIAL 
+(베일로 덮기)
+
+"vein"
+% CONCRETE MATERIAL 
+(정맥)
+# a vein of humor (NOUN) : 해학비
+# poetic vein (NOUN) : 시인 기질
+# in the giving vein (PP->ADV) : 선심 쓰는 기분으로
+# ^say in a humorous vein (VERB) : 농담조로 말하다
+
+"vela"
+(비라성좌)
+
+"velar"
+(연구개자음)
+
+"veld"
+% PLACE
+(초원지)
+
+"vellum"
+% CONCRETE MATERIAL 
+(송아지 피지)
+# vellum cloth (NOUN) : 전사포
+# vellum paper (NOUN) : 모조 피지
+
+"velocipede"
+(어린이의 세바퀴 자전거)
+
+"velocity"
+% CONCRETE MATERIAL 
+(속도)
+# accelerated velocity (NOUN) : 가속도
+# escape velocity (NOUN) : 대기권 탈출 속도
+# induced velocity (NOUN) : 유도속도
+# initial velocity (NOUN) : 초속
+# muzzle velocity (NOUN) : 초속
+# velocity coefficient (NOUN) : 속도계수
+# velocity of circulation (NOUN) : 통화의 유동속도
+# velocity of circulation of money (NOUN) : 통화의 유동속도
+# velocity of money (NOUN) : 통화의 유동속도
+# uniform velocity (NOUN) : 등 속도
+# variable velocity (NOUN) : 가변 속도
+
+"velodrome"
+% PLACE
+(옥내 자전거 경주장)
+
+"velour"
+% CONCRETE MATERIAL 
+(벨루어)
+
+"velum"
+% CONCRETE MATERIAL 
+(연구개)
+
+"velure"
+(벨벳류)
+
+"velvet"
+% CONCRETE MATERIAL 
+(벨벳)
+# cotton velvet (NOUN) : 면 벨벳
+# silk velvet (NOUN) : 견 벨벳
+# ^stand on velvet (VERB) : 유리한 지위에 있다
+# ^be on velvet (VERB) : 유리한 지위에 있다
+
+"velveteen"
+% CONCRETE MATERIAL 
+(면벨벳)
+
+"velveting"
+(벨벳 제품)
+
+"venality"
+(돈으로 좌우됨)
+
+"venalness"
+(돈으로 좌우됨)
+
+"venation"
+(엽맥의 분포 상태)
+
+"vendace"
+% ANIMAL
+(횐 송어)
+
+"vendee"
+% HUMAN
+(사는 사람)
+
+"vender"
+% HUMAN
+(파는 사람)
+
+"vendetta"
+% MATERIAL ACTION
+(두 가족간의 반목 살상)
+
+"vendible"
+(판매 가능품)
+
+"vendition"
+% MATERIAL ECOLIFE
+(판매)
+
+"vendor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(벤더)
+# street vendor (NOUN) : 노점상
+
+"vendue"
+% MATERIAL ECOLIFE
+(공매)
+
+"veneer"
+% CONCRETE ANIMAL MATERIAL 
+(베니어판)
+# veneer board (NOUN) : 베니아합판
+
+"venerability"
+(존경할 만할)
+
+"venerableness"
+(존경할 만함)
+
+"veneration"
+% MATERIAL MIND
+(존경)
+# ^have in veneraion (VERB) : 존경하다
+# ^hold in veneraion (VERB) : 숭배하다
+
+"venerator"
+% HUMAN
+(존경하는 사람)
+
+"venereology"
+% HUMAN
+(성병과 의사)
+
+"venery"
+% ACTION
+(성교)
+
+"venesection"
+(방혈)
+
+"venetian"
+% HUMAN
+(베니스 사람)
+
+"vengeance"
+% ACTION
+(복수)
+# ^inflict vengeance upon A (VERB) : [(OBJ2 A/에게) 복수하<VERB>]/다
+# ^take vengeance upon A (VERB) : [(OBJ2 A/에게) 복수하<VERB>]/다
+# ^wreak vengeance upon A (VERB) : [(OBJ2 A/에게) 복수하<VERB>]/다
+# with a vengeance (PP->ADV) : 심하게
+
+"vengefulness"
+% MATERIAL 
+(복수심이 가득함)
+
+"veniality"
+(용서되기)
+
+"venice"
+(베니스)
+
+"venik"
+(금성 탐측기)
+
+"venire"
+(배심원 출두 명령서)
+
+"venireman"
+% HUMAN
+(배심원 소집장으로 호출당한 사람)
+
+"venison"
+% CONCRETE MATERIAL FOOD
+(사슴고기)
+
+"venite"
+% ART
+(시편 제 95 편)
+
+"venom"
+% CONCRETE MATERIAL 
+(독액)
+# a venom duct (NOUN) : 독관
+# a venom fang (NOUN) : 독아
+# a venom gland (NOUN) : 독선
+
+"venomousmess"
+(독이 있음)
+
+"venosity"
+(정맥이 많음)
+
+"venousness"
+(정맥이 있음)
+
+"vent"
+% CONCRETE MATERIAL 
+(구멍)
+
+"ventage"
+% PLACE
+(출구)
+
+"venter"
+% CONCRETE MATERIAL 
+(배)
+# brothers of another venter (NOUN) : 배다른 형제
+
+"ventilation"
+% MATERIAL 
+(통풍)
+# ventilation fan (NOUN) : 환기용 선풍기
+
+"ventilator"
+% CONCRETE ANIMAL MATERIAL 
+(환기하는 것)
+
+"ventricle"
+% CONCRETE MATERIAL 
+(실)
+
+"ventriloquism"
+(복화)
+
+"ventriloquy"
+(복화)
+
+"venture"
+% MATERIAL ACTION
+(모험)
+# a lucky venture (NOUN) : 들어맞은 투기
+# at a venture (PP->ADV) : 모험적으로
+# venture business (NOUN) : 벤처 비즈니스
+# venture capital (NOUN) : 벤처자본
+
+"venturer"
+% HUMAN
+(모험자)
+
+"venturesomeness"
+% CONCRETE MATERIAL 
+(모험적임)
+
+"venturousness"
+(모험적임)
+
+"venue"
+% MATERIAL 
+(재판지)
+# ^change the venue (VERB) : 재판지를 변경하다
+
+"venus"
+% HUMAN PLACE
+(비이너스)
+# Venus of Milo (NOUN) : 밀로의 비이너스
+# Venus probe (NOUN) : 금성 탐색 인공위성
+# Venus's flower basket (NOUN) : 해로동혈 해변
+# Venus's fly Venustrap (NOUN) : 끈끈이 주걱
+
+"veracity"
+% CONCRETE MATERIAL 
+(진실을 이야기하기)
+
+"veranda"
+% CONCRETE ANIMAL MATERIAL PLACE
+(베란다)
+
+"verb"
+% MATERIAL 
+(동사)
+# auxiliary verb (NOUN) : 조동사
+# dative verb (NOUN) : 여격 동사
+# causative verb (NOUN) : 사역 동사
+# factitive verb (NOUN) : 사역 동사
+# finite verb (NOUN) : 정형 동사
+# intransitive verb (NOUN) : 자동사
+# transitive verb (NOUN) : 타동사
+# irregular verb (NOUN) : 불규칙 동사
+# regular verb (NOUN) : 규칙 동사
+# reflexive verb (NOUN) : 재귀 동사
+# strong verb (NOUN) : 강변화 동사
+# weak verb (NOUN) : 약변화 동사
+# substantive verb (NOUN) : 존재 동사
+# copulative verb (NOUN) : 존재 동사
+
+"verbal"
+(준동사)
+
+"verbalism"
+(언어적 표현)
+
+"verbena"
+% PLANT
+(버베나 속)
+
+"verbiage"
+(쓸데없는 말이 많음)
+
+"verboseness"
+% CONCRETE MATERIAL 
+(말이 많음)
+
+"verbosity"
+% CONCRETE MATERIAL 
+(말많음)
+
+"verdancy"
+(푸릇푸릇함)
+
+"verdantor"
+% HUMAN
+(왕실 삼림 관리관)
+
+"verderer"
+% HUMAN
+(왕실 삼림 관리관)
+
+"verdict"
+% MATERIAL 
+(판단[평결])
+# ^bring in a verdict of guilty (VERB) : 유죄의 답신을 하다
+# ^bring return a verdict of guilty (VERB) : 무죄의 답신을 하다
+# ^bring deliver a verdict of guilty (VERB) : 무죄의 답신을 하다
+# ^bring give a verdict of guilty (VERB) : 무죄의 답신을 하다
+# general verdict (NOUN) : 전부 답신
+# special verdict (NOUN) : 특별 답신
+# ^pass ONE_S  verdict upon A (VERB) : [(ADJUNCT A/에) (OBJ [판단<NOUN>]/을) 
+내리<VERB>]/다
+
+"verdigris"
+% CONCRETE ANIMAL MATERIAL 
+(녹청)
+
+"verdure"
+(청록)
+
+"verein"
+% ORGAN
+(연맹)
+
+"verge"
+% CONCRETE MATERIAL 
+(가장자리)
+# on the verge of PRESP (ADJ) : [(COMP [(RELCL PRESP/할) 순간<NOUN>]) _<ADJ>]<이>/다
+
+"verger"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(권표 받드는 사람)
+
+"verifiableness"
+(입증할 수 있음)
+
+"verification"
+% MATERIAL ACTION
+(확인)
+
+"verifier"
+% HUMAN
+(입증자)
+
+"verisimilitude"
+(있음직함)
+
+"verism"
+% ART
+(진실주의)
+
+"veritableness"
+(틀림없음)
+
+"verity"
+(진실)
+
+"vermeil"
+(주홍색)
+
+"vermicelli"
+% CONCRETE MATERIAL 
+(베르미첼리)
+
+"vermicide"
+(살충제)
+
+"vermiculite"
+(운모)
+
+"vermifuge"
+(회충약)
+
+"vermilion"
+% CONCRETE MATERIAL 
+(주홍)
+
+"vermin"
+% CONCRETE ANIMAL MATERIAL 
+(해로운 짐승)
+
+"vermination"
+(해충 발생)
+
+"vermonter"
+% HUMAN
+(버몬트 주의 사람)
+
+"vermontese"
+% HUMAN
+(버몬트 주의 사람)
+
+"vermuth"
+% FOOD
+(베르뭇 술)
+
+"vernacular"
+% CONCRETE MATERIAL 
+(자기나라말)
+
+"vernation"
+(아형)
+
+"vernier"
+% CONCRETE ANIMAL MATERIAL 
+(유표)
+
+"veronal"
+% CONCRETE MATERIAL 
+(수면제)
+
+"veronese"
+% HUMAN
+(베로나 사람)
+
+"veronica"
+% PLANT
+(꼬리풀속의 식물)
+
+"versatility"
+% MATERIAL 
+(다양성)
+
+"verse"
+% CONCRETE MATERIAL ART
+(운문)
+# lyrical verse (NOUN) : 서정시
+# ^cap verses (VERB) : 남이 지은 싯구의 끝글자로 시작하여 시를 짓다
+# blank verse (NOUN) : 무운시
+# elegiac verse (NOUN) : 애가
+# free verse (NOUN) : 자유시
+# ^put into verses (VERB) : 시로 짓다
+# ^turn into verses (VERB) : 시로 짓다
+# ^give chapter and verse for (VERB) : 인용의 출처를 밝히다
+
+"versedmaker"
+% HUMAN
+(엉터리 시인)
+
+"versemonger"
+% HUMAN
+(엉터리 시인)
+
+"versicle"
+% ART
+(단시)
+
+"versification"
+% CONCRETE MATERIAL 
+(작시)
+
+"versifier"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(작시가)
+
+"version"
+% ORGAN STATE 
+(버전)
+# the film version of Hamlet (NOUN) : 햄릿의 영화판
+# a modern version of A (NOUN) : [(POSS A/의) 현대판<NOUN>]
+
+"verst"
+% CONCRETE UNIT MATERIAL 
+(베르스타)
+
+"vert"
+% PLACE
+(삼림 속에 우거진 수풀)
+
+"vertebra"
+% CONCRETE MATERIAL ANIMAL
+(추골)
+
+"vertebrata"
+% ANIMAL
+(척추 동물)
+
+"vertebrate"
+% CONCRETE ANIMAL MATERIAL 
+(척추 동물)
+
+"vertebration"
+(척추 구성)
+
+"vertex"
+% MATERIAL 
+(최고점)
+
+"vertical"
+% CONCRETE ANIMAL MATERIAL 
+(수직선)
+
+"verticality"
+(수직)
+
+"verticalness"
+(수직)
+
+"vertices"
+(정점들)
+
+"verticil"
+% ANIMAL
+(윤생체)
+
+"vertigo"
+% MATERIAL 
+(현기증)
+
+"vertiport"
+% PLACE
+(수직 이착륙 비행장)
+
+"vertu"
+% PLANT
+(마편초속의 식물)
+
+"verve"
+% CONCRETE MATERIAL 
+(생기)
+
+"vervet"
+% CONCRETE ANIMAL MATERIAL 
+(꼬리긴 원숭이)
+
+"vesicant"
+(발포제)
+
+"vesicle"
+% CONCRETE MATERIAL 
+(소낭)
+
+"vesper"
+% TIME
+(해질무렵)
+
+"vessel"
+% CONCRETE MATERIAL 
+(그릇)
+# diving vessel (NOUN) : 잠수선
+# merchant vessel (NOUN) : 상선
+# sailing vessel (NOUN) : 범선
+# war vessel (NOUN) : 군함
+# blood vessel (NOUN) : 혈관
+# chosen vessel (NOUN) : 선발된 서람
+# the weaker vessel (NOUN) : 연약한 여자
+# vessels of wrath (NOUN) : 진노의 그릇
+# weak vessel (NOUN) : 약한 그릇
+
+"vest"
+% CONCRETE MATERIAL 
+(조끼)
+# life vest (NOUN) : 구명조끼
+
+"vesta"
+% HUMAN
+(베스타 여신)
+
+"vestal"
+% HUMAN
+(여신의 시중을 든 처녀)
+
+"vestee"
+(부인복 앞 장식)
+
+"vestibule"
+% CONCRETE ANIMAL MATERIAL PLACE
+(현관)
+# vestibule school (NOUN) : 직공 양성소
+# vestibule train (NOUN) : 연랑 열차
+
+"vestige"
+% MATERIAL 
+(자취)
+# without a vestige of clothing (PP->ADV) : 실오라기 하나 걸치지 않고
+
+"vesting"
+(조끼감)
+
+"vestmint"
+(옷)
+# Mass vestmints (NOUN) : 미사의 제복
+
+"vestpocket"
+(조끼 호주머니)
+
+"vestry"
+% CONCRETE ANIMAL MATERIAL PLACE
+(제복실)
+
+"vestryman"
+% HUMAN
+(교구 위원)
+
+"vesture"
+(의복)
+
+"vesuvian"
+(엽궐련용 내풍 성냥)
+
+"vet"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(수의)
+
+"vetch"
+% CONCRETE ANIMAL MATERIAL PLANT
+(실갈퀴속의 각종 초본)
+
+"veteran"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(베테랑)
+
+"veterinarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(수의)
+
+"veterinary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(수의)
+
+"veto"
+% CONCRETE MATERIAL 
+(거부권)
+# pocket veto (NOUN) : 의안 묵살
+# ^put a veto on theproposal (VERB) : 제안을 거부하다
+# ^set a veto on theproposal (VERB) : 제안을 거부하다
+
+"vexation"
+% MATERIAL MIND
+(속상함)
+# to my vexation (PP->ADV) : 분하게도
+# a vexation to the neighbors (NOUN) : 이웃 사람들의 고민거리
+# in vexation of spirit (PP->ADV) : 속이 상하여
+# in vexation of mind (PP->ADV) : 속이 상하여
+
+"vexatiousness"
+(귀찮음)
+
+"vexillary"
+(고참병)
+
+"viability"
+% CONCRETE MATERIAL 
+(생존 능력)
+# international viability (NOUN) : 국제 경쟁력
+
+"viaduct"
+% CONCRETE ANIMAL MATERIAL 
+(육교)
+
+"vial"
+% CONCRETE ANIMAL MATERIAL 
+(유리병)
+# ^pour out the vials of ONE_S  wrath on A (VERB) : [(OBJ2 A/에게) 복수하<VERB>]/다
+# ^pour out the vials of ONE_S  wrath upon A (VERB) : [(OBJ2 A/에게) 복수하<VERB>]/다
+
+"viand"
+% CONCRETE MATERIAL FOOD
+(식품)
+
+"viaticum"
+(임종때 받는 성찬)
+
+"vibes"
+% MATERIAL 
+(비브라폰)
+
+"vibrancy"
+% CONCRETE MATERIAL 
+(진동)
+
+"vibrant"
+(유성음)
+
+"vibraphone"
+% CONCRETE ANIMAL MATERIAL 
+(비브라폰)
+
+"vibraphonist"
+% HUMAN
+(비브라폰 연주자)
+
+"vibration"
+% MATERIAL 
+(진동)
+
+"vibrator"
+% CONCRETE ANIMAL MATERIAL 
+(진동하는 것)
+
+"vibrometer"
+(진동계)
+
+"vibroscope"
+(진동계)
+
+"viburnum"
+% PLANT
+(가막살나무속의 관목)
+
+"vic"
+(vic)
+
+"vicar"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(교구 목사)
+# cardinal vicar (NOUN) : 사교대리
+# vicar forane (NOUN) : 교황 대리 사교
+# vicar choral (NOUN) : 성가 조수
+# the Vicar of Christ (NOUN) : 그리스도의 대리자
+# the Vicar Jesus Christ (NOUN) : 그리스도의 대리자
+
+"vicarage"
+% CONCRETE ANIMAL MATERIAL PLACE
+(교구목사의 주택)
+
+"vicargeneral"
+% HUMAN
+(주교의 대리)
+
+"vicariousness"
+(대리를 함)
+
+"vice"
+% CONCRETE MATERIAL
+(악)
+# vice and virtue (NOUN) : 악덕과 미덕
+# a vice of intemperance (NOUN) : 폭음하는 악습
+# the vice of modern eivilization (NOUN) : 근대문명의 결함
+# a constitutional vice (NOUN) : 타고난 육체적 결함
+# vice king  (NOUN) :  부왕
+
+"viceadmiral"
+% HUMAN
+(해군 중장)
+
+"viceadmiralty"
+% HUMAN
+(해군 중장의 직)
+
+"vicechairman"
+% HUMAN
+(부의장)
+
+"vicechairmanship"
+% HUMAN
+(부의장의 직)
+
+"vicechamberlain"
+% HUMAN
+(부시종)
+
+"vicechancellor"
+% HUMAN
+(대학 부총장)
+
+"viceconsul"
+% HUMAN
+(부영사)
+
+"viceconsulate"
+% HUMAN
+(대리)
+
+"vicegerent"
+% HUMAN
+(대리인)
+# God's vicegerent (NOUN) : 로마 교황
+
+"vicegovernor"
+% HUMAN
+(부총독)
+
+"vicegovernorship"
+% HUMAN
+(부총독의 직)
+
+"viceminister"
+% HUMAN
+(차관)
+
+"vicepresidency"
+% HUMAN
+(부통령의 직)
+
+"vicepresident"
+% HUMAN
+(부통령)
+
+"viceprincipal"
+% HUMAN
+(부교장)
+
+"viceregency"
+% HUMAN
+(대리인의 직)
+
+"viceregent"
+% HUMAN
+(부접정)
+
+"vicereine"
+% HUMAN
+(부왕비)
+
+"viceroy"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(부왕)
+
+"viceroyalty"
+% MATERIAL HUMAN
+(부왕의 직)
+
+"viceroyship"
+% HUMAN
+(부왕의 직)
+
+"vichyite"
+% HUMAN
+(비시정부 지지자)
+
+"vici"
+(구두용 새끼양 가죽)
+
+"vicinage"
+% HUMAN
+(이웃)
+
+"vicinity"
+% MATERIAL PLACE
+(근처)
+# in the vicinity of A (PP->ADV) : (ADJUNCT [(POSS A/의) 부근<NOUN>]/에)
+
+"viciousness"
+% CONCRETE MATERIAL MIND
+(사악함)
+
+"vicissitude"
+% CONCRETE MATERIAL 
+(변천)
+
+"victim"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(희생자)
+# ^become the victim of A (VERB) : [(SCOMP [(POSS A/의) 희생<NOUN>]/이) 되<VERB>]/다
+# real victim (NOUN) : 실제 피해자
+
+"victimization"
+% MATERIAL 
+(희생시키기)
+
+"victimology"
+% ART
+(피해자 연구)
+
+"victor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(승리자)
+
+"victorian"
+% HUMAN
+(빅토리아 여왕 시대의 사람)
+
+"victorianism"
+(빅토리아 시대풍조)
+
+"victoriousness"
+(승리를 거둠)
+
+"victory"
+% MATERIAL 
+(승리)
+# landslide victory (NOUN) : 거창한 승리
+
+"victress"
+% HUMAN
+(여자 승리자)
+
+"victrola"
+(빅터 축음기)
+
+"victual"
+% FOOD
+(보통 음식물)
+
+"victualer"
+% HUMAN
+(식료품 공급자)
+
+"victualing"
+(음식 공급)
+# victualing bill (NOUN) : 선박용 식료품 적재 신고서
+# victualing house (NOUN) : 음식점
+# victualing note (NOUN) : 수병 식사 전표
+# victualing yard (NOUN) : 군수부 창고
+
+"vicugna"
+% ANIMAL
+(비큐나)
+
+"vicuna"
+% CONCRETE ANIMAL MATERIAL 
+(비큐나)
+
+"video"
+% CONCRETE MATERIAL 
+(비디오)
+# video on demand (NOUN) : 주문형 비디오
+
+"videocassette"
+% CONCRETE MATERIAL
+(비디오 카세트)
+
+"videocast"
+(텔레비젼 방송)
+
+"videoconferencing"
+(비디오 회의)
+
+"videodisc"
+(비디오 디스크)
+
+"videologist"
+(텔레비전 회사)
+
+"videophone"
+(텔레비전 전화)
+
+"videoplayer"
+(비디오 플레이어)
+
+"videotape"
+(비디오 테이프)
+
+"videotelephone"
+(텔레비젼 전화)
+
+"vidicon"
+(비디콘)
+
+"viennese"
+% HUMAN
+(비인 사람)
+
+"viet cong"
+% HUMAN
+(베트공)
+
+"vietcong"
+% HUMAN
+(베트공)
+
+"vietminh"
+% ORGAN
+(베트남 독립 동맹)
+
+"vietnamese"
+% HUMAN
+(베트남 사람)
+
+"vietnamese"
+% HUMAN
+(베트남 사람)
+
+"vietnamization"
+(월남화)
+
+"vietvet"
+% HUMAN
+(월남전쟁 참전 용사)
+
+"view"
+% CONCRETE MATERIAL 
+(관점)
+# a view of A (NOUN) :
+* [(POSS A/의) 경치<NOUN>]
+* A (city 도시)
+# fine view (NOUN) : 좋은 전망
+# || in ONE_S view (PP->ADV) : (ADJUNCT [(AMODS ONE_S) 견해<NOUN>]/로는)
+# ^see all things at one view (VERB) : 한눈에 모든 것을 보다
+
+"viewer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(보는 사람)
+
+"viewiness"
+(공상적임)
+
+"viewphone"
+(텔레비젼 전화)
+
+"viewpoint"
+% MATERIAL 
+(관점)
+# prices seen from the consumer's viewpoint (NOUN) : 소비자의 입장에서 본 물가
+
+"vigil"
+% MATERIAL HUMAN
+(불침번)
+# ^keep vigil (VERB) : 불침번 서다
+# ^keep vigil against the thieves (VERB) : 도둑을 지키느라고 밤새우다
+
+"vigilance"
+% CONCRETE MATERIAL PLACE
+(경계)
+# vigilance committee (NOUN) : 자경단
+# vigilance man (NOUN) : 자경단원
+
+"vigilant"
+(대전차 로켓탄)
+
+"vigilantism"
+% ORGAN
+(자경단 제도)
+
+"vigilantism"
+% HUMAN
+(자경단원)
+# vigilantism caps (NOUN) : 자경단
+
+"vigilantness"
+(경계하고 있음)
+
+"vignette"
+% CONCRETE MATERIAL 
+(서적의 장식 무늬)
+
+"vigor"
+% CONCRETE MATERIAL 
+(정력)
+# with vigor (PP->ADV) : 정력적으로 
+
+"vigorousness"
+(원기왕성)
+
+"vigour"
+(정력)
+# ^be in full vigour (VERB) : 원기 왕성하다
+# with vigour (PP->ADV) : 기운차게
+
+"vilain"
+% HUMAN
+(악한)
+# ^play the vilain (VERB) : 악당역을 맡아하다
+
+"vilification"
+% CONCRETE MATERIAL 
+(험담)
+
+"villa"
+% PLACE
+(별장)
+
+"villadom"
+% PLACE
+(별장)
+
+"village"
+% MATERIAL PLACE ORGAN
+(마을)
+# farm village (NOUN) : 농촌
+# farming village (NOUN) : 농촌
+# fishing village (NOUN) : 어촌
+# global village (NOUN) : 지구촌
+# village community (NOUN) : 촌락 공동체
+
+"villager"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(마을 사람)
+# surviving villager (NOUN) : 살아남은 마을사람
+
+"villain"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(악인)
+
+"villainy"
+(극악)
+
+"villanage"
+% HUMAN
+(농노의 신분)
+
+"villanelle"
+% ART
+(19 행 2 운체의 시)
+
+"villeggiatura"
+(시골에 머무르기)
+
+"villein"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(하급 지주)
+
+"villeinage"
+(농노토지 보유 조건)
+
+"villi"
+(연모들)
+
+"villus"
+(융모)
+
+"viloa"
+(비올라)
+# viola da braccio (NOUN) : 차중음 비올라
+# viola da gamba (NOUN) : 조음 비올라
+
+"vim"
+% CONCRETE MATERIAL 
+(정력)
+
+"vinaigrette"
+% CONCRETE MATERIAL 
+(정신 돌리는 약병)
+# vinaingrette sauce (NOUN) : 초
+
+"vinculum"
+(연결)
+
+"vindication"
+% MATERIAL 
+(옹호)
+
+"vindicator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(옹호자)
+
+"vindictiveness"
+% MIND
+(복수심 있음)
+
+"vine"
+% CONCRETE ANIMAL MATERIAL PLANT
+(포도나무)
+# grape vine (NOUN) : 포도 나무
+# rose vines (NOUN) : 덩굴 장미
+# under ONE_S  vine and fig tree (PP->ADV) : 제집에서 편안히
+# under ONE_S  own vine and fig tree (PP->ADV) : 제집에서 편안히
+
+"vinedresser"
+% HUMAN
+(포도 나무 재배자)
+
+"vinegar"
+% CONCRETE MATERIAL 
+(초)
+# aromatic vinegar (NOUN) : 향초
+# liae vinegar (NOUN) : 초산연
+# vinegar fly (NOUN) : 초파리
+
+"vinery"
+% MATERIAL PLACE
+(포도 온실)
+
+"vineyard"
+% MATERIAL PLACE
+(포도원)
+
+"vineyardist"
+% HUMAN
+(포도원 경영자)
+
+"vinhtetun"
+(카아드 놀이)
+
+"viniculture"
+(포도재배)
+
+"vino"
+% CONCRETE MATERIAL 
+(포도주 주정계)
+
+"vinosity"
+(포도주질)
+
+"vint"
+(카아드놀이)
+
+"vintage"
+% CONCRETE MATERIAL ACTION
+(포도 수확)
+# poor vintage (NOUN) : 포도의 흉작
+# abundant vintage (NOUN) : 포도의 풍작
+# an automobile of the vintage of (NOUN) : 1936 년형 자동차
+
+"vintager"
+% HUMAN
+(포도 수확자)
+
+"vintner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(포도주 상인)
+
+"vinyl"
+% CONCRETE MATERIAL 
+(비닐기)
+# vinyl acetate (NOUN) : 초산비닐
+# vinyl choride (NOUN) : 염화 비닐
+# vinyl plastic (NOUN) : 비닐 수지로 만든 플라스틱
+# vinyl resin (NOUN) : 비닐 수지
+
+"vinylite"
+% MATERIAL 
+(비닐라이트)
+
+"vinylon"
+(비닐론)
+
+"vinyon"
+(비논)
+
+"viol"
+% CONCRETE ANIMAL MATERIAL 
+(비올)
+# bass vilo (NOUN) : 저음 비올
+
+"viola"
+% CONCRETE ANIMAL MATERIAL PLANT
+(제비꽃속의 식물)
+
+"violableness"
+(범할 수 있음)
+
+"violation"
+% MATERIAL ACTION
+(위반)
+# in violation of A (PP->ADV) : (ADJUNCT [(OBJ A/을) 위반하<VERB>]/하여)
+
+"violator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(위반자)
+
+"violence"
+% MATERIAL 
+(폭력)
+# with great violence (PP->ADV) : 엄청나게 
+# with violence (PP->ADV) : 난폭하게
+
+"violet"
+% CONCRETE MATERIAL PLANT
+(제비꽃)
+# March violet (NOUN) : 향기 제비꽃
+# English violet (NOUN) : 향기 제비꽃
+# sweet violet (NOUN) : 향기 제비꽃
+# tricolored violet (NOUN) : 팬지
+# violet ray (NOUN) : 자선
+
+"violin"
+% CONCRETE ANIMAL MATERIAL 
+(바이올린)
+# first violin (NOUN) : 제 1 바이올린
+# second violin (NOUN) : 제 2 바이올린
+
+"violinist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(바이올린 연주자)
+
+"violist"
+% HUMAN
+(비올 연주자)
+
+"violist"
+% HUMAN
+(비올라 연주자)
+
+"violoncellist"
+% HUMAN
+(첼로 연주자)
+
+"violoncello"
+% CONCRETE ANIMAL MATERIAL 
+(첼로)
+
+"violone"
+(비올로제)
+
+"viomycin"
+(바이오마이신)
+
+"viosteroi"
+(비오스케롤)
+
+"vip"
+% HUMAN
+(귀빈)
+
+"viper"
+% CONCRETE ANIMAL MATERIAL 
+(살무사)
+
+"virago"
+% HUMAN
+(잔소리 심한 여자)
+
+"virelay"
+% ART
+(1 절 2 운체의 단시)
+
+"virement"
+% ECOLIFE
+(대체)
+
+"vireo"
+% CONCRETE ANIMAL MATERIAL 
+(개고마리 비슷한 명금)
+
+"virescence"
+(녹색)
+
+"virgin"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(처녀)
+
+"virgin's bower"
+% CONCRETE ANIMAL MATERIAL PLANT
+(사위질빵류의 덩굴 식물)
+
+"virginal"
+(소형 하프시코드)
+
+"virginalness"
+(처녀다움)
+
+"virginhood"
+(처녀임)
+
+"virginian"
+% HUMAN
+(버지나아주 사람)
+
+"virginity"
+% MATERIAL 
+(처녀임)
+
+"virgule"
+% CONCRETE MATERIAL 
+(사선)
+
+"viricide"
+(살바이러스제)
+
+"viridity"
+(초록)
+
+"virilescence"
+(남성화)
+
+"virilism"
+(남성화)
+
+"virility"
+% CONCRETE MATERIAL 
+(남자임)
+
+"virologist"
+% HUMAN
+(바이러스학자)
+
+"virology"
+% MATERIAL ART
+(바이러스학)
+
+"virosis"
+(바이러스병)
+
+"virtu"
+(미술품 애호)
+# articles of virtu (NOUN) : 골동품
+# objects of virtu (NOUN) : 골동품
+
+"virtual-reality"
+(가상현실)
+
+"virtuality"
+(가상현실)
+
+"virtue"
+% CONCRETE MATERIAL MIND
+(덕)
+# by virtue of A (PP->ADV) : (ADJUNCT [(COMP A/에) 의하<VERB>]/어)
+# in virtue of A (PP->ADV) : (ADJUNCT [(POSS A/의) 힘<NOUN>]/으로)
+# a man of virtue (NOUN) : 덕망이 높은 사람
+# a lady of easy virtue (NOUN) : 바람둥이 여자
+# a woman of virtue (NOUN) : 정숙한 여자
+# a medicine of great virtue (NOUN) : 대단히 효험이 있는 약
+# a medicine of little virtue (NOUN) : 별로 효험이 없는 약
+# virtue and vice (NOUN) : 덕과 악
+
+"virtuosity"
+(예술상의 묘기)
+
+"virtuoso"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(병장)
+
+"virtuosocy"
+(독성)
+
+"virulence"
+% CONCRETE MATERIAL 
+(독성)
+
+"virus"
+% CONCRETE ANIMAL MATERIAL 
+(바이러스)
+# virus disease (NOUN) : 바이러스성 질환
+# virus warfare (NOUN) : 세균전
+# virus X (NOUN) : 바이러스 엑스
+
+"vis"
+(힘)
+
+"visa"
+(비자)
+# entry visa (NOUN) : 입국 사증
+# transit visa (NOUN) : 통과 사증
+
+"visage"
+% CONCRETE MATERIAL 
+(얼굴)
+
+"visagiste"
+% HUMAN
+(화장술 전문가)
+
+"visard"
+% HUMAN
+(마주 보고 있는 사람)
+
+"visayan"
+% HUMAN
+(바사야 사람)
+
+"viscera"
+% CONCRETE MATERIAL ANIMAL
+(내장)
+
+"viscidity"
+% CONCRETE MATERIAL 
+(근적끈적함)
+
+"viscose"
+% CONCRETE MATERIAL 
+(비스코우스)
+
+"viscosity"
+% CONCRETE MATERIAL 
+(점도)
+
+"viscount"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(자작)
+
+"viscountcy"
+% HUMAN
+(자작의 신분)
+
+"viscountess"
+% HUMAN
+(자작 부인)
+
+"viscousness"
+% CONCRETE MATERIAL 
+(들러붙음)
+
+"vise"
+% CONCRETE ANIMAL MATERIAL 
+(바이스)
+
+"vise"
+% CONCRETE ANIMAL MATERIAL 
+(이서)
+
+"visibility"
+% MATERIAL 
+(눈에 보임)
+# high visibility (NOUN) : 고시도
+# low visibility (NOUN) : 저시도
+
+"visigoth"
+% HUMAN
+(서고오트 사람)
+
+"vision"
+% MATERIAL 
+(비젼)
+# poor vision (NOUN) : 약시
+# the organ of vision (NOUN) : 시각 기관
+
+"visionary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(공석가)
+
+"visit"
+% MATERIAL ACTION
+(방문)
+
+"visitant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(방문객)
+
+"visitation"
+% MATERIAL ACTION
+(방문)
+# the Nuns of the Visitation (NOUN) : 성모 방문회
+# the Order of the Visitation of our Lady Mary (NOUN) : 성모 방문회
+# the Nuns of the Visitation (NOUN) : 성모 방문회
+# the Order of the Visitation of our the Blessed Virgin Mary (NOUN) : 성모 방문회
+# the right of visitation (NOUN) : 국제법 임검권
+# the right of visit (NOUN) : 국제법 임검권
+# visitation of the sick (NOUN) : 목사의 교구민 병자문병
+
+"visiting"
+% ACTION
+(방문)
+# ^have a visiting acquaintance with A (VERB) : [(RELCL [(ADJUNCT A/과) 왕래하<VERB>]/하는) 사이<NOUN>]/다
+# ^be on visiting terms with A (VERB) : [(RELCL [(ADJUNCT A/과) 왕래하<VERB>]/하는) 사이<NOUN>]/다
+
+"visitor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(방문객)
+# foreign visitor (NOUN) : 외국인 방문객
+# visitor industry (NOUN) : 접객업
+# visitor to A (NOUN) : [(ADJUNCT A/에) 방문객<NOUN>]
+# visitors' book (NOUN) : 숙박부
+
+"visor"
+% CONCRETE MATERIAL 
+(면갑)
+
+"vista"
+% MATERIAL 
+(조망)
+
+"visualization"
+% MATERIAL 
+(눈에 보이도록 하기)
+
+"vital"
+(핵심)
+
+"vitalism"
+% MATERIAL ART
+(활력론)
+
+"vitalismist"
+% HUMAN
+(활력론자)
+
+"vitality"
+% CONCRETE MATERIAL 
+(생명력)
+
+"vitalization"
+(생명 부여)
+
+"vitalness"
+(생명 유지에 필요함)
+
+"vitamin"
+% CONCRETE MATERIAL 
+(비타민)
+
+"vitamine"
+(비타민)
+
+"vitaminology"
+% ART
+(비타민학)
+
+"vitaminosis"
+% ART
+(비타민학)
+
+"vitaphone"
+(치스크식 발성 영화기)
+
+"vitascope"
+(영사기)
+
+"vitellin"
+(난황소)
+
+"vitellus"
+(난황)
+
+"vitiation"
+% MATERIAL 
+(손상 시키기)
+
+"vitiator"
+% HUMAN
+(손상시키는 사람)
+
+"viticultural"
+% HUMAN
+(포도 재배자)
+
+"viticulture"
+% ACTION
+(포도 재배)
+
+"vitreousness"
+(유리 같음)
+
+"vitrescence"
+(유리질화)
+
+"vitrics"
+(유리 제조술)
+
+"vitrifaction"
+(투화)
+
+"vitrification"
+(투화)
+
+"vitriol"
+% CONCRETE MATERIAL 
+(황산염)
+# ^put plenty of vitriol in a speech (VERB) : 연설에 신랄한 맛을 띠게 하다
+# ^dip ONE_S  pen in vitriol (VERB) : 독필을 휘두르다
+# blue vitriol (NOUN) : 담반
+# copper vitriol (NOUN) : 담반
+# green vitriol (NOUN) : 녹반
+# ^throw vitriol over A (VERB) : [(ADJUNCT A/에) (OBJ [황산<NOUN>]/을) 끼얹<VERB>]/다
+# ^throw vitriol at A (VERB) : [(ADJUNCT A/에) (OBJ [황산<NOUN>]/을) 끼얹<VERB>]/다
+# vitriol throwing (NOUN) : 복수로 황산을 끼얹기
+# white vitriol (NOUN) : 호반
+
+"vitriolization"
+(유관)
+
+"vituperation"
+% CONCRETE MATERIAL 
+(욕지거리)
+
+"vituperator"
+% HUMAN
+(험구가)
+
+"viva"
+(구두시험)
+
+"viva"
+(만세 소리)
+
+"vivaciousness"
+% MIND
+(쾌활)
+
+"vivacity"
+% CONCRETE MATERIAL 
+(원기)
+
+"vivandiere"
+% HUMAN
+(여자 주보상인)
+
+"vivarium"
+% CONCRETE ANIMAL MATERIAL 
+(동식물 사육장)
+
+"vivers"
+% FOOD
+(음식)
+
+"vives"
+(망아지의 이하선염)
+
+"vivification"
+% MATERIAL 
+(생리를 주리)
+
+"viviparity"
+(채생)
+
+"vivisection"
+(생체 해부)
+
+"vivisectionist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(생체 해부자)
+
+"vivisector"
+% HUMAN
+(생체 해부자)
+
+"vixen"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(암여유)
+
+"vizard"
+(가면)
+
+"vizier"
+% HUMAN
+(고관)
+# grand vizier (NOUN) : 수상
+
+"vizor"
+% CONCRETE MATERIAL 
+(면갑)
+
+"vocable"
+% MATERIAL 
+(낱말)
+
+"vocabulary"
+% CONCRETE MATERIAL 
+(어휘)
+# ^exhaust ONE_S  vicabulary (VERB) : 알고 있는 한의 낱말을 다 늘어 놓다
+# ^have a large vicabulary of A (VERB) : [(OBJ [(POSS A/의) 어휘<NOUN>]/를) (MODS [많이<ADV>]) 알고 있<VERB>]/다
+# ^have a wide vicabulary of A (VERB) : [(OBJ [(POSS A/의) 어휘<NOUN>]/를) (MODS [많이<ADV>]) 알고 있<VERB>]/다
+# scientific vicabulary (NOUN) : 과학 용어
+
+"vocal"
+(목소리)
+
+"vocalism"
+% ACTION
+(소리를 내기)
+
+"vocalist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(성악가)
+
+"vocalization"
+% CONCRETE MATERIAL 
+(발성)
+
+"vocation"
+% MATERIAL 
+(적성)
+
+"vocative"
+(호격)
+
+"vociferation"
+% CONCRETE MATERIAL 
+(고함)
+
+"vociferator"
+% HUMAN
+(큰 소리로 외치는 사람)
+
+"vocoder"
+(물리 보코우더)
+
+"vodka"
+% CONCRETE MATERIAL FOOD
+(보드카)
+
+"vogue"
+% MATERIAL 
+(유행)
+# all the vogue (NOUN) : 최신 유행
+# ^bring into vogue (VERB) : 유행시키다
+# ^come into vogue (VERB) : 유행하기 시작하다
+# ^have a short vogue (VERB) : 인기가 오래 가지 않다
+# in vogue (PP->ADV) : 유행하여
+
+"voice"
+% CONCRETE MATERIAL 
+(목소리)
+
+# a masculine voice (NOUN) : 남성적인 목소리
+# a male voice (NOUN) : 남성
+# a female voice (NOUN) : 여성
+# critical voice (NOUN) : 비판의 목소리
+# ^cry something in a shrill voice (VERB) : 날카로운  목소리로 뭐라고 소리지
+르다
+# ^raise ONE_S  voice (VERB) : 소리를 지르다
+# the voice of A {+ANIMAL} PRESP (NOUN) : [(RELCL [(SUBJ A/가) PRESP]/하는) 소리<NOUN>]
+# whispering voice (NOUN) : 속삭이는 목소리
+
+"voiceless"
+(무언)
+
+"voiceprint"
+(성문)
+
+"void"
+% MATERIAL 
+(공허)
+
+"voidance"
+% MATERIAL 
+(배설)
+
+"voile"
+% CONCRETE MATERIAL 
+(보일)
+
+"voks"
+% ORGAN
+(소련 대외 문화협회)
+
+"vol-au-vent"
+% CONCRETE MATERIAL FOOD
+(고기 파이)
+
+"volatility"
+% STATE 
+(휘발성)
+
+"volatilization"
+(휘발)
+
+"volcanism"
+(화산 현상)
+
+"volcanist"
+% HUMAN
+(화산학자)
+
+"volcano"
+% CONCRETE MATERIAL PLACE
+(화산)
+# active volcano (NOUN) : 활화산
+# dormant volcano (NOUN) : 휴화산
+# extinct volcano (NOUN) : 사화산
+# submarine volcano (NOUN) : 해저 화산
+# dead volcano (NOUN) : 사화산
+
+"volcanology"
+% MATERIAL ART
+(화산학)
+
+"vole"
+% CONCRETE ANIMAL MATERIAL 
+(들쥐)
+
+"vole"
+% CONCRETE ANIMAL MATERIAL 
+(전승)
+# ^go the vole (VERB) : 흥망을 걸고 해보다
+
+"volition"
+% MATERIAL 
+(의지)
+# of ONE_S  own volition (PP->ADV) : 자기의 자유 의사로
+
+"volley"
+% MATERIAL 
+(일제 사격)
+# a volley of questions (NOUN) : 잇따른 질문
+# ^fire a volley (VERB) : 일제 사격을 가하다
+
+"volleyball"
+% CONCRETE MATERIAL 
+(배구)
+
+"volleyballer"
+% HUMAN
+(배구 선수)
+
+"volleygun"
+(제사기관)
+
+"volplane"
+(공중활주)
+
+"volsteadism"
+% ART
+(주류판매 금지주의)
+
+"volt"
+% CONCRETE UNIT MATERIAL 
+(볼트)
+
+"voltage"
+% MATERIAL 
+(전압)
+# voltage divider (NOUN) : 분압기
+
+"voltameter"
+(볼타계)
+
+"voltampere"
+(볼트암페아)
+
+"volte"
+(전환)
+
+"voltmeter"
+% CONCRETE UNIT ANIMAL MATERIAL 
+(볼트계)
+
+"volubility"
+% CONCRETE MATERIAL 
+(유창함)
+# with volubility (PP->ADV) : 유창하게
+# ^speak with volubility (VERB) : 수다떨다
+
+"volubleness"
+(수다스러움)
+
+"volume"
+% CONCRETE MATERIAL 
+(볼륨)
+# a volume of smoke (NOUN) : 뭉게뭉게 올라가는 연기
+# a volume of vapor (NOUN) : 뭉게뭉게 올라가는 수증기
+# a volume of vapour (NOUN) : 뭉게뭉게 올라가는 수증기
+# a voice of great volume (NOUN) : 음량이 풍부한 목소리
+# a voice of little volume (NOUN) : 음량이 적은 목소리
+# a volume of the traffic (NOUN) : 교통량
+# the volume of production (NOUN) : 생산량
+# ^gather volume (VERB) : 양이 늘다
+# ^express volumes (VERB) : 의미 심장하다
+# sales volume (NOUN) : 판매량
+# scholarly volume (NOUN) : 학술 서적
+# ^speak volumes (VERB) : 의미 심장하다
+# ^tell volumes (VERB) : 의미 심장하다
+# volume discount (NOUN) : 수량할인
+# volume of transaction (NOUN) : 거래고
+
+"volumenometer"
+(비수 용적계)
+
+"volumeter"
+(용적계)
+
+"voluminousness"
+% CONCRETE MATERIAL 
+(권수가 많음)
+
+"voluntariness"
+(임의)
+
+"voluntarism"
+(수의성)
+
+"volunteer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(지원자)
+
+"voluptuary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(주색에 빠진 사람)
+
+"voluptuousness"
+(주색에 빠짐)
+
+"volute"
+% CONCRETE MATERIAL 
+(소용돌이꼴)
+
+"volution"
+(조가비의 소용돌이)
+
+"vomitive"
+(토하는 약)
+
+"vomitory"
+% CONCRETE MATERIAL 
+(관람석 밑으로 통하는 출입구)
+
+"vomitus"
+(토한 것)
+
+"voodoo"
+% CONCRETE MATERIAL ORGAN
+(부우두우교)
+
+"voodooism"
+% ORGAN
+(부우두우교)
+
+"voracity"
+% MATERIAL 
+(폭식)
+
+"vortex"
+% MATERIAL 
+(소용돌이)
+
+"vorticella"
+% CONCRETE ANIMAL MATERIAL 
+(종벌레)
+
+"vortices"
+(소용돌이들)
+
+"vorticisist"
+% ART
+(소영돌이파)
+
+"vorticism"
+% ART
+(소용돌이주의)
+
+"votaress"
+% HUMAN
+(여자 신자)
+
+"votary"
+% HUMAN
+(신자)
+
+"vote"
+% MATERIAL ACTION
+(투표)
+# ^canvass for votes (VERB) : 득표 운동을 하다
+# ^cast a vote (VERB) : 한 표를 던지다
+# casting vote (NOUN) : 캐스팅 보트 
+# ^come to the vote (VERB) : 표결에 붙여지다
+# ^go to the vote (VERB) : 표결에 붙여지다
+# ^proceed to the vote (VERB) : 표결에 붙여지다
+# floating vote (NOUN) : 부동표
+# ^get out a vote (VERB) : 득표 운동에 성공하다
+# ^give ONE_S  vote (VERB) : 투표하다
+# ^get out the vote (VERB) : 득표 운동에 성공하다
+# nonbinding preference vote (NOUN) : 유동 선호 투표
+# ^recort ONE_S  vote (VERB) : 투표하다
+# one man one vote (NOUN) : 일인일표 주의
+# open vote (NOUN) : 기명 투표
+# plural vote (NOUN) : 복수 투표
+# plural voting (NOUN) : 복수 투표제
+# ^put to the vote (VERB) : 표결에 붙이다
+# runoff vote (NOUN) : 결선 투표
+# spoilt vote (NOUN) : 무효 투표
+# ^take a vote on a question (VERB) : 어떤 문제를 채결하다
+# vote of confidence (NOUN) : 신임 투표
+# vote of nonconfidence (NOUN) : 불신임 투표
+# vote of censure (NOUN) : 불신임 투표
+# vote of thanks (NOUN) : 감사 결의
+# ^buy a vote (VERB) : 표를 매수하다
+# ^cast a vote for A (VERB) : [(ADJUNCT A/에) (OBJ [찬성투표<NOUN>]/를) 하<VERB>]/다
+# ^cast a vote against A (VERB) : [(ADJUNCT A/에) (OBJ [반대투표<NOUN>]/를) 하<VERB>]/다
+# fair vote (NOUN) : 깨끗한 표
+# null and void vote (NOUN) : 무효 투표
+# ^count the votes (VERB) : 계표하다
+# ^pass by a majority of votes (VERB) : 과반수로 통과하다
+
+"votegetter"
+% HUMAN
+(득표 재간이 있는 후보자)
+
+"voter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(투표자)
+# black voter (NOUN) : 흑인 투표자
+# casting voter (NOUN) : 결정 투표자
+
+"voting"
+% ACTION
+(투표)
+# electronic voting (NOUN) : 전자 투표
+
+"voucher"
+% CONCRETE MATERIAL HUMAN
+(증서)
+# voucher check (NOUN) : 지불전표부수표
+
+"vouchsafement"
+(허락함)
+
+"voussoir"
+% CONCRETE MATERIAL 
+(홍예석)
+
+"vow"
+% CONCRETE MATERIAL ACTION
+(맹세)
+# baptismal vows (NOUN) : 세례다의 서약
+# lovers' vows (NOUN) : 애인끼리의 맹세
+# monastic vows (NOUN) : 수도 서원
+# ^take a vow (VERB) : 맹세를 하다
+# ^make a vow (VERB) : 맹세를 하다
+# ^take vows (VERB) : 수도회에 들어가다
+# under a vow (PP->ADV) : 맹세하여
+
+"vowel"
+% CONCRETE MATERIAL 
+(모음)
+
+"voyage"
+% MATERIAL ACTION
+(항해)
+# voyage round the world (NOUN) : 세계일주 항해
+# rough voyage (NOUN) : 난항
+# round voyage (NOUN) : 유랑항해
+# a voyage to the moon (NOUN) : 달 여행
+# the voyages of Marco Polo (NOUN) : 마르코 폴로의 항해기
+# voyage charter (NOUN) : 항해용선
+
+"voyager"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(항해자)
+
+"voyeurism"
+(관음증)
+
+"vulcanist"
+% HUMAN
+(지질 암석 화성론자)
+
+"vulcanite"
+(경질고무)
+
+"vulcanite"
+% HUMAN
+(지질 암석 화성론자)
+
+"vulcanization"
+(경화)
+
+"vulgar"
+% HUMAN
+(민중)
+
+"vulgarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(속물)
+
+"vulgarism"
+(야비)
+
+"vulgarity"
+% CONCRETE MATERIAL 
+(속악)
+
+"vulgarization"
+% MATERIAL 
+(비속화)
+
+"vulgate"
+% ART
+(라틴말 번역 성경)
+
+"vulgus"
+% HUMAN
+(평민)
+
+"vulnerability"
+% CONCRETE MATERIAL 
+(상처를 받기 쉬움)
+
+"vulnerableness"
+(상처를 받기 쉬움)
+
+"vulnerary"
+(외상용약)
+
+"vulpicide"
+% ACTION
+(여우를 죽이기)
+
+"vulture"
+% CONCRETE ANIMAL MATERIAL 
+(독수리)

@@ -1,0 +1,9885 @@
+"Dos"
+(도스)
+
+"D-ram"
+(D-램)
+
+"DUKW"
+% ANIMAL
+(오리)
+
+"Dacron"
+% CONCRETE MATERIAL 
+(데이크론)
+
+"Dada"
+% ART
+(다다이즘)
+
+"Dadaism"
+% ART
+(다다이즘)
+
+"Dadaist"
+% HUMAN
+(다다이스트)
+
+"Dahoman"
+% HUMAN
+(더호우미 사람)
+
+"Dahomean"
+% HUMAN
+(더호우미 사람)
+
+"Dahomeyan"
+% HUMAN
+(더호우미 사람)
+
+"DaimlerChrysler"
+% ORGAN
+(다임러 크라이슬러)
+
+"Dakota"
+% PLACE
+(Dakota)
+# north Dakota (NOUN) : North Dakota
+
+"Damascene"
+% HUMAN
+(다마스커스 사람)
+
+"Dandie"
+(댄디)
+
+"Dane"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(덴마아크 사람)
+
+"Danish"
+% CONCRETE MATERIAL 
+(덴마아크 말)
+
+"Dantean"
+% HUMAN
+(단테 연구가)
+
+"Darwinian"
+% HUMAN
+(다아윈학설의 신봉자)
+
+"Darwinism"
+% ART
+(다아윈설)
+
+"Darwinist"
+% HUMAN
+(다아윈학설의 신봉자)
+
+"David"
+% HUMAN
+(데이비드)
+
+"David Cup"
+(데이비드컵)
+
+"Davy"
+% HUMAN
+(데이비)
+
+"Dec."
+% CONCRETE TIME MATERIAL 
+(12 월)
+
+"December"
+% CONCRETE TIME MATERIAL 
+(12 월)
+
+"Deion"
+% HUMAN
+(디온)
+
+"Delta Air Lines"
+(델타항공)
+
+"Democratic Party"
+% ORGAN
+(민주당)
+
+"Democratic Staffer"
+(민주당 직원)
+
+"Democrats"
+% ORGAN HUMAN
+(민주당원)
+
+"Dengism"
+% ART
+(등소평주의)
+
+"Denmark"
+% PLACE
+(덴마크)
+
+"Department"
+(부)
+# Department of Agriculture (NOUN) : 농업부
+# Department of Education (NOUN) : 교육부
+# Department of Human Service (NOUN) : 복지부
+# Department of Human Services (NOUN) : 복지부
+# Department of Justice (NOUN) : 법무부
+
+"Depression"
+(경기침체)
+
+"Desktop"
+(데스크탑)
+# Desktop computer (NOUN) : 데스크탑 컴퓨터
+# Desktop PC (NOUN) : 데스크탑 PC
+
+"Deutsche Bank"
+% ORGAN
+(도이취 뱅크)
+
+"Devonian"
+% CONCRETE MATERIAL HUMAN
+(데븐셔의 사람)
+
+"Dick"
+% HUMAN
+(딕)
+
+"Dionysiac"
+% ORGAN
+(디오니소스 축제)
+
+"Dionysian"
+% ORGAN
+(디오니소스 축제)
+
+"Disneyland"
+% PLACE
+(디즈니랜드)
+
+"District"
+% PLACE
+(구역)
+# District of Columbia (NOUN) : 컬럼비아 구역
+
+"District Court"
+% PLACE
+(지방법원)
+# federal District Court (NOUN) : 미국연방법원
+
+"Dixiecrat"
+% HUMAN
+(미국 남부의 민주당 이탈파의 사람)
+
+"Dixieland"
+% PLACE
+(남부)
+
+"Dolby"
+(돌비식 잡음 저감 방식)
+
+"Dom"
+% HUMAN
+(고위 성직자)
+
+"Dominican"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(도미니코회의 수도사)
+
+"Dorian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(도리스 사람)
+
+"Doric"
+% CONCRETE MATERIAL 
+(도리스 지방 말)
+# in broad doric (ADV) : 순 시골 사투리로
+
+"Dow"
+(다우)
+# Dow industrial (NOUN) : 다우 산업지수
+
+"Dow Jones"
+(다우 존스)
+
+"Dr."
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(닥터)
+# Dr. A {+PRNOUN} (NOUN) : [(NMODS [닥터<NOUN>]) A]
+# dr. A {+PRNOUN} (NOUN) : [(NMODS [닥터<NOUN>]) A]
+# Dr. Oh (NOUN) : 닥터 Oh
+
+"Draconianism"
+% ART
+(엄격 주의)
+
+"Druidism"
+% ART
+(드루이드교)
+
+"Druse"
+% HUMAN
+(드루우즈 족)
+
+"Duma"
+% ORGAN PLACE
+(러시아 제국 국회)
+
+"Dunlop"
+(던롭 타이어)
+
+"Dutch"
+% CONCRETE MATERIAL 
+(네덜란드 말)
+# Dutch family (NOUN) : 네덜란드인 가족
+# High Dutch (NOUN) : 고지 독일어
+# Low Dutch (NOUN) : 저지 독일어
+# go Dutch (VERB) : 비용을 각자 부담으로 하다
+# the Dutch (NOUN) : 네덜란드인
+
+"Dutchman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(네덜란드 사람)
+# the Flying Dutch (NOUN) : 유령선
+
+"Dutchwoman"
+% HUMAN
+(네덜란드 부인)
+
+"Dx"
+(원거리)
+
+"d"
+(d)
+
+"d-day"
+% TIME
+(공격 개시일)
+
+"d.x."
+(원거리)
+
+"dab"
+(토닥거리기)
+
+"dabber"
+% HUMAN
+(톡톡 두드리는 사람)
+
+"dabbler"
+% CONCRETE ANIMAL MATERIAL 
+(물장난하는 사람)
+
+"dabchick"
+% CONCRETE ANIMAL MATERIAL 
+(농병아리)
+
+"dabster"
+(명수)
+
+"dace"
+% CONCRETE ANIMAL MATERIAL 
+(황어류)
+
+"dacha"
+% CONCRETE ANIMAL MATERIAL 
+(별장)
+
+"dachnik"
+% HUMAN
+(별장족)
+
+"dacoit"
+% HUMAN
+(강도)
+
+"dacoity"
+(강도의 약탈)
+
+"dactyl"
+% CONCRETE MATERIAL 
+(장단단격)
+
+"dactylic"
+(장단단격의 시구)
+
+"dactylogram"
+(지문)
+
+"dactylography"
+% ART
+(지문학)
+
+"dactylology"
+% ART
+(지화술)
+
+"dad"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(아빠)
+
+"dada"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(아빠)
+
+"dadda"
+% HUMAN
+(아빠)
+
+"daddy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(아빠)
+
+"dado"
+% CONCRETE MATERIAL 
+(징두리 판벽)
+
+"daejeon"
+% PLACE
+(대전)
+
+"daemon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(악마)
+
+"daffodil"
+% CONCRETE MATERIAL PLANT
+(나팔 수선화)
+
+"daftness"
+% MATERIAL 
+(어리석음)
+
+"dagger"
+% CONCRETE MATERIAL 
+(단검)
+# at daggers drawn (ADV) : 서로 노려보고
+# ^look daggers at A (VERB) : [(OBJ A/을) 노려보<VERB>]/다
+# ^speak daggers to A (VERB) : [(ADJUNCT A/에) (OBJ [독설<NOUN>]/을) 퍼붓<VERB>]/다
+
+"dago"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(남부 유럽 사람)
+
+"dagoba"
+(사리탑)
+
+"daguerreotype"
+(은판 사진)
+
+"dah"
+% CONCRETE MATERIAL 
+(버어마 칼)
+
+"dahabeah"
+(증기선)
+
+"dahabeeyah"
+(증기선)
+
+"dahabiah"
+(증기선)
+
+"dahlia"
+% PLANT
+(다알리아)
+# blue dahlia (NOUN) : 좀처럼 없는 것
+
+"daily"
+% CONCRETE MATERIAL 
+(일간 신문)
+# financial daily (NOUN) : 경제 신문
+# daily point gain (NOUN) : 일일 포인트 상승
+
+"daily-average bank deposits"
+(예금평균잔고)
+
+"daily-breader"
+% HUMAN
+(정기권 사용자)
+
+"daintiness"
+% CONCRETE MATERIAL 
+(우아함)
+
+"dainty"
+% CONCRETE MATERIAL 
+(맛있는 것)
+
+"daiquiri"
+% CONCRETE MATERIAL 
+(다이커리)
+
+"dairy"
+% MATERIAL PLACE
+(우유가공소)
+# dairy produce (NOUN) : 낙농품
+# dairy product (NOUN) : 낙농품
+# dairy farm (NOUN) : 낙농장
+# dairy farmer (NOUN) : 낙농업자
+# dairy farming (NOUN) : 낙농업
+
+"dairying"
+(낙농업)
+
+"dairymaid"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(낙농장에서 일하는 여자)
+
+"dairyman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(낙농장의 남자 일군)
+
+"dais"
+% CONCRETE MATERIAL 
+(높은 자리)
+
+"daisy"
+% MATERIAL PLANT
+(데이지)
+# ^push up daisies (VERB) : 죽다
+# daisy chain (NOUN) : 실국화 화환
+
+"dal"
+% CONCRETE UNIT MATERIAL FOOD
+(인도요리)
+
+"dale"
+% CONCRETE MATERIAL PLACE
+(골짜기)
+
+"dalesman"
+% HUMAN
+(골짜기에 사는 주민)
+
+"dalles"
+(급류)
+
+"dalliance"
+% MATERIAL 
+(희롱)
+
+"dalmatian"
+% CONCRETE ANIMAL MATERIAL 
+(댈메이쉬아종의 개)
+
+"dalmatic"
+(법의)
+
+"daltonism"
+% MATERIAL 
+(적록색맹)
+
+"dam"
+% CONCRETE MATERIAL PLACE
+(둑)
+
+"damage"
+% MATERIAL 
+(손해)
+# damage in transit (NOUN) : 수송중의 손해
+# damage insurances (NOUN) : 손해보험
+# the damage to property (NOUN) : 재산피해
+
+"damage-control"
+(손해 조정)
+
+"damascene"
+(물결 무늬)
+
+"damask"
+% CONCRETE MATERIAL 
+(다마스커스 비단)
+# the damask rose (NOUN) : 담홍색 장미
+
+"dame"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(귀부인)
+
+"damfool"
+% HUMAN
+(형편없는 바보)
+
+"damn"
+(욕설)
+
+"damnableness"
+(천벌받아 마땅함)
+
+"damnation"
+% CONCRETE MATERIAL 
+(욕설)
+
+"damnification"
+(손상)
+
+"damning"
+(저주)
+
+"damosel"
+% HUMAN
+(처녀)
+
+"damozel"
+% HUMAN
+(처녀)
+
+"damp"
+% MATERIAL 
+(습기)
+# black damp (NOUN) : 탄산 가스
+# ^cast a damp over A (VERB) : [(OBJ [(POSS A/의) 기<NOUN>]/를) 꺾<VERB>]/다
+# ^cast a damp into A (VERB) : [(OBJ [(POSS A/의) 기<NOUN>]/를) 꺾<VERB>]/다
+# ^strike a damp over A (VERB) : [(OBJ [(POSS A/의) 기<NOUN>]/를) 꺾<VERB>]/다
+# ^strike a damp into A (VERB) : [(OBJ [(POSS A/의) 기<NOUN>]/를) 꺾<VERB>]/다
+
+"damper"
+% CONCRETE MATERIAL 
+(기를 꺽는 것)
+
+"damping-off"
+(노균병)
+
+"dampness"
+% MATERIAL 
+(습기)
+
+"damsel"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(처녀)
+
+"damsite"
+(댐 건설용 부지)
+
+"damson"
+% CONCRETE MATERIAL PLANT
+(서양 오얏)
+
+"damyankee"
+% HUMAN
+(양키놈)
+
+"dancathon"
+(장시간 댄스 경기)
+
+"dance"
+% CONCRETE MATERIAL 
+(댄스)
+# dance routine (NOUN) : 순회 무용단
+# dinner dance (NOUN) : 정찬 무도회
+# disco dance (NOUN) : 디스코 춤
+# farewell dance (NOUN) : 작별의 춤
+# group dance (NOUN) : 집단춤 
+# ^lead the dance (VERB) : 앞장서서 춤추다
+# mask dance (NOUN) : 탈춤
+# social dance (NOUN) : 사교춤
+# the dance of death (NOUN) : 죽음의 무도
+# the dance of of macabre (NOUN) : 죽음의 무도
+
+"dance-in"
+(집단 데모 춤)
+
+"dance-musician"
+% HUMAN
+(춤추며 노래하는 사람)
+
+"dancer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(댄서)
+# folk dancer (NOUN) : 민속 무용가
+# professional dancer (NOUN) : 직업 무용가
+
+"dancing"
+% CONCRETE MATERIAL 
+(댄스)
+# dancing career (NOUN) : 무용 경력
+
+"dandelion"
+% PLANT
+(민들레)
+
+"dander"
+% MATERIAL 
+(비듬)
+# ^get ONE_S dander up (VERB) : 화내다
+# ^get ONE_S dander up (VERB) : 화나게 하다
+
+"dandification"
+(치장)
+
+"dandruff"
+% CONCRETE MATERIAL 
+(비듬)
+
+"dandy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(멋장이)
+
+"dandyism"
+(멋부림)
+
+"danger"
+% MATERIAL 
+(위험)
+# ^be in danger | (VERB->ADJ) : 위험 상태에 놓여 있다
+# ^be in danger of life (VERB->ADJ) : 생명의 위험이 있다
+# ^be in danger of being fired (VERB->ADJ) : 해고의 위험이 있다
+# ^be in danger of PRESP (VERB->ADJ) : [(COMPCL PRESP/할) (ADJUNCT [위험<NOUN>]/에) 있<ADJ>]/다
+# ^be in ADJ danger (VERB->ADJ) : [(ADJUNCT [(AMODS ADJ/한) 위험<NOUN>]/에) 있<ADJ>]/다
+# ^make danger of A (VERB) : [(OBJ A/을) 위험시하<VERB>]/다
+# out_of danger (ADV) : 위험을 벗어나서
+# ^be out_of danger | (VERB->ADJ) : 위험을 벗어나 있다
+
+"dangerousness"
+(위험)
+
+"dangle"
+(매달림)
+
+"dangler"
+(매달리는 물건)
+
+"dankness"
+% MATERIAL 
+(축축함)
+
+"danse macabre"
+(죽음의 무도)
+
+"dap"
+(튐)
+
+"dapple"
+% CONCRETE MATERIAL 
+(얼룩)
+
+"dapple-gray"
+% ANIMAL
+(회색에 검정 무늬가 있는 말)
+
+"dapple-grey"
+% ANIMAL
+(회색에 검정 무늬가 있는 말)
+
+"darb"
+% HUMAN
+(뛰어난 사람)
+
+"darbies"
+(수갑)
+
+"dare"
+% CONCRETE MATERIAL 
+(도전)
+
+"daredevil"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(무모한 사람)
+
+"daredevilry"
+% CONCRETE MATERIAL 
+(무모함)
+
+"daredeviltry"
+% CONCRETE MATERIAL 
+(무모함)
+
+"darg"
+(하루의 일)
+
+"daring"
+% CONCRETE MATERIAL 
+(용기)
+
+"daringness"
+(대담)
+
+"dark"
+% CONCRETE MATERIAL 
+(어둠)
+# a leap in the dark (NOUN) : 무모한 짓
+# after dark (ADV) : 해진 뒤에
+# before dark (ADV) : 어두워지기 전에
+# at dark (ADV) : 저녁녘에
+
+
+"dark-horse"
+(다크호스)
+
+"darkey"
+% HUMAN
+(검둥이)
+
+"darkness"
+% CONCRETE MATERIAL 
+(암흑)
+# the Prince of Darkness (NOUN) : 마왕
+
+"darkroom"
+% CONCRETE ANIMAL MATERIAL 
+(암실)
+
+"darktown"
+% PLACE
+(흑인 거주구역)
+
+"darky"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(검둥이)
+
+"darling"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(여보)
+
+"darn"
+(조금도)
+
+"darnel"
+% PLANT
+(독보리)
+
+"darner"
+% HUMAN
+(짜깁는 사람)
+
+"darning"
+% MATERIAL 
+(짜깁기)
+
+"dart"
+% CONCRETE MATERIAL 
+(투창)
+
+"dartboard"
+% CONCRETE MATERIAL 
+(과녁판)
+
+"darter"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(돌진하는 사람)
+
+"dash"
+% CONCRETE MATERIAL 
+(대쉬)
+
+"dashboard"
+% CONCRETE ANIMAL MATERIAL 
+(흙받이)
+
+"dasher"
+% HUMAN
+(돌진하는 사람)
+
+"dastard"
+% HUMAN
+(비겁한 자)
+
+"dastardliness"
+% CONCRETE MATERIAL 
+(비겁함)
+
+"dasyure"
+% CONCRETE ANIMAL MATERIAL 
+(유대 고양이)
+
+"data"
+% MATERIAL 
+(자료)
+# data clustering (NOUN) : 데이타 클러스터링
+# data communication (NOUN) : 데이타통신
+# data transmission (NOUN) : 데이타통신
+
+"data-networking"
+(데이타 네트워킹)
+
+"databank"
+% ORGAN
+(데이타 은행)
+
+"database"
+% CONCRETE MATERIAL
+(데이타베이스)
+# relational database (NOUN) : 관계 데이타베이스
+
+"dataller"
+% HUMAN
+(날품팔이 인부)
+
+"datamation"
+(자동 데이타 처리)
+
+"dataphone"
+(데이타 전화)
+
+"date"
+% CONCRETE MATERIAL 
+(날짜)
+# a date (NOUN) : 데이트
+# appointed date (NOUN) : 약속기일
+# closing date (NOUN) : 마감일
+# the balloting date (NOUN) : 투표일
+
+"datebook"
+(보도 예정 기사록)
+
+"dateline"
+% CONCRETE MATERIAL 
+(날짜란)
+
+"datemark"
+(일부인)
+
+"dater"
+(날짜 찍는 개계)
+
+"dating"
+(날짜 기입)
+# dating ahead (PP->ADV) : 선일부의
+# dating backward (PP->ADV) : 후일부의
+# dating forward (PP->ADV) : 선일부의
+
+"datism"
+(엉터리 사용)
+
+"dative"
+% MATERIAL 
+(여격)
+
+"datum"
+% MATERIAL 
+(자료)
+
+"datura"
+% PLANT
+(흰독말풀속의 나팔꽃)
+
+"daub"
+% ACTION
+(칠하기)
+
+"dauber"
+% HUMAN
+(칠하는 사람)
+
+"daubery"
+(누덕누덕 칠하기)
+
+"daubster"
+% HUMAN
+(서투른 화가)
+
+"daughter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(딸)
+# daughter of Abraham (NOUN) : 유대인 여성
+# daughters of the American Revolution (NOUN) : 미국 애국 부인 단체
+
+"daughter-in-law"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(며느리)
+
+"daughterhood"
+% HUMAN
+(딸의 신분)
+
+"dauntlessness"
+% MATERIAL MIND
+(용감함)
+
+"dauphin"
+(도오핀)
+
+"davenport"
+% CONCRETE MATERIAL 
+(개폐식 책상)
+
+"davit"
+% CONCRETE ANIMAL MATERIAL 
+(대빗)
+
+"daw"
+% ANIMAL
+(갈가마귀)
+
+"dawdle"
+% HUMAN
+(게으름뱅이)
+
+"dawdler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(게으름뱅이)
+
+"dawk"
+(중간파)
+
+"dawn"
+% MATERIAL TIME
+(새벽)
+# at dawn (PP->ADV) : 동틀녘에
+# before dawn (PP->ADV) : 날이 새기 전에
+# from dawn till dusk (PP->ADV) : 새벽부터 해질 때까지
+
+"dawning"
+% MATERIAL TIME
+(새벽)
+
+"day"
+% CONCRETE TIME MATERIAL 
+(날)
+
+# NUM1 {-ORDNUM} days later (ADV) : (ADJUNCT [(NMODS [(NMODS NUM1{+DGTNUM}) 일<NOUN>]) 후<NOUN>]/에)
+# NUM1 {-ORDNUM} day and night (NOUN ADV) : 
+   1)  [(ADJUNCT [(NMODS [(NMODS NUM1) 일<NOUN>]{+UNIT}) 밤<NOUN>]/과) 낮<NOUN>] 
+   2) [(NMODS [(NMODS NUM1) 일<NOUN>]{+UNIT}) 밤낮<NOUN>] 
+# NUM1 {-ORDNUM} hours a day (NOUN ADV) : 
+   1) [(NMODS [하루<NOUN>]) (NMODS NUM1) 시간<NOUN>] 
+   2) (ADJUNCT [(NMODS [하루<NOUN>]) (NMODS NUM1) 시간<NOUN>]/씩)
+# NUM1 {-ORDNUM} more day (NOUN) : [(NMODS [(NMODS NUM1 {+DGTNUM}) 일<NOUN>]{+UNIT}) 이상<NOUN>]
+# a day (NOUN ADV) : 1) 하루  
+                     2) 하루당
+# a day or two (NOUN) : 하루나 이틀
+# a few days (NOUN) : 며칠
+# a few days later (ADV) : 며칠 후에
+# all day (ADV) : 온종일 
+# all the day (ADV) : 온종일
+# all day long (ADV) : 온종일
+# assumed settling day (NOUN) : 가결산일
+# astronomical day (NOUN) : 천문일
+# at that day (ADV) : 그 무렵
+# at this day (ADV) : 요즘
+# at the present day (ADV) : 지금
+# || back in the day when SENT (ADV) : (ADJUNCT [(RELCl SENT/하는) 시절<NOUN>]/에)
+# better days (NOUN) : 전성시대
+# by the day (ADV) : 하루 얼마로
+# clear days (NOUN) : 정확한 일수
+# closing day (NOUN) : 결산일
+# day after day (ADV) : 매일 매일
+# day and night (NOUN ADV) : 1) 밤과 낮 
+                             2) 밤낮
+# day by day (ADV) : 나날이
+# day in and day out (ADV) : 날이면 날마다
+# day labor (NOUN) : 일용 노동
+# day laborer (NOUN) : 일용 노동자
+# day order (NOUN) : 당일한주문
+# day time (NOUN) : 낮시간
+# day to day money (NOUN) : 익일물
+# day to day loan (NOUN) : 익일물
+# days of grace (NOUN) : 지불유예기간
+# each day (NOUN ADV) : 1) 매일 
+                        2) 매일
+# every NUM1 {+ORDNUM} day (ADV) : (ADJUNCT [(NMODS NUM1) 날<NOUN>]/마다)
+# every NUM1 {-ORDNUM} day (NOUN ADV) : 1) [(NMODS NUM1) 일<NOUN>]{+UNIT} 
+                           2) (ADJUNCT [(NMODS NUM1) 일<NOUN>]/마다{+UNIT})
+# every day (ADV) : 매일
+# every other day (ADV) : 하루 걸러
+# every second day (ADV) : 하루 걸러
+# five days of school (NOUN) : 오일 수업
+# for a NUM1{+ORDNUM} straight day (PP->ADV) : 
+                 (MODS [(NMODS NUM1) 일<NOUN>]/연속)
+# for a few days (ADV) : 며칠간
+# for a second straight day (PP->ADV) : 연이틀간
+# | for days $ (PP->ADV) : 여러날동안
+# for only a few days (PP->ADV) : 단지 며칠간
+# from day to day (ADV) : 날마다
+# ^have ONE_S day (VERB) : 때를 만나다
+# | ^have a good day | (SENT) : (IMPR [(SCOMP [(AMODS [좋<ADJ>]/다) 날<NOUN>]/이) 되<VERB>]/다)
+# high school day (NOUN) : 고등학교 시절
+#' ^how many days (ADV NOUN) : 1) 며칠 동안 {+QUESFLAG} 
+                               2) 며칠
+# in broad day (ADV) : 백주에
+# in days to come  (ADV) : 장차
+# in days gone by (ADV) : 지난날에
+# in ONE_S {+PRNOUN} day (ADV) : (ADJUNCT [(POSS ONE/의) 시대<NOUN>]/에)
+# in those days (PP->ADV) : 그 당시
+# in these days (PP->ADV) : 요즈음
+# ^know the time of day (VERB) : 모든 일에 환하다
+# market day (NOUN) : 장날
+# middle school day (NOUN) : 중학교 시절
+# more than NUM1 ^days (NOUN) : [(NMODS [(NMODS NUM1) 일<NOUN>]) 이상<NOUN>]
+# next day (NOUN ADV) : 1) 다음날
+                        2) 다음날
+# night and day (NOUN ADV) : 1) 밤과 낮 
+                             2) 밤낮
+# old day (NOUN) : 옛날
+# one AJP day (NOUN) : [(MODS [어느<ADV>]) (AMODS AJP/한) 날<NOUN>]
+# one business day (NOUN ADV) : 1) 한 사업일
+ 								2) 한 사업일
+# one {-SUPER, -ORDNUM} day (ADV NOUN) : 1) 어느날 
+                       		    2) 하루 {+RESTRIC}
+# one day after SENT (ADV) : 
+  (ADJUNCT [(NMODS [(RELCL SENT/한) 하루<NOUN>]) 후<NOUN>]/에)
+# one {-SUPER} day in NOUN {+TIME} (ADV) : [(NMODS NOUN) 어느날<NOUN>]
+# one {-SUPER} summer day (ADV NOUN) : 1) 어느 여름날 
+                              2) 어느 여름날
+# only one {-SUPER} day (NOUN) : 단 하루
+# recent day (NOUN) : 최근
+# several days ago $ (ADV) : 몇일전에
+# some day (ADV) : 언젠가
+# that day (NOUN ADV) : 1) 그 날
+		                2) 그 날에
+# the D day (NOUN) : 작전개시일
+# the day after tomorrow (ADV NOUN) : 모레
+# the day before | (ADV NOUN) : 1) 전날에 
+                                2) 전날
+# the day before SENT (ADV) : (ADJUNCT [(NMODS SENT/하기) 전날<NOUN>]/에)
+# the day judgment (NOUN) : 최후의 심판일
+# the day off (NOUN) : 휴무
+# the ^days of the Three Kingdoms (NOUN) : 삼국시대
+# the last day (NOUN) : 마지막 날 
+# the next day (NOUN ADV) : 1) 그 다음날 
+                            2) 그 다음날에
+# the next several day (NOUN) : 다음 몇일
+# the other day (NOUN ADV) : 1) 요전날 
+                             2) 요전날에
+# these days (NOUN ADV) : 1) 요즈음 {+INDEF} 
+                          2) 요즈음
+# to a day (PP) : 하루도 어김없이
+# to this day (PP) : 오늘 까지
+# up to this day (PP) : 오늘까지
+# || what be the time of day | (SENT) :  (QUES [(MODS [지금<ADV>]) 몇시이<ADJ>]/다)
+# working day (NOUN) : 근무일
+# through the day (ADV) : 장중에
+
+"day-laborer"
+% HUMAN
+(일용 노동자)
+
+"daybook"
+% MATERIAL 
+(일기)
+
+"daybreak"
+% MATERIAL TIME
+(새벽)
+
+"daydream"
+% MATERIAL ACTION
+(공상)
+
+"daydreamer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(공상가)
+
+"dayflower"
+% PLANT
+(하루 피는 꽃)
+
+"dayfly"
+% CONCRETE ANIMAL MATERIAL 
+(하루살이)
+
+"daylight"
+% CONCRETE MATERIAL 
+(햇볕)
+# ^burn daylight (VERB) : 헛수고하다
+# in broad daylight (ADV) : 대낮에
+# ^let daylight into A (VERB) : [(OBJ A/을) 밝히<VERB>]/다
+# ^No daylight (VERB) : 가득차게 부읍시다
+# ^see daylight (VERB) : 이해하다
+
+"daymark"
+(주간 항공 표지)
+
+"dayspring"
+% TIME
+(새벽)
+
+"daytaler"
+% HUMAN
+(날품팔이 인부)
+
+"daytaller"
+% HUMAN
+(날품팔이 인부)
+
+"daytime"
+% CONCRETE TIME MATERIAL 
+(낮)
+# in the daytime (PP->ADV) : 낮에
+
+"daze"
+% MATERIAL 
+(현혹)
+
+"dazzle"
+(현혹)
+
+"de"
+(de)
+# de facto (ADJ) : 사실상의
+
+"de-americanization"
+% ACTION
+(비미국화)
+
+"de-maoization"
+% ACTION
+(모택동 격하운동)
+
+"de-stalinization"
+% ACTION
+(스탈린 격하운동)
+
+"deacon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(집사)
+
+"deaconess"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(여자 집사)
+
+"deaconry"
+% HUMAN
+(집사의 직)
+
+"dead"
+% HUMAN
+(죽은 사람)
+# at dead of night (ADV) : 한밤중에
+# in the dead of winter (ADV) : 한겨울에
+# ^rise from the dead (VERB) : 부활하다
+# ^raise from the dead (VERB) : 시키다
+
+"dead-beat"
+% HUMAN
+(식객)
+
+"dead-pan"
+(무표정)
+
+"deadbeat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(속시 작용)
+
+"deadening"
+% MATERIAL 
+(방음 장치)
+
+"deadeye"
+(삼공활차)
+
+"deadfall"
+(함정)
+
+"deadhead"
+% CONCRETE ANIMAL MATERIAL 
+(무임 승객)
+
+"deadhouse"
+% PLACE
+(임시 시체 안치소)
+
+"deadlight"
+% CONCRETE ANIMAL MATERIAL 
+(채광창)
+
+"deadline"
+% MATERIAL 
+(데드라인)
+# manufacturing deadline (NOUN) : 생산 최종 기한
+
+"deadliness"
+% CONCRETE MATERIAL 
+(치명적임)
+
+"deadlock"
+% CONCRETE MATERIAL 
+(교착)
+
+"deadness"
+% CONCRETE MATERIAL 
+(죽음)
+
+"deadwood"
+(삭정이)
+# ^have the deadwood on A (VERB) : [(OBJ A/을) 좌우하<VERB>]/다
+
+"deaf-mute"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(농아자)
+
+"deaf-mutism"
+% MATERIAL 
+(농아 상태)
+
+"deafening"
+(방음 장치)
+
+"deafness"
+% MATERIAL 
+(귀먹음)
+
+"deal"
+% CONCRETE MATERIAL ECOLIFE
+(거래)
+# a great deal $ (NOUN ADV) : 1) 많은 것
+                              2) 많이
+# a good deal $ (NOUN ADV) : 1) 많은 것
+                             2) 많이
+# a good deal of A (NOUN) : [(AMODS [많<ADJ>]/한) A]
+# a good deal of what SENT (NOUN) : 
+  [(RELCL [(AMODS [많<ADJ>]/한) SENT]/한) 것<NOUN>]
+# a great deal of A (NOUN) : [(AMODS [(MODS [매우<ADV>]) 많<ADJ>]/한) A]
+# a raw deal (NOUN) : 부당한 처사
+# a square deal (NOUN) : 공정한 처사
+# ^do a deal with A {+HUMAN} (VERB) : [(ADJUNCT A/와) 거래하<VERB>]/다
+# ^have a great deal to do with A (VERB) : [(ADJUNCT A/와) 많은 관계가 있<VERB>]/다
+
+"dealer"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(상인)
+# bullion dealer (NOUN) : 지금상
+# dealer inventories (NOUN) : 판매업자재고
+
+"dealership"
+% STATE ECOLIFE
+(판매권)
+
+"dealing"
+% ECOLIFE
+(교섭)
+
+"deambulatory"
+% PLACE
+(복도)
+
+"dean"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(대성당 주임 사제)
+
+"deanery"
+% HUMAN
+(수석사제의 지위)
+
+"dear"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(귀여운 사람)
+# dear money (NOUN) : 고금리
+# dear money policy (NOUN) : 고금리정책
+
+"dearie"
+% HUMAN
+(사랑하는 이)
+
+"dearmament"
+(군비축소)
+
+"dearness"
+% CONCRETE MATERIAL 
+(귀여움)
+
+"dearth"
+% CONCRETE MATERIAL 
+(부족)
+
+"deary"
+% HUMAN
+(사랑하는 이)
+
+"death"
+% MATERIAL 
+(죽음)
+# ONE_S death at NUM1 {-ORDNUM} (NOUN) : [(POSS [(NMODS NUM1) 세<NOUN>]/의) 죽음<NOUN>]
+# a field of death (NOUN) : 전쟁터
+# as sure as death (ADV) : 틀림없이
+# at death's door (ADV) : 빈사상태에 이르러
+# ^be done to death (VERB) : 살해당하다
+# ^be put to death (VERB) : 처형되다
+# ^be worse than death (VERB) : 매우 지독하다
+# crude death rate (NOUN) : 조사망률
+# death duty (NOUN) : 상속세
+# death grant (NOUN) : 회사장례금
+# death rate (NOUN) : 사망률
+# death tax (NOUN) : 상속세
+# death ^toll (NOUN) : 사망세
+# ^go to ONE_S death (VERB) : 죽다
+# life and death (NOUN) : 삶과 죽음
+# ^meet ONE_S death (VERB) : 죽다
+# ordinary death rate (NOUN) : 보통사망률
+# ^hold on like grim death (VERB) : 꼭 붙들다
+# ^put A to death (VERB) : [(OBJ A/를) 죽이<VERB>]/다
+# ^put to death (VERB) : 죽이다
+# ^put to death by hanging (VERB) : 교수형에 처하다
+# ^shot to death (VERB) : 사살하다
+# specific death rate (NOUN) : 특수사망률
+# to the death (ADV) : 최후까지
+# to the death of A (ADV) : (ADJUNCT [(POSS A/의) 최후<NOUN>]/까지)
+
+"deathbed"
+% CONCRETE MATERIAL 
+(죽음의 자리)
+
+"deathleap"
+% ACTION
+(투신 자살)
+
+"deathmask"
+(사면)
+
+"deathtrap"
+(죽음의 함정)
+
+"deathwatch"
+% CONCRETE ANIMAL MATERIAL 
+(경야)
+
+"deb"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(비행 소녀)
+
+"debacle"
+% MATERIAL 
+(붕궤)
+
+"debarkation"
+(양륙)
+
+"debarment"
+% MATERIAL 
+(제외)
+
+"debasement"
+% MATERIAL 
+(저하)
+
+"debaser"
+% HUMAN
+(변조자)
+
+"debate"
+% CONCRETE MATERIAL ACTION
+(토론)
+# ^hold debate with ONESELF  (VERB) : 숙고하다
+# ^open the debate (VERB) : 토론의 막을 열다
+
+"debauch"
+% MATERIAL 
+(방탕)
+
+"debauchee"
+% HUMAN
+(방탕자)
+
+"debauchery"
+% MATERIAL 
+(방탕)
+
+"debauchment"
+(방탕)
+
+"debenture"
+% CONCRETE MATERIAL ECOLIFE
+(특수 사채)
+# debenture stock (NOUN) : 사채권
+# irredeemable debenture (NOUN) : 무상환사채
+
+"debilitation"
+% MATERIAL 
+(쇠약)
+
+"debility"
+% MATERIAL 
+(쇠약)
+
+"debit"
+% MATERIAL ECOLIFE
+(차변)
+# debit balance (NOUN) : 적자
+# debit note (NOUN) : 차변표
+# debit side (NOUN) : 차변
+# debit slip (NOUN) : 지불 전표
+
+"deboost"
+(감속)
+
+"debouch"
+% PLACE
+(출구)
+
+"debouche"
+% PLACE
+(출구)
+
+"debouchment"
+(진출)
+
+"debriefing"
+% CONCRETE MATERIAL ACTION
+(심문)
+
+"debris"
+% CONCRETE MATERIAL 
+(파편)
+
+"debt"
+% MATERIAL ECOLIFE
+(부채)
+# bad debt (NOUN) : 불량채권
+# debt limit (NOUN) : 공채발행한도
+# debt management policy (NOUN) : 공채발행한도
+# debt rescheduling (NOUN) : 채무의 이연
+# debt security (NOUN) : 채무증권
+# debt service cost (NOUN) : 채무지불비용
+# debt service ratio (NOUN) : 채무당환율
+# floating debt (NOUN) : 일시차입금
+# funded debt (NOUN) : 장기부채
+# government debt (NOUN) : 국채
+# income account debt (NOUN) : 수익 부채
+# national debt (NOUN) : 국가 부채
+# specific death rate (NOUN) : 특수사망률
+
+"debtor"
+% CONCRETE HUMAN ANIMAL MATERIAL ECOLIFE
+(채무자)
+# debtor account (NOUN) : 차변계정
+# debtor country (NOUN) : 차금국
+
+"debugging"
+(디버깅)
+
+"debut"
+% MATERIAL 
+(데뷔)
+
+"debutant"
+% HUMAN
+(첫무대를 밟는 배우)
+
+"debutante"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(처음 데뷔 하는 여자)
+
+"decade"
+% CONCRETE TIME MATERIAL 
+(10년)
+# NUM1 decade (NOUN) : [(NMODS NUM1) 십년<NOUN>]
+# a decade ago (ADV) : 십년전에
+# decade of trustration (NOUN) : 좌절의 10년
+# decade of preferences (NOUN) : 특혜의 10년
+# few decade (NOUN) : 수십년
+
+"decadence"
+% CONCRETE MATERIAL 
+(쇠미)
+
+"decadency"
+(쇠미)
+
+"decadent"
+% HUMAN
+(데카당파의 예술가)
+
+"decagon"
+% MATERIAL 
+(10 각형)
+
+"decagram"
+% CONCRETE UNIT MATERIAL 
+(데카그램)
+
+"decagram"
+% CONCRETE UNIT MATERIAL 
+(데카그램)
+
+"decahedron"
+% MATERIAL 
+(10 면체)
+
+"decalcomania"
+% CONCRETE MATERIAL 
+(데칼코마니)
+
+"decaliter"
+% CONCRETE UNIT MATERIAL 
+(데카리터)
+
+"decalitre"
+% CONCRETE UNIT MATERIAL 
+(데카리터)
+
+"decalog"
+(십계)
+
+"decalogue"
+(십계)
+
+"decameter"
+% CONCRETE UNIT MATERIAL 
+(데카미터)
+
+"decametre"
+% CONCRETE UNIT MATERIAL 
+(데카미터)
+
+"decampment"
+% MATERIAL 
+(퇴진)
+
+"decantation"
+(가만히 따르기)
+
+"decanter"
+% CONCRETE ANIMAL MATERIAL 
+(디캔터)
+
+"decapitalization"
+% ECOLIFE
+(자본 박탈)
+
+"decapitation"
+% MATERIAL 
+(참수)
+
+"decapitator"
+% HUMAN
+(목베는 사람)
+
+"decapod"
+% CONCRETE ANIMAL MATERIAL 
+(십각류)
+
+"decarbonator"
+(탄소 제거제)
+
+"decare"
+(데캐어)
+
+"decartelization"
+(카르텔해제)
+
+"decastere"
+(데커스티어)
+
+"decasyllabic"
+(10 음절)
+
+"decasyllable"
+(10 음절)
+
+"decathlete"
+% HUMAN
+(10 종 경기 선수)
+
+"decathlon"
+(10 종 경기)
+
+"decatron"
+(데카트론)
+
+"decay"
+% MATERIAL 
+(부패)
+# ^fall into decay (VERB) : 썩어 문드러지다
+
+"decease"
+(사망)
+
+"decedent"
+% HUMAN
+(고인)
+
+"deceit"
+% CONCRETE MATERIAL 
+(사기)
+
+"deceiver"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(사기군)
+
+"deceleration"
+% CONCRETE MATERIAL 
+(감속)
+
+"decelerator"
+(감속기)
+
+"decemvirate"
+% HUMAN
+(십대관의 벼슬)
+
+"decency"
+% CONCRETE MATERIAL 
+(품위)
+
+"decennary"
+% CONCRETE TIME MATERIAL 
+(10 년간)
+
+"decenniad"
+% TIME
+(10 년간)
+
+"decennial"
+(10 년제)
+
+"decennium"
+% CONCRETE TIME MATERIAL 
+(10 년간)
+
+"decentralization"
+(분산)
+
+"deception"
+% CONCRETE MATERIAL 
+(기만)
+
+"deceptiveness"
+(거짓이 많음)
+
+"decertification"
+(인가 철회)
+
+"deciare"
+(데시아아르)
+
+"decibar"
+% UNIT
+(데시바아)
+
+"decibel"
+% CONCRETE UNIT MATERIAL 
+(데시벨)
+
+"decider"
+(결정자)
+
+"decigram"
+% CONCRETE UNIT MATERIAL 
+(데시그램)
+
+"deciliter"
+% CONCRETE UNIT MATERIAL 
+(데시리터)
+
+"decilitre"
+% CONCRETE UNIT MATERIAL 
+(데시시리터)
+
+"decillion"
+(데실연)
+
+"decimal"
+% CONCRETE MATERIAL 
+(소수)
+# decimal coinage (NOUN) : 10진법화폐제
+# decimal system (NOUN) : 10진법
+
+"decimalism"
+(십진법)
+
+"decimalization"
+(십진법화)
+
+"decimation"
+% MATERIAL 
+(대량 살해)
+
+"decimator"
+% HUMAN
+(학살자)
+
+"decimeter"
+% CONCRETE UNIT MATERIAL 
+(데시미터)
+
+"decimetre"
+% CONCRETE UNIT MATERIAL 
+(데시미터)
+
+"decision"
+% CONCRETE MATERIAL 
+(결정)
+# a man of decision (NOUN) : 결단력 있는 사람
+# ^come to a decision (VERB) : 결정되다
+# ^reach a decision (VERB) : 결정되다
+# ^arrive at a decision (VERB) : 결정되다
+# decision by majority (NOUN) : 다수결
+# ^make a decision (VERB) : 결정하다
+# ^make a decision TO_INF (VERB) : [(OBJ [(RELCL TO_INF/할) 것<NOUN>]/을) 결정하<VERB>]/다
+# ^take a decision (VERB) : 결정하다
+# with decision (ADV) : 결연히
+
+"decision-maker"
+% HUMAN
+(결정권자)
+
+"decisiveness"
+% CONCRETE MATERIAL 
+(결정적임)
+
+"deck"
+% CONCRETE MATERIAL PLACE
+(데크)
+# ^clear the decks (VERB) : 전투준비를 하다
+# deck cargo (NOUN) : 갑판적화물
+# ^go on deck (VERB) : 갑판에 나오다
+# lower deck (NOUN) : 아랫 갑판
+
+"decker"
+% HUMAN
+(갑판 선원)
+
+"deckhouse"
+% PLACE
+(갑판실)
+
+"deckle"
+% CONCRETE MATERIAL 
+(종이의 판형을 뜨는 틀)
+
+"deckman"
+% HUMAN
+(통나무 운반 인부)
+
+"declaimer"
+% HUMAN
+(연설자)
+
+"declamation"
+% CONCRETE MATERIAL 
+(낭독)
+
+"declarant"
+% HUMAN
+(신고자)
+
+"declaration"
+% CONCRETE MATERIAL 
+(선언)
+# declaration of bankruptcy (NOUN) : 파산선고
+# declaration of dividend (NOUN) : 배당발표
+# declaration of income (NOUN) : 소득신고
+# opening declaration (NOUN) : 개회 선언
+
+"declasse"
+% HUMAN
+(낙오자)
+
+"declension"
+% CONCRETE MATERIAL 
+(어미 변화)
+
+"declination"
+% CONCRETE MATERIAL 
+(기울기)
+
+"decline"
+% CONCRETE MATERIAL 
+(쇠퇴)
+# buying on decline (NOUN) : 하락세에서 매입함
+# decline in prices (NOUN) : 물가의 하락
+# ^go to decline (VERB) : 쇠퇴하다
+# on the decline (ADV) : 기울어져
+# sharp decline (NOUN) : 급속하락
+
+"decliner"
+% HUMAN
+(사퇴자)
+
+"declinometer"
+% CONCRETE ANIMAL MATERIAL 
+(방위각계)
+
+"declivity"
+% CONCRETE MATERIAL 
+(내리받이)
+
+"deco"
+(장식)
+
+"decoction"
+% MATERIAL 
+(달이기)
+
+"decoder"
+% HUMAN
+(디코더)
+
+"decollation"
+(참수)
+
+"decolletage"
+% CONCRETE MATERIAL 
+(목)
+
+"decolorant"
+(표백제)
+
+"decolorization"
+(표백)
+
+"decolourant"
+(표백제)
+
+"decommunization"
+(비공산화)
+
+"decompensation"
+(대상부전)
+
+"decomposite"
+(복혼합물)
+
+"decomposition"
+% MATERIAL 
+(분해)
+# decomposition ^point (NOUN) : 분할점
+
+"decompound"
+(복혼합물)
+
+"decompression"
+(압력 감소)
+# decompression chamber (NOUN) : 감압실
+# decompression sickness (NOUN) : 잠함병
+
+"decompressor"
+(감압장치)
+
+"deconcentration"
+(분산)
+
+"decontaminant"
+(정화제)
+
+"decontrol"
+(관리 해제)
+# decontrol item (NOUN) : 통제 해제 품목
+# decontrol list (NOUN) : 통제해제 품목표
+
+"decor"
+% CONCRETE MATERIAL 
+(장식)
+
+"decoration"
+% CONCRETE MATERIAL 
+(장식)
+# Decoration Day (NOUN) : 전몰장병 추념일
+
+"decorativeness"
+% CONCRETE MATERIAL 
+(장식성)
+
+"decorator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(도배업자)
+
+"decorousness"
+% CONCRETE MATERIAL 
+(예의바름)
+
+"decorum"
+% CONCRETE MATERIAL 
+(단정)
+
+"decoy"
+% CONCRETE ANIMAL MATERIAL 
+(유인물)
+
+"decrease"
+% CONCRETE MATERIAL 
+(감소)
+# ^be on the decrease (VERB) : 줄어가다
+
+"decree"
+% CONCRETE MATERIAL 
+(판결)
+# Imperial decree (NOUN) : 칙령
+# Royal decree (NOUN) : 칙령
+# Presidential decree (NOUN) : 대통령령
+# consent decrees (NOUN) : 합의 판결
+# decree nisi (NOUN) : 가판결
+
+"decrement"
+% CONCRETE MATERIAL 
+(감소)
+
+"decremeter"
+(감폭계)
+
+"decrepitude"
+% MATERIAL HUMAN
+(늙은이)
+
+"decrescendo"
+% CONCRETE MATERIAL 
+(점약음)
+
+"decretal"
+% ORGAN
+(교황의 교령)
+
+"decretist"
+% HUMAN
+(교회 법학자)
+
+"decrial"
+(욕지거리)
+
+"decrier"
+% HUMAN
+(비난자)
+
+"decriminalization"
+(비범죄화)
+
+"decuple"
+(10 배)
+
+"decussation"
+(교차)
+
+"dedams"
+% PLACE
+(관람석)
+
+"dedicatee"
+% HUMAN
+(헌정받는 사람)
+
+"dedication"
+% CONCRETE MATERIAL 
+(헌신)
+
+"dedicator"
+% HUMAN
+(봉납자)
+
+"deduction"
+% CONCRETE MATERIAL 
+(연역법)
+# deduction for dependents (NOUN) : 부양방제
+
+"dee"
+(D자)
+
+"deed"
+% CONCRETE MATERIAL 
+(행위)
+# a deed of arms (NOUN) : 무공
+# deed of arrangement (NOUN) : 채무정리증서
+# deed of partnership (NOUN) : 조합계약증서
+# in deed (ADV) : 참으로
+# in word an in deed (ADV) : 언행일치하여
+# original deed (NOUN) : 증서원본
+
+"deejay"
+% HUMAN
+(디제이)
+
+"deemster"
+% HUMAN
+(재판관)
+
+"deep"
+% CONCRETE MATERIAL PLACE
+(심연)
+# in the deep of night (ADV) : 한 밤중에
+# in the deep of winter (ADV) : 한 한겨울에
+# monsters of the deep (NOUN) : 바다의 괴물
+# wonders of the deep (NOUN) : 바다의 경이
+
+"deep-freeze"
+(식품냉동기)
+
+"deepie"
+(입체영화)
+
+"deepness"
+% CONCRETE MATERIAL 
+(깊이)
+
+"deer"
+% CONCRETE ANIMAL MATERIAL 
+(사슴)
+
+"deerhound"
+% CONCRETE ANIMAL MATERIAL 
+(사슴 사냥개)
+
+"deerskin"
+% CONCRETE MATERIAL 
+(사슴 가죽)
+
+"deerstalker"
+% HUMAN
+(사슴 사냥꾼)
+
+"deerstalking"
+% ACTION
+(사슴 사냥)
+
+"deescalation"
+(축전)
+
+"defacement"
+(파손)
+
+"defalcation"
+% ACTION
+(위탁금 횡령)
+
+"defalcator"
+% HUMAN
+(위탁금 횡령자)
+
+"defamation"
+% CONCRETE MATERIAL 
+(욕설)
+
+"default"
+% MATERIAL 
+(태만)
+# in default of A (ADV) : (ADJUNCT [(SUBJ A/이) 없<VERB>]/하여서)
+# judgement by default (NOUN) : 결석 재판
+# ^make default (VERB) : 결석하다
+
+"defaulter"
+% HUMAN
+(태만자)
+
+"defeasance"
+% ACTION
+(파기)
+
+"defeasibility"
+(폐기 가능성)
+
+"defeat"
+% MATERIAL ACTION
+(패배)
+
+"defeater"
+% HUMAN
+(승자)
+
+"defeatism"
+% ART
+(패배주의)
+
+"defeatist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(패배주의자)
+
+"defecation"
+% MATERIAL 
+(정화)
+
+"defecator"
+(정화기)
+
+"defect"
+% CONCRETE MATERIAL 
+(결함)
+# in defect (ADV) : 부족하여
+# inherent defect (NOUN) : 고유의 결함
+
+"defection"
+% MATERIAL ACTION
+(탈당)
+# voter defection (NOUN) : 변절 투표자
+
+"defective"
+% HUMAN
+(결함이 있는 사람)
+
+"defector"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(탈주자)
+
+"defence"
+% CONCRETE MATERIAL 
+(방어)
+# defence in depth (NOUN) : 심층방어
+# defence mechanism (NOUN) : 방위기제
+# in defence of A (ADV) : [(OBJ A/을) 지키기 위하<VERB>]/하여
+# legal defence (NOUN) : 정당방위
+# national defence (NOUN) : 국방
+# offensive defence (NOUN) : 공세 방어
+# the science of defence (NOUN) : 호신술
+# the art of defence (NOUN) : 호신술
+
+"defencelessness"
+(무방비)
+
+"defendant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(피고)
+
+"defender"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(방어자)
+# the Defender of the Faith (NOUN) : 신교 옹호자
+
+"defenestration"
+(축출)
+
+"defense"
+% CONCRETE MATERIAL 
+(방어)
+# defense attorney (NOUN) : 피고측 변호인
+# defense bond (NOUN) : 국방채
+# defense expenditure (NOUN) : 국방지출
+# defense for the dollar (NOUN) : 달라방어
+# defense in depth (NOUN) : 심층방어
+# defense mechanism (NOUN) : 방위기제
+# defense of the dollar (NOUN) : 달라방어
+# defense spending (NOUN) : 방위지출
+# defense surtax (NOUN) : 방위세
+# in defense of A (ADV) : [(OBJ A/을) 지키기 위하<VERB>]/하여)
+# legal defense (NOUN) : 정당방위
+# national defense (NOUN) : 국방
+# offensive defense (NOUN) : 공세 방어
+# the science of defense (NOUN) : 호신술
+# the art of defense (NOUN) : 호신술
+
+"Defense Department"
+(국방부)
+
+"Defense Secretary"
+(국방장관)
+
+% HUMAN
+(수비수)
+
+"defensibility"
+(방어할 수 있음)
+
+"defensive"
+(수세)
+
+"deference"
+% CONCRETE MATERIAL ACTION
+(복종)
+
+"deferment"
+% MATERIAL 
+(연기)
+
+"deferrable"
+% HUMAN
+(징병 연기자)
+
+"deferral"
+% MATERIAL 
+(연기)
+
+"defeudalization"
+(봉건제도 철폐)
+
+"defiance"
+% CONCRETE MATERIAL ACTION
+(도전)
+
+"defiantness"
+(도전적임)
+
+"deficiency"
+% CONCRETE MATERIAL 
+(부족)
+# deficiency payment (NOUN) : 부족불
+
+"deficit"
+% CONCRETE MATERIAL ECOLIFE
+(결손)
+# deficit bond (NOUN) : 적자공채
+# deficit budget (NOUN) : 적자예산
+# deficit country (NOUN) : 적자국
+# deficit finance (NOUN) : 적자재정
+# deficit financing (NOUN) : 적자재정
+# deficit bond (NOUN) : 적자공채
+# deficit budget (NOUN) : 적자예산
+# deficit country (NOUN) : 적자국
+# deficit finance (NOUN) : 적자재정
+# deficit financing (NOUN) : 적자재정
+# deficit financing (NOUN) : 적자 재정
+# deficit spending (NOUN) : 초과 지출
+# trade deficit (NOUN) : 무역수지의 적자
+
+"defilade"
+% CONCRETE ANIMAL MATERIAL 
+(차폐)
+
+"defile"
+% MATERIAL 
+(애로)
+
+"defilement"
+% MATERIAL 
+(오염)
+
+"defiler"
+% HUMAN
+(더럽히는 사람)
+
+"definiteness"
+% CONCRETE MATERIAL 
+(한정)
+
+"definition"
+% CONCRETE MATERIAL 
+(정의)
+
+"definitive"
+(한정사)
+
+"definitude"
+(한정)
+
+"deflagration"
+(폭연)
+
+"deflation"
+% MATERIAL 
+(수축)
+# deflation effect (NOUN) : 디플레효과
+# deflation policy (NOUN) : 디플레정책
+
+"deflationist"
+% HUMAN
+(통화 수축론자)
+
+"deflection"
+% CONCRETE MATERIAL 
+(편향)
+
+"deflector"
+(변류기)
+
+"deflexion"
+(편향)
+
+"defloration"
+% ACTION
+(꽃을 따기)
+
+"defoliant"
+(제초제)
+
+"defoliation"
+(잎의 떨어지기)
+
+"deforciant"
+% HUMAN
+(불법점유자)
+
+"deforestation"
+% MATERIAL ACTION
+(삼림 벌채)
+
+"deformation"
+% MATERIAL 
+(볼품없이 되기)
+
+"deformity"
+% CONCRETE MATERIAL 
+(보기흉함)
+
+"defragment"
+(조립)
+
+"defraudation"
+(사취)
+
+"defrauder"
+% HUMAN
+(횡령자)
+
+"defroster"
+% CONCRETE ANIMAL MATERIAL 
+(제빙 장치)
+
+"defunct"
+% HUMAN
+(고인)
+
+"defy"
+(도전)
+
+"degeneracy"
+(퇴화)
+
+"degenerate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(퇴화된 물건)
+
+"degeneration"
+% CONCRETE MATERIAL 
+(타락)
+
+"deglutition"
+% MATERIAL 
+(삼키는 작용)
+
+"degradation"
+% CONCRETE MATERIAL 
+(좌천)
+
+"degree"
+% CONCRETE MATERIAL 
+(정도[학위])
+# Doctor's degree (NOUN) : 박사 학위
+# Master's degree (NOUN) : 석사 학위
+# NUM1 degree (NOUN) : [(NMODS NUM1 {+DGTNUM}) 도<NOUN>]
+# NUM1 degrees of frost (NOUN) : [(NMODS [(NMODS [영하<NOUN>]) NUM1]) 도<NOUN>]
+# NUM1 degree north latitude (NOUN) : [(NMODS [(NMODS [북위<NOUN>]) NUM1]) 도<NOUN>]
+# NUM1 degree NUM2 minute north latitude (NOUN) : [(NMODS [(NMODS [북위<NOUN>]) NUM1]) 도<NOUN>]) (NMODS NUM2) 분<NOUN>]
+# a ADJ degree of A (NOUN) : [(AMODS [(RELCL ADJ/한) 정도<NOUN>]/의) A]
+# bachelor's degree (NOUN) : 학사 학위
+# by degrees (PP) : 차차
+# college degree (NOUN) : 학사 학위
+# degree of ability (NOUN) : 능력
+# degree of accuracy (NOUN) : 정확도
+# degree of autonomy (NOUN) : 자율도
+# degree of belief (NOUN) : 직관적신뢰도
+# degree of dependence (NOUN) : 의존도
+# degree of difficulty (NOUN) : 난이도
+# degree of food self-support (NOUN) : 식량자급도
+# degree of monopoly (NOUN) : 독점도
+# degree in astronomy (NOUN) : 천문학 학위
+# doctoral degree (NOUN) : 박사학위
+# forbidden degrees (NOUN) : 혼인 금지의 촌수
+# honorary degree (NOUN) : 명예학위
+# in a degree (ADV) : 조금은
+# in a some degree (ADV) : 어느 정도
+# in some degree (ADV) : 어느 정도
+# man of high degree (NOUN) : 신분이 높은 사람
+# man of low degree (NOUN) : 신분이 낮은 사람
+# prohibited degrees (NOUN) : 혼인 금지의 촌수
+# teaching degree (NOUN) : 교사 자격증
+# the third degree (NOUN) : 경찰의 엄중한 문초
+# to a certain degree (ADV) : 어느 정도까지
+# to a degree (ADV) : 대단히
+# to some degree (ADV) : 어느 정도
+# to the last degree (ADV) : 극도로
+
+"degression"
+(내리기)
+
+"dehiscence"
+% MATERIAL 
+(열개)
+
+"dehortation"
+(말림)
+
+"dehumanization"
+% MATERIAL 
+(인간성 말살)
+
+"dehumidification"
+(제습)
+
+"dehumidifier"
+(제습기)
+
+"dehydration"
+% MATERIAL 
+(탈수)
+
+"dehydrofreezing"
+(건조 냉동법)
+
+"deicer"
+% CONCRETE ANIMAL MATERIAL 
+(제빙 장치)
+
+"deicide"
+(신을 죽이기)
+
+"deification"
+% MATERIAL 
+(신격화)
+
+"deifier"
+% HUMAN
+(예배자)
+
+"deintegration"
+(비 종합 기업화)
+
+"deism"
+% MATERIAL ART
+(자연신론)
+
+"deist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(이신론자)
+
+"deity"
+% CONCRETE MATERIAL 
+(신위)
+
+"dejecta"
+(배설물)
+
+"dejection"
+% MATERIAL 
+(낙담)
+
+"dejeuner"
+(조반)
+
+"dekko"
+(일별)
+
+"delaine"
+(머즐린)
+
+"delation"
+% ACTION
+(고소)
+
+"delator"
+% HUMAN
+(고소인)
+
+"delay"
+% CONCRETE MATERIAL 
+(지체)
+# ^admit of no delay (VERB) : 일각의 유예도 용서치 않다
+# without delay (ADV) : 지체없이
+
+"delegacy"
+% CONCRETE MATERIAL 
+(대표 임명)
+
+"delegate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(대표)
+
+"delegation"
+% MATERIAL 
+(대표단)
+# delegation of authority (NOUN) : 권한의 위임
+
+"deleteriousness"
+(유독함)
+
+"deletion"
+% CONCRETE MATERIAL 
+(삭제)
+
+"delf"
+(오지그릇)
+
+"delft"
+(오지그릇)
+
+"deli"
+% CONCRETE ANIMAL MATERIAL 
+(조제식품)
+
+"deliberateness"
+% CONCRETE MATERIAL 
+(심사숙고)
+
+"deliberation"
+% CONCRETE MATERIAL 
+(심사숙고)
+# after ripe deliberation (ADV) : 숙고한 끝에
+# after mature deliberation (ADV) : 숙고한 끝에
+# with deliberation (ADV) : 신중하게
+
+"delicacy"
+% CONCRETE MATERIAL 
+(섬세)
+# ^feel a delicacy about A (VERB) : [(OBJ A/를) (MODS [꺼림직하게<ADV>]) 여기<VERB>]/다
+
+"delicateness"
+(섬세함)
+
+"delicatessen"
+% CONCRETE MATERIAL FOOD
+(조제 식품)
+
+"delicious"
+(딜리셔스)
+
+"deliciousness"
+% CONCRETE MATERIAL 
+(맛있음)
+
+"delict"
+(불법 행위)
+# flagrant delict (NOUN) : 현행법
+
+"delight"
+% MATERIAL MIND
+(기쁨)
+# ^take delight in A (VERB) : [(OBJ A/를) 기뻐하<VERB>]/다
+# to ONE_S delight (PP->ADV) : (ADVCL [(SUBJ ONE/가) 기쁘<ADJ>]/게도)
+# in/with delight $ (ADV) : 기꺼이
+
+"delightfulness"
+% MIND
+(즐거움)
+
+"delimitation"
+(한계 결정)
+
+"delineation"
+% CONCRETE MATERIAL 
+(묘사)
+
+"delineator"
+% HUMAN
+(묘사하는 사람)
+
+"delinquency"
+% CONCRETE MATERIAL MIND
+(태만)
+
+"delinquent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(태만자)
+
+"deliquescence"
+(용해)
+
+"deliration"
+(정신 착란)
+
+"deliriousness"
+(미쳐 날뜀)
+
+"delirium"
+% MATERIAL STATE
+(섬망상태)
+
+"delitescence"
+% TIME
+(잠복기)
+
+"deliverance"
+% MATERIAL 
+(구출)
+
+"deliverer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(구조자)
+
+"delivery"
+% CONCRETE MATERIAL ACTION
+(배달)
+# alongside delivery (NOUN) : 자가수도
+# cash on delivery (NOUN) : 대금인환
+# delivery certificate (NOUN) : 배달증명서
+# delivery charges (NOUN) : 배달료
+# delivery date (NOUN) : 인도 기일
+# delivery on arrival (NOUN) : 도착인도
+# delivery on the depository (NOUN) : 창고인도
+# delivery order (NOUN) : 하도지시도
+# delivery period (NOUN) : 납기
+# delivery permit (NOUN) : 인도허가증
+# delivery port (NOUN) : 수출 항
+# delivery price (NOUN) : 인도 가격
+# express delivery (NOUN) : 속달
+# special delivery (NOUN) : 속달
+# ^take delivery of A (VERB) : [(OBJ A/을) 인수하<VERB>]/다
+
+"dell"
+% CONCRETE MATERIAL PLACE
+(작은 골짜기)
+
+"delocalization"
+(지방색타파)
+
+"delphinium"
+% PLANT
+(참제비 고깔)
+
+"delta"
+% CONCRETE MATERIAL 
+(델타)
+# delta metal (NOUN) : 델터메탈
+# delta rays (NOUN) : 델터선
+# delta waves (NOUN) : 델터 파
+# delta wing (NOUN) : 삼각익 비행기
+
+"delta-wing"
+(삼각익)
+
+"deltiology"
+(우편 엽서 수집)
+
+"deltoid"
+(삼각근)
+
+"deluge"
+% MATERIAL 
+(대홍수)
+
+"delusion"
+% MATERIAL 
+(현혹)
+# delusion of persecution (NOUN) : 피해 망상
+# delusion of grandeur (NOUN) : 과대 망상
+# ^labor under a delusion (VERB) : 망상에 시달리다
+# ^labour under a delusion (VERB) : 망상에 시달리다
+
+"delve"
+% PLACE
+(동굴)
+
+"delver"
+% HUMAN
+(파는 사람)
+
+"demagnetization"
+(자기소거)
+
+"demagog"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(선동정치가)
+
+"demagogism"
+% ART
+(선동주의)
+
+"demagogue"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(선동정치가)
+
+"demagoguery"
+% ART
+(선동주의)
+
+"demagogy"
+% ACTION
+(민중선동)
+
+"demand"
+% CONCRETE MATERIAL ACTION
+(요구)
+# actual demand (NOUN) : 실수요
+# aggregate demand (NOUN) : 총수요
+# alternative demand (NOUN) : 선택수요
+# ^be in demand (VERB) : 수요가 있다
+# brisk demand (NOUN) : 활발한 수요
+# civilian demand (NOUN) : 민수
+# consumptive demand (NOUN) : 실수요
+# demand and supply (NOUN) : 수요와 공급
+# demand bill (NOUN) : 일람불 어음
+# demand component (NOUN) : 수요항목
+# demand curve (NOUN) : 수요곡선
+# demand deposits (NOUN) : 요구불예금
+# demand draft (NOUN) : 일괄지불어음
+# demand draft (NOUN) : 일람불 어음
+# demand deposit (NOUN) : 요구불 예금
+# demand for A (NOUN) : [(RELCL [(COMP A/에) 대하<ADJ>]/한) 수요<NOUN>]
+# demand function (NOUN) : 수요함수
+# demand gap (NOUN) : 수급갭
+# demand inflation (NOUN) : 수요 과잉 인플레
+# demand management (NOUN) : 수요관리
+# demand note (NOUN) : 일람불 약속어음
+# demand price (NOUN) : 요구가격
+# demand schedule (NOUN) : 수요표
+# demand season (NOUN) : 수요기
+# derived demand (NOUN) : 파생수요
+# ^be in demand (VERB->ADV) : 수요가 있다
+# ^be in ADJ demand (VERB->ADV) : [(SCOMP [(AMODS ADJ/한) 수요<NOUN>]/가) 있<VERB>]/다
+# domestic demand (NOUN) : 내수
+# effective demand (NOUN) : 유효수요
+# elasticity of demand (NOUN) : 수요의 강력성
+# export demand (NOUN) : 수출수요
+# latent demand (NOUN) : 잠재수요
+# speculative demand (NOUN) : 투기수요
+# supply and demand (NOUN) : 수요와 공급
+
+"demand-pull"
+(수요과잉 인플레)
+
+"demandant"
+% HUMAN
+(요구자)
+
+"demander"
+% HUMAN
+(요구자)
+
+"demarcation"
+% MATERIAL 
+(경계)
+
+"demarche"
+(수단)
+
+"demassification"
+(탈대중화)
+
+"deme"
+(시구)
+
+"demeanor"
+% CONCRETE MATERIAL 
+(행실)
+
+"demeanour"
+(행실)
+
+"dementi"
+% HUMAN
+(공식적 부인)
+
+"dementia"
+% MATERIAL 
+(치매)
+
+"demerger"
+(재분리)
+
+"demerit"
+(과실)
+# the merits or demerits of A (NOUN) : [(POSS A/의) 장점과 단점<NOUN>]
+
+"demesne"
+% MATERIAL ECOLIFE
+(토지의 소유)
+# demesne of the State (NOUN) : 관유지
+# ^hold estates in demesne (VERB) : 토지를 영유하다
+# royal demesne (NOUN) : 왕실 소유지
+# demesne of the Crown (NOUN) : 왕실 소유지
+
+"demi-official"
+(공사의 관한 사한)
+
+"demigod"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(반신 반인)
+
+"demijohn"
+% CONCRETE ANIMAL MATERIAL 
+(큰 병)
+
+"demilitarization"
+(비무장화)
+
+"demilune"
+(반월보)
+
+"demimondaine"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(화류계의 여자)
+
+"demimonde"
+% ORGAN
+(화류계)
+
+"demirep"
+% HUMAN
+(매춘부)
+
+"demise"
+% MATERIAL 
+(소멸)
+
+"demisemiquaver"
+% CONCRETE MATERIAL 
+(32 분 음표)
+
+"demission"
+% ACTION
+(사직)
+
+"demitasse"
+% CONCRETE MATERIAL 
+(작은 코오피잔)
+
+"demitint"
+(간색)
+
+"demiurge"
+% CONCRETE MATERIAL 
+(조물주)
+
+"demo"
+% CONCRETE MATERIAL ACTION
+(데모)
+
+"demo-christian"
+% HUMAN
+(기독교 민주당원)
+
+"demob"
+% ACTION
+(동원해제)
+
+"demobilization"
+% MATERIAL 
+(동원해제)
+
+"democracy"
+% MATERIAL ART
+(민주주의)
+
+"democrat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+
+"Democrats"
+(민주당)
+
+"democratism"
+% ART
+(민주주의)
+
+"democratization"
+% MATERIAL ACTION
+(민주화)
+
+"demogorgon"
+% HUMAN
+(마왕)
+
+"demographer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(인구통계학자)
+
+"demographics"
+(인구통계)
+
+"demography"
+% MATERIAL ART
+(인구통계학)
+
+"demoiselle"
+% CONCRETE ANIMAL MATERIAL 
+(처녀)
+
+"demolishment"
+(파괴)
+
+"demolition"
+% MATERIAL 
+(파괴)
+# demolition expense (NOUN) : 철거비
+
+"demon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(악마)
+# the little demon (NOUN) : 장난꾸러기
+
+"demonetization"
+(통용 금지)
+
+"demoniac"
+% HUMAN
+(귀신들린 사람)
+
+"demonism"
+% MATERIAL ART
+(마신 신앙)
+
+"demonismist"
+% HUMAN
+(마신신앙자)
+
+"demonocracy"
+(악마의 지배)
+
+"demonolatry"
+% MATERIAL
+(귀신 숭배)
+
+"demonologist"
+% HUMAN
+(악마 연구가)
+
+"demonology"
+% HUMAN
+(귀신학)
+
+"demonstrability"
+(논증 가능성)
+
+"demonstrant"
+% HUMAN
+(논증자)
+
+"demonstration"
+% CONCRETE MATERIAL ACTION
+(데모)
+# demonstration effect (NOUN) : 전시효과
+# demonstration reactor (NOUN) : 실지검증용 원자로
+
+"demonstrationist"
+% HUMAN
+(시위 운동자)
+
+"demonstrative"
+(지시사)
+
+"demonstrativeness"
+% CONCRETE MATERIAL 
+(지시)
+
+"demonstrator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(데모하는 사람) 
+
+"demoralization"
+% MATERIAL 
+(풍속 문란)
+
+"demos"
+% HUMAN
+(민중)
+
+"demotic"
+(현대 그리이스어)
+
+"demotion"
+(좌천)
+
+"demulcent"
+% CONCRETE MATERIAL 
+(진통제)
+
+"demur"
+% CONCRETE MATERIAL 
+(이의)
+# without demur (ADV) : 이의없이
+# no demur (ADV) : 이의없이
+
+"demureness"
+(얌전)
+
+"demurrage"
+% MATERIAL 
+(초과정박)
+
+"demurral"
+% CONCRETE MATERIAL 
+(이의)
+
+"demurrant"
+% HUMAN
+(이의를 말하는 사람)
+
+"demurrer"
+% CONCRETE MATERIAL HUMAN
+(항변자)
+# ^put in a demurrer (VERB) : 이의를 제기하다
+
+"demy"
+(디마이 판)
+
+"demystification"
+% ART
+(계몽)
+
+"demythologization"
+% CONCRETE MATERIAL 
+(비신화화)
+
+"den"
+% CONCRETE MATERIAL PLACE
+(굴)
+
+"denarius"
+(고대 로마의 은화)
+
+"denationalization"
+(독립국 박탈)
+
+"denaturalization"
+(변성)
+
+"denaturant"
+(변성제)
+
+"denazification"
+(비 나찌스화)
+
+"dendrite"
+% CONCRETE MATERIAL 
+(모수석)
+
+"dendrology"
+% ART
+(수목학)
+
+"dendrometer"
+(수목 측정기)
+
+"dene"
+% PLACE
+(골짜기)
+
+"dene"
+% PLACE
+(모래밭)
+
+"denegation"
+(부정)
+
+"dengue"
+% MATERIAL 
+(뎅그열)
+
+"denial"
+% CONCRETE MATERIAL ACTION
+(부정)
+# ^make a denial of A (VERB) : [(OBJ A/을) 부정하<VERB>]/다
+# ^give a denial to A (VERB) : [(OBJ A/을) 부정하<VERB>]/다
+# ^take no denial (VERB) : 싫다는 말을 못하게 하다
+
+"denier"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(데니이르)
+
+"denier"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(거부자)
+
+"denim"
+% CONCRETE MATERIAL 
+(두꺼운 무명천)
+
+"denitration"
+(질산 제거)
+
+"denizen"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(주민)
+
+"denizen-ship"
+(공민권)
+
+"denomination"
+% MATERIAL 
+(명명)
+# money of small denominations (NOUN) : 잔돈
+
+"denominationalism"
+% ART
+(종파심)
+
+"denominative"
+(낱말)
+
+"denominator"
+% CONCRETE MATERIAL
+(명명자)
+# common denominator (NOUN) : 공통 분모
+
+"denotation"
+% CONCRETE MATERIAL 
+(표시)
+
+"denotement"
+(표시)
+
+"denouement"
+(대단원)
+
+"denouncement"
+% CONCRETE MATERIAL ACTION
+(비난)
+
+"denseness"
+% CONCRETE MATERIAL 
+(밀집)
+
+"densimeter"
+% CONCRETE ANIMAL MATERIAL 
+(밀도계)
+
+"density"
+% CONCRETE MATERIAL 
+(밀도)
+
+"dent"
+% CONCRETE MATERIAL ANIMAL
+(이)
+
+"dental"
+(치음)
+# dental cream (NOUN) : 치약
+# dental hygienist (NOUN) : 치과 위생사
+# dental technician (NOUN) : 치과 기공사
+
+"dentation"
+(이 모양의 구조)
+
+"denticare"
+(무료 치아치료)
+
+"denticle"
+% ANIMAL
+(작은 이)
+
+"denticulation"
+(작은 돌기)
+
+"dentifrice"
+% CONCRETE ANIMAL MATERIAL 
+(치약)
+
+"dentil"
+(이 모양의 장식)
+
+"dentilabial"
+(순치음)
+
+"dentin"
+% CONCRETE MATERIAL 
+(상아질)
+
+"dentine"
+% CONCRETE MATERIAL 
+(상아질)
+
+"dentist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(치과의사)
+
+"dentistry"
+% MATERIAL 
+(치과의술)
+
+"dentition"
+(이가 나기)
+
+"denture"
+% CONCRETE ANIMAL MATERIAL 
+(의치)
+
+"denudation"
+% MATERIAL 
+(벌거벗기기)
+
+"denunciation"
+% CONCRETE MATERIAL ACTION
+(탄핵)
+
+"denunciator"
+% HUMAN
+(탄핵자)
+
+"deodar"
+% MATERIAL PLANT
+(히말라야 삼목)
+
+"deodorant"
+% CONCRETE ANIMAL MATERIAL 
+(방취제)
+
+"deodorization"
+(냄새제거)
+
+"deodorizer"
+(냄새 제거제)
+
+"deontologist"
+% HUMAN
+(의무론자)
+
+"deontology"
+% ART
+(의무론)
+
+"deorbit"
+(궤도에서 벗어나기)
+
+"deoxidation"
+(환원)
+
+"deoxidization"
+(산소 제거)
+
+"deoxidizer"
+(탈산제)
+
+"department"
+% MATERIAL ORGAN PLACE
+(부)
+# assembly department (NOUN) : 조립부문
+# English department (NOUN) : 영문과
+# department store (NOUN) : 백화점
+# department of A (NOUN) : [(NMODS A) 과<NOUN>]
+# department home page (NOUN) : 과의 홈 페이지
+# economic forecasting department (NOUN) : 경제 전망부
+
+"departmentalism"
+(분과제)
+
+"departure"
+% MATERIAL 
+(출발)
+# on ONE_S departure (ADV) : 출발에 즈음하여
+# ^take ONE_S departure (VERB) : 출발하다
+
+"depasturage"
+(방목)
+
+"depauperation"
+(빈곤화)
+
+"dependability"
+% CONCRETE MATERIAL 
+(의지할 수 있음)
+
+"dependancy"
+(의존)
+
+"dependant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(의지하고 사는 사람)
+
+"dependence"
+% CONCRETE MATERIAL 
+(의존)
+# dependence on A (NOUN) : [(ADJUNCT A/에의) 의존<NOUN>]
+
+"dependency"
+% CONCRETE MATERIAL 
+(의존)
+
+"dependent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(종속물)
+
+"depersonalization"
+(비인간화)
+
+"depiction"
+% CONCRETE MATERIAL 
+(묘사)
+
+"depilation"
+(탈모)
+
+"depilatory"
+(탈모제)
+
+"depletion"
+% MATERIAL 
+(고갈)
+
+"depletive"
+(방혈 치료)
+
+"deplorability"
+(비통)
+
+"deplorableness"
+(비통)
+
+"deploy"
+(전개)
+
+"deployment"
+% MATERIAL 
+(전개)
+
+"deplumation"
+(깃털 뽑기)
+
+"depolarization"
+(탈분극)
+
+"depollution"
+% ACTION
+(오염 제거)
+
+"deponent"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(선서 증인)
+
+"depopulation"
+(인구 감소)
+
+"depopulator"
+(인구를 감소시키는 것)
+
+"deportation"
+% MATERIAL ACTION
+(국외 추방)
+
+"deportee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(추방당한 사람)
+
+"deportment"
+% CONCRETE MATERIAL 
+(태도)
+
+"deposal"
+% ACTION
+(폐위)
+
+"deposit"
+% CONCRETE MATERIAL 
+(침전물)
+# anonymous time deposit (NOUN) : 무기명 정기적금
+# card deposits (NOUN) : ?왠??
+# checking deposits (NOUN) : 당좌예금
+# current deposit (NOUN) : 당좌 예금
+# deposit account (NOUN) : 저축 예금 계정
+# deposits at notice (NOUN) : 통지예금
+# deposit bank (NOUN) : 예금은행
+# deposit book (NOUN) : 예금통장
+# deposit certificate (NOUN) : 예금증서
+# deposit currency (NOUN) : 예금통화
+# deposit dealer (NOUN) : 유로달라거래자
+# deposit from employee (NOUN) : 종업원예금
+# deposit in trust (NOUN) : 신탁 예금
+# deposit insurance system (NOUN) : 예금보험제도
+# deposit interest rate (NOUN) : 예금이율
+# deposit money (NOUN) : 공탁금
+# deposit passbook (NOUN) : 예금통장
+# deposit rate (NOUN) : 예금금리
+# deposit reserve ratio (NOUN) : 지불준비율
+# derivative deposit (NOUN) : 파생적예금
+# fixed deposit (NOUN) : 정기 예금
+# ^have money on deposit (VERB) : 돈을 맡고 있다
+# ordinary deposit (NOUN) : 보통예금
+# ^place money on deposit (VERB) : 돈을 맡기다
+# savings deposit (NOUN) : 저축성예금
+# special deposit (NOUN) : 별도예금
+# time deposit (NOUN) : 정기예금
+
+"deposit-taking company"
+(예금수취회사)
+
+"deposit-taking institution"
+(예금수취기관)
+
+"depositary"
+% PLACE
+(보관자)
+# depositary bank (NOUN) : 공탁은행
+
+"deposition"
+% CONCRETE MATERIAL 
+(관직 박탈)
+
+"depositor"
+% HUMAN ECOLIFE
+(예금자)
+# automatic depositor (NOUN) : 현금자동예금기
+
+"depository"
+% CONCRETE ANIMAL MATERIAL 
+(공탁소)
+
+"depot"
+% CONCRETE MATERIAL 
+(저장소)
+# custom depot (NOUN) : 관세하치장
+
+"depravation"
+% MATERIAL 
+(악화)
+
+"depravity"
+% CONCRETE MATERIAL 
+(타락)
+
+"deprecation"
+% MATERIAL 
+(반대)
+
+"depreciation"
+% CONCRETE MATERIAL ECOLIFE
+(가치 하락)
+# accelerated depreciation (NOUN) : 가속도 상각
+# allowance for depreciation (NOUN) : 감가상각배당금
+# depreciation expense (NOUN) : 감가상각비
+# depreciation fund (NOUN) : 감가상각기금
+# depreciation of a currency (NOUN) : 통화가치하락
+# depreciation rate (NOUN) : 감가상각율
+# depreciation reserves (NOUN) : 감가상각적립급
+# extraordinary expense (NOUN) : 임시감가상각
+# reserve for depreciation (NOUN) : 감가상각배당금
+
+"depredation"
+% MATERIAL 
+(약탈)
+
+"depredator"
+% HUMAN
+(약탈자)
+
+"depressant"
+% CONCRETE MATERIAL 
+(진정제)
+
+"depression"
+% CONCRETE MATERIAL 
+(억압)
+# atmospheric depression (NOUN) : 저기압
+# barometric depression (NOUN) : 저기압
+# chronic depression (NOUN) : 만성적 불황
+# depression business (NOUN) : 경기부진
+# the Depression (NOUN) : 대공황
+# the Great Depression (NOUN) : 대공황
+
+"depressor"
+% CONCRETE ANIMAL MATERIAL 
+(억압자)
+
+"deprival"
+(박탈)
+
+"deprivation"
+% CONCRETE MATERIAL 
+(박탈)
+
+"deprogrammer"
+% HUMAN
+(세뇌 해제 요법가)
+
+"deprogramming"
+(세뇌 해제 요법)
+
+"depth"
+% CONCRETE MATERIAL 
+(깊이)
+# ^be out_of ONE_S depth (VERB) : 깊어서 건널 수 없다
+# ^be beyond ONE_S depth (VERB) : 깊어서 건널 수 없다
+# depth interview (NOUN) : 심층면접법
+# depths of A (NOUN) :
+* [(AMODS [깊<ADJ>]/한) A]
+* A (ocean 바다)
+# from the depth of the mind (ADV) : 마음속에서부터
+# to the depth of A (ADV) : (ADJUNCT [(POSS A/의) 깊이<NOUN>]/까지)
+
+"depurant"
+(정화제)
+
+"depuration"
+(정화)
+
+"depurator"
+(정화기)
+
+"depurgee"
+% HUMAN
+(추방해제된 사람)
+
+"deputation"
+% MATERIAL 
+(대표)
+
+"deputy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(대리)
+# by deputy (ADV) : 대리로
+
+"deracination"
+(근절)
+
+"derailment"
+(탈선)
+
+"derangement"
+% MATERIAL 
+(교란)
+
+"deregulation"
+(규제 해제)
+
+"dereism"
+(내폐성)
+
+"derelict"
+% CONCRETE ANIMAL MATERIAL 
+(유기물)
+
+"dereliction"
+% CONCRETE MATERIAL 
+(포기)
+
+"derequisition"
+(접수 해제)
+
+"derision"
+% CONCRETE MATERIAL 
+(비웃음)
+# ^be in deride (VERB) : 웃음거리가 되고 있다
+# ^hold A in deride (VERB) : [(OBJ A/을) 비웃<VERB>]/다
+
+"derivation"
+% CONCRETE MATERIAL 
+(유도)
+# derivation of demand (NOUN) : 수요파생
+
+"derivative"
+% MATERIAL 
+(파생물)
+
+"derm"
+% ANIMAL
+(진피)
+
+"derma"
+% CONCRETE MATERIAL ANIMAL
+(진피)
+
+"dermatitis"
+% MATERIAL 
+(피부염)
+
+"dermatologist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(피부병 전문의사)
+
+"dermatology"
+% MATERIAL ART
+(피부병학)
+
+"dermatopathy"
+(피부병)
+
+"dermis"
+% CONCRETE MATERIAL ANIMAL
+(진피)
+
+"derogation"
+% CONCRETE MATERIAL 
+(저하)
+
+"derogatoriness"
+(손상)
+
+"derrick"
+% CONCRETE ANIMAL MATERIAL 
+(데릭)
+
+"derring-do"
+% ACTION
+(대담한 행동)
+
+"derringer"
+% CONCRETE ANIMAL MATERIAL 
+(데린저 권총)
+
+"derris"
+(데리스)
+
+"dervish"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(탁발승)
+
+"desalination"
+(탈염)
+
+"descant"
+(가락)
+
+"descendant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(자손)
+
+"descent"
+% CONCRETE MATERIAL 
+(강하)
+# lineal descent (NOUN) : 직계 비속
+# ^make a descent upon  A (VERB) : [(OBJ A/을) 급습하<VERB>]/다
+# man's descent (NOUN) : 인간의 혈통
+
+"descrier"
+% HUMAN
+(발견자)
+
+"description"
+% CONCRETE MATERIAL 
+(설명)
+# ^be beyond description (VERB) : 형용할 수 없다
+# beyond description (PP->ADV) : 형용할 수 없을 만큼
+
+"desecration"
+% MATERIAL ACTION
+(신성 모독)
+
+"desecrator"
+% HUMAN
+(신성을 모독자)
+
+"desegregation"
+% MATERIAL
+(인종차별폐지)
+
+"desensitizer"
+(감감제)
+
+"desert"
+% MATERIAL PLACE
+(사막)
+# ^get ONE_S deserts (VERB) : 응분의 상을 받다
+# ^meet with ONE_S deserts (VERB) : 응분의 벌을 받다
+
+"deserter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(유기자)
+
+"desertification"
+(사막화)
+
+"desertion"
+% MATERIAL 
+(버리기)
+
+"deserving"
+(당연한 상벌)
+
+"desexualization"
+(무성화)
+
+"deshabille"
+(평상복)
+
+"desiccant"
+(건조제)
+
+"desiccation"
+(건조)
+
+"desiccator"
+(건조자)
+
+"desideration"
+(소망)
+
+"desiderative"
+(희구형)
+
+"desideratum"
+(절실한 것)
+
+"design"
+% CONCRETE MATERIAL 
+(디자인)
+# arts of design (NOUN) : 의장술
+# design for advertisement (NOUN) : 광고의 도안
+# engineering design (NOUN) : 공학 설계
+# ^have designs upon a person (VERB) : 남에게 살의를 품다
+# ^harbor designs upon a person (VERB) : 남에게 살의를 품다
+
+"designation"
+% CONCRETE MATERIAL 
+(지명)
+
+"designator"
+% HUMAN
+(지명자)
+
+"designee"
+% HUMAN
+(지명된 사람)
+
+"designer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(설계자)
+
+"designing"
+% MATERIAL 
+(설계)
+
+"desinence"
+(끝)
+
+"desipience"
+(터무니 없음)
+
+"desirability"
+% CONCRETE MATERIAL 
+(바람직함)
+
+"desirable"
+% HUMAN
+(바람직한 사람)
+
+"desirableness"
+% CONCRETE MATERIAL 
+(바람직함)
+
+"desire"
+% MATERIAL MIND
+(욕망)
+# at ONE_S desire (ADV) : 희망에 따라
+# ^have no desire for A (VERB) : [(SCOMP [(AMODS [(COMP A/에) 대하<VERB>]/한) 마음<NOUN>]/이) 없<VERB>]/다
+# ^have no desire TO_INF  (VERB) : [(SCOMP [(RELCL TO_INF/할) 마음<NOUN>]/이) 
+없<VERB>]/다
+# strong desire (NOUN) : 강력한 희망
+
+"desk"
+% CONCRETE ANIMAL MATERIAL 
+(책상)
+# information desk (NOUN) : 안내석
+
+"deskman"
+% HUMAN
+(내근기자)
+
+"desktop"
+(데스크탑)
+# desktop computer (NOUN) : 데스크탑 컴퓨터
+# desktop PC (NOUN) : 데스크탑 PC
+
+"desman"
+% ANIMAL
+(뾰족뒤쥐)
+
+"desolation"
+% MATERIAL 
+(황폐화)
+
+"desolator"
+(황폐시키는 것)
+
+"desorption"
+% MATERIAL 
+(방출)
+
+"despair"
+% MATERIAL MIND
+(절망)
+# ^abandon ONESELF  to despair (VERB) : 자포자기가 되다
+# ^be in despair (VERB) : 절망하다
+# ^give ONESELF  up to despair (VERB) : 자포자기가 되다
+# in despair (ADV) : 절망하여
+# ^throw A into despair (VERB) : [(OBJ A/을) (ADJUNCT [절망<NOUN>]/으로) 
+몰아 넣<VERB>]/다
+
+"despatch"
+(급파)
+# with dispatch (ADV) : 지급으로
+
+"desperado"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(불량배)
+
+"desperateness"
+(무모함)
+
+"desperation"
+% MATERIAL MIND
+(절망)
+# ^drive A to desperation (VERB) : [(OBJ A/를) (OCOMP [자포자기가 되<VERB>]/게) 하<VERB>]/다
+
+"despicableness"
+% CONCRETE MATERIAL 
+(비열)
+
+"despite"
+(실례)
+# despite of A (ADV) : (ADJUNCT [(OBJ A/을) 무릅쓰<VERB>]/하고)
+# in despite of A (ADV) : (ADJUNCT [(OBJ A/을) 무릅쓰<VERB>]/하고)
+# in despite (ADV) : 무시하여
+# in ONE_S own despite (ADV) : 본의는 아니지만
+
+"despoilment"
+% MATERIAL ACTION
+(약탈)
+
+"despoliation"
+% MATERIAL 
+(약탈)
+
+"despond"
+% MIND
+(낙담)
+
+"despondence"
+% MATERIAL MIND
+(낙담)
+
+"despondency"
+% MATERIAL MIND
+(낙담)
+
+"despot"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(폭군)
+
+"despotism"
+% MATERIAL ORGAN
+(전제 정치)
+
+"despotismist"
+% HUMAN
+(전제주의자)
+
+"desquamation"
+(표피탈락)
+
+"dessert"
+% CONCRETE MATERIAL FOOD
+(디저어트)
+# dessert fork (NOUN) : 디저어트용 포오크
+# dessert knife (NOUN) : 디저어트용 나이프
+# dessert wine (NOUN) : 디저어트용 달콤한 포도주
+
+"dessertspoon"
+(디저트용 스푼)
+
+"destabilization"
+(불안정화)
+
+"destination"
+% CONCRETE MATERIAL 
+(목적지)
+# final destination (NOUN) : 최종목적지
+# port of destination (NOUN) : 목적항
+
+"destiny"
+% MATERIAL 
+(운명)
+# the man of destiny (NOUN) : 운명을 지배하는 사람
+
+"destitution"
+% MATERIAL 
+(결핍)
+
+"destrier"
+(군마)
+
+"destroyer"
+% CONCRETE ANIMAL MATERIAL 
+(파괴자)
+# destroyer submarine helicopter (NOUN) : 대 잠수함 무인 헬리콥터
+
+"destructibility"
+(파괴력)
+
+"destruction"
+% MATERIAL ACTION
+(파괴)
+
+"destructionist"
+% HUMAN
+(파괴 주의자)
+
+"destructiveness"
+% CONCRETE MATERIAL 
+(파괴적임)
+
+"destructor"
+(폐물 소각로)
+
+"desuetude"
+% ACTION
+(폐지)
+# ^fall into desuetude (VERB) : 폐지되다
+# ^pass into desuetude (VERB) : 폐지되다
+
+"desultoriness"
+(산만)
+
+"detachment"
+% MATERIAL ACTION
+(분리)
+
+"detail"
+% CONCRETE MATERIAL 
+(세부사항)
+# a matter of detail (NOUN) : 하찮은 일
+# ^beat in detail (VERB) : 각개 격파하다
+# full detail (NOUN) : 완전세목
+# ^give a full detail of A (VERB) : [(OBJ A/을) (MODS [상세히<ADV>]) 설명하<VERB>]/다 
+# ^go into details (VERB) : 상술하다
+# ^enter into details (VERB) : 상술하다
+# in detail (ADV) : 상세히
+# in some detail (ADV) : 상세하게
+"detainee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(억류자)
+
+"detainer"
+(불법유치)
+
+"detection"
+% CONCRETE MATERIAL 
+(탐지)
+
+"detective"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(탐정)
+
+"detector"
+% CONCRETE ANIMAL MATERIAL 
+(탐지기)
+
+"detent"
+% CONCRETE ANIMAL MATERIAL 
+(멈춤쇠)
+
+"detente"
+(긴장완화)
+
+"detention"
+% MATERIAL ACTION
+(억류)
+# detection camp (NOUN) : 임시 수용소
+# detection barracks (NOUN) : 임시 수용소
+# detection hospital (NOUN) : 격리병원
+# home detention (NOUN) : 가택 구류
+# house of detection (NOUN) : 유치장
+# under detection (NOUN) : 구금중
+
+"detergence"
+(세척성)
+
+"detergency"
+(세척성)
+
+"detergent"
+% CONCRETE MATERIAL 
+(청정제)
+
+"deterioration"
+% CONCRETE MATERIAL 
+(악화)
+
+"determent"
+% CONCRETE MATERIAL 
+(제지)
+
+"determinant"
+% CONCRETE MATERIAL 
+(결정하는 사람)
+
+"determinateness"
+% CONCRETE MATERIAL 
+(한정)
+
+"determination"
+% CONCRETE MATERIAL 
+(결정)
+
+"determinative"
+(결정 요인)
+
+"determinedness"
+(단호)
+
+"determiner"
+% CONCRETE MATERIAL 
+(한정사)
+
+"determinism"
+% ART
+(결정론)
+
+"determinist"
+% HUMAN
+(결정론자)
+
+"deterrence"
+% CONCRETE MATERIAL 
+(제지)
+
+"deterrent"
+% CONCRETE MATERIAL 
+(방해물)
+# deterrent effect (NOUN) : 방지 효과
+# nuclear deterrent (NOUN) : 핵보복력
+
+"detersive"
+(청정제)
+
+"detestableness"
+(몹시 싫어함)
+
+"detestation"
+% MATERIAL 
+(증오)
+# ^be in detestation (VERB) : 미움받고 있다
+# ^have in detestation (VERB) : 몹시 싫어하다
+# ^hold in detestation (VERB) : 몹시 싫어하다
+
+"detester"
+% HUMAN
+(몹시 싫어하는 사람)
+
+"dethronement"
+(폐위)
+
+"detinue"
+(불법 점유)
+
+"detonation"
+% MATERIAL 
+(폭발)
+
+"detonator"
+% CONCRETE ANIMAL MATERIAL 
+(뇌관)
+
+"detour"
+% CONCRETE MATERIAL 
+(우회)
+# ^make a detour (VERB) : 돌아가다
+
+"detoxication"
+(해독)
+
+"detraction"
+% CONCRETE MATERIAL 
+(욕)
+
+"detractor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(비방하는 사람)
+
+"detriment"
+% MATERIAL 
+(상해)
+# to the detriment of A (ADV) : (ADVCL [(ADJUNCT A/에) (SCOMP [해<NOUN>]/가) 
+되<VERB>]/하게)
+# without detriment to A (ADV) : (ADJUNCT [(ADJUNCT A/에) 손해<NOUN>]/없이)
+
+"detrimental"
+% HUMAN
+(이롭지 못한 사람)
+
+"detrition"
+% MATERIAL 
+(마멸)
+
+"detritus"
+(바위 부스러기)
+
+"deuce"
+% CONCRETE MATERIAL 
+(듀우스)
+# ^go to the deuce (VERB) : 파멸하다
+# like the deuce (ADV) : 기를 쓰고
+# ^play the deuce with A (VERB) : [(OBJ A/을) 망쳐버리<VERB>]/다
+# ^deuce a bit (VERB) : 조금도 않다
+# the deuce and all (ADV) : 이것 저것 모두
+
+"deuce-ace"
+% CONCRETE MATERIAL 
+(2 점과 1 점)
+
+"deuteragonist"
+(주역 다음 가는 역)
+
+"deuterium"
+(중수소)
+# deuterium oxide (NOUN) : 중수
+
+"deuterogamy"
+% ACTION
+(재혼)
+
+"deuteron"
+(중앙자)
+
+"deuteronomist"
+% HUMAN
+(신명기의 작자)
+
+"deuteronomy"
+% ART
+(신명기)
+
+"deutschemark"
+% ECOLIFE
+(독일 마르크)
+
+"deutzia"
+(말발도리)
+
+"deva"
+(제파)
+
+"devaluation"
+% MATERIAL ECOLIFE
+(평가절하)
+# currency devaluation (NOUN) : 통화 평가절하
+
+"devanagari"
+(데바나가리 문자)
+
+"devastation"
+% MATERIAL 
+(황폐화)
+
+"devastator"
+% HUMAN
+(약탈자)
+
+"developer"
+% CONCRETE ANIMAL MATERIAL 
+(개발자)
+
+"development"
+% ART ACTION STATE ECOLIFE 
+(개발)
+# ^bring under development (VERB) : 개간하다
+# development aid (NOUN) : 개발원조
+# development finance (NOUN) : 개발금융
+# development of electric power resources (NOUN) : 전원개발
+# development of raw materials (NOUN) : 원료의 개발
+# development program (NOUN) : 개발계획
+# development project (NOUN) : 개발계획
+# development reactor (NOUN) : 개발용 원자로
+# development theory (NOUN) : 진화론
+# development hypothesis (NOUN) : 진화론
+# economic development (NOUN) : 경제발전
+# national development (NOUN) : 국가발전
+
+"deviate"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(이탈자)
+
+"deviation"
+% MATERIAL 
+(탈선)
+
+"deviationist"
+% HUMAN
+(주류 이탈자)
+
+"deviator"
+% HUMAN
+(이탈자)
+
+"device"
+% CONCRETE MATERIAL 
+(장치)
+# ^leave a person to his own devices (VERB) : 제멋대로 하게 하다
+# safety device (NOUN) : 안전 장치
+
+"devil"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(악마)
+# ^be between the devil and the deep (VERB->ADJ) : 진퇴 양난에 빠져 있다
+# ^be between the devil and the deep sea (VERB->ADJ) : 진퇴 양난에 빠져 있다
+# ^be between the devil and the blue sea (VERB->ADJ) : 진퇴 양난에 빠져 있다
+# ^be the devil (VERB) : 야단이다
+# ^be the devil of it (VERB) : 야단이다
+# devil's bones (NOUN) : 주사위
+# devil's books (NOUN) : 트럼프 패
+# devil's picture books (NOUN) : 트럼프 패
+# devil's brat (NOUN) : 악동
+# devil's darning needle (NOUN) : 잠자리
+# ^go to the devil (VERB) : 망하다
+# ^have the devil's luck (VERB) : 한때 번영하다
+# ^have the devil's own luck (VERB) : 한때 번영하다
+# ^paint the devil blacker than he is (VERB) : 한술 더 떠서 나쁘게 말하다
+# ^play the devil with A (VERB) : [(OBJ A/를) (ADJUNCT [엉망<NOUN>]/으로) 만들<VERB>]/다
+# ^raise the devil (VERB) : 대소동을 일으키다
+# ^say the devil's parternoster (VERB) : 투덜거리다
+# the devil and all (NOUN) : 모든 나쁜 일
+
+"devil-dodger"
+% HUMAN
+(설교사)
+
+"devildom"
+% ORGAN PLACE
+(악마의 나라)
+
+"devilfish"
+% CONCRETE ANIMAL MATERIAL 
+(큰 가오리)
+
+"devilism"
+(마성)
+
+"devilkin"
+(작은 악마)
+
+"devilment"
+(악마의 소행)
+
+"devilry"
+% MATERIAL 
+(악마의 짓)
+
+"deviltry"
+% MATERIAL 
+(악마의 짓)
+
+"deviousness"
+(그릇된 길)
+
+"devisal"
+% MATERIAL 
+(궁리)
+
+"devise"
+% CONCRETE MATERIAL 
+(유증)
+
+"devisee"
+% HUMAN
+(수증자)
+
+"deviser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(고안자)
+
+"devisor"
+(유증자)
+% HUMAN
+
+"devitalization"
+(활력 상실)
+
+"devoir"
+% CONCRETE MATERIAL 
+(본분)
+
+"devolution"
+% MATERIAL 
+(상전)
+
+"devotee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(신봉자)
+
+"devotion"
+% CONCRETE MATERIAL 
+(헌신)
+
+"devotionalism"
+% ART
+(경건주의)
+
+"devotionalist"
+% HUMAN
+(경건주의자)
+
+"devoutness"
+% CONCRETE MATERIAL 
+(깊은 믿음)
+
+"dew"
+% MATERIAL 
+(이슬)
+# dew lit eyes (NOUN) : 눈물에 젖은 눈
+
+"dewan"
+% HUMAN
+(주 재무장관)
+
+"dewberry"
+% CONCRETE MATERIAL PLANT
+(나무딸기)
+
+"dewclaw"
+% ANIMAL
+(발가락)
+
+"dewdrop"
+% MATERIAL 
+(이슬)
+
+"dewfall"
+(이슬 맺이)
+
+"dewiness"
+(이슬이 내린 상태)
+
+"dewlap"
+(목에 늘어진 군살)
+
+"dexterity"
+% MATERIAL 
+(솜씨좋음)
+
+"dexterousness"
+(솜씨좋음)
+
+"dextran"
+(데스트란)
+
+"dextrin"
+(덱스트린)
+
+"dextrine"
+(덱스트린)
+
+"dextrose"
+% CONCRETE MATERIAL 
+(포도당)
+
+"dey"
+% HUMAN
+(알제리아 태수)
+
+"dharma"
+(덕)
+
+"dhole"
+% CONCRETE ANIMAL MATERIAL 
+(사나운 들개)
+
+"dhooti"
+(허리에 두르는 천)
+
+"dhoti"
+(허리에 두르는 천)
+
+"dhow"
+(삼각돛의 연안 무역선)
+
+"di"
+(디)
+
+"diabase"
+(휘록암)
+
+"diabetes"
+% MATERIAL 
+(당뇨병)
+# diabetes insipidus (NOUN) : 요붕증
+# diabetes mellitus (NOUN) : 당뇨병
+
+"diabetic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(당뇨병 환자)
+
+"diablerie"
+(마력)
+
+"diabolism"
+% MATERIAL ART
+(마술)
+
+"diabolist"
+% HUMAN
+(악마주의자)
+
+"diabolo"
+(다이애벌로)
+
+"diachylon"
+(단연 경고)
+
+"diachylum"
+(단연 경고)
+
+"diaconate"
+% HUMAN
+(부제의 직위)
+
+"diacoustics"
+% ART
+(굴절음향론)
+
+"diacritic"
+% CONCRETE MATERIAL 
+(구별 부호)
+
+"diadem"
+% CONCRETE MATERIAL 
+(왕관)
+# diadem spider (NOUN) : 무당거미
+
+"diaeresis"
+(분절)
+
+"diagnosis"
+% MATERIAL ACTION
+(진단)
+
+"diagnostic"
+% ACTION
+(진단)
+
+"diagnostician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(진찰 전문 의사)
+
+"diagonal"
+% CONCRETE MATERIAL 
+(대각선)
+
+"diagram"
+% CONCRETE MATERIAL 
+(도형)
+
+"diagraph"
+(분도척)
+
+"dial"
+% CONCRETE MATERIAL 
+(다이얼)
+# dial telephone (NOUN) : 자동 전화기
+# dial tone (NOUN) : 발신음
+
+"dial-a-bus"
+(전화 호출 버스)
+
+"dial-a-ride"
+(전화 호출 버스)
+
+"dialect"
+% CONCRETE MATERIAL 
+(방언)
+
+"dialectic"
+(논리)
+
+"dialectician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(변증가)
+
+"dialectology"
+% ART
+(방언학)
+
+"dialing"
+(다이얼 제작)
+
+"dialog"
+% CONCRETE MATERIAL ACTION
+(대화)
+
+"dialogist"
+% HUMAN
+(대화자)
+
+"dialogue"
+% CONCRETE MATERIAL ACTION
+(대화)
+
+"dialysis"
+% MATERIAL ACTION
+(분리)
+
+"dialyzer"
+(투석기)
+
+"diamagnetic"
+(반자성체)
+
+"diamagnetism"
+% MATERIAL 
+(반자성)
+
+"diameter"
+% CONCRETE MATERIAL 
+(직경)
+
+"diamond"
+% CONCRETE MATERIAL 
+(다이아몬드)
+# black diamonds (NOUN) : 흑다이아
+# diamond in the rough (NOUN) : 천연 그대로의 금강석
+# rough diamond (NOUN) : 천연 그대로의 금강석
+# diamond of the first water (NOUN) : 최고급의 다이아몬드
+# the Diamond state (NOUN) : 미국 델라웨어주
+
+"diamondback"
+% CONCRETE ANIMAL MATERIAL 
+(마름모 꼴의 무늬가 있는 등)
+
+"diamondcutter"
+% HUMAN
+(다이아몬드 연마공)
+
+"dianetics"
+% ART
+(심리요법)
+
+"diapason"
+% CONCRETE ANIMAL MATERIAL 
+(화음)
+
+"diaper"
+% CONCRETE ANIMAL MATERIAL 
+(마름모꼴 무늬가 있는 천)
+
+"diaphoresis"
+% CONCRETE MATERIAL ACTION
+(발한)
+
+"diaphoretic"
+% CONCRETE MATERIAL 
+(발한제)
+
+"diaphragm"
+% CONCRETE MATERIAL ANIMAL
+(횡격막)
+
+"diarchy"
+% ORGAN
+(양두정치)
+
+"diarist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(일기 작가)
+
+"diarrhea"
+% MATERIAL 
+(설사)
+
+"diarrhoea"
+(설사)
+
+"diary"
+% CONCRETE MATERIAL 
+(일기)
+# diary cattle (NOUN) : 모유
+
+"diaspora"
+(유대인의 분산)
+
+"diastase"
+(디아스타아제)
+
+"diastole"
+% MATERIAL 
+(심장 확장)
+
+"diatessaron"
+(공관 복음서)
+
+"diathermacy"
+(투열성)
+
+"diathermancy"
+(투열성)
+
+"diathermy"
+(투열 요법)
+
+"diathesis"
+% MATERIAL 
+(병적 소질)
+
+"diatom"
+% CONCRETE ANIMAL MATERIAL PLANT
+(규조식물)
+
+"diatribe"
+% CONCRETE MATERIAL ACTION
+(욕설)
+
+"diazepam"
+(다이아제팜)
+
+"diazine"
+(다이아진)
+
+"dib"
+(표적용 작은 백구)
+
+"dibber"
+(작은 삽)
+
+"dibble"
+(작은 삽)
+
+"dibs"
+(돈)
+
+"dice"
+% CONCRETE ANIMAL MATERIAL 
+(주사위)
+# one of the dice (NOUN) : 주사위 하나
+# ^play at dice (VERB) : 주사위를 던지다
+
+"dicebox"
+(주사위 통)
+
+"diceplay"
+% ACTION
+(주사위 놀이)
+
+"dicer"
+% HUMAN
+(주사위 놀이꾼)
+
+"dichlorid"
+(이염화물)
+
+"dichloride"
+(이염화물)
+
+"dichotomy"
+(이분법)
+
+"dichroism"
+(이색성)
+
+"dichromate"
+(중크롬산염)
+
+"dicing"
+% ACTION
+(주사위 놀이)
+
+"dick"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(형사)
+# ^take ONE_S dick (VERB) : 맹세하다
+
+"dickens"
+(제기랄)
+# The dickens (NOUN) : 이런
+
+"dicker"
+% ECOLIFE
+(물물교환)
+
+"dickey"
+% CONCRETE ANIMAL MATERIAL 
+(와이셔츠의 가슴)
+
+"dicky"
+% CONCRETE ANIMAL MATERIAL 
+(와이셔츠의 가슴)
+
+"dicotyledon"
+% CONCRETE ANIMAL MATERIAL PLANT
+(쌍자엽 식물)
+
+"dicoumarin"
+(다이쿠머린)
+
+"dicta"
+(단정)
+
+"dictagraph"
+(실내용 고성 전화기)
+
+"dictaphone"
+(구술녹음기)
+
+"dictate"
+% CONCRETE MATERIAL ACTION
+(명령)
+
+"dictation"
+% CONCRETE MATERIAL ACTION
+(구술)
+# at the dictation of A (ADV) : (ADJUNCT [(COMP [(POSS A/의) 지시<NOUN>]/에) 따르<VERB>]/어)
+
+"dictator"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(지령자)
+
+"dictatorialness"
+% ORGAN
+(독재)
+
+"dictatorship"
+% MATERIAL ORGAN
+(독재)
+# dictatorship of the proletariat (NOUN) : 프롤레타리아 독재
+# military dictatorship (NOUN) : 군사독재
+
+"diction"
+% CONCRETE MATERIAL 
+(어법)
+
+"dictionary"
+% CONCRETE MATERIAL 
+(사전)
+# dictionary English (NOUN) : 딱딱한 영어
+# walking dictionary (NOUN) : 살아있는 사전
+# living dictionary (NOUN) : 살아있는 사전
+
+"dictograph"
+(실내용 고성 전화기)
+
+"dictophone"
+(구술녹음기)
+
+"dictum"
+% CONCRETE MATERIAL 
+(단정)
+
+"dicumarol"
+(다이쿠머린)
+
+"didacticism"
+% ART
+(계몽주의)
+
+"didactics"
+% ART
+(교수법)
+
+"didapper"
+% ANIMAL
+(농병아리)
+
+"didie"
+(마름모꼴 무늬가 있는 천)
+
+"dido"
+(익살)
+
+"didy"
+(마름모꼴 무늬가 있는 천)
+
+"didymium"
+(디디뮴)
+
+"die"
+% CONCRETE MATERIAL 
+(주사위)
+# as stright as a die (ADJ) : 똑바르다
+# as true as a die (ADJ) : 똑바르다
+# as level as a die (ADJ) : 똑바르다
+
+"die-away"
+(차차 멀어지기)
+
+"die-hard"
+% HUMAN
+(완강한 고수파)
+
+"die-in"
+% ACTION
+(결사 항의 데모)
+
+"die-off"
+(멸종)
+
+"dielectric"
+% CONCRETE MATERIAL 
+(절연체)
+
+"dieresis"
+(분절)
+
+"diesel"
+% CONCRETE ANIMAL MATERIAL 
+(디이젤 엔진)
+# Diesel engine (NOUN) : 디이젤 엔진
+# Diesel moter (NOUN) : 디이젤 엔진
+# Diesel oil (NOUN) : 디이젤유
+# Diesel fuel (NOUN) : 디이젤유
+
+"diesinker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(극인 조각사)
+
+"diet"
+% CONCRETE MATERIAL 
+(식이요법)
+# ^be on a diet (VERB) : 규정식사를 하고 있다
+
+"dietarian"
+% HUMAN
+(규정식을 하는 사람)
+
+"dietary"
+(규정식)
+
+"dieter"
+% HUMAN
+(규정식을 하는 사람)
+
+"dietetics"
+(식이요법)
+
+"dietician"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(영양학자)
+
+"dietist"
+% HUMAN
+(영양학자)
+
+"dietitian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(영양학자)
+
+"difference"
+% CONCRETE MATERIAL 
+(차이)
+# distinction without a difference (NOUN) : 쓸데없는 구별
+# ^do not make any difference (VERB) : 상관이 없다
+# ^make a difference (VERB) : 상이점이 생기다 {+HAVESLOT}
+# ^make no difference (VERB) : 상이점이 없다 {+HAVESLOT}
+# ^meet the difference (VERB) : 차액을 보상하다 {+HAVESLOT}
+# ^pay the difference (VERB) : 차액을 지불하다 {+HAVESLOT}
+# ^settle differences (VERB) : 분쟁을 해결하다 {+HAVESLOT}
+# ^split the difference (VERB) : 차액의 중간을 취하다 {+HAVESLOT}
+
+"differentia"
+% CONCRETE MATERIAL 
+(본질적 차이)
+
+"differential"
+% CONCRETE MATERIAL 
+(차액)
+
+"differentiation"
+% MATERIAL ACTION
+(차별)
+# differentiation of function (NOUN) : 직능분리
+
+"difficulty"
+% CONCRETE MATERIAL 
+(어려움)
+# ^be in difficulties for money (VERB) : 돈에 쪼들리다
+# ^find difficulty in understanding (VERB) : 이해하기 어려움을 알다
+# ^have difficulty in A (VERB) : [(ADJUNCT A/에) (OBJ [어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have some difficulty in A (VERB) : [(ADJUNCT A/에) 
+(OBJ [(AMODS [상당<ADJ>]/한) 어려움<NOUN>]/을) 겪<VERB>]/다 
+# ^have much difficulty in A (VERB) : [(ADJUNCT A/에) (MODS [매우<ADV>]) 
+(OBJ [어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have difficulty PRESP (VERB) : [(ADJUNCT [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) 있<ADJ>]/어서) (OBJ [어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have some difficulty PRESP (VERB) : [(ADJUNCT [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) 있<ADJ>]/어서) (OBJ [(AMODS [상당하<ADJ>]/한) 어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have much difficulty PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) (MODS [매우<ADV>]) (OBJ [어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have difficulty in PRESP (VERB) : (ADJUNCT [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) 있<ADJ>]/어서) 
+(OBJ [어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have some difficulty in PRESP (VERB) : [(ADJUNCT [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) 있<ADJ>]/어서) (OBJ [(AMODS [상당하<ADJ>]/한) 어려움<NOUN>]/을) 겪<VERB>]/다
+# ^have much difficulty in PRESP (VERB) : [(ADJUNCT [(COMPCL PRESP/하는) 데<NOUN>]) (MODS [매우<ADV>]) (OBJ [어려움<NOUN>]/을) 겪<VERB>]/다
+# ^put difficulties in ONE_S way (VERB) : 남에게 훼방을 놓다
+
+"diffidence"
+% CONCRETE MATERIAL 
+(자신이 없음)
+# with nervous diffidence (ADV) : 머뭇거리며
+# with seeming diffidence (ADV) : 새침부리며
+
+"diffluence"
+(흐름)
+
+"diffraction"
+% MATERIAL 
+(회절)
+
+"diffusate"
+(확산체)
+
+"diffuseness"
+(확산)
+
+"diffuser"
+% CONCRETE MATERIAL HUMAN
+(산광기)
+
+"diffusibility"
+(확산력)
+
+"diffusion"
+% CONCRETE MATERIAL 
+(확산)
+
+"diffusiveness"
+(확산)
+
+"diffusor"
+% CONCRETE MATERIAL HUMAN
+(퍼뜨리는 사람)
+
+"dig"
+% CONCRETE MATERIAL 
+(파내기)
+# ^have a dig at A (VERB) : [(OBJ A/을) (MODS [신랄하게<ADV>]) 비판하<VERB>]/다
+
+"digamist"
+% HUMAN
+(재혼자)
+
+"digamma"
+(그리이스 문자의)
+
+"digamy"
+% ACTION
+(재혼)
+
+"digenesis"
+% MATERIAL 
+(세대교번)
+
+"digest"
+% CONCRETE MATERIAL 
+(적요)
+
+"digester"
+% CONCRETE ANIMAL MATERIAL 
+(소화제)
+
+"digestibility"
+% CONCRETE MATERIAL 
+(소화성)
+
+"digestion"
+% MATERIAL 
+(소화)
+
+"digestive"
+(소화제)
+
+"digger"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(파는 사람)
+
+"digging"
+% MATERIAL 
+(파기)
+
+"digit"
+% CONCRETE MATERIAL 
+(숫자)
+# single digit (NOUN) : 한자리 숫자
+
+"digital"
+(디지탈)
+# digital ^clock (NOUN) : 계수형 전자 시계
+# digital ^watch (NOUN) : 계수형 전자 시계
+# digital ^computer (NOUN) : 계수형 계산기
+
+"digitalis"
+% CONCRETE MATERIAL 
+(디기탈리스)
+
+"digitigrade"
+% ANIMAL
+(지행성 동물)
+
+"diglot"
+(2 개 국어로 된 책)
+
+"dignitary"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(고관)
+
+"dignity"
+% CONCRETE MATERIAL 
+(품위)
+# ^be beneath ONE_S dignity (VERB) : 체면에 관계되다
+# ^stand upon ONE_S dignity (VERB) : 젠 체하다
+# ^be upon ONE_S dignity (VERB) : 젠체하다
+# the dignity of labor (NOUN) : 노동의 존엄성
+# the dignity of the Benth (NOUN) : 법관의 존엄성
+# with dignity (ADV) : 엄연히
+
+"digraph"
+(2자 1음의 연속글자)
+
+"digression"
+% CONCRETE MATERIAL 
+(탈선)
+
+"digs"
+% CONCRETE ANIMAL MATERIAL 
+(하숙)
+
+"dihydrostreptomycin"
+(디히드로스트렙토마이신)
+
+"dik-dik"
+% ANIMAL
+(작은 영양)
+
+"dike"
+% CONCRETE ANIMAL MATERIAL PLACE
+(도랑)
+
+"diktat"
+% ACTION
+(강제적 명령)
+
+"dilantin"
+(다일란틴)
+
+"dilapidation"
+% MATERIAL 
+(황폐)
+
+"dilatability"
+(팽창성)
+
+"dilatation"
+% MATERIAL 
+(팽창)
+
+"dilation"
+% MATERIAL 
+(팽창)
+
+"dilatometer"
+(팽창계)
+
+"dilator"
+(확장기)
+
+"dilatoriness"
+% CONCRETE MATERIAL 
+(지연)
+
+"dildo"
+% CONCRETE ANIMAL MATERIAL 
+(모조 남근)
+
+"dilemma"
+% MATERIAL 
+(딜레마)
+# ^be on the horns of a dilemma (VERB) : 딜레마에 빠지다
+
+"dilettante"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(문학 예술의 애호가)
+
+"dilettanteism"
+% ART
+(아마추어 예술)
+
+"dilettantism"
+% ART
+(아마추어 예술)
+
+"diligence"
+% CONCRETE MATERIAL 
+(부지런함)
+# ^study with diligence (VERB) : 부지런히 공부하다
+
+"dill"
+% CONCRETE MATERIAL 
+(나도고수)
+
+"dilly"
+% PLANT
+(적철과의 작은 나무)
+
+"diluent"
+(희석액)
+
+"dilutee"
+% HUMAN
+(희석공)
+
+"dilution"
+% MATERIAL 
+(희석)
+
+"diluvium"
+(홍적층)
+
+"dim-out"
+(어둑하게 함)
+
+"dime"
+% MATERIAL 
+(다임)
+# dime store (NOUN) : 센트 균일 상점
+# ^not care a dime (VERB) : 조금도 개의치 않다
+
+"dimension"
+% CONCRETE MATERIAL 
+(차수)
+# of great dimensions (ADJ) : 굉장히 크다
+# the fourth dimension of space (NOUN) : 제 4 차원의 공간
+
+"dimeter"
+(이보격)
+
+"diminuendo"
+% CONCRETE MATERIAL 
+(점점 약해지게)
+
+"diminution"
+% CONCRETE MATERIAL 
+(감소)
+
+"diminutival"
+(지소형 어미)
+
+"diminutive"
+(지소어)
+
+"dimity"
+(두둑진 줄무늬가 있는 무명)
+
+"dimmer"
+% CONCRETE ANIMAL MATERIAL 
+(어둠침침하게 하는 사람)
+
+"dimness"
+% CONCRETE MATERIAL 
+(어둠침침함)
+
+"dimorphism"
+(동종이형)
+
+"dimple"
+% ANIMAL
+(보조개)
+
+"dimwit"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(멍청이)
+
+"din"
+% MATERIAL 
+(소음)
+
+"dinar"
+% CONCRETE UNIT MATERIAL 
+(디나아르)
+
+"diner"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(식사하는 사람)
+
+"diner-out"
+% HUMAN
+(외식하는 사람)
+
+"dinette"
+% PLACE
+(작은 식당)
+
+"dineutron"
+(중중성자)
+
+"ding"
+(종소리)
+
+"ding-a-ling"
+% HUMAN
+(미치광이)
+
+"dingbat"
+(던지기 쉬운 것)
+
+"dingdong"
+(땡 땡)
+# ^go at it dingdong (VERB) : 열심히 일하다
+# ^be at it dingdong (VERB) : 열심히 일하다
+# ^hammer away at it dingdong (VERB) : 열심히 일하다
+
+"dingey"
+(작은 배)
+
+"dinghy"
+% CONCRETE ANIMAL MATERIAL 
+(작은 배)
+
+"dingle"
+% PLACE
+(작고 깊은 골짜기)
+
+"dingo"
+% CONCRETE ANIMAL MATERIAL 
+(호주산의 들개)
+
+"dingus"
+(장치)
+
+"dingy"
+(작은 배)
+
+"dining"
+% MATERIAL ACTION
+(식사)
+
+"dinitrobenzene"
+(디니트로벤젠)
+
+"dink"
+(딩크)
+
+"dinkey"
+(작은 것)
+
+"dinkum"
+% ACTION
+(노동)
+
+"dinner"
+% CONCRETE MATERIAL FOOD
+(저녁식사)
+# House-Senate dinner (NOUN) : 상하원 만찬
+# at dinner (ADV) : 식사중
+# before dinner (ADV) : 식사전
+# after dinner (ADV) : 식사후
+# early dinner (NOUN) : 오찬
+# late dinner (NOUN) : 만찬
+# ^give a dinner for A (VERB) : [(ADJUNCT [(OBJ A/을) 주빈<NOUN>]/으로) (OBJ [만찬회<NOUN>]/를) 열<VERB>]/다
+# ^give a dinner in honor of A (VERB) : [(ADJUNCT [(OBJ A/을) 주빈<NOUN>]/으로) (OBJ [만찬회<NOUN>]/를) 열<VERB>]/다
+# ^have dinner (VERB) : 식사하다
+# ^make a good dinner (VERB) : 흡족한 식사를 하다
+# ^make a poor dinner (VERB) : 부족한 식사를 하다
+
+"dinnerware"
+(식기)
+
+"dinoceras"
+% CONCRETE ANIMAL MATERIAL 
+(공각수)
+
+"dinosaur"
+% CONCRETE ANIMAL MATERIAL 
+(공룡)
+
+"dinosaurian"
+% ANIMAL
+(공룡)
+
+"dint"
+(힘)
+# by dint of A (ADV) : (ADJUNCT [(POSS A/의) 힘<NOUN>]/으로)
+
+"diocesan"
+% HUMAN
+(교구 주교)
+
+"diocese"
+% MATERIAL ORGAN
+(주교 관구)
+
+"diode"
+% CONCRETE ANIMAL MATERIAL 
+(다이오우드)
+
+"dioecism"
+(자웅이주)
+
+"diopside"
+(투휘석)
+
+"diopter"
+(디옵터)
+
+"dioptre"
+(디옵터)
+
+"dioptrics"
+% ART
+(굴절 광학)
+
+"diorama"
+% CONCRETE MATERIAL 
+(디오라마)
+
+"diorite"
+(섬록암)
+
+"dioxide"
+(이산화물)
+# carbon dioxide (NOUN) : 이산화탄소
+
+"dip"
+% CONCRETE MATERIAL ACTION
+(순간적인 하락)
+# dip in price (NOUN) : 가격하락
+
+"diphtheria"
+% MATERIAL 
+(디프테리아)
+
+"diphthong"
+(이중모음)
+
+"diphthongization"
+(이중모음화)
+
+"diplococcus"
+% CONCRETE ANIMAL MATERIAL 
+(쌍구균)
+
+"diploid"
+(배수 염색체)
+
+"diploma"
+% CONCRETE MATERIAL 
+(증서)
+# ^get ONE_S diploma (VERB) : 대학을 졸업하다
+
+"diplomacy"
+% CONCRETE MATERIAL ACTION
+(외교)
+# summit diplomacy (NOUN) : 정상외교
+# diplomacy by invitation (NOUN) : 초청외교
+
+"diplomat"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(외교관)
+
+"diplomate"
+% HUMAN
+(전문의사)
+
+"diplomatese"
+(외교용어)
+
+"diplomatics"
+% ART
+(고문서학)
+
+"diplomatist"
+% HUMAN
+(외교관)
+
+"diplon"
+(이중핵)
+
+"dipole"
+% CONCRETE ANIMAL MATERIAL 
+(이중극)
+
+"dipper"
+% CONCRETE ANIMAL MATERIAL 
+(국자)
+
+"dipsomania"
+(발작성 대주증)
+
+"dipsomaniac"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(음주광)
+
+"dipstick"
+% CONCRETE ANIMAL MATERIAL 
+(계심봉)
+
+"dipsy-doodle"
+(변화구)
+
+"dipsydo"
+(변화구)
+
+"diptera"
+(쌍시류)
+
+"dipteros"
+(이중열주당)
+
+"diptych"
+(둘로 접는 물건)
+
+"direction"
+% CONCRETE MATERIAL 
+(방향)
+# angle of direction (NOUN) : 방위각
+ 아래<NOUN>])
+# directions for use (NOUN) : 사용법
+# NUM1 o'clock direction (NOUN) : [(NMODS [(NMODS NUM1) 시<NOUN>]) 방향<NOUN>]
+
+"directive"
+% CONCRETE MATERIAL 
+(지령)
+
+"directness"
+% CONCRETE MATERIAL 
+(똑바름)
+
+"directoire"
+% ORGAN
+(집정내각)
+
+"director"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(책임자)
+# director of marketing (NOUN) : 마케팅 부장
+# film director (NOUN) : 영화감독
+# medical director (NOUN) : 의료 이사
+# nonexecutive director (NOUN) : 비상임 이사
+# the board of directors (NOUN) : 중역회
+
+"directorate"
+% MATERIAL HUMAN
+(지휘자)
+
+"directorship"
+% HUMAN
+(지휘자)
+
+"directory"
+% CONCRETE MATERIAL 
+(디렉토리)
+# telephone directory (NOUN) : 전화부
+
+"directress"
+% HUMAN
+(여성 지휘자)
+
+"directrix"
+% HUMAN
+(여성 지휘자)
+
+"dirge"
+% CONCRETE MATERIAL 
+(장송가)
+
+"dirigibility"
+(조종가능)
+
+"dirigible"
+% CONCRETE ANIMAL MATERIAL 
+(기구)
+
+"dirigisme"
+(통제 정책)
+
+"dirk"
+% CONCRETE ANIMAL MATERIAL 
+(단검)
+
+"dirndl"
+% CONCRETE MATERIAL 
+(부인복)
+
+"dirt"
+% CONCRETE MATERIAL 
+(진흙)
+# ^cut dirt (VERB) : 뛰다
+# dirt pie (NOUN) : 진흙떡
+# ^do A dirt (VERB) : [(OBJ2 A/에게) (OBJ [(AMODS [비열하<ADJ>]/한) 짓<NOUN>]/을) 하<VERB>]/다
+# ^eat dirt (VERB) : 굴욕을 참다
+# ^throw dirt on A (VERB) : [(OBJ2 A/에게) (OBJ [욕<NOUN>]/을) 퍼붓<VERB>]/다
+
+"dirt-eater"
+% HUMAN
+(흙을 먹는 사람)
+
+"dirt-eating"
+(흙먹는 풍습)
+
+"dirtheap"
+(쓰레기 더미)
+
+"dirtiness"
+% MATERIAL 
+(불결)
+
+"dis"
+% HUMAN ANIMAL
+(지하계의 신)
+
+"disablement"
+(불능)
+# disablement benefit (NOUN) : 쟁애자급부
+
+"disability"
+% MATERIAL 
+(무능)
+# disability benefits (NOUN) : 장애자수당
+# learning disability (NOUN) : 배우는 능력상실
+
+"disaccord"
+(불화)
+
+"disadvantage"
+% CONCRETE MATERIAL 
+(불이익)
+# ^sell goods to disadvantage (VERB) : 불리한 조건으로 물건을 팔다
+# ^take A at a disadvantage (VERB) : [(OBJ A/를)  (MODS [불시에<ADV>]) 
+공격하<VERB>]/다
+# ^be taken at a disadvantage (VERB) : 불시에 공격을 당하다
+# to ONE_S disadvantage (ADV) : 남이 불리하도록
+
+"disaffection"
+% MATERIAL 
+(불평)
+
+"disaffirmance"
+% ACTION
+(거부)
+
+"disaffirmation"
+% ACTION
+(거부)
+
+"disafforestation"
+(삼림법 해제)
+
+"disagreeable"
+(불유쾌한 것)
+
+"disagreement"
+% CONCRETE MATERIAL 
+(불일치)
+
+"disallowance"
+(허가하지 않음)
+
+"disambiguation"
+(중의성해소)
+# sense disambiguation (NOUN) : 어의 중의성해소
+
+"disappearance"
+% MATERIAL 
+(사라짐)
+
+"disappointment"
+% MATERIAL MIND
+(실망)
+# to ONE_S disappointment (ADV) : (ADJUNCT [(SUBJ ONE/가) 실망하<VERB>]/하게도)
+
+"disapprobation"
+% MATERIAL ACTION
+(불찬성)
+
+"disapproval"
+% CONCRETE MATERIAL ACTION
+(불찬성)
+
+"disarmament"
+% MATERIAL 
+(무장해제)
+
+"disarrangement"
+% MATERIAL 
+(혼란)
+
+"disarray"
+% MATERIAL 
+(혼란)
+
+"disarticulation"
+(관절 절단)
+
+"disassembly"
+% MATERIAL 
+(분해)
+
+"disassociation"
+% MATERIAL 
+(분리)
+
+"disaster"
+% MATERIAL 
+(천재)
+# disaster area (NOUN) : 재해구역
+
+"disavowal"
+% CONCRETE MATERIAL ACTION
+(거부)
+
+"disbandment"
+% ACTION
+(해산)
+
+"disbelief"
+% MATERIAL MIND
+(불신)
+
+"disbenefit"
+(무혜택)
+
+"disbursement"
+% MATERIAL ACTION
+(지불)
+# Treasury disbursement (NOUN) : 재정지출
+
+"disc"
+% CONCRETE MATERIAL 
+(디스크)
+# compact disc (NOUN) : 컴팩트 디스크
+
+"discard"
+% MATERIAL ACTION
+(카드를 버리다)
+# ^throw into the discard (VERB) : 폐기하다
+
+"discernment"
+% MATERIAL 
+(식별)
+
+"discharge"
+% CONCRETE MATERIAL ACTION
+(짐을 부리기)
+# industrial discharges (NOUN) : 산업폐기물
+
+"dischargee"
+% HUMAN
+(제대자)
+
+"discharger"
+% HUMAN
+(짐부리는 사람)
+
+"disciple"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(제자)
+
+"discipleship"
+% HUMAN
+(제자의 신분)
+
+"disciplinarian"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(엄격한 사람)
+
+"discipline"
+% MATERIAL ACTION
+(훈련)
+# ^keep ONE_S passions under discipline (VERB) : 정욕을 억제하다
+# military discipline (NOUN) : 군기
+# monetary discipline (NOUN) : 금융절도
+# naval discipline (NOUN) : 군기
+
+"disclaimation"
+% ACTION
+(기권)
+
+"disclaimer"
+% CONCRETE MATERIAL ACTION
+(기권)
+
+"disclosure"
+% CONCRETE MATERIAL ACTION
+(폭로)
+# ^make a disclosure of A (VERB) : [(OBJ A/을) 폭로하<VERB>]/다
+
+"disco"
+% CONCRETE ANIMAL MATERIAL PLACE
+(디스코우텍)
+
+"discobolus"
+(원판 투수)
+
+"discoid"
+(둥근 쟁반 모양의 물건)
+
+"discoloration"
+% MATERIAL 
+(변색)
+
+"discomania"
+(음반애호)
+
+"discomfiture"
+% MATERIAL
+(실패)
+
+"discomfort"
+% MATERIAL MIND
+(불쾌)
+# discomfort index (NOUN) : 불쾌지수
+
+"discomposure"
+% CONCRETE MATERIAL MIND
+(마음의 동요)
+
+"disconcertion"
+% MATERIAL MIND
+(마음의 동요)
+
+"disconnection"
+% MATERIAL 
+(단절)
+
+"disconnexion"
+(단절)
+
+"discontent"
+% MATERIAL MIND
+(불만)
+
+"discontentment"
+% MATERIAL MIND 
+(불평)
+
+"discontinuance"
+% MATERIAL 
+(정지)
+
+"discontinuation"
+% MATERIAL 
+(정지)
+
+"discontinuity"
+% MATERIAL 
+(불연속)
+
+"discophile"
+% HUMAN
+(레코오드 애호가)
+
+"discord"
+% CONCRETE MATERIAL 
+(불일치)
+# ^be in discord with A (VERB) : [(ADJUNCT A/와) 일치하지 않<VERB>]/다
+
+"discordance"
+% CONCRETE MATERIAL 
+(부조화)
+
+"discordancy"
+(부조화)
+
+"discotheque"
+% CONCRETE ANIMAL MATERIAL PLACE
+(디스코테크)
+
+"discount"
+% MATERIAL ECOLIFE
+(할인)
+# ^allow a discount (VERB) : 할인하다
+# at a discount (ADV) : 할인하여
+# bank discount (NOUN) : 은행할인
+# banker discount (NOUN) : 은행 할인
+# banker's discount (NOUN) : 은행 할인
+# cash discount (NOUN) : 현금 할인
+# discount debentures (NOUN) : 할인채권
+# discount house (NOUN) : 할인상사
+# discount market (NOUN) : 할인시장
+# discount policy (NOUN) : 대출정책
+# discount rate (NOUN) : 공정이율
+# discount store (NOUN) : 할인판매소
+# ^give a discount (VERB) : 할인하다
+# quantity discount (NOUN) : 수량할인
+# refunded discount (NOUN) : 환불할인료
+
+"discountenance"
+% ACTION
+(불찬성)
+
+"discounter"
+% HUMAN
+(할인판매 상인)
+
+"discouragement"
+% CONCRETE MATERIAL MIND
+(낙담)
+# to ONE_S discouragement (ADV) : 낙심천만하게도
+
+"discourse"
+% CONCRETE MATERIAL 
+(이야기)
+# discourse segment (NOUN) : 대화 분절
+
+"discourtesy"
+% CONCRETE MATERIAL 
+(무례)
+
+"discoverer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(발견자)
+
+"discovery"
+% CONCRETE MATERIAL ACTION
+(발견)
+# Discovery Day (NOUN) : 미대륙 발견기념일
+# ^make a discovery (VERB) : 발견하다
+
+"discredit"
+% MATERIAL ACTION
+(불신)
+# ^fall into discredit (VERB) : 신용이 떨어지다
+# ^bring into discredit (VERB) : 신용이 떨어지다
+# ^throw discredit upon A (VERB) : [(OBJ2 A/에게) (OBJ [불신<NOUN>]/을) 
+갖게 하<VERB>]/다
+
+"discreetness"
+% CONCRETE MATERIAL 
+(신중함)
+
+"discrepancy"
+% CONCRETE MATERIAL 
+(모순)
+
+"discreteness"
+% MATERIAL 
+(불연속)
+
+"discretion"
+% CONCRETE MATERIAL 
+(행동의 자유)
+# at discretion (ADV) : 마음대로
+# ^be at the discretion of A (VERB) : [(COMP [(POSS A/의) 자유<NOUN>]) _<ADJ>]<이>/다
+# ^leave to the discretion of A (VERB) : [(ADJUNCT A/에) 일임하<VERB>]/다
+# the age of discretion (NOUN) : 분별 연령
+# the years of discretion (NOUN) : 분별 연령
+# ^use ONE_S discretion (VERB) : 적절히 사라지다
+# with discretion (ADV) : 신중히
+# It is within ONE_S discretion TO_INF (VERB) : [(SUBJ [(RELCL TO_INF/하는) 것<NOUN>]/은) (COMP [(POSS ONE/의) 자유<NOUN>]) _<ADJ>]<이>/다
+# It is in ONE_S discretion TO_INF (VERB) : [(SUBJ [(RELCL TO_INF/하는) 것<NOUN>]/은) (COMP [(POSS ONE/의) 자유<NOUN>]) _<ADJ>]<이>/다
+
+"discrimination"
+% MATERIAL ACTION
+(구별)
+
+"discriminator"
+% HUMAN
+(식별하는 사람)
+
+"discursiveness"
+(광범위함)
+
+"discus"
+% CONCRETE MATERIAL 
+(원반)
+
+"discussant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(토론자)
+
+"discusser"
+% HUMAN
+(토론자)
+
+"discussion"
+% CONCRETE MATERIAL ACTION
+(토의)
+# a question under discussion (NOUN) : 심의중에 있는 문제
+# ^be down for discussion (VERB) : 토의 사항으로 되어 있다
+# classroom panel discussion (NOUN) : 학급 반상 토론
+# under discussion (PP->ADV) : 검토중
+
+"disdain"
+% CONCRETE MATERIAL 
+(경멸감)
+
+"disease"
+% MATERIAL 
+(병)
+# English disease (NOUN) : 영국병
+# bad disease (NOUN) : 악질
+# ^catch a/the disease (VERB) : 병에 걸리다
+# foul disease (NOUN) : 악질
+# family diease (NOUN) : 유전병
+# inveterate disease (NOUN) : 난치병
+# confirmed disease (NOUN) : 난치병
+# serious disease (NOUN) : 중병
+# social disease (NOUN) : 사회적 병폐
+
+"diseconomy"
+(비경제)
+
+"disembarkation"
+% MATERIAL ACTION
+(양륙)
+
+"disembarrassment"
+(해방)
+
+"disembodiment"
+(육체 이탈)
+
+"disemboguement"
+(흐름)
+
+"disembowelment"
+(내장제거)
+
+"disemployment"
+% ACTION
+(해고)
+
+"disenchantment"
+% MATERIAL 
+(각성)
+
+"disengagement"
+% MATERIAL ACTION
+(해방)
+
+"disentanglement"
+% MATERIAL ACTION
+(끌러놓기)
+
+"disenthrallment"
+(해방)
+
+"disenthralment"
+(해방)
+
+"disentombment"
+% ACTION
+(발굴)
+
+"disentrancement"
+(황홀에서 깨어나기)
+
+"disequilibrium"
+% MATERIAL 
+(불균형)
+# cyclical disequilibrium (NOUN) : 경기순환상의 불균형
+# structual disequilibrium (NOUN) : 구조적 불균형
+
+"disestablishment"
+(제도폐지)
+
+"disesteem"
+% MATERIAL MIND
+(경멸)
+
+"disfavor"
+% MATERIAL ACTION
+(푸대접)
+# ^be in disfavor (VERB) : 눈밖에 나다
+# ^live in disfavor (VERB) : 눈밖에 나다
+# ^fall into disfavor (VERB) : 인기를 잃다
+# ^come into disfavor (VERB) : 인기를 잃다
+
+"disfavour"
+% ACTION
+(푸대접)
+# ^be in disfavour (VERB) : 눈밖에 나다
+# ^live in disfavour (VERB) : 눈밖에 나다
+# ^fall into disfavour (VERB) : 인기를 잃다
+# ^come into disfavour (VERB) : 인기를 잃다
+
+"disfigurement"
+% CONCRETE MATERIAL 
+(미관을 해치기)
+
+"disfranchisement"
+% ACTION
+(공민권 박탈)
+
+"disgrace"
+% MATERIAL 
+(불명예)
+# ^be a disgrace to A (VERB) : [(COMP [(POSS A/의) 망신거리<NOUN>]) _<ADJ>]<이>/다
+# ^bring disgrace on ONE_S family (VERB) : 가문을 더럽히다
+# ^fall into disgrace (VERB) : 총애를 잃다
+
+"disguise"
+% CONCRETE MATERIAL 
+(가장)
+# in disguise (PP) : 변장한
+# in the disguise of A (ADV) : (ADJUNCT [(OBJ A/을) 핑계삼<VERB>]/하여)
+# under the disguise of A (ADV) : (ADJUNCT [(OBJ A/을) 핑계삼<VERB>]/하여)
+# ^make no disguise of ONE_S feeling (VERB) : 감정을 감추지 않다
+# ^throw off ONE_S disguise (VERB) : 가면을 벗어버리다
+# without disguise (ADV) : 조금도 숨김없이
+
+"disgust"
+% MATERIAL MIND
+(지긋지긋함)
+# in disgust (ADV) : 싫증이 나서
+# to ONE_S disgust (ADV) : 정떨어지게도
+
+"dish"
+% CONCRETE MATERIAL 
+(접시)
+# a dish of gossip (NOUN) : 잡담
+# ^do the dishes (VERB) : 접시를 씻다
+# made dishes (NOUN) : 고기 그밖의 것을 곁들인 요리
+# standing dish (NOUN) : 늘 똑같은 요리
+
+"dishabille"
+(평상복)
+# in dishabille (ADV) : 평복으로
+
+"dishallucination"
+(착각파괴)
+
+"disharmony"
+% CONCRETE MATERIAL 
+(불일치)
+
+"dishcloth"
+% CONCRETE MATERIAL 
+(행주)
+
+"disheartenment"
+% CONCRETE MATERIAL 
+(낙담)
+
+"dishful"
+(접시 가득)
+
+"dishonesty"
+% CONCRETE MATERIAL 
+(부정직)
+
+"dishonor"
+% CONCRETE MATERIAL
+(불명예)
+# ^live in dishonor (VERB) : 불명예스럽게 살다
+# notice of dishonor (NOUN) : 부도통고
+
+"dishonour"
+(불명예)
+# ^live in dishonour (VERB) : 불명예스럽게 살다
+# notice of dishonour (NOUN) : 부도통고
+
+"dishpan"
+% CONCRETE ANIMAL MATERIAL 
+(개수통)
+
+"dishrag"
+% CONCRETE MATERIAL 
+(행주)
+
+"dishtowel"
+(마른 행주)
+
+"dishwash"
+(개숫물)
+
+"dishwasher"
+% CONCRETE MATERIAL
+(식기 세척기)
+
+"dishwashing"
+% ACTION
+(접시 닦기)
+
+"dishwater"
+(개숫물)
+
+"disillusion"
+% MIND
+(환멸)
+
+"disimprisonment"
+% ACTION
+(석방)
+
+"disincentive"
+% CONCRETE MATERIAL 
+(행동 억제)
+
+"disinclination"
+% CONCRETE MATERIAL MIND
+(싫증)
+
+"disinfectant"
+% CONCRETE MATERIAL 
+(살균제)
+
+"disinfection"
+% MATERIAL 
+(소독)
+
+"disinfector"
+(소독제)
+
+"disinfestation"
+(해충 구제)
+
+"disinflation"
+% MATERIAL 
+(디스인플레이션)
+
+"disinformation"
+(거짓 정보)
+
+"disingenuousness"
+% CONCRETE MATERIAL MIND
+(음흉함)
+
+"disinheritance"
+(폐적)
+
+"disintegration"
+% MATERIAL 
+(분해)
+
+"disintegrator"
+(분해 시키는 것)
+
+"disinterest"
+% MATERIAL 
+(무관심)
+
+"disinterestedness"
+% MIND
+(사심이 없음)
+
+"disinterment"
+% MATERIAL ACTION
+(발굴)
+
+"disinvestment"
+% ECOLIFE
+(투자회수)
+
+"disjunction"
+% MATERIAL ACTION
+(분리)
+
+"disjunctive"
+(이접적 접속사)
+
+"disk"
+% CONCRETE MATERIAL 
+(디스크)
+
+"dislike"
+% MATERIAL MIND
+(싫어함)
+# ^have a dislike to A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+# ^have a dislike of A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+# ^have a dislike for A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+# ^take a dislike to A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+# ^take a dislike of A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+# ^take a dislike for A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+
+"dislocation"
+% MATERIAL 
+(탈구)
+
+"dislodgement"
+% ACTION
+(제거)
+
+"dislodgment"
+% ACTION
+(제거)
+
+"disloyalist"
+% HUMAN
+(불충자)
+
+"disloyalty"
+% CONCRETE MATERIAL MIND
+(불충실)
+
+"dismal"
+(상복)
+# the dismals (NOUN) : 우울
+
+"dismallness"
+% MIND
+(우울)
+
+"dismay"
+% MATERIAL MIND
+(당황)
+# to ONE_S dismay (ADV) : 놀랍게도
+# in dismay (ADV) : 당황하여
+
+"dismemberment"
+% MATERIAL 
+(분해)
+
+"dismissal"
+% MATERIAL ACTION
+(퇴거)
+
+"dismount"
+% MATERIAL ACTION
+(하차)
+
+"disobedience"
+% CONCRETE MATERIAL 
+(불순종)
+
+"disorder"
+% MATERIAL STATE
+(무질서)
+# ^be in disorder (VERB) : 혼란 상태이다
+# ^fall into disorder (VERB) : 혼란에 빠지다
+# ^throw into disorder (VERB) : 혼란에 빠지다
+
+"disorderliness"
+% MATERIAL STATE 
+(무질서)
+
+"disorganization"
+% MATERIAL 
+(해체)
+
+"disorientation"
+% MATERIAL 
+(혼미)
+
+"disparagement"
+% CONCRETE MATERIAL MIND
+(경멸)
+
+"disparateness"
+% CONCRETE MATERIAL 
+(상이)
+
+"disparity"
+% CONCRETE MATERIAL 
+(불균형)
+# ethic disparity (NOUN) : 도덕적 불균형
+# ethical disparity (NOUN) : 도덕적 불평동
+
+"dispassion"
+% MATERIAL MIND
+(냉정)
+
+"dispatch"
+% CONCRETE MATERIAL 
+(급파)
+# with dispatch (ADV) : 지급으로
+
+"dispatcher"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(배차계)
+
+"dispensary"
+% CONCRETE ANIMAL MATERIAL PLACE
+(약국)
+
+"dispensation"
+% MATERIAL ACTION
+(분배)
+# christian dispensation (NOUN) : 그리스도교의 천계법
+# Mosaic dispensation (NOUN) : 모세의 율법
+
+"dispensatory"
+(처방법)
+
+"dispenser"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(약제사)
+
+"dispersal"
+% MATERIAL ACTION
+(분산)
+
+"dispersion"
+% CONCRETE MATERIAL ACTION
+(분산)
+# the Dispersion (NOUN) : 뿔뿔이 흩어진 유대 민족
+
+"dispersiveness"
+(산포)
+
+"displacement"
+% CONCRETE MATERIAL ACTION
+(옮김)
+
+"display"
+% CONCRETE MATERIAL ACTION
+(전시)
+# ^be on display $ (VERB) : 진열되다
+# ^make a display of A (VERB) : [(OBJ A/을) 자랑해 보이<VERB>]/다
+# on display (ADV) : 진열되어
+# out_of display (ADV) : 보란 듯이
+
+"displayman"
+% HUMAN
+(특별 광고 고안자)
+
+"displeasure"
+% MATERIAL MIND
+(불쾌)
+# ^incur the displeasure of A (VERB) : [(OBJ [(POSS A/의) 기분<NOUN>]/을) 상하<VERB>]/다
+# ^take displeasure (VERB) : 불쾌히 여기다
+
+"disport"
+(놀이)
+
+"disposal"
+% CONCRETE MATERIAL 
+(처분)
+# at ONE_S ^disposal (ADJ ADV) : 1) [마음대로 사용할 수 있<ADJ>]/다
+                                 2) 마음대로 사용할 수 있게
+# in ONE_S ^disposal (ADV) : 아무의 뜻대로
+# disposal by auction sale (NOUN) : 경매 처분
+# disposal by sale (NOUN) : 매각 처분
+# ^put A at ONE_S disposal (VERB) : [(OBJ A/를) (ADJUNCT [(POSS ONE/의) 뜻<NOUN>]/에) 맡기<VERB>]/다
+# ^leave A at ONE_S disposal (VERB) : [(OBJ A/를) (ADJUNCT [(POSS ONE/의) 뜻<NOUN>]/에) 맡기<VERB>]/다
+
+"disposer"
+% HUMAN
+(배치자)
+
+"disposition"
+% CONCRETE MATERIAL ACTION
+(배치)
+# disposition by public sale (NOUN) : 공매처분
+# disposition for failure to pay (NOUN) : 대납처분
+# disposition of net income (NOUN) : 순익처분
+
+"dispossession"
+% MATERIAL ACTION
+(강탈)
+
+"dispossessor"
+% HUMAN
+(강탈자)
+
+"dispraise"
+% MATERIAL ACTION
+(헐뜯기)
+
+"disproof"
+% MATERIAL 
+(반증하기)
+
+"disproportion"
+(어울리지 않음)
+
+"disputant"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(논쟁자)
+
+"disputation"
+% CONCRETE MATERIAL ACTION
+(논쟁)
+
+"dispute"
+% CONCRETE MATERIAL ACTION
+(논쟁)
+# beyond dispute (ADV) : 논쟁 할 여지도 없이
+# past dispute (ADV) : 의심 할 여지도 없이
+# without dispute (ADV) : 의심 할 여지도 없이
+# out_of dispute (ADV) : 의심 할 여지도 없이
+# border dispute (NOUN) : 국경 분쟁
+# ideological dispute (NOUN) : 이데올로기 분쟁
+# in dispute (ADV) : 논쟁중
+# labor dispute (NOUN) : 노동 쟁의
+
+"disqualification"
+% CONCRETE MATERIAL ACTION
+(자격 박탈)
+
+"disquiet"
+% CONCRETE MATERIAL 
+(사회적 불안)
+
+"disquietude"
+% MATERIAL 
+(불안한 상태)
+
+"disquisition"
+% ART
+(탐구)
+
+"disregard"
+% CONCRETE MATERIAL ACTION
+(무시)
+# ^have a disregard for A (VERB) : [(OBJ A/을) 무시하<VERB>]/다
+# ^have a disregard of A (VERB) : [(OBJ A/을) 무시하<VERB>]/다
+# with disregard to A (PP) : (ADJUNCT [(OBJ A/을) (MODS [조금도<ADV>]) 
+고려하지 않<VERB>]/하고)
+
+"disrelish"
+% MIND
+(싫음)
+
+"disrepair"
+% MATERIAL 
+(파손상태)
+
+"disreputableness"
+(평판이 나쁨)
+
+"disrepute"
+% MATERIAL 
+(평판이 나쁨)
+
+"disrespect"
+% CONCRETE MATERIAL 
+(무례)
+
+"disruption"
+% MATERIAL 
+(분열)
+
+"dissatisfaction"
+% MATERIAL MIND
+(불만)
+# dissatisfaction with A (NOUN) : [(AMODS [(ADJUNCT A/에) 대한<ADJ>]) 불만<NOUN>]
+
+"dissection"
+(절개)
+
+"dissector"
+% HUMAN
+(해부학자)
+
+"dissemblance"
+(가장)
+
+"dissembler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(위선자)
+
+"dissemination"
+% CONCRETE MATERIAL ACTION
+(살포)
+
+"disseminator"
+% HUMAN
+(퍼뜨리는 사람)
+
+"dissension"
+% CONCRETE MATERIAL 
+(의견의 충돌)
+
+"dissent"
+% CONCRETE MATERIAL 
+(의견의 차이)
+
+"dissenter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(반대자)
+
+"dissentient"
+% HUMAN
+(반대하는 사람)
+
+"dissepiment"
+(격막)
+
+"dissertation"
+% CONCRETE MATERIAL 
+(논문)
+
+"disservice"
+(해)
+
+"dissidence"
+(차이)
+
+"dissident"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(반체제 인사)
+
+"dissimilarity"
+% CONCRETE MATERIAL 
+(상이함)
+
+"dissimilation"
+% MATERIAL 
+(부동화)
+
+"dissimilitude"
+% CONCRETE MATERIAL 
+(부동)
+
+"dissimulation"
+% MATERIAL 
+(위장)
+
+"dissimulator"
+% HUMAN
+(위선자)
+
+"dissipatedness"
+(방탕)
+
+"dissipater"
+% HUMAN
+(방탕자)
+
+"dissipation"
+% MATERIAL 
+(손실)
+
+"dissipator"
+% HUMAN
+(방탕자)
+
+"dissociation"
+% MATERIAL 
+(분리)
+
+"dissolubility"
+(분열성)
+
+"dissolubleness"
+(분해 가능)
+
+"dissolution"
+% MATERIAL ACTION
+(해산)
+# dissolution of financial giant (NOUN) : 재벌해체
+
+"dissolve"
+(용해되다)
+
+"dissolvent"
+% MATERIAL 
+(용제)
+
+"dissonance"
+% CONCRETE MATERIAL 
+(불협화)
+
+"dissonancy"
+(불협화)
+
+"dissuader"
+(단념)
+
+"dissuasion"
+% CONCRETE MATERIAL 
+(충고)
+
+"dissyllable"
+(2 음절어)
+
+"dissymmetry"
+(불균형)
+
+"distaff"
+% CONCRETE ANIMAL MATERIAL 
+(실패)
+
+"distance"
+% CONCRETE MATERIAL 
+(거리)
+# at a distance (PP->ADV) : 좀 떨어져서
+# at a distance of NUM1 {-ORDNUM} A {+UNIT} (PP->ADV) : 
+(ADJUNCT [(ADJUNCT [(POSS [(NMODS NUM1) A]/의) 거리<NOUN>]/만큼) 
+떨어지<VERB>]/하여서)
+# at this distance of time (ADV) : 지금에 와서는
+# ^be some distance (VERB) : 좀 멀리에 있다
+# ^be no distance (VERB) : 좀 바로 가까이 있다
+# distance factor (NOUN) : 원거리 요소
+# from a distance (ADV) : 멀리서
+# in the distance (ADV) : 멀리서
+# ^keep A at a distance (VERB) : [(OBJ A/을) 멀리하<VERB>]/다
+# ^keep ONE_S distance (VERB) : 사이를 두다
+# ^know ONE_S distance (VERB) : 자기 분수를 알다
+# long distance (NOUN) : 긴 거리
+# short distance (NOUN) : 짧은 거리
+# to a distance (ADV) : 먼 곳으로
+# within striking distance (ADV) : 치면 손이 닿는 곳에
+# within hailing or hearing distance (ADV) : 치면 손이 닿는 곳에
+
+"distaste"
+% MATERIAL MIND
+(싫증)
+# ^have a distaste for A (VERB) : [(SCOMP A/이) 싫<VERB>]/다
+
+"distasteness"
+(맛없음)
+
+"distemper"
+% MATERIAL 
+(디스템퍼)
+
+"distensibility"
+(팽창성)
+
+"distension"
+% MATERIAL 
+(팽창)
+
+"distich"
+% CONCRETE MATERIAL 
+(대귀)
+
+"distillate"
+(유출물)
+
+"distillation"
+% MATERIAL 
+(증류)
+
+"distiller"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(증류자)
+
+"distillery"
+% MATERIAL PLACE ORGAN
+(증류소)
+
+"distinction"
+% CONCRETE MATERIAL 
+(구별)
+# a distinction without a difference (NOUN) : 쓸데 없는 구별
+# ^draw a distinction between A (VERB) : [(ADJUNCT [(POSS A/의) 사이<NOUN>]/에) (OBJ [구별<NOUN>]/을) 두<VERB>]/다
+# ^make no distinction between A (VERB) : [(ADJUNCT [(POSS A/의) 사이<NOUN>]/에) (OBJ [구별<NOUN>]/을) (MODS [안<ADV>]) 두<VERB>]/다
+# ^gain distinction (VERB) : 수훈을 세우다
+# ^win distinction (VERB) : 수훈을 세우다
+# in distinction from A (ADV) : (ADJUNCT A/과) 구별하<VERB>]/하여)
+# with distinction (ADV) : 뛰어난 성적으로
+# without distinction (ADV) : 차별없이
+
+"distinctiveness"
+% CONCRETE MATERIAL 
+(특수성)
+
+"distinctness"
+% CONCRETE MATERIAL 
+(별개)
+
+"distoma"
+(디스토마)
+
+"distome"
+(디스토마)
+
+"distortion"
+% MATERIAL 
+(비틀림)
+
+"distortionist"
+% HUMAN
+(만화가)
+
+"distraction"
+% MATERIAL 
+(마음의 혼란)
+# to distraction (ADV) : 미칠 듯이
+
+"distrainee"
+% HUMAN
+(피차압인)
+
+"distrainer"
+% HUMAN
+(차압인)
+
+"distrainment"
+% ECOLIFE
+(차압)
+
+"distrainor"
+% HUMAN
+(차압인)
+
+"distraint"
+% ECOLIFE
+(동산 차압)
+
+"distress"
+% MATERIAL MIND
+(근심)
+# distress selling (NOUN) : 투매
+# signal of distress (NOUN) : 조난 신호
+# economic distress (NOUN) : 생활고
+# distress work (NOUN) : 실업 구제 사업
+
+"distributary"
+(지류)
+
+"distribution"
+% CONCRETE MATERIAL ACTION
+(분배)
+# asymmerical distribution (NOUN) : 비대칭분포
+# distribution center (NOUN) : 유통센타
+# distribution channel (NOUN) : 유통채널
+# distribution cost (NOUN) : 유통경비
+# distribution curve (NOUN) : 분포곡선
+# distribution financing (NOUN) : 유통금융
+# distribution network (NOUN) : 유통망
+# distribution of wealth (NOUN) : 부의 분배
+# distribution revolution (NOUN) : 유통혁명
+# distribution sector (NOUN) : 유통부문
+# distribution structure (NOUN) : 유통기구
+# distribution system (NOUN) : 유통시스템
+# national distribution (NOUN) : 전국 배포
+# || no distribution allowed | (SENT) : 배포 금지
+
+"distributive"
+(배분사)
+# the distributive law (NOUN) : 분배법칙
+
+"distributor"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(분배자)
+# exclusive distributor (NOUN) : 독점 판매자
+# sole distributor (NOUN) : 독점 판매자
+
+"distributorship"
+% HUMAN ECOLIFE
+(판매 대리업)
+
+"district"
+% PLACE ORGAN
+(지구)
+# District of Columbia (NOUN) : 컬럼비아 특별구
+# home district (NOUN) : 선거구
+
+"distrophia"
+(영양실조)
+
+"distrust"
+% CONCRETE MATERIAL MIND
+(불신)
+
+"disturbance"
+% MATERIAL ACTION
+(교란)
+# ^make a disturbance (VERB) : 소동을 일으키다
+# ^cause a disturbance (VERB) : 소동을 일으키다
+# ^raise a disturbance (VERB) : 소동을 일으키다
+
+"disulfide"
+(황화물)
+
+"disulphide"
+(황화물)
+
+"disunion"
+% MATERIAL 
+(분리)
+
+"disunionist"
+% HUMAN
+(분리주의자)
+
+"disunity"
+(불통일)
+
+"disuse"
+% ACTION
+(폐지)
+# ^fall into disuse (VERB) : 폐지되다
+
+"disutility"
+(비효용)
+
+"disyllable"
+% MATERIAL 
+(2 음절)
+
+"dit"
+% CONCRETE MATERIAL 
+(점)
+
+"ditch"
+% CONCRETE MATERIAL PLACE
+(도랑)
+# ^die in a ditch (VERB) : 객사하다
+# ^die in the last ditch (VERB) : 끝까지 싸우다가 죽다
+# drainage ditch (NOUN) : 배수로
+# the Ditch (NOUN) : 파나마 운하
+
+"ditch-digger"
+% HUMAN
+(중노동자)
+
+"ditcher"
+% HUMAN
+(도랑파는 사람)
+
+"ditchwater"
+(도랑물)
+
+"ditheism"
+% ART
+(선악 이신론)
+
+"dithyramb"
+% CONCRETE MATERIAL 
+(주신의 찬가)
+
+"dittany"
+% CONCRETE ANIMAL MATERIAL PLANT
+(박하류)
+
+"ditto"
+(같음)
+# ^be in dittos (VERB) : 아래 위 같은 감의 옷을 입고 있다
+# ^say ditto to A (VERB) : [(ADJUNCT A/에) (MODS [전적으로<ADV>]) 동의하<VERB>]/다
+# suit of dittos (NOUN) : 아래 위 같은 감의 옷
+
+"dittograph"
+(중복 문자)
+
+"dittography"
+(중복 오사)
+
+"ditty"
+% CONCRETE MATERIAL 
+(소가곡)
+
+"diuresis"
+(배뇨 과다증)
+
+"diuretic"
+(이뇨제)
+
+"diva"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(주역 가수)
+
+"divagation"
+% ACTION
+(방랑)
+
+"divan"
+% CONCRETE ANIMAL MATERIAL 
+(긴 의자)
+
+"divarication"
+% MATERIAL 
+(분기)
+
+"dive"
+% CONCRETE MATERIAL ACTION
+(잠수)
+# ^make a dive for A (VERB) : [(OBJ A/을) 잡으려고 하<VERB>]/다
+# a fancy dive (NOUN) : 곡예다이빙
+# an opium smoking dive (NOUN) : 아편굴
+
+"diver"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(잠수부)
+
+"divergence"
+% CONCRETE MATERIAL 
+(분기)
+
+"divergency"
+% CONCRETE MATERIAL 
+(분기)
+
+"diverger"
+% HUMAN
+(상상력이 뛰어난 사람)
+
+"diversification"
+% MATERIAL 
+(다양화)
+# diversification of business (NOUN) : 업무다각화
+
+"diversion"
+% MATERIAL 
+(전환)
+
+"diversionism"
+(편향)
+
+"diversionist"
+% HUMAN
+(편향자)
+
+"diversity"
+% CONCRETE MATERIAL 
+(상이함)
+
+"divertimento"
+(희유곡)
+
+"divertissement"
+(오락)
+
+"divestiture"
+% ACTION
+(박탈)
+
+"divestment"
+% ACTION
+(박탈)
+
+"divi"
+(배당)
+
+"divi-divi"
+(디비디비)
+
+"divide"
+(분할)
+# divide and rule (NOUN) : 분할 지배
+# the Great Divide (NOUN) : 이승과 저승의 갈림길
+
+"dividend"
+% CONCRETE MATERIAL 
+(피제수)
+# accrued dividend (NOUN) : 경과배당
+# cash dividend (NOUN) : 현금배당
+# common dividend (NOUN) : 보통배당
+# cum dividend (NOUN) : 배당부
+# dividend rate (NOUN) : 배당율
+# dividend warrant (NOUN) : 배당금지불증
+# dividend yield (NOUN) : 배당이율
+# ex dividend (NOUN) : 배당락
+# high dividend (NOUN) : 고율배당
+# interim dividend (NOUN) : 중간배당
+# ^pass a dividend (VERB) : 무배당으로 하다
+# special dividend (NOUN) : 특별배당
+# stock dividend (NOUN) : 주식배당
+
+"divider"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(분할 하는 사람)
+# dividers (NOUN) : 양각기
+
+"divination"
+% CONCRETE MATERIAL 
+(점)
+
+"divine"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(신학자)
+
+"divineness"
+(신성)
+
+"diviner"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(점장이)
+
+"diving"
+% MATERIAL ACTION
+(잠수)
+
+"divining"
+(점)
+
+"divinity"
+% CONCRETE MATERIAL 
+(신)
+# divinity calf (NOUN) : 암갈색의 송아지 가죽
+# divinity school (NOUN) : 신학 대학
+
+"divisibility"
+(가분성)
+
+"division"
+% ORGAN ACTION STATE ECOLIFE 
+(분할)
+# division of labor (NOUN) : 분업
+# division of powers (NOUN) : 삼권분립
+# ^go to a division (VERB) : 표결하다
+# investment division (NOUN) : 투자부문
+# printing division (NOUN) : 인쇄부문
+# sales division (NOUN) : 영업 부문
+
+"divisor"
+% CONCRETE MATERIAL 
+(제수)
+
+"divocement"
+% ACTION
+(이혼)
+
+"divorce"
+% MATERIAL ACTION
+(이혼)
+
+"divorce"
+% MATERIAL HUMAN
+(이혼한 여자)
+
+"divot"
+% PLANT
+(잔디)
+
+"divulgation"
+(비밀 누설)
+
+"divulgence"
+% CONCRETE MATERIAL 
+(비밀 누설)
+
+"divulsion"
+(잡아 찢음)
+
+"divvy"
+(몫)
+
+"diwan"
+% HUMAN
+(주재무장관)
+
+"dixie"
+(딕시)
+
+"dixy"
+(남부)
+
+"dizziness"
+% MATERIAL 
+(현기증)
+
+"do"
+% MATERIAL 
+(사기)
+# fair do's (ADV) : 공명정대하게
+
+"do-all"
+% HUMAN
+(허드렛군)
+
+"do-gooder"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(사회개량가)
+
+"do-goodism"
+(사회개량)
+
+"do-it-yourself"
+(스스로 하는)
+
+"do-it-yourselfer"
+% HUMAN
+(손수하는 사람)
+
+"do-little"
+% HUMAN
+(게으름장이)
+
+"do-nothing"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(밥벌레)
+
+"do-nothing"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(게으름뱅이)
+
+"do-nothingism"
+(게으른 버릇)
+
+"do-re-mi"
+(돈)
+
+"dobber"
+(낚시 찌)
+
+"dobbin"
+% ANIMAL
+(농사짓는 말)
+
+"doc"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(의사)
+
+"docent"
+% HUMAN
+(시간 강사)
+
+"docentship"
+% HUMAN
+(강사직)
+
+"docility"
+% CONCRETE MATERIAL 
+(유순함)
+
+"dock"
+% CONCRETE MATERIAL PLACE
+(부두)
+# dock dues (NOUN) : 도크 사용료
+# dock strike (NOUN) : 항만 스트라이크
+# dock warrant (NOUN) : 도크 창고증권
+# dry dock (NOUN) : 건선거
+# graving dock (NOUN) : 건선거
+# floating dock (NOUN) : 부선거
+# wet dock (NOUN) : 습선거
+# in dock (ADV) : 입원하여
+# in dry dock (ADV) : 실직하여
+
+"dock-walloper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(부두 자유 노동자)
+
+"dockage"
+% CONCRETE MATERIAL 
+(독 시설)
+
+"docker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(부두 노동자)
+
+"docket"
+% MATERIAL 
+(소송 사건 일람표)
+
+"docking"
+% MATERIAL ACTION
+(입거)
+
+"dockmaster"
+% HUMAN
+(독현장 주임)
+
+"dockyard"
+% MATERIAL PLACE ORGAN
+(조선소)
+
+"doctor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(의사[박사])
+# Doctor of Divinity (NOUN) : 신학 박사
+# Doctor of Law (NOUN) : 법학 박사
+# Doctor of Medicine (NOUN) : 의학 박사
+# ^be under the doctor (VERB) : 치료를 받는 중이다
+# doctor after doctor (NOUN) : 이의사 저의사
+# doctor of science (NOUN) : 과학 박사
+# doctor's stuff (NOUN) : 약
+# medical doctor (NOUN) : 의사
+# ^see a doctor (VERB) : 진찰을 받다
+# the Doctor's of the Church (NOUN) : 교회 박사
+
+"doctorate"
+% HUMAN
+(박사 학위)
+
+"doctorship"
+% HUMAN
+(의사의 지위)
+
+"doctress"
+% HUMAN
+(여의사)
+
+"doctrinaire"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(순 이론가)
+
+"doctrinairism"
+% ART
+(공리공론)
+
+"doctrinarian"
+% HUMAN
+(공론가)
+
+"doctrine"
+% CONCRETE MATERIAL 
+(주의)
+# the Monroe doctrine (NOUN) : 몬로우 주의
+# the Nixon Doctrine (NOUN) : 닉슨 정책
+
+"doctrinism"
+% ART
+(교리 지상 주의)
+
+"docudrama"
+% CONCRETE MATERIAL 
+(실화드라마)
+
+"document"
+% CONCRETE MATERIAL 
+(문서)
+# accompanying document (NOUN) : 첨부서류
+# attached document (NOUN) : 첨부서류
+# document of annuity (NOUN) : 연금 증서
+# document of obligation (NOUN) : 채권 증서
+# document bill (NOUN) : 화물환어음
+# documents against acceptance (NOUN) : 어음 수도서류
+# documents against acceptance bill (NOUN) : 인수도어음
+# documents against payment (NOUN) : 지급도어음
+# documents against payment bill (NOUN) : 지불도어음
+# documents of title (NOUN) : 권리증서
+# intelligence document (NOUN) : 정보 문서
+# original document (NOUN) : 원본 서류
+# shipping documents (NOUN) : 선적 서류
+
+"documentarian"
+% HUMAN
+(기록 주의자)
+
+"documentary"
+% CONCRETE MATERIAL 
+(기록 영화)
+
+"documentation"
+% CONCRETE MATERIAL 
+(문서화)
+
+"dodad"
+(하찮은 장식)
+
+"dodder"
+(새삼속)
+
+"dodecagon"
+(12 각형)
+
+"dodecahedron"
+% MATERIAL 
+(12 면체)
+
+"dodge"
+% CONCRETE MATERIAL 
+(속임수)
+# ^make a dodge (VERB) : 몸을 비키다
+
+"dodger"
+% CONCRETE MATERIAL HUMAN
+(기피자)
+
+"dodo"
+% CONCRETE ANIMAL MATERIAL 
+(도우도우새)
+
+"doe"
+% CONCRETE ANIMAL MATERIAL 
+(암사슴)
+
+"doer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(실천가)
+
+"doeskin"
+% CONCRETE MATERIAL 
+(암사슴의 가죽)
+
+"dofunny"
+(부속품)
+
+"dog"
+% CONCRETE ANIMAL MATERIAL 
+(개)
+# dead dog (NOUN) : 죽은 개
+# ^die a dog's death (VERB) : 개죽음을 하다
+# dog in a blanket (NOUN) : 푸딩
+# dog in the manger (NOUN) : 심술장이
+# dog's age (ADV) : 오랫동안
+# ^give to the dogs (VERB) : 내버리다
+# ^go to the dogs (VERB) : 영락하다
+# guard dog (NOUN) : 경비견
+# ^help a dog over a stile (VERB) : 남이 곤란할 때 도와주다
+# hot dog (NOUN) : 핫도그
+# ^lead a dog's life (VERB) : 비참한 생활을 하다
+# ^put on the dog (VERB) : 젠 체하다
+# the dogs of war (NOUN) : 전쟁의 참화
+# ^throw to the dogs (VERB) : 내버리다
+# watch dog (NOUN) : 감시견
+
+"dog's grass"
+% PLANT
+(개밀)
+
+"dog's-bane"
+% PLANT
+(개정향풀)
+
+"dog's-ear"
+(책상 모서리의 접힌데)
+
+"dog's-tail"
+% PLANT
+(빗새속)
+
+"dog's-tongue"
+% ANIMAL
+(큰 유리새)
+
+"dog's-tooth"
+(격자무늬)
+
+"dog-ear"
+% CONCRETE MATERIAL 
+(책장 모서리의 접힌 데)
+
+"dog-leg"
+(급커브)
+
+"dog-star"
+(시리우스)
+
+"dogbane"
+% CONCRETE ANIMAL MATERIAL PLANT
+(개정향풀)
+
+"dogberry"
+% PLANT
+(층층나무)
+
+"dogcart"
+% CONCRETE ANIMAL MATERIAL 
+(개가 끄는 수레)
+
+"doge"
+% HUMAN
+(총독)
+
+"dogface"
+% HUMAN
+(미국 육군의 보병)
+
+"dogfall"
+(무승부)
+
+"dogfight"
+% ACTION
+(치열한 싸움)
+
+"dogfish"
+% CONCRETE ANIMAL MATERIAL 
+(곱상어)
+
+"dogfoot"
+% HUMAN
+(보병)
+
+"dogger"
+(어선)
+
+"doggerel"
+% CONCRETE MATERIAL 
+(엉터리 시)
+
+"doggery"
+(야비한 짓)
+
+"doggie"
+% ANIMAL
+(강아지)
+
+"dogginess"
+(개 같음)
+
+"doggy"
+% ANIMAL
+(강아지)
+# doggy bag (NOUN) : 먹다 남은 음식을 넣는 봉지
+
+"doghole"
+% PLACE
+(개구멍)
+
+"doghood"
+(개의 성질)
+
+"doghouse"
+% CONCRETE MATERIAL PLACE
+(개집)
+
+"doghutch"
+% PLACE
+(개집)
+
+"dogie"
+% CONCRETE ANIMAL MATERIAL 
+(어미 잃은 송아지)
+
+"dogma"
+% CONCRETE MATERIAL ART
+(교의)
+# substructure of dogma (NOUN) : 교리의 기초
+
+"dogmatic"
+% HUMAN
+(독단가)
+
+"dogmatical"
+% HUMAN
+(독단가)
+
+"dogmatics"
+% ART
+(교리론)
+
+"dogmatism"
+% MATERIAL 
+(독단론)
+
+"dogmatist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(독단가)
+
+"dogmatization"
+% ACTION
+(단정)
+
+"dogmatizer"
+% ACTION
+(단정)
+
+"dogshore"
+(버팀 기둥)
+
+"dogskin"
+(개 가죽)
+
+"dogsleep"
+(선잠)
+
+"dogtail"
+% PLANT
+(빗새속)
+
+"dogtooth"
+% CONCRETE MATERIAL 
+(송곳니)
+
+"dogtrot"
+(종종걸음)
+
+"dogwatch"
+% HUMAN
+(반 당직)
+
+"dogwood"
+% CONCRETE MATERIAL PLANT
+(산딸기)
+
+"dogy"
+% CONCRETE ANIMAL MATERIAL 
+(어미 잃은 송아지)
+
+"doily"
+% CONCRETE MATERIAL 
+(도일리)
+
+"doing"
+% MATERIAL 
+(행동)
+
+"doit"
+(네덜란드의 옛 동전)
+# ^not care a doit (VERB) : 조금도 개의치 않다
+
+"doldrums"
+% MATERIAL PLACE
+(열대 무풍 지대)
+# ^be in the doldrums (VERB) : 침울해 있다
+
+"dole"
+% CONCRETE MATERIAL 
+(돌)
+# ^be on the dole (VERB) : 실업수당을 받고 있다
+# ^go on the dole (VERB) : 실업수당을 받다
+# ^go draw the dole (VERB) : 실업수당을 받다
+# ^make ONE_S dole (VERB) : 비탄에 잠기다
+
+"dole-drawer"
+% HUMAN
+(실업 수당을 받는 사람)
+
+"dolefulness"
+% MATERIAL MIND
+(슬픔)
+
+"dolerite"
+(조립 현무암)
+
+"dolesman"
+% HUMAN
+(보시를 받는 사람)
+
+"doll"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(인형)
+# doll baby (NOUN) : 어린아이의 인형
+
+"dollar"
+% CONCRETE UNIT MATERIAL ECOLIFE
+(달러)
+# NUM1 {-ORDNUM} dollar and NUM2 {-ORDNUM} cent (NOUN) : 
+[(NMODS [(NMODS NUM1{+DGTNUM}) 달러<NOUN>]) (NMODS NUM2{+DGTNUM}) 센트<NOUN>]
+# NUM1 {-ORDNUM} dollar (NOUN) : [(NMODS NUM1{+DGTNUM}) 달러<NOUN>]
+# a dollar (NOUN) : 1 달러
+# ^bet ONE_S bottom dollar (VERB) : 마지막 한푼까지 걸다
+# dollar area (NOUN) : 달러지역
+# dollar balance (NOUN) : 달라 잔고
+# dollar bloc (NOUN) : 달러권
+# dollar convertibility (NOUN) : 달라를 금으로 바꿀 수 있는 환전성
+# dollar crisis (NOUN) : 달러 위기
+# dollar defense (NOUN) : 달러 방위
+# dollar diplomacy (NOUN) : 달러 외교
+# dollar drain (NOUN) : 달라유출
+# dollar gap (NOUN) : 달러 부족
+# dollar imperialism (NOUN) : 달러 제국주의
+# dollar overhang (NOUN) : 달라의 초과잔고
+# dollar parity (NOUN) : 달라평가
+# dollar pool (NOUN) : 달라 풀
+# dollar reserves (NOUN) : 달라 준비
+# dollar savings measures (NOUN) : 달라방위조치
+# dollar standard system (NOUN) : 달라본위제
+# dollar shortage (NOUN) : 달라부족
+# dollars to doughnuts (NOUN) : 십중팔구 확실한 일
+# ^feel like a million dollars (VERB) : 몸 컨디션이 최고조다
+# ^look like a million dollars (VERB) : 몸 컨디션이 최고인 것 같다
+# in dollars and cents | (ADV) : 돈으로 쳐서
+
+"dollop"
+% CONCRETE MATERIAL 
+(덩어리)
+
+"dolly"
+% CONCRETE MATERIAL 
+(인형)
+
+"dolman"
+% CONCRETE MATERIAL 
+(망토)
+
+"dolmen"
+% CONCRETE ANIMAL MATERIAL 
+(돌멘)
+
+"dolomite"
+% CONCRETE MATERIAL 
+(백운석)
+
+"dolor"
+% MATERIAL MIND
+(슬픔)
+# the dolor of Mary (NOUN) : 성모 마리아의 슬픔
+# the dolor of the Virgin (NOUN) : 성모 마리아의 슬픔
+
+"dolorology"
+% ART
+(고통학)
+
+"dolour"
+% MIND
+(슬픔)
+# the dolour of Mary (NOUN) : 성모 마리아의 슬픔
+# the dolour of the Virgin (NOUN) : 성모 마리아의 슬픔
+
+"dolphin"
+% CONCRETE ANIMAL MATERIAL 
+(돌고래)
+# dolphine kick (NOUN) : 돌핀 수영법
+
+"dolt"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(얼뜨기)
+
+"domain"
+% MATERIAL PLACE ORGAN
+(영토)
+# domain of use (NOUN) : 지상권
+# Eminent Domain (NOUN) : 토지 수용권
+# right of Eminent Domain (NOUN) : 토지 수용권
+
+"dome"
+% CONCRETE MATERIAL 
+(둥근 지붕)
+
+"domestic"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(하인)
+
+"domestication"
+(교화)
+
+"domesticity"
+(가정생활)
+# domesticities (NOUN) : 가사
+
+"domicile"
+% CONCRETE ANIMAL MATERIAL 
+(주소)
+# domicile of choice (NOUN) : 기류지
+# domicile of origine (NOUN) : 본적지
+# permanent domicile (NOUN) : 본적지
+
+"domiciliation"
+% CONCRETE ANIMAL MATERIAL 
+(정주)
+
+"dominance"
+% CONCRETE MATERIAL 
+(우월)
+
+"dominancy"
+(우월)
+
+"dominant"
+(주요한 것)
+
+"domination"
+% CONCRETE MATERIAL 
+(통치)
+
+"dominator"
+% HUMAN
+(지배자)
+
+"dominie"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(선생)
+
+"dominion"
+% MATERIAL 
+(지배력)
+# ^exercise dominion over (VERB) : 통치권을 행사하다
+# the Dominion (NOUN) : 캐나다 자치령
+# the Old Dominion (NOUN) : 미국 버어지니아 주
+
+"domino"
+% CONCRETE MATERIAL 
+(도미노)
+# domino theory (NOUN) : 도미노 이론
+
+"don't-know"
+% HUMAN
+(태도 보류자)
+
+"dona"
+% HUMAN
+(여자)
+
+"donation"
+% MATERIAL ACTION
+(기부)
+# ^make a donation to A (VERB) : [(ADJUNCT A/에) 기부하<VERB>]/다
+
+"donator"
+% HUMAN
+(기부자)
+
+"donee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(수증자)
+
+"donga"
+% PLACE
+(협곡)
+
+"donjon"
+% CONCRETE ANIMAL MATERIAL PLACE
+(탑)
+
+"donkey"
+% CONCRETE ANIMAL MATERIAL 
+(당나귀)
+# donkey's ears (ADV) : 참으로 오랫동안
+
+"donkeywork"
+(지루하고 힘든 일)
+
+"donna"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(귀부인)
+
+"donor"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(기증자)
+
+"doodad"
+% CONCRETE MATERIAL 
+(하찮은 장식품)
+
+"doodle"
+(낙서)
+
+"doodlebug"
+% CONCRETE MATERIAL ANIMAL
+(개미 지옥)
+
+"doofunny"
+(부속품)
+
+"doohickey"
+% CONCRETE MATERIAL 
+(장치)
+
+"doolie"
+% PLACE ORGAN
+(공군 사관학교)
+
+"dooly"
+(가마)
+
+"doom"
+% MATERIAL 
+(운명)
+# ^meet ONE_S doom (VERB) : 망하다
+# ^go to ONE_S doom (VERB) : 망하다
+# ^know ONE_S doom (VERB) : 망하다
+# the day of doom (NOUN) : 최후의 심판일
+# till the crack of doom (ADV) : 세상의 종말이 올 때까지
+
+"doomsayer"
+% HUMAN
+(점장이)
+
+"doomsday"
+% CONCRETE TIME MATERIAL 
+(최후의 심판일)
+# Doomsday Book (NOUN) : 토지 대장
+# doomsday machine (NOUN) : 핵무기
+# till doomsday (ADV) : 영구히
+
+"doomstering"
+(비관적 예언)
+
+"door"
+% CONCRETE MATERIAL 
+(문)
+# ^close the door upon A (VERB) : [(OBJ2 A/에게) (OBJ [문호<NOUN>]/를) 폐쇄하<VERB>]/다
+# door delivery (NOUN) : 점두배달
+# from door to door (ADV) : 집집마다
+# in doors (ADV) : 집안에
+# ^lay at the door of A (VERB) : [(ADJUNCT [(POSS A/의) 탓<NOUN>]/으로) 하<VERB>]/다
+# ^lie at the door of A (VERB) : [(COMP [(POSS A/의) 탓<NOUN>]) _<ADJ>]<이>/다
+# house next door (NOUN) : 이웃집
+# next door (NOUN ADV ADJ) : 1) 이웃집 
+                             2) 이웃집에  
+                             3) 이웃집의
+# next door but one $ (NOUN ADV ADJ) : 1) 하나 건너집
+									   2) 하나 건너집에
+									   3) 하나 건너집의
+# next door to A (ADV) : (ADJUNCT [(POSS A/의) 이웃<NOUN>]/에)
+# ^open a door for A (VERB) : [(ADJUNCT A/에) (OBJ [문호<NOUN>]/를) 개방하<VERB>]/다
+# ^open a door to A (VERB) : [(ADJUNCT A/에) (OBJ [문호<NOUN>]/를) 개방하<VERB>]/다
+# out_of doors (ADV) : 옥외에서
+# ^show A the door (VERB) : 문을 가리키며 남을 내보내다
+# ^shut the door upon A (VERB) : [(OBJ2 A/에게) (OBJ [문호<NOUN>]/를) 폐쇄하<VERB>]/다
+# the front door (NOUN) : 현관문
+# ^turn A out_of doors (VERB) : [(OBJ A/를) 내쫓<VERB>]/다
+
+"door-knocker"
+(노커)
+
+"door-lock"
+(문 자물쇠)
+
+"doorbell"
+% CONCRETE ANIMAL MATERIAL 
+(초인종)
+
+"doorcase"
+% CONCRETE ANIMAL MATERIAL 
+(문틀)
+
+"doorframe"
+% CONCRETE ANIMAL MATERIAL 
+(문틀)
+
+"doorjamb"
+(문설주)
+
+"doorkeeper"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(문지기)
+
+"doorknob"
+% CONCRETE MATERIAL 
+(문의 손잡이)
+
+"doorman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(문지기)
+
+"doornail"
+(대갈못)
+
+"doorplate"
+(문패)
+
+"doorpost"
+(문설주)
+# between you me and the doorpost (ADV) : 비밀이지만
+
+"doorpull"
+(손잡이)
+
+"doorsill"
+% CONCRETE ANIMAL MATERIAL 
+(문지방)
+
+"doorstep"
+% CONCRETE ANIMAL MATERIAL 
+(문앞의 층대)
+
+"doorstone"
+(섬돌)
+
+"doorstop"
+% CONCRETE ANIMAL MATERIAL 
+(도어스톱)
+
+"doorway"
+% CONCRETE MATERIAL 
+(대문간)
+
+"dooryard"
+(현관의 앞마당)
+
+"doozer"
+(아주 멋진 것)
+
+"doozy"
+(아주 멋진 것)
+
+"dope"
+% CONCRETE MATERIAL 
+(마약)
+# ^spill the dope (VERB) : 정보를 알리다
+# straight dope (NOUN) : 진실
+
+"dopester"
+% HUMAN
+(예언자)
+
+"dopey"
+% HUMAN
+(게으름장이)
+
+"dopy"
+% HUMAN
+(게으름장이)
+
+"dor"
+% ANIMAL
+(풍뎅이)
+
+"dorado"
+% ANIMAL
+(만새기)
+
+"dorbeetle"
+% CONCRETE ANIMAL MATERIAL 
+(풍뎅이)
+
+"dorking"
+(도오킹종)
+
+"dorm"
+% CONCRETE ANIMAL MATERIAL PLACE
+(기숙사)
+
+"dormancy"
+% MATERIAL 
+(휴면)
+
+"dormer"
+% CONCRETE ANIMAL MATERIAL 
+(지붕창)
+
+"dormeuse"
+(침대차)
+
+"dormitory"
+% CONCRETE MATERIAL PLACE
+(기숙사)
+
+"dormouse"
+% CONCRETE ANIMAL MATERIAL 
+(잠꾸러기)
+
+"dorp"
+% PLACE
+(작은 촌락)
+
+"dorsal"
+(등지느러미)
+
+"dorter"
+% PLACE
+(합숙소)
+
+"dortour"
+% PLACE
+(합숙소)
+
+"dory"
+% CONCRETE ANIMAL MATERIAL 
+(평저 소형어선)
+
+"dosage"
+% CONCRETE MATERIAL 
+(투약)
+
+"dose"
+% CONCRETE MATERIAL 
+(일회 복용량)
+# ^have a regular dose of A (VERB) : [(OBJ A/을) (MODS [실컷<ADV>]) 마시<VERB>]/다
+# healthy dose of A (NOUN) : [(AMODS [충분하<ADJ>]/한) A]
+
+"dosimeter"
+% CONCRETE ANIMAL MATERIAL 
+(약량기)
+
+"dosimetry"
+(복약량 측정)
+
+"doss"
+% PLACE
+(침대)
+
+"dossal"
+(휘장)
+
+"dossel"
+(휘장)
+
+"dosser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(짐바구니)
+
+"dossier"
+(일건 서류)
+
+"dot"
+% CONCRETE MATERIAL 
+(점)
+# on the dot (ADV) : 꼭 제시간에
+# to a dot (ADV) : 완전히
+
+"dotage"
+% CONCRETE MATERIAL 
+(망령)
+
+"dotard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(노망한 늙은이)
+
+"doter"
+(망령)
+
+"dottel"
+(담뱃재)
+
+"dotter"
+(점 찍는 기구)
+
+"dotterel"
+% CONCRETE ANIMAL MATERIAL 
+(물떼새)
+
+"dottle"
+(담뱃재)
+
+"dottrel"
+% ANIMAL
+(물떼새)
+
+"douane"
+% PLACE ORGAN
+(세관)
+
+"double"
+% CONCRETE MATERIAL 
+(곱)
+# ^make a double (VERB) : 두마리를 한꺼번에 잡다
+# mixed doubles (NOUN) : 남녀 혼합 복식 시합
+# at the double (ADV) : 구보로
+# on the double (ADV) : 구보로
+
+"double-barrel"
+(쌍발총)
+
+"double-blind"
+(이중 맹검)
+
+"double-crosser"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(배신자)
+
+"double-dealer"
+% HUMAN
+(협잡꾼)
+
+"double-dealing"
+% MATERIAL 
+(표리 있는 언행)
+
+"double-decker"
+% CONCRETE ANIMAL MATERIAL 
+(더블데커)
+
+"double-digit"
+(두자리수)
+
+"double-dome"
+% HUMAN
+(지식인)
+
+"double-header"
+(더블헤더)
+
+"double-nickel"
+(시속 55 마일)
+
+"double-o"
+(엄중한 조사)
+
+"double-reed"
+(혀가 두개 있는 악기)
+
+"double-ripper"
+(두 대를 이은 썰매)
+
+"double-runner"
+(두 대를 이은 썰매)
+
+"double-seater"
+(복좌식 비행기)
+
+"double-speak"
+(거짓말)
+
+"double-think"
+(이중 신념)
+
+"double-track"
+(복선)
+
+"double-tree"
+(수레의 가로장)
+
+"doubleganger"
+(유령)
+
+"doubleheader"
+(더블헤더)
+
+"doubleness"
+(중복성)
+
+"doublet"
+% CONCRETE ANIMAL MATERIAL 
+(더블릿)
+
+"doubleton"
+% CONCRETE MATERIAL 
+(손에 잡은 두장만 짝이 맞는 패)
+
+"doubling"
+% MATERIAL 
+(배가)
+
+"doubloon"
+(옛 스페인의 금화)
+
+"doubt"
+% CONCRETE MATERIAL MIND
+(의심)
+# ^be in doubt A (VERB) : [(ADJUNCT A/에) 의문을 가지<VERB>]/다
+# ^be in doubt about A (VERB) : [(ADJUNCT A/에) 의문을 가지<VERB>]/다
+# ^be in no doubt of ONE_S PRESP (VERB) : [(OBJ [(RELCL [(SUBJ ONE/이) PRESP]/하는) 것<NOUN>]/을) 의심할 여지가 없<ADJ>]/다
+# ^be no doubt THAT_CLAUSE (VERB) :
+  [(OBJ [(RELCL THAT_CLAUSE/하는) 것<NOUN>]/을) 의심할 여지가 없<ADJ>]/다
+# ^be no doubt about A (VERB->ADJ) : [(SCOMP [(RELCL [(OBJ A/를) 의심하<VERB>]/할) 여지<NOUN>]/가) 없<ADJ>]/다
+# beyond doubt (ADV) : 의심할 여지없이
+# doubt THAT_CLAUSE (NOUN) : [(POSS [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/의) 의심<NOUN>]
+# ^have ONE_S doubts (VERB) : 의심스럽게 여기다
+# ^have a strong doubt of WHAT_CLAUSE (VERB) : [(ADJUNCT [(RELCL WHAT_CLAUSE/한) 것<NOUN>]/에) (OBJ [(AMODS[강하<ADJ>]/다) 의심<NOUN>]/을) 가지<VERB>]/다
+# ^have doubt THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/을) 의심하<VERB>]/다
+# ^have no doubt (VERB) : 의심하지 않다
+# ^have no doubt THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/을) 의심하지 않<VERB>]/다
+# ^have no doubt SENT (VERB) : [(OBJ [(RELCL SENT/하다는) 것<NOUN>]/을) 의심하지 않<VERB>]/다
+# ^make no doubt of A (VERB) : [(OBJ A/을) (MODS [조금도<ADV>]) 의심않<VERB>]/다
+# ^make no doubt THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/을) (MODS [조금도<ADV>]) 의심않<VERB>]/다
+# ^make no doubt SENT (VERB) : [(OBJ [(RELCL SENT/하다는) 것<NOUN>]/을) (MODS [조금도<ADV>]) 의심않<VERB>]/다
+# ^make no doubt but  THAT_CLAUSE (VERB) : [(OBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/을) (MODS [조금도<ADV>]) 의심않<VERB>]/다
+# || no doubt (ADV) : 틀림없이
+# no doubt | (ADV) : 의심할 바 없이
+# out_of doubt (ADV) : 의심할 여지없이
+# || no doubt . (SENT->ADJ) : 의심할 바가 없다
+# there ^be no doubt THAT_CLAUSE (SENT->ADJ) : [(SUBJ [(RELCL THAT_CLAUSE/하다는) 것<NOUN>]/은) (SCOMP [(RELCL [의심하<VERB>]/할) 여지<NOUN>]/가) 없<ADJ>]/다
+# there ^be no doubt of PRESP (SENT->ADJ) : [(SUBJ [(RELCL PRESP/하다는) 것<NOUN>]/은) (SCOMP [(RELCL [의심하<VERB>]/할) 여지<NOUN>]/가) 없<ADJ>]/다
+# there ^be no doubt of ONE_S PRESP (VERB) : [(OBJ [(RELCL [(SUBJ ONE/이) PRESP]/하는) 것<NOUN>]/을) 의심할 여지가 없<ADJ>]/다
+# ^throw doubt on A (VERB) : [(ADJUNCT A/에) (OBJ [의심<NOUN>]/을) 품<VERB>]/다
+
+"doubtfullness"
+(의심스러운)
+
+"doubtlessness"
+(확실함)
+
+"douceur"
+(행하)
+
+"douche"
+% CONCRETE MATERIAL 
+(주수)
+
+"dough"
+% CONCRETE MATERIAL 
+(가루 반죽)
+
+"doughboy"
+% FOOD
+(삶은 만두)
+
+"doughface"
+% HUMAN
+(줏대 없는 사람)
+
+"doughfoot"
+% HUMAN
+(보병)
+
+"doughnut"
+% CONCRETE MATERIAL FOOD
+(도우넛)
+# doughnut foundry (NOUN) : 싸구려 음식점
+
+"doughtiness"
+(대담)
+
+"doum"
+% PLANT
+(이집트 종려나무)
+
+"dourness"
+(침울)
+
+"dove"
+% CONCRETE ANIMAL MATERIAL 
+(비둘기)
+
+"dove's-foot"
+% PLANT
+(쥐소니풀)
+
+"dovecot"
+% PLACE
+(비둘기장)
+# ^flutter the dovecot (VERB) : 평지풍파를 일으키다
+# ^cause a flutter in the dovecot (VERB) : 평지풍파를 일으키다
+
+"dovecote"
+% CONCRETE ANIMAL MATERIAL PLACE
+(비둘기장)
+# ^flutter the dovecote (VERB) : 평지풍파를 일으키다
+# ^cause a flutter in the dovecote (VERB) : 평지풍파를 일으키다
+
+"dovehouse"
+% PLACE
+(비둘기 장)
+
+"dovelet"
+% ANIMAL
+(새끼 비둘기)
+
+"dovetail"
+% CONCRETE ANIMAL MATERIAL 
+(열장 장부촉 이음)
+# dovetail joint (NOUN) : 열장 장부촉 끼움
+
+"dowager"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(과부)
+# dowager duchess (NOUN) : 공작 미망인
+# Empress Dowager (NOUN) : 황태후
+# queen dowager (NOUN) : 황태후
+
+"dowdiness"
+(상스러움)
+
+"dowdy"
+% CONCRETE MATERIAL HUMAN
+(초라한 여자)
+
+"dowel"
+% CONCRETE ANIMAL MATERIAL 
+(맞춤못)
+
+"dower"
+% MATERIAL 
+(미망인의 상속몫)
+
+"dowlas"
+(올이 굵은 린네르)
+
+"down"
+% CONCRETE MATERIAL 
+(솜털)
+# bed of down (NOUN) : 깃털 이불
+# the Downs (NOUN) : 다운즈 정박지
+
+"down-and-out"
+% HUMAN
+(아주 영락한 사람)
+
+"down-at-heel"
+% HUMAN
+(빈민)
+
+"down-easter"
+% PLACE ORGAN
+(뉴잉글랜드)
+
+"down-lead"
+(안테나의 실내 도입선)
+
+"down_load"
+(내려받기)
+
+"downbeat"
+(강박)
+
+"downcast"
+% CONCRETE MATERIAL 
+(파멸)
+
+"downdraft"
+(하향 통풍)
+
+"downdraught"
+(하향 통풍)
+
+"downer"
+% CONCRETE MATERIAL 
+(진정제)
+
+"downfall"
+% MATERIAL ACTION
+(낙하)
+# downfall of A (NOUN) : 
+* [(NMODS A/의) 멸망<NOUN>]
+* A (empire 제국)
+
+"downgrade"
+% CONCRETE MATERIAL 
+(하향조정)
+
+"downhill"
+% CONCRETE MATERIAL 
+(내리받이)
+
+"downhiller"
+% HUMAN
+(활강 선수)
+
+"downhold"
+(엄격한 제한)
+# a downhold on expenses (NOUN) : 가격의 엄격한 제한
+
+"downiness"
+% CONCRETE MATERIAL 
+(솜털같음)
+
+"download"
+(다운로드)
+
+"downpour"
+% MATERIAL 
+(억수)
+
+"downrightness"
+(명확)
+
+"downs"
+(낮은 구릉 지대)
+
+"downside"
+(아래쪽)
+
+"downslide"
+(저하)
+
+"downspin"
+(급락)
+
+"downstage"
+(무대의 앞쪽)
+
+"downstairs"
+(아래층)
+
+"downstate"
+(주의 남부)
+
+"downstream"
+(하류)
+
+"downswing"
+(하락)
+
+"downthrow"
+(강하)
+
+"downtime"
+% TIME
+(휴지 시간)
+
+"downtown"
+% PLACE 
+(중심가)
+
+"downtowner"
+% HUMAN
+(도심지의 사람)
+
+"downtrend"
+(하락 기세)
+
+"downturn"
+(하락)
+
+"downwash"
+(세류)
+
+"dowry"
+% MATERIAL 
+(결혼 지참금)
+
+"dowser"
+% CONCRETE ANIMAL MATERIAL 
+(수맥을 점치는 사람)
+
+"doxology"
+(송영가)
+
+"doxy"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(정부)
+
+"doyen"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(고참자)
+
+"doyley"
+(도일리)
+
+"doze"
+% MATERIAL 
+(졸기)
+# ^fall into a doze (VERB) : 꾸벅꾸벅 졸다
+# ^go off into a doze (VERB) : 꾸벅꾸벅 졸다
+
+"dozen"
+% CONCRETE MATERIAL UNIT
+(12 개)
+# NUM1 dozen (NOUN) : [(NMODS NUM1) 타스<NOUN>]
+# baker's dozen (NOUN) : 13 개
+# by the dozen (ADV) : 수십개씩이나
+# devil's dozen (NOUN) : 13 개
+# dozens of A (NOUN) : [(POSS [몇타스<NOUN>]/의) A]
+# dozens of people (NOUN) : 수십명
+# dozens of times (NOUN) : 수십번
+# in dozens (ADV) : 다스씩
+# long dozen (NOUN) : 13 개
+# printer's dozen (NOUN) : 13 개
+# ^talk thirteen to the dozen (VERB) : 쉴새없이 지껄이다
+
+"dozenth"
+(12 번째)
+
+"dozer"
+% CONCRETE ANIMAL MATERIAL 
+(조는 사람)
+
+"doziness"
+(졸리움)
+
+"dr."
+% HUMAN
+(닥터)
+
+"drab"
+% HUMAN
+(행실나쁜 여자)
+
+"drabbet"
+(황갈색 즈크)
+
+"dracaena"
+% CONCRETE MATERIAL 
+(드러시이너)
+
+"drachm"
+% CONCRETE UNIT MATERIAL 
+(드라크마)
+
+"draco"
+(용좌)
+
+"draff"
+(찌꺼기)
+
+"draft"
+% CONCRETE MATERIAL 
+(통풍[초안])
+# bank draft (NOUN) : 은행어음
+# beast of draft (NOUN) : 짐수레를 끄는 소
+# draft amendment (NOUN) : 수정안
+# draft at sight (NOUN) : 일람불어음
+# draft cattle (NOUN) : 축우
+# draft contract (NOUN) : 계약서원안
+# draft endorsor (NOUN) : 어음배서인
+# draft holder (NOUN) : 어음소지인
+# draft on demand (NOUN) : 요구불 환어음
+# ^drink at a draft (VERB) : 들이마시다
+# ^feel the draft (VERB) : 역경에 허덕이다
+# ^make a draft on a bank (VERB) : 은행에서 꺼내다
+# ^make a draft on a fund (VERB) : 자금에서 꺼내다
+# ^make a great draft upon ONE_S confidence (VERB) : 신뢰를 강요하다
+# ^make a great draft upon ONE_S friendship (VERB) : 우정을 강요하다
+# ^make out a draft of A (VERB) : [(OBJ A/을) 기초하<VERB>]/다
+
+"draft-net"
+(예망)
+
+"draftee"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(징집된 장정)
+
+"drafter"
+% HUMAN
+(초안자)
+
+"draftetee"
+% HUMAN
+(여군)
+
+"draftiness"
+(통풍)
+
+"drafting"
+(기초)
+
+"drafts"
+(체스)
+
+"draftsman"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(제도자)
+
+"draftsmanship"
+% MATERIAL 
+(제도공의 기술)
+
+"drag"
+% CONCRETE MATERIAL 
+(끌기)
+
+"drag-and-drop"
+% ACTION
+(드랙 앤 드롭)
+
+"dragee"
+% CONCRETE MATERIAL FOOD
+(당의를 입힌 과일)
+
+"draggletail"
+% HUMAN
+(체신없는 여자)
+
+"dragnet"
+% CONCRETE ANIMAL MATERIAL 
+(저예망)
+
+"dragoman"
+% HUMAN
+(통역)
+
+"dragon"
+% CONCRETE ANIMAL MATERIAL 
+(용)
+# dragon balloon (NOUN) : 연 모양의 기구
+# dragon head and snake tail (NOUN) : 용두사미
+# flying dragon (NOUN) : 나는 도마뱀
+# the old Dragon (NOUN) : 마왕
+
+"dragonet"
+% CONCRETE ANIMAL MATERIAL 
+(작은 용)
+
+"dragonfly"
+% CONCRETE ANIMAL MATERIAL 
+(잠자리)
+
+"dragonnade"
+(무력 박해)
+
+"dragoon"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(기병)
+
+"dragrope"
+(끄는 줄)
+
+"dragster"
+% HUMAN
+(경주자)
+
+"drain"
+% CONCRETE MATERIAL 
+(배수지)
+# brain drain (NOUN) : 두뇌유출
+# drain of dpecie from a country (NOUN) : 정화의 국외유출
+# ^go down the drain (VERB) : 잃어버리다
+
+"drainage"
+% MATERIAL 
+(배수)
+# drainage work (NOUN) : 배수공사
+
+"drainer"
+% HUMAN
+(하수도 인부)
+
+"draining"
+(배수)
+
+"drainpipe"
+% CONCRETE MATERIAL 
+(배수관)
+
+"drake"
+% CONCRETE ANIMAL MATERIAL 
+(오리의 수컷)
+# ducks and drakes (NOUN) : 물수제비 뜨기
+
+"dram"
+% CONCRETE UNIT MATERIAL 
+(드램)
+# dram drainker (NOUN) : 짤금짤금 마시는 사람
+# ^be fond of a dram (VERB) : 술을 좋아하다
+# ^have not one dram of learning (VERB) : 조금도 없다
+
+"drama"
+% CONCRETE MATERIAL 
+(드라마)
+
+"dramamine"
+(드라마민)
+
+"dramatics"
+(연출법)
+
+"dramatist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(극작가)
+
+"dramatization"
+% MATERIAL 
+(각색)
+
+"dramaturge"
+% HUMAN
+(극작가)
+
+"dramaturgist"
+% HUMAN
+(극작가)
+
+"dramaturgy"
+(극작법)
+
+"dramshop"
+% PLACE
+(술집)
+
+"drape"
+% CONCRETE ANIMAL MATERIAL 
+(포장)
+
+"draper"
+% PLACE
+(포목상)
+# draper's shop (NOUN) : 포목상
+
+"drapery"
+% CONCRETE ANIMAL MATERIAL 
+(휘장)
+
+"draught"
+% CONCRETE MATERIAL 
+(통풍)
+# beast of draught (NOUN) : 짐수레를 끄는 소
+# draught amendment (NOUN) : 수정안
+# draught on demand (NOUN) : 요구불 환어음
+# ^drink at a draught (VERB) : 들이마시다
+# ^feel the draught (VERB) : 역경에 허덕이다
+# ^make a draught on a bank (VERB) : 은행에서 꺼내다
+# ^make a draught on a fund (VERB) : 자금에서 꺼내다
+# ^make a great draught upon ONE_S confidence (VERB) : 신뢰를 강요하다
+# ^make a great draught upon ONE_S friendship (VERB) : 우정을 강요하다
+# ^make out a draught of A (VERB) : [(OBJ A/을) 기초하<VERB>]/다
+
+"draughtaman"
+% HUMAN
+(제도자)
+
+"dravidian"
+% HUMAN
+(드라빗 사람)
+
+"draw"
+% CONCRETE MATERIAL 
+(끌기)
+
+"drawback"
+% CONCRETE MATERIAL 
+(결점)
+# debenture of drawback (NOUN) : 원불증명서
+# drawback allowance (NOUN) : 세금환급
+# drawback cargoes (NOUN) : 세금을 되물려 받는 화물
+
+"drawbridge"
+% CONCRETE ANIMAL MATERIAL 
+(가동교)
+
+"drawdown"
+(삭감)
+
+"drawee"
+% HUMAN ECOLIFE
+(어음의 수취인)
+# alternative drawee (NOUN) : 인환대행인
+
+"drawer"
+% CONCRETE ANIMAL MATERIAL 
+(서랍)
+# a chest of drawers (NOUN) : 장롱 한틀
+
+"drawing"
+% CONCRETE MATERIAL 
+(그림)
+# drawing account (NOUN) : 인출금계정
+# drawing in | (NOUN) : 회수
+# drawing in blank (NOUN) : 백지 발행
+# drawing out | (NOUN) : 찾아내기
+# drawing right (NOUN) : 인출권
+# freehand drawing (NOUN) : 자재화
+# instrumental drawing (NOUN) : 용기화
+# lineal drawing (NOUN) : 선화
+# line drawing (NOUN) : 선화
+# ^make a drawing (VERB) : 그림을 뜨다
+# mechanical drawing (NOUN) : 기계 제도 
+# out_of drawing (ADV) : 잘못 그려서
+# water color drawing (NOUN) : 수채화
+
+"drawknife"
+% CONCRETE ANIMAL MATERIAL 
+(앞으로 당겨서 깎는 칼)
+
+"drawl"
+% CONCRETE MATERIAL 
+(느린 말투)
+
+"drawler"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(남부인)
+
+"drawman"
+% HUMAN
+(플라스틱 조립공)
+
+"drawplate"
+(정선판)
+
+"drawshave"
+% CONCRETE ANIMAL MATERIAL 
+(앞으로 당겨 깍는 대패)
+
+"dray"
+% CONCRETE ANIMAL MATERIAL 
+(큰 짐마차)
+
+"drayage"
+(짐마차 운반)
+
+"drayman"
+% HUMAN
+(짐마차군)
+
+"dread"
+% MATERIAL MIND
+(공포)
+# ^be in dread of A (VERB) : [(OBJ A/을) (MODS [늘<ADV>]) 두려워하<VERB>]/다
+# ^live in dread of A (VERB) : [(OBJ A/을) (MODS [늘<ADV>]) 두려워하<VERB>]/다
+
+"dreadful"
+(선정적 소설)
+
+"dreadfulness"
+% MIND
+(무서움)
+
+"dreadnaught"
+% CONCRETE ANIMAL MATERIAL 
+(용감한 사람)
+
+"dreadnought"
+% CONCRETE ANIMAL MATERIAL 
+(용감한 사람)
+
+"dream"
+% MATERIAL 
+(꿈)
+# ^be in a dream (VERB) : 꿈결같이 지내다
+# ^live in a dream (VERB) : 꿈결같이 지내다
+# ^go about in a dream (VERB) : 꿈결같이 지내다
+# ^dream a dream (VERB) : 꿈을 꾸다
+# ^go to ONE_S dream (VERB) : 꿈길을 더듬다
+# ^have a dream (VERB) : 꿈을 꾸다
+# ^read a dream (VERB) : 해몽하다
+# land of dreams (NOUN) : 꿈나라
+# pipe dream (NOUN) : 공상
+# walking dream (NOUN) : 백일몽
+
+"dreamboat"
+(차지하고 싶은 이성)
+
+"dreamer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(꿈꾸는 사람)
+
+"dreaminess"
+% MATERIAL 
+(꿈같은 상태)
+
+"dreariness"
+% MIND
+(쓸쓸함)
+
+"dreck"
+(허섭 쓰레기)
+
+"dredge"
+% CONCRETE ANIMAL MATERIAL 
+(준설기)
+
+"dredger"
+% CONCRETE ANIMAL MATERIAL 
+(가루 뿌리는 통)
+
+"dredger"
+% CONCRETE ANIMAL MATERIAL 
+(준설 인부)
+
+"dreg"
+% CONCRETE MATERIAL 
+(찌꺼기)
+# ^drink to the dregs (VERB) : 남김없이 다 마시다
+# ^drain to the dregs (VERB) : 남김없이 다 마시다
+# not a dreg (ADV) : 조금도 없는
+
+"drench"
+(함빡 젖기)
+
+"drencher"
+(폭우)
+
+"dress"
+% CONCRETE MATERIAL 
+(의복)
+# full dress (NOUN) : 정장
+# morning dress (NOUN) : 보통예복
+# native dress (NOUN) : 고유의상
+
+"dressage"
+(조마)
+
+"dresser"
+% CONCRETE ANIMAL MATERIAL 
+(경대)
+# dresser set (NOUN) : 화장용구 일습
+
+"dresser"
+% CONCRETE ANIMAL MATERIAL 
+(옷 입히는 사람)
+
+"dressing"
+% CONCRETE MATERIAL FOOD
+(드레싱)
+# ^give A a good dressing down (VERB) : [(OBJ A/을) (MODS [호되게<ADV>]) 꾸짖<VERB>]/다
+
+"dressing-down"
+(꾸짖기)
+
+"dressmaker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(부인복 재봉사)
+
+"dressmaking"
+% MATERIAL 
+(부인복 제조)
+
+"drey"
+% PLACE
+(다람쥐의 집)
+
+"dribble"
+% CONCRETE MATERIAL 
+(드리블)
+
+"dribbler"
+% HUMAN
+(드리블하는 사람)
+
+"driblet"
+(작은 방울)
+# by driblets (ADV) : 조금씩
+# in driblets (ADV) : 조금씩
+
+"drier"
+(건조기)
+
+"drift"
+% CONCRETE MATERIAL 
+(표류)
+
+"driftage"
+(표류작용)
+
+"drifter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(표류자)
+
+"driftweed"
+% PLANT
+(표류 해초)
+
+"driftwood"
+(유목)
+
+"drill"
+% CONCRETE ANIMAL MATERIAL 
+(드릴)
+# ^be at drill (VERB) : 훈련 중이다
+# drill husbandry (NOUN) : 조파법
+
+"drilling"
+% MATERIAL ACTION
+(교련)
+# oil drilling (NOUN) : 기름 구멍뚫기
+
+"drillion"
+(무수)
+
+"drillmaster"
+% HUMAN
+(훈련 교관)
+
+"drink"
+% CONCRETE MATERIAL FOOD
+(음료)
+# || a drink have ? (SENT) : (QUES [한잔 하<VERB>](시겠/P)/다)
+# alcoholic drink (NOUN) : 알코올 음료
+# ^be given to drink (VERB) : 술에 빠져 있다
+# ^be addicted to drink (VERB) : 술에 빠져 있다
+# ^be on the drink (VERB) : 언제나 술마시고 있다
+# drink of water (NOUN) : 음료수
+# || have a drink ? (SENT) : (QUES [한잔 하<VERB>](시겠/P)/다)
+# ^have a drink (VERB) : 한잔하다
+# in drink (ADV) : 취하여
+# soft drink (NOUN) : 소프트 드링크
+# ^take a drink (VERB) : 한잔하다
+# ^take to drink (VERB) : 술꾼이 되다
+
+"drinkable"
+% FOOD
+(음료)
+# eatables and drinkables (NOUN) : 음식물
+
+"drinker"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(마시는 사람)
+
+"drinking"
+% MATERIAL 
+(마시기)
+# drinking problem (NOUN) : 과음문제
+
+"drip-drip"
+(낙수물)
+
+
+"dripolator"
+(드립식 커피 끓이개)
+
+"dripping"
+% CONCRETE MATERIAL 
+(흠뻑 젖은)
+
+"dripstone"
+(빗물받이 돌)
+
+"drive"
+% ACTION 
+(드라이브)
+# FF drive (NOUN) : 전륜 구동
+# full drive (ADV) : 전 속력으로
+# hard drive (NOUN) : 하드드라이브
+
+"drive-in"
+% CONCRETE ANIMAL MATERIAL 
+(차 탄 채로 들어가는 영화관)
+
+"driveler"
+% FOOD
+(바보)
+
+"driver"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(운전수)
+# driver ant (NOUN) : 쏘는 개미
+# driver's license (NOUN) : 운전 면허증
+# driver's seat (NOUN) : 운전석
+
+"driveway"
+% CONCRETE MATERIAL 
+(차도)
+
+"driving"
+% MATERIAL 
+(운전)
+# drunken driving (NOUN) : 음주 운전
+
+"drizzle"
+% MATERIAL 
+(이슬비)
+
+"drogher"
+(돛배)
+
+"drogue"
+% CONCRETE MATERIAL 
+(부표)
+
+"droit"
+(권리)
+
+"droll"
+% HUMAN
+(익살 꾸러기)
+
+"drollness"
+(익살맞음)
+
+"drome"
+% PLACE
+(비행장)
+
+"dromedary"
+% CONCRETE ANIMAL MATERIAL 
+(단봉 낙타)
+
+"drone"
+% CONCRETE ANIMAL MATERIAL 
+(수펄)
+
+"drool"
+% CONCRETE MATERIAL 
+(침)
+
+"droop"
+(수그림)
+
+"drop"
+% CONCRETE MATERIAL 
+(방울)
+# a drop in the bucket (NOUN) : 바다의 물 한 방울
+# at the drop of a hat (ADV) : 신호와 동시에
+# crime drop (NOUN) : 범죄률 급락
+# drop by drop (ADV) : 한 방울씩
+# drop from A (NOUN) : [(ADJUNCT A/로부터) 하락<NOUN>]
+# ^have a drop in ONE_S eye (VERB) : 거나하게 취해 있다
+# ^have a drop in the eye (VERB) : 거나하게 취해 있다
+# ^have the drop on A (VERB) : [(ADJUNCT A/보다) (MODS [먼저<ADV>]) (OBJ [권총<NOUN>]/을) 들이대<VERB>]/다
+# ^get the drop on A (VERB) : [(ADJUNCT A/보다) (MODS [먼저<ADV>]) (OBJ [권총<NOUN>]/을) 들이대<VERB>]/다
+# ^take a drop too much (VERB) : 취하다
+# to the last drop (ADV) : 마지막 한 방울까지
+
+"drop-in"
+% HUMAN
+(훌쩍 들르는 사람)
+
+"drop-kicker"
+% HUMAN
+(드롭킥을 하는 사람)
+
+"drop-off"
+% ACTION
+(수직하강)
+
+"droplet"
+% CONCRETE MATERIAL 
+(작은 방울)
+
+"dropoff"
+(드롭오프)
+
+"dropout"
+% HUMAN
+(낙오자)
+
+"dropper"
+% CONCRETE MATERIAL HUMAN
+(떨어뜨리는 사람)
+
+"dropper-in"
+% HUMAN
+(어쩌다 들르는 사람)
+
+"dropping"
+(낙하)
+
+"dropsonde"
+(투하 라디오 존데)
+
+"dropsy"
+(수종증)
+
+"dropwort"
+% PLANT
+(서양터리풀)
+
+"drosky"
+(지붕없는 4 륜 마차)
+
+"dross"
+(쇠찌꺼기)
+
+"drought"
+% MATERIAL 
+(가뭄)
+
+"droughtiness"
+(메마름)
+
+"drove"
+% CONCRETE MATERIAL 
+(가축의 떼)
+# in droves (ADV) : 떼를 지어
+
+"drover"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(가축 상인)
+
+"drowse"
+% MATERIAL 
+(꾸벅꾸벅 졸기)
+
+"drowsiness"
+% MATERIAL 
+(졸음)
+
+"drubbing"
+(몽둥이로 때리기)
+
+"drudge"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(악착스럽게 하는 사람)
+
+"drudgery"
+% MATERIAL 
+(힘드는 일)
+
+"drug"
+% CONCRETE MATERIAL 
+(약)
+# drug habit (NOUN) : 약을 상용하는 버릇
+# drug industry (NOUN) : 제약산업
+# drug trafficking (NOUN) : 마약밀매
+# wonder drug (NOUN) : 경이로운 약
+
+"drugget"
+% CONCRETE ANIMAL MATERIAL 
+(거친 융단)
+
+"druggist"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(약종상)
+
+"druggy"
+% HUMAN
+(마약 상용자)
+
+"drugola"
+(마약 밀매자가 단속반원에게 주는 뇌물)
+
+"drugpusher"
+% HUMAN
+(마약 밀매자)
+
+"drugster"
+(마약 사용자)
+
+"drugstore"
+% CONCRETE ANIMAL MATERIAL PLACE ORGAN
+(약방)
+
+"druid"
+% HUMAN
+(승려)
+
+"drum"
+% CONCRETE MATERIAL 
+(북)
+# bass drum (NOUN) : 큰 북
+# side drum (NOUN) : 작은 북
+# ^beat the big drum (VERB) : 큰 북을 둥둥 치다
+# ^rattle the big drum (VERB) : 큰 북을 둥둥 치다
+# double drum (NOUN) : 양면북
+# with drums beating and colors flying (ADV) : 북소리 드높게 깃발을 날리며
+
+"drumbeat"
+% CONCRETE MATERIAL 
+(북소리)
+
+"drumbeater"
+% HUMAN
+(광고자)
+
+"drumfire"
+(연속 집중포화)
+
+"drumfish"
+% CONCRETE ANIMAL MATERIAL 
+(민어)
+
+"drumhead"
+% CONCRETE MATERIAL 
+(북의 가죽)
+# drumhead court martial (NOUN) : 임시 군법 회의
+
+"drumlin"
+% CONCRETE MATERIAL 
+(빙퇴구)
+
+"drummer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(고수)
+
+"drumstick"
+% CONCRETE MATERIAL 
+(북채)
+
+"drunk"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(술주정 사고)
+
+"drunkard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(술고래)
+
+"drunkenness"
+% MATERIAL 
+(술취함)
+
+"drunkometer"
+(취도 측정기)
+
+"drupe"
+% CONCRETE MATERIAL 
+(핵과)
+
+"drupel"
+(소핵과)
+
+"drupelet"
+(소핵과)
+
+"druthers"
+% MATERIAL 
+(선택)
+
+"dry"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(가뭄)
+
+"dry-bob"
+% HUMAN
+(크리켓 부원)
+
+"dry-bones"
+% HUMAN
+(빼빼마른 사람)
+
+"dryad"
+% CONCRETE MATERIAL ANIMAL
+(나무의 요정)
+
+"dryasdust"
+% HUMAN
+(학구적이나 인간미가 없는 학자)
+
+"dryer"
+% CONCRETE ANIMAL MATERIAL 
+(건조기)
+
+"drying"
+(건조)
+
+"dryness"
+% MATERIAL 
+(건조)
+
+"drysalter"
+% HUMAN
+(간물장수)
+
+"drysaltery"
+% PLACE
+(간물상)
+
+"duad"
+% CONCRETE MATERIAL 
+(한쌍)
+
+"dual"
+(양수)
+# dual economy (NOUN) : 이중구조경제
+# dual nature of investment (NOUN) : 투자의 이중성
+# dual price system (NOUN) : 이중가격제
+
+"dualin"
+(두알린)
+
+"dualism"
+% MATERIAL 
+(이중성)
+
+"dualist"
+% HUMAN
+(이원론자)
+
+"duality"
+(이중성)
+
+"dub"
+% HUMAN
+(서투른 사람)
+
+"dub-a-dub"
+(둥둥)
+
+"dubbin"
+(피혁용 크림)
+
+"dubbing"
+% CONCRETE ANIMAL MATERIAL 
+(더빙)
+
+"dubiety"
+% MATERIAL 
+(의심)
+
+"dubiousness"
+(미심쩍음)
+
+"dubitation"
+(의심)
+
+"ducat"
+(금화)
+
+"duce"
+% HUMAN
+(수령)
+
+"duchess"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(공작 부인)
+
+"duchy"
+% MATERIAL PLACE ORGAN
+(공국)
+
+"duck"
+% CONCRETE ANIMAL MATERIAL 
+(오리)
+# duck and drake (NOUN) : 물수제비 뜨기
+# fine day for young ducks (NOUN) : 비오는 날
+# in the shakes of duck's tail (ADV) : 순식간에
+# like a duck in a thunderstorm (ADV) : 허겁지겁하여
+# like water off a duck's back (ADV) : 아무런 감명도 안주고
+# ^make ducks and drakes of money (VERB) : 돈을 물쓰듯하다
+# ^play ducks and drakes with money (VERB) : 돈을 물쓰듯하다
+# ^take to A like a duck to water (VERB) : [(OBJ A/을) (MODS [제일<ADV>]) 
+좋아하<VERB>]/다
+
+"duckbill"
+% CONCRETE ANIMAL MATERIAL 
+(오리너구리)
+
+"ducker"
+% HUMAN
+(잠수부)
+
+"ducking"
+% ACTION
+(오리 사냥)
+# ^give A a ducking (VERB) : [(OBJ A/을) (ADJUNCT [(NMODS [물<NOUN>]) 속<NOUN>]/에) 쳐박<VERB>]/다
+
+"duckling"
+% CONCRETE ANIMAL MATERIAL 
+(새끼 오리)
+
+"duckpins"
+% MATERIAL 
+(십주희)
+
+"duckweed"
+% PLANT
+(개구리밥)
+
+"ducky"
+(다알링)
+
+"duct"
+% CONCRETE MATERIAL 
+(송수관)
+
+"ductility"
+% CONCRETE MATERIAL 
+(연성)
+
+"dud"
+% CONCRETE MATERIAL 
+(못쓰게 된 것)
+
+"dude"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(젠체하는 사람)
+# dude ranch (NOUN) : 관광목장
+
+"dudgeon"
+% MIND
+(노여움)
+# in high dudgeon (ADV) : 몹시 분개하여
+# in great dudgeon (ADV) : 몹시 분개하여
+# in deep dudgeon (ADV) : 몹시 분개하여
+
+"due"
+% ECOLIFE
+(부과금)
+# by due (ADV) : 응당
+# due from correspondents (NOUN) : 거래건에 의한 차입
+# for a full due (ADV) : 영구히
+# ^give A his due (VERB) : [(OBJ A/을) (MODS [공평히<ADV>]) 대하<VERB>]/다
+# of due (ADV) : 응당
+#' route due A (NOUN) : [(ADJUNCT [(ADJUNCT A/로) 가<VERB>]/하는) 길<NOUN>]
+
+"duel"
+% MATERIAL ACTION
+(결투)
+# the duel (NOUN) : 결투법
+
+"duenna"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(소녀 감독부인)
+
+"duet"
+% CONCRETE MATERIAL 
+(이중창)
+
+"duettist"
+% HUMAN
+(이중주자)
+
+"duetto"
+(이중창)
+
+"duff"
+% CONCRETE MATERIAL 
+(가루반죽)
+# duff gen (NOUN) : 부정확한 정보
+
+"duffel"
+% CONCRETE MATERIAL 
+(더플)
+
+"duffer"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(바보)
+
+"duffle"
+% CONCRETE MATERIAL 
+(더플)
+
+"dug"
+% CONCRETE MATERIAL ANIMAL
+(젖퉁이)
+
+"dugong"
+% CONCRETE ANIMAL MATERIAL 
+(듀우공)
+
+"dugout"
+% CONCRETE ANIMAL MATERIAL 
+(더그아우트)
+
+"duiker"
+% ANIMAL
+(작은 영양)
+
+"duke"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(공작)
+# the Iron Duke (NOUN) : 웰링턴 공
+# toyal duke (NOUN) : 왕족의 공작
+
+"dukedom"
+% MATERIAL PLACE ORGAN
+(군주의 영토)
+
+"dukw"
+% ANIMAL
+(오리)
+
+"dulcimer"
+% CONCRETE ANIMAL MATERIAL 
+(고대 현악기)
+
+"dulcin"
+(둘찐)
+
+"dulcinea"
+% HUMAN
+(애인)
+
+"dulcite"
+(덜사이트)
+
+"dulcitol"
+(덜사이트)
+
+"dullard"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(둔재)
+
+"dullness"
+% CONCRETE MATERIAL 
+(무딤)
+
+"dullsville"
+(몹시 따분함)
+
+"dulness"
+(무딤)
+
+"dumbbell"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(아령)
+
+"dumbhead"
+% HUMAN
+(멍청이)
+
+"dumbness"
+% MATERIAL 
+(말을 못함)
+
+"dumbo"
+(구명기)
+
+"dumbwaiter"
+% CONCRETE ANIMAL MATERIAL 
+(화물 엘리베이터)
+
+"dumdum"
+(덤덤탄)
+
+"dummy"
+% CONCRETE MATERIAL 
+(마네킨)
+# ^sell a dummy (VERB) : 공을 패스하는 체하며 속이다
+# ^sell the dummy (VERB) : 공을 패스하는 체하며 속이다
+
+"dump"
+% MATERIAL 
+(쓰레기 버리는 곳)
+# ^do not care a dump (VERB) : 조금도 개의치 않다
+# in the dumps (ADV) : 우울해져서
+
+"dumpcart"
+% CONCRETE ANIMAL MATERIAL 
+(덤프식 쓰레기차)
+
+"dumper"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(쓰레기 치는 인부)
+
+"dumpiness"
+% CONCRETE MATERIAL 
+(땅딸막함)
+
+"dumping"
+% MATERIAL 
+(덤핑)
+# concealed dumping (NOUN) : 은닉덤핑
+# dumping field (NOUN) : 덤핑시장
+
+"dumpling"
+% CONCRETE MATERIAL FOOD
+(사과를 넣고 찐 경단)
+
+"dumpy"
+% ANIMAL
+(다리가 짧은 닭)
+
+"dungeon"
+% CONCRETE ANIMAL MATERIAL PLACE
+(토굴 감옥)
+
+"dunk"
+(덩크)
+
+"dunnage"
+(수하물)
+
+"dunner"
+(채귀)
+
+"dunnock"
+% CONCRETE ANIMAL MATERIAL 
+(바위종다리)
+
+"dunt"
+(꽝 때리기)
+
+"duo"
+% CONCRETE MATERIAL 
+(2 중주)
+# comedy duo (NOUN) : 희극 2 인조
+
+"duodecimal"
+(12 진법)
+
+"duodecimo"
+(12 절판)
+
+"duodenitis"
+(십이지장 염)
+
+"duodenum"
+% CONCRETE MATERIAL 
+(십이지장)
+
+"duograph"
+(스테레오판)
+
+"duologue"
+% ACTION
+(이인 대화)
+
+"duomo"
+% PLACE ORGAN
+(대교회당)
+
+"duorail"
+(2 궤 철도)
+
+"dupe"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(잘 속는 사람)
+
+"dupery"
+% MATERIAL 
+(사기)
+
+"duplex"
+% CONCRETE MATERIAL 
+(합지)
+
+"duplicate"
+% CONCRETE MATERIAL 
+(사본)
+
+"duplication"
+% CONCRETE MATERIAL 
+(복제)
+
+"duplicator"
+% CONCRETE ANIMAL MATERIAL 
+(복사기)
+
+"duplicity"
+% CONCRETE MATERIAL 
+(표리부동)
+
+"durability"
+% CONCRETE MATERIAL 
+(내구성)
+
+"durable"
+(내구재)
+
+"dural"
+(듀랄루민)
+
+"duralumin"
+(듀랄루민)
+
+"duramen"
+(심재)
+
+"durance"
+(감금)
+# in durance (ADV) : 감금되어
+
+"duration"
+% CONCRETE MATERIAL 
+(지속)
+# duration of flight (NOUN) : 항속 기간
+# duration of insurance (NOUN) : 보험 기간
+
+"durbar"
+(공식 접견)
+
+"duress"
+% MATERIAL 
+(강제)
+
+"durian"
+% CONCRETE MATERIAL 
+(듀우리언)
+
+"durion"
+% CONCRETE ANIMAL MATERIAL 
+(듀우리언)
+
+"durra"
+(팥수수)
+
+"durum"
+(참밀)
+
+"dusk"
+% MATERIAL 
+(땅거미)
+# at dusk (ADV) : 해질 무렵에
+
+"duskiness"
+% CONCRETE MATERIAL 
+(어둠)
+
+"dust"
+% CONCRETE MATERIAL 
+(먼지)
+# ^bite the dust (VERB) : 쓰러지다
+# ^eat the dust (VERB) : 쓰러지다
+# ^lick the dust (VERB) : 쓰러지다
+# ^kiss the dust (VERB) : 쓰러지다
+# dust bowl (NOUN) : 황진 지대
+# honored dust (NOUN) : 유해
+# in the dust (ADV) : 죽어서
+# ^kick up a dust (VERB) : 소동을 일으키다
+# ^make a dust (VERB) : 소동을 일으키다
+# ^raise a dust (VERB) : 소동을 일으키다
+# ^lay the dust (VERB) : 먼지를 재우다
+# out_of dust (ADV) : 먼지 속에서
+# ^shake the dust off ONE_S feet (VERB) : 자리를 박차고 가버리다
+# ^shake off the dust of ONE_S feet (VERB) : 자리를 박차고 가버리다
+
+"dust-bin"
+(쓰레기통)
+
+"dust-man"
+% HUMAN
+(쓰레기 청소부)
+
+"dustbin"
+% CONCRETE ANIMAL MATERIAL 
+(쓰레기통)
+
+"dustbrand"
+(흑수병)
+
+"duster"
+% CONCRETE MATERIAL HUMAN
+(청소부)
+# the red duster (NOUN) : 붉은 기
+
+"dustiliness"
+(먼지 투성이)
+
+"dusting"
+(먼지털기)
+
+"dustpan"
+% CONCRETE ANIMAL MATERIAL 
+(쓰레받기)
+
+"dustup"
+% ACTION
+(소동)
+
+"duteousness"
+(순종)
+
+"dutifulness"
+% CONCRETE MATERIAL 
+(충실)
+
+"duty"
+% MATERIAL 
+(의무)
+# ad valorem duty (NOUN) : 종가세
+# alternative duties (NOUN) : 선택세
+# anti-dumping duty (NOUN) : 부당 염가 방지 관세
+# ^be duty bound TO_INF (VERB) : [(SCOMP [(RELCL TO_INF/할) 의무<NOUN>]/가) 있<VERB>]/다
+# countervailing duties (NOUN) : 상계관세
+# customs duties (NOUN) : 관세
+# death duty (NOUN) : 상속세
+# ^do duty as A (VERB) : [(SCOMP [(POSS A/의) 대용<NOUN>]/이) 되<VERB>]/다
+# ^do duty for A (VERB) : [(SCOMP [(POSS A/의) 대용<NOUN>]/이) 되<VERB>]/다
+# ^do ONE_S duty (VERB) : 본분을 다하다
+# duty call (NOUN) : 의례상의 방문
+# duty paid (NOUN) : 납세함
+# excise duty (NOUN) : 국내소비세
+# excise duties (NOUN) : 소비세
+# excise duty (NOUN) : 국내소비세
+# existing preferential duties (NOUN) : 기존특혜
+# existing shareholder (NOUN) : 현주옥
+# export duties (NOUN) : 수출세
+# ^fail in ONE_S duty (VERB) : 본분을 게을리하다
+# military duty (NOUN) : 병역의무
+# mixed duty (NOUN) : 복식관세
+# off duty (ADJ) : 비번의
+# on duty | (ADJ) : 당번의
+# ^pay ONE_S duty to A (VERB) : [(OBJ2 A/에게) (ADJUNCT [삼가<ADV>]) 
+(OBJ [경의<NOUN>]/를) 표하<VERB>]/다
+# ^perfrom ONE_S duty (VERB) : 본분을 다하다
+# preferential duty (NOUN) : 특혜관세
+# ^present ONE_S duty to A (VERB) : [(OBJ2 A/에게) (MODS [삼가<ADV>]) 
+경의를 표하<VERB>]/다
+# ^send ONE_S duty to A (VERB) : [(OBJ2 A/에게) (MODS [삼가<ADV>]) 경의를 표하<VERB>]/다
+# ^take ONE_S duty (VERB) : 남의 일을 대신하다
+# the duty of water (NOUN) : 관개율
+# transit duty (NOUN) : 통과관세
+
+"duumvir"
+% HUMAN
+(양두 정치가의 한사람)
+
+"duumvirate"
+% HUMAN
+(이인 연대직)
+
+"dwarf"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(난장이)
+
+"dwarfism"
+% MATERIAL 
+(위축)
+
+"dwell"
+% PLACE
+(주거)
+
+"dweller"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(주민)
+
+"dwelling"
+% CONCRETE MATERIAL PLACE
+(거주)
+# dwelling place (NOUN) : 주소
+
+"dwindler"
+% HUMAN
+(위축된 사람)
+
+"dyad"
+% CONCRETE MATERIAL 
+(둘)
+
+"dyarchy"
+% ORGAN
+(양두정치)
+
+"dye"
+% CONCRETE MATERIAL 
+(물감)
+# crime of the blackest dye (NOUN) : 극악한 죄
+# scoundrel of the blackest dye (NOUN) : 극악한 죄
+# mordant dyes (NOUN) : 매염 염료
+# synthetic dyes (NOUN) : 합성 염료
+
+"dyeing"
+(염색)
+
+"dyer"
+% HUMAN
+(염색공)
+
+"dyestuff"
+% CONCRETE MATERIAL 
+(염료)
+
+"dyestuff-ware"
+(염료)
+
+"dyewood"
+% PLANT
+(염료가 되는 각종 목재)
+
+"dying"
+% MATERIAL 
+(죽음)
+
+"dyke"
+% CONCRETE ANIMAL MATERIAL HUMAN
+(동성애하는 여자)
+
+"dynagraph"
+(궤도 시험기)
+
+"dynameter"
+(확도계)
+
+"dynamic"
+(동력)
+
+"dynamics"
+% MATERIAL 
+(역학)
+
+"dynamism"
+% CONCRETE MATERIAL 
+(역본설)
+
+"dynamitard"
+% HUMAN
+(테러분자)
+
+"dynamite"
+% CONCRETE MATERIAL 
+(다이너마이트)
+
+"dynamiter"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(테러분자)
+
+"dynamitism"
+% ART
+(급진적 혁명주의)
+
+"dynamo"
+% CONCRETE ANIMAL MATERIAL 
+(다이너모우)
+
+"dynamograph"
+(동력 기록기)
+
+"dynamometer"
+% CONCRETE ANIMAL MATERIAL 
+(검력계)
+
+"dynamometry"
+(동력측정법)
+
+"dynamotor"
+(직류 발전 발동기)
+
+"dynast"
+% CONCRETE HUMAN ANIMAL MATERIAL 
+(주권자)
+
+"dynasty"
+% MATERIAL 
+(왕조)
+# the founding of the dynasty (NOUN) : 왕조건설
+
+"dynatron"
+(다이너트론)
+
+"dyne"
+% CONCRETE UNIT MATERIAL 
+(다인)
+
+"dysentery"
+% MATERIAL 
+(이질)
+
+"dysfunction"
+% MATERIAL 
+(역기능)
+
+"dysgenics"
+% ART
+(열생학)
+
+"dyslexia"
+% MATERIAL 
+(난독증)
+
+"dysmenorrhea"
+(월경 곤란)
+
+"dyspepsia"
+% MATERIAL 
+(소화 불량)
+
+"dyspepsy"
+(소화 불량)
+
+"dyspeptic"
+% HUMAN
+(소화 불량환자)
+
+"dysphonia"
+(발은 곤란)
+
+"dysphony"
+(발음 곤란)
+
+"dyspnoea"
+(천식)
+
+"dysprosium"
+% CONCRETE MATERIAL 
+(디스프로슘)
+
+"dystopia"
+(반이상향)
+
+"dystrophy"
+(영양실조)
+
+"dysuria"
+(배뇨 곤란)
