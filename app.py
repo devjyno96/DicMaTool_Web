@@ -36,6 +36,13 @@ def postMakeGenericDB():
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 
+@app.route('/postMakeDomainDB', methods=['POST'])
+def postMakeDomainDB():
+    data = request.get_json()  # json 데이터를 받아옴
+    result = transfer.makeDomainDB(data)
+    return jsonify(result)  # 받아온 데이터를 다시 전송
+
+
 @app.route('/getJson', methods=['get'])
 def getJson():
     user = {

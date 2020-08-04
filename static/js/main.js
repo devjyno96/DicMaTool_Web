@@ -47,6 +47,7 @@ function registerListeners() {
     dom.clearButton.addEventListener("click", onClearButtonClick);
     dom.updateButton.addEventListener("click", onUpdateButtonClick);
     dom.makeGenericDBButton.addEventListener("click", onMakeGenericDBButton);
+    dom.makeDomainDBButton.addEventListener("click", onMakeDomainDBButton);
 }
 // input values initialize
 function onClearButtonClick(){
@@ -71,6 +72,10 @@ function onUpdateButtonClick(){
 
 function onMakeGenericDBButton(){
     postMakeGenericDB();
+}
+
+function onMakeDomainDBButton(){
+    postMakeDomainDB();
 }
 
 //Post function
@@ -147,6 +152,35 @@ function postMakeGenericDB() {
         success: function (response) {
             // if error has data => show error msg alert
             dom.dicInfoDetails.value = response.result;
+/*
+            if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
+                alert((response.errors));
+                dom.dicInfoDetails.value = response.errors;
+            }
+            // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
+            //dom.dicInfoDetailsRight.value = response.dicInfoRight;
+            // text.posTagged = response.result;
+            // dom.dicInfoDetailsLeft.innerHTML = text.posTagged;
+*/
+        }
+    });
+}
+
+function postMakeDomainDB() {
+    var data = {
+        word : dom.wordInput.value,
+        generics : dom.genericPOSInput.value,
+        domains : dom.domainPOSInput.value
+    };
+    $.ajax({
+        type: "POST",
+        url: "/postMakeDomainDB",
+        data: JSON.stringify(data),
+        dataType:'json' ,
+        contentType: "application/json",
+        success: function (response) {
+            // if error has data => show error msg alert
+            alert(response.result);
 /*
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
                 alert((response.errors));

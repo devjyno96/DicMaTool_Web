@@ -2809,6 +2809,7 @@
 # test boring (NOUN) : 시추
 # test marketing (NOUN) : 시험발매
 
+
 "test-preparation"
 (시험-준비)
 

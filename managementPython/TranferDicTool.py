@@ -155,9 +155,8 @@ class transferDic :
     def Update(self, replaceData):
         searchResult = self.Search(replaceData)
         searchResult.update({"result" : "", "errors" : ""})
-        domain = replaceData['domains']
-        generic = replaceData['generics']
-        word = replaceData['word']
+
+
         # file offset reset
         searchResult['file'].seek(0)
         allLines = searchResult['file'].readlines()
@@ -170,6 +169,10 @@ class transferDic :
             updateData.append(item + "\n") # split 과정중 사라진 \n을 붙여줌
         #수정 이후 부분
         updateData += allLines[searchResult['foundLine'] + searchResult['nextEntryLine']:]
+
+        domain = replaceData['domains']
+        generic = replaceData['generics']
+        word = replaceData['word']
 
 
         if len(generic) == 0:
@@ -233,7 +236,7 @@ class transferDic :
 
 
     def makeGenericDB(self):
-        resultDict = {"result" : "", "errors" : 0}
+        resultDict = {"result" : "", "error" : 0}
 
         relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
         fileName = "makeTransDicDB.exe"
@@ -253,8 +256,22 @@ class transferDic :
 
 
 
-    def makeDomainDB(self, word, genericPOS, domainPOS):
-        print("transferMakeDomainDB")
+    def makeDomainDB(self, data):
+        resultDict = {"result" : "", "error" : 0}
+        domain = data['domains']
+
+        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
+        fileName = "makeDomainDicDB.exe"
+
+        location = os.getcwd()
+        os.chdir(relativePath)
+        result = subprocess.run([fileName, domain], capture_output= True)
+        output = result.stdout.decode('utf-8')
+        os.chdir(location)
+        print(output)
+
+        resultDict['result'] = output + "\nDomain Dictionary DB " + domain + " is created !"
+        return resultDict
 
     def generateKSDicFile(self, folderName, fileName):
         alterFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\" + fileName
@@ -282,5 +299,5 @@ if __name__ == "__main__" :
     # testClass.makeGenericDB()
     testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
     # testClass.Search(testData)
-    testClass.Update(testData)
-
+    #testClass.Update(testData)
+    testClass.makeDomainDB(testData)
