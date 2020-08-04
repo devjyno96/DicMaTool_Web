@@ -132,7 +132,8 @@ class transferDic :
         else:
             # print(word + " is not in dictionary")
             errorMSG = word + " is not in dictionary"
-            resultDict["errors"] = errorMSG
+            resultDict["error"] = 1
+            resultDict["message"] = errorMSG
             return resultDict
         resultDict['foundLine'] = index
 
@@ -152,12 +153,25 @@ class transferDic :
 
 
     def Update(self, replaceData):
-        resultJson = {"result" : "", "errors" : ""}
-        searchResult = self.Search(replaceData)
+        searchResult = self.Search({"result" : "", "errors" : ""})
 
-        print(searchResult['result'])
-        print("searchResult['result']")
+        # file offset reset
+        searchResult['file'].seek(0)
+        allLines = searchResult['file'].readlines()
+        updateData = []
 
+        #수정 전의 부분
+        updateData += allLines[: searchResult['foundLine'] - 1]
+        #수정 부분
+        for item in replaceData['updateText'].split("\n") :
+            updateData.append(item + "\n") # split 과정중 사라진 \n을 붙여줌
+        #수정 이후 부분
+        updateData += allLines[searchResult['foundLine'] + searchResult['nextEntryLine']:]
+
+        
+
+
+        return replaceData
 
 
 
@@ -210,5 +224,6 @@ if __name__ == "__main__" :
     testClass = transferDic()
     # testClass.makeGenericDB()
     testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
-    testClass.Search(testData)
+    # testClass.Search(testData)
+    testClass.Update(testData)
 

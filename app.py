@@ -18,6 +18,7 @@ def index():
 def postSearch():
     search = request.get_json()  # json 데이터를 받아옴
     result = transfer.Search(search)
+    del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 
@@ -25,6 +26,7 @@ def postSearch():
 def postUpdate():
     update = request.get_json()  # json 데이터를 받아옴
     result = transfer.Update(update)
+    # del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 
