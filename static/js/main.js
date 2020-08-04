@@ -121,7 +121,7 @@ function postUpdate() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
-
+            alert(response.result)
             if (typeof(response.error) == 1) {
                 alert((response.message));
                 dom.dicInfoDetails.value = "";

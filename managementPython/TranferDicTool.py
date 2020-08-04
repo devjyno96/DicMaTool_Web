@@ -153,8 +153,11 @@ class transferDic :
 
 
     def Update(self, replaceData):
-        searchResult = self.Search({"result" : "", "errors" : ""})
-
+        searchResult = self.Search(replaceData)
+        searchResult.update({"result" : "", "errors" : ""})
+        domain = replaceData['domains']
+        generic = replaceData['generics']
+        word = replaceData['word']
         # file offset reset
         searchResult['file'].seek(0)
         allLines = searchResult['file'].readlines()
@@ -168,8 +171,62 @@ class transferDic :
         #수정 이후 부분
         updateData += allLines[searchResult['foundLine'] + searchResult['nextEntryLine']:]
 
-        
 
+        if len(generic) == 0:
+            POS = domain
+        else:
+            POS = generic
+        newDomainPOS = ""
+        if POS not in self.CONVERT_POS:
+            newDomainPOS = POS
+        else:
+            newDomainPOS = self.CONVERT_POS[POS]
+        firstLetter = word[0].lower()
+        # make dictionary file name in KS DIC folder
+        folderName = ""
+        if POS not in self.FOLDER_Name:
+            folderName = "General"
+        else:
+            folderName = self.FOLDER_Name[POS]
+
+        KSDicFullFileName = self.KS_DIC_FOLDER + "\\" + folderName + "\\"
+        NDicFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\"
+        fileName = "dic"
+        if newDomainPOS not in ['pron', 'prep', 'conj']:
+            fileName += firstLetter
+        fileName += '.'
+        fileName += newDomainPOS
+
+        NDicFullFileName += fileName
+
+        KSDicFullFileName += fileName
+        KSDicFullFileName += '.txt'
+
+        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
+
+
+        txtFileName = "KS-DICT2\\" + folderName + "\\" + fileName + ".txt"
+        txtFile = open(relativePath + txtFileName, 'w')
+        txtFile.write("".join(updateData))
+
+        tmpFileName = 'tmp\\' + fileName + '.jh'
+
+        # ksExe = "EXE\\kscode.exe"
+        ksExe = "kscode.exe"
+        # ksArgument = "-jk " + fileName + ".jh" + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName + '.txt'
+        # process run kscode.exe (argument is ksArgument)
+        subprocess.run([relativePath + ksExe, "-kj", relativePath + txtFileName,
+                        relativePath + tmpFileName])
+
+        # cnExe = "EXE\\cn.exe"
+        cnExe = "cn.exe"
+        # cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
+        # process run cn.exe (argument is cnArgument)
+        subprocess.run([relativePath + cnExe, "-cn", relativePath + tmpFileName,
+                        relativePath+ "N-DICT\\" + folderName + "\\" + fileName])
+
+        # sTxtFileName + " is created" + Environment.NewLine + "N-DICT\\" + sFolderName + "\\" + sFileName + " is created")
+        replaceData['result'] = txtFileName + " is created\n" + "N-DICT\\" + folderName + "\\" + fileName + " is created"
 
         return replaceData
 
