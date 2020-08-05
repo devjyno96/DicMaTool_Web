@@ -45,113 +45,85 @@
 
 
 <div class="container">
-    <div>
-        
-    </div>
     <div class="center-block row" style="width:80%; background-color : GAINSBORO;">
-        <div id='topWrapper' class="top row">
-            <div class="wordWrapper  col-xs-3" style="width : 22%; margin:2%">
-                <div>
-                    <h3>word :</h3>
+        <div id = "lexicalDBWrapper" class = "top row">
+            <div id = "lexicalLeft" class = "col-xs-8">
+                <div id = "lexicalInputTop">
+                    <div class = "col-xs-2">
+                        <h3>word :</h3>
+                    </div>
+                    <br>
+                    <div class="lexWordInputDiv col-xs-6">
+                        <input type="text" id ="lexWordInput" name="words" size="30" class="form-control">
+                    </div>
+                    <div class="search col-xs-2">
+                        <input type="button" id="lexSearchButton" style="width : 100%; height : 40px;" value="search">
+                    </div>
+                    <div class="clear col-xs-2">
+                        <input type="button" id="lexClearButton"  style="width : 100%; height : 40px;" value="clear">
+                    </div>
+                    <div class = "col-xs-3">
+                        <h4>Lex DIC Info :</h4>
+                    </div>
+                    <div class="update col-xs-4">
+                        <input type="button" id="lexDicButton"  style="width : 100%; height : 40px;" value="update">
+                    </div>
+                    <div id = "lexicalInputDown">
+                        <div class="lexInfoDetails col-xs-12">
+                            <textarea class="form-control" id="lexInfoDetails" style="height : 200px"></textarea>
+                        </div>
+                    </div>
                 </div>
-                <div class="wordInputDiv">
-                    <input type="text" id ="wordInput" name="words" size="30" class="form-control">
+
+            </div>
+            <div id = "lexicalRight" class = "col-xs-4">
+                <div class="MakeLexicalDB">
+                    <br>
+                <input type="button" id="MakeLexicalButton"  style="width : 100%; height : 40px;" value="Make Lexical DB">
                 </div>
             </div>
-
-
-            <div class="GenericPOSInput  col-xs-3" style="width : 22%; margin:1%">
-                <div>
-                    <b>GenericPOS :</b>
-                    <select id="genericPOSInput" class="form-control" size="7">
-                        <option>noun</option>
-                        <option>verb</option>
-                        <option>adj</option>
-                        <option>adv</option>
-                        <option>pron</option>
-                        <option>conj</option>
-                        <option>prep</option>
-                    </select>
-                </div>
-            </div>
-
-            <div class="domainPOSInput  col-xs-3" style="width : 22%; margin:1%">
-                <div>
-                    <b>domainPOS :</b>
-                    <select id="domainPOSInput" class="form-control " size="7">
-
-                        <option>nar (airplane)</option>
-                        <option>arc (architecture)</option>
-                        <option>atm (atomic)</option>
-                        <option>ato (auto)</option>
-                        <option>bio (bio)</option>
-                        <option>jco (computer-j)</option>
-                        <option>nco (computer-n)</option>
-                        <option>nee (economy-n)</option>
-                        <option>vee (economy-v)</option>
-                        <option>ind (industry)</option>
-                        <option>med (medical)</option>
-                        <option>tac (military)</option>
-                        <option>pat (patent)</option>
-                        <option>npo (politics)</option>
-                        <option>shp (ship)</option>
-                        <option>nsp (sports-n)</option>
-                        <option>vsp (sports-v)</option>
-                        <option>tel (telecommunication)</option>
-                    </select>
-                </div>
-            </div>
-
-            <div class="ButtonsWrapper col-xs-3" style="width : 22%; margin:2%">
-                <div class="search">
-                    <input type="button" id="searchButton" style="width : 100%; height : 60px;" value="search">
-                </div>
-                <br>
-                <div class="clear">
-                    <input type="button" id="clearButton"  style="width : 100%; height : 60px;" value="clear">
-                </div>
-            </div>
-
         </div>
+        <hr style="border: 1px dashed;">
+        <div id = "probDBWrapper" class = "top row">
+            <div id = "probLeft" class = "col-xs-8">
+                <div id = "probInputTop">
+                    <div class = "col-xs-2">
+                        <h3>word :</h3>
+                    </div>
+                    <br>
+                    <div class="lexWordInputDiv col-xs-6">
+                        <input type="text" id ="probWordInput" name="words" size="30" class="form-control">
+                    </div>
+                    <div class="search col-xs-2">
+                        <input type="button" id="probSearchButton" style="width : 100%; height : 40px;" value="search">
+                    </div>
+                    <div class="clear col-xs-2">
+                        <input type="button" id="probClearButton"  style="width : 100%; height : 40px;" value="clear">
+                    </div>
+                    <div class = "col-xs-3">
+                        <h4>Prob DIC Info :</h4>
+                    </div>
+                    <div class="update col-xs-4">
+                        <input type="button" id="probDicButton"  style="width : 100%; height : 40px;" value="update">
+                    </div>
+                    <div id = "probInputDown">
+                        <div class="lexInfoDetails col-xs-12">
+                            <textarea class="form-control" id="probInfoDetails" style="height : 200px"></textarea>
+                        </div>
+                    </div>
+                </div>
 
-        <div id='bottomWrapper' class='bottom row' style="margin:1%">
-            <div class="dicInfo col-xs-6">
-                <h1 class="text-center">Dictionary Information</h1>
             </div>
-            <div class="update col-xs-2">
-                <input type="button" id="updateButton"  style="width : 100%; height : 60px;" value="update">
+            <div id = "probRight" class = "col-xs-4">
+                <div class="MakeGenericDB">
+                    <br>
+                <input type="button" id="MakeProblButton"  style="width : 100%; height : 60px;" value="Make Prob DB">
+                </div>
             </div>
-            <div class="MakeGenericDB col-xs-2">
-                <input type="button" id="MakeGenericButton"  style="width : 100%; height : 60px;" value="MakeGenericDB">
-            </div>
-            <div class="MakeDomainDB col-xs-2">
-                <input type="button" id="MakeDomainButton"  style="width : 100%; height : 60px;" value="MakeDomainDB">
-            </div>
-
-            <div class="dicInfoDetailsLeft col-xs-12">
-                <textarea class="form-control" id="dicInfoDetails" style="height : 500px"></textarea>
-            </div>
-            <!--
-            <div class="dicInfoDetailsLeft col-xs-6">
-                <textarea class="form-control" id="dicInfoDetailsLeft" style="height : 300px"></textarea>
-            </div>
-            <div class="dicInfoDetailsRight col-xs-6">
-                <textarea class="form-control" id="dicInfoDetailsRight" style="height : 300px"> </textarea>
-            </div>
-            -->
         </div>
     </div>
-    <!--
-        <div class="alert alert-success" role="alert">Well done! You successfully read this important alert message.</div>
-        <div class="alert alert-info" role="alert">Heads up! This alert needs your attention, but it's not super
-            important.
-        </div>
-        <div class="alert alert-warning" role="alert">Warning! Better check yourself, you're not looking too good.</div>
-        <div class="alert alert-danger" role="alert">Oh snap! Change a few things up and try submitting again.</div>
-    -->
 </div>
 <!-- /.container -->
-
 
 <!-- Bootstrap core JavaScript
 ================================================== -->
