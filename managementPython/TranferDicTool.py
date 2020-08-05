@@ -268,8 +268,6 @@ class transferDic :
         result = subprocess.run([fileName, domain], capture_output= True)
         output = result.stdout.decode('utf-8')
         os.chdir(location)
-        print(output)
-
         resultDict['result'] = output + "\nDomain Dictionary DB " + domain + " is created !"
         return resultDict
 

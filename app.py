@@ -10,8 +10,16 @@ transfer = TranferDicTool.transferDic()
 
 
 @app.route('/')
-def index():
-    return render_template('index.html')
+def viewIndex():
+    return render_template('trans.html')
+
+@app.route('/trans')
+def viewTrans():
+    return render_template('trans.html')
+
+@app.route('/lex')
+def viewLex():
+    return render_template('lex.html')
 
 
 @app.route('/postSearch', methods=['POST'])
