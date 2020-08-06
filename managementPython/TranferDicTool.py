@@ -265,10 +265,11 @@ class transferDic :
 
         location = os.getcwd()
         os.chdir(relativePath)
-        result = subprocess.run([fileName, domain], capture_output= True)
+        result = subprocess.run([fileName, domain[0:3]], capture_output= True)
         output = result.stdout.decode('utf-8')
         os.chdir(location)
         resultDict['result'] = output + "\nDomain Dictionary DB " + domain + " is created !"
+        print(resultDict['result'])
         return resultDict
 
     def generateKSDicFile(self, folderName, fileName):
