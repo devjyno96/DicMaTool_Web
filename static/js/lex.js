@@ -47,15 +47,15 @@ function getDomReferences() {
  */
 function registerListeners() {
 
-    dom.lexSearchButton.addEventListener("click", onMakeDomainDBButton);
+    dom.lexSearchButton.addEventListener("click", onLexSearchButtonClick);
     dom.lexClearButton.addEventListener("click", onLexClearButtonClick);
-    dom.lexUpdateButton.addEventListener("click", onMakeDomainDBButton);
-    dom.lexMakeLexicalDBButton.addEventListener("click", onMakeDomainDBButton);
+    dom.lexUpdateButton.addEventListener("click", onLexUpdateButtonClick);
+    dom.lexMakeLexicalDBButton.addEventListener("click", onMakeLexicalDBButton);
 
-    dom.probSearchButton.addEventListener("click", onMakeDomainDBButton);
+    dom.probSearchButton.addEventListener("click", onProbSearchButtonClick);
     dom.probClearButton.addEventListener("click", onProbClearButtonClick);
-    dom.probUpdateButton.addEventListener("click", onMakeDomainDBButton);
-    dom.probMakeLexicalDBButton.addEventListener("click", onMakeDomainDBButton);
+    dom.probUpdateButton.addEventListener("click", onProbUpdateButtonClick);
+    dom.probMakeLexicalDBButton.addEventListener("click", onMakeProbDBButton);
 
 }
 // input values initialize
@@ -63,45 +63,39 @@ function onLexClearButtonClick(){
     dom.lexWordInput.value = null;
     dom.lexDicInfoDetails.value = null;
 }
-
 // input values initialize
 function onProbClearButtonClick(){
     dom.probWordInput.value = null;
     dom.probDicInfoDetails.value = null;
 }
-
-
-function onSearchButtonClick(){
-    postSearch();
+function onLexSearchButtonClick(){
+    postLexSearch();
+}
+function onProbSearchButtonClick(){
+    postProbSearch();
+}
+function onLexUpdateButtonClick(){
+    postLexUpdate();
+}
+function onProbUpdateButtonClick(){
+    postProbUpdate();
+}
+function onMakeLexicalDBButton(){
+    postMakeLexicalDB();
+}
+function onMakeProbDBButton(){
+    postMakeProbDB();
 }
 
 
-function onUpdateButtonClick(){
-    postUpdate();
-}
-
-
-function onMakeGenericDBButton(){
-    postMakeGenericDB();
-}
-
-function onMakeDomainDBButton(){
-    postMakeDomainDB();
-}
-
-//Post function
-//post - word, generic, domain
-//response - dicInfoLeft, Right
-function postSearch() {
+function postLexSearch() {
     var data = {
-        word : dom.wordInput.value,
-        generics : dom.genericPOSInput.value,
-        domains : dom.domainPOSInput.value
+        word : dom.lexWordInput.value
     };
 
     $.ajax({
         type: "POST",
-        url: "/postSearch",
+        url: "/postLexSearch",
         data: JSON.stringify(data),
         dataType:'json' ,
         contentType: "application/json",
@@ -122,16 +116,44 @@ function postSearch() {
     });
 }
 
-function postUpdate() {
+function postProbSearch() {
     var data = {
-        word : dom.wordInput.value,
-        generics : dom.genericPOSInput.value,
-        domains : dom.domainPOSInput.value,
-        updateText : dom.dicInfoDetails.value
+        word : dom.probWordInput.value
+    };
+
+    $.ajax({
+        type: "POST",
+        url: "/postProbSearch",
+        data: JSON.stringify(data),
+        dataType:'json' ,
+        contentType: "application/json",
+        success: function (response) {
+            // if error has data => show error msg alert
+            dom.dicInfoDetails.value = response.result;
+
+            if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
+                alert((response.errors));
+                dom.dicInfoDetails.value = response.errors;
+            }
+            // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
+            //dom.dicInfoDetailsRight.value = response.dicInfoRight;
+            // text.posTagged = response.result;
+            // dom.dicInfoDetailsLeft.innerHTML = text.posTagged;
+
+        }
+    });
+}
+
+
+
+function postLexUpdate() {
+    var data = {
+        word : dom.lexWordInput.value,
+        updateText : dom.lexDicInfoDetails.value
     };
     $.ajax({
         type: "POST",
-        url: "/postUpdate",
+        url: "/postLexUpdate",
         data: JSON.stringify(data),
         dataType:'json' ,
         contentType: "application/json",
@@ -151,12 +173,38 @@ function postUpdate() {
     });
 }
 
+function postProbUpdate() {
+    var data = {
+        word : dom.probWordInput.value,
+        updateText : dom.probDicInfoDetails.value
+    };
+    $.ajax({
+        type: "POST",
+        url: "/postProbUpdate",
+        data: JSON.stringify(data),
+        dataType:'json' ,
+        contentType: "application/json",
+        success: function (response) {
+            // if error has data => show error msg alert
+            alert(response.result)
+            if (typeof(response.error) == 1) {
+                alert((response.message));
+                dom.dicInfoDetails.value = "";
+            }
+            // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
+            //dom.dicInfoDetailsRight.value = response.dicInfoRight;
+            // text.posTagged = response.result;
+            // dom.dicInfoDetailsLeft.innerHTML = text.posTagged;
 
-function postMakeGenericDB() {
+        }
+    });
+}
+
+function postMakeLexicalDB() {
 
     $.ajax({
         type: "POST",
-        url: "/postMakeGenericDB",
+        url: "/postMakeLexicalDB",
         data: JSON.stringify({}),
         dataType:'json' ,
         contentType: "application/json",
@@ -177,7 +225,7 @@ function postMakeGenericDB() {
     });
 }
 
-function postMakeDomainDB() {
+function postMakeProbDB() {
     var data = {
         word : dom.wordInput.value,
         generics : dom.genericPOSInput.value,
@@ -185,7 +233,7 @@ function postMakeDomainDB() {
     };
     $.ajax({
         type: "POST",
-        url: "/postMakeDomainDB",
+        url: "/postMakeProbDB",
         data: JSON.stringify(data),
         dataType:'json' ,
         contentType: "application/json",
