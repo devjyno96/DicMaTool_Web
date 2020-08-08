@@ -129,222 +129,114 @@ class lexicalDic:
 
 
     def lexUpdate(self, data):
-        print("lex Search")
-
-    def probUpdate(self, data):
-        print("lex Search")
-
-    def openDicFile(self, data):
-        resultDict = {"result": "", "error": 0, "message": "", "file": None}
+        searchResult = self.lexSearch(data)
         word = data['word']
-        generic = data['generics']
-        domain = data['domains'][0:3]  # POS = 3 characters
-        errorMSG = ""
-        POS = ""
-        # generic is none  pos is domain, else pos is generic
+        updateText = data['updateText']
+        updateWord = updateText.split(',')[0]
+        if searchResult['error'] == 1 :
+            return searchResult
 
-        if len(word) == 0:
-            resultDict['error'] = 1
-            resultDict["message"] += "No Word Specified !!!"
-            return resultDict
+        if updateText == "" :
+            searchResult['error'] = 1
+            searchResult['message'] = "no new LEX content !!!"
+            return searchResult
 
-        if len(generic) == 0:
-            POS = domain
-        else:
-            POS = generic
+        if len(updateWord) < 0 :
+            searchResult['error'] = 1
+            searchResult['message'] = "ill formed LEX DIC entry !!!"
+            return searchResult
 
-        if len(POS) == 0:
-            resultDict['error'] = 1
-            resultDict["message"] += "No POS specified !!!"
-            return resultDict
+        if updateWord[0:len(word)] != word :
+            searchResult['error'] = 1
+            searchResult['message'] = "update entry word is different from the given word !!!"
+            return searchResult
 
-        newDomainPOS = ""
-        # general DIC: nn, vb, ...
-        # domain DIC: sPos == sNewPos
-
-        if POS not in self.CONVERT_POS:
-            newDomainPOS = POS
-        else:
-            newDomainPOS = self.CONVERT_POS[POS]
-
-        firstLetter = word[0].lower()
-
-        # make dictionary file name in KS DIC folder
-        folderName = ""
-        if POS not in self.FOLDER_Name:
-            folderName = "General"
-        else:
-            folderName = self.FOLDER_Name[POS]
-
-        KSDicFullFileName = self.KS_DIC_FOLDER + "\\" + folderName + "\\"
-        NDicFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\"
-        fileName = "dic"
-        if newDomainPOS not in ['pron', 'prep', 'conj']:
-            fileName += firstLetter
-        fileName += '.'
-        fileName += newDomainPOS
-
-        NDicFullFileName += fileName
-
-        KSDicFullFileName += fileName
-        KSDicFullFileName += '.txt'
-
-        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
-        # when KS Dic file doesn't exist, generate file from N Dic file
-        if not os.path.isfile(relativePath + KSDicFullFileName):
-            self.generateKSDicFile(folderName, fileName)
-            errorMSG = folderName + "\\" + fileName + " is generated !!!\n"
-            resultDict["message"] = errorMSG
-            # Print file generated massageBox
-
-        if not os.path.isfile(relativePath + KSDicFullFileName):
-            # print(KSDicFullFileName + " doesn't exist")
-            errorMSG = KSDicFullFileName + " doesn't exist"
-            resultDict['error'] = 1
-            resultDict["message"] += errorMSG
-            return resultDict
-            # process end
-        resultDict['file'] = open(relativePath + KSDicFullFileName)
-        return resultDict
-
-    def Search(self, data):
-        word = data['word']
-
-        key = "\"" + word + "\""
-
-        resultDict = self.openDicFile(data)
-        resultDict.update({"foundLine": 0, "nextEntryLine": 0})
-        if resultDict['error'] == 1:
-            return resultDict
-        # print(allReadLines)
-
-        allLines = resultDict['file'].readlines()
-        index = 0
-        # Is key in the list?
-        if key + "\n" in allLines:
-            index = allLines.index(key + "\n")
-        else:
-            # print(word + " is not in dictionary")
-            errorMSG = word + " is not in dictionary"
-            resultDict["error"] = 1
-            resultDict["message"] = errorMSG
-            return resultDict
-        resultDict['foundLine'] = index
-
-        # get key's means
-        resultDict['result'] = allLines[index]
-
-        length = 0
-        for reads in allLines[index + 1:]:
-            if (reads[0] == '"'):
-                break
-            else:
-                resultDict['result'] += reads
-                length += 1
-        resultDict['nextEntryLine'] = length + 1
-
-        return resultDict
-
-    def Update(self, replaceData):
-        searchResult = self.Search(replaceData)
-        searchResult.update({"result": "", "errors": ""})
-
-        # file offset reset
         searchResult['file'].seek(0)
         allLines = searchResult['file'].readlines()
+        keywordAllLines = [items.split(',')[0] for items in allLines] # keyword extraction
+
+        index = -1
+
+        for key in keywordAllLines :
+            if updateWord <= key :
+                index = keywordAllLines.index(key)
+                break
+
+        if index < 0 :
+            return searchResult
+
         updateData = []
 
-        # 수정 전의 부분
-        updateData += allLines[: searchResult['foundLine'] - 1]
-        # 수정 부분
-        for item in replaceData['updateText'].split("\n"):
-            updateData.append(item + "\n")  # split 과정중 사라진 \n을 붙여줌
-        # 수정 이후 부분
-        updateData += allLines[searchResult['foundLine'] + searchResult['nextEntryLine']:]
+        updateData += allLines[ : index]
 
-        domain = replaceData['domains']
-        generic = replaceData['generics']
-        word = replaceData['word']
 
-        if len(generic) == 0:
-            POS = domain
+        updateData.append(updateText)
+        if updateWord == keywordAllLines[index] :
+            updateData += allLines[index + 1 : ] # 갱신작업을 한것 = index를 저장하지 않고 넘어감
+        else :
+            updateData.append(allLines[index])
+            updateData += allLines[index + 1: ] # 추가한것 index 를 포함해 저장한다
+
+        writeFile = open(self.RELATIVE_PATH + self.LEX_DIC, "w")
+        writeFile.write("".join(updateData))
+
+        searchResult['result'] = "LEX DIC is updated !!!"
+        return searchResult
+
+
+    def probUpdate(self, data):
+        searchResult = self.probSearch(data)
+        word = data['word']
+        updateText = data['updateText']
+        updateWord = updateText.split(' ')[0]
+        if searchResult['error'] == 1:
+            return searchResult
+
+        if updateText == "":
+            searchResult['error'] = 1
+            searchResult['message'] = "no new Lex Prob content !!!"
+            return searchResult
+
+        if len(updateWord) < 0:
+            searchResult['error'] = 1
+            searchResult['message'] = "ill formed Lex Prob DIC entry !!!"
+            return searchResult
+
+        if updateWord[0:len(word)] != word:
+            searchResult['error'] = 1
+            searchResult['message'] = "update entry word is different from the given word !!!"
+            return searchResult
+
+        searchResult['file'].seek(0)
+        allLines = searchResult['file'].readlines()
+        keywordAllLines = [items.split(' ')[0] for items in allLines]  # keyword extraction
+
+        index = -1
+
+        for key in keywordAllLines:
+            if updateWord <= key:
+                index = keywordAllLines.index(key)
+                break
+
+        if index < 0:
+            return searchResult
+
+        updateData = []
+
+        updateData += allLines[: index]
+
+        updateData.append(updateText)
+        if updateWord == keywordAllLines[index]:
+            updateData += allLines[index + 1:]  # 갱신작업을 한것 = index를 저장하지 않고 넘어감
         else:
-            POS = generic
-        newDomainPOS = ""
-        if POS not in self.CONVERT_POS:
-            newDomainPOS = POS
-        else:
-            newDomainPOS = self.CONVERT_POS[POS]
-        firstLetter = word[0].lower()
-        # make dictionary file name in KS DIC folder
-        folderName = ""
-        if POS not in self.FOLDER_Name:
-            folderName = "General"
-        else:
-            folderName = self.FOLDER_Name[POS]
+            updateData.append(allLines[index])
+            updateData += allLines[index + 1:]  # 추가한것 index 를 포함해 저장한다
 
-        KSDicFullFileName = self.KS_DIC_FOLDER + "\\" + folderName + "\\"
-        NDicFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\"
-        fileName = "dic"
-        if newDomainPOS not in ['pron', 'prep', 'conj']:
-            fileName += firstLetter
-        fileName += '.'
-        fileName += newDomainPOS
+        writeFile = open(self.RELATIVE_PATH + self.LEX_PROB_DIC, "w")
+        writeFile.write("".join(updateData))
 
-        NDicFullFileName += fileName
-
-        KSDicFullFileName += fileName
-        KSDicFullFileName += '.txt'
-
-        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
-
-        txtFileName = "KS-DICT2\\" + folderName + "\\" + fileName + ".txt"
-        txtFile = open(relativePath + txtFileName, 'w')
-        txtFile.write("".join(updateData))
-
-        tmpFileName = 'tmp\\' + fileName + '.jh'
-
-        # ksExe = "EXE\\kscode.exe"
-        ksExe = "kscode.exe"
-        # ksArgument = "-jk " + fileName + ".jh" + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName + '.txt'
-        # process run kscode.exe (argument is ksArgument)
-        subprocess.run([relativePath + ksExe, "-kj", relativePath + txtFileName,
-                        relativePath + tmpFileName])
-
-        # cnExe = "EXE\\cn.exe"
-        cnExe = "cn.exe"
-        # cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
-        # process run cn.exe (argument is cnArgument)
-        subprocess.run([relativePath + cnExe, "-cn", relativePath + tmpFileName,
-                        relativePath + "N-DICT\\" + folderName + "\\" + fileName])
-
-        # sTxtFileName + " is created" + Environment.NewLine + "N-DICT\\" + sFolderName + "\\" + sFileName + " is created")
-        replaceData[
-            'result'] = txtFileName + " is created\n" + "N-DICT\\" + folderName + "\\" + fileName + " is created"
-
-        return replaceData
-
-    def generateKSDicFile(self, folderName, fileName):
-        alterFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\" + fileName
-        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
-        # cnExe = "EXE\\cn.exe"
-        cnExe = "cn.exe"
-        # cnArgument = "-nc " + alterFullFileName +  " " + fileName + ".jh"
-        # process run cn.exe (argument is cnArgument)
-        subprocess.run([relativePath + cnExe, "-nc", relativePath + alterFullFileName, relativePath + fileName + ".jh"])
-
-        # ksExe = "EXE\\kscode.exe"
-        ksExe = "kscode.exe"
-        # ksArgument = "-jk " + fileName + ".jh" + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName + '.txt'
-        # process run kscode.exe (argument is ksArgument)
-        subprocess.run([relativePath + ksExe, "-jk", relativePath + fileName + ".jh",
-                        relativePath + self.KS_DIC_FOLDER + "\\" + folderName + "\\" + fileName + '.txt'])
-
-        # FILE delete fileName+".jh"
-        removeFileName = relativePath + fileName + ".jh"
-        if os.path.isfile(removeFileName):
-            os.remove(removeFileName)
-
+        searchResult['result'] = "Lex Prob DIC is updated !!!"
+        return searchResult
 
 if __name__ == "__main__":
     testClass = lexicalDic()

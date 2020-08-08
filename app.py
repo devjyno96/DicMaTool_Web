@@ -61,7 +61,7 @@ def postLexSearch():
 def postLexUpdate():
     update = request.get_json()  # json 데이터를 받아옴
     result = lexical.lexUpdate(update)
-    # del result['file']
+    del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postProbSearch', methods=['POST'])
@@ -75,7 +75,7 @@ def postProbSearch():
 def postProbUpdate():
     update = request.get_json()  # json 데이터를 받아옴
     result = lexical.probUpdate(update)
-    # del result['file']
+    del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postMakeLexicalDB', methods=['POST'])
