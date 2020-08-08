@@ -78,7 +78,7 @@ function onLexClearButtonClick(){
 // input values initialize
 function onProbClearButtonClick(){
     dom.probWordInput.value = null;
-    dom.probDicInfoDetails.value = null;\
+    dom.probDicInfoDetails.value = null;
 }
 function onLexSearchButtonClick(){
     postLexSearch();

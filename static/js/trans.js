@@ -11,7 +11,9 @@ let dom = {
 
     dicInfoDetailsLeft : null,
     dicInfoDetailsRight : null,
-    dicInfoDetails : null
+    dicInfoDetails : null,
+
+    loadingBox: null
 };
 
 /**
@@ -31,12 +33,13 @@ function getDomReferences() {
     dom.domainPOSInput = document.getElementById("domainPOSInput");
     dom.searchButton = document.getElementById("searchButton");
     dom.clearButton = document.getElementById("clearButton");
-    // dom.dicInfoDetailsLeft = document.getElementById("dicInfoDetailsLeft");
-    // dom.dicInfoDetailsRight = document.getElementById("dicInfoDetailsRight");
+
     dom.dicInfoDetails = document.getElementById("dicInfoDetails");
     dom.updateButton = document.getElementById("updateButton");
     dom.makeGenericDBButton = document.getElementById("MakeGenericButton");
     dom.makeDomainDBButton = document.getElementById("MakeDomainButton");
+
+    dom.loadingBox = document.getElementById("loadingBox");
 }
 
 /**
@@ -59,6 +62,15 @@ function onClearButtonClick(){
     dom.dicInfoDetails.value = null;
 }
 
+// loading box function
+function showLoadingBox() {
+    dom.loadingBox.style.display = "inline-block";
+}
+
+function hideLoadingBox() {
+    dom.loadingBox.style.display = "none";
+}
+
 
 function onSearchButtonClick(){
     postSearch();
@@ -71,10 +83,12 @@ function onUpdateButtonClick(){
 
 
 function onMakeGenericDBButton(){
+    showLoadingBox();
     postMakeGenericDB();
 }
 
 function onMakeDomainDBButton(){
+    showLoadingBox();
     postMakeDomainDB();
 }
 
@@ -152,6 +166,7 @@ function postMakeGenericDB() {
         success: function (response) {
             // if error has data => show error msg alert
             dom.dicInfoDetails.value = response.result;
+            hideLoadingBox();
 /*
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
                 alert((response.errors));
@@ -180,6 +195,7 @@ function postMakeDomainDB() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
+            hideLoadingBox();
             alert(response.result);
 /*
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
