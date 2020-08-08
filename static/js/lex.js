@@ -93,9 +93,11 @@ function onProbUpdateButtonClick(){
     postProbUpdate();
 }
 function onMakeLexicalDBButton(){
+    showLoadingBox();
     postMakeLexicalDB();
 }
 function onMakeProbDBButton(){
+    showLoadingBox();
     postMakeProbDB();
 }
 
@@ -113,11 +115,11 @@ function postLexSearch() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
-            dom.dicInfoDetails.value = response.result;
+            dom.lexDicInfoDetails.value = response.result;
 
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
                 alert((response.errors));
-                dom.dicInfoDetails.value = response.errors;
+                dom.lexDicInfoDetails.value = response.errors;
             }
             // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
             //dom.dicInfoDetailsRight.value = response.dicInfoRight;
@@ -141,11 +143,11 @@ function postProbSearch() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
-            dom.dicInfoDetails.value = response.result;
+            dom.probDicInfoDetails.value = response.result;
 
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
                 alert((response.errors));
-                dom.dicInfoDetails.value = response.errors;
+                dom.probDicInfoDetails.value = response.errors;
             }
             // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
             //dom.dicInfoDetailsRight.value = response.dicInfoRight;
@@ -174,7 +176,7 @@ function postLexUpdate() {
             alert(response.result)
             if (typeof(response.error) == 1) {
                 alert((response.message));
-                dom.dicInfoDetails.value = "";
+                dom.lexDicInfoDetails.value = "";
             }
             // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
             //dom.dicInfoDetailsRight.value = response.dicInfoRight;
@@ -201,7 +203,7 @@ function postProbUpdate() {
             alert(response.result)
             if (typeof(response.error) == 1) {
                 alert((response.message));
-                dom.dicInfoDetails.value = "";
+                dom.probDicInfoDetails.value = "";
             }
             // dom.dicInfoDetailsLeft.value = response.dicInfoLeft;
             //dom.dicInfoDetailsRight.value = response.dicInfoRight;
@@ -213,7 +215,6 @@ function postProbUpdate() {
 }
 
 function postMakeLexicalDB() {
-
     $.ajax({
         type: "POST",
         url: "/postMakeLexicalDB",
@@ -222,7 +223,8 @@ function postMakeLexicalDB() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
-            dom.dicInfoDetails.value = response.result;
+            hideLoadingBox();
+            alert(response.result);
 /*
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
                 alert((response.errors));
@@ -238,11 +240,6 @@ function postMakeLexicalDB() {
 }
 
 function postMakeProbDB() {
-    var data = {
-        word : dom.wordInput.value,
-        generics : dom.genericPOSInput.value,
-        domains : dom.domainPOSInput.value
-    };
     $.ajax({
         type: "POST",
         url: "/postMakeProbDB",
@@ -251,6 +248,7 @@ function postMakeProbDB() {
         contentType: "application/json",
         success: function (response) {
             // if error has data => show error msg alert
+            hideLoadingBox();
             alert(response.result);
 /*
             if (typeof(response.errors) != "undefined" && response.errors.length != 0 ) {
