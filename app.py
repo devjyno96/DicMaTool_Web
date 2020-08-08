@@ -1,13 +1,13 @@
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
 import json
-from managementPython import TranferDicTool
+from managementPython import TranferDicTool, LexicalDicTool
 
 app = Flask(__name__)
 app.testing = True
 
 transfer = TranferDicTool.transferDic()
-
+lexical = LexicalDicTool.lexicalDic()
 
 @app.route('/')
 def viewIndex():
@@ -53,40 +53,39 @@ def postMakeDomainDB():
 @app.route('/postLexSearch', methods=['POST'])
 def postLexSearch():
     search = request.get_json()  # json 데이터를 받아옴
-    result = transfer.Search(search)
+    result = lexical.lexSearch(search)
     del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postLexUpdate', methods=['POST'])
 def postLexUpdate():
     update = request.get_json()  # json 데이터를 받아옴
-    result = transfer.Update(update)
+    result = lexical.lexUpdate(update)
     # del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postProbSearch', methods=['POST'])
 def postProbSearch():
     search = request.get_json()  # json 데이터를 받아옴
-    result = transfer.Search(search)
+    result = lexical.probSearch(search)
     del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postProbUpdate', methods=['POST'])
 def postProbUpdate():
     update = request.get_json()  # json 데이터를 받아옴
-    result = transfer.Update(update)
+    result = lexical.probUpdate(update)
     # del result['file']
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postMakeLexicalDB', methods=['POST'])
 def postMakeLexicalDB():
-    result = transfer.makeGenericDB()
+    result = lexical.makeLexicalDB()
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 @app.route('/postMakeProbDB', methods=['POST'])
 def postMakeProbDB():
-    data = request.get_json()  # json 데이터를 받아옴
-    result = transfer.makeDomainDB(data)
+    result = lexical.makeProbDB()
     return jsonify(result)  # 받아온 데이터를 다시 전송
 
 

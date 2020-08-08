@@ -5,7 +5,7 @@ import os
 class lexicalDic :
     KS_DIC_FOLDER = "KS-DICT"
     N_DIC_FOLDER = "N-DICT"
-
+    RELATIVE_PATH = "\\DicMaTool_Web\\managementPython\\EXE\\"
     """
     def __init__(self):
         print("init")
@@ -23,11 +23,42 @@ class lexicalDic :
     def probUpdate(self, data):
         print("lex Search")
 
-    def makeLexicalDB(self, data):
-        print("lex Search")
+    def makeLexicalDB(self):
+        resultDict = {"result": "", "error": 0}
 
-    def makeProbDB(self, data):
-        print("lex Search")
+        fileName = "makeTransDicDB.exe"
+        location = os.getcwd()
+        os.chdir(self.RELATIVE_PATH)
+        result = subprocess.run([self.RELATIVE_PATH + fileName], capture_output=True)
+        output = result.stdout.decode('utf-8')
+        os.chdir(location)
+
+        if "DB open error!" in output:
+            resultDict['result'] = "Make Lexical DB Error"
+            resultDict['error'] = 1
+            return resultDict
+
+        resultDict['result'] = "Lexical Dictionary DB is created !"
+        return resultDict
+
+
+    def makeProbDB(self):
+        resultDict = {"result": "", "error": 0}
+
+        fileName = "makeLexProbDicDB.exe"
+        location = os.getcwd()
+        os.chdir(self.RELATIVE_PATH)
+        result = subprocess.run([self.RELATIVE_PATH + fileName], capture_output=True)
+        output = result.stdout.decode('utf-8')
+        os.chdir(location)
+
+        if "DB open error!" in output:
+            resultDict['result'] = "Make Prob DB Error"
+            resultDict['error'] = 1
+            return resultDict
+
+        resultDict['result'] = "Lexical Prob Dictionary DB is created !"
+        return resultDict
 
     def openDicFile(self, data):
         resultDict = {"result": "", "error": 0, "message" : "",  "file" : None }
@@ -224,44 +255,6 @@ class lexicalDic :
         return replaceData
 
 
-
-    def makeGenericDB(self):
-        resultDict = {"result" : "", "error" : 0}
-
-        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
-        fileName = "makeTransDicDB.exe"
-        location = os.getcwd()
-        os.chdir(relativePath)
-        result = subprocess.run([relativePath + fileName], capture_output= True)
-        output = result.stdout.decode('utf-8')
-        os.chdir(location)
-
-        if "DB open error!" in output:
-            resultDict['result'] = "Make Generic DB Error"
-            resultDict['error'] = 1
-            return resultDict
-
-        resultDict['result'] = "Make Generic DB Complete"
-        return resultDict
-
-
-
-    def makeDomainDB(self, data):
-        resultDict = {"result" : "", "error" : 0}
-        domain = data['domains']
-
-        relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
-        fileName = "makeDomainDicDB.exe"
-
-        location = os.getcwd()
-        os.chdir(relativePath)
-        result = subprocess.run([fileName, domain[0:3]], capture_output= True)
-        output = result.stdout.decode('utf-8')
-        os.chdir(location)
-        resultDict['result'] = output + "\nDomain Dictionary DB " + domain + " is created !"
-        print(resultDict['result'])
-        return resultDict
-
     def generateKSDicFile(self, folderName, fileName):
         alterFullFileName = self.N_DIC_FOLDER + "\\" + folderName + "\\" + fileName
         relativePath = "\\DicMaTool_Web\\managementPython\\EXE\\"
@@ -287,3 +280,5 @@ if __name__ == "__main__" :
     testClass = lexicalDic()
     # testClass.makeGenericDB()
     testData = {'word': 'test'}
+    print(testClass.makeLexicalDB())
+    
