@@ -2,43 +2,33 @@ import subprocess
 import os
 
 
-class transferDic :
+class lexicalDic :
     KS_DIC_FOLDER = "KS-DICT"
     N_DIC_FOLDER = "N-DICT"
-    CONVERT_POS = {
-        "noun": "nn",
-        "verb": "vb",
-        "adj": "adj",
-        "adv": "adv",
-        "pron": "prn",
-        "conj": "cnj",
-        "prep": "prp"
-    }
-    FOLDER_Name = {
-            "nar" : "Airplane",
-            "arc" : "Architecture",
-            "atm" : "Atomic",
-            "ato" : "Auto",
-            "bio" : "Bio",
-            "jco" : "Computer-J",
-            "nco" : "Computer-N",
-            "nee" : "Economy-N",
-            "vee" : "Economy-V",
-            "ind" : "Industry",
-            "med" : "Medical",
-            "tac" : "Military",
-            "pat" : "Patent",
-            "npo" : "Politics",
-            "shp" : "Ship",
-            "nsp" : "Sports-N",
-            "vsp" : "Sports-V",
-            "tel" : "Telecom"
-        }
 
     """
     def __init__(self):
         print("init")
     """
+
+    def lexSearch(self, data):
+        print("lex Search")
+
+    def probSearch(self, data):
+        print("lex Search")
+
+    def lexUpdate(self, data):
+        print("lex Search")
+
+    def probUpdate(self, data):
+        print("lex Search")
+
+    def makeLexicalDB(self, data):
+        print("lex Search")
+
+    def makeProbDB(self, data):
+        print("lex Search")
+
     def openDicFile(self, data):
         resultDict = {"result": "", "error": 0, "message" : "",  "file" : None }
         word = data['word']
@@ -294,9 +284,6 @@ class transferDic :
 
 
 if __name__ == "__main__" :
-    testClass = transferDic()
+    testClass = lexicalDic()
     # testClass.makeGenericDB()
-    testData = {'word': 'test', 'generics': 'noun', 'domains': 'atm (atomic)'}
-    # testClass.Search(testData)
-    #testClass.Update(testData)
-    testClass.makeDomainDB(testData)
+    testData = {'word': 'test'}

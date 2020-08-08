@@ -22,6 +22,21 @@
 </head>
 <body style="padding-top : 70px;" onload="init()">
 
+<!-- loacing box -->
+<div id="loadingBox" class="fullScreen hideTest">
+    <table class="fullScreen">
+        <tr>
+            <td style="vertical-align: middle">
+                <div id="loadingMessage"class="roundedBox shownTest">
+                    <span>요청하신 작업을 수행중입니다.</span><br><br>
+                    <img id="wheel" src="../static/img/wheel.png">
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
@@ -134,7 +149,7 @@
     <script src="../static/js/jquery-3.4.1.js"></script>
     <script src="../static/js/download.js"></script>
     <script src="../static/js/lex.js"></script>
-
+    <link href="../static/css/loading.css"  rel="stylesheet" type="text/css" />
 
 </body>
 </html>

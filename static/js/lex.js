@@ -12,7 +12,9 @@ let dom = {
     probClearButton : null,
     probUpdateButton : null,
     probMakeLexicalDBButton : null,
-    probDicInfoDetails : null
+    probDicInfoDetails : null,
+
+    loadingBox: null
 };
 
 /**
@@ -40,13 +42,14 @@ function getDomReferences() {
     dom.probUpdateButton = document.getElementById("probUpdateButton");
     dom.probMakeLexicalDBButton = document.getElementById("MakeProbButton");
     dom.probDicInfoDetails = document.getElementById("probInfoDetails");
+
+    dom.loadingBox = document.getElementById("loadingBox");
 }
 
 /**
  * 이벤트 리스너를 등록한다.
  */
 function registerListeners() {
-
     dom.lexSearchButton.addEventListener("click", onLexSearchButtonClick);
     dom.lexClearButton.addEventListener("click", onLexClearButtonClick);
     dom.lexUpdateButton.addEventListener("click", onLexUpdateButtonClick);
@@ -56,8 +59,17 @@ function registerListeners() {
     dom.probClearButton.addEventListener("click", onProbClearButtonClick);
     dom.probUpdateButton.addEventListener("click", onProbUpdateButtonClick);
     dom.probMakeLexicalDBButton.addEventListener("click", onMakeProbDBButton);
-
 }
+
+// loading box function
+function showLoadingBox() {
+    dom.loadingBox.style.display = "inline-block";
+}
+
+function hideLoadingBox() {
+    dom.loadingBox.style.display = "none";
+}
+
 // input values initialize
 function onLexClearButtonClick(){
     dom.lexWordInput.value = null;
@@ -66,7 +78,7 @@ function onLexClearButtonClick(){
 // input values initialize
 function onProbClearButtonClick(){
     dom.probWordInput.value = null;
-    dom.probDicInfoDetails.value = null;
+    dom.probDicInfoDetails.value = null;\
 }
 function onLexSearchButtonClick(){
     postLexSearch();
